@@ -1869,6 +1869,7 @@ sp_api_500_10603	好友数已达上限， 因此无法再添加好友。
 sp_api_500_10604	对方的好友数已达上限。 无法同意好友申请。
 sp_api_500_10607	好友编号错误。 请再输入一次。
 sp_api_800_100001	请在连接通畅的环境下 再试一次。
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_sch.msbt
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	小龟宝可梦
 sp_option_addsdk_00001	关于用户信息的使用
 sp_option_addsdk_00002	为提高服务品质 （各项功能的优化、性能的稳定化 及提供适合用户的信息等服务）， Pokémon HOME将收集以下用户信息。  ・设备上应用的操作记录 ・与性能相关的错误信息 Pokémon HOME会依照隐私权政策 使用以上信息。  即使不同意上述内容， 你仍可使用Pokémon HOME。 要同意Pokémon HOME使用以上信息吗？
 sp_option_addsdk_00003	即使你不同意此条款， 仍然可以使用Pokémon HOME。
-sp_option_terms2	
+sp_option_terms2	用户协议
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt

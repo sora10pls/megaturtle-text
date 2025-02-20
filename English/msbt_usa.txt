@@ -1547,7 +1547,7 @@ sp_achstep_oth_s_0034	Participate in the 2021 JR East Pokémon Stamp Rally!
 sp_achstep_oth_s_0035	Complete all stations in the 2021 JR East Pokémon Stamp Rally!
 sp_achstep_oth_s_0036	See （えいがめい） in the theater!
 sp_achstep_oth_s_0037	See （えいがめい） in the theater!
-sp_achstep_oth_s_0038	Visit Pokémon Cafe!
+sp_achstep_oth_s_0038	Visit Pokémon Cafes!
 sp_achstep_oth_s_0039	Visit Pokémon Center OSAKA DX!
 sp_achstep_oth_s_0040	Change your user icon 10 times!
 sp_achstep_oth_s_0041	Withdraw Butterfree from Pokémon HOME!
@@ -1560,13 +1560,13 @@ sp_achstep_trd_000103	Trade 50 times using the GTS!
 sp_achstep_trd_000201	Trade 5 times using Room Trade!
 sp_achstep_trd_000202	Trade 25 times using Room Trade!
 sp_achstep_trd_000203	Trade 50 times using Room Trade!
-sp_achstep_trd_000301	Hold a Room Trade!
-sp_achstep_trd_000302	Hold 5 Room Trades!
-sp_achstep_trd_000303	Hold 20 Room Trades!
+sp_achstep_trd_000301	Host a Room Trade!
+sp_achstep_trd_000302	Host 5 Room Trades!
+sp_achstep_trd_000303	Host 20 Room Trades!
 sp_achstep_trd_000401	Trade 5 times using the Wonder Box!
 sp_achstep_trd_000402	Trade 25 times using the Wonder Box!
 sp_achstep_trd_000403	Trade 50 times using the Wonder Box!
-sp_achstep_trd_s_0001	Hold a Room Trade with 20 people in it!
+sp_achstep_trd_s_0001	Host a Room Trade with 20 people in it!
 sp_achstep_trd_s_0002	Deposit 10 Pokémon at once in the Wonder Box!
 sp_achstep_trd_s_0003	Trade Zangoose and Seviper!
 sp_achstep_trd_s_0004	Trade Solrock and Lunatone!
@@ -1594,14 +1594,14 @@ sp_ach_filter_01_02	Not completed
 sp_ach_tab_category_01	Other
 sp_ach_lib_s_0001	Register the guardian deities of Alola!
 sp_ach_lib_s_0002	Register 4 forms of Oricorio!
-sp_ach_lib_s_0003	Register all the first partner Pokémon that Trainers can choose in Alola!
-sp_ach_lib_s_0004	Register all the first partner Pokémon that Trainers can choose in Unova!
-sp_ach_lib_s_0005	Register all the first partner Pokémon that Trainers can choose in Kalos!
-sp_ach_lib_s_0006	Register all the first partner Pokémon that Trainers can choose in Kanto!
-sp_ach_lib_s_0007	Register all the first partner Pokémon that Trainers can choose in Johto!
-sp_ach_lib_s_0008	Register all the first partner Pokémon that Trainers can choose in Sinnoh!
-sp_ach_lib_s_0009	Register all the first partner Pokémon that Trainers can choose in Hoenn!
-sp_ach_lib_s_0010	Register all the first partner Pokémon that Trainers can choose in Galar!
+sp_ach_lib_s_0003	Register all the first-partner Pokémon that Trainers can choose in Alola!
+sp_ach_lib_s_0004	Register all the first-partner Pokémon that Trainers can choose in Unova!
+sp_ach_lib_s_0005	Register all the first-partner Pokémon that Trainers can choose in Kalos!
+sp_ach_lib_s_0006	Register all the first-partner Pokémon that Trainers can choose in Kanto!
+sp_ach_lib_s_0007	Register all the first-partner Pokémon that Trainers can choose in Johto!
+sp_ach_lib_s_0008	Register all the first-partner Pokémon that Trainers can choose in Sinnoh!
+sp_ach_lib_s_0009	Register all the first-partner Pokémon that Trainers can choose in Hoenn!
+sp_ach_lib_s_0010	Register all the first-partner Pokémon that Trainers can choose in Galar!
 sp_ach_lib_s_0011	Register 5 different species of Ultra Beast!
 sp_ach_lib_s_0012	Register 100 different species of Pokémon that live in the Alola region!
 sp_ach_lib_0001	Register Dark-type Pokémon!
@@ -1706,7 +1706,7 @@ sp_ach_oth_s_0041	Withdraw Butterfree from Pokémon HOME!
 sp_ach_oth_s_0042	Move Pokémon from Pokémon Bank!
 sp_ach_oth_s_0043	Save up 100 Pokémon HOME Points!
 sp_ach_oth_s_0044	Use voice recognition!
-sp_ach_oth_0001	Receive gifts through Mystery Gift!
+sp_ach_oth_0001	Receive presents through Mystery Gift!
 sp_ach_oth_0002	Gather stickers!
 sp_ach_oth_0003	Use Pokémon HOME!
 sp_ach_oth_0004	Create labels!
@@ -1869,6 +1869,7 @@ sp_api_500_10603	You've reached the maximum number of friends. You can't add any
 sp_api_500_10604	The other person has reached the max number of friends. The Friend Request couldn't be completed.
 sp_api_500_10607	The friend code is incorrect. Please enter the code again.
 sp_api_800_100001	Please try again in an environment with a better network connection.
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_usa.msbt
@@ -1954,13 +1955,13 @@ sp_friend_01013	Your code pattern
 sp_friend_02001	Approve Friend Request
 sp_friend_02002	Pending Friend Request
 sp_friend_03001	Nickname Settings
-sp_friend_03005	Incorrect Friend Code
+sp_friend_03005	Incorrect Friend Code.
 sp_friend_03006	That user is already your Friend!
 sp_friend_03007	You've already sent that user a Friend Request.
 sp_friend_03011	You've already received a Friend Request from this user.
 sp_friend_03008	This user has reached the maximum number of Friends.
 sp_friend_03009	Add this user to your Friend List?
-sp_friend_03010	Sent Friend Requests
+sp_friend_03010	You can't send a Friend Request to yourself.
 sp_friend_03012	Delete this Friend Request?
 sp_friend_dialogmsg_00	Remove this user from your Friend List?  Note: The user will not be notified.
 sp_friend_dialogmsg_01	Update Friend List
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	Tiny Turtle Pokémon
 sp_option_addsdk_00001	Usage of Your Information
 sp_option_addsdk_00002	The following information will be collected in an effort to continually improve Pokémon HOME services, specifically to optimize the mechanics and performance stability and to provide you with relevant content. • History of how you’ve used the application with your device • Performance errors and data analytics  This information will be used in accordance with the guidelines explained in the Privacy Notice.  You can use this application in full even if you elect not to share this information.  Will you agree to share your usage information?
 sp_option_addsdk_00003	You can use this application in full even if you elect to not share your usage information.
-sp_option_terms2	
+sp_option_terms2	Terms of Use
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2253,7 +2257,7 @@ sp_plan_not_Initalizing_text	Initializing billing system...
 sp_plan_help_button	Premium Plan help
 sp_plan_help_detail_button	■ About the Premium Plan A Premium Plan grants access to the following features. ・ Deposit and store up to 6,000 Pokémon ・ Move Pokémon over from Pokémon Bank Note: This requires linking with a Nintendo Account ・ Use the Judge function on a Pokémon's status screen ・ Deposit up to three Pokémon for trade in the GTS at a time ・ Deposit up to 10 Pokémon for trade in the Wonder Box at a time ・ Create rooms for Room Trades
 sp_plan_help_title	About subscriptions
-sp_plan_help_text	■Premium Plan features ・Move Pokémon over from Pokémon Bank. ・Deposit and store up to 6,000 Pokémon. ・Have up to 10 Pokémon up for trade in your Wonder Box at a time. ・Have up to three Pokémon up for trade on the GTS at a time. ・Create Room Trades. ・Gain access to the Judge function.  ■About automatic continuous billing Your plan will automatically renew unless automatic billing is canceled at least 24 hours before the plan's expiration. If renewal is not deactivated, you will be billed within 24 hours of your current plan's expiration.
+sp_plan_help_text	■ Premium Plan features ・ Move Pokémon over from Pokémon Bank ・ Deposit and store up to 6,000 Pokémon ・ Have up to 10 Pokémon up for trade in your Wonder Box at a time ・ Have up to three Pokémon up for trade on the GTS at a time ・ Create Room Trades ・ Gain access to the Judge function
 sp_plan_control_link_button	Manage plan renewal
 
 ~~~~~~~~~~~~~~~
@@ -2431,12 +2435,12 @@ sp_trade_firend_00002	Waiting for [VAR_PLAYER]...
 sp_trade_firend_00003	Waiting for connection...
 sp_trade_firend_00004	Trade
 sp_trade_firend_00005	Ready!
-sp_trade_firend_00006	Selected
+sp_trade_firend_00006	Selecting...
 sp_trade_firend_00007	Please turn on the GPS function.
 sp_trade_firend_00008	You're about to end the trade. Is this OK?
 sp_trade_gts_00001	Deposit Pokémon
 sp_trade_gts_00002	Search for Pokémon
-sp_trade_gts_00003	Pokémon you want
+sp_trade_gts_00003	Pokémon wanted
 sp_trade_gts_00004	Any
 sp_trade_gts_00005	Continue with these conditions
 sp_trade_gts_00006	Deposit
@@ -2449,7 +2453,7 @@ sp_trade_gts_00012	We couldn't find a trade partner for you.
 sp_trade_gts_00013	[VAR_PLAYER]'s info
 sp_trade_gts_00014	Offer as a trade
 sp_trade_gts_00015	You don't have a Pokémon that your partner wants.
-sp_trade_gts_00016	This Pokémon has been traded
+sp_trade_gts_00016	This Pokémon has been traded.
 sp_trade_gts_00017	Game you want to move it to
 sp_trade_gts_00018	Mint applied
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
@@ -2761,7 +2765,7 @@ sp_ui_seal_00004	Changes saved
 sp_ui_seal_00005	Registered to profile screen
 sp_ui_seal_00006	This sticker hasn't been used.
 sp_ui_seal_00007	No changes have been made.
-sp_ui_seal_00008	Wallpaper settings
+sp_ui_seal_00008	Binder settings
 sp_ui_seal_00009	Would you like to use this wallpaper?
 sp_ui_seal_00010	Remove stickers
 sp_ui_seal_00011	Would you like to return this sticker to your list?
@@ -2799,7 +2803,7 @@ sp_ui_gift_02007	Gift Box
 sp_ui_gift_empty_list	No Mystery Gifts found.
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Please enter a code.
-sp_ui_achieve_dialog_all_clear	Number accomplished: [VAR]
+sp_ui_achieve_dialog_all_clear	Completed
 sp_ui_achieve_dialog_header_title	Challenge Rewards
 sp_ui_achieve_sort_grade	Grade
 sp_ui_achieve_sort_title	Name

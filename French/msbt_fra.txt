@@ -1280,15 +1280,15 @@ sp_achstep_box_001203	Déposer 30 Pokémon contenus dans une Rapide Ball
 sp_achstep_box_001301	Déposer 5 Pokémon contenus dans une Sombre Ball
 sp_achstep_box_001302	Déposer 15 Pokémon contenus dans une Sombre Ball
 sp_achstep_box_001303	Déposer 30 Pokémon contenus dans une Sombre Ball
-sp_achstep_box_001401	Déposer 5 Pokémon contenus dans une Master Ball
-sp_achstep_box_001402	Déposer 15 Pokémon contenus dans une Master Ball
-sp_achstep_box_001403	Déposer 30 Pokémon contenus dans une Master Ball
+sp_achstep_box_001401	Déposer un Pokémon contenu dans une Master Ball
+sp_achstep_box_001402	Déposer 5 Pokémon contenus dans une Master Ball
+sp_achstep_box_001403	Déposer 10 Pokémon contenus dans une Master Ball
 sp_achstep_box_001501	Déposer 5 Pokémon contenus dans une Honor Ball
 sp_achstep_box_001502	Déposer 15 Pokémon contenus dans une Honor Ball
 sp_achstep_box_001503	Déposer 30 Pokémon contenus dans une Honor Ball
-sp_achstep_box_001601	Déposer 5 Pokémon contenus dans une Mémoire Ball
-sp_achstep_box_001602	Déposer 15 Pokémon contenus dans une Mémoire Ball
-sp_achstep_box_001603	Déposer 30 Pokémon contenus dans une Mémoire Ball
+sp_achstep_box_001601	Déposer un Pokémon contenu dans une Mémoire Ball
+sp_achstep_box_001602	Déposer 5 Pokémon contenus dans une Mémoire Ball
+sp_achstep_box_001603	Déposer 10 Pokémon contenus dans une Mémoire Ball
 sp_achstep_box_001701	Déposer 5 Pokémon contenus dans une Ultra Ball
 sp_achstep_box_001702	Déposer 15 Pokémon contenus dans une Ultra Ball
 sp_achstep_box_001703	Déposer 30 Pokémon contenus dans une Ultra Ball
@@ -1361,47 +1361,47 @@ sp_achstep_box_s_0033	Déposer 10 Pokémon Bizarres de nature
 sp_achstep_box_s_0034	Déposer 10 Pokémon Sérieux de nature
 sp_achstep_box_s_0035	Déposer 30 Pikachu
 sp_achstep_box_s_0036	Déposer 30 Métamorph
-sp_achstep_box_s_0037	Transférer un Pikachu de la région de Kanto
-sp_achstep_box_s_0038	Transférer un Évoli de la région de Kanto
-sp_achstep_box_s_0039	Transférer un Dracaufeu de la bonne vieille région de Kanto
-sp_achstep_box_s_0040	Transférer un Florizarre de la bonne vieille région de Kanto
-sp_achstep_box_s_0041	Transférer un Tortank de la bonne vieille région de Kanto
-sp_achstep_box_s_0042	Transférer un Pikachu de la bonne vieille région de Kanto
-sp_achstep_box_s_0043	Transférer Ho-Oh depuis une contrée lointaine et familière
-sp_achstep_box_s_0044	Transférer Lugia depuis une contrée lointaine et familière
-sp_achstep_box_s_0045	Transférer Suicune depuis une contrée lointaine et familière
-sp_achstep_box_s_0046	Transférer un Dracaufeu de la région de Kanto
-sp_achstep_box_s_0047	Transférer un Florizarre de la région de Kanto
-sp_achstep_box_s_0048	Transférer Ho-Oh depuis la région de Johto
-sp_achstep_box_s_0049	Transférer Lugia depuis la région de Johto
-sp_achstep_box_s_0050	Transférer Groudon depuis la bonne vieille région de Hoenn
-sp_achstep_box_s_0051	Transférer Kyogre depuis la bonne vieille région de Hoenn
-sp_achstep_box_s_0052	Transférer Rayquaza depuis la bonne vieille région de Hoenn
-sp_achstep_box_s_0053	Transférer Dialga depuis la région de Sinnoh
-sp_achstep_box_s_0054	Transférer Palkia depuis la région de Sinnoh
-sp_achstep_box_s_0055	Transférer Giratina depuis la région de Sinnoh
-sp_achstep_box_s_0056	Transférer Reshiram depuis la région d'Unys
-sp_achstep_box_s_0057	Transférer Zekrom depuis la région d'Unys
-sp_achstep_box_s_0058	Transférer Zekrom et Kyurem depuis la région d'Unys
-sp_achstep_box_s_0059	Transférer Reshiram et Kyurem depuis la région d'Unys
-sp_achstep_box_s_0060	Transférer Xerneas depuis la région de Kalos
-sp_achstep_box_s_0061	Transférer Yveltal depuis la région de Kalos
-sp_achstep_box_s_0062	Transférer Groudon depuis la région de Hoenn
-sp_achstep_box_s_0063	Transférer Kyogre depuis la région de Hoenn
-sp_achstep_box_s_0064	Transférer Solgaleo depuis la région d'Alola
-sp_achstep_box_s_0065	Transférer Lunala depuis la région d'Alola
-sp_achstep_box_s_0066	Transférer Solgaleo et Necrozma depuis la région d'Alola
-sp_achstep_box_s_0067	Transférer Lunala et Necrozma depuis la région d'Alola
-sp_achstep_box_s_0068	Transférer Zacian depuis la région de Galar
-sp_achstep_box_s_0069	Transférer Zamazenta depuis la région de Galar
-sp_achstep_box_s_0070	Déposer un Métalosse chromatique
-sp_achstep_box_s_0071	Transférer Rayquaza depuis la région de Hoenn
-sp_achstep_box_s_0072	Transférer Diancie de la région de Kalos
-sp_achstep_box_s_0073	Déposer un Ronflex pouvant utiliser Gare au Ronflex
-sp_achstep_box_s_0074	Transférer un Funécire de la région d'Unys
-sp_achstep_box_s_0075	Transférer un Évoli de la région d'Unys
-sp_achstep_box_s_0076	Déposer Meloetta
-sp_achstep_box_s_0077	Déposer un Genesect chromatique
+sp_achstep_box_s_0037	Enregistrer un Pikachu de la région de Kanto
+sp_achstep_box_s_0038	Enregistrer un Évoli de la région de Kanto
+sp_achstep_box_s_0039	Enregistrer un Dracaufeu de la bonne vieille région de Kanto
+sp_achstep_box_s_0040	Enregistrer un Florizarre de la bonne vieille région de Kanto
+sp_achstep_box_s_0041	Enregistrer un Tortank de la bonne vieille région de Kanto
+sp_achstep_box_s_0042	Enregistrer un Pikachu de la bonne vieille région de Kanto
+sp_achstep_box_s_0043	Enregistrer Ho-Oh, d'une contrée lointaine et familière
+sp_achstep_box_s_0044	Enregistrer Lugia, d'une contrée lointaine et familière
+sp_achstep_box_s_0045	Enregistrer Suicune, d'une contrée lointaine et familière
+sp_achstep_box_s_0046	Enregistrer un Dracaufeu de la région de Kanto
+sp_achstep_box_s_0047	Enregistrer un Florizarre de la région de Kanto
+sp_achstep_box_s_0048	Enregistrer Ho-Oh, de la région de Johto
+sp_achstep_box_s_0049	Enregistrer Lugia, de la région de Johto
+sp_achstep_box_s_0050	Enregistrer Groudon, de la bonne vieille région de Hoenn
+sp_achstep_box_s_0051	Enregistrer Kyogre, de la bonne vieille région de Hoenn
+sp_achstep_box_s_0052	Enregistrer Rayquaza, de la bonne vieille région de Hoenn
+sp_achstep_box_s_0053	Enregistrer Dialga, de la région de Sinnoh
+sp_achstep_box_s_0054	Enregistrer Palkia, de la région de Sinnoh
+sp_achstep_box_s_0055	Enregistrer Giratina, de la région de Sinnoh
+sp_achstep_box_s_0056	Enregistrer Reshiram, de la région d'Unys
+sp_achstep_box_s_0057	Enregistrer Zekrom, de la région d'Unys
+sp_achstep_box_s_0058	Enregistrer Zekrom et Kyurem, de la région d'Unys
+sp_achstep_box_s_0059	Enregistrer Reshiram et Kyurem, de la région d'Unys
+sp_achstep_box_s_0060	Enregistrer Xerneas, de la région de Kalos
+sp_achstep_box_s_0061	Enregistrer Yveltal, de la région de Kalos
+sp_achstep_box_s_0062	Enregistrer Groudon, de la région de Hoenn
+sp_achstep_box_s_0063	Enregistrer Kyogre, de la région de Hoenn
+sp_achstep_box_s_0064	Enregistrer Solgaleo, de la région d'Alola
+sp_achstep_box_s_0065	Enregistrer Lunala, de la région d'Alola
+sp_achstep_box_s_0066	Enregistrer Solgaleo et Necrozma, de la région d'Alola
+sp_achstep_box_s_0067	Enregistrer Lunala et Necrozma, de la région d'Alola
+sp_achstep_box_s_0068	Enregistrer Zacian, de la région de Galar
+sp_achstep_box_s_0069	Enregistrer Zamazenta, de la région de Galar
+sp_achstep_box_s_0070	Enregistrer un Métalosse chromatique
+sp_achstep_box_s_0071	Enregistrer Rayquaza, de la région de Hoenn
+sp_achstep_box_s_0072	Enregistrer Diancie, de la région de Kalos
+sp_achstep_box_s_0073	Enregistrer un Ronflex pouvant utiliser Gare au Ronflex
+sp_achstep_box_s_0074	Enregistrer un Funécire de la région d'Unys
+sp_achstep_box_s_0075	Enregistrer un Évoli de la région d'Unys
+sp_achstep_box_s_0076	Enregistrer Meloetta
+sp_achstep_box_s_0077	Enregistrer un Genesect chromatique
 sp_achstep_lib_000101	Enregistrer 5 Pokémon de type Ténèbres
 sp_achstep_lib_000102	Enregistrer 20 Pokémon de type Ténèbres
 sp_achstep_lib_000103	Enregistrer 50 Pokémon de type Ténèbres
@@ -1711,15 +1711,15 @@ sp_ach_oth_0002	Collectionner des autocollants
 sp_ach_oth_0003	Utiliser Pokémon HOME
 sp_ach_oth_0004	Créer des étiquettes
 sp_ach_oth_0005	Lire les annonces
-sp_ach_box_s_0001	Ramener un Arcko, un Poussifeu et un Gobou depuis la région de Hoenn
-sp_ach_box_s_0002	Ramener un Arcko, un Massko et un Jungko depuis la région de Hoenn
-sp_ach_box_s_0003	Ramener un Poussifeu, un Galifeu et un Braségali depuis la région de Hoenn
-sp_ach_box_s_0004	Ramener un Gobou, un Flobio et un Laggron depuis la région de Hoenn
-sp_ach_box_s_0005	Ramener Solgaleo, Lunala et Necrozma depuis la région d'Alola
-sp_ach_box_s_0006	Ramener Groudon et Kyogre depuis la région de Hoenn
-sp_ach_box_s_0007	Ramener Cosmog, Cosmovum, Solgaleo et Lunala depuis la région d'Alola
-sp_ach_box_s_0008	Ramener un Tortipouss, un Ouisticram et un Tiplouf depuis la région de Sinnoh
-sp_ach_box_s_0009	Ramener Dialga, Palkia et Giratina depuis la région de Sinnoh
+sp_ach_box_s_0001	Enregistrer un Arcko, un Poussifeu et un Gobou de la région de Hoenn
+sp_ach_box_s_0002	Enregistrer un Arcko, un Massko et un Jungko de la région de Hoenn
+sp_ach_box_s_0003	Enregistrer un Poussifeu, un Galifeu et un Braségali de la région de Hoenn
+sp_ach_box_s_0004	Enregistrer un Gobou, un Flobio et un Laggron de la région de Hoenn
+sp_ach_box_s_0005	Enregistrer Solgaleo, Lunala et Necrozma, de la région d'Alola
+sp_ach_box_s_0006	Enregistrer Groudon et Kyogre, de la région de Hoenn
+sp_ach_box_s_0007	Enregistrer Cosmog, Cosmovum, Solgaleo et Lunala, de la région d'Alola
+sp_ach_box_s_0008	Enregistrer un Tortipouss, un Ouisticram et un Tiplouf de la région de Sinnoh
+sp_ach_box_s_0009	Enregistrer Dialga, Palkia et Giratina, de la région de Sinnoh
 sp_ach_box_s_0010	Déposer 10 Pokémon Solo de nature
 sp_ach_box_s_0011	Déposer 10 Pokémon Rigides de nature
 sp_ach_box_s_0012	Déposer 10 Pokémon Mauvais de nature
@@ -1747,47 +1747,47 @@ sp_ach_box_s_0033	Déposer 10 Pokémon Bizarres de nature
 sp_ach_box_s_0034	Déposer 10 Pokémon Sérieux de nature
 sp_ach_box_s_0035	Déposer 30 Pikachu
 sp_ach_box_s_0036	Déposer 30 Métamorph
-sp_ach_box_s_0037	Transférer un Pikachu de la région de Kanto
-sp_ach_box_s_0038	Transférer un Évoli de la région de Kanto
-sp_ach_box_s_0039	Transférer un Dracaufeu de la bonne vieille région de Kanto
-sp_ach_box_s_0040	Transférer un Florizarre de la bonne vieille région de Kanto
-sp_ach_box_s_0041	Transférer un Tortank de la bonne vieille région de Kanto
-sp_ach_box_s_0042	Transférer un Pikachu de la bonne vieille région de Kanto
-sp_ach_box_s_0043	Transférer Ho-Oh depuis une contrée lointaine et familière
-sp_ach_box_s_0044	Transférer Lugia depuis une contrée lointaine et familière
-sp_ach_box_s_0045	Transférer Suicune depuis une contrée lointaine et familière
-sp_ach_box_s_0046	Transférer un Dracaufeu de la région de Kanto
-sp_ach_box_s_0047	Transférer un Florizarre de la région de Kanto
-sp_ach_box_s_0048	Transférer Ho-Oh depuis la région de Johto
-sp_ach_box_s_0049	Transférer Lugia depuis la région de Johto
-sp_ach_box_s_0050	Transférer Groudon depuis la bonne vieille région de Hoenn
-sp_ach_box_s_0051	Transférer Kyogre depuis la bonne vieille région de Hoenn
-sp_ach_box_s_0052	Transférer Rayquaza depuis la bonne vieille région de Hoenn
-sp_ach_box_s_0053	Transférer Dialga depuis la région de Sinnoh
-sp_ach_box_s_0054	Transférer Palkia depuis la région de Sinnoh
-sp_ach_box_s_0055	Transférer Giratina depuis la région de Sinnoh
-sp_ach_box_s_0056	Transférer Reshiram depuis la région d'Unys
-sp_ach_box_s_0057	Transférer Zekrom depuis la région d'Unys
-sp_ach_box_s_0058	Transférer Zekrom et Kyurem depuis la région d'Unys
-sp_ach_box_s_0059	Transférer Reshiram et Kyurem depuis la région d'Unys
-sp_ach_box_s_0060	Transférer Xerneas depuis la région de Kalos
-sp_ach_box_s_0061	Transférer Yveltal depuis la région de Kalos
-sp_ach_box_s_0062	Transférer Groudon depuis la région de Hoenn
-sp_ach_box_s_0063	Transférer Kyogre depuis la région de Hoenn
-sp_ach_box_s_0064	Transférer Solgaleo depuis la région d'Alola
-sp_ach_box_s_0065	Transférer Lunala depuis la région d'Alola
-sp_ach_box_s_0066	Transférer Solgaleo et Necrozma depuis la région d'Alola
-sp_ach_box_s_0067	Transférer Lunala et Necrozma depuis la région d'Alola
-sp_ach_box_s_0068	Transférer Zacian depuis la région de Galar
-sp_ach_box_s_0069	Transférer Zamazenta depuis la région de Galar
-sp_ach_box_s_0070	Déposer un Métalosse chromatique
-sp_ach_box_s_0071	Transférer Rayquaza depuis la région de Hoenn
-sp_ach_box_s_0072	Transférer Diancie de la région de Kalos
-sp_ach_box_s_0073	Déposer un Ronflex pouvant utiliser Gare au Ronflex
-sp_ach_box_s_0074	Transférer un Funécire de la région d'Unys
-sp_ach_box_s_0075	Transférer un Évoli de la région d'Unys
-sp_ach_box_s_0076	Déposer Meloetta
-sp_ach_box_s_0077	Déposer un Genesect chromatique
+sp_ach_box_s_0037	Enregistrer un Pikachu de la région de Kanto
+sp_ach_box_s_0038	Enregistrer un Évoli de la région de Kanto
+sp_ach_box_s_0039	Enregistrer un Dracaufeu de la bonne vieille région de Kanto
+sp_ach_box_s_0040	Enregistrer un Florizarre de la bonne vieille région de Kanto
+sp_ach_box_s_0041	Enregistrer un Tortank de la bonne vieille région de Kanto
+sp_ach_box_s_0042	Enregistrer un Pikachu de la bonne vieille région de Kanto
+sp_ach_box_s_0043	Enregistrer Ho-Oh, d'une contrée lointaine et familière
+sp_ach_box_s_0044	Enregistrer Lugia, d'une contrée lointaine et familière
+sp_ach_box_s_0045	Enregistrer Suicune, d'une contrée lointaine et familière
+sp_ach_box_s_0046	Enregistrer un Dracaufeu de la région de Kanto
+sp_ach_box_s_0047	Enregistrer un Florizarre de la région de Kanto
+sp_ach_box_s_0048	Enregistrer Ho-Oh, de la région de Johto
+sp_ach_box_s_0049	Enregistrer Lugia, de la région de Johto
+sp_ach_box_s_0050	Enregistrer Groudon, de la bonne vieille région de Hoenn
+sp_ach_box_s_0051	Enregistrer Kyogre, de la bonne vieille région de Hoenn
+sp_ach_box_s_0052	Enregistrer Rayquaza, de la bonne vieille région de Hoenn
+sp_ach_box_s_0053	Enregistrer Dialga, de la région de Sinnoh
+sp_ach_box_s_0054	Enregistrer Palkia, de la région de Sinnoh
+sp_ach_box_s_0055	Enregistrer Giratina, de la région de Sinnoh
+sp_ach_box_s_0056	Enregistrer Reshiram, de la région d'Unys
+sp_ach_box_s_0057	Enregistrer Zekrom, de la région d'Unys
+sp_ach_box_s_0058	Enregistrer Zekrom et Kyurem, de la région d'Unys
+sp_ach_box_s_0059	Enregistrer Reshiram et Kyurem, de la région d'Unys
+sp_ach_box_s_0060	Enregistrer Xerneas, de la région de Kalos
+sp_ach_box_s_0061	Enregistrer Yveltal, de la région de Kalos
+sp_ach_box_s_0062	Enregistrer Groudon, de la région de Hoenn
+sp_ach_box_s_0063	Enregistrer Kyogre, de la région de Hoenn
+sp_ach_box_s_0064	Enregistrer Solgaleo, de la région d'Alola
+sp_ach_box_s_0065	Enregistrer Lunala, de la région d'Alola
+sp_ach_box_s_0066	Enregistrer Solgaleo et Necrozma, de la région d'Alola
+sp_ach_box_s_0067	Enregistrer Lunala et Necrozma, de la région d'Alola
+sp_ach_box_s_0068	Enregistrer Zacian, de la région de Galar
+sp_ach_box_s_0069	Enregistrer Zamazenta, de la région de Galar
+sp_ach_box_s_0070	Enregistrer un Métalosse chromatique
+sp_ach_box_s_0071	Enregistrer Rayquaza, de la région de Hoenn
+sp_ach_box_s_0072	Enregistrer Diancie, de la région de Kalos
+sp_ach_box_s_0073	Enregistrer un Ronflex pouvant utiliser Gare au Ronflex
+sp_ach_box_s_0074	Enregistrer un Funécire de la région d'Unys
+sp_ach_box_s_0075	Enregistrer un Évoli de la région d'Unys
+sp_ach_box_s_0076	Enregistrer Meloetta
+sp_ach_box_s_0077	Enregistrer un Genesect chromatique
 sp_ach_box_0001	Déposer des Pokémon chromatiques
 sp_ach_box_0002	Déposer des Pokémon contenus dans une Poké Ball
 sp_ach_box_0003	Déposer des Pokémon contenus dans une Super Ball
@@ -1869,6 +1869,7 @@ sp_api_500_10603	Vous avez atteint le nombre maximal d'amis. Vous ne pouvez pas 
 sp_api_500_10604	Ce partenaire a atteint le nombre maximal d'amis. Vous ne pouvez pas accepter son invitation.
 sp_api_500_10607	Ce code ami est incorrect. Veuillez saisir un code valide.
 sp_api_800_100001	Veuillez réessayer dans un endroit avec une meilleure connexion.
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_fra.msbt
@@ -1960,7 +1961,7 @@ sp_friend_03007	Vous avez déjà envoyé une invitation à ce joueur.
 sp_friend_03011	Vous avez déjà reçu une invitation de la part de ce joueur.
 sp_friend_03008	Ce joueur a atteint le nombre maximum d'amis.
 sp_friend_03009	Voulez-vous accepter l'invitation de ce joueur ?
-sp_friend_03010	Invitations reçues
+sp_friend_03010	Vous ne pouvez pas vous envoyer d'invitation.
 sp_friend_03012	Voulez-vous supprimer cette invitation ?
 sp_friend_dialogmsg_00	Voulez-vous retirer ce joueur de votre liste d'amis ?  Attention : il ne sera pas informé de votre décision.
 sp_friend_dialogmsg_01	Mise à jour de la liste d'amis en cours...
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	Pokémon Minitortue
 sp_option_addsdk_00001	Utilisation de vos informations
 sp_option_addsdk_00002	Les informations suivantes seront récupérées afin de continuer à améliorer les services de Pokémon HOME (c'est-à-dire optimiser la performance et la stabilité de l'application et fournir des informations pertinentes) :  - Votre historique d'utilisation de l'application - Rapports d'erreur de performance  Ces informations seront utilisées conformément aux clauses indiquées dans l'avis de confidentialité.  Vous pouvez utiliser l'intégralité de cette application, même si vous choisissez de ne pas partager ces informations.  Acceptez-vous de partager les informations concernant votre utilisation de l'application ?
 sp_option_addsdk_00003	Vous pouvez utiliser l'intégralité de cette application, même si vous choisissez de ne pas partager les informations concernant votre utilisation de l'application.
-sp_option_terms2	
+sp_option_terms2	Conditions d'utilisation
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_fra.msbt
@@ -2251,9 +2255,9 @@ sp_plan_buy_failed_goto_title_text	Le paiement a échoué. Retour à l'écran ti
 sp_plan_not_Initalized_text	Le système d'achat intégré n'a pas été initialisé. Retour à l'écran titre.
 sp_plan_not_Initalizing_text	Initialisation du système d'achat intégré en cours...
 sp_plan_help_button	Aide (compte premium)
-sp_plan_help_detail_button	■À propos du compte premium Avec un compte premium, les fonctionnalités suivantes deviennent utilisables : ・ Déposer jusqu'à 6 000 Pokémon ・ Transférer des Pokémon depuis Banque Pokémon Note : l'association d'un compte Nintendo est nécessaire ・ Utiliser la fonction Juge depuis l'écran de résumé des Pokémon ・ Déposer jusqu'à 3 Pokémon en même temps sur le GTS ・ Déposer jusqu'à 10 Pokémon en même temps dans la Boîte Miracle ・ Créer des groupes pour procéder à des échanges en groupe
+sp_plan_help_detail_button	■À propos du compte premium Avec un compte premium, les fonctionnalités suivantes deviennent disponibles : ・ Déposer jusqu'à 6 000 Pokémon ・ Transférer des Pokémon depuis Banque Pokémon Note : l'association d'un compte Nintendo est nécessaire ・ Utiliser la fonction Juge depuis l'écran de résumé des Pokémon ・ Déposer jusqu'à 3 Pokémon en même temps sur le GTS ・ Déposer jusqu'à 10 Pokémon en même temps dans la Boîte Miracle ・ Créer des groupes pour procéder à des échanges en groupe
 sp_plan_help_title	À propos des souscriptions
-sp_plan_help_text	■ Ce que vous pouvez faire avec un compte premium : ・ Transférer des Pokémon depuis Banque Pokémon ・ Déposer jusqu'à 6 000 Pokémon ・ Déposer jusqu'à 10 Pokémon en même temps dans la Boîte Miracle ・ Déposer jusqu'à 3 Pokémon en même temps sur le GTS ・ Faire des échanges en groupe ・ Utiliser la fonction Juge   ■ Renouvellement automatique de l'abonnement Si vous n'avez pas annulé le renouvellement automatique avant les 24 heures précédant l'expiration de votre abonnement, votre abonnement sera automatiquement renouvelé. Les frais de renouvellement automatique sont prélevés dans les 24 heures suivant la fin de la période d'abonnement.
+sp_plan_help_text	■ Ce que vous pouvez faire avec un compte premium : ・ Transférer des Pokémon depuis Banque Pokémon ・ Déposer jusqu'à 6 000 Pokémon ・ Déposer jusqu'à 10 Pokémon en même temps dans la Boîte Miracle ・ Déposer jusqu'à 3 Pokémon en même temps sur le GTS ・ Faire des échanges en groupe ・ Utiliser la fonction Juge 
 sp_plan_control_link_button	Gérer le renouvellement 
 
 ~~~~~~~~~~~~~~~
@@ -2590,11 +2594,11 @@ sp_ui_nintendoswitch	Nintendo Switch
 sp_ui_smartphone	Appareil mobile
 sp_ui_oak	Big Chen
 sp_ui_monbo	Boball
-sp_ui_authorization_microphone_error	Vous n'avez pas donné la permission au logiciel d'accéder à votre microphone. Veuillez donner cette permission.
+sp_ui_authorization_microphone_error	Vous n'avez pas autorisé l'application à accéder à votre microphone. Veuillez autoriser l'accès au microphone.
 sp_ui_init_microphone_error	Aucun microphone utilisable n'a été détecté. Veuillez vérifier que votre microphone n'est pas actuellement utilisé par une autre application.
 sp_ui_authorization_speech_error_less_ios10	La reconnaissance vocale est disponible sur iOS 10 ou plus.
-sp_ui_authorization_camera_error	Vous n'avez pas donné la permission au logiciel d'accéder à l'appareil photo. Veuillez donner cette permission.
-sp_ui_authorization_speech_error	Vous n'avez pas donné la permission au logiciel d'accéder à la reconnaissance vocale. Veuillez donner cette permission.
+sp_ui_authorization_camera_error	Vous n'avez pas autorisé l'application à accéder à l'appareil photo. Veuillez autoriser l'accès à l'appareil photo.
+sp_ui_authorization_speech_error	Vous n'avez pas autorisé l'application à accéder à la reconnaissance vocale. Veuillez en autoriser l'accès.
 sp_ui_secret	???
 sp_ui_title_menu_02	FAQ
 sp_ui_title_menu_04	Service client
@@ -2773,7 +2777,7 @@ sp_ui_seal_filter_02_01	Autocollants à retirer
 sp_ui_seal_empty_list	Aucun autocollant.
 sp_ui_gift_00001	Distribution locale
 sp_ui_gift_00002	Codes
-sp_ui_gift_00005	Codes-barre 2D
+sp_ui_gift_00005	Code-barres 2D
 sp_ui_gift_00004	Type
 sp_ui_gift_00006	Validité : [VAR]
 sp_ui_gift_00007	Récupéré
@@ -2799,7 +2803,7 @@ sp_ui_gift_02007	Boîte Cadeau
 sp_ui_gift_empty_list	Aucun Cadeau Mystère.
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Veuillez saisir un code.
-sp_ui_achieve_dialog_all_clear	Accompli : [VAR] fois
+sp_ui_achieve_dialog_all_clear	Accompli
 sp_ui_achieve_dialog_header_title	Récompenses
 sp_ui_achieve_sort_grade	Grade
 sp_ui_achieve_sort_title	Ordre alphabétique

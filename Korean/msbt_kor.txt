@@ -1869,6 +1869,7 @@ sp_api_500_10603	친구 수가 가득 차서 더 등록할 수 없습니다
 sp_api_500_10604	상대의 친구 수가 가득 차서 친구 승인을 하지 못했습니다
 sp_api_500_10607	친구 코드가 틀립니다 다시 한번 입력해 주십시오
 sp_api_800_100001	통신 환경이 좋은 장소에서 다시 시도해 주십시오
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_kor.msbt
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	꼬마거북포켓몬
 sp_option_addsdk_00001	정보 이용에 대해서
 sp_option_addsdk_00002	Pokémon HOME은 서비스 향상 (각 기능의 최적화, 퍼포먼스 안정화, 고객님께 알맞은 정보 제공 등을 의미합니다) 을 위해 아래 정보를 수집합니다  ・디바이스에서의 앱 조작 이력 ・퍼포먼스와 관련된 에러 이 정보는 개인정보 처리방침에 준거하여 이용합니다  위 내용에 동의하지 않아도 Pokémon HOME을 이용할 수 있습니다 정보 이용에 대해 동의하겠습니까?
 sp_option_addsdk_00003	동의하지 않아도 Pokémon HOME을 이용할 수 있습니다
-sp_option_terms2	
+sp_option_terms2	이용 약관
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt

@@ -1869,6 +1869,7 @@ sp_api_500_10603	Has alcanzado el número máximo de amigos, por lo que no puede
 sp_api_500_10604	No has podido aceptar la solicitud de amistad porque el otro usuario ha alcanzado el número máximo de amigos.
 sp_api_500_10607	La clave de amigo es incorrecta. Comprueba la clave y vuelve a introducirla.
 sp_api_800_100001	Comprueba tu conexión e inténtalo de nuevo en un sitio en el que la señal sea más estable.
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_esp.msbt
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	Pokémon Tortuguita
 sp_option_addsdk_00001	Uso de datos
 sp_option_addsdk_00002	Se recopilarán los siguientes datos con el objetivo de seguir mejorando los servicios de Pokémon HOME, optimizar su funcionamiento y estabilidad, así como proporcionar contenido relevante:  ・Historial del uso de la aplicación en tu dispositivo. ・Errores de funcionamiento y análisis de datos.  Estos datos se utilizarán de acuerdo con las normas detalladas en la política de privacidad.  Podrás utilizar todas las funciones de esta aplicación aunque optes por no compartir estos datos.  ¿Aceptas compartir tus datos de uso de la aplicación?
 sp_option_addsdk_00003	Podrás utilizar todas las funciones de esta aplicación aunque optes por no compartir tus datos de uso.
-sp_option_terms2	
+sp_option_terms2	Condiciones de uso
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
@@ -2253,7 +2257,7 @@ sp_plan_not_Initalizing_text	Inicializando el método de pago...
 sp_plan_help_button	Ayuda sobre el plan prémium
 sp_plan_help_detail_button	■Acerca del plan prémium El plan prémium permite realizar las siguientes operaciones: ・Depositar hasta 6000 Pokémon. ・Trasladar Pokémon desde el Banco de Pokémon. (Es necesario vincular una cuenta Nintendo para utilizar esta función). ・Usar la función Juez en la pantalla de datos de los Pokémon. ・Ofrecer hasta tres Pokémon a la vez en el GTS. ・Depositar hasta diez Pokémon a la vez en la caja prodigiosa. ・Crear grupos para realizar intercambios en grupo.
 sp_plan_help_title	Acerca de las suscripciones
-sp_plan_help_text	■Qué puedes hacer con el plan prémium ・Trasladar Pokémon desde el Banco de Pokémon. ・Depositar hasta 6000 Pokémon. ・Depositar hasta diez Pokémon a la vez en la caja prodigiosa. ・Ofrecer hasta tres Pokémon a la vez en el GTS. ・Crear grupos para realizar intercambios en grupo. ・Usar la función Juez.  ■Pago de la renovación automática Si la renovación automática no se cancela al menos 24 horas antes de la hora de expiración de la suscripción, esta se renovará automáticamente. El pago de la renovación automática se efectuará dentro de un plazo de 24 horas después de la misma.
+sp_plan_help_text	■Qué puedes hacer con el plan prémium ・Trasladar Pokémon desde el Banco de Pokémon. ・Depositar hasta 6000 Pokémon. ・Depositar hasta diez Pokémon a la vez en la caja prodigiosa. ・Ofrecer hasta tres Pokémon a la vez en el GTS. ・Crear grupos para realizar intercambios en grupo. ・Usar la función Juez.
 sp_plan_control_link_button	Gestión de la suscripción
 
 ~~~~~~~~~~~~~~~
@@ -2356,35 +2360,35 @@ sp_trade_00004	Caja prodigiosa Pokémon poco comunes intercambiados
 sp_trade_00006	Destacados
 sp_trade_00007	Ascendiendo rápidamente
 sp_trade_00008	Recopilando datos...
-sp_trade_01001	 [VAR_PKNAME] ha sido seleccionado.
+sp_trade_01001	[VAR_PKNAME] ha sido seleccionado.
 sp_trade_01002	Datos
 sp_trade_01003	No puedes seleccionar Pokémon depositados en el GTS.
 sp_trade_01004	No puedes seleccionar Pokémon depositados en la caja prodigiosa.
 sp_trade_01005	No puedes hacer eso.
 sp_trade_01006	No puedes seleccionar Pokémon marcados como favoritos.
-sp_trade_02001	 [VAR_PKNAME] se enviará a [VAR_PLAYER]. ¡Adiós, [VAR_PKNAME]!
+sp_trade_02001	[VAR_PKNAME] se enviará a [VAR_PLAYER]. ¡Adiós, [VAR_PKNAME]!
 sp_trade_02002	¡[VAR_PLAYER] te ha enviado este [VAR_PKNAME]!
-sp_trade_02003	¡Aquí está  [VAR_PKNAME]! ¡Cuídalo bien!
-sp_trade_02004	 [VAR_PKNAME] se depositará en el GTS. ¡Adiós, [VAR_PKNAME]!
-sp_trade_02005	 [VAR_PKNAME] ha venido del GTS.
+sp_trade_02003	¡Aquí está [VAR_PKNAME]! ¡Cuídalo bien!
+sp_trade_02004	[VAR_PKNAME] se depositará en el GTS. ¡Adiós, [VAR_PKNAME]!
+sp_trade_02005	[VAR_PKNAME] ha venido del GTS.
 sp_trade_02006	Has retirado a [VAR_PKNAME].
 sp_trade_02007	¡Hola de nuevo, [VAR_PKNAME]!
-sp_trade_02008	 [VAR_PKNAME] se depositará en la caja prodigiosa. ¡Adiós, [VAR_PKNAME]!
-sp_trade_02009	 [VAR_PKNAME] ha venido de la caja prodigiosa.
+sp_trade_02008	[VAR_PKNAME] se depositará en la caja prodigiosa. ¡Adiós, [VAR_PKNAME]!
+sp_trade_02009	[VAR_PKNAME] ha venido de la caja prodigiosa.
 sp_trade_03001	Se ha producido un error. Regresarás al menú de intercambios.
 sp_trade_03002	Se ha producido un error de conexión. Regresarás al menú de intercambios.
 sp_trade_03003	Total mundial:
 sp_trade_03004	Clasificación de intercambios
 sp_trade_03005	Este es un Pokémon especial, por lo que no puedes intercambiarlo.
 sp_trade_03006	Se ha producido un error. Inténtalo de nuevo más tarde.
-sp_trade_miracle_00001	 [VAR_PKNAME] ha sido seleccionado.
+sp_trade_miracle_00001	[VAR_PKNAME] ha sido seleccionado.
 sp_trade_miracle_00002	Depositar
 sp_trade_miracle_00003	Datos
 sp_trade_miracle_00004	Retirar
 sp_trade_miracle_00005	No puedes seleccionar Pokémon depositados en el GTS.
 sp_trade_miracle_00006	No puedes seleccionar Pokémon depositados en la caja prodigiosa.
 sp_trade_miracle_00007	¿Quieres retirar a [VAR_PKNAME] de la caja prodigiosa?
-sp_trade_miracle_00008	 [VAR_PKNAME] ya ha sido intercambiado.
+sp_trade_miracle_00008	[VAR_PKNAME] ya ha sido intercambiado.
 sp_trade_miracle_00010	¡Intercambio completado!
 sp_trade_miracle_00011	Se ha producido un error en el registro. Inténtalo de nuevo más tarde.
 sp_trade_miracle_change_plan_confirm	Es necesario cambiar al plan prémium para poder depositar Pokémon en todos los espacios de la caja. ¿Quieres cambiar el plan actual?
@@ -2431,7 +2435,7 @@ sp_trade_firend_00002	Esperando a [VAR_PLAYER]...
 sp_trade_firend_00003	Esperando conexión...
 sp_trade_firend_00004	Intercambiar
 sp_trade_firend_00005	Todo listo
-sp_trade_firend_00006	Seleccionado
+sp_trade_firend_00006	Eligiendo Pokémon...
 sp_trade_firend_00007	Activa el GPS de tu dispositivo.
 sp_trade_firend_00008	Se finalizará el intercambio. ¿Quieres continuar?
 sp_trade_gts_00001	Depositar Pokémon
@@ -2799,7 +2803,7 @@ sp_ui_gift_02007	Caja de regalos
 sp_ui_gift_empty_list	No hay regalos misteriosos.
 sp_ui_gift_03001	Código
 sp_ui_gift_03002	Introduce un código.
-sp_ui_achieve_dialog_all_clear	Cantidad total: [VAR]
+sp_ui_achieve_dialog_all_clear	COMPLETADO
 sp_ui_achieve_dialog_header_title	Recompensa
 sp_ui_achieve_sort_grade	Rango
 sp_ui_achieve_sort_title	Nombre

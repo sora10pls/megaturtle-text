@@ -1869,6 +1869,7 @@ sp_api_500_10603	由於朋友人數已達上限， 無法再繼續登錄。
 sp_api_500_10604	對方的朋友人數已達上限。 無法同意朋友申請。
 sp_api_500_10607	朋友編號錯誤。 請重新輸入。
 sp_api_800_100001	請在連線穩定的 環境下再試一次。
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_tch.msbt
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	小龜寶可夢
 sp_option_addsdk_00001	關於用戶資訊的使用
 sp_option_addsdk_00002	為提升服務品質 （包含各項功能的最佳化、 程式運作的穩定化及提供適合用戶的資訊等）， Pokémon HOME會使用以下資訊。  ・在裝置上應用程式的操作履歷 ・程式運行的相關錯誤 Pokémon HOME會遵照 隱私權政策來使用以上資訊。  即使你不同意Pokémon HOME使用以上資訊， 仍然可以使用本應用程式。 要同意Pokémon HOME使用以上資訊嗎？
 sp_option_addsdk_00003	即使你不同意此條款， 仍然可以使用Pokémon HOME。
-sp_option_terms2	
+sp_option_terms2	使用條款
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt

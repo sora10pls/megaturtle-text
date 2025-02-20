@@ -1325,15 +1325,15 @@ sp_achstep_box_002703	Lagere 30 Pokémon, die sich in Levelbällen befinden!
 sp_achstep_box_002801	Lagere 30 Pokémon!
 sp_achstep_box_002802	Lagere 100 Pokémon!
 sp_achstep_box_002803	Lagere 300 Pokémon!
-sp_achstep_box_s_0001	Bring ein Geckarbor, ein Flemmli und ein Hydropi aus der Hoenn-Region mit!
-sp_achstep_box_s_0002	Bring ein Geckarbor, ein Reptain und ein Gewaldro aus der Hoenn-Region mit!
-sp_achstep_box_s_0003	Bring ein Flemmli, ein Jungglut und ein Lohgock aus der Hoenn-Region mit!
-sp_achstep_box_s_0004	Bring ein Hydropi, ein Moorabbel und ein Sumpex aus der Hoenn-Region mit!
-sp_achstep_box_s_0005	Bring ein Solgaleo, ein Lunala und ein Necrozma aus der Alola-Region mit!
-sp_achstep_box_s_0006	Bring ein Groudon und ein Kyogre aus der Hoenn-Region mit!
-sp_achstep_box_s_0007	Bring ein Cosmog, ein Cosmovum, ein Solgaleo und ein Lunala aus der Alola-Region mit!
-sp_achstep_box_s_0008	Bring ein Chelast, ein Panflam und ein Plinfa aus der Sinnoh-Region mit!
-sp_achstep_box_s_0009	Bring ein Dialga, ein Palkia und ein Giratina aus der Sinnoh-Region mit!
+sp_achstep_box_s_0001	Registriere ein Geckarbor, ein Flemmli und ein Hydropi aus der Hoenn-Region!
+sp_achstep_box_s_0002	Registriere ein Geckarbor, ein Reptain und ein Gewaldro aus der Hoenn-Region!
+sp_achstep_box_s_0003	Registriere ein Flemmli, ein Jungglut und ein Lohgock aus der Hoenn-Region!
+sp_achstep_box_s_0004	Registriere ein Hydropi, ein Moorabbel und ein Sumpex aus der Hoenn-Region!
+sp_achstep_box_s_0005	Registriere ein Solgaleo, ein Lunala und ein Necrozma aus der Alola-Region!
+sp_achstep_box_s_0006	Registriere ein Groudon und ein Kyogre aus der Hoenn-Region!
+sp_achstep_box_s_0007	Registriere ein Cosmog, ein Cosmovum, ein Solgaleo und ein Lunala aus der Alola-Region!
+sp_achstep_box_s_0008	Registriere ein Chelast, ein Panflam und ein Plinfa aus der Sinnoh-Region!
+sp_achstep_box_s_0009	Registriere ein Dialga, ein Palkia und ein Giratina aus der Sinnoh-Region!
 sp_achstep_box_s_0010	Lagere 10 Pokémon mit dem Wesen „Solo“!
 sp_achstep_box_s_0011	Lagere 10 Pokémon mit dem Wesen „Hart“!
 sp_achstep_box_s_0012	Lagere 10 Pokémon mit dem Wesen „Frech“!
@@ -1361,47 +1361,47 @@ sp_achstep_box_s_0033	Lagere 10 Pokémon mit dem Wesen „Kauzig“!
 sp_achstep_box_s_0034	Lagere 10 Pokémon mit dem Wesen „Ernst“!
 sp_achstep_box_s_0035	Lagere 30 Pikachu!
 sp_achstep_box_s_0036	Lagere 30 Ditto!
-sp_achstep_box_s_0037	Bring ein Pikachu aus der Kanto-Region mit!
-sp_achstep_box_s_0038	Bring ein Evoli aus der Kanto-Region mit!
-sp_achstep_box_s_0039	Bring ein Glurak aus der altbekannten Kanto-Region mit!
-sp_achstep_box_s_0040	Bring ein Bisaflor aus der altbekannten Kanto-Region mit!
-sp_achstep_box_s_0041	Bring ein Turtok aus der altbekannten Kanto-Region mit!
-sp_achstep_box_s_0042	Bring ein Pikachu aus der altbekannten Kanto-Region mit!
-sp_achstep_box_s_0043	Bring ein Ho-Oh aus einer altbekannten, weit entfernten Region mit!
-sp_achstep_box_s_0044	Bring ein Lugia aus einer altbekannten, weit entfernten Region mit!
-sp_achstep_box_s_0045	Bring ein Suicune aus einer altbekannten, weit entfernten Region mit!
-sp_achstep_box_s_0046	Bring ein Glurak aus der Kanto-Region mit!
-sp_achstep_box_s_0047	Bring ein Bisaflor aus der Kanto-Region mit!
-sp_achstep_box_s_0048	Bring ein Ho-Oh aus der Johto-Region mit!
-sp_achstep_box_s_0049	Bring ein Lugia aus der Johto-Region mit!
-sp_achstep_box_s_0050	Bring ein Groudon aus der altbekannten Hoenn-Region mit!
-sp_achstep_box_s_0051	Bring ein Kyogre aus der altbekannten Hoenn-Region mit!
-sp_achstep_box_s_0052	Bring ein Rayquaza aus der altbekannten Hoenn-Region mit!
-sp_achstep_box_s_0053	Bring ein Dialga aus der Sinnoh-Region mit!
-sp_achstep_box_s_0054	Bring ein Palkia aus der Sinnoh-Region mit!
-sp_achstep_box_s_0055	Bring ein Giratina aus der Sinnoh-Region mit!
-sp_achstep_box_s_0056	Bring ein Reshiram aus der Einall-Region mit!
-sp_achstep_box_s_0057	Bring ein Zekrom aus der Einall-Region mit!
-sp_achstep_box_s_0058	Bring ein Zekrom und ein Kyurem aus der Einall-Region mit!
-sp_achstep_box_s_0059	Bring ein Reshiram und ein Kyurem aus der Einall-Region mit!
-sp_achstep_box_s_0060	Bring ein Xerneas aus der Kalos-Region mit!
-sp_achstep_box_s_0061	Bring ein Yveltal aus der Kalos-Region mit!
-sp_achstep_box_s_0062	Bring ein Groudon aus der Hoenn-Region mit!
-sp_achstep_box_s_0063	Bring ein Kyogre aus der Hoenn-Region mit!
-sp_achstep_box_s_0064	Bring ein Solgaleo aus der Alola-Region mit!
-sp_achstep_box_s_0065	Bring ein Lunala aus der Alola-Region mit!
-sp_achstep_box_s_0066	Bring ein Solgaleo und ein Necrozma aus der Alola-Region mit!
-sp_achstep_box_s_0067	Bring ein Lunala und ein Necrozma aus der Alola-Region mit!
-sp_achstep_box_s_0068	Bring ein Zacian aus der Galar-Region mit!
-sp_achstep_box_s_0069	Bring ein Zamazenta aus der Galar-Region mit!
-sp_achstep_box_s_0070	Lagere ein Schillerndes Metagross!
-sp_achstep_box_s_0071	Bring ein Rayquaza aus der Hoenn-Region mit!
-sp_achstep_box_s_0072	Bring ein Diancie aus der Kalos-Region mit!
-sp_achstep_box_s_0073	Lagere ein Relaxo, das Schluss mit lustig macht!
-sp_achstep_box_s_0074	Bring ein Lichtel aus der Einall-Region mit!
-sp_achstep_box_s_0075	Bring ein Evoli aus der Einall-Region mit!
-sp_achstep_box_s_0076	Lagere ein Meloetta!
-sp_achstep_box_s_0077	Lagere ein Schillerndes Genesect!
+sp_achstep_box_s_0037	Registriere ein Pikachu aus der Kanto-Region!
+sp_achstep_box_s_0038	Registriere ein Evoli aus der Kanto-Region!
+sp_achstep_box_s_0039	Registriere ein Glurak aus der altbekannten Kanto-Region!
+sp_achstep_box_s_0040	Registriere ein Bisaflor aus der altbekannten Kanto-Region!
+sp_achstep_box_s_0041	Registriere ein Turtok aus der altbekannten Kanto-Region!
+sp_achstep_box_s_0042	Registriere ein Pikachu aus der altbekannten Kanto-Region!
+sp_achstep_box_s_0043	Registriere ein Ho-Oh aus einer altbekannten, weit entfernten Region!
+sp_achstep_box_s_0044	Registriere ein Lugia aus einer altbekannten, weit entfernten Region!
+sp_achstep_box_s_0045	Registriere ein Suicune aus einer altbekannten, weit entfernten Region!
+sp_achstep_box_s_0046	Registriere ein Glurak aus der Kanto-Region!
+sp_achstep_box_s_0047	Registriere ein Bisaflor aus der Kanto-Region!
+sp_achstep_box_s_0048	Registriere ein Ho-Oh aus der Johto-Region!
+sp_achstep_box_s_0049	Registriere ein Lugia aus der Johto-Region!
+sp_achstep_box_s_0050	Registriere ein Groudon aus der altbekannten Hoenn-Region!
+sp_achstep_box_s_0051	Registriere ein Kyogre aus der altbekannten Hoenn-Region!
+sp_achstep_box_s_0052	Registriere ein Rayquaza aus der altbekannten Hoenn-Region!
+sp_achstep_box_s_0053	Registriere ein Dialga aus der Sinnoh-Region!
+sp_achstep_box_s_0054	Registriere ein Palkia aus der Sinnoh-Region!
+sp_achstep_box_s_0055	Registriere ein Giratina aus der Sinnoh-Region!
+sp_achstep_box_s_0056	Registriere ein Reshiram aus der Einall-Region!
+sp_achstep_box_s_0057	Registriere ein Zekrom aus der Einall-Region!
+sp_achstep_box_s_0058	Registriere ein Zekrom und ein Kyurem aus der Einall-Region!
+sp_achstep_box_s_0059	Registriere ein Reshiram und ein Kyurem aus der Einall-Region!
+sp_achstep_box_s_0060	Registriere ein Xerneas aus der Kalos-Region!
+sp_achstep_box_s_0061	Registriere ein Yveltal aus der Kalos-Region!
+sp_achstep_box_s_0062	Registriere ein Groudon aus der Hoenn-Region!
+sp_achstep_box_s_0063	Registriere ein Kyogre aus der Hoenn-Region!
+sp_achstep_box_s_0064	Registriere ein Solgaleo aus der Alola-Region!
+sp_achstep_box_s_0065	Registriere ein Lunala aus der Alola-Region!
+sp_achstep_box_s_0066	Registriere ein Solgaleo und ein Necrozma aus der Alola-Region!
+sp_achstep_box_s_0067	Registriere ein Lunala und ein Necrozma aus der Alola-Region!
+sp_achstep_box_s_0068	Registriere ein Zacian aus der Galar-Region!
+sp_achstep_box_s_0069	Registriere ein Zamazenta aus der Galar-Region!
+sp_achstep_box_s_0070	Registriere ein Schillerndes Metagross!
+sp_achstep_box_s_0071	Registriere ein Rayquaza aus der Hoenn-Region!
+sp_achstep_box_s_0072	Registriere ein Diancie aus der Kalos-Region!
+sp_achstep_box_s_0073	Registriere ein Relaxo, das Schluss mit lustig macht!
+sp_achstep_box_s_0074	Registriere ein Lichtel aus der Einall-Region!
+sp_achstep_box_s_0075	Registriere ein Evoli aus der Einall-Region!
+sp_achstep_box_s_0076	Registriere ein Meloetta!
+sp_achstep_box_s_0077	Registriere ein Schillerndes Genesect!
 sp_achstep_lib_000101	Registriere 5 unterschiedliche Pokémon vom Typ Unlicht!
 sp_achstep_lib_000102	Registriere 20 unterschiedliche Pokémon vom Typ Unlicht!
 sp_achstep_lib_000103	Registriere 50 unterschiedliche Pokémon vom Typ Unlicht!
@@ -1711,15 +1711,15 @@ sp_ach_oth_0002	Sammle Sticker!
 sp_ach_oth_0003	Nutze Pokémon HOME!
 sp_ach_oth_0004	Erstelle Labels!
 sp_ach_oth_0005	Überprüfe die Neuigkeiten!
-sp_ach_box_s_0001	Bring ein Geckarbor, ein Flemmli und ein Hydropi aus der Hoenn-Region mit!
-sp_ach_box_s_0002	Bring ein Geckarbor, ein Reptain und ein Gewaldro aus der Hoenn-Region mit!
-sp_ach_box_s_0003	Bring ein Flemmli, ein Jungglut und ein Lohgock aus der Hoenn-Region mit!
-sp_ach_box_s_0004	Bring ein Hydropi, ein Moorabbel und ein Sumpex aus der Hoenn-Region mit!
-sp_ach_box_s_0005	Bring ein Solgaleo, ein Lunala und ein Necrozma aus der Alola-Region mit!
-sp_ach_box_s_0006	Bring ein Groudon und ein Kyogre aus der Hoenn-Region mit!
-sp_ach_box_s_0007	Bring ein Cosmog, ein Cosmovum, ein Solgaleo und ein Lunala aus der Alola-Region mit!
-sp_ach_box_s_0008	Bring ein Chelast, ein Panflam und ein Plinfa aus der Sinnoh-Region mit!
-sp_ach_box_s_0009	Bring ein Dialga, ein Palkia und ein Giratina aus der Sinnoh-Region mit!
+sp_ach_box_s_0001	Registriere ein Geckarbor, ein Flemmli und ein Hydropi aus der Hoenn-Region!
+sp_ach_box_s_0002	Registriere ein Geckarbor, ein Reptain und ein Gewaldro aus der Hoenn-Region!
+sp_ach_box_s_0003	Registriere ein Flemmli, ein Jungglut und ein Lohgock aus der Hoenn-Region!
+sp_ach_box_s_0004	Registriere ein Hydropi, ein Moorabbel und ein Sumpex aus der Hoenn-Region!
+sp_ach_box_s_0005	Registriere ein Solgaleo, ein Lunala und ein Necrozma aus der Alola-Region!
+sp_ach_box_s_0006	Registriere ein Groudon und ein Kyogre aus der Hoenn-Region!
+sp_ach_box_s_0007	Registriere ein Cosmog, ein Cosmovum, ein Solgaleo und ein Lunala aus der Alola-Region!
+sp_ach_box_s_0008	Registriere ein Chelast, ein Panflam und ein Plinfa aus der Sinnoh-Region!
+sp_ach_box_s_0009	Registriere ein Dialga, ein Palkia und ein Giratina aus der Sinnoh-Region!
 sp_ach_box_s_0010	Lagere 10 Pokémon mit dem Wesen „Solo“!
 sp_ach_box_s_0011	Lagere 10 Pokémon mit dem Wesen „Hart“!
 sp_ach_box_s_0012	Lagere 10 Pokémon mit dem Wesen „Frech“!
@@ -1747,47 +1747,47 @@ sp_ach_box_s_0033	Lagere 10 Pokémon mit dem Wesen „Kauzig“!
 sp_ach_box_s_0034	Lagere 10 Pokémon mit dem Wesen „Ernst“!
 sp_ach_box_s_0035	Lagere 30 Pikachu!
 sp_ach_box_s_0036	Lagere 30 Ditto!
-sp_ach_box_s_0037	Bring ein Pikachu aus der Kanto-Region mit!
-sp_ach_box_s_0038	Bring ein Evoli aus der Kanto-Region mit!
-sp_ach_box_s_0039	Bring ein Glurak aus der altbekannten Kanto-Region mit!
-sp_ach_box_s_0040	Bring ein Bisaflor aus der altbekannten Kanto-Region mit!
-sp_ach_box_s_0041	Bring ein Turtok aus der altbekannten Kanto-Region mit!
-sp_ach_box_s_0042	Bring ein Pikachu aus der altbekannten Kanto-Region mit!
-sp_ach_box_s_0043	Bring ein Ho-Oh aus einer altbekannten, weit entfernten Region mit!
-sp_ach_box_s_0044	Bring ein Lugia aus einer altbekannten, weit entfernten Region mit!
-sp_ach_box_s_0045	Bring ein Suicune aus einer altbekannten, weit entfernten Region mit!
-sp_ach_box_s_0046	Bring ein Glurak aus der Kanto-Region mit!
-sp_ach_box_s_0047	Bring ein Bisaflor aus der Kanto-Region mit!
-sp_ach_box_s_0048	Bring ein Ho-Oh aus der Johto-Region mit!
-sp_ach_box_s_0049	Bring ein Lugia aus der Johto-Region mit!
-sp_ach_box_s_0050	Bring ein Groudon aus der altbekannten Hoenn-Region mit!
-sp_ach_box_s_0051	Bring ein Kyogre aus der altbekannten Hoenn-Region mit!
-sp_ach_box_s_0052	Bring ein Rayquaza aus der altbekannten Hoenn-Region mit!
-sp_ach_box_s_0053	Bring ein Dialga aus der Sinnoh-Region mit!
-sp_ach_box_s_0054	Bring ein Palkia aus der Sinnoh-Region mit!
-sp_ach_box_s_0055	Bring ein Giratina aus der Sinnoh-Region mit!
-sp_ach_box_s_0056	Bring ein Reshiram aus der Einall-Region mit!
-sp_ach_box_s_0057	Bring ein Zekrom aus der Einall-Region mit!
-sp_ach_box_s_0058	Bring ein Zekrom und ein Kyurem aus der Einall-Region mit!
-sp_ach_box_s_0059	Bring ein Reshiram und ein Kyurem aus der Einall-Region mit!
-sp_ach_box_s_0060	Bring ein Xerneas aus der Kalos-Region mit!
-sp_ach_box_s_0061	Bring ein Yveltal aus der Kalos-Region mit!
-sp_ach_box_s_0062	Bring ein Groudon aus der Hoenn-Region mit!
-sp_ach_box_s_0063	Bring ein Kyogre aus der Hoenn-Region mit!
-sp_ach_box_s_0064	Bring ein Solgaleo aus der Alola-Region mit!
-sp_ach_box_s_0065	Bring ein Lunala aus der Alola-Region mit!
-sp_ach_box_s_0066	Bring ein Solgaleo und ein Necrozma aus der Alola-Region mit!
-sp_ach_box_s_0067	Bring ein Lunala und ein Necrozma aus der Alola-Region mit!
-sp_ach_box_s_0068	Bring ein Zacian aus der Galar-Region mit!
-sp_ach_box_s_0069	Bring ein Zamazenta aus der Galar-Region mit!
-sp_ach_box_s_0070	Lagere ein Schillerndes Metagross!
-sp_ach_box_s_0071	Bring ein Rayquaza aus der Hoenn-Region mit!
-sp_ach_box_s_0072	Bring ein Diancie aus der Kalos-Region mit!
-sp_ach_box_s_0073	Lagere ein Relaxo, das Schluss mit lustig macht!
-sp_ach_box_s_0074	Bring ein Lichtel aus der Einall-Region mit!
-sp_ach_box_s_0075	Bring ein Evoli aus der Einall-Region mit!
-sp_ach_box_s_0076	Lagere ein Meloetta!
-sp_ach_box_s_0077	Lagere ein Schillerndes Genesect!
+sp_ach_box_s_0037	Registriere ein Pikachu aus der Kanto-Region!
+sp_ach_box_s_0038	Registriere ein Evoli aus der Kanto-Region!
+sp_ach_box_s_0039	Registriere ein Glurak aus der altbekannten Kanto-Region!
+sp_ach_box_s_0040	Registriere ein Bisaflor aus der altbekannten Kanto-Region!
+sp_ach_box_s_0041	Registriere ein Turtok aus der altbekannten Kanto-Region!
+sp_ach_box_s_0042	Registriere ein Pikachu aus der altbekannten Kanto-Region!
+sp_ach_box_s_0043	Registriere ein Ho-Oh aus einer altbekannten, weit entfernten Region!
+sp_ach_box_s_0044	Registriere ein Lugia aus einer altbekannten, weit entfernten Region!
+sp_ach_box_s_0045	Registriere ein Suicune aus einer altbekannten, weit entfernten Region!
+sp_ach_box_s_0046	Registriere ein Glurak aus der Kanto-Region!
+sp_ach_box_s_0047	Registriere ein Bisaflor aus der Kanto-Region!
+sp_ach_box_s_0048	Registriere ein Ho-Oh aus der Johto-Region!
+sp_ach_box_s_0049	Registriere ein Lugia aus der Johto-Region!
+sp_ach_box_s_0050	Registriere ein Groudon aus der altbekannten Hoenn-Region!
+sp_ach_box_s_0051	Registriere ein Kyogre aus der altbekannten Hoenn-Region!
+sp_ach_box_s_0052	Registriere ein Rayquaza aus der altbekannten Hoenn-Region!
+sp_ach_box_s_0053	Registriere ein Dialga aus der Sinnoh-Region!
+sp_ach_box_s_0054	Registriere ein Palkia aus der Sinnoh-Region!
+sp_ach_box_s_0055	Registriere ein Giratina aus der Sinnoh-Region!
+sp_ach_box_s_0056	Registriere ein Reshiram aus der Einall-Region!
+sp_ach_box_s_0057	Registriere ein Zekrom aus der Einall-Region!
+sp_ach_box_s_0058	Registriere ein Zekrom und ein Kyurem aus der Einall-Region!
+sp_ach_box_s_0059	Registriere ein Reshiram und ein Kyurem aus der Einall-Region!
+sp_ach_box_s_0060	Registriere ein Xerneas aus der Kalos-Region!
+sp_ach_box_s_0061	Registriere ein Yveltal aus der Kalos-Region!
+sp_ach_box_s_0062	Registriere ein Groudon aus der Hoenn-Region!
+sp_ach_box_s_0063	Registriere ein Kyogre aus der Hoenn-Region!
+sp_ach_box_s_0064	Registriere ein Solgaleo aus der Alola-Region!
+sp_ach_box_s_0065	Registriere ein Lunala aus der Alola-Region!
+sp_ach_box_s_0066	Registriere ein Solgaleo und ein Necrozma aus der Alola-Region!
+sp_ach_box_s_0067	Registriere ein Lunala und ein Necrozma aus der Alola-Region!
+sp_ach_box_s_0068	Registriere ein Zacian aus der Galar-Region!
+sp_ach_box_s_0069	Registriere ein Zamazenta aus der Galar-Region!
+sp_ach_box_s_0070	Registriere ein Schillerndes Metagross!
+sp_ach_box_s_0071	Registriere ein Rayquaza aus der Hoenn-Region!
+sp_ach_box_s_0072	Registriere ein Diancie aus der Kalos-Region!
+sp_ach_box_s_0073	Registriere ein Relaxo, das Schluss mit lustig macht!
+sp_ach_box_s_0074	Registriere ein Lichtel aus der Einall-Region!
+sp_ach_box_s_0075	Registriere ein Evoli aus der Einall-Region!
+sp_ach_box_s_0076	Registriere ein Meloetta!
+sp_ach_box_s_0077	Registriere ein Schillerndes Genesect!
 sp_ach_box_0001	Lagere Schillernde Pokémon!
 sp_ach_box_0002	Lagere Pokémon, die sich in einem Pokéball befinden!
 sp_ach_box_0003	Lagere Pokémon, die sich in einem Superball befinden!
@@ -1869,6 +1869,7 @@ sp_api_500_10603	Du kannst keine weiteren Nutzer als Freunde hinzufügen, da dei
 sp_api_500_10604	Du kannst die Freundschaftsanfrage dieses Nutzers nicht akzeptieren, da seine Freundesliste voll ist.
 sp_api_500_10607	Der eingegebene Freundescode ist nicht korrekt. Bitte versuche es erneut.
 sp_api_800_100001	Bitte begib dich in eine Umgebung mit besserer Netzwerkverbindung und versuche es erneut.
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_deu.msbt
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	Minikröten-Pokémon
 sp_option_addsdk_00001	Über die Nutzung deiner Daten
 sp_option_addsdk_00002	Die folgenden Daten werden erhoben, um den Service von Pokémon HOME zu optimieren, insbesondere um die Funktionsweise und Stabilität zu verbessern und dich mit relevanten Informationen zu versorgen.  ・ Nutzungsverlauf der Anwendung auf deinem Gerät ・ Funktionsfehler und Datenanalysen  Diese Informationen werden gemäß den Richtlinien verwendet, die in der Datenschutzerklärung erläutert werden.  Du kannst diese Anwendung in vollem Umfang verwenden, selbst wenn du dich entscheidest, diese Informationen nicht zu teilen.  Stimmst du zu, deine Nutzungsinformationen zu teilen?
 sp_option_addsdk_00003	Du kannst Pokémon HOME in vollem Umfang nutzen, auch wenn du nicht zustimmst, deine Nutzungsinformationen zu teilen.
-sp_option_terms2	
+sp_option_terms2	Nutzungsbedingungen
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -2253,7 +2257,7 @@ sp_plan_not_Initalizing_text	Zahlungssystem wird eingerichtet...
 sp_plan_help_button	Hilfe zum Premium-Service
 sp_plan_help_detail_button	■ Der Premium-Service Mit dem Premium-Service stehen dir die folgenden Funktionen zur Verfügung:  ・ Lagere bis zu 6 000 Pokémon in Pokémon HOME.  ・ Transferiere Pokémon aus Pokémon Bank auf Pokémon HOME. (Für diesen Vorgang muss ein Nintendo-Account verknüpft werden.)  ・ Greife in der Pokémon-Detailansicht auf die Richter-Funktion zu.  ・ Biete über das Global Trade System (GTS) bis zu drei Pokémon gleichzeitig zum Tausch an.  ・ Lege bis zu zehn Pokémon gleichzeitig in der Wunderbox ab.  ・ Erstelle Gruppen, um einen Gruppentausch durchzuführen.
 sp_plan_help_title	Über Abonnements
-sp_plan_help_text	■ Vorteile des Premium-Services  ・ Transferiere Pokémon aus Pokémon Bank auf Pokémon HOME.  ・ Lagere bis zu 6 000 Pokémon in Pokémon HOME.  ・ Lege bis zu zehn Pokémon gleichzeitig in der Wunderbox ab.  ・ Biete über das Global Trade System (GTS) bis zu drei Pokémon gleichzeitig zum Tausch an.  ・ Erstelle Gruppen, um einen Gruppentausch durchzuführen.  ・ Greife auf die Richter-Funktion zu.  ■ Zahlung durch automatische Erneuerung Wird die automatische Erneuerung nicht innerhalb 24 Stunden vor Ablauf des Services deaktiviert, wird der Service automatisch erneuert. Solange die automatische Erneuerung nicht deaktiviert ist, wird der Service binnen 24 Stunden nach Ablauf des aktuellen Services in Rechnung gestellt.
+sp_plan_help_text	■ Vorteile des Premium-Services  ・ Transferiere Pokémon aus Pokémon Bank auf Pokémon HOME.  ・ Lagere bis zu 6 000 Pokémon in Pokémon HOME.  ・ Lege bis zu zehn Pokémon gleichzeitig in der Wunderbox ab.  ・ Biete über das Global Trade System (GTS) bis zu drei Pokémon gleichzeitig zum Tausch an.  ・ Erstelle Gruppen, um einen Gruppentausch durchzuführen.  ・ Greife auf die Richter-Funktion zu.
 sp_plan_control_link_button	Service-Erneuerung verwalten
 
 ~~~~~~~~~~~~~~~
@@ -2761,7 +2765,7 @@ sp_ui_seal_00004	Änderungen gespeichert!
 sp_ui_seal_00005	Im Profil gespeichert!
 sp_ui_seal_00006	Dieser Sticker wurde noch nicht verwendet.
 sp_ui_seal_00007	Keine Änderungen vorgenommen
-sp_ui_seal_00008	Hintergrund-Einstellungen
+sp_ui_seal_00008	Stickeralbum
 sp_ui_seal_00009	Diesen Hintergrund benutzen?
 sp_ui_seal_00010	Sticker entfernen
 sp_ui_seal_00011	Den Sticker in die Liste zurücklegen?
@@ -2799,7 +2803,7 @@ sp_ui_gift_02007	Geschenkbox
 sp_ui_gift_empty_list	Keine Geheimgeschenke vorhanden
 sp_ui_gift_03001	Seriencode
 sp_ui_gift_03002	Bitte gib einen Seriencode ein.
-sp_ui_achieve_dialog_all_clear	Erreicht: [VAR]
+sp_ui_achieve_dialog_all_clear	GESCHAFFT!
 sp_ui_achieve_dialog_header_title	Belohnung
 sp_ui_achieve_sort_grade	Stufe
 sp_ui_achieve_sort_title	Titel
@@ -2835,7 +2839,7 @@ sp_ui_notice_empty_list	Keine Neuigkeiten vorhanden
 sp_ui_voice_input	Mikrofon-Input wird überprüft...
 sp_ui_voice_input_error	Ein Fehler ist aufgetreten.  Berühre das Mikrofon-Symbol, um es erneut zu versuchen.
 sp_ui_recognizer_limit_error	Die tägliche maximale Anzahl für Nutzungen der Spracheingabe wurde erreicht.
-sp_ui_myroom_point_number	[VAR]
+sp_ui_myroom_point_number	[VAR] P
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

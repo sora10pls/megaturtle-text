@@ -1325,15 +1325,15 @@ sp_achstep_box_002703	Deposita 30 Pokémon contenuti in una Level Ball!
 sp_achstep_box_002801	Deposita 30 Pokémon!
 sp_achstep_box_002802	Deposita 100 Pokémon!
 sp_achstep_box_002803	Deposita 300 Pokémon!
-sp_achstep_box_s_0001	Trasferisci un Treecko, un Torchic e un Mudkip dalla regione di Hoenn!
-sp_achstep_box_s_0002	Trasferisci un Treecko, un Grovyle e uno Sceptile dalla regione di Hoenn!
-sp_achstep_box_s_0003	Trasferisci un Torchic, un Combusken e un Blaziken dalla regione di Hoenn!
-sp_achstep_box_s_0004	Trasferisci un Mudkip, un Marshtomp e uno Swampert dalla regione di Hoenn!
-sp_achstep_box_s_0005	Trasferisci un Solgaleo, un Lunala e un Necrozma dalla regione di Alola!
-sp_achstep_box_s_0006	Trasferisci un Groudon e un Kyogre dalla regione di Hoenn!
-sp_achstep_box_s_0007	Trasferisci un Cosmog, un Cosmoem, un Solgaleo e un Lunala dalla regione di Alola!
-sp_achstep_box_s_0008	Trasferisci un Turtwig, un Chimchar e un Piplup dalla regione di Sinnoh!
-sp_achstep_box_s_0009	Trasferisci un Dialga, un Palkia e un Giratina dalla regione di Sinnoh!
+sp_achstep_box_s_0001	Registra un Treecko, un Torchic e un Mudkip della regione di Hoenn!
+sp_achstep_box_s_0002	Registra un Treecko, un Grovyle e uno Sceptile della regione di Hoenn!
+sp_achstep_box_s_0003	Registra un Torchic, un Combusken e un Blaziken della regione di Hoenn!
+sp_achstep_box_s_0004	Registra un Mudkip, un Marshtomp e uno Swampert della regione di Hoenn!
+sp_achstep_box_s_0005	Registra un Solgaleo, un Lunala e un Necrozma della regione di Alola!
+sp_achstep_box_s_0006	Registra un Groudon e un Kyogre della regione di Hoenn!
+sp_achstep_box_s_0007	Registra un Cosmog, un Cosmoem, un Solgaleo e un Lunala della regione di Alola!
+sp_achstep_box_s_0008	Registra un Turtwig, un Chimchar e un Piplup della regione di Sinnoh!
+sp_achstep_box_s_0009	Registra un Dialga, un Palkia e un Giratina della regione di Sinnoh!
 sp_achstep_box_s_0010	Deposita 10 Pokémon di natura Schiva!
 sp_achstep_box_s_0011	Deposita 10 Pokémon di natura Decisa!
 sp_achstep_box_s_0012	Deposita 10 Pokémon di natura Birbona!
@@ -1361,47 +1361,47 @@ sp_achstep_box_s_0033	Deposita 10 Pokémon di natura Furba!
 sp_achstep_box_s_0034	Deposita 10 Pokémon di natura Seria!
 sp_achstep_box_s_0035	Deposita 30 Pikachu!
 sp_achstep_box_s_0036	Deposita 30 Ditto!
-sp_achstep_box_s_0037	Trasferisci un Pikachu dalla regione di Kanto!
-sp_achstep_box_s_0038	Trasferisci un Eevee dalla regione di Kanto!
-sp_achstep_box_s_0039	Trasferisci un Charizard dalla cara vecchia regione di Kanto!
-sp_achstep_box_s_0040	Trasferisci un Venusaur dalla cara vecchia regione di Kanto!
-sp_achstep_box_s_0041	Trasferisci un Blastoise dalla cara vecchia regione di Kanto!
-sp_achstep_box_s_0042	Trasferisci un Pikachu dalla cara vecchia regione di Kanto!
-sp_achstep_box_s_0043	Trasferisci un Ho-Oh da una cara vecchia terra lontana!
-sp_achstep_box_s_0044	Trasferisci un Lugia da una cara vecchia terra lontana!
-sp_achstep_box_s_0045	Trasferisci un Suicune da una cara vecchia terra lontana!
-sp_achstep_box_s_0046	Trasferisci un Charizard dalla regione di Kanto!
-sp_achstep_box_s_0047	Trasferisci un Venusaur dalla regione di Kanto!
-sp_achstep_box_s_0048	Trasferisci un Ho-Oh dalla regione di Johto!
-sp_achstep_box_s_0049	Trasferisci un Lugia dalla regione di Johto!
-sp_achstep_box_s_0050	Trasferisci un Groudon dalla cara vecchia regione di Hoenn!
-sp_achstep_box_s_0051	Trasferisci un Kyogre dalla cara vecchia regione di Hoenn!
-sp_achstep_box_s_0052	Trasferisci un Rayquaza dalla cara vecchia regione di Hoenn!
-sp_achstep_box_s_0053	Trasferisci un Dialga dalla regione di Sinnoh!
-sp_achstep_box_s_0054	Trasferisci un Palkia dalla regione di Sinnoh!
-sp_achstep_box_s_0055	Trasferisci un Giratina dalla regione di Sinnoh!
-sp_achstep_box_s_0056	Trasferisci un Reshiram dalla regione di Unima!
-sp_achstep_box_s_0057	Trasferisci uno Zekrom dalla regione di Unima!
-sp_achstep_box_s_0058	Trasferisci uno Zekrom e un Kyurem dalla regione di Unima!
-sp_achstep_box_s_0059	Trasferisci un Reshiram e un Kyurem dalla regione di Unima!
-sp_achstep_box_s_0060	Trasferisci uno Xerneas dalla regione di Kalos!
-sp_achstep_box_s_0061	Trasferisci un Yveltal dalla regione di Kalos!
-sp_achstep_box_s_0062	Trasferisci un Groudon dalla regione di Hoenn!
-sp_achstep_box_s_0063	Trasferisci un Kyogre dalla regione di Hoenn!
-sp_achstep_box_s_0064	Trasferisci un Solgaleo dalla regione di Alola!
-sp_achstep_box_s_0065	Trasferisci un Lunala dalla regione di Alola!
-sp_achstep_box_s_0066	Trasferisci un Solgaleo e un Necrozma dalla regione di Alola!
-sp_achstep_box_s_0067	Trasferisci un Lunala e un Necrozma dalla regione di Alola!
-sp_achstep_box_s_0068	Trasferisci uno Zacian dalla regione di Galar!
-sp_achstep_box_s_0069	Trasferisci uno Zamazenta dalla regione di Galar!
-sp_achstep_box_s_0070	Deposita un Metagross cromatico!
-sp_achstep_box_s_0071	Trasferisci un Rayquaza dalla regione di Hoenn!
-sp_achstep_box_s_0072	Trasferisci un Diancie dalla regione di Kalos!
-sp_achstep_box_s_0073	Deposita uno Snorlax che fa sul serio!
-sp_achstep_box_s_0074	Trasferisci un Litwick dalla regione di Unima!
-sp_achstep_box_s_0075	Trasferisci un Eevee dalla regione di Unima!
-sp_achstep_box_s_0076	Deposita un Meloetta!
-sp_achstep_box_s_0077	Deposita un Genesect cromatico!
+sp_achstep_box_s_0037	Registra un Pikachu della regione di Kanto!
+sp_achstep_box_s_0038	Registra un Eevee della regione di Kanto!
+sp_achstep_box_s_0039	Registra un Charizard della cara vecchia regione di Kanto!
+sp_achstep_box_s_0040	Registra un Venusaur della cara vecchia regione di Kanto!
+sp_achstep_box_s_0041	Registra un Blastoise della cara vecchia regione di Kanto!
+sp_achstep_box_s_0042	Registra un Pikachu della cara vecchia regione di Kanto!
+sp_achstep_box_s_0043	Registra un Ho-Oh da una cara vecchia terra lontana!
+sp_achstep_box_s_0044	Registra un Lugia da una cara vecchia terra lontana!
+sp_achstep_box_s_0045	Registra un Suicune di una cara vecchia terra lontana!
+sp_achstep_box_s_0046	Registra un Charizard della regione di Kanto!
+sp_achstep_box_s_0047	Registra un Venusaur della regione di Kanto!
+sp_achstep_box_s_0048	Registra un Ho-Oh della regione di Johto!
+sp_achstep_box_s_0049	Registra un Lugia della regione di Johto!
+sp_achstep_box_s_0050	Registra un Groudon della cara vecchia regione di Hoenn!
+sp_achstep_box_s_0051	Registra un Kyogre della cara vecchia regione di Hoenn!
+sp_achstep_box_s_0052	Registra un Rayquaza della cara vecchia regione di Hoenn!
+sp_achstep_box_s_0053	Registra un Dialga della regione di Sinnoh!
+sp_achstep_box_s_0054	Registra un Palkia della regione di Sinnoh!
+sp_achstep_box_s_0055	Registra un Giratina della regione di Sinnoh!
+sp_achstep_box_s_0056	Registra un Reshiram della regione di Unima!
+sp_achstep_box_s_0057	Registra uno Zekrom della regione di Unima!
+sp_achstep_box_s_0058	Registra uno Zekrom e un Kyurem della regione di Unima!
+sp_achstep_box_s_0059	Registra un Reshiram e un Kyurem della regione di Unima!
+sp_achstep_box_s_0060	Registra uno Xerneas della regione di Kalos!
+sp_achstep_box_s_0061	Registra un Yveltal della regione di Kalos!
+sp_achstep_box_s_0062	Registra un Groudon della regione di Hoenn!
+sp_achstep_box_s_0063	Registra un Kyogre della regione di Hoenn!
+sp_achstep_box_s_0064	Registra un Solgaleo della regione di Alola!
+sp_achstep_box_s_0065	Registra un Lunala della regione di Alola!
+sp_achstep_box_s_0066	Registra un Solgaleo e un Necrozma della regione di Alola!
+sp_achstep_box_s_0067	Registra un Lunala e un Necrozma della regione di Alola!
+sp_achstep_box_s_0068	Registra uno Zacian della regione di Galar!
+sp_achstep_box_s_0069	Registra uno Zamazenta della regione di Galar!
+sp_achstep_box_s_0070	Registra un Metagross cromatico!
+sp_achstep_box_s_0071	Registra un Rayquaza della regione di Hoenn!
+sp_achstep_box_s_0072	Registra un Diancie della regione di Kalos!
+sp_achstep_box_s_0073	Registra uno Snorlax che fa sul serio!
+sp_achstep_box_s_0074	Registra un Litwick della regione di Unima!
+sp_achstep_box_s_0075	Registra un Eevee della regione di Unima!
+sp_achstep_box_s_0076	Registra un Meloetta!
+sp_achstep_box_s_0077	Registra un Genesect cromatico!
 sp_achstep_lib_000101	Registra 5 Pokémon di tipo Buio!
 sp_achstep_lib_000102	Registra 20 Pokémon di tipo Buio!
 sp_achstep_lib_000103	Registra 50 Pokémon di tipo Buio!
@@ -1711,15 +1711,15 @@ sp_ach_oth_0002	Raccogli adesivi!
 sp_ach_oth_0003	Usa Pokémon HOME!
 sp_ach_oth_0004	Crea un'etichetta!
 sp_ach_oth_0005	Controlla le notifiche!
-sp_ach_box_s_0001	Trasferisci un Treecko, un Torchic e un Mudkip dalla regione di Hoenn!
-sp_ach_box_s_0002	Trasferisci un Treecko, un Grovyle e uno Sceptile dalla regione di Hoenn!
-sp_ach_box_s_0003	Trasferisci un Torchic, un Combusken e un Blaziken dalla regione di Hoenn!
-sp_ach_box_s_0004	Trasferisci un Mudkip, un Marshtomp e uno Swampert dalla regione di Hoenn!
-sp_ach_box_s_0005	Trasferisci un Solgaleo, un Lunala e un Necrozma dalla regione di Alola!
-sp_ach_box_s_0006	Trasferisci un Groudon e un Kyogre dalla regione di Hoenn!
-sp_ach_box_s_0007	Trasferisci un Cosmog, un Cosmoem, un Solgaleo e un Lunala dalla regione di Alola!
-sp_ach_box_s_0008	Trasferisci un Turtwig, un Chimchar e un Piplup dalla regione di Sinnoh!
-sp_ach_box_s_0009	Trasferisci un Dialga, un Palkia e un Giratina dalla regione di Sinnoh!
+sp_ach_box_s_0001	Registra un Treecko, un Torchic e un Mudkip della regione di Hoenn!
+sp_ach_box_s_0002	Registra un Treecko, un Grovyle e uno Sceptile della regione di Hoenn!
+sp_ach_box_s_0003	Registra un Torchic, un Combusken e un Blaziken della regione di Hoenn!
+sp_ach_box_s_0004	Registra un Mudkip, un Marshtomp e uno Swampert della regione di Hoenn!
+sp_ach_box_s_0005	Registra un Solgaleo, un Lunala e un Necrozma della regione di Alola!
+sp_ach_box_s_0006	Registra un Groudon e un Kyogre della regione di Hoenn!
+sp_ach_box_s_0007	Registra un Cosmog, un Cosmoem, un Solgaleo e un Lunala della regione di Alola!
+sp_ach_box_s_0008	Registra un Turtwig, un Chimchar e un Piplup della regione di Sinnoh!
+sp_ach_box_s_0009	Registra un Dialga, un Palkia e un Giratina della regione di Sinnoh!
 sp_ach_box_s_0010	Deposita 10 Pokémon di natura Schiva!
 sp_ach_box_s_0011	Deposita 10 Pokémon di natura Decisa!
 sp_ach_box_s_0012	Deposita 10 Pokémon di natura Birbona!
@@ -1747,47 +1747,47 @@ sp_ach_box_s_0033	Deposita 10 Pokémon di natura Furba!
 sp_ach_box_s_0034	Deposita 10 Pokémon di natura Seria!
 sp_ach_box_s_0035	Deposita 30 Pikachu!
 sp_ach_box_s_0036	Deposita 30 Ditto!
-sp_ach_box_s_0037	Trasferisci un Pikachu dalla regione di Kanto!
-sp_ach_box_s_0038	Trasferisci un Eevee dalla regione di Kanto!
-sp_ach_box_s_0039	Trasferisci un Charizard dalla cara vecchia regione di Kanto!
-sp_ach_box_s_0040	Trasferisci un Venusaur dalla cara vecchia regione di Kanto!
-sp_ach_box_s_0041	Trasferisci un Blastoise dalla cara vecchia regione di Kanto!
-sp_ach_box_s_0042	Trasferisci un Pikachu dalla cara vecchia regione di Kanto!
-sp_ach_box_s_0043	Trasferisci un Ho-Oh da una cara vecchia terra lontana!
-sp_ach_box_s_0044	Trasferisci un Lugia da una cara vecchia terra lontana!
-sp_ach_box_s_0045	Trasferisci un Suicune da una cara vecchia terra lontana!
-sp_ach_box_s_0046	Trasferisci un Charizard dalla regione di Kanto!
-sp_ach_box_s_0047	Trasferisci un Venusaur dalla regione di Kanto!
-sp_ach_box_s_0048	Trasferisci un Ho-Oh dalla regione di Johto!
-sp_ach_box_s_0049	Trasferisci un Lugia dalla regione di Johto!
-sp_ach_box_s_0050	Trasferisci un Groudon dalla cara vecchia regione di Hoenn!
-sp_ach_box_s_0051	Trasferisci un Kyogre dalla cara vecchia regione di Hoenn!
-sp_ach_box_s_0052	Trasferisci un Rayquaza dalla cara vecchia regione di Hoenn!
-sp_ach_box_s_0053	Trasferisci un Dialga dalla regione di Sinnoh!
-sp_ach_box_s_0054	Trasferisci un Palkia dalla regione di Sinnoh!
-sp_ach_box_s_0055	Trasferisci un Giratina dalla regione di Sinnoh!
-sp_ach_box_s_0056	Trasferisci un Reshiram dalla regione di Unima!
-sp_ach_box_s_0057	Trasferisci uno Zekrom dalla regione di Unima!
-sp_ach_box_s_0058	Trasferisci uno Zekrom e un Kyurem dalla regione di Unima!
-sp_ach_box_s_0059	Trasferisci un Reshiram e un Kyurem dalla regione di Unima!
-sp_ach_box_s_0060	Trasferisci uno Xerneas dalla regione di Kalos!
-sp_ach_box_s_0061	Trasferisci un Yveltal dalla regione di Kalos!
-sp_ach_box_s_0062	Trasferisci un Groudon dalla regione di Hoenn!
-sp_ach_box_s_0063	Trasferisci un Kyogre dalla regione di Hoenn!
-sp_ach_box_s_0064	Trasferisci un Solgaleo dalla regione di Alola!
-sp_ach_box_s_0065	Trasferisci un Lunala dalla regione di Alola!
-sp_ach_box_s_0066	Trasferisci un Solgaleo e un Necrozma dalla regione di Alola!
-sp_ach_box_s_0067	Trasferisci un Lunala e un Necrozma dalla regione di Alola!
-sp_ach_box_s_0068	Trasferisci uno Zacian dalla regione di Galar!
-sp_ach_box_s_0069	Trasferisci uno Zamazenta dalla regione di Galar!
-sp_ach_box_s_0070	Deposita un Metagross cromatico!
-sp_ach_box_s_0071	Trasferisci un Rayquaza dalla regione di Hoenn!
-sp_ach_box_s_0072	Trasferisci un Diancie dalla regione di Kalos!
-sp_ach_box_s_0073	Deposita uno Snorlax che fa sul serio!
-sp_ach_box_s_0074	Trasferisci un Litwick dalla regione di Unima!
-sp_ach_box_s_0075	Trasferisci un Eevee dalla regione di Unima!
-sp_ach_box_s_0076	Deposita un Meloetta!
-sp_ach_box_s_0077	Deposita un Genesect cromatico!
+sp_ach_box_s_0037	Registra un Pikachu della regione di Kanto!
+sp_ach_box_s_0038	Registra un Eevee della regione di Kanto!
+sp_ach_box_s_0039	Registra un Charizard della cara vecchia regione di Kanto!
+sp_ach_box_s_0040	Registra un Venusaur della cara vecchia regione di Kanto!
+sp_ach_box_s_0041	Registra un Blastoise della cara vecchia regione di Kanto!
+sp_ach_box_s_0042	Registra un Pikachu della cara vecchia regione di Kanto!
+sp_ach_box_s_0043	Registra un Ho-Oh di una cara vecchia terra lontana!
+sp_ach_box_s_0044	Registra un Lugia di una cara vecchia terra lontana!
+sp_ach_box_s_0045	Registra un Suicune di una cara vecchia terra lontana!
+sp_ach_box_s_0046	Registra un Charizard della regione di Kanto!
+sp_ach_box_s_0047	Registra un Venusaur della regione di Kanto!
+sp_ach_box_s_0048	Registra un Ho-Oh della regione di Johto!
+sp_ach_box_s_0049	Registra un Lugia della regione di Johto!
+sp_ach_box_s_0050	Registra un Groudon della cara vecchia regione di Hoenn!
+sp_ach_box_s_0051	Registra un Kyogre della cara vecchia regione di Hoenn!
+sp_ach_box_s_0052	Registra un Rayquaza della cara vecchia regione di Hoenn!
+sp_ach_box_s_0053	Registra un Dialga della regione di Sinnoh!
+sp_ach_box_s_0054	Registra un Palkia della regione di Sinnoh!
+sp_ach_box_s_0055	Registra un Giratina della regione di Sinnoh!
+sp_ach_box_s_0056	Registra un Reshiram della regione di Unima!
+sp_ach_box_s_0057	Registra uno Zekrom della regione di Unima!
+sp_ach_box_s_0058	Registra uno Zekrom e un Kyurem della regione di Unima!
+sp_ach_box_s_0059	Registra un Reshiram e un Kyurem della regione di Unima!
+sp_ach_box_s_0060	Registra uno Xerneas della regione di Kalos!
+sp_ach_box_s_0061	Registra un Yveltal della regione di Kalos!
+sp_ach_box_s_0062	Registra un Groudon della regione di Hoenn!
+sp_ach_box_s_0063	Registra un Kyogre della regione di Hoenn!
+sp_ach_box_s_0064	Registra un Solgaleo della regione di Alola!
+sp_ach_box_s_0065	Registra un Lunala della regione di Alola!
+sp_ach_box_s_0066	Registra un Solgaleo e un Necrozma della regione di Alola!
+sp_ach_box_s_0067	Registra un Lunala e un Necrozma della regione di Alola!
+sp_ach_box_s_0068	Registra uno Zacian della regione di Galar!
+sp_ach_box_s_0069	Registra uno Zamazenta della regione di Galar!
+sp_ach_box_s_0070	Registra un Metagross cromatico!
+sp_ach_box_s_0071	Registra un Rayquaza della regione di Hoenn!
+sp_ach_box_s_0072	Registra un Diancie della regione di Kalos!
+sp_ach_box_s_0073	Registra uno Snorlax che fa sul serio!
+sp_ach_box_s_0074	Registra un Litwick della regione di Unima!
+sp_ach_box_s_0075	Registra un Eevee della regione di Unima!
+sp_ach_box_s_0076	Registra un Meloetta!
+sp_ach_box_s_0077	Registra un Genesect cromatico!
 sp_ach_box_0001	Deposita dei Pokémon cromatici!
 sp_ach_box_0002	Deposita dei Pokémon contenuti in una Poké Ball!
 sp_ach_box_0003	Deposita dei Pokémon contenuti in una Mega Ball!
@@ -1869,6 +1869,7 @@ sp_api_500_10603	Hai raggiunto il numero massimo di amici. Non è possibile regi
 sp_api_500_10604	L'altro utente ha raggiunto il numero massimo di amici, perciò non puoi accettare questa richiesta d'amicizia.
 sp_api_500_10607	Il codice amico inserito è sbagliato. Riprova.
 sp_api_800_100001	Riprova in un luogo in cui la connessione è più stabile.
+sp_api_400_11500	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_ita.msbt
@@ -2221,7 +2222,10 @@ sp_option_ZKN_TYPE_728	Pokémon Tartaghina
 sp_option_addsdk_00001	Uso dei dati personali
 sp_option_addsdk_00002	Le seguenti informazioni verranno raccolte allo scopo di continuare a migliorare i servizi di Pokémon HOME, ottimizzare le meccaniche e la stabilità del gioco e fornirti contenuti pertinenti.  • Dati relativi all'uso dell'applicazione sul tuo dispositivo. • Errori di performance e dati analitici.  Queste informazioni verranno utilizzate in conformità a quanto stabilito nell'informativa sulla privacy.  Puoi utilizzare l'applicazione anche se decidi di non condividere queste informazioni.  Accetti di condividere le informazioni relative al tuo uso dell'applicazione?
 sp_option_addsdk_00003	Puoi utilizzare Pokémon HOME anche se decidi di non condividere i dati relativi al tuo uso dell'applicazione.
-sp_option_terms2	
+sp_option_terms2	Termini di utilizzo
+sp_option_terms_5	
+sp_option_terms_6	
+sp_option_addsdk_1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
