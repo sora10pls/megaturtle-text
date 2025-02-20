@@ -1929,6 +1929,7 @@ sp_country_201	캐나다
 sp_country_202	칠레
 sp_country_203	멕시코
 sp_country_204	미국
+sp_country_205	Brasil
 sp_country_299	기타
 sp_country_300	아시아 태평양
 sp_country_301	오스트레일리아

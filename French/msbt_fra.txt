@@ -1929,6 +1929,7 @@ sp_country_201	Canada
 sp_country_202	Chili
 sp_country_203	Mexique
 sp_country_204	États-Unis
+sp_country_205	Brésil
 sp_country_299	Autre
 sp_country_300	Asie-Pacifique
 sp_country_301	Australie

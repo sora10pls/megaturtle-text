@@ -1929,6 +1929,7 @@ sp_country_201	カナダ
 sp_country_202	チリ
 sp_country_203	メキシコ
 sp_country_204	アメリカ
+sp_country_205	ブラジル
 sp_country_299	その他
 sp_country_300	アジア太平洋
 sp_country_301	オーストラリア

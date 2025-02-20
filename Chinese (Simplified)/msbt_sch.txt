@@ -1929,6 +1929,7 @@ sp_country_201	加拿大
 sp_country_202	智利
 sp_country_203	墨西哥
 sp_country_204	美国
+sp_country_205	巴西
 sp_country_299	其他
 sp_country_300	亚太地区
 sp_country_301	澳大利亚
