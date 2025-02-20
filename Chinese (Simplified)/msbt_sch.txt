@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	在对战数据里可以查看 各种有关宝可�
 sp_monbo_battle_data_0001_002	你可以看到全世界训练家的排行榜。 在关联Nintendo Account后， 还可以确认至今为止自己的成绩哦萌！
 sp_monbo_gift_0001_001	为了纪念《Pokémon HOME》更新数据， 我有礼物送给你哦萌！
 sp_monbo_gift_0001_002	快从“神秘礼物”领取吧萌！
+sp_monbo_gift_0002_001	挑一只你想要的 宝可梦吧萌！
+sp_monbo_gift_0002_002	你确定要选 [VAR_PKCATEGORY][VAR_PKNAME]萌？
 sp_monbo_get_calendar_0001_001	这里是捕捉日历！ 寄放在《Pokémon HOME》中的宝可梦 会按照捕捉到的日期来排列哦萌！
 sp_monbo_get_calendar_0001_002	在纪念日中，可以添加或编辑 自己喜欢的日期哦萌！ 还可以筛选出在添加的纪念日 所捕捉到的宝可梦哦萌！
 sp_monbo_get_calendar_0001_003	快把你值得回忆的日期 添加到纪念日去吧萌！
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	要继承智能手机版Pokémon HOME的 数据并开�
 sp_option_holohlo_0001_vgo	关联Pokémon GO
 sp_option_holohlo_0004_vgo	接收
 sp_option_holohlo_0005_vgo	接收
+sp_option_my_parent_01_v6	我的初训家／IDNo.设置
+sp_option_my_parent_02_v6	设置多个我的初训家／IDNo.
+sp_option_my_parent_03_v6	选择／解除
+sp_option_my_parent_04_v6	在宝可梦一览中显示图标
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	你将特殊的宝可梦指定为了 想要的宝可梦，
 sp_trade_gts_00020_v3	包含正在搜索 自己未持有的宝可梦的人
 sp_trade_gts_00021_v3	包含正在搜索传说及幻之宝可梦 等特别的宝可梦的人
 sp_trade_gts_00022_v4	你将特殊的宝可梦指定为了 想要的宝可梦。 特殊的宝可梦无法交换， 请重新选择。
+sp_trade_gts_00023_v6	寄放日：[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_trade_gts_00024_v6	其他人寻找的宝可梦
+sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
+sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00029_v6	没有用户在寻找 你所指定的宝可梦
 sp_trade_gts_01001	请进行交换。 拜托你了。
 sp_trade_gts_01002	我想要交换能帮助我冒险的宝可梦。
 sp_trade_gts_01003	我想要交换在对战中很强的宝可梦。
@@ -2854,6 +2865,9 @@ sp_ui_shape	外形
 sp_ui_color	颜色
 sp_ui_ball_v4	精灵球
 sp_ui_language_v4	语言
+sp_ui_my_parent_v6	我的初训家／IDNo.
+sp_ui_my_parent_set_v6	我的初训家／IDNo.
+sp_ui_my_parent_no_set_v6	我的初训家／IDNo.以外
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	勤奋＋薄荷
 sp_ui_filter_seikaku_2_m	怕寂寞＋薄荷
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	没有效果
 sp_ui_type_compatibility_04	通常的效果
 sp_ui_type_compatibility_05	无标记
 sp_ui_pokemon_type	属性
+sp_ui_set_my_parent_v6	设置为我的初训家／IDNo.
+sp_ui_unset_my_parent_v6	解除我的初训家／IDNo.
+sp_ui_my_parent_max_dialog_text_v6	我的初训家／IDNo. 最多可设置50个。
 sp_ui_pgl_battle_log	对战数据
 sp_ui_pgl_rank_match	级别对战
 sp_ui_pgl_internet_tournament	互联网大赛
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	礼物盒
 sp_ui_gift_empty_list	没有神秘礼物。
 sp_ui_gift_03001	序列号
 sp_ui_gift_03002	请输入序列号。
+sp_ui_gift_select_title	确认所选择的宝可梦
+sp_ui_gift_select_confirm	你确定要选择 [VAR_PKNAME]吗？  ※之后无法更改所选择的宝可梦 
+sp_ui_gift_select_reselect	重新选择
 sp_ui_achieve_dialog_all_clear	已完成
 sp_ui_achieve_dialog_header_title	完成报酬
 sp_ui_achieve_sort_grade	等级

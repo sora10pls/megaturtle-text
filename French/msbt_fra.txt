@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	Comme son nom l'indique, l'écran Infos combats re
 sp_monbo_battle_data_0001_002	Par exemple, vous pouvez y consulter le classement mondial des Dresseurs ! Et si vous avez associé votre compte Nintendo à Pokémon HOME, vous pourrez même y voir votre propre historique de combats. Pratique !
 sp_monbo_gift_0001_001	Vous avez reçu un cadeau pour célébrer la nouvelle mise à jour de Pokémon HOME !
 sp_monbo_gift_0001_002	Vous pouvez le récupérer à partir du menu « Cadeaux Mystère » !
+sp_monbo_gift_0002_001	Choisissez le Pokémon que vous voulez !
+sp_monbo_gift_0002_002	Vous avez choisi [VAR_PKNAME], le [VAR_PKCATEGORY]. Est-ce que cela vous convient ?
 sp_monbo_get_calendar_0001_001	Voici le calendrier des captures ! Vous pouvez retrouver ici tous les Pokémon déposés dans Pokémon HOME, classés dans l'ordre dans lequel vous les avez attrapés !
 sp_monbo_get_calendar_0001_002	Vous pouvez planifier un anniversaire à n'importe quelle date, que vous pouvez modifier plus tard. Vous pouvez également voir les Pokémon attrapés le jour de cet anniversaire.
 sp_monbo_get_calendar_0001_003	N'hésitez pas à enregistrer des anniversaires pour vous souvenir de dates importantes !
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	Voulez-vous transférer les données de la version mobi
 sp_option_holohlo_0001_vgo	Associer à Pokémon GO
 sp_option_holohlo_0004_vgo	Recevoir des Pokémon
 sp_option_holohlo_0005_vgo	Recevoir des Pokémon
+sp_option_my_parent_01_v6	Paramètres d'authentification de D.O. / Nº ID
+sp_option_my_parent_02_v6	Paramétrer plusieurs D.O. / Nº ID
+sp_option_my_parent_03_v6	Sélectionner/supprimer
+sp_option_my_parent_04_v6	Afficher l'icône dans la liste des Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_fra.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	Le Pokémon recherché est un Pokémon spécial. Veuillez 
 sp_trade_gts_00020_v3	Inclure les demandes de Pokémon que vous n'avez pas
 sp_trade_gts_00021_v3	Inclure les demandes de Pokémon spéciaux, comme les Pokémon légendaires ou fabuleux
 sp_trade_gts_00022_v4	Vous avez sélectionné un Pokémon spécial comme Pokémon recherché, mais il est impossible d'échanger les Pokémon spéciaux. Veuillez en sélectionner un autre.
+sp_trade_gts_00023_v6	Déposé le [VAR_DAY]/[VAR_MONTH]/[VAR_YEAR]
+sp_trade_gts_00024_v6	Pokémon recherchés
+sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00029_v6	Aucun utilisateur ne recherche le ou les Pokémon indiqués.
 sp_trade_gts_01001	Merci d'échanger un Pokémon avec moi !
 sp_trade_gts_01002	J'aimerais avoir un Pokémon qui puisse m'aider dans mon aventure !
 sp_trade_gts_01003	J'aimerais avoir un Pokémon qui soit super fort en combat !
@@ -2854,6 +2865,9 @@ sp_ui_shape	Forme
 sp_ui_color	Couleur
 sp_ui_ball_v4	Poké Ball
 sp_ui_language_v4	Langue
+sp_ui_my_parent_v6	D.O. / Nº ID authentifiés
+sp_ui_my_parent_set_v6	D.O. / Nº ID authentifié
+sp_ui_my_parent_no_set_v6	D.O. / Nº ID non authentifié
 sp_ui_filter_parent	[VAR_PLAYER] ([VAR_TID])
 sp_ui_filter_seikaku_1_m	Hardi (aucun aromate)
 sp_ui_filter_seikaku_2_m	Solo ou Aromate Solo
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	Aucun effet
 sp_ui_type_compatibility_04	Efficace
 sp_ui_type_compatibility_05	Pas d'icône
 sp_ui_pokemon_type	Type
+sp_ui_set_my_parent_v6	Authentifier un D.O. / Nº ID
+sp_ui_unset_my_parent_v6	Désauthentifier le D.O. / Nº ID
+sp_ui_my_parent_max_dialog_text_v6	Vous pouvez authentifier un maximum de 50 D.O. / Nº ID comme étant les vôtres.
 sp_ui_pgl_battle_log	Infos combats
 sp_ui_pgl_rank_match	Combats classés
 sp_ui_pgl_internet_tournament	Compétitions Internet
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	Boîte Cadeau
 sp_ui_gift_empty_list	Aucun Cadeau Mystère.
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Veuillez saisir un code.
+sp_ui_gift_select_title	Confirmer la sélection de Pokémon
+sp_ui_gift_select_confirm	Vous avez sélectionné [VAR_PKNAME]. Cela vous convient-il ?  Attention : vous ne pourrez pas modifier cette sélection plus tard.
+sp_ui_gift_select_reselect	Choisir un autre
 sp_ui_achieve_dialog_all_clear	Accompli
 sp_ui_achieve_dialog_header_title	Récompenses
 sp_ui_achieve_sort_grade	Grade

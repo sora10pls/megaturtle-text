@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	In questa schermata trovi un sacco di informazioni
 sp_monbo_battle_data_0001_002	Potrai dare un'occhiata alla classifica degli Allenatori di tutto il mondo, e se hai collegato un account Nintendo potrai anche vedere i tuoi risultati!
 sp_monbo_gift_0001_001	Hai ricevuto un regalo per il nuovo aggiornamento di Pokémon HOME!
 sp_monbo_gift_0001_002	Puoi ottenerlo dal menu Dono Segreto!
+sp_monbo_gift_0002_001	Scegli un Pokémon!
+sp_monbo_gift_0002_002	Hai selezionato [VAR_PKNAME], il [VAR_PKCATEGORY]. Va bene così?
 sp_monbo_get_calendar_0001_001	Questo è il calendario di cattura! Qui puoi trovare tutti i Pokémon che hai in Pokémon HOME, in ordine di data di cattura!
 sp_monbo_get_calendar_0001_002	Puoi selezionare come anniversario la data che preferisci, o anche modificarla in seguito. Puoi anche vedere quali Pokémon sono stati catturati durante un anniversario.
 sp_monbo_get_calendar_0001_003	Scegli pure come anniversari i giorni più importanti per te!
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	Vuoi trasferire i dati esistenti di Pokémon HOME per d
 sp_option_holohlo_0001_vgo	Collegamento a Pokémon GO
 sp_option_holohlo_0004_vgo	Ricevi Pokémon
 sp_option_holohlo_0005_vgo	Ricevi Pokémon
+sp_option_my_parent_01_v6	I tuoi Allenatori Originali/ID
+sp_option_my_parent_02_v6	Imposta i tuoi Allenatori Originali/ID
+sp_option_my_parent_03_v6	Seleziona/deseleziona
+sp_option_my_parent_04_v6	Mostra l'icona nella lista dei Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	Il Pokémon richiesto è un Pokémon speciale. Scegli un a
 sp_trade_gts_00020_v3	Includi gli utenti che cercano Pokémon che non hai
 sp_trade_gts_00021_v3	Includi gli utenti che cercano Pokémon speciali, come quelli leggendari o misteriosi
 sp_trade_gts_00022_v4	Il Pokémon richiesto è un Pokémon speciale. I Pokémon speciali non possono essere scambiati. Scegli un altro Pokémon.
+sp_trade_gts_00023_v6	Depositato in data: [VAR_DAY]/[VAR_MONTH]/[VAR_YEAR]
+sp_trade_gts_00024_v6	Pokémon richiesti
+sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00029_v6	Nessun utente ha richiesto questo Pokémon.
 sp_trade_gts_01001	Ciao! Vuoi fare uno scambio?
 sp_trade_gts_01002	Cerco un Pokémon che mi aiuti ad avanzare nella mia avventura!
 sp_trade_gts_01003	Cerco un Pokémon fortissimo nelle lotte!
@@ -2854,6 +2865,9 @@ sp_ui_shape	Sagoma
 sp_ui_color	Colore
 sp_ui_ball_v4	Poké Ball
 sp_ui_language_v4	Lingua
+sp_ui_my_parent_v6	Tuoi AO/ID
+sp_ui_my_parent_set_v6	AO/ID impostati come tuoi
+sp_ui_my_parent_no_set_v6	AO/ID non impostati come tuoi
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	Ardita (nessuna menta)
 sp_ui_filter_seikaku_2_m	Schiva (o Menta Schiva)
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	Nessun effetto
 sp_ui_type_compatibility_04	Effetto normale
 sp_ui_type_compatibility_05	Senza icona
 sp_ui_pokemon_type	Tipo
+sp_ui_set_my_parent_v6	Aggiungi ai tuoi AO/ID
+sp_ui_unset_my_parent_v6	Rimuovi dai tuoi AO/ID
+sp_ui_my_parent_max_dialog_text_v6	Puoi impostare come tuoi fino a un massimo di 50 Allenatori Originali (AO) e ID.
 sp_ui_pgl_battle_log	Lotte
 sp_ui_pgl_rank_match	Lotte Competitive
 sp_ui_pgl_internet_tournament	Gare Online
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	Box regali
 sp_ui_gift_empty_list	Non ci sono Doni Segreti.
 sp_ui_gift_03001	Codice seriale
 sp_ui_gift_03002	Inserisci il codice seriale.
+sp_ui_gift_select_title	Conferma il Pokémon selezionato
+sp_ui_gift_select_confirm	Hai selezionato [VAR_PKNAME]. Va bene così?  Nota: il Pokémon selezionato non potrà più essere cambiato.
+sp_ui_gift_select_reselect	Modifica selezione
 sp_ui_achieve_dialog_all_clear	Completato!
 sp_ui_achieve_dialog_header_title	Ricompense
 sp_ui_achieve_sort_grade	Grado

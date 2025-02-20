@@ -1964,7 +1964,7 @@ sp_country_201	캐나다
 sp_country_202	칠레
 sp_country_203	멕시코
 sp_country_204	미국
-sp_country_205	Brasil
+sp_country_205	브라질
 sp_country_299	기타
 sp_country_300	아시아 태평양
 sp_country_301	오스트레일리아
@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	배틀 데이터에서는 포켓몬 배틀에 관�
 sp_monbo_battle_data_0001_002	전 세계 트레이너의 랭킹을 볼 수도 있고 닌텐도 어카운트를 연동하면 자신의 지금까지의 전적도 확인할 수 있다몬!
 sp_monbo_gift_0001_001	"Pokémon HOME"의 업데이트 기념 선물이 있다몬!
 sp_monbo_gift_0001_002	"이상한 소포"에서 받을 수 있다몬!
+sp_monbo_gift_0002_001	어느 포켓몬으로 할지 골라 줘몬!
+sp_monbo_gift_0002_002	[VAR_PKCATEGORY] [VAR_PKNAME] 촅로 괜찮아몬?
 sp_monbo_get_calendar_0001_001	여기는 GET 캘린더! "Pokémon HOME"에 맡긴 포켓몬이 잡은 날짜순으로 표시된다몬!
 sp_monbo_get_calendar_0001_002	기념일에는 원하는 날짜를 등록하거나 편집할 수 있다몬! 등록한 기념일에 잡은 포켓몬을 추려낼 수도 있다몬!
 sp_monbo_get_calendar_0001_003	나만의 추억이 있는 날을 기념일로 등록해봐라몬!
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	스마트폰 버전 Pokémon HOME을 이어서 시작�
 sp_option_holohlo_0001_vgo	Pokémon GO 연동
 sp_option_holohlo_0004_vgo	받는다
 sp_option_holohlo_0005_vgo	받는다
+sp_option_my_parent_01_v6	My 어버이/IDNo. 설정
+sp_option_my_parent_02_v6	복수의 My 어버이/IDNo.를 설정한다
+sp_option_my_parent_03_v6	선택/해제한다
+sp_option_my_parent_04_v6	포켓몬 일람에서 아이콘을 표시한다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	특별한 포켓몬을 원하는 포켓몬으로 지정했
 sp_trade_gts_00020_v3	자신이 가지고 있지 않은 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_00021_v3	전설 또는 환상 등의 특별한 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_00022_v4	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다 특별한 포켓몬은 교환할 수 없습니다 다시 선택해 주십시오
+sp_trade_gts_00023_v6	맡긴 날짜: [VAR_YEAR]년 [VAR_MONTH]월 [VAR_DAY]일
+sp_trade_gts_00024_v6	원하는 포켓몬으로 찾는다
+sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00028_v6	[VAR_PKNAME]([VAR_PKFORM])
+sp_trade_gts_00029_v6	지정한 포켓몬을 원하는 유저가 없습니다
 sp_trade_gts_01001	교환해 주세요! 잘 부탁합니다
 sp_trade_gts_01002	모험을 도와주는 포켓몬과 교환하고 싶습니다
 sp_trade_gts_01003	대전에 강한 포켓몬과 교환하고 싶습니다
@@ -2854,6 +2865,9 @@ sp_ui_shape	형태
 sp_ui_color	색
 sp_ui_ball_v4	볼
 sp_ui_language_v4	언어
+sp_ui_my_parent_v6	My 어버이/IDNo.
+sp_ui_my_parent_set_v6	My 어버이/IDNo.
+sp_ui_my_parent_no_set_v6	My 어버이/IDNo. 이외
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	노력+민트
 sp_ui_filter_seikaku_2_m	외로움+민트
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	효과 없음
 sp_ui_type_compatibility_04	효과가 보통
 sp_ui_type_compatibility_05	표시 없음
 sp_ui_pokemon_type	타입
+sp_ui_set_my_parent_v6	My 어버이/IDNo.로 설정한다
+sp_ui_unset_my_parent_v6	My 어버이/IDNo.를 해제한다
+sp_ui_my_parent_max_dialog_text_v6	My 어버이/IDNo.는 50건까지만 설정할 수 있습니다
 sp_ui_pgl_battle_log	배틀 데이터
 sp_ui_pgl_rank_match	랭크배틀
 sp_ui_pgl_internet_tournament	인터넷 대회
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	선물 박스
 sp_ui_gift_empty_list	이상한 소포가 없습니다
 sp_ui_gift_03001	시리얼 코드
 sp_ui_gift_03002	시리얼 코드를 입력해 주십시오
+sp_ui_gift_select_title	선택한 포켓몬 확인
+sp_ui_gift_select_confirm	정말 [VAR_PKNAME] 촅로 괜찮겠습니까?  ※선택한 포켓몬은 나중에 변경할 수 없습니다
+sp_ui_gift_select_reselect	다시 선택한다
 sp_ui_achieve_dialog_all_clear	달성
 sp_ui_achieve_dialog_header_title	달성 보상
 sp_ui_achieve_sort_grade	등급

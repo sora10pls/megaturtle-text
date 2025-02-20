@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトル�
 sp_monbo_battle_data_0001_002	せかいじゅうの　トレーナーの　ランキングを　みたり ニンテンドーアカウントを　れんけいしていると これまでの　じぶんのせんせきも かくにん　できるんだモン！
 sp_monbo_gift_0001_001	『Pokémon HOME』の　アップデートきねんに プレゼントが　あるモン！
 sp_monbo_gift_0001_002	「ふしぎなおくりもの」から うけとって　ほしいモン！
+sp_monbo_gift_0002_001	どのポケモンにするか えらんでモン！
+sp_monbo_gift_0002_002	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいモン？
 sp_monbo_get_calendar_0001_001	ここは　ゲットカレンダー！ 『Pokémon HOME』に　あずけているポケモンが つかまえたひにちじゅんに　ならんでいるモン！
 sp_monbo_get_calendar_0001_002	きねんびには　すきなひにちを とうろく・へんしゅうすることが　できるモン！ とうろくしたきねんびに　つかまえたポケモンを しぼりこみできるモン！
 sp_monbo_get_calendar_0001_003	じぶんだけの　おもいでのひを きねんびに　とうろくするといいモン！
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	スマートフォン版Pokémon HOMEを 引き継い�
 sp_option_holohlo_0001_vgo	Pokémon GOれんけい
 sp_option_holohlo_0004_vgo	ひきとる
 sp_option_holohlo_0005_vgo	ひきとる
+sp_option_my_parent_01_v6	マイおや／IDNo.の　せってい
+sp_option_my_parent_02_v6	マイおや／IDNo.を　ふくすうせっていする
+sp_option_my_parent_03_v6	せんたく・かいじょする
+sp_option_my_parent_04_v6	ポケモンいちらんで　アイコンをひょうじする
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	ほしいポケモンに　とくべつな　ポケモン�
 sp_trade_gts_00020_v3	じぶんが　もっていない　ポケモンを さがしているひとを　ふくむ
 sp_trade_gts_00021_v3	でんせつや　まぼろしなどの　とくべつな ポケモンを　さがしているひとを　ふくむ
 sp_trade_gts_00022_v4	ほしいポケモンに　とくべつな　ポケモンが　 していされています とくべつな　ポケモンは　こうかんできません えらびなおしてください　
+sp_trade_gts_00023_v6	あずけたひ：[VAR_YEAR]ねん[VAR_MONTH]がつ[VAR_DAY]にち
+sp_trade_gts_00024_v6	もとめられているポケモン
+sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
+sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00029_v6	していしたポケモンを もとめているユーザーはいません
 sp_trade_gts_01001	こうかんを　してください よろしくおねがいします
 sp_trade_gts_01002	ぼうけんを　たすけてくれる ポケモンと　こうかんしたいです
 sp_trade_gts_01003	たいせんで　つよい　ポケモンと こうかんしたいです
@@ -2854,6 +2865,9 @@ sp_ui_shape	かたち
 sp_ui_color	いろ
 sp_ui_ball_v4	ボール
 sp_ui_language_v4	げんご
+sp_ui_my_parent_v6	マイおや／IDNo.
+sp_ui_my_parent_set_v6	マイおや／IDNo.
+sp_ui_my_parent_no_set_v6	マイおや／IDNo.　いがい
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	こうかが　ない
 sp_ui_type_compatibility_04	つうじょうの　こうか
 sp_ui_type_compatibility_05	むじるし
 sp_ui_pokemon_type	タイプ
+sp_ui_set_my_parent_v6	マイおや／IDNo.を　せっていする
+sp_ui_unset_my_parent_v6	マイおや／IDNo.を　かいじょする
+sp_ui_my_parent_max_dialog_text_v6	マイおや／IDNo.を　せっていできるのは 50けんまでです
 sp_ui_pgl_battle_log	バトルデータ
 sp_ui_pgl_rank_match	ランクバトル
 sp_ui_pgl_internet_tournament	インターネットたいかい
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	プレゼントボックス
 sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　にゅうりょくしてください
+sp_ui_gift_select_title	えらんだポケモンの　かくにん
+sp_ui_gift_select_confirm	ほんとうに　[VAR_PKNAME]　で いいですか？  ※このあと　えらんだポケモンを へんこうすることは　できません
+sp_ui_gift_select_reselect	えらびなおす
 sp_ui_achieve_dialog_all_clear	たっせいずみ
 sp_ui_achieve_dialog_header_title	たっせいほうしゅう
 sp_ui_achieve_sort_grade	グレード

@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	Battle Data is where you can check out all sorts o
 sp_monbo_battle_data_0001_002	You can check the rankings of Trainers around the world. You can even check your own Battle Records if you've linked your Nintendo Account. Isn't that cool?
 sp_monbo_gift_0001_001	You've been given a present to commemorate the new update for Pokémon HOME!
 sp_monbo_gift_0001_002	You can pick it up from the Mystery Gifts menu!
+sp_monbo_gift_0002_001	Choose the Pokémon you want!
+sp_monbo_gift_0002_002	Are you sure you want the [VAR_PKCATEGORY] [VAR_PKNAME]?
 sp_monbo_get_calendar_0001_001	This is the Catch Calendar! All the Pokémon you have in Pokémon HOME can be found here, arranged in order based on the date on which you caught them!
 sp_monbo_get_calendar_0001_002	You can set any day you want as an Anniversary as well as change these settings later on, if you'd like. You can see which Pokémon were caught on Anniversaries, too.
 sp_monbo_get_calendar_0001_003	Go ahead and set up days that are important to you as Anniversaries!
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	Would you like to carry over your usage of the mobile d
 sp_option_holohlo_0001_vgo	Pokémon GO Link
 sp_option_holohlo_0004_vgo	Receive
 sp_option_holohlo_0005_vgo	Receive
+sp_option_my_parent_01_v6	Your Trainer Info settings
+sp_option_my_parent_02_v6	Manage multiple sets of Trainer Info at once.
+sp_option_my_parent_03_v6	Select/Remove
+sp_option_my_parent_04_v6	Show icon in Pokémon List
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	You have specified a special Pokémon as the Pokémon you 
 sp_trade_gts_00020_v3	Include people searching for Pokémon you don't have
 sp_trade_gts_00021_v3	Include people searching for Legendary, Mythical, and other special Pokémon
 sp_trade_gts_00022_v4	You have indicated that you want special Pokémon. Special Pokémon can't be traded. Please select a different Pokémon.
+sp_trade_gts_00023_v6	Deposited on [VAR_MONTH]/[VAR_DAY]/[VAR_YEAR]
+sp_trade_gts_00024_v6	Wanted Pokémon
+sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00029_v6	There are no users who are requesting the Pokémon you specified.
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
 sp_trade_gts_01002	I want to trade for a Pokémon that will help me with my adventure.
 sp_trade_gts_01003	I want to trade for a Pokémon that is strong in battles.
@@ -2854,6 +2865,9 @@ sp_ui_shape	Shape
 sp_ui_color	Color
 sp_ui_ball_v4	Poké Ball
 sp_ui_language_v4	Language
+sp_ui_my_parent_v6	Trainer Info
+sp_ui_my_parent_set_v6	Has my Trainer Info
+sp_ui_my_parent_no_set_v6	Has someone else's Trainer Info
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	Hardy Nature (no mints used)
 sp_ui_filter_seikaku_2_m	Lonely Nature or Mint
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	Deals no damage
 sp_ui_type_compatibility_04	Deals regular amount of damage
 sp_ui_type_compatibility_05	No icon
 sp_ui_pokemon_type	Type
+sp_ui_set_my_parent_v6	Identify as my Trainer Info
+sp_ui_unset_my_parent_v6	Remove from the list of my Trainer Info
+sp_ui_my_parent_max_dialog_text_v6	You can identify only up to 50 sets of Trainer Info as yours.
 sp_ui_pgl_battle_log	Battle Data
 sp_ui_pgl_rank_match	Ranked Battles
 sp_ui_pgl_internet_tournament	Online Competitions
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	Gift Box
 sp_ui_gift_empty_list	No Mystery Gifts found.
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Please enter a code.
+sp_ui_gift_select_title	Confirm Pokémon selection
+sp_ui_gift_select_confirm	Are you sure you want to select [VAR_PKNAME]?  Note: You won't be able to change this selection later.
+sp_ui_gift_select_reselect	Choose again
 sp_ui_achieve_dialog_all_clear	Completed
 sp_ui_achieve_dialog_header_title	Challenge Rewards
 sp_ui_achieve_sort_grade	Grade

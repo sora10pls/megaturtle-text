@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	¡En esta pantalla puedes consultar un montón de 
 sp_monbo_battle_data_0001_002	Puedes ver la clasificación mundial de Entrenadores y, si has vinculado una cuenta Nintendo, también podrás consultar tus resultados hasta ahora.
 sp_monbo_gift_0001_001	¡Has recibido un regalo conmemorativo de la nueva actualización de Pokémon HOME!
 sp_monbo_gift_0001_002	¡Puedes recogerlo en el menú Regalo misterioso!
+sp_monbo_gift_0002_001	¿Qué Pokémon te gustaría quedarte?
+sp_monbo_gift_0002_002	¿Seguro que quieres a [VAR_PKNAME], el [VAR_PKCATEGORY]?
 sp_monbo_get_calendar_0001_001	¡Este es el calendario de captura! Aquí puedes encontrar todos los Pokémon que tengas en Pokémon HOME, ordenados según la fecha en que los capturaste.
 sp_monbo_get_calendar_0001_002	Puedes convertir cualquier día del calendario en un aniversario y editar su configuración más adelante si así lo deseas. Además, puedes ver los Pokémon que atrapaste en dicho aniversario.
 sp_monbo_get_calendar_0001_003	¡Crea aniversarios en los días que consideres memorables!
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	¿Quieres transferir los datos de la versión para disp
 sp_option_holohlo_0001_vgo	Conexión con Pokémon GO
 sp_option_holohlo_0004_vgo	Recibir Pokémon
 sp_option_holohlo_0005_vgo	Recibir Pokémon
+sp_option_my_parent_01_v6	Mis EO y n.º ID
+sp_option_my_parent_02_v6	Confirma que uno o varios EO y n.º ID son tuyos.
+sp_option_my_parent_03_v6	Seleccionar/Eliminar
+sp_option_my_parent_04_v6	Mostrar icono en la lista de Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	Has elegido un Pokémon especial como Pokémon deseado. El
 sp_trade_gts_00020_v3	Incluir usuarios que buscan Pokémon que no tienes
 sp_trade_gts_00021_v3	Incluir usuarios que buscan Pokémon especiales, como legendarios y singulares
 sp_trade_gts_00022_v4	Has elegido un Pokémon especial como Pokémon deseado. Los Pokémon especiales no se pueden intercambiar. Elige otro Pokémon.
+sp_trade_gts_00023_v6	Depositado el [VAR_DAY]/[VAR_MONTH]/[VAR_YEAR]
+sp_trade_gts_00024_v6	Pokémon solicitados
+sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00029_v6	No se ha encontrado ningún usuario que busque el Pokémon indicado.
 sp_trade_gts_01001	¿Quieres intercambiar Pokémon conmigo?
 sp_trade_gts_01002	Busco un Pokémon que pueda ayudarme en mi aventura.
 sp_trade_gts_01003	Busco un Pokémon que me ayude a ganar combates.
@@ -2854,6 +2865,9 @@ sp_ui_shape	Figura
 sp_ui_color	Color
 sp_ui_ball_v4	Poké Ball
 sp_ui_language_v4	Idioma
+sp_ui_my_parent_v6	Mis EO y n.º ID
+sp_ui_my_parent_set_v6	Con mis EO y n.º ID
+sp_ui_my_parent_no_set_v6	Sin mis EO y n.º ID
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	Fuerte (sin usar mentas)
 sp_ui_filter_seikaku_2_m	Huraña o Menta Huraña
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	Sin efecto
 sp_ui_type_compatibility_04	Daño habitual
 sp_ui_type_compatibility_05	Sin icono
 sp_ui_pokemon_type	Tipo
+sp_ui_set_my_parent_v6	Confirmar como mis EO y n.º ID
+sp_ui_unset_my_parent_v6	Eliminar de mis EO y n.º ID confirmados
+sp_ui_my_parent_max_dialog_text_v6	Solo puedes confirmar hasta 50 EO y n.º ID.
 sp_ui_pgl_battle_log	Datos de combate
 sp_ui_pgl_rank_match	Combates Clasificatorios
 sp_ui_pgl_internet_tournament	Torneos en Línea
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	Caja de regalos
 sp_ui_gift_empty_list	No hay regalos misteriosos.
 sp_ui_gift_03001	Código
 sp_ui_gift_03002	Introduce un código.
+sp_ui_gift_select_title	Confirmación de la selección de Pokémon
+sp_ui_gift_select_confirm	¿Seguro que quieres seleccionar a [VAR_PKNAME]?  No podrás cambiar tu selección más adelante.
+sp_ui_gift_select_reselect	Volver a elegir
 sp_ui_achieve_dialog_all_clear	COMPLETADO
 sp_ui_achieve_dialog_header_title	Recompensa
 sp_ui_achieve_sort_grade	Rango

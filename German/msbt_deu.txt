@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	Unter den Kampfdaten kannst du verschiedene Inform
 sp_monbo_battle_data_0001_002	Dort findest du zum Beispiel Ranglisten aller Trainer weltweit. Außerdem kannst du deine eigenen Kampfergebnisse überprüfen, sofern du dein Konto mit deinem Nintendo-Account verknüpft hast.
 sp_monbo_gift_0001_001	Du hast zur Feier des neuen Updates von Pokémon HOME ein Geschenk erhalten!
 sp_monbo_gift_0001_002	Du kannst es dir über das Geheimgeschenk-Menü abholen!
+sp_monbo_gift_0002_001	Wähle ein Pokémon aus!
+sp_monbo_gift_0002_002	Du wählst [VAR_PKNAME], das [VAR_PKCATEGORY]?
 sp_monbo_get_calendar_0001_001	Das hier ist der Fangkalender! All deine in Pokémon HOME gelagerten Pokémon werden hier in der Reihenfolge ihres Fangdatums angezeigt.
 sp_monbo_get_calendar_0001_002	Du kannst frei wählen, welchen Tag du als Jahrestag festlegen möchtest, und diese Einstellung später auch wieder ändern. Dir wird auch angezeigt, welche Pokémon du an dem jeweiligen Jahrestag gefangen hast.
 sp_monbo_get_calendar_0001_003	Lege Tage, die dir wichtig sind, als Jahrestage fest!
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	Möchtest du deine Daten der Mobilgerät-Version von Po
 sp_option_holohlo_0001_vgo	Verlinkung mit Pokémon GO
 sp_option_holohlo_0004_vgo	Pokémon empfangen
 sp_option_holohlo_0005_vgo	Pokémon empfangen
+sp_option_my_parent_01_v6	Meinen OT/meine ID-Nr. registrieren
+sp_option_my_parent_02_v6	Mehrere OT/ID-Nr. registrieren
+sp_option_my_parent_03_v6	Bestätigen/Entfernen
+sp_option_my_parent_04_v6	Symbole in der Pokémon-Übersicht anzeigen
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	Du hast ein besonderes Pokémon als gewünschtes Pokémon 
 sp_trade_gts_00020_v3	Inklusive Spielern, die Pokémon suchen, die du nicht besitzt
 sp_trade_gts_00021_v3	Inklusive Spielern, die Legendäre, Mysteriöse oder andere besondere Pokémon suchen
 sp_trade_gts_00022_v4	Du hast ein besonderes Pokémon als gewünschtes Pokémon festgelegt. Besondere Pokémon können nicht getauscht werden. Bitte wähle ein anderes Pokémon aus.
+sp_trade_gts_00023_v6	Datum der Einlagerung: [VAR_DAY].[VAR_MONTH].[VAR_YEAR] 
+sp_trade_gts_00024_v6	Gewünschte Pokémon
+sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00028_v6	[Name:PokemonName ] ([Name:FormName Idx="1" ])
+sp_trade_gts_00029_v6	Dieses Pokémon wird von keinem Nutzer gewünscht.
 sp_trade_gts_01001	Hallo! Lass uns tauschen!
 sp_trade_gts_01002	Ich bin auf der Suche nach einem Pokémon, das mir auf meinem Abenteuer weiterhilft!
 sp_trade_gts_01003	Ich bin auf der Suche nach einem Pokémon, das in Kämpfen zu Hochtouren aufläuft!
@@ -2737,7 +2748,7 @@ sp_ui_info	Neuigkeiten
 sp_ui_myroom	Dein Bereich
 sp_ui_trade	Tausch
 sp_ui_mysterious_gift	Geheimgeschenk
-sp_ui_mysterious_gift_2	Geheimgeschenke
+sp_ui_mysterious_gift_2	Geheimgeschenk
 sp_ui_settings	Einstellungen
 sp_ui_pgl	Kampfdaten
 sp_ui_library	Pokédex
@@ -2854,6 +2865,9 @@ sp_ui_shape	Silhouette
 sp_ui_color	Farbe
 sp_ui_ball_v4	Pokéball
 sp_ui_language_v4	Sprache
+sp_ui_my_parent_v6	Mein OT/meine ID-Nr.
+sp_ui_my_parent_set_v6	Mein OT/meine ID-Nr.
+sp_ui_my_parent_no_set_v6	Nicht registrierte Pokémon
 sp_ui_filter_parent	[VAR_PLAYER] ([VAR_TID])
 sp_ui_filter_seikaku_1_m	Robust (ohne Minze)
 sp_ui_filter_seikaku_2_m	Solo/Solo-Minze
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	Keine Wirkung
 sp_ui_type_compatibility_04	Effektiv
 sp_ui_type_compatibility_05	Kein Symbol
 sp_ui_pokemon_type	Typ
+sp_ui_set_my_parent_v6	Meinen OT/meine ID-Nr. registrieren
+sp_ui_unset_my_parent_v6	Meinen OT/meine ID-Nr. entfernen
+sp_ui_my_parent_max_dialog_text_v6	Du kannst bis zu 50 Originaltrainer/ID-Nr. registrieren.
 sp_ui_pgl_battle_log	Kampfdaten
 sp_ui_pgl_rank_match	Rangkämpfe
 sp_ui_pgl_internet_tournament	Online-Turniere
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	Geschenkbox
 sp_ui_gift_empty_list	Keine Geheimgeschenke vorhanden
 sp_ui_gift_03001	Seriencode
 sp_ui_gift_03002	Bitte gib einen Seriencode ein.
+sp_ui_gift_select_title	Ausgewählte Pokémon überprüfen
+sp_ui_gift_select_confirm	Bist du sicher, dass du [VAR_PKNAME] auswählen möchtest?  Hinweis: Du kannst deine Auswahl später nicht mehr rückgängig machen.
+sp_ui_gift_select_reselect	Neu auswählen
 sp_ui_achieve_dialog_all_clear	GESCHAFFT!
 sp_ui_achieve_dialog_header_title	Belohnung
 sp_ui_achieve_sort_grade	Stufe

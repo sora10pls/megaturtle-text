@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトル�
 sp_monbo_battle_data_0001_002	世界中の　トレーナーの　ランキングを　見たり ニンテンドーアカウントを　連携していると これまでの　自分の戦績も　確認できるんだモン！
 sp_monbo_gift_0001_001	『Pokémon HOME』の　アップデート記念に プレゼントが　あるモン！
 sp_monbo_gift_0001_002	「ふしぎなおくりもの」から 受けとって　欲しいモン！
+sp_monbo_gift_0002_001	どのポケモンにするか 選んでモン！
+sp_monbo_gift_0002_002	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいモン？
 sp_monbo_get_calendar_0001_001	ここは　ゲットカレンダー！ 『Pokémon HOME』に　預けているポケモンが 捕まえた日にち順に　並んでいるモン！
 sp_monbo_get_calendar_0001_002	記念日には　好きな日にちを 登録・編集することが　できるモン！ 登録した記念日に　捕まえたポケモンを 絞り込みできるモン！
 sp_monbo_get_calendar_0001_003	自分だけの　思い出の日を 記念日に　登録するといいモン！
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	スマートフォン版Pokémon HOMEを 引き継い�
 sp_option_holohlo_0001_vgo	Pokémon GO連携
 sp_option_holohlo_0004_vgo	引き取る
 sp_option_holohlo_0005_vgo	引き取る
+sp_option_my_parent_01_v6	マイおや／IDNo.の　設定
+sp_option_my_parent_02_v6	マイおや／IDNo.を複数設定する
+sp_option_my_parent_03_v6	選択・解除する
+sp_option_my_parent_04_v6	ポケモン一覧で　アイコンを表示する
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn_kanji.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指
 sp_trade_gts_00020_v3	自分が　持っていない　ポケモンを 探している人を　含む
 sp_trade_gts_00021_v3	伝説や　幻などの　特別な ポケモンを　探している人を　含む
 sp_trade_gts_00022_v4	ほしいポケモンに　特別な　ポケモンが　 指定されています 特別な　ポケモンは　交換できません 選びなおしてください　
+sp_trade_gts_00023_v6	預けた日：[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_trade_gts_00024_v6	求められているポケモン
+sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
+sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00029_v6	指定したポケモンを 求めているユーザーはいません
 sp_trade_gts_01001	交換を　してください よろしく　お願いします
 sp_trade_gts_01002	冒険を　助けてくれる ポケモンと　交換したいです
 sp_trade_gts_01003	対戦で　強い　ポケモンと 交換したいです
@@ -2854,6 +2865,9 @@ sp_ui_shape	形
 sp_ui_color	色
 sp_ui_ball_v4	ボール
 sp_ui_language_v4	言語
+sp_ui_my_parent_v6	マイおや／IDNo.
+sp_ui_my_parent_set_v6	マイおや／IDNo.
+sp_ui_my_parent_no_set_v6	マイおや／IDNo.以外
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	効果がない
 sp_ui_type_compatibility_04	通常の効果
 sp_ui_type_compatibility_05	無印
 sp_ui_pokemon_type	タイプ
+sp_ui_set_my_parent_v6	マイおや／IDNo.を設定する
+sp_ui_unset_my_parent_v6	マイおや／IDNo.を解除する
+sp_ui_my_parent_max_dialog_text_v6	マイおや／IDNo.を設定できるのは 50件までです
 sp_ui_pgl_battle_log	バトルデータ
 sp_ui_pgl_rank_match	ランクバトル
 sp_ui_pgl_internet_tournament	インターネット大会
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	プレゼントボックス
 sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　入力してください
+sp_ui_gift_select_title	選んだポケモンの確認
+sp_ui_gift_select_confirm	本当に　[VAR_PKNAME]　で いいですか？  ※この後　選んだポケモンを 変更することは　できません
+sp_ui_gift_select_reselect	選びなおす
 sp_ui_achieve_dialog_all_clear	達成済み
 sp_ui_achieve_dialog_header_title	達成報酬
 sp_ui_achieve_sort_grade	グレード

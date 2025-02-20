@@ -2150,6 +2150,8 @@ sp_monbo_battle_data_0001_001	在對戰資料中可以查看各種 有關寶可�
 sp_monbo_battle_data_0001_002	比如說可以看到世界各地訓練家的排行榜。 如果有和Nintendo Account連結， 還能確認到目前為止自己的成績喔萌！ 
 sp_monbo_gift_0001_001	為了紀念『Pokémon HOME』的更新， 有禮物送給你喔萌！
 sp_monbo_gift_0001_002	快從「神秘禮物」接收吧萌！
+sp_monbo_gift_0002_001	來選擇是哪一隻 寶可夢吧萌！
+sp_monbo_gift_0002_002	確定要選[VAR_PKCATEGORY]的 [VAR_PKNAME]嗎萌？
 sp_monbo_get_calendar_0001_001	這裡是捕捉日曆！ 寄放在『Pokémon HOME』中的寶可夢， 會按照捕捉到的日期來排列喔萌！
 sp_monbo_get_calendar_0001_002	在紀念日中，可以登錄或編輯 喜歡的日期喔萌！ 而且可以篩選出在登錄的紀念日 捕捉到的寶可夢喔萌！
 sp_monbo_get_calendar_0001_003	快把專屬你的回憶， 登錄到紀念日吧萌！
@@ -2418,6 +2420,10 @@ sp_option_nalink_0046_v2	要繼承智慧型手機版Pokémon HOME 的資料並�
 sp_option_holohlo_0001_vgo	Pokémon GO連結
 sp_option_holohlo_0004_vgo	接收
 sp_option_holohlo_0005_vgo	接收
+sp_option_my_parent_01_v6	設定我的初訓家／IDNo.
+sp_option_my_parent_02_v6	設定多個我的初訓家／IDNo.
+sp_option_my_parent_03_v6	選擇／解除
+sp_option_my_parent_04_v6	在寶可夢一覽中顯示圖示
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt
@@ -2658,6 +2664,11 @@ sp_trade_gts_00019_v1	想要的寶可夢目前指定的是 特殊的寶可夢。
 sp_trade_gts_00020_v3	包含正在尋找 自己未持有的寶可夢的人
 sp_trade_gts_00021_v3	包含正在尋找傳說或幻之寶可夢 等特別的寶可夢的人
 sp_trade_gts_00022_v4	想要的寶可夢目前指定的是 特殊的寶可夢。 特殊的寶可夢無法交換。 請重新選擇。
+sp_trade_gts_00023_v6	寄放日：[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_trade_gts_00024_v6	其他人在尋找的寶可夢
+sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
+sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00029_v6	沒有用戶在尋找 你所指定的寶可夢
 sp_trade_gts_01001	請進行交換。 拜託你了。
 sp_trade_gts_01002	我想要交換有助於 冒險的寶可夢。
 sp_trade_gts_01003	我想要交換善於 對戰的寶可夢。
@@ -2854,6 +2865,9 @@ sp_ui_shape	外形
 sp_ui_color	顏色
 sp_ui_ball_v4	精靈球
 sp_ui_language_v4	語言
+sp_ui_my_parent_v6	我的初訓家／IDNo.
+sp_ui_my_parent_set_v6	我的初訓家／IDNo.
+sp_ui_my_parent_no_set_v6	我的初訓家／IDNo.以外
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	勤奮＋薄荷
 sp_ui_filter_seikaku_2_m	怕寂寞＋薄荷
@@ -2919,6 +2933,9 @@ sp_ui_type_compatibility_03	沒有效果
 sp_ui_type_compatibility_04	效果一般
 sp_ui_type_compatibility_05	無標記
 sp_ui_pokemon_type	屬性
+sp_ui_set_my_parent_v6	設定為我的初訓家／IDNo.
+sp_ui_unset_my_parent_v6	解除我的初訓家／IDNo.
+sp_ui_my_parent_max_dialog_text_v6	我的初訓家／IDNo. 最多可設定50個。
 sp_ui_pgl_battle_log	對戰資料
 sp_ui_pgl_rank_match	級別對戰
 sp_ui_pgl_internet_tournament	網路大賽
@@ -3041,6 +3058,9 @@ sp_ui_gift_02007	禮物盒
 sp_ui_gift_empty_list	沒有神秘禮物。
 sp_ui_gift_03001	序號
 sp_ui_gift_03002	請輸入序號。
+sp_ui_gift_select_title	確認選擇的寶可夢
+sp_ui_gift_select_confirm	確定要選[VAR_PKNAME]嗎？  ※之後無法變更選擇的寶可夢
+sp_ui_gift_select_reselect	重新選擇
 sp_ui_achieve_dialog_all_clear	已完成
 sp_ui_achieve_dialog_header_title	完成獎勵
 sp_ui_achieve_sort_grade	等級
