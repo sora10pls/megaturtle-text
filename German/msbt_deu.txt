@@ -4123,6 +4123,14 @@ sp_mystery_0018_1	Pokémon-Legenden: Arceus Verlinkungsgeschenk Nr. 2!
 sp_mystery_0018_2	Du hast Pokémon-Legenden: Arceus mit Pokémon HOME verlinkt! Hier ist ein Feurigel als besonderes Geschenk!
 sp_mystery_0019_1	Pokémon-Legenden: Arceus Verlinkungsgeschenk Nr. 3!
 sp_mystery_0019_2	Du hast Pokémon-Legenden: Arceus mit Pokémon HOME verlinkt! Hier ist ein Ottaro als besonderes Geschenk!
+sp_mystery_0020_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 1!
+sp_mystery_0020_2	Du hast an dem Online-Turnier „Globale Challenge 2023 I“ in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Pokéball-Leinenrucksack als besonderes Geschenk!
+sp_mystery_0021_1	Mit Paldea verlinkt! (Geschenk ①)
+sp_mystery_0021_2	Du hast Pokémon HOME mit Pokémon Karmesin oder Pokémon Purpur verlinkt. Als Belohnung bekommst du ein Felori geschenkt!
+sp_mystery_0022_1	Mit Paldea verlinkt! (Geschenk ②)
+sp_mystery_0022_2	Du hast Pokémon HOME mit Pokémon Karmesin oder Pokémon Purpur verlinkt. Als Belohnung bekommst du ein Krokel geschenkt!
+sp_mystery_0023_1	Mit Paldea verlinkt! (Geschenk ③)
+sp_mystery_0023_2	Du hast Pokémon HOME mit Pokémon Karmesin oder Pokémon Purpur verlinkt. Als Belohnung bekommst du ein Kwaks geschenkt!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt

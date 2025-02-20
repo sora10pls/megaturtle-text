@@ -4123,6 +4123,14 @@ sp_mystery_0018_1	『Pokémon LEGENDS アルセウス』連携記念！②
 sp_mystery_0018_2	『Pokémon LEGENDS アルセウス』と 『Pokémon HOME』を　連携させた！ 記念に　ヒノアラシを　プレゼント！
 sp_mystery_0019_1	『Pokémon LEGENDS アルセウス』連携記念！③
 sp_mystery_0019_2	『Pokémon LEGENDS アルセウス』と 『Pokémon HOME』を　連携させた！ 記念に　ミジュマルを　プレゼント！
+sp_mystery_0020_1	『ポケモンS・V』大会参加記念！①
+sp_mystery_0020_2	『ポケモン スカーレット・バイオレット』で 開催していた　2023年4月 公式インターネット大会①に 参加してくれた　記念として 「キャンバスリュック モンスター」を　プレゼント！
+sp_mystery_0021_1	『ポケモン S・V』連携記念！①
+sp_mystery_0021_2	『ポケットモンスター スカーレット・ バイオレット』と 『Pokémon HOME』を　連携させた！ 記念に　ニャオハを　プレゼント！
+sp_mystery_0022_1	『ポケモン S・V』連携記念！②
+sp_mystery_0022_2	『ポケットモンスター スカーレット・ バイオレット』と 『Pokémon HOME』を　連携させた！ 記念に　ホゲータを　プレゼント！
+sp_mystery_0023_1	『ポケモン S・V』連携記念！③
+sp_mystery_0023_2	『ポケットモンスター スカーレット・ バイオレット』と 『Pokémon HOME』を　連携させた！ 記念に　クワッスを　プレゼント！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn_kanji.msbt

@@ -4123,6 +4123,14 @@ sp_mystery_0018_1	Un cadeau venu de Hisui ! ②
 sp_mystery_0018_2	Pour fêter la synchronisation de Légendes Pokémon : Arceus avec Pokémon HOME, nous vous offrons Héricendre !
 sp_mystery_0019_1	Un cadeau venu de Hisui ! ③
 sp_mystery_0019_2	Pour fêter la synchronisation de Légendes Pokémon : Arceus avec Pokémon HOME, nous vous offrons Moustillon !
+sp_mystery_0020_1	Récompense spéciale de compétition nº 1
+sp_mystery_0020_2	Vous avez pris part au « Défi Mondial I (2023) », une compétition Internet organisée dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Poké Ball en guise de récompense spéciale !
+sp_mystery_0021_1	Un cadeau venu de Paldea ! ①
+sp_mystery_0021_2	Pour fêter la synchronisation de Pokémon Écarlate ou Pokémon Violet avec Pokémon HOME, nous vous offrons Poussacha !
+sp_mystery_0022_1	Un cadeau venu de Paldea ! ②
+sp_mystery_0022_2	Pour fêter la synchronisation de Pokémon Écarlate ou Pokémon Violet avec Pokémon HOME, nous vous offrons Chochodile !
+sp_mystery_0023_1	Un cadeau venu de Paldea ! ③
+sp_mystery_0023_2	Pour fêter la synchronisation de Pokémon Écarlate ou Pokémon Violet avec Pokémon HOME, nous vous offrons Coiffeton !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt

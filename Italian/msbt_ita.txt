@@ -4123,6 +4123,14 @@ sp_mystery_0018_1	Benvenuti a Hisui: regalo nº 2!
 sp_mystery_0018_2	Hai collegato Leggende Pokémon: Arceus a Pokémon HOME! Per festeggiare, vogliamo regalarti un Cyndaquil!
 sp_mystery_0019_1	Benvenuti a Hisui: regalo nº 3!
 sp_mystery_0019_2	Hai collegato Leggende Pokémon: Arceus a Pokémon HOME! Per festeggiare, vogliamo regalarti un Oshawott!
+sp_mystery_0020_1	Sfida speciale a Paldea: regalo nº 1!
+sp_mystery_0020_2	Hai partecipato alla Sfida globale I (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi ad aprile 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Poké Ball!
+sp_mystery_0021_1	Benvenuti a Paldea: regalo nº 1!
+sp_mystery_0021_2	Hai collegato Pokémon Scarlatto o Pokémon Violetto a Pokémon HOME! Per festeggiare, vogliamo regalarti uno Sprigatito!
+sp_mystery_0022_1	Benvenuti a Paldea: regalo nº 2!
+sp_mystery_0022_2	Hai collegato Pokémon Scarlatto o Pokémon Violetto a Pokémon HOME! Per festeggiare, vogliamo regalarti un Fuecoco!
+sp_mystery_0023_1	Benvenuti a Paldea: regalo nº 3!
+sp_mystery_0023_2	Hai collegato Pokémon Scarlatto o Pokémon Violetto a Pokémon HOME! Per festeggiare, vogliamo regalarti un Quaxly!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt

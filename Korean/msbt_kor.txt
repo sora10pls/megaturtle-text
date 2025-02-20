@@ -4123,6 +4123,14 @@ sp_mystery_0018_1	Pokémon LEGENDS 아르세우스 연동 기념! ②
 sp_mystery_0018_2	Pokémon LEGENDS 아르세우스와 Pokémon HOME을 연동했다! 기념으로 브케인을 선물!
 sp_mystery_0019_1	Pokémon LEGENDS 아르세우스 연동 기념! ③
 sp_mystery_0019_2	Pokémon LEGENDS 아르세우스와 Pokémon HOME을 연동했다! 기념으로 수댕이를 선물!
+sp_mystery_0020_1	포켓몬스터스칼렛・바이올렛 대회 참가 기념! ①
+sp_mystery_0020_2	포켓몬스터스칼렛・바이올렛에서 2023년 4월에 개최된 공식 인터넷 대회①에 참가한 기념으로 캔버스 륙색(몬스터)을 선물!
+sp_mystery_0021_1	포켓몬스터스칼렛･바이올렛 연동 기념! ①
+sp_mystery_0021_2	포켓몬스터스칼렛･바이올렛과 Pokémon HOME을 연동했다! 기념으로 나오하를 선물!
+sp_mystery_0022_1	포켓몬스터스칼렛･바이올렛 연동 기념! ②
+sp_mystery_0022_2	포켓몬스터스칼렛･바이올렛과 Pokémon HOME을 연동했다! 기념으로 뜨아거를 선물!
+sp_mystery_0023_1	포켓몬스터스칼렛･바이올렛 연동 기념! ③
+sp_mystery_0023_2	포켓몬스터스칼렛･바이올렛과 Pokémon HOME을 연동했다! 기념으로 꾸왁스를 선물!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt

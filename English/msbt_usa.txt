@@ -4123,6 +4123,14 @@ sp_mystery_0018_1	Pokémon Legends: Arceus Link Gift No. 2!
 sp_mystery_0018_2	You've linked Pokémon Legends: Arceus with Pokémon HOME! Here's Cyndaquil as a special gift!
 sp_mystery_0019_1	Pokémon Legends: Arceus Link Gift No. 3!
 sp_mystery_0019_2	You've linked Pokémon Legends: Arceus with Pokémon HOME! Here's Oshawott as a special gift!
+sp_mystery_0020_1	Special Competition Gift No. 1!
+sp_mystery_0020_2	You took part in the "2023 Global Challenge I" held in April in Pokémon Scarlet and Pokémon Violet! Here's a Poké Ball Canvas Backpack as a special gift!
+sp_mystery_0021_1	Special Link Gift No. 7!
+sp_mystery_0021_2	You've linked Pokémon Scarlet or Pokémon Violet with Pokémon HOME! Here's Sprigatito as a special gift!
+sp_mystery_0022_1	Special Link Gift No. 8!
+sp_mystery_0022_2	You've linked Pokémon Scarlet or Pokémon Violet with Pokémon HOME! Here's Fuecoco as a special gift!
+sp_mystery_0023_1	Special Link Gift No. 9!
+sp_mystery_0023_2	You've linked Pokémon Scarlet or Pokémon Violet with Pokémon HOME! Here's Quaxly as a special gift!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt
