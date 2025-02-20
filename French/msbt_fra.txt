@@ -1888,6 +1888,8 @@ sp_api_500_10607	Ce code ami est incorrect. Veuillez saisir un code valide.
 sp_api_800_100001	Veuillez réessayer dans un endroit avec une meilleure connexion.
 sp_api_400_11500	Vous ne pouvez pas envoyer ce Pokémon.
 sp_api_400_11502	Il y a un problème avec les critères du Pokémon recherché. Veuillez recommencer la sélection.
+sp_api_400_11650	Vous ne pouvez pas faire d'échanges depuis ce compte.
+sp_api_400_11651	Un ou plusieurs Pokémon ne peuvent pas être échangés.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_fra.msbt

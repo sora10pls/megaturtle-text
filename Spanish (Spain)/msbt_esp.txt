@@ -1888,6 +1888,8 @@ sp_api_500_10607	La clave de amigo es incorrecta. Comprueba la clave y vuelve a 
 sp_api_800_100001	Comprueba tu conexión e inténtalo de nuevo en un sitio en el que la señal sea más estable.
 sp_api_400_11500	No puedes intercambiar este Pokémon.
 sp_api_400_11502	Hay un problema con los criterios de selección del Pokémon deseado. Elige de nuevo.
+sp_api_400_11650	No puedes realizar intercambios con esta cuenta.
+sp_api_400_11651	Al menos uno de los Pokémon incluidos no puede ser intercambiado.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_esp.msbt

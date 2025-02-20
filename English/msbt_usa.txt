@@ -1888,6 +1888,8 @@ sp_api_500_10607	The Friend Code is incorrect. Please enter the code again.
 sp_api_800_100001	Please try again in an environment with a better network connection.
 sp_api_400_11500	You can't trade this Pokémon.
 sp_api_400_11502	There is a problem with the conditions for the Pokémon you want. Please change your selection.
+sp_api_400_11650	You can't trade Pokémon with this account.
+sp_api_400_11651	You've included one or more Pokémon that can't be traded.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_usa.msbt

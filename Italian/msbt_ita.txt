@@ -1888,6 +1888,8 @@ sp_api_500_10607	Il codice amico inserito è sbagliato. Riprova.
 sp_api_800_100001	Riprova in un luogo in cui la connessione è più stabile.
 sp_api_400_11500	Questo Pokémon non può essere scambiato.
 sp_api_400_11502	C'è un problema con i criteri selezionati per il Pokémon richiesto. Scegli un altro Pokémon.
+sp_api_400_11650	Non puoi effettuare scambi con questo account.
+sp_api_400_11651	Sono presenti uno o più Pokémon che non possono essere scambiati.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_ita.msbt

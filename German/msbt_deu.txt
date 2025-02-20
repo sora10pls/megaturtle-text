@@ -1888,6 +1888,8 @@ sp_api_500_10607	Der eingegebene Freundescode ist nicht korrekt. Bitte versuche 
 sp_api_800_100001	Bitte begib dich in eine Umgebung mit besserer Netzwerkverbindung und versuche es erneut.
 sp_api_400_11500	Du kannst dieses Pokémon nicht tauschen.
 sp_api_400_11502	Es gibt ein Problem mit den Kriterien für dein gewünschtes Pokémon. Bitte wähle sie neu aus.
+sp_api_400_11650	Mit diesem Konto kannst du keine Pokémon tauschen.
+sp_api_400_11651	In deiner Auswahl befindet sich mindestens ein Pokémon, das nicht getauscht werden kann.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_deu.msbt
