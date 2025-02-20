@@ -2228,7 +2228,7 @@ sp_option_terms2	Nutzungsbedingungen
 sp_option_terms_5	Ich stimme zu
 sp_option_terms_6	Ich stimme nicht zu
 sp_option_addsdk_1	Über die Nutzung deiner Daten
-sp_option_terms_00012_v1	
+sp_option_terms_00012_v1	Aktualisierung der Nutzungsbedingungen und Datenschutzerklärung
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	Bereit!
 sp_trade_firend_00006	Auswahl läuft...
 sp_trade_firend_00007	Bitte schalte die GPS-Funktionen ein.
 sp_trade_firend_00008	Der Tausch wird beendet. Möchtest du fortfahren?
+sp_trade_firend_00009_v1	GPS konnte nicht initialisiert werden. Du kehrst nun zum Tauschmenü zurück.
+sp_trade_firend_00010_v1	Es befindet sich niemand zum Tauschen in deiner Nähe. Versuche es erneut, wenn ein Tauschpartner in der Nähe ist.
 sp_trade_gts_00001	Pokémon ablegen
 sp_trade_gts_00002	Pokémon suchen
 sp_trade_gts_00003	Gewünschtes Pokémon
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	Du besitzt kein Pokémon, das den Wünschen deines Tauschpart
 sp_trade_gts_00016	Dieses Pokémon wurde bereits getauscht.
 sp_trade_gts_00017	Gewünschte Zielspielesoftware
 sp_trade_gts_00018	Minze eingesetzt
+sp_trade_gts_00019_v1	Du hast ein besonderes Pokémon als gewünschtes Pokémon festgelegt.
 sp_trade_gts_01001	Hallo! Lass uns tauschen!
 sp_trade_gts_01002	Ich bin auf der Suche nach einem Pokémon, das mir auf meinem Abenteuer weiterhilft!
 sp_trade_gts_01003	Ich bin auf der Suche nach einem Pokémon, das in Kämpfen zu Hochtouren aufläuft!
@@ -2551,7 +2554,7 @@ sp_ui_record	Statistiken
 sp_ui_player_log	Logbuch
 sp_ui_national_library	Nationaler Pokédex
 sp_ui_waza	Attacken
-sp_ui_tokusei	Fähigkeiten
+sp_ui_tokusei	Fähigkeit
 sp_ui_compare	Vergleich
 sp_ui_delivery	Verteilung
 sp_ui_friendcode	Freundescode
@@ -2753,7 +2756,7 @@ sp_ui_label_edit	Label bearbeiten
 sp_ui_label_seting_please	Bitte wähle Name und Farbe des Labels aus.
 sp_ui_label_name	Label-Name
 sp_ui_label_input_please	maximal 16 Zeichen
-sp_ui_label_input_limit_v1	
+sp_ui_label_input_limit_v1	maximal [VAR] Zeichen
 sp_ui_label_over_size	Dieser Label-Name ist zu lang!
 sp_ui_label_cant_use_word	Dieser Name enthält unzulässige Zeichen!
 sp_ui_icon	Symbol
@@ -2819,7 +2822,7 @@ sp_ui_achieve_empty_list	Keine Erfolge vorhanden
 sp_ui_achieve_join_ok	Erfolg erzielt!
 sp_ui_achieve_join_ng	Es gibt keine Erfolge, die du erzielen kannst.
 sp_ui_report_01	[VAR_YEAR]Ԁ
-sp_ui_report_02	[VAR_YEAR]̀ P
+sp_ui_report_02	[VAR_YEAR]Ԁ P
 sp_ui_report_03	Gelagerte Pokémon
 sp_ui_report_04	Entnommene Pokémon
 sp_ui_report_05	Erhaltene Punkte
@@ -2847,7 +2850,7 @@ sp_ui_notice_empty_list	Keine Neuigkeiten vorhanden
 sp_ui_voice_input	Mikrofon-Input wird überprüft...
 sp_ui_voice_input_error	Ein Fehler ist aufgetreten.  Berühre das Mikrofon-Symbol, um es erneut zu versuchen.
 sp_ui_recognizer_limit_error	Die tägliche maximale Anzahl für Nutzungen der Spracheingabe wurde erreicht.
-sp_ui_myroom_point_number	[VAR_YEAR]̀ P
+sp_ui_myroom_point_number	[VAR_YEAR]Ԁ P
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

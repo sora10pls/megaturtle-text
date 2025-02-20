@@ -2228,7 +2228,7 @@ sp_option_terms2	用户协议
 sp_option_terms_5	同意
 sp_option_terms_6	不同意
 sp_option_addsdk_1	关于用户信息的使用
-sp_option_terms_00012_v1	
+sp_option_terms_00012_v1	更新用户协议及隐私权政策
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	准备就绪
 sp_trade_firend_00006	选择中
 sp_trade_firend_00007	请开启GPS功能。
 sp_trade_firend_00008	确定要结束交换吗？
+sp_trade_firend_00009_v1	初始化GPS失败， 即将返回交换首页。
+sp_trade_firend_00010_v1	附近没有交换对象， 请靠近后再试一次。
 sp_trade_gts_00001	寄放宝可梦
 sp_trade_gts_00002	搜索宝可梦
 sp_trade_gts_00003	想要的宝可梦
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	你没有对方想要的宝可梦。
 sp_trade_gts_00016	这只宝可梦已被交换。
 sp_trade_gts_00017	想移动过去的作品
 sp_trade_gts_00018	更改薄荷后
+sp_trade_gts_00019_v1	你将特殊的宝可梦 指定为了想要的宝可梦。
 sp_trade_gts_01001	请进行交换。 拜托你了。
 sp_trade_gts_01002	我想要交换能帮助我冒险的宝可梦。
 sp_trade_gts_01003	我想要交换在对战中很强的宝可梦。
@@ -2753,7 +2756,7 @@ sp_ui_label_edit	编辑标签
 sp_ui_label_seting_please	请设定标签的名称与颜色。
 sp_ui_label_name	标签名
 sp_ui_label_input_please	最长８个字
-sp_ui_label_input_limit_v1	
+sp_ui_label_input_limit_v1	最长[VAR]个字
 sp_ui_label_over_size	超过字数限制。
 sp_ui_label_cant_use_word	包含无法使用的文字。
 sp_ui_icon	图标

@@ -2228,7 +2228,7 @@ sp_option_terms2	Condiciones de uso
 sp_option_terms_5	Sí
 sp_option_terms_6	No
 sp_option_addsdk_1	Uso de datos
-sp_option_terms_00012_v1	
+sp_option_terms_00012_v1	Actualización de las condiciones de uso y de la política de privacidad
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
@@ -2295,7 +2295,7 @@ sp_playerlog_00026	Se fue con
 sp_playerlog_00027	Volvió de su aventura.
 sp_playerlog_00028	Se fue de aventura.
 sp_playerlog_00029	Regresó a la vida salvaje.
-sp_playerlog_00030	Vino desde el Banco de Pokémon.
+sp_playerlog_00030	Efectuaste un traslado desde el Banco de Pokémon.
 sp_playerlog_00031	Dispositivo
 sp_playerlog_00032	Pokémon transferidos
 sp_playerlog_00033	Pokémon depositados
@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	Todo listo
 sp_trade_firend_00006	Eligiendo Pokémon...
 sp_trade_firend_00007	Activa el GPS de tu dispositivo.
 sp_trade_firend_00008	Se finalizará el intercambio. ¿Quieres continuar?
+sp_trade_firend_00009_v1	No se ha podido iniciar el GPS. Regresarás al menú de intercambios.
+sp_trade_firend_00010_v1	No se ha encontrado ningún usuario cercano con el que realizar un intercambio. Acercaos más e intentadlo de nuevo.
 sp_trade_gts_00001	Depositar Pokémon
 sp_trade_gts_00002	Buscar Pokémon
 sp_trade_gts_00003	Pokémon deseado
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	No tienes ningún Pokémon que quiera el otro usuario.
 sp_trade_gts_00016	Ya has intercambiado a este Pokémon.
 sp_trade_gts_00017	Juego al que lo quieres transferir
 sp_trade_gts_00018	Tras usar una menta
+sp_trade_gts_00019_v1	Has elegido un Pokémon especial como Pokémon deseado.
 sp_trade_gts_01001	¿Quieres intercambiar Pokémon conmigo?
 sp_trade_gts_01002	Busco un Pokémon que pueda ayudarme en mi aventura.
 sp_trade_gts_01003	Busco un Pokémon que me ayude a ganar combates.
@@ -2611,7 +2614,7 @@ sp_ui_title_menu_05_dialog_progress	Borrando caché...
 sp_ui_title_menu_05_dialog_done	Se ha borrado la caché.
 sp_ui_title_menu_support_id	ID de usuario
 sp_ui_title_menu_06_v1	Copiar ID de usuario
-sp_ui_title_menu_06_dialog_text_v1	Se ha copiado el ID de usuario al portapapeles.
+sp_ui_title_menu_06_dialog_text_v1	El ID se ha copiado en el portapapeles.
 sp_ui_downlod_0001	Iniciando...
 sp_ui_downlod_0002	Descargando datos maestros...
 sp_ui_downlod_0003	Se han descargado los datos maestros.
@@ -2753,7 +2756,7 @@ sp_ui_label_edit	Editar etiqueta
 sp_ui_label_seting_please	Elige un nombre y un color para la etiqueta.
 sp_ui_label_name	Nombre:
 sp_ui_label_input_please	16 caracteres como máximo
-sp_ui_label_input_limit_v1	
+sp_ui_label_input_limit_v1	[VAR] caracteres como máximo
 sp_ui_label_over_size	El nombre es muy largo.
 sp_ui_label_cant_use_word	Has introducido caracteres no válidos.
 sp_ui_icon	Avatar

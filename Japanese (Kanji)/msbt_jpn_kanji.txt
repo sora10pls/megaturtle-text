@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	準備完了
 sp_trade_firend_00006	選択中
 sp_trade_firend_00007	GPS機能を　オンにしてください
 sp_trade_firend_00008	交換を　終了します よろしいですか？
+sp_trade_firend_00009_v1	GPSの初期化に　失敗しました 交換トップに　戻ります
+sp_trade_firend_00010_v1	交換相手が　近くにいません 近づいてから　もう一度　お試しください
 sp_trade_gts_00001	ポケモンを預ける
 sp_trade_gts_00002	ポケモンを探す
 sp_trade_gts_00003	ほしいポケモン
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	あいてのほしいポケモンを 持っていません
 sp_trade_gts_00016	交換済みのポケモンです
 sp_trade_gts_00017	つれていきたいタイトル
 sp_trade_gts_00018	ミント変更後
+sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指定されています
 sp_trade_gts_01001	交換を　してください よろしく　お願いします
 sp_trade_gts_01002	冒険を　助けてくれる ポケモンと　交換したいです
 sp_trade_gts_01003	対戦で　強い　ポケモンと 交換したいです

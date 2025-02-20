@@ -2228,7 +2228,7 @@ sp_option_terms2	Terms of Use
 sp_option_terms_5	I agree
 sp_option_terms_6	I don't agree
 sp_option_addsdk_1	Usage of Your Information
-sp_option_terms_00012_v1	
+sp_option_terms_00012_v1	Updates to the Terms of Use and Privacy Notice
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	Ready!
 sp_trade_firend_00006	Selecting...
 sp_trade_firend_00007	Please turn on the GPS function.
 sp_trade_firend_00008	You're about to end the trade. Is this OK?
+sp_trade_firend_00009_v1	Failed to initialize GPS. Returning to the main trading menu...
+sp_trade_firend_00010_v1	Your trading partner is not nearby. Please try again when your trading partner is closer.
 sp_trade_gts_00001	Deposit Pokémon
 sp_trade_gts_00002	Search for Pokémon
 sp_trade_gts_00003	Pokémon wanted
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	You don't have a Pokémon that your partner wants.
 sp_trade_gts_00016	This Pokémon has been traded.
 sp_trade_gts_00017	Game you want to move it to
 sp_trade_gts_00018	Mint applied
+sp_trade_gts_00019_v1	You have specified a special Pokémon as the Pokémon you want.
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
 sp_trade_gts_01002	I want to trade for a Pokémon that will help me with my adventure.
 sp_trade_gts_01003	I want to trade for a Pokémon that is strong in battles.
@@ -2753,7 +2756,7 @@ sp_ui_label_edit	Edit existing label
 sp_ui_label_seting_please	Choose a name and color for your label.
 sp_ui_label_name	Label name
 sp_ui_label_input_please	16 characters max
-sp_ui_label_input_limit_v1	
+sp_ui_label_input_limit_v1	[VAR] characters max
 sp_ui_label_over_size	The label name is too long!
 sp_ui_label_cant_use_word	This name contains characters that can't be used.
 sp_ui_icon	Icon

@@ -2228,7 +2228,7 @@ sp_option_terms2	Termini di utilizzo
 sp_option_terms_5	Accetto
 sp_option_terms_6	Non accetto
 sp_option_addsdk_1	Uso dei dati personali
-sp_option_terms_00012_v1	
+sp_option_terms_00012_v1	Aggiornamento dei termini di utilizzo e dell'informativa sulla privacy
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
@@ -2295,7 +2295,7 @@ sp_playerlog_00026	Portato via da
 sp_playerlog_00027	Ha fatto ritorno dall'avventura.
 sp_playerlog_00028	È partito all'avventura.
 sp_playerlog_00029	Ha fatto ritorno nella natura.
-sp_playerlog_00030	È stato trasferito dalla Banca Pokémon.
+sp_playerlog_00030	Hai fatto un trasferimento dalla Banca Pokémon.
 sp_playerlog_00031	Dispositivo
 sp_playerlog_00032	Pokémon trasferiti
 sp_playerlog_00033	Pokémon depositati
@@ -2371,7 +2371,7 @@ sp_trade_01005	Non puoi effettuare questa azione.
 sp_trade_01006	Non puoi selezionare un Pokémon che hai aggiunto ai preferiti.
 sp_trade_02001	Stai inviando [VAR_PKNAME] a [VAR_PLAYER]! Ciao, [VAR_PKNAME]!
 sp_trade_02002	[VAR_PLAYER] ha inviato [VAR_PKNAME]!
-sp_trade_02003	Prediti cura di [VAR_PKNAME]!
+sp_trade_02003	Prenditi cura di [VAR_PKNAME]!
 sp_trade_02004	[VAR_PKNAME] verrà depositato nel GTS! Ciao, [VAR_PKNAME]!
 sp_trade_02005	[VAR_PKNAME] è arrivato dal GTS!
 sp_trade_02006	Hai ripreso [VAR_PKNAME].
@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	Preparativi terminati
 sp_trade_firend_00006	Selezione in corso...
 sp_trade_firend_00007	Attiva il GPS.
 sp_trade_firend_00008	Lo scambio verrà annullato. Vuoi continuare?
+sp_trade_firend_00009_v1	Si è verificato un errore durante l'inizializzazione del GPS. Tornerai al menu degli scambi.
+sp_trade_firend_00010_v1	Non sono stati trovati utenti nelle vicinanze con cui effettuare lo scambio. Avvicinati all'altro utente e riprova.
 sp_trade_gts_00001	Offri Pokémon
 sp_trade_gts_00002	Cerca Pokémon
 sp_trade_gts_00003	Pokémon richiesto
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	Non hai Pokémon che interessano all'altro utente.
 sp_trade_gts_00016	Questo Pokémon è stato scambiato.
 sp_trade_gts_00017	Gioco di destinazione
 sp_trade_gts_00018	Con la menta
+sp_trade_gts_00019_v1	Il Pokémon richiesto è un Pokémon speciale.
 sp_trade_gts_01001	Ciao! Vuoi fare uno scambio?
 sp_trade_gts_01002	Cerco un Pokémon che mi aiuti ad avanzare nella mia avventura!
 sp_trade_gts_01003	Cerco un Pokémon fortissimo nelle lotte!
@@ -2508,7 +2511,7 @@ sp_ui_yes	Sì
 sp_ui_no	No
 sp_ui_confirm	Conferma
 sp_ui_next_to	Avanti
-sp_ui_migration	Trasferisci
+sp_ui_migration	Trasferimenti
 sp_ui_connecting	Comunicazione in corso...
 sp_ui_loading	Caricamento in corso...
 sp_ui_retry	Riprova
@@ -2753,7 +2756,7 @@ sp_ui_label_edit	Modifica etichetta
 sp_ui_label_seting_please	Scegli il nome e il colore dell'etichetta.
 sp_ui_label_name	Nome etichetta
 sp_ui_label_input_please	Massimo 16 caratteri
-sp_ui_label_input_limit_v1	
+sp_ui_label_input_limit_v1	Massimo [VAR] caratteri
 sp_ui_label_over_size	Il nome è troppo lungo.
 sp_ui_label_cant_use_word	Hai usato caratteri non consentiti.
 sp_ui_icon	Icona

@@ -2228,7 +2228,7 @@ sp_option_terms2	Conditions d'utilisation
 sp_option_terms_5	J'accepte
 sp_option_terms_6	Je refuse
 sp_option_addsdk_1	Utilisation de vos informations
-sp_option_terms_00012_v1	
+sp_option_terms_00012_v1	Mise à jour des conditions d'utilisation et de l'avis sur la confidentialité
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_fra.msbt
@@ -2295,7 +2295,7 @@ sp_playerlog_00026	Emmené par
 sp_playerlog_00027	Revenu de l'aventure
 sp_playerlog_00028	Parti à l'aventure
 sp_playerlog_00029	Retourné à l'état sauvage
-sp_playerlog_00030	Transféré depuis Banque Pokémon
+sp_playerlog_00030	Vous avez fait un transfert depuis Banque Pokémon.
 sp_playerlog_00031	Plateforme
 sp_playerlog_00032	Pokémon transférés
 sp_playerlog_00033	Pokémon déposés
@@ -2441,6 +2441,8 @@ sp_trade_firend_00005	Prêt !
 sp_trade_firend_00006	Sélection
 sp_trade_firend_00007	Veuillez activer la fonctionnalité GPS.
 sp_trade_firend_00008	L'échange va prendre fin. Cela vous convient-il ?
+sp_trade_firend_00009_v1	L'initialisation du GPS a échoué. Retour à l'écran d'échange.
+sp_trade_firend_00010_v1	Aucun partenaire d'échange n'a été trouvé à proximité. Veuillez vous rapprocher de votre partenaire et réessayer.
 sp_trade_gts_00001	Déposer un Pokémon
 sp_trade_gts_00002	Chercher un Pokémon
 sp_trade_gts_00003	Pokémon recherché
@@ -2459,6 +2461,7 @@ sp_trade_gts_00015	Vous ne possédez pas le Pokémon recherché par votre parten
 sp_trade_gts_00016	Ce Pokémon a été échangé.
 sp_trade_gts_00017	Jeu de destination
 sp_trade_gts_00018	Avec l'aromate
+sp_trade_gts_00019_v1	Le Pokémon recherché est un Pokémon spécial.
 sp_trade_gts_01001	Merci d'échanger un Pokémon avec moi !
 sp_trade_gts_01002	J'aimerais avoir un Pokémon qui puisse m'aider dans mon aventure !
 sp_trade_gts_01003	J'aimerais avoir un Pokémon qui soit super fort en combat !
@@ -2753,7 +2756,7 @@ sp_ui_label_edit	Modifier une étiquette
 sp_ui_label_seting_please	Veuillez choisir un nom et une couleur pour l'étiquette.
 sp_ui_label_name	Nom de l'étiquette
 sp_ui_label_input_please	Maximum : 16 caractères
-sp_ui_label_input_limit_v1	
+sp_ui_label_input_limit_v1	Maximum : [VAR] caractères
 sp_ui_label_over_size	Ce nom est trop long.
 sp_ui_label_cant_use_word	Certains des caractères de ce nom ne peuvent pas être utilisés.
 sp_ui_icon	Avatar
