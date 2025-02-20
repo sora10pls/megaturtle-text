@@ -1993,6 +1993,13 @@ MONSNAME_1007	故勒顿
 MONSNAME_1008	密勒顿
 MONSNAME_1009	波荡水
 MONSNAME_1010	铁斑叶
+MONSNAME_1011	裹蜜虫
+MONSNAME_1012	斯魔茶
+MONSNAME_1013	来悲粗茶
+MONSNAME_1014	够赞狗
+MONSNAME_1015	愿增猿
+MONSNAME_1016	吉雉鸡
+MONSNAME_1017	厄诡椪
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_out_sch.msbt
@@ -3198,7 +3205,7 @@ mes_ribbon_info_104	友好的宝可梦的证章。
 mes_ribbon_info_105	热爱美食的宝可梦的证章。
 mes_ribbon_info_106	通过魔法交换获得的宝可梦 会有极低概率佩戴着的稀有奖章。
 mes_ribbon_info_107	曾是头目的宝可梦的证章。
-mes_ribbon_info_108	在★７太晶团体战中捕捉到的证章。
+mes_ribbon_info_108	拥有特殊实力的宝可梦的证章。
 mes_ribbon_info_109	曾是宝主的宝可梦的证章。
 
 ~~~~~~~~~~~~~~~
@@ -3422,7 +3429,7 @@ mes_ribbon_info_104	友好的宝可梦的证章。
 mes_ribbon_info_105	热爱美食的宝可梦的证章。
 mes_ribbon_info_106	通过魔法交换获得的宝可梦 会有极低概率佩戴着的稀有奖章。
 mes_ribbon_info_107	曾是头目的宝可梦的证章。
-mes_ribbon_info_108	在★７太晶团体战中捕捉到的证章。
+mes_ribbon_info_108	拥有特殊实力的宝可梦的证章。
 mes_ribbon_info_109	曾是宝主的宝可梦的证章。
 
 ~~~~~~~~~~~~~~~
@@ -5683,6 +5690,7 @@ sp_softwaredictionary_004	关都图鉴
 sp_softwaredictionary_005	神奥图鉴
 sp_softwaredictionary_006	洗翠图鉴
 sp_softwaredictionary_008	帕底亚图鉴
+sp_softwaredictionary_009	北上图鉴
 sp_softwaredictionary_007	图鉴
 
 ~~~~~~~~~~~~~~~
@@ -6005,6 +6013,8 @@ sp_ui_title_nalink_v2	Nintendo Account的信息已被更改， 请重新登录Ni
 sp_ui_title_nalink_complete_v2	成功登录Nintendo Account。
 sp_ui_title_nalink_error_v2	你所登录的Nintendo Account 与关联中的Nintendo Account不同。
 sp_ui_title_license	版权所有
+sp_ui_ngname_confirm_title	更改用户名
+sp_ui_ngname_confirm_body	你所使用的用户名 包含无法使用的词汇， 请更改用户名。  更改前的用户名 [VAR_PLAYER]
 sp_ui_downlod_0001	正在启动……
 sp_ui_downlod_0002	正在下载主数据……
 sp_ui_downlod_0003	主数据下载完成。
@@ -6637,6 +6647,46 @@ PLACENAME_a_w23_field_3_01	第零区
 PLACENAME_a_w23_field_3_02	
 PLACENAME_subarea_c01school_02_A	橘子学院
 PLACENAME_subarea_c01school_02_B	葡萄学院
+PLACENAME_a_su101_01	北上街道
+PLACENAME_a_su101_02	
+PLACENAME_subarea_su01t10_01	翠绿镇
+PLACENAME_subarea_su01t10_02	
+PLACENAME_a_su102_01	苹果之丘
+PLACENAME_a_su102_02	
+PLACENAME_subarea_su01w02_01	宝伴广场
+PLACENAME_subarea_su01w02_02	
+PLACENAME_a_su103_01	起舞山道
+PLACENAME_a_su103_02	
+PLACENAME_subarea_su01center_01	北上中心
+PLACENAME_subarea_su01center_02	
+PLACENAME_a_su104_01	鬼山
+PLACENAME_a_su104_02	
+PLACENAME_subarea_su01d0401_01	恐洞
+PLACENAME_subarea_su01d0401_02	鬼山
+PLACENAME_subarea_su01d03_01	鬼齿洞
+PLACENAME_subarea_su01d03_02	鬼山
+PLACENAME_a_su105_01	鬼山
+PLACENAME_a_su105_02	
+PLACENAME_a_su106_01	晶光池
+PLACENAME_a_su106_02	鬼山山顶
+PLACENAME_subarea_su01crest_01	晶光池
+PLACENAME_subarea_su01crest_02	鬼山山顶
+PLACENAME_a_su107_01	藤花原
+PLACENAME_a_su107_02	
+PLACENAME_a_su108_01	汇流河滩
+PLACENAME_a_su108_02	
+PLACENAME_a_su109_01	鬼角峡谷
+PLACENAME_a_su109_02	
+PLACENAME_a_su110_01	乐土荒地
+PLACENAME_a_su110_02	
+PLACENAME_a_su111_01	北上原生区
+PLACENAME_a_su111_02	
+PLACENAME_subarea_su01forest_01	永久森林
+PLACENAME_subarea_su01forest_02	北上原生区
+PLACENAME_subarea_su01w05_01	地狱谷
+PLACENAME_subarea_su01w05_02	鬼山
+PLACENAME_dungeon_a_su01d02_01	冷水洞
+PLACENAME_dungeon_a_su01d02_02	
 
 ~~~~~~~~~~~~~~~
 Text File : SV_place_name_spe_sch.msbt
@@ -8276,7 +8326,7 @@ TOKUSEIINFO_SV_031	将电属性的招式吸引到自己身上， 不会受到伤
 TOKUSEIINFO_SV_032	托天恩的福， 招式的追加效果容易出现。
 TOKUSEIINFO_SV_033	下雨天气时， 速度会提高。
 TOKUSEIINFO_SV_034	晴朗天气时， 速度会提高。
-TOKUSEIINFO_SV_035	通过让周围变亮， 变得容易遇到野生的宝可梦。
+TOKUSEIINFO_SV_035	通过让周围变亮 来保持命中率不会被降低。
 TOKUSEIINFO_SV_036	出场时，复制对手的特性， 变为与之相同的特性。
 TOKUSEIINFO_SV_037	物理攻击的威力会变为２倍。
 TOKUSEIINFO_SV_038	有时会让接触到自己的 对手变为中毒状态。
@@ -8540,6 +8590,14 @@ TOKUSEIINFO_SV_295	受到物理招式的伤害时， 会在对手脚下散布毒
 TOKUSEIINFO_SV_296	包裹头部的神秘尾巴 使对手无法对我方使出先制招式。
 TOKUSEIINFO_SV_297	受到地面属性的招式攻击时， 不会受到伤害，而是会得到回复。
 TOKUSEIINFO_SV_298	使出变化招式时， 虽然行动必定会变慢， 但能不受对手的特性妨碍。
+TOKUSEIINFO_SV_299	出场时款待同伴， 回复其少量ＨＰ。
+TOKUSEIINFO_SV_300	一般属性和格斗属性的招式可以 击中幽灵属性的宝可梦。无视对手的 闪避率的变化，且命中率不会被降低。
+TOKUSEIINFO_SV_301	将回忆映于心中， 让碧草面具发出光辉， 提高自己的速度。
+TOKUSEIINFO_SV_302	将回忆映于心中， 让火灶面具发出光辉， 提高自己的攻击。
+TOKUSEIINFO_SV_303	将回忆映于心中， 让水井面具发出光辉， 提高自己的特防。
+TOKUSEIINFO_SV_304	将回忆映于心中， 让础石面具发出光辉， 提高自己的防御。
+TOKUSEIINFO_SV_305	凭借含有毒素的锁链的力量， 有时能让被招式击中的对手 陷入剧毒状态。
+TOKUSEIINFO_SV_306	首次出场时， 会散发出甜腻的蜜的香味 来降低对手的闪避率。
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_sch.msbt
@@ -9115,6 +9173,14 @@ TOKUSEI_295	毒满地
 TOKUSEI_296	尾甲
 TOKUSEI_297	食土
 TOKUSEI_298	菌丝之力
+TOKUSEI_299	款待
+TOKUSEI_300	心眼
+TOKUSEI_301	面影辉映
+TOKUSEI_302	面影辉映
+TOKUSEI_303	面影辉映
+TOKUSEI_304	面影辉映
+TOKUSEI_305	毒锁链
+TOKUSEI_306	甘露之蜜
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_sch.msbt
@@ -10380,10 +10446,10 @@ WAZAINFO_ALL_823	以雷电般的动作 戏耍对手的同时使出脚踢。 可�
 WAZAINFO_ALL_824	向对手投掷 掀起暴风雪的冰矛进行攻击。
 WAZAINFO_ALL_825	用大量的小灵体向 对手发起攻击。
 WAZAINFO_ALL_826	用强大的精神力量攻击。 让对手最后使用的招式 减少３ＰＰ。
-WAZAINFO_ALL_827	以破灭之爪瞄准要害进行攻击。 有时还会让对手陷入中毒、 麻痹、睡眠之中的一种状态。
+WAZAINFO_ALL_827	以破灭之爪进行攻击。 有时还会让对手陷入中毒、 麻痹、睡眠之中的一种状态。
 WAZAINFO_ALL_828	让意念的能量覆盖全身， 撞向对手进行攻击。 会提高自己的防御。
 WAZAINFO_ALL_829	将自己的攻击 与防御互相交换。
-WAZAINFO_ALL_830	用岩石之斧瞄准要害进行攻击。 散落的岩石碎片 会飘浮在对手周围。
+WAZAINFO_ALL_830	用岩石之斧进行攻击。 散落的岩石碎片 会飘浮在对手周围。
 WAZAINFO_ALL_831	用交织着爱与恨的烈风 席卷对手进行攻击。 有时会降低对手的攻击。
 WAZAINFO_ALL_832	放出不可思议的力量攻击。 会提高自己的特攻。
 WAZAINFO_ALL_833	在２～３回合内， 一边放出火焰，一边疯狂乱打。 大闹一番后自己会陷入混乱。
@@ -10398,7 +10464,7 @@ WAZAINFO_ALL_841	用令人毛骨悚然的怨念进行攻击。 会降低对手�
 WAZAINFO_ALL_842	将皮肤变得坚硬如铁盾， 从而大幅提高自己的防御。
 WAZAINFO_ALL_843	使出一记腿技后同时发射３箭。 有时会降低对手的防御或 使对手畏缩。容易击中要害。
 WAZAINFO_ALL_844	用无数的火球进行攻击。 有时会让对手陷入灼伤状态。 攻击处于异常状态的对手时，威力会变成２倍。
-WAZAINFO_ALL_845	用贝壳之剑瞄准要害进行攻击。 散落的贝壳碎片会散落在 对手脚下成为撒菱。
+WAZAINFO_ALL_845	用贝壳之剑进行攻击。 散落的贝壳碎片会散落在 对手脚下成为撒菱。
 WAZAINFO_ALL_846	用足以让身心都止不住颤抖的 冰冷狂风进行攻击。 有时会降低对手的速度。
 WAZAINFO_ALL_847	呼唤雷云引起风暴， 用雷与风进行激烈的攻击。 有时会让对手陷入麻痹状态。
 WAZAINFO_ALL_848	用灼热的沙子和强烈的风 席卷对手进行攻击。 有时会让对手陷入灼伤状态。
@@ -10454,6 +10520,10 @@ WAZAINFO_ALL_897	― ― ―
 WAZAINFO_ALL_898	― ― ―
 WAZAINFO_ALL_899	― ― ―
 WAZAINFO_ALL_900	― ― ―
+WAZAINFO_ALL_901	从赤红如血的满月 发射出全部的气势。 这个招式无法连续使出２次。
+WAZAINFO_ALL_902	发射经搅拌的茶的大炮， 可以回复给予对手伤害的一半ＨＰ， 有时会让对手陷入灼伤状态。
+WAZAINFO_ALL_903	使粘稠的麦芽糖浆爆炸， 让对手陷入满身糖状态， 在３回合内持续降低其速度。
+WAZAINFO_ALL_904	用缠有藤蔓的棍棒殴打。 属性会随所戴的面具而改变。 容易击中要害。
 
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_BDSP_sch.msbt
@@ -13577,7 +13647,7 @@ WAZAINFO_SV_290	无法使用这个招式。 虽然忘记之后就再也想不起
 WAZAINFO_SV_291	第１回合潜入水中， 第２回合浮上来进行攻击。
 WAZAINFO_SV_292	用张开着的双手 猛推对手进行攻击。 连续攻击２～５次。
 WAZAINFO_SV_293	无法使用这个招式。 虽然忘记之后就再也想不起来了， 但还是建议忘记这个招式。
-WAZAINFO_SV_294	无法使用这个招式。 虽然忘记之后就再也想不起来了， 但还是建议忘记这个招式。
+WAZAINFO_SV_294	凝视闪烁的光芒， 集中自己的精神， 从而巨幅提高特攻。
 WAZAINFO_SV_295	释放耀眼的光芒进行攻击。 有时会降低对手的特防。
 WAZAINFO_SV_296	用围绕着雾状 羽毛的球进行攻击。 有时会降低对手的特攻。
 WAZAINFO_SV_297	撒出羽毛， 笼罩在对手的周围。 大幅降低对手的攻击。
@@ -13636,7 +13706,7 @@ WAZAINFO_SV_349	激烈地跳起神秘 且强有力的舞蹈。 从而提高自�
 WAZAINFO_SV_350	向对手发射 坚硬的岩石进行攻击。 连续攻击２～５次。
 WAZAINFO_SV_351	向对手快速发出电击。 攻击必定会命中。
 WAZAINFO_SV_352	用水的震动攻击对手。 有时会使对手混乱。
-WAZAINFO_SV_353	无法使用这个招式。 虽然忘记之后就再也想不起来了， 但还是建议忘记这个招式。
+WAZAINFO_SV_353	使用招式２回合后， 会用无数道光束攻击对手。
 WAZAINFO_SV_354	无法使用这个招式。 虽然忘记之后就再也想不起来了， 但还是建议忘记这个招式。
 WAZAINFO_SV_355	降到地面，使身体休息。 回复自己最大ＨＰ的一半。
 WAZAINFO_SV_356	在５回合内，飘浮特性和飞行属性的 宝可梦会被地面属性的招式击中。 飞向空中的招式也将无法使用。
@@ -13674,7 +13744,7 @@ WAZAINFO_SV_387	当战斗中已学会的招式 全部使用过后， 才能开�
 WAZAINFO_SV_388	种植心神不宁的种子。 使对手不能入眠， 并将特性变成不眠。
 WAZAINFO_SV_389	可以比对手先攻击。 对手使出的招式 如果不是攻击招式则会失败。
 WAZAINFO_SV_390	在对手的脚下撒毒菱。 使对手替换出场的宝可梦中毒。
-WAZAINFO_SV_391	无法使用这个招式。 虽然忘记之后就再也想不起来了， 但还是建议忘记这个招式。
+WAZAINFO_SV_391	利用超能力互换 自己和对手之间的 能力变化。
 WAZAINFO_SV_392	在自己身体的周围 覆盖用水制造的幕。 每回合回复ＨＰ。
 WAZAINFO_SV_393	利用电气产生的磁力浮在空中。 在５回合内可以飘浮。
 WAZAINFO_SV_394	让火焰覆盖全身猛撞向对手。 自己也会受到不小的伤害。 有时会让对手陷入灼伤状态。
@@ -14110,10 +14180,10 @@ WAZAINFO_SV_823	以雷电般的动作 戏耍对手的同时使出脚踢。 可�
 WAZAINFO_SV_824	向对手投掷 掀起暴风雪的冰矛进行攻击。
 WAZAINFO_SV_825	用大量的小灵体向 对手发起攻击。
 WAZAINFO_SV_826	用强大的精神力量攻击。 让对手最后使用的招式 减少３ＰＰ。
-WAZAINFO_SV_827	以破灭之爪瞄准要害进行攻击。 有时还会让对手陷入中毒、 麻痹、睡眠之中的一种状态。
+WAZAINFO_SV_827	以破灭之爪进行攻击。 有时还会让对手陷入中毒、 麻痹、睡眠之中的一种状态。
 WAZAINFO_SV_828	让意念的能量覆盖全身， 撞向对手进行攻击。 会提高自己的防御。
 WAZAINFO_SV_829	将自己的攻击 与防御互相交换。
-WAZAINFO_SV_830	用岩石之斧瞄准要害进行攻击。 散落的岩石碎片 会飘浮在对手周围。
+WAZAINFO_SV_830	用岩石之斧进行攻击。 散落的岩石碎片 会飘浮在对手周围。
 WAZAINFO_SV_831	用交织着爱与恨的烈风 席卷对手进行攻击。 有时会降低对手的攻击。
 WAZAINFO_SV_832	放出不可思议的力量攻击。 会提高自己的特攻。
 WAZAINFO_SV_833	在２～３回合内， 一边放出火焰，一边疯狂乱打。 大闹一番后自己会陷入混乱。
@@ -14128,7 +14198,7 @@ WAZAINFO_SV_841	用令人毛骨悚然的怨念进行攻击。 会降低对手的
 WAZAINFO_SV_842	将皮肤变得坚硬如铁盾， 从而大幅提高自己的防御。
 WAZAINFO_SV_843	使出一记腿技后同时发射３箭。 有时会降低对手的防御或 使对手畏缩。容易击中要害。
 WAZAINFO_SV_844	用无数的火球进行攻击。 有时会让对手陷入灼伤状态。 攻击处于异常状态的对手时，威力会变成２倍。
-WAZAINFO_SV_845	用贝壳之剑瞄准要害进行攻击。 散落的贝壳碎片会散落在 对手脚下成为撒菱。
+WAZAINFO_SV_845	用贝壳之剑进行攻击。 散落的贝壳碎片会散落在 对手脚下成为撒菱。
 WAZAINFO_SV_846	用足以让身心都止不住颤抖的 冰冷狂风进行攻击。 有时会降低对手的速度。
 WAZAINFO_SV_847	呼唤雷云引起风暴， 用雷与风进行激烈的攻击。 有时会让对手陷入麻痹状态。
 WAZAINFO_SV_848	用灼热的沙子和强烈的风 席卷对手进行攻击。 有时会让对手陷入灼伤状态。
@@ -14184,6 +14254,10 @@ WAZAINFO_SV_897	― ― ―
 WAZAINFO_SV_898	― ― ―
 WAZAINFO_SV_899	― ― ―
 WAZAINFO_SV_900	― ― ―
+WAZAINFO_SV_901	从赤红如血的满月 发射出全部的气势。 这个招式无法连续使出２次。
+WAZAINFO_SV_902	发射经搅拌的茶的大炮， 可以回复给予对手伤害的一半ＨＰ， 有时会让对手陷入灼伤状态。
+WAZAINFO_SV_903	使粘稠的麦芽糖浆爆炸， 让对手陷入满身糖状态， 在３回合内持续降低其速度。
+WAZAINFO_SV_904	用缠有藤蔓的棍棒殴打。 属性会随所戴的面具而改变。 容易击中要害。
 
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_SWSH_sch.msbt
@@ -15920,6 +15994,10 @@ WAZANAME_897	黑暗暴冲
 WAZANAME_898	剧毒暴冲
 WAZANAME_899	格斗暴冲
 WAZANAME_900	魔法暴冲
+WAZANAME_901	血月
+WAZANAME_902	刷刷茶炮
+WAZANAME_903	糖浆炸弹
+WAZANAME_904	棘藤棒
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_out_sch.msbt
@@ -17056,8 +17134,8 @@ ZKN_FORM_850_000
 ZKN_FORM_851_000	
 ZKN_FORM_852_000	
 ZKN_FORM_853_000	
-ZKN_FORM_854_000	
-ZKN_FORM_855_000	
+ZKN_FORM_854_000	赝品形态
+ZKN_FORM_855_000	赝品形态
 ZKN_FORM_856_000	
 ZKN_FORM_857_000	
 ZKN_FORM_858_000	
@@ -17495,8 +17573,8 @@ ZKN_FORM_845_002	大口吞的样子
 ZKN_FORM_849_001	低调的样子
 ZKN_FORM_849_999	超极巨化
 ZKN_FORM_851_999	超极巨化
-ZKN_FORM_854_001	
-ZKN_FORM_855_001	
+ZKN_FORM_854_001	真品形态
+ZKN_FORM_855_001	真品形态
 ZKN_FORM_858_999	超极巨化
 ZKN_FORM_861_999	超极巨化
 ZKN_FORM_869_001	奶香红钻
@@ -17524,6 +17602,7 @@ ZKN_FORM_893_001	阿爸
 ZKN_FORM_898_001	骑白马的样子
 ZKN_FORM_898_002	骑黑马的样子
 ZKN_FORM_900_001	王的样子
+ZKN_FORM_901_001	赫月
 ZKN_FORM_902_001	雌性的样子
 ZKN_FORM_905_001	灵兽形态
 ZKN_FORM_906_000	
@@ -17649,6 +17728,18 @@ ZKN_FORM_1008_003	浮水模式
 ZKN_FORM_1008_004	滑翔模式
 ZKN_FORM_1009_000	
 ZKN_FORM_1010_000	
+ZKN_FORM_1011_000	
+ZKN_FORM_1012_000	冒牌货的样子
+ZKN_FORM_1012_001	高档货的样子
+ZKN_FORM_1013_000	凡作的样子
+ZKN_FORM_1013_001	杰作的样子
+ZKN_FORM_1014_000	
+ZKN_FORM_1015_000	
+ZKN_FORM_1016_000	
+ZKN_FORM_1017_000	碧草面具
+ZKN_FORM_1017_001	水井面具
+ZKN_FORM_1017_002	火灶面具
+ZKN_FORM_1017_003	础石面具
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_sch.msbt
@@ -18979,6 +19070,7 @@ ZKN_HEIGHT_893_001	1.8m
 ZKN_HEIGHT_898_001	2.4m
 ZKN_HEIGHT_898_002	2.4m
 ZKN_HEIGHT_900_001	1.8m
+ZKN_HEIGHT_901_001	2.7m
 ZKN_HEIGHT_902_001	3.0m
 ZKN_HEIGHT_905_001	1.6m
 ZKN_HEIGHT_906_000	0.4m
@@ -19104,6 +19196,18 @@ ZKN_HEIGHT_1008_003	2.8m
 ZKN_HEIGHT_1008_004	2.8m
 ZKN_HEIGHT_1009_000	3.5m
 ZKN_HEIGHT_1010_000	1.5m
+ZKN_HEIGHT_1011_000	0.4m
+ZKN_HEIGHT_1012_000	0.1m
+ZKN_HEIGHT_1012_001	0.1m
+ZKN_HEIGHT_1013_000	0.2m
+ZKN_HEIGHT_1013_001	0.2m
+ZKN_HEIGHT_1014_000	1.8m
+ZKN_HEIGHT_1015_000	1.0m
+ZKN_HEIGHT_1016_000	1.4m
+ZKN_HEIGHT_1017_000	1.2m
+ZKN_HEIGHT_1017_001	1.2m
+ZKN_HEIGHT_1017_002	1.2m
+ZKN_HEIGHT_1017_003	1.2m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_sch.msbt
@@ -20119,6 +20223,13 @@ ZKN_TYPE_1007	悖谬宝可梦
 ZKN_TYPE_1008	悖谬宝可梦
 ZKN_TYPE_1009	悖谬宝可梦
 ZKN_TYPE_1010	悖谬宝可梦
+ZKN_TYPE_1011	糖苹果宝可梦
+ZKN_TYPE_1012	抹茶宝可梦
+ZKN_TYPE_1013	抹茶宝可梦
+ZKN_TYPE_1014	随从宝可梦
+ZKN_TYPE_1015	随从宝可梦
+ZKN_TYPE_1016	随从宝可梦
+ZKN_TYPE_1017	面具宝可梦
 ZKN_TYPE_058_001	放哨宝可梦
 ZKN_TYPE_077_001	一角宝可梦
 ZKN_TYPE_078_001	一角宝可梦
@@ -20142,9 +20253,15 @@ ZKN_TYPE_706_001	窝壳宝可梦
 ZKN_TYPE_720_001	魔神宝可梦
 ZKN_TYPE_898_001	帝皇宝可梦
 ZKN_TYPE_898_002	帝皇宝可梦
+ZKN_TYPE_901_001	泥炭宝可梦
 ZKN_TYPE_925_001	家族宝可梦
 ZKN_TYPE_964_001	英雄宝可梦
 ZKN_TYPE_999_001	寻宝宝可梦
+ZKN_TYPE_1012_001	抹茶宝可梦
+ZKN_TYPE_1013_001	抹茶宝可梦
+ZKN_TYPE_1017_001	面具宝可梦
+ZKN_TYPE_1017_002	面具宝可梦
+ZKN_TYPE_1017_003	面具宝可梦
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_sch.msbt
@@ -21475,6 +21592,7 @@ ZKN_WEIGHT_893_001	70.0kg
 ZKN_WEIGHT_898_001	809.1kg
 ZKN_WEIGHT_898_002	53.6kg
 ZKN_WEIGHT_900_001	89.0kg
+ZKN_WEIGHT_901_001	333.0kg
 ZKN_WEIGHT_902_001	110.0kg
 ZKN_WEIGHT_905_001	48.0kg
 ZKN_WEIGHT_906_000	4.1kg
@@ -21600,6 +21718,18 @@ ZKN_WEIGHT_1008_003	240.0kg
 ZKN_WEIGHT_1008_004	240.0kg
 ZKN_WEIGHT_1009_000	280.0kg
 ZKN_WEIGHT_1010_000	125.0kg
+ZKN_WEIGHT_1011_000	4.4kg
+ZKN_WEIGHT_1012_000	1.1kg
+ZKN_WEIGHT_1012_001	1.1kg
+ZKN_WEIGHT_1013_000	2.2kg
+ZKN_WEIGHT_1013_001	2.2kg
+ZKN_WEIGHT_1014_000	92.2kg
+ZKN_WEIGHT_1015_000	12.2kg
+ZKN_WEIGHT_1016_000	30.1kg
+ZKN_WEIGHT_1017_000	39.8kg
+ZKN_WEIGHT_1017_001	39.8kg
+ZKN_WEIGHT_1017_002	39.8kg
+ZKN_WEIGHT_1017_003	39.8kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_sch.msbt
@@ -27521,8 +27651,8 @@ ZKN_SCARLET_0020_001
 ZKN_SCARLET_0020_002	
 ZKN_SCARLET_0021_000	
 ZKN_SCARLET_0022_000	
-ZKN_SCARLET_0023_000	
-ZKN_SCARLET_0024_000	
+ZKN_SCARLET_0023_000	能自由地让颚部脱臼， 因此很大的猎物也能吞下， 但会因为变重而无法动弹。
+ZKN_SCARLET_0024_000	腹部的花纹看起来像一张可怕的脸。 弱小的敌人只要看到 这个花纹就会被吓跑。
 ZKN_SCARLET_0025_000	两颊上有储存电力的囊袋。 一旦生气就会把储存的电力 一口气释放出来。
 ZKN_SCARLET_0025_001	皮卡丘戴着的帽子 承载着许许多多和搭档 在许多地区冒险的回忆。
 ZKN_SCARLET_0025_002	皮卡丘戴着的帽子 承载着许许多多和搭档 在丰缘地区冒险的回忆。
@@ -27536,9 +27666,9 @@ ZKN_SCARLET_0025_009	皮卡丘戴着的帽子 承载着许许多多和搭档 在
 ZKN_SCARLET_0025_999	
 ZKN_SCARLET_0026_000	尾巴会发挥接地线的 作用把电导入地面， 因此自己不会被电到。
 ZKN_SCARLET_0026_001	
-ZKN_SCARLET_0027_000	
+ZKN_SCARLET_0027_000	会挖出深深的洞穴用来生活。 当危险逼近时，会蜷起身体 一动不动地忍受敌人的攻击。
 ZKN_SCARLET_0027_001	
-ZKN_SCARLET_0028_000	
+ZKN_SCARLET_0028_000	会敏捷地跑来跑去， 擅长用背上的针和 尖锐的爪进行攻击。
 ZKN_SCARLET_0028_001	
 ZKN_SCARLET_0029_000	
 ZKN_SCARLET_0030_000	
@@ -27546,11 +27676,11 @@ ZKN_SCARLET_0031_000
 ZKN_SCARLET_0032_000	
 ZKN_SCARLET_0033_000	
 ZKN_SCARLET_0034_000	
-ZKN_SCARLET_0035_000	
-ZKN_SCARLET_0036_000	
-ZKN_SCARLET_0037_000	
+ZKN_SCARLET_0035_000	在满月的夜晚，不知从何处 而来的皮皮们会聚集起来跳舞。 沐浴到月光后会浮在空中。
+ZKN_SCARLET_0036_000	妖精的一种，不喜欢 被人看见自己的身影。 据说生活在幽静的深山里。
+ZKN_SCARLET_0037_000	遭到比自己强大的对手 袭击时，会假装受伤来 迷惑对手，再趁机逃走。
 ZKN_SCARLET_0037_001	
-ZKN_SCARLET_0038_000	
+ZKN_SCARLET_0038_000	据传它的９条尾巴里 各蕴藏着不同的神秘力量。
 ZKN_SCARLET_0038_001	
 ZKN_SCARLET_0039_000	当它圆溜溜的大眼睛转动时 就会唱起奇妙又令人惬意的歌曲， 让人昏昏欲睡。
 ZKN_SCARLET_0040_000	拥有细腻的毛皮。 注意别惹它生气，否则它 会不断膨胀并向你压过来。
@@ -27579,9 +27709,9 @@ ZKN_SCARLET_0056_000	在树上群居的宝可梦。 和伙伴分散的猴怪会�
 ZKN_SCARLET_0057_000	仅是感觉到他方的视线 都会暴怒起来，然后去追 与它对上视线的家伙。
 ZKN_SCARLET_0058_000	能毫无畏惧地去对抗 比自己更强更大的对手。 性格勇敢非常可靠。
 ZKN_SCARLET_0059_000	根据过去的画卷记载， 它在草原上奔驰的姿态 俘虏了众多人心。
-ZKN_SCARLET_0060_000	
-ZKN_SCARLET_0061_000	
-ZKN_SCARLET_0062_000	
+ZKN_SCARLET_0060_000	腹部的漩涡是透过皮肤 所能看到的部分内脏。 进食后能看得很清楚。
+ZKN_SCARLET_0061_000	２条腿很发达， 虽然可以在地上生活， 但不知为何更喜欢生活在水里。
+ZKN_SCARLET_0062_000	擅长运用全身肌肉来 强而有力地游泳， 但不知为何生活在陆地上。
 ZKN_SCARLET_0063_000	
 ZKN_SCARLET_0064_000	
 ZKN_SCARLET_0065_000	
@@ -27590,16 +27720,16 @@ ZKN_SCARLET_0066_000
 ZKN_SCARLET_0067_000	
 ZKN_SCARLET_0068_000	
 ZKN_SCARLET_0068_999	
-ZKN_SCARLET_0069_000	
-ZKN_SCARLET_0070_000	
-ZKN_SCARLET_0071_000	
+ZKN_SCARLET_0069_000	只要周围有会动的东西， 它随时都会马上作出反应， 将细细的藤蔓伸过去。
+ZKN_SCARLET_0070_000	因为它也能分泌出 让溶解液无效的液体， 所以自身不会被溶解。
+ZKN_SCARLET_0071_000	一旦被像蜜一样的香味吸引到 它的口中就会无法得救。 只会被它的溶解液溶化掉。
 ZKN_SCARLET_0072_000	
 ZKN_SCARLET_0073_000	
-ZKN_SCARLET_0074_000	
+ZKN_SCARLET_0074_000	不动的时候怎么看都是颗小石头。 要是因此不小心踩到它， 它就会挥舞拳头大发雷霆。
 ZKN_SCARLET_0074_001	
-ZKN_SCARLET_0075_000	
+ZKN_SCARLET_0075_000	因为走路很慢，所以 靠滚来移动。途中遇到 什么都不会在意。
 ZKN_SCARLET_0075_001	
-ZKN_SCARLET_0076_000	
+ZKN_SCARLET_0076_000	被如岩盘般坚硬的壳包裹着。 １年蜕皮１次来变大。
 ZKN_SCARLET_0076_001	
 ZKN_SCARLET_0077_000	
 ZKN_SCARLET_0077_001	
@@ -27647,8 +27777,8 @@ ZKN_SCARLET_0105_002
 ZKN_SCARLET_0106_000	
 ZKN_SCARLET_0107_000	
 ZKN_SCARLET_0108_000	
-ZKN_SCARLET_0109_000	
-ZKN_SCARLET_0110_000	
+ZKN_SCARLET_0109_000	薄薄的气球状身体里 贮满了剧毒的瓦斯， 因此有时会发生大爆炸。
+ZKN_SCARLET_0110_000	将它体内所含的毒瓦斯 稀释到极限，就能做出 最高级的香水。
 ZKN_SCARLET_0110_001	
 ZKN_SCARLET_0111_000	
 ZKN_SCARLET_0112_000	
@@ -27693,7 +27823,7 @@ ZKN_SCARLET_0140_000
 ZKN_SCARLET_0141_000	
 ZKN_SCARLET_0142_000	
 ZKN_SCARLET_0142_001	
-ZKN_SCARLET_0143_000	
+ZKN_SCARLET_0143_000	是个睡觉之外的时间 都在吃个不停的大胃王。 １天能吃光４００公斤的食物。
 ZKN_SCARLET_0143_999	
 ZKN_SCARLET_0144_000	
 ZKN_SCARLET_0144_001	
@@ -27717,19 +27847,19 @@ ZKN_SCARLET_0157_000
 ZKN_SCARLET_0158_000	
 ZKN_SCARLET_0159_000	
 ZKN_SCARLET_0160_000	
-ZKN_SCARLET_0161_000	
-ZKN_SCARLET_0162_000	
-ZKN_SCARLET_0163_000	
-ZKN_SCARLET_0164_000	
+ZKN_SCARLET_0161_000	警戒心很强的宝可梦。 柔韧摆动的尾巴肌肉发达， 摸上去很硬。
+ZKN_SCARLET_0162_000	在细长的巢穴中养育孩子。 等孩子长大后，就会让孩子到 巢穴外做独立生活的准备。
+ZKN_SCARLET_0163_000	不管在什么时候， 体内的生物钟都准确无比， 会用固定的节奏倾斜头部。
+ZKN_SCARLET_0164_000	双眼有着特殊的构造。 只要接收到一点点光线， 即使是在黑暗中也能分辨四周的情况。
 ZKN_SCARLET_0165_000	
 ZKN_SCARLET_0166_000	
-ZKN_SCARLET_0167_000	
-ZKN_SCARLET_0168_000	
+ZKN_SCARLET_0167_000	即使有猎物被困在它用 丝做成的巢里，它也会 一动不动地等待到天黑。
+ZKN_SCARLET_0168_000	总会从屁股放出一根 特别的丝，沿着这根丝 就能到达它的巢。
 ZKN_SCARLET_0169_000	
 ZKN_SCARLET_0170_000	
 ZKN_SCARLET_0171_000	
 ZKN_SCARLET_0172_000	不擅长存储电力。 只要受到什么惊吓， 就会立马放电。
-ZKN_SCARLET_0173_000	
+ZKN_SCARLET_0173_000	在流星闪耀的深夜里 凝望着天空的样子， 似乎是在怀念故乡。
 ZKN_SCARLET_0174_000	散发着微微的甘甜香气， 弹性十足的柔软身体 一旦开始弹跳就停不下来。
 ZKN_SCARLET_0175_000	
 ZKN_SCARLET_0176_000	
@@ -27743,17 +27873,17 @@ ZKN_SCARLET_0182_000
 ZKN_SCARLET_0183_000	全身的体毛有着能将水弹开的特性， 所以就算碰到水也不会弄湿。
 ZKN_SCARLET_0184_000	长长的耳朵是灵敏的感应器。 通过聆听水中的声音， 能分辨出是什么在动。
 ZKN_SCARLET_0185_000	总是伪装成树的样子。 身体构造比起植物来， 好像更接近石头或岩石一类的东西。
-ZKN_SCARLET_0186_000	
+ZKN_SCARLET_0186_000	叫声响彻四周后， 蚊香蝌蚪和蚊香君们 就会从各地聚集过来。
 ZKN_SCARLET_0187_000	会随着风移动到很远的地方。 没有人知道帕底亚的 毽子草具体是从哪里来的。
 ZKN_SCARLET_0188_000	据说热爱毽子花的人能够 通过它头上花朵散发的香味 猜出它在哪里出生的。
 ZKN_SCARLET_0189_000	会随季风到处旅行。 当毽子棉的棉孢子掉光的时候， 就是它的旅行和生命终结之时。
-ZKN_SCARLET_0190_000	
+ZKN_SCARLET_0190_000	生活在高高的树上。 在树枝间跳跃移动时， 会用尾巴巧妙地保持平衡。
 ZKN_SCARLET_0191_000	会在某日清晨突然掉下来。 对自己的弱小心知肚明， 所以直到进化为止会不断积存养分。
 ZKN_SCARLET_0192_000	白天总是精力充沛， 随心所欲地到处活动， 但太阳下山后却一动不动。
-ZKN_SCARLET_0193_000	
-ZKN_SCARLET_0194_000	
+ZKN_SCARLET_0193_000	会高速扇动翅膀 让自身停留在空中 以监视自己的地盘。
+ZKN_SCARLET_0194_000	全身被透明的粘膜覆盖， 如果赤手去触摸它， 就会感到麻麻的。
 ZKN_SCARLET_0194_001	在地盘的争夺中落败而到 陆地生活，渐渐地就变成用 有毒的粘膜来保护身体。
-ZKN_SCARLET_0195_000	
+ZKN_SCARLET_0195_000	性格悠闲自得。 随心所欲游动时， 头总会撞到船底。
 ZKN_SCARLET_0196_000	预知对手的行动时， 分叉的尾巴前端就会微妙地摆动。
 ZKN_SCARLET_0197_000	当身体沐浴了月亮波动后， 圈圈一样的花纹就会微微发光， 继而使神奇的力量觉醒。
 ZKN_SCARLET_0198_000	人们相信晚上看到它 就会发生不吉利的事。 因此，它是受人忌讳的宝可梦。
@@ -27793,7 +27923,7 @@ ZKN_SCARLET_0203_000	尾巴上的脑袋虽然很小， 但却是可以发挥出 
 ZKN_SCARLET_0204_000	非常喜欢把树皮叠在身上加厚外壳。 就算变重了也不会在意。
 ZKN_SCARLET_0205_000	会贴在粗大的树干上。 一旦察觉到了什么， 就会射出外壳的碎片。
 ZKN_SCARLET_0206_000	在阴暗的地方制造迷宫。 一旦被发现，就用尾巴 挖掘地面逃之夭夭。
-ZKN_SCARLET_0207_000	
+ZKN_SCARLET_0207_000	在陡峭的岩壁上筑巢。 每次滑翔之后， 就要跳着回到巢里。
 ZKN_SCARLET_0208_000	
 ZKN_SCARLET_0208_001	
 ZKN_SCARLET_0209_000	
@@ -27807,10 +27937,10 @@ ZKN_SCARLET_0214_001
 ZKN_SCARLET_0215_000	潜藏在黑暗中让自己不显眼， 然后对猎物展开袭击， 是非常狡猾的宝可梦。
 ZKN_SCARLET_0216_000	会偷偷跟踪三蜜蜂找出 它们的巢，然后用手掌 挖起大量蜜汁来享用。
 ZKN_SCARLET_0217_000	虽然看上去无所畏惧， 但在舔食到最喜欢的蜜时， 会高兴得笑逐颜开。
-ZKN_SCARLET_0218_000	
-ZKN_SCARLET_0219_000	
-ZKN_SCARLET_0220_000	
-ZKN_SCARLET_0221_000	
+ZKN_SCARLET_0218_000	由熔岩构成的身体有时 会因变冷而缺损，但只要 泡到熔岩中就能恢复。
+ZKN_SCARLET_0219_000	生活在火山口附近。 由熔岩冷却凝固而成的 壳里积蓄着火之能量。
+ZKN_SCARLET_0220_000	会用鼻子的前端挖掘 地面寻找食物，即使是 结冰的地面也毫无问题。
+ZKN_SCARLET_0221_000	全身被长长的体毛覆盖着， 非常耐寒。它的冰牙在 下雪时会变得更粗。
 ZKN_SCARLET_0222_000	
 ZKN_SCARLET_0222_001	
 ZKN_SCARLET_0223_000	
@@ -27856,8 +27986,8 @@ ZKN_SCARLET_0258_000
 ZKN_SCARLET_0259_000	
 ZKN_SCARLET_0260_000	
 ZKN_SCARLET_0260_001	
-ZKN_SCARLET_0261_000	
-ZKN_SCARLET_0262_000	
+ZKN_SCARLET_0261_000	露出大大的獠牙 猛吠威吓对手的行为 是它性格胆小的表现。
+ZKN_SCARLET_0262_000	会忠实听从首领的命令。 通过超群的团队合作， 绝不会让盯上的猎物逃掉。
 ZKN_SCARLET_0263_000	
 ZKN_SCARLET_0263_001	
 ZKN_SCARLET_0264_000	
@@ -27867,12 +27997,12 @@ ZKN_SCARLET_0266_000
 ZKN_SCARLET_0267_000	
 ZKN_SCARLET_0268_000	
 ZKN_SCARLET_0269_000	
-ZKN_SCARLET_0270_000	
-ZKN_SCARLET_0271_000	
-ZKN_SCARLET_0272_000	
-ZKN_SCARLET_0273_000	
-ZKN_SCARLET_0274_000	
-ZKN_SCARLET_0275_000	
+ZKN_SCARLET_0270_000	头上的叶子拥有防污的特性。 即使承载满身泥巴的宝可梦， 也能保持叶子洁净。
+ZKN_SCARLET_0271_000	根据北上的古老传说记载， 这是喜爱恶作剧的小孩 转生而来的宝可梦。
+ZKN_SCARLET_0272_000	全身都有着接收到 节奏欢快的音波 便能制作出能量的结构。
+ZKN_SCARLET_0273_000	为了扩大栖息地， 会假装成树果，让鸟宝可梦 把自己抓到远方去。
+ZKN_SCARLET_0274_000	静静地栖息于森林深处。 会以草笛声来警告 踏进自己地盘的对手。
+ZKN_SCARLET_0275_000	据说当它在老树的 树顶扇动叶子团扇， 就会刮起寒风，迎来冬季。
 ZKN_SCARLET_0276_000	
 ZKN_SCARLET_0277_000	
 ZKN_SCARLET_0278_000	能乘着上升气流 像滑翔机一样在空中飞翔， 搬运鸟嘴中衔着的食物。
@@ -27897,7 +28027,7 @@ ZKN_SCARLET_0295_000
 ZKN_SCARLET_0296_000	在反复进行严格训练的 过程中会逐渐变强。 该宝可梦很有毅力，能承受任何攻击。
 ZKN_SCARLET_0297_000	喜欢和对手比试力气， 它拥有的力量足以一掌 挡下迎面驶来的列车。
 ZKN_SCARLET_0298_000	像皮球一般弹性十足。 会挥舞尾巴来对抗 体形比自己还大的对手。
-ZKN_SCARLET_0299_000	
+ZKN_SCARLET_0299_000	朝北鼻鼻子上的磁铁绝对不会失灵， 所以是训练家旅行时的良伴。
 ZKN_SCARLET_0300_000	
 ZKN_SCARLET_0301_000	
 ZKN_SCARLET_0302_000	会在阴暗的洞窟建造住所， 并用锋利的爪子挖宝石吃。
@@ -27916,8 +28046,8 @@ ZKN_SCARLET_0310_000
 ZKN_SCARLET_0310_001	
 ZKN_SCARLET_0311_000	
 ZKN_SCARLET_0312_000	
-ZKN_SCARLET_0313_000	
-ZKN_SCARLET_0314_000	
+ZKN_SCARLET_0313_000	栖息在水质清澈的池塘里。 到了晚上臀部就会发光，然后它会 通过那闪烁的光芒来和伙伴交流。
+ZKN_SCARLET_0314_000	会利用甜甜的香气诱导电萤虫 在夜空中描绘２００种以上的图形。
 ZKN_SCARLET_0315_000	
 ZKN_SCARLET_0316_000	它的胃能消化任何东西。 消化时产生的气体带有强烈的恶臭。
 ZKN_SCARLET_0317_000	只要是大小可以放进嘴里的东西， 不管是什么都会整个吞下。 能靠特殊的胃液消化任何东西。
@@ -27947,16 +28077,16 @@ ZKN_SCARLET_0337_000
 ZKN_SCARLET_0338_000	
 ZKN_SCARLET_0339_000	２根胡子是灵敏的雷达。 即使在泥泞浑浊的水中， 也能侦查到猎物的位置。
 ZKN_SCARLET_0340_000	领地意识非常强烈。 如果有外敌接近，就会 剧烈摇晃地面并发动袭击。
-ZKN_SCARLET_0341_000	
-ZKN_SCARLET_0342_000	
+ZKN_SCARLET_0341_000	来自外国。生命力很强， 即使是在很脏的河川里， 数量也会不断增加。
+ZKN_SCARLET_0342_000	好战的宝可梦， 会用钳子把自己领地里的 所有宝可梦夹住后扔飞出去！
 ZKN_SCARLET_0343_000	
 ZKN_SCARLET_0344_000	
 ZKN_SCARLET_0345_000	
 ZKN_SCARLET_0346_000	
 ZKN_SCARLET_0347_000	
 ZKN_SCARLET_0348_000	
-ZKN_SCARLET_0349_000	
-ZKN_SCARLET_0350_000	
+ZKN_SCARLET_0349_000	即使在脏水里也完全不介意的 强壮的宝可梦。但破破烂烂一副 寒酸的样子，所以不受欢迎。
+ZKN_SCARLET_0350_000	号称彩虹色的美丽鳞片 只要从不同的方向观看， 就会变化为各种颜色。
 ZKN_SCARLET_0351_000	
 ZKN_SCARLET_0351_001	
 ZKN_SCARLET_0351_002	
@@ -27965,10 +28095,10 @@ ZKN_SCARLET_0352_000
 ZKN_SCARLET_0353_000	最喜欢怨恨和嫉妒 之类的感情。竖起的角 能够捕捉到人类的心情。
 ZKN_SCARLET_0354_000	怨念积存在被丢弃的布偶里， 从而变为了宝可梦。 可以在昏暗的巷子里发现它。
 ZKN_SCARLET_0354_001	
-ZKN_SCARLET_0355_000	
-ZKN_SCARLET_0356_000	
+ZKN_SCARLET_0355_000	最爱小孩的生物能量。 会为了寻找孩子而在 深夜的街上四处徘徊。
+ZKN_SCARLET_0356_000	据说盯着它神秘手部动作看的话， 灵魂会被它从身体里抽走， 因此被大家所深深恐惧。
 ZKN_SCARLET_0357_000	栖息在热带丛林里。 脖子上的果实甘甜可口。 每年会结果２次。
-ZKN_SCARLET_0358_000	
+ZKN_SCARLET_0358_000	用头部的吸盘悬挂在 树枝或是房子的屋檐下。 会灵活运用７种音色。
 ZKN_SCARLET_0359_000	
 ZKN_SCARLET_0359_001	
 ZKN_SCARLET_0360_000	
@@ -28055,7 +28185,7 @@ ZKN_SCARLET_0422_000	以前它的背上曾有贝壳。 与大舌贝等宝可梦 
 ZKN_SCARLET_0422_001	最近有论文指出， 这个样子的无壳海兔 正在逐渐减少。
 ZKN_SCARLET_0423_000	全身都是稠稠的黏液。 过去这个样子的它， 数量可谓压倒性地多。
 ZKN_SCARLET_0423_001	虽然平时都待在海岸，但如果 雨下个不停，有时也会在离海 很遥远的山里发现它的踪影。
-ZKN_SCARLET_0424_000	
+ZKN_SCARLET_0424_000	在巨大的树木上生活。 据说伙伴之间会通过 连起尾巴来互相传达心情。
 ZKN_SCARLET_0425_000	据说把它误认成气球 而拿在手上的小孩， 有的会就此消失无踪。
 ZKN_SCARLET_0426_000	会在体内制造或是 吐出气体，以此来 调节飞在空中的高度。
 ZKN_SCARLET_0427_000	
@@ -28065,7 +28195,7 @@ ZKN_SCARLET_0429_000	叫声如同咒语一般， 但据说也蕴藏着偶尔 会
 ZKN_SCARLET_0430_000	性格冷酷，不留情面。 据说绝对不会容许 跟班黑暗鸦犯下失败。
 ZKN_SCARLET_0431_000	
 ZKN_SCARLET_0432_000	
-ZKN_SCARLET_0433_000	
+ZKN_SCARLET_0433_000	如果跳起来， 嘴里的珠子就会弹来弹去， 发出铃铛一般的音色。
 ZKN_SCARLET_0434_000	从屁屁喷出的臭液的气味 会扩散到半径２公里的范围， 周围的宝可梦都会逃得无影无踪。
 ZKN_SCARLET_0435_000	会从尾巴尖端喷出奇臭无比的 液体进行攻击，然而面对来自 上方的攻击时会不知所措。
 ZKN_SCARLET_0436_000	过去的人们相信， 铜镜怪背上的花纹里 蕴藏着神秘的力量。
@@ -28079,7 +28209,7 @@ ZKN_SCARLET_0443_000	潜伏在地洞内，如果有猎物 或敌人经过，就�
 ZKN_SCARLET_0444_000	偶尔蜕皮，鳞片会脱落。 其成分中所含的药物成分 可以让疲劳的身体活力四射。
 ZKN_SCARLET_0445_000	在高速穿梭时， 翅膀会生成空气之刃， 使周围的树木都被切断。
 ZKN_SCARLET_0445_001	
-ZKN_SCARLET_0446_000	
+ZKN_SCARLET_0446_000	每天必须要吃和自重 同等分量的食物。 味道的好坏并不在意。
 ZKN_SCARLET_0447_000	伙伴之间会通过发出 波导来进行与彼此的沟通。 可以持续奔跑一整晚。
 ZKN_SCARLET_0448_000	据说通过捕捉波导， 就能看见原本无法 见其身影的对手。
 ZKN_SCARLET_0448_001	
@@ -28104,16 +28234,16 @@ ZKN_SCARLET_0465_000
 ZKN_SCARLET_0466_000	
 ZKN_SCARLET_0467_000	
 ZKN_SCARLET_0468_000	
-ZKN_SCARLET_0469_000	
+ZKN_SCARLET_0469_000	拍动翅膀的力量极强， 在用力起飞时， 会掀倒周围的巨树。
 ZKN_SCARLET_0470_000	在晴朗的日子里睡着的叶伊布 会进行光合作用， 制造出新鲜的空气。
 ZKN_SCARLET_0471_000	自由地控制体温， 让大气中的水分冻结， 卷起冰晶。
-ZKN_SCARLET_0472_000	
-ZKN_SCARLET_0473_000	
+ZKN_SCARLET_0472_000	只要顺利乘上微风， 哪怕一次翅膀都不拍， 也能环绕这个星球一周。
+ZKN_SCARLET_0473_000	从遥远的过去就存在的宝可梦， 甚至在１万年前的冰层中也发现过它。
 ZKN_SCARLET_0474_000	
 ZKN_SCARLET_0475_000	在为了保护谁时会伸出肘部， 使其变得如刀锋般锋利后 与对手展开激烈的战斗。
 ZKN_SCARLET_0475_001	
-ZKN_SCARLET_0476_000	
-ZKN_SCARLET_0477_000	
+ZKN_SCARLET_0476_000	会用磁力操纵３个 被称为小朝北鼻的组件， 从３个方向干掉对手。
+ZKN_SCARLET_0477_000	据说，会把无处可去的魂魄 吸入它那具有弹力的身体中， 并带往另一个世界。
 ZKN_SCARLET_0478_000	用冷气把中意的人类 或宝可梦都冻起来。 然后带回巢穴当装饰用。
 ZKN_SCARLET_0479_000	如同电一般的身体 能够进入到一部分机器里， 并将其作为躯体来恶作剧。
 ZKN_SCARLET_0479_001	如果烤箱微波炉本身运转不良， 钻进里边的洛托姆 也会变得无精打采。
@@ -28194,17 +28324,17 @@ ZKN_SCARLET_0529_000
 ZKN_SCARLET_0530_000	
 ZKN_SCARLET_0531_000	
 ZKN_SCARLET_0531_001	
-ZKN_SCARLET_0532_000	
-ZKN_SCARLET_0533_000	
-ZKN_SCARLET_0534_000	
+ZKN_SCARLET_0532_000	经常拿着方材走， 帮忙做土木工程。 长大后会换大的方材拿。
+ZKN_SCARLET_0533_000	扛着工字钢锻炼身体。 会和伙伴互相炫耀 经过锻炼的肌肉。
+ZKN_SCARLET_0534_000	制作混凝土的技术， 被认为是２０００年前 从修建老匠那儿学来的。
 ZKN_SCARLET_0535_000	
 ZKN_SCARLET_0536_000	
 ZKN_SCARLET_0537_000	
 ZKN_SCARLET_0538_000	
 ZKN_SCARLET_0539_000	
-ZKN_SCARLET_0540_000	
-ZKN_SCARLET_0541_000	
-ZKN_SCARLET_0542_000	
+ZKN_SCARLET_0540_000	会仿照保姆虫为它穿上的 叶子衣服，有样学样地 啃咬树叶制作衣服。
+ZKN_SCARLET_0541_000	会在树木根部静静生活。 比起新鲜的叶子， 更爱吃变软的落叶。
+ZKN_SCARLET_0542_000	性格温厚且保护欲强。 叶子般的手臂锋利得 能将大树一刀两断。
 ZKN_SCARLET_0543_000	
 ZKN_SCARLET_0544_000	
 ZKN_SCARLET_0545_000	
@@ -28214,6 +28344,7 @@ ZKN_SCARLET_0548_000	头上的叶子就算落了也会 立马长回来。叶子�
 ZKN_SCARLET_0549_000	只要闻了它头上花饰所散发出的 香气就能感到精神舒缓， 但却非常难以打理。
 ZKN_SCARLET_0550_000	性情狂暴，充满攻击性。 并且拥有顽强的生命力， 会在不知不觉间数量增多。
 ZKN_SCARLET_0550_001	颜色相同的会集结成群。 最大的敌人是红色的 野蛮鲈鱼的群体。
+ZKN_SCARLET_0550_002	群居在极其寒冷的海里， 通过互相分享食物生活。 时机一到，就会返回出生的河川。
 ZKN_SCARLET_0551_000	潜藏在沙中像游泳一样移动。 是为了不被敌人发现和 不让体温下降而采取的机智行为。
 ZKN_SCARLET_0552_000	由于双眼覆盖着薄膜， 因此在深夜也能看清周围。 会和多只同类组成群体生活。
 ZKN_SCARLET_0553_000	用强力的颚咬住后， 就这么拼命扭转身体， 将猎物切断。
@@ -28249,8 +28380,8 @@ ZKN_SCARLET_0576_000	释放强大的精神力量， 让对手陷入宇宙终结�
 ZKN_SCARLET_0577_000	
 ZKN_SCARLET_0578_000	
 ZKN_SCARLET_0579_000	
-ZKN_SCARLET_0580_000	
-ZKN_SCARLET_0581_000	
+ZKN_SCARLET_0580_000	还不擅长飞行。 会看着双亲舞天鹅跳舞 来学习如何拍动翅膀。
+ZKN_SCARLET_0581_000	会以群体的首领为中心， 跳出丝丝入扣的舞蹈 来提升凝聚力哦。
 ZKN_SCARLET_0582_000	
 ZKN_SCARLET_0583_000	
 ZKN_SCARLET_0584_000	
@@ -28284,9 +28415,9 @@ ZKN_SCARLET_0603_000	圆圆的花纹是发电器官。 会先缠住对手，然�
 ZKN_SCARLET_0604_000	用手臂的力量从海里爬出， 袭击水边的猎物。 在一瞬间将对方拖入海中。
 ZKN_SCARLET_0605_000	
 ZKN_SCARLET_0606_000	
-ZKN_SCARLET_0607_000	
-ZKN_SCARLET_0608_000	
-ZKN_SCARLET_0609_000	
+ZKN_SCARLET_0607_000	火焰在平时是熄灭的，但只要 吸收了人或宝可梦的生命力， 火焰就会闪闪发光。
+ZKN_SCARLET_0608_000	在人类的临终时刻出现。 当人的魂魄离开肉体的瞬间， 它就会立即吸取。
+ZKN_SCARLET_0609_000	被怪异的火焰 燃烧过的灵魂无处可去， 只能永远游荡在这个世界上。
 ZKN_SCARLET_0610_000	居住在建造于地面的巢穴。 很久以前的人们曾用 它的牙齿来代替菜刀。
 ZKN_SCARLET_0611_000	牙齿一旦折断就不会再次生长。 因此除了关键时刻之外， 它都会避免使用牙齿。
 ZKN_SCARLET_0612_000	会把洞窟或废矿山当成睡床。 平时很温顺，可一旦被摸到 牙齿就会暴怒，千万要小心。
@@ -28297,8 +28428,8 @@ ZKN_SCARLET_0616_000
 ZKN_SCARLET_0617_000	
 ZKN_SCARLET_0618_000	
 ZKN_SCARLET_0618_001	
-ZKN_SCARLET_0619_000	
-ZKN_SCARLET_0620_000	
+ZKN_SCARLET_0619_000	使出行云流水般的 连续攻击压倒敌人。 用锋利的爪子将敌人撕裂。
+ZKN_SCARLET_0620_000	用奇妙的声音叫唤的话，就危险了。 它会展开飞快的踢和劈来连续攻击。
 ZKN_SCARLET_0621_000	
 ZKN_SCARLET_0622_000	
 ZKN_SCARLET_0623_000	
@@ -28307,8 +28438,8 @@ ZKN_SCARLET_0625_000	率领着驹刀小兵成群结队。 在地盘之争中落�
 ZKN_SCARLET_0626_000	
 ZKN_SCARLET_0627_000	会不由分说挑起战斗。 随着每次被打倒，每次受伤， 成长得更强更壮。
 ZKN_SCARLET_0628_000	勇猛果敢的天空战士。 身上受的伤越多， 就越会受到伙伴的尊敬。
-ZKN_SCARLET_0629_000	
-ZKN_SCARLET_0630_000	
+ZKN_SCARLET_0629_000	拥有会寻找合适的骸骨 来保护屁股的习性。 会追赶着弱小的宝可梦到处跑。
+ZKN_SCARLET_0630_000	为了秃鹰丫头而一直寻找着食物。 一旦找到体弱的宝可梦 就会掳去自己的巢穴。
 ZKN_SCARLET_0631_000	
 ZKN_SCARLET_0632_000	
 ZKN_SCARLET_0633_000	因为它的眼睛看不见，所以 无论确认什么都是用咬的。 在和它变亲密之前会浑身是伤。
@@ -28475,13 +28606,13 @@ ZKN_SCARLET_0699_000
 ZKN_SCARLET_0700_000	会从蝴蝶结般的触角中 释放能够消除敌意的波动， 并将其传送进对手的体内。
 ZKN_SCARLET_0701_000	利用翅膀轻盈起跳后华丽地 给予对手致命一击，这种招式是 在它生长的森林中磨炼出来的。
 ZKN_SCARLET_0702_000	由于体型娇小，发电器官 尚未发达，因此会用尾巴 吸取人类住宅的电力来充电。
-ZKN_SCARLET_0703_000	
+ZKN_SCARLET_0703_000	从出生开始，数亿年间 一直都沉睡在地底。 挖掘洞窟的话，偶尔会挖出它。
 ZKN_SCARLET_0704_000	身体几乎都是水分。 会用黏膜包裹全身， 来避免随环境干燥而变干。
 ZKN_SCARLET_0705_000	背上漩涡状的突起物里 装着它的大脑和心脏等 所有重要的器官。
 ZKN_SCARLET_0706_000	热爱雨水。下雨时能看见 它漫步在山野间的身姿， 是性格温和的宝可梦。
 ZKN_SCARLET_0707_000	会轻易丢掉吸取金属离子的 钥匙，而自己中意的钥匙 则会带在身边好几十年。
-ZKN_SCARLET_0708_000	
-ZKN_SCARLET_0709_000	
+ZKN_SCARLET_0708_000	传说它绿色的树叶能治百病。 可一旦摘下来便会马上枯萎。
+ZKN_SCARLET_0709_000	通过根茎连接树木 监视森林的每个角落。 会用诅咒击退可疑分子。
 ZKN_SCARLET_0710_000	
 ZKN_SCARLET_0710_001	
 ZKN_SCARLET_0710_002	
@@ -28522,9 +28653,9 @@ ZKN_SCARLET_0733_000
 ZKN_SCARLET_0734_000	整个躯体几乎都是胃。 每天都在固定的路线上 四处寻找新鲜的食物。
 ZKN_SCARLET_0735_000	只要发现猎物的踪迹， 就会充满耐心地蹲守 在该地点直到日落。
 ZKN_SCARLET_0735_001	
-ZKN_SCARLET_0736_000	
-ZKN_SCARLET_0737_000	
-ZKN_SCARLET_0738_000	
+ZKN_SCARLET_0736_000	虽然平时生活在土中， 但由于会被咕咕挖出来， 因此会聚集到电气宝可梦附近。
+ZKN_SCARLET_0737_000	用结实的外壳保护自己。 会为了进化而大量 进食落叶和腐叶土。
+ZKN_SCARLET_0738_000	会以卓越的机动性 来回盘旋于树木之间， 并用电磁光束击落鸟宝可梦。
 ZKN_SCARLET_0738_001	
 ZKN_SCARLET_0739_000	会击落树上的树果来吃。 同时进行训练和觅食， 可谓是一举两得。
 ZKN_SCARLET_0740_000	掉落的钳子十分美味。 还有训练家会特意带着 爱吃豚到山里找它。
@@ -28532,8 +28663,8 @@ ZKN_SCARLET_0741_000	热情的舞蹈与帕底亚 人们的性情似乎很合得�
 ZKN_SCARLET_0741_001	吸食了金黄色花蜜的样子。 会以轻快的舞步靠近对手 并用电击拳头将其KO。
 ZKN_SCARLET_0741_002	轻快的舞蹈有助于保持健康， 也因此很受人们欢迎， 但在帕底亚却很少见。
 ZKN_SCARLET_0741_003	吸食了兰紫色花蜜的样子。 会通过奇幻的舞步 召唤出死者的灵魂。
-ZKN_SCARLET_0742_000	
-ZKN_SCARLET_0743_000	
+ZKN_SCARLET_0742_000	感受到人和宝可梦身上有 似乎很快乐的气场，便会用 长长的嘴巴刺过来，十分痛。
+ZKN_SCARLET_0743_000	只要感受到人和宝可梦 失落的情绪，便会送上 自制的花粉团来为其打气。
 ZKN_SCARLET_0743_001	
 ZKN_SCARLET_0744_000	年幼时非常容易亲近。 虽然长大后脾气变得粗暴， 但绝不会忘记主人的恩情。
 ZKN_SCARLET_0744_001	
@@ -28614,9 +28745,9 @@ ZKN_SCARLET_0778_003
 ZKN_SCARLET_0779_000	通过用力磨牙来刺激大脑。 以此产生的精神力量会从 头部的突起物中放射而出。
 ZKN_SCARLET_0780_000	
 ZKN_SCARLET_0781_000	
-ZKN_SCARLET_0782_000	
-ZKN_SCARLET_0783_000	
-ZKN_SCARLET_0784_000	
+ZKN_SCARLET_0782_000	头上的鳞片攻守兼备， 即使面对强敌也会 正面迎上，勇敢对抗。
+ZKN_SCARLET_0783_000	会发起激烈得连手臂的 鳞片也会脱落的搏斗。 脱落鳞片的手臂是勇者的证明。
+ZKN_SCARLET_0784_000	会瞬间挥起垂下的手臂， 用擅长的拳击 将对手击飞至高空。
 ZKN_SCARLET_0784_001	
 ZKN_SCARLET_0785_000	
 ZKN_SCARLET_0786_000	
@@ -28693,9 +28824,9 @@ ZKN_SCARLET_0842_999
 ZKN_SCARLET_0843_000	颈部的囊就像气球一样 能伸缩自如，而随着不断 蜕皮，伸缩性就会增加。
 ZKN_SCARLET_0844_000	会把身体伸展到极限， 用足以冲走翻斗车的 气势喷射出沙子。
 ZKN_SCARLET_0844_999	
-ZKN_SCARLET_0845_000	
-ZKN_SCARLET_0845_001	
-ZKN_SCARLET_0845_002	
+ZKN_SCARLET_0845_000	拥有将什么东西都一口吞下的习性。 越是为喉咙卡住过大猎物而烦恼的 古月鸟就越难对付。
+ZKN_SCARLET_0845_001	会一直在河边觅食。 当发现爱吃的刺梭鱼时， 就会不假思索地一口吞下。
+ZKN_SCARLET_0845_002	想想它喉咙的大小就能知道 它是不可能吞得下皮卡丘的， 但它就是叼着不肯放。
 ZKN_SCARLET_0846_000	只能直线游泳。因吃太饱 而动作变得迟缓的个体 会先遭到电海燕的群体袭击。
 ZKN_SCARLET_0847_000	旋转尾鳍猛地跳起， 然后以强劲的力道咬住 飞在水面附近的长翅鸥。
 ZKN_SCARLET_0848_000	喝了污水也安然无恙。 那是因为它能靠着体内的器官 把污水过滤成对自己无害的毒液。
@@ -28745,8 +28876,8 @@ ZKN_SCARLET_0875_000	在高温的日子里，伙伴之间 会互相紧贴着头�
 ZKN_SCARLET_0875_001	脸上的冰块碎掉的样子。 为了保护自己怕热的脸， 会从毛的前端释放冷气。
 ZKN_SCARLET_0876_000	会用角来接收其他生物的 正面情绪，然后将其 转换为自身的能量。
 ZKN_SCARLET_0876_001	厌恶斗争，只要地盘里 发生争执，就会使用 精神力量扔出东西来驱逐对方。
-ZKN_SCARLET_0877_000	
-ZKN_SCARLET_0877_001	
+ZKN_SCARLET_0877_000	虽然总是在靠吃种子来 抑制饥饿感，但若是饿过头， 就会心烦意乱变得粗暴。
+ZKN_SCARLET_0877_001	性情凶恶又粗暴的家伙。 即使用光了恶能量， 也会大闹到填饱肚子为止。
 ZKN_SCARLET_0878_000	尖尖的鼻尖能削断坚硬的 岩石来当做粮食。性格温厚， 会帮助人们做力气活。
 ZKN_SCARLET_0879_000	在很久以前，人类带着它 从遥远的地方来到了这里。 是个能轻松拖动飞机的大力士。
 ZKN_SCARLET_0879_999	
@@ -28780,6 +28911,8 @@ ZKN_SCARLET_0897_000
 ZKN_SCARLET_0898_000	
 ZKN_SCARLET_0898_001	
 ZKN_SCARLET_0898_002	
+ZKN_SCARLET_0902_000	在前往出生的河川的 艰苦旅程中丧命的伙伴的灵魂 时刻缠绕在它的身上。
+ZKN_SCARLET_0902_001	缠绕在身上的伙伴们的 灵魂化为了推进力， 能若无其事地在激流中游泳。
 ZKN_SCARLET_0906_000	毛茸茸的体毛有着 近似于植物的成分。 会勤于洗脸以防止干燥。
 ZKN_SCARLET_0907_000	灵巧地操控长长的体毛下 隐藏着的藤蔓，接着 把坚硬的花苞甩向敌人。
 ZKN_SCARLET_0908_000	花看似浮在空中， 其实它是通过斗篷内的 毛的反射来隐藏住了茎。
@@ -28897,6 +29030,19 @@ ZKN_SCARLET_1008_000	关于它的详情尚且不明。 与摩托蜥有着相似�
 ZKN_SCARLET_1008_001	
 ZKN_SCARLET_1009_000	生态调查中。
 ZKN_SCARLET_1010_000	生态分析中。
+ZKN_SCARLET_0901_001	在飘洋过海所到达的土地上 存活下来的结果，让它的 样子和能力起了特别的变化。
+ZKN_SCARLET_1011_000	以仅能在某地区栽培的 特殊苹果进化而成。 是２只为一体的宝可梦。
+ZKN_SCARLET_1012_000	据说是死前未能在茶道上 登峰造极的茶道家的遗恨 附到抹茶上所变成的宝可梦。
+ZKN_SCARLET_1012_001	会将由粉末构成的身体中的 一部分洒到食物上，然后吸取 舔了粉末的对手的精气。
+ZKN_SCARLET_1013_000	虽然会假装成茶 企图吸取误饮者的精气， 但经常会被识破。
+ZKN_SCARLET_1013_001	会住到由著名烧制技艺大师 所制作的精美茶碗中。 是让爱好者痴迷不已的宝可梦。
+ZKN_SCARLET_1014_000	脖子上的毒素锁链 刺激了全身的肌肉， 让身体变得更为强壮。
+ZKN_SCARLET_1015_000	由能激发潜能的毒素 构成的锁链刺激了脑部， 开发出了精神力量。
+ZKN_SCARLET_1016_000	受到卷在身上的锁链 所释放的毒素刺激， 获得了美妙的身姿和声音。
+ZKN_SCARLET_1017_000	属性根据身着的面具而改变。 会以敏捷的身手和踢技 将敌人玩弄于鼓掌之中。
+ZKN_SCARLET_1017_001	这是它攻守兼备的样子， 会像不断涌出的水一样 无间断地使出招式。
+ZKN_SCARLET_1017_002	这是它最具攻击性的样子， 能够如炉中熊熊燃烧的 火焰般猛烈攻击敌人。
+ZKN_SCARLET_1017_003	这是它防守优秀的样子， 能够如支撑住家的地基般 承受沉重的冲击。
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_shield_sch.msbt
@@ -35402,8 +35548,8 @@ ZKN_VIOLET_0020_001
 ZKN_VIOLET_0020_002	
 ZKN_VIOLET_0021_000	
 ZKN_VIOLET_0022_000	
-ZKN_VIOLET_0023_000	
-ZKN_VIOLET_0024_000	
+ZKN_VIOLET_0023_000	大量栖息在草地等地方。 会伸出舌头感知周围的危险。
+ZKN_VIOLET_0024_000	个性非常执着， 一旦锁定了猎物， 就会穷追不舍。
 ZKN_VIOLET_0025_000	据说当好几只聚在一起时， 那里就会凝聚强烈的电力， 还可能会落下闪电。
 ZKN_VIOLET_0025_001	它所戴的这顶伙伴的帽子， 是它与伙伴在许多地区 冒险而加深了牵绊的证明。
 ZKN_VIOLET_0025_002	它所戴的这顶伙伴的帽子， 是它与伙伴在丰缘地区 冒险而加深了牵绊的证明。
@@ -35417,9 +35563,9 @@ ZKN_VIOLET_0025_009	它所戴的这顶伙伴的帽子， 是它与伙伴在世�
 ZKN_VIOLET_0025_999	
 ZKN_VIOLET_0026_000	如果脸颊上的电囊 储存的电力达到最大时， 两支耳朵就会直直地竖起。
 ZKN_VIOLET_0026_001	
-ZKN_VIOLET_0027_000	
+ZKN_VIOLET_0027_000	无论从多高的地方掉下来， 只要将身体蜷成一团 便能反弹起来得救。
 ZKN_VIOLET_0027_001	
-ZKN_VIOLET_0028_000	
+ZKN_VIOLET_0028_000	身上的刺是皮肤硬化后变成的。 会将身体蜷成一团， 用刺刺向对手进行攻击。
 ZKN_VIOLET_0028_001	
 ZKN_VIOLET_0029_000	
 ZKN_VIOLET_0030_000	
@@ -35427,11 +35573,11 @@ ZKN_VIOLET_0031_000
 ZKN_VIOLET_0032_000	
 ZKN_VIOLET_0033_000	
 ZKN_VIOLET_0034_000	
-ZKN_VIOLET_0035_000	
-ZKN_VIOLET_0036_000	
-ZKN_VIOLET_0037_000	
+ZKN_VIOLET_0035_000	在月圆之夜聚集，和伙伴一起跳舞。 那周围也会被异常的磁场包围。
+ZKN_VIOLET_0036_000	耳朵非常好， 连１公里外针落地的声音 都能听得一清二楚。
+ZKN_VIOLET_0037_000	随着身体的成长， ６根温暖的尾巴的 毛发也会变得更漂亮。
 ZKN_VIOLET_0037_001	
-ZKN_VIOLET_0038_000	
+ZKN_VIOLET_0038_000	拥有金光灿灿的体毛 以及９条长长的尾巴。 据说它可以活上１０００年。
 ZKN_VIOLET_0038_001	
 ZKN_VIOLET_0039_000	身体胀大后唱出的摇篮曲 会比平时持续的时间更长， 绝对会让对方变得昏昏欲睡。
 ZKN_VIOLET_0040_000	松松软软的体毛 触感绝佳，会让人 一摸就舍不得离手。
@@ -35460,9 +35606,9 @@ ZKN_VIOLET_0056_000	平时就算心情再怎么好， 也会因为一点小事 �
 ZKN_VIOLET_0057_000	根据某位研究者的论文， 即使在精灵球里， 火暴猴好像也在发怒。
 ZKN_VIOLET_0058_000	性格诚实，容易和人亲近。 对于敌人，它会吼叫追咬， 并试着把其赶跑。
 ZKN_VIOLET_0059_000	威风凛凛的叫声充满威严， 不管是谁听到后， 都会不由自主地跪倒下去。
-ZKN_VIOLET_0060_000	
-ZKN_VIOLET_0061_000	
-ZKN_VIOLET_0062_000	
+ZKN_VIOLET_0060_000	因为刚刚长出腿来， 所以还不能好好走路。 似乎更喜欢在水中游泳。
+ZKN_VIOLET_0061_000	全身的皮肤都是湿的， 但腹部旋涡的部分 摸上去感觉很光滑。
+ZKN_VIOLET_0062_000	如果只是一瞬间的话， 它能够利用发达的 四肢在水上奔跑。
 ZKN_VIOLET_0063_000	
 ZKN_VIOLET_0064_000	
 ZKN_VIOLET_0065_000	
@@ -35471,16 +35617,16 @@ ZKN_VIOLET_0066_000
 ZKN_VIOLET_0067_000	
 ZKN_VIOLET_0068_000	
 ZKN_VIOLET_0068_999	
-ZKN_VIOLET_0069_000	
-ZKN_VIOLET_0070_000	
-ZKN_VIOLET_0071_000	
+ZKN_VIOLET_0069_000	会把脚伸到地下深处 补充水分，但若在此时 遭到袭击就会无法逃脱。
+ZKN_VIOLET_0070_000	叶子部分会变成刀刃切割对手。 嘴里会吐出可溶化万物的液体。
+ZKN_VIOLET_0071_000	溶掉了大量食物的溶解液 会更加甜美，从而变得 更容易吸引猎物上门。
 ZKN_VIOLET_0072_000	
 ZKN_VIOLET_0073_000	
-ZKN_VIOLET_0074_000	
+ZKN_VIOLET_0074_000	很多人只是没注意到， 其实只要细心观察周围， 就能发现有很多小拳石。
 ZKN_VIOLET_0074_001	
-ZKN_VIOLET_0075_000	
+ZKN_VIOLET_0075_000	非常喜欢吃长有苔藓的岩石。 发着嘎吱嘎吱的声音， １天吃１吨以上。
 ZKN_VIOLET_0075_001	
-ZKN_VIOLET_0076_000	
+ZKN_VIOLET_0076_000	会故意让自己的身体爆炸， 再借助爆炸的力量 来飞跃于山与山之间。
 ZKN_VIOLET_0076_001	
 ZKN_VIOLET_0077_000	
 ZKN_VIOLET_0077_001	
@@ -35528,8 +35674,8 @@ ZKN_VIOLET_0105_002
 ZKN_VIOLET_0106_000	
 ZKN_VIOLET_0107_000	
 ZKN_VIOLET_0108_000	
-ZKN_VIOLET_0109_000	
-ZKN_VIOLET_0110_000	
+ZKN_VIOLET_0109_000	体内的毒瓦斯的成分 比空气要轻一点，因此 总是能够稍微飘在空中。
+ZKN_VIOLET_0110_000	每当它吸收从垃圾产生的 毒瓦斯时，身体就会膨胀， 体内的味道也会变得更臭。
 ZKN_VIOLET_0110_001	
 ZKN_VIOLET_0111_000	
 ZKN_VIOLET_0112_000	
@@ -35574,7 +35720,7 @@ ZKN_VIOLET_0140_000
 ZKN_VIOLET_0141_000	
 ZKN_VIOLET_0142_000	
 ZKN_VIOLET_0142_001	
-ZKN_VIOLET_0143_000	
+ZKN_VIOLET_0143_000	胃里的消化液能消化掉 任何毒。即使吃了掉在 地上的东西也没有问题。
 ZKN_VIOLET_0143_999	
 ZKN_VIOLET_0144_000	
 ZKN_VIOLET_0144_001	
@@ -35598,19 +35744,19 @@ ZKN_VIOLET_0157_000
 ZKN_VIOLET_0158_000	
 ZKN_VIOLET_0159_000	
 ZKN_VIOLET_0160_000	
-ZKN_VIOLET_0161_000	
-ZKN_VIOLET_0162_000	
-ZKN_VIOLET_0163_000	
-ZKN_VIOLET_0164_000	
+ZKN_VIOLET_0161_000	遭遇敌人时，会用尾巴站立， 让身体显得比平时更大， 并以此来威吓对手。
+ZKN_VIOLET_0162_000	身手敏捷且身体十分柔软， 即使被捉住也能一溜烟地 从对方手中逃脱哦。
+ZKN_VIOLET_0163_000	因为它能够准确报时， 所以在某些国家它被当成 通晓世界真理的智慧之神。
+ZKN_VIOLET_0164_000	极为柔软的羽毛让它 在飞行时不会发出声音， 因此能够悄悄接近猎物。
 ZKN_VIOLET_0165_000	
 ZKN_VIOLET_0166_000	
-ZKN_VIOLET_0167_000	
-ZKN_VIOLET_0168_000	
+ZKN_VIOLET_0167_000	有些渔夫会用其坚韧的丝， 编织制作成可以捕捉鱼宝可梦的网。
+ZKN_VIOLET_0168_000	不会在固定的地方筑巢。 会等周围都暗下来了， 再开始四处寻找食物。
 ZKN_VIOLET_0169_000	
 ZKN_VIOLET_0170_000	
 ZKN_VIOLET_0171_000	
 ZKN_VIOLET_0172_000	虽然很可爱，但如果一起 生活的话，就必须有被电击 电得麻麻的觉悟。
-ZKN_VIOLET_0173_000	
+ZKN_VIOLET_0173_000	因为在流星很多的夜晚经常 能发现皮宝宝，所以人们说 它们是乘着星星而来的。
 ZKN_VIOLET_0174_000	喜欢唱歌，但还不怎么在行。 如果能给予恰当的表扬， 就会渐渐有所提高哦。
 ZKN_VIOLET_0175_000	
 ZKN_VIOLET_0176_000	
@@ -35624,17 +35770,17 @@ ZKN_VIOLET_0182_000
 ZKN_VIOLET_0183_000	存满了油脂的尾巴能用来 代替浮囊，因此面对 湍急的河流也不成问题。
 ZKN_VIOLET_0184_000	只要静静地聆听， 就能分辨出湍急的 河流中有些什么。
 ZKN_VIOLET_0185_000	为了不受到攻击而一直 模仿成树的样子。但因为怕水， 所以只要下雨就会逃得无影无踪。
-ZKN_VIOLET_0186_000	
+ZKN_VIOLET_0186_000	蚊香蝌蚪和蚊香君的头领。 蚊香蛙皇一声吼， 大家都吓得伏在地上一动不动。
 ZKN_VIOLET_0187_000	由于会乘着风在各地移动， 因此除了寒冷的地方， 几乎随处可见它的身影。
 ZKN_VIOLET_0188_000	一旦天气变冷就会关上花瓣。 由此就无法进行光合作用了， 所以会飞到温暖的地区去。
 ZKN_VIOLET_0189_000	要当心它的棉孢子。 如果不小心吸进去了， 就会深受发痒及咳嗽之苦。
-ZKN_VIOLET_0190_000	
+ZKN_VIOLET_0190_000	会巧妙地控制比手 活动得还随心所欲的尾巴， 并在高高的树上生活。
 ZKN_VIOLET_0191_000	非常弱小。即使受到攻击， 也只能拼命挥动着叶子 来勉强赶走敌人。
 ZKN_VIOLET_0192_000	由于要把沐浴到的阳光 转换成能量，因此白天 总是面朝着太阳的方向。
-ZKN_VIOLET_0193_000	
-ZKN_VIOLET_0194_000	
+ZKN_VIOLET_0193_000	因为它无需转动大大的眼珠 就能环视各个方向，所以连 敌人和食物也能马上发现。
+ZKN_VIOLET_0194_000	在地面上四处走动时， 会用滑溜溜的毒粘膜 覆盖着身体的表面。
 ZKN_VIOLET_0194_001	由于单独行动很危险， 因此在沼地里行走时 会３、４只排成一列来彼此协助。
-ZKN_VIOLET_0195_000	
+ZKN_VIOLET_0195_000	性格悠闲自得。 游动时头总会撞到 河底的岩石或船底。
 ZKN_VIOLET_0196_000	会用全身纤细的体毛 来感受空气的流动， 以此来预测对手的行动。
 ZKN_VIOLET_0197_000	为了使靠近它的家伙感到害怕， 它身上圆圈形的花纹会在 天色变暗时自然地发出光芒。
 ZKN_VIOLET_0198_000	遇见黑暗鸦时，若是 毫无提防地跟随其后就会 受到迷惑，并被丢在山路上。
@@ -35674,7 +35820,7 @@ ZKN_VIOLET_0203_000	尾巴上有小小的头。 如果有敌人从背后靠近�
 ZKN_VIOLET_0204_000	口中吐出的液体是 它用来粘树皮的胶水。 一接触到空气就会凝固。
 ZKN_VIOLET_0205_000	全身包裹着 如钢铁般坚硬的壳。 内部的真面目无人知晓。
 ZKN_VIOLET_0206_000	一旦被谁看见了它的身影， 就会用尾巴挖洞逃走。 能用翅膀稍微浮在空中。
-ZKN_VIOLET_0207_000	
+ZKN_VIOLET_0207_000	像在空中滑行一样飞向对手， 贴到对手脸上让其大吃一惊后 再用毒针进行攻击。
 ZKN_VIOLET_0208_000	
 ZKN_VIOLET_0208_001	
 ZKN_VIOLET_0209_000	
@@ -35688,10 +35834,10 @@ ZKN_VIOLET_0214_001
 ZKN_VIOLET_0215_000	会施展团队合作，一只负责 引开双亲，另一只负责偷走蛋。 是非常狡猾的宝可梦。
 ZKN_VIOLET_0216_000	手掌里渗入了满满的蜜汁。 感到不安时只要舔舔手掌， 就会喜笑颜开。
 ZKN_VIOLET_0217_000	擅长爬树。在树上寻找 树果时如果撞见火暴猴， 那就免不了一场纠纷。
-ZKN_VIOLET_0218_000	
-ZKN_VIOLET_0219_000	
-ZKN_VIOLET_0220_000	
-ZKN_VIOLET_0221_000	
+ZKN_VIOLET_0218_000	据说在火山活动频繁的 太古时代，世界上生活着 比现在还多的熔岩虫。
+ZKN_VIOLET_0219_000	传说野生的熔岩蜗牛 数量突然增加是 火山爆发的前兆。
+ZKN_VIOLET_0220_000	会通过摩擦鼻尖 来挖掘地面并觅食。 偶尔会挖到温泉。
+ZKN_VIOLET_0221_000	由于被长长的体毛所覆盖， 所以看不清眼前的情况， 只会一个劲地猛冲。
 ZKN_VIOLET_0222_000	
 ZKN_VIOLET_0222_001	
 ZKN_VIOLET_0223_000	
@@ -35737,8 +35883,8 @@ ZKN_VIOLET_0258_000
 ZKN_VIOLET_0259_000	
 ZKN_VIOLET_0260_000	
 ZKN_VIOLET_0260_001	
-ZKN_VIOLET_0261_000	
-ZKN_VIOLET_0262_000	
+ZKN_VIOLET_0261_000	会成群地追捕猎物， 趁目标筋疲力尽时干掉对方， 但有时会因遭到反击而逃跑。
+ZKN_VIOLET_0262_000	当嗅到远处有猎物的味道时， 就会遵从首领的指示， 成群结队地一齐出动。
 ZKN_VIOLET_0263_000	
 ZKN_VIOLET_0263_001	
 ZKN_VIOLET_0264_000	
@@ -35748,12 +35894,12 @@ ZKN_VIOLET_0266_000
 ZKN_VIOLET_0267_000	
 ZKN_VIOLET_0268_000	
 ZKN_VIOLET_0269_000	
-ZKN_VIOLET_0270_000	
-ZKN_VIOLET_0271_000	
-ZKN_VIOLET_0272_000	
-ZKN_VIOLET_0273_000	
-ZKN_VIOLET_0274_000	
-ZKN_VIOLET_0275_000	
+ZKN_VIOLET_0270_000	在水质好的池塘会有 大量莲叶童子聚集，因此 有时水面会被叶子覆盖。
+ZKN_VIOLET_0271_000	喜欢待在食物丰富的水边。 为了不和鸟宝可梦争夺食物 而变成了夜行性的宝可梦。
+ZKN_VIOLET_0272_000	以欢快的节奏跳起舞来， 就能让情绪高昂，变成 无惧敌人的精神状态。
+ZKN_VIOLET_0273_000	悬挂在树枝下吸收水分生活。 在年轻且巨大的树木上， 会有成排的橡实果。
+ZKN_VIOLET_0274_000	集中了知觉功能的尖鼻子 能够洞察周围的状况， 但同时也是它的弱点。
+ZKN_VIOLET_0275_000	流传着做了坏事的鸟宝可梦 受到了神明的惩罚， 鸟嘴和翅膀被换掉了的传说。
 ZKN_VIOLET_0276_000	
 ZKN_VIOLET_0277_000	
 ZKN_VIOLET_0278_000	迎着海风，像滑翔机一般地 翱翔。到了冬天就会 把食物藏在巢的周围。
@@ -35778,7 +35924,7 @@ ZKN_VIOLET_0295_000
 ZKN_VIOLET_0296_000	会不断地撞击大树 来锻炼强韧的身躯 和不气馁的心。
 ZKN_VIOLET_0297_000	会用双脚跺地积蓄力量。 一巴掌就能打飞 １０吨重的卡车。
 ZKN_VIOLET_0298_000	又圆又大的尾巴里 贮满了它在成长时 所需要的营养。
-ZKN_VIOLET_0299_000	
+ZKN_VIOLET_0299_000	遇到危机时，它有时 会增强磁力吸引周围的 铁块来保护自身。
 ZKN_VIOLET_0300_000	
 ZKN_VIOLET_0301_000	
 ZKN_VIOLET_0302_000	身体的表面会浮现出 它所吃下的宝石成分。 其花纹有无数的类型。
@@ -35797,8 +35943,8 @@ ZKN_VIOLET_0310_000
 ZKN_VIOLET_0310_001	
 ZKN_VIOLET_0311_000	
 ZKN_VIOLET_0312_000	
-ZKN_VIOLET_0313_000	
-ZKN_VIOLET_0314_000	
+ZKN_VIOLET_0313_000	会闪烁臀部的光 来和伙伴交流。非常喜欢 甜甜萤放出的甜甜香气。
+ZKN_VIOLET_0314_000	会诱导电萤虫在夜空中 描绘记号。也有学者 在研究记号的含意。
 ZKN_VIOLET_0315_000	
 ZKN_VIOLET_0316_000	心脏和大脑都很小， 身体的大部分是胃。 会分泌出什么都能溶解的胃液。
 ZKN_VIOLET_0317_000	即使是轮胎也能整个吞掉。 会从身上的毛孔分泌出 带有剧毒的体液。
@@ -35828,16 +35974,16 @@ ZKN_VIOLET_0337_000
 ZKN_VIOLET_0338_000	
 ZKN_VIOLET_0339_000	会用２根长长的胡须 探索浑浊的河底。 用湿滑的粘膜保护着身体。
 ZKN_VIOLET_0340_000	成群的鲶鱼王 在水面上跳跃的景象 被认为是地震的前兆。
-ZKN_VIOLET_0341_000	
-ZKN_VIOLET_0342_000	
+ZKN_VIOLET_0341_000	即使水质很差也不在乎， 因此没有其他水宝可梦和它 争夺食物，导致其数量不断增加。
+ZKN_VIOLET_0342_000	不停挥舞自己巨大的钳子， 是个性格粗暴的家伙。 被认为是很难培育的宝可梦。
 ZKN_VIOLET_0343_000	
 ZKN_VIOLET_0344_000	
 ZKN_VIOLET_0345_000	
 ZKN_VIOLET_0346_000	
 ZKN_VIOLET_0347_000	
 ZKN_VIOLET_0348_000	
-ZKN_VIOLET_0349_000	
-ZKN_VIOLET_0350_000	
+ZKN_VIOLET_0349_000	最寒酸的宝可梦。 会大量聚集在 水草众多的河底生活。
+ZKN_VIOLET_0350_000	栖息在清澈的湖底。 在发生战争时出现， 治愈人们的心。
 ZKN_VIOLET_0351_000	
 ZKN_VIOLET_0351_001	
 ZKN_VIOLET_0351_002	
@@ -35846,10 +35992,10 @@ ZKN_VIOLET_0352_000
 ZKN_VIOLET_0353_000	吸收他人对谁心存 怨恨时的阴沉悲伤之情， 来让自己一点一点地变强。
 ZKN_VIOLET_0354_000	强烈的怨念将玩偶变成了宝可梦。 如果张开嘴，诅咒的能量 就会从口中逃走。
 ZKN_VIOLET_0354_001	
-ZKN_VIOLET_0355_000	
-ZKN_VIOLET_0356_000	
+ZKN_VIOLET_0355_000	被它鲜红的独眼瞪着 吸收生物能量时， 就会受到恶寒侵袭。
+ZKN_VIOLET_0356_000	据说在体内燃烧着的鲜红独眼 才是彷徨夜灵的真身， 但并没有人亲眼见过。
 ZKN_VIOLET_0357_000	平时总是吃同样的水果， 以至于自己的喉咙上 都结出了非常美味的水果。
-ZKN_VIOLET_0358_000	
+ZKN_VIOLET_0358_000	叫声会在身体的空洞中 回响并化为美丽的音色， 它会以此将敌人吓跑。
 ZKN_VIOLET_0359_000	
 ZKN_VIOLET_0359_001	
 ZKN_VIOLET_0360_000	
@@ -35936,7 +36082,7 @@ ZKN_VIOLET_0422_000	会渗透出紫色的汁液 来威吓敌人。跟过去相�
 ZKN_VIOLET_0422_001	经常能在岩岸发现它的身影。 如果只是一定程度的时间， 它也能在陆地上活动。
 ZKN_VIOLET_0423_000	能在岩岸发现它的踪影。 会用黏液慢慢溶解 并吸食捕捉到的猎物。
 ZKN_VIOLET_0423_001	渔夫说道，虽然曾经很少遇见 这个样子的海兔兽， 但现在它们有增加的倾向。
-ZKN_VIOLET_0424_000	
+ZKN_VIOLET_0424_000	因为分成２条的尾巴 能灵巧地处理各种事情， 所以变得几乎不会使用手。
 ZKN_VIOLET_0425_000	漫无目的地浮在空中的样子， 使它在某些民间故事里 被相传为迷途灵魂的路标。
 ZKN_VIOLET_0426_000	会搬运人和宝可梦。 但因为只能跟着风飘动， 因此无法自行决定目的地。
 ZKN_VIOLET_0427_000	
@@ -35946,7 +36092,7 @@ ZKN_VIOLET_0429_000	用咒语般的怪异 叫声折磨对手。 是神出鬼没�
 ZKN_VIOLET_0430_000	夜行性。只要鸣叫一声， 就会有超过１００只的 黑暗鸦跟班聚集起来。
 ZKN_VIOLET_0431_000	
 ZKN_VIOLET_0432_000	
-ZKN_VIOLET_0433_000	
+ZKN_VIOLET_0433_000	会以人类的耳朵无法听到的 高频率来发出叫声。 一旦开始叫就很难停下来。
 ZKN_VIOLET_0434_000	从屁屁喷出的液体 臭到连２公里外的人 都会感到不舒服。
 ZKN_VIOLET_0435_000	从尾巴尖端喷出 散发臭味的液体进行攻击。 连发时臭味会减轻。
 ZKN_VIOLET_0436_000	能在古墓找到它。 据说它背上的花纹 蕴藏着神秘的力量。
@@ -35960,7 +36106,7 @@ ZKN_VIOLET_0443_000	生活在被地热加温的横洞里。 如果有敌人靠�
 ZKN_VIOLET_0444_000	最喜欢闪闪发光的东西， 所以会把在洞窟里找到的宝贝 都积存到自己的巢穴中。
 ZKN_VIOLET_0445_000	头上长着的２个突起物 是起感应器作用的。 前方很远处猎物的样子也能知道。
 ZKN_VIOLET_0445_001	
-ZKN_VIOLET_0446_000	
+ZKN_VIOLET_0446_000	会在拼命进食的途中 忘记藏到体毛下的食物。
 ZKN_VIOLET_0447_000	它所拥有的神奇力量 可以通过波形来分辨 喜悦和愤怒这样的情感。
 ZKN_VIOLET_0448_000	经过锻炼的路卡利欧能使用波导 来探测出１公里之外有谁在， 还能知道对方的心情。
 ZKN_VIOLET_0448_001	
@@ -35985,16 +36131,16 @@ ZKN_VIOLET_0465_000
 ZKN_VIOLET_0466_000	
 ZKN_VIOLET_0467_000	
 ZKN_VIOLET_0468_000	
-ZKN_VIOLET_0469_000	
+ZKN_VIOLET_0469_000	颚部的力量异常强大。 擅长在高速飞行中咬碎 与自己擦身而过的对手。
 ZKN_VIOLET_0470_000	越是年幼的叶伊布， 越是有冲鼻的青草香味。 年老后就变成好像落叶的味道。
 ZKN_VIOLET_0471_000	通过降低体温让全身的体毛 冻得像锐利的尖针一样， 然后射出。
-ZKN_VIOLET_0472_000	
-ZKN_VIOLET_0473_000	
+ZKN_VIOLET_0472_000	可以不发出振翅声而在空中飞行。 用长长的尾巴捕捉猎物， 再用牙齿一击刺中要害。
+ZKN_VIOLET_0473_000	在１万年前的地层发现了 被冰封的象牙猪，而且 还因苏醒过来而引发了骚动。
 ZKN_VIOLET_0474_000	
 ZKN_VIOLET_0475_000	因为有着能敏锐感知 对手想法的能力， 所以可以率先攻击。
 ZKN_VIOLET_0475_001	
-ZKN_VIOLET_0476_000	
-ZKN_VIOLET_0477_000	
+ZKN_VIOLET_0476_000	因为会释放强大的磁力， 所以导致附近的电器都变得无法使用。
+ZKN_VIOLET_0477_000	往来于这个世界与另一个世界。 因据说会吸收并带走 徘徊的灵魂而遭人畏惧。
 ZKN_VIOLET_0478_000	据说它会吐出零下５０度的气息 冻结猎物，然后将其带到 秘密的地方装饰起来。
 ZKN_VIOLET_0479_000	作为驱动特殊马达的 动力能源而被长期 研究的宝可梦。
 ZKN_VIOLET_0479_001	钻进了烤箱微波炉的样子。 会用高温将周围烤得焦黑， 然后开心地大笑。
@@ -36075,17 +36221,17 @@ ZKN_VIOLET_0529_000
 ZKN_VIOLET_0530_000	
 ZKN_VIOLET_0531_000	
 ZKN_VIOLET_0531_001	
-ZKN_VIOLET_0532_000	
-ZKN_VIOLET_0533_000	
-ZKN_VIOLET_0534_000	
+ZKN_VIOLET_0532_000	会挥舞方材战斗。如果能 毫不费劲地拿起沉重的方材， 就代表它进化的日子要到了。
+ZKN_VIOLET_0533_000	身体经过锻炼充满了肌肉， 即使是职业摔角手一拥而上 进行攻击，也是纹丝不动。
+ZKN_VIOLET_0534_000	熟练掌握了不依赖力量， 灵活运用离心力挥舞混凝土的招式。
 ZKN_VIOLET_0535_000	
 ZKN_VIOLET_0536_000	
 ZKN_VIOLET_0537_000	
 ZKN_VIOLET_0538_000	
 ZKN_VIOLET_0539_000	
-ZKN_VIOLET_0540_000	
-ZKN_VIOLET_0541_000	
-ZKN_VIOLET_0542_000	
+ZKN_VIOLET_0540_000	头上的包包是感觉器官， 两只虫宝包相遇时，会通过 相互摩擦包包来打招呼哦。
+ZKN_VIOLET_0541_000	用叶子包裹着身体保护自身。 能通过头上的叶子感受 空气的流动来探测周围事物。
+ZKN_VIOLET_0542_000	会将叶子缝制成衣服。 虽然性格温驯，但对盯上了 幼小的宝可梦的敌人绝不手软。
 ZKN_VIOLET_0543_000	
 ZKN_VIOLET_0544_000	
 ZKN_VIOLET_0545_000	
@@ -36095,6 +36241,7 @@ ZKN_VIOLET_0548_000	如果时不时修剪叶子， 就会长成圆鼓鼓 很华�
 ZKN_VIOLET_0549_000	无论花多少工夫和金钱， 比起借助人工手段让它开放， 在野外绽放的花更美。
 ZKN_VIOLET_0550_000	性情凶恶，甚至被称为 河里的小混混，其实它是 吃吼霸和下石鸟等的袭击目标。
 ZKN_VIOLET_0550_001	颚部的力道强大无比， 连铁板都能留下齿痕。 性格也是非常地凶猛。
+ZKN_VIOLET_0550_002	与野蛮鲈鱼的生态相差甚远， 因此它们是不同种类的说法 在近年以来备受支持。
 ZKN_VIOLET_0551_000	为了避免体温下降， 会进入沙漠的热沙中， 让自己隐藏起来生活。
 ZKN_VIOLET_0552_000	多亏了盖住眼睛的特殊膜， 即使在深夜也能把周围 看得一清二楚。
 ZKN_VIOLET_0553_000	拥有特殊的双眼， 即使在沙暴中也能发现 前方５０公里处的小猎物。
@@ -36130,8 +36277,8 @@ ZKN_VIOLET_0576_000	会眺望星星来预知未来。 总是摆出看似冷淡�
 ZKN_VIOLET_0577_000	
 ZKN_VIOLET_0578_000	
 ZKN_VIOLET_0579_000	
-ZKN_VIOLET_0580_000	
-ZKN_VIOLET_0581_000	
+ZKN_VIOLET_0580_000	为了寻找水苔来吃， 会在池中水深的地方 游来游去，顺便锻炼身体。
+ZKN_VIOLET_0581_000	会在黎明时分跳起 优美的舞蹈，据说许多 艺术家从中得到过灵感。
 ZKN_VIOLET_0582_000	
 ZKN_VIOLET_0583_000	
 ZKN_VIOLET_0584_000	
@@ -36165,9 +36312,9 @@ ZKN_VIOLET_0603_000	是食欲旺盛的宝可梦。 一旦发现猎物就会发�
 ZKN_VIOLET_0604_000	会用吸盘的嘴吸附在 对手身上，然后用牙齿 刺入并放出强大的电流。
 ZKN_VIOLET_0605_000	
 ZKN_VIOLET_0606_000	
-ZKN_VIOLET_0607_000	
-ZKN_VIOLET_0608_000	
-ZKN_VIOLET_0609_000	
+ZKN_VIOLET_0607_000	假装点亮烛光，指引道路， 实际上是在吸取对方的生命力。
+ZKN_VIOLET_0608_000	吸取灵魂来点亮灯火。 为了等待人类死去， 而在医院里彷徨游荡。
+ZKN_VIOLET_0609_000	会吸取并燃烧灵魂。 通过摇晃手臂的火焰 来让对手陷入催眠状态。
 ZKN_VIOLET_0610_000	如果在岩石或树木上 发现了独特的齿痕， 牙牙一定就栖息在那附近。
 ZKN_VIOLET_0611_000	会使用粗壮的牙齿利落地 分解猎物，然后把当下 要吃的份和存粮的份分开。
 ZKN_VIOLET_0612_000	会以自傲的牙齿来压制敌人。 獠牙的锋利程度无与伦比， 就连铁塔都能一斩而断。
@@ -36178,8 +36325,8 @@ ZKN_VIOLET_0616_000
 ZKN_VIOLET_0617_000	
 ZKN_VIOLET_0618_000	
 ZKN_VIOLET_0618_001	
-ZKN_VIOLET_0619_000	
-ZKN_VIOLET_0620_000	
+ZKN_VIOLET_0619_000	在山中闭关，与群体的伙伴们潜心修行。 根据群体的不同， 踢和劈的技法也不一样。
+ZKN_VIOLET_0620_000	双臂上的体毛使用得像鞭子一样熟练。 一旦开始连续攻击，谁也无法阻止。
 ZKN_VIOLET_0621_000	
 ZKN_VIOLET_0622_000	
 ZKN_VIOLET_0623_000	
@@ -36188,8 +36335,8 @@ ZKN_VIOLET_0625_000	会用全身上下的利刃 毫不留情地斩断对手。 �
 ZKN_VIOLET_0626_000	
 ZKN_VIOLET_0627_000	用尖尖的爪子刺穿猎物 并进行啄食。也会吃树果， 但基本上是肉食类宝可梦。
 ZKN_VIOLET_0628_000	为了伙伴的话，无论受 多重的伤都不会放弃战斗， 是勇敢的天空战士。
-ZKN_VIOLET_0629_000	
-ZKN_VIOLET_0630_000	
+ZKN_VIOLET_0629_000	正处于食欲旺盛的发育期。 为了配合身体的成长， 会多次更换所穿的骸骨哦。
+ZKN_VIOLET_0630_000	从空中观察地面情况， 袭击衰弱的猎物。 有用骨头做装饰的习性。
 ZKN_VIOLET_0631_000	
 ZKN_VIOLET_0632_000	
 ZKN_VIOLET_0633_000	它的栖息之处在洞窟深处。 那里缺少食物，因此只要有 会动的东西，它都想去咬来吃掉。
@@ -36356,13 +36503,13 @@ ZKN_VIOLET_0699_000
 ZKN_VIOLET_0700_000	摇曳着触角跳着轻快的 舞蹈的样子十分优雅， 但招式却会直击对手要害。
 ZKN_VIOLET_0701_000	不集结成群，静静地生活。 天敌是喜欢集体大闹的火暴猴， 它们时不时就会起争执。
 ZKN_VIOLET_0702_000	会从脸颊上的胡须发出电波 来与伙伴互相联络。 电力变少时会蜷缩起来睡觉。
-ZKN_VIOLET_0703_000	
+ZKN_VIOLET_0703_000	诞生于高温高压的地下深处。 会从宝石的部分 发射光线保护自身。
 ZKN_VIOLET_0704_000	触角是优秀的感觉器官， 足以代替五官的所有功能。 能通过空气的流动来感知危险。
 ZKN_VIOLET_0705_000	感知到危险时，覆盖着 全身的黏液的浓度会提升， 这样一来就能溶解任何东西。
 ZKN_VIOLET_0706_000	一旦生气便会令人束手无措。 它会用强到可以撞飞翻斗车的 尾巴攻击来大闹特闹。
 ZKN_VIOLET_0707_000	过去的贵族会将掌管金库 钥匙的钥圈儿一代代地 传承下去，好好珍惜。
-ZKN_VIOLET_0708_000	
-ZKN_VIOLET_0709_000	
+ZKN_VIOLET_0708_000	死去的孩子的魂魄附在 树桩上，变成了宝可梦。 会徘徊在森林中寻找伙伴。
+ZKN_VIOLET_0709_000	对住在森林里的宝可梦很亲切， 即使头上繁茂的叶子 被当成住所也不会在意。
 ZKN_VIOLET_0710_000	
 ZKN_VIOLET_0710_001	
 ZKN_VIOLET_0710_002	
@@ -36403,9 +36550,9 @@ ZKN_VIOLET_0733_000
 ZKN_VIOLET_0734_000	醒着的时候总是在持续觅食。 一旦肚子饿了就会 变得更加地凶暴。
 ZKN_VIOLET_0735_000	擅长专心致志地追寻猎物的足迹。 然而它似乎觉得个性单纯的 贪心栗鼠追起来不够过瘾。
 ZKN_VIOLET_0735_001	
-ZKN_VIOLET_0736_000	
-ZKN_VIOLET_0737_000	
-ZKN_VIOLET_0738_000	
+ZKN_VIOLET_0736_000	会吐出黏黏的丝缠住树枝， 并摇摆身躯在树木之间 轻巧地飞跃移动。
+ZKN_VIOLET_0737_000	虫电宝消化吃掉的落叶时 能产生电能并将其储蓄。 会从颚部的尖端放出电流。
+ZKN_VIOLET_0738_000	会抱住虫电宝吸收电能， 并从巨大的颚部连续 发射强力的电磁光束。
 ZKN_VIOLET_0738_001	
 ZKN_VIOLET_0739_000	钳子即使脱落也会马上长出来。 外壳可以提取出美味的汤头， 是很受欢迎的海鲜炖饭食材。
 ZKN_VIOLET_0740_000	拳击虽强，动作却慢。 会从口里喷出结冰的泡沫 来封住对手的行动。
@@ -36413,8 +36560,8 @@ ZKN_VIOLET_0741_000	吸食了朱红色花蜜的样子。 会踩着热情的舞�
 ZKN_VIOLET_0741_001	充满活力与欢乐的舞蹈风格 在孩子们当中很受欢迎， 但在帕底亚却很少见。
 ZKN_VIOLET_0741_002	吸食了桃粉色花蜜的样子。 会踏着缓慢的舞步来集中精神， 然后释放精神力量。
 ZKN_VIOLET_0741_003	美艳又高雅的舞蹈风格 在大人们当中很受欢迎， 但在帕底亚却很少见。
-ZKN_VIOLET_0742_000	
-ZKN_VIOLET_0743_000	
+ZKN_VIOLET_0742_000	会用长长的嘴吸取花粉和蜜。 吃不完的花粉则会被它 储蓄在体毛的缝隙间。
+ZKN_VIOLET_0743_000	被称为高手的蝶结萌虻 所制作的花粉团能消除疲倦， 因此是很受欢迎的商品。
 ZKN_VIOLET_0743_001	
 ZKN_VIOLET_0744_000	在长大之前会集体行动。 一旦心情变差，就会开始 用脖子上的岩石敲打地面。
 ZKN_VIOLET_0744_001	
@@ -36495,9 +36642,9 @@ ZKN_VIOLET_0778_003
 ZKN_VIOLET_0779_000	磨牙时会泛起波纹。 当阳光反射在上面，周围的水 会闪起令人目眩的亮光。
 ZKN_VIOLET_0780_000	
 ZKN_VIOLET_0781_000	
-ZKN_VIOLET_0782_000	
-ZKN_VIOLET_0783_000	
-ZKN_VIOLET_0784_000	
+ZKN_VIOLET_0782_000	通过敲击鳞片的声音 来和伙伴交流。 聚在一起时就会非常吵。
+ZKN_VIOLET_0783_000	会大力敲打鳞片 并跳起舞来鼓舞自己。 战吼是战斗的信号。
+ZKN_VIOLET_0784_000	会敲响鳞片来测试对手胆量。 弱小的家伙会被那声音吓跑。
 ZKN_VIOLET_0784_001	
 ZKN_VIOLET_0785_000	
 ZKN_VIOLET_0786_000	
@@ -36574,9 +36721,9 @@ ZKN_VIOLET_0842_999
 ZKN_VIOLET_0843_000	它大大的鼻孔是专门为了 喷射沙子而特别进化的， 因此很不擅长分辨气味。
 ZKN_VIOLET_0844_000	喷出的沙子里混着尖锐的沙砾， 那是它用唾液凝固了沙子而成的， 形状千奇百怪。
 ZKN_VIOLET_0844_999	
-ZKN_VIOLET_0845_000	
-ZKN_VIOLET_0845_001	
-ZKN_VIOLET_0845_002	
+ZKN_VIOLET_0845_000	记性相当差，会把 大部分能量分配在战斗上， 只留最低限度的能量给大脑。
+ZKN_VIOLET_0845_001	利用卡在喉咙中的刺梭鱼 活蹦乱跳的力量将其高速吐出。
+ZKN_VIOLET_0845_002	借助卡在喉咙中的皮卡丘 酥酥麻麻的电力让对手触电。
 ZKN_VIOLET_0846_000	会用又硬又尖的下巴 发动突击捕杀猎物。 视力很差，因此成功率很低。
 ZKN_VIOLET_0847_000	以超过１００节的速度游泳。 会为了争夺食物和波普海豚的 群体展开激烈的斗争。
 ZKN_VIOLET_0848_000	任性且非常爱撒娇。 体内的两个囊袋 分别储存毒和电。
@@ -36626,8 +36773,8 @@ ZKN_VIOLET_0875_000	脸部的冰块舔起来略带咸味。 它是乘着海流�
 ZKN_VIOLET_0875_001	与外表相反，不擅长游泳。 在发梢做出冰球 来吸引并钓起猎物。
 ZKN_VIOLET_0876_000	时时刻刻都待在训练家身边。 它会用精神力量来预知训练家的 行动，并照顾其日常起居。
 ZKN_VIOLET_0876_001	为了寻求喜悦和感谢等 快乐的心情，会勤快地 到处照顾人和宝可梦。
-ZKN_VIOLET_0877_000	
-ZKN_VIOLET_0877_001	
+ZKN_VIOLET_0877_000	胃很小，所以不常吃 袋子里的种子的话， 肚子马上就会饿。
+ZKN_VIOLET_0877_001	因饥饿导致荷尔蒙失衡， 使颊囊中的电能转化 成了恶属性的能量。
 ZKN_VIOLET_0878_000	能够举起５吨的货物。 天一亮就会成群结队地 去洞窟找矿石来吃。
 ZKN_VIOLET_0879_000	自尊心强，脾气刁钻。 绿色的皮肤越是鲜艳， 就越受到同伴的尊敬。
 ZKN_VIOLET_0879_999	
@@ -36661,6 +36808,8 @@ ZKN_VIOLET_0897_000
 ZKN_VIOLET_0898_000	
 ZKN_VIOLET_0898_001	
 ZKN_VIOLET_0898_002	
+ZKN_VIOLET_0902_000	拥有惊人的弹跳力。 死去的伙伴的怒火 染红了它的身体。
+ZKN_VIOLET_0902_001	能操控恐怖的幻觉。 伙伴的灵魂的悲痛越深， 它的身体就会变得越白。
 ZKN_VIOLET_0906_000	通过身体发出的甜甜香气 来让周围的一切为之倾倒。 晒到阳光后香气会更加浓郁。
 ZKN_VIOLET_0907_000	体毛的硬度随心情而变。 进入迎战状态时， 体毛会变得如针一般尖锐。
 ZKN_VIOLET_0908_000	会巧妙地引开敌人的注意力， 然后引爆它在神不知鬼不觉间 设置好的装满花粉的花炸弹。
@@ -36778,6 +36927,19 @@ ZKN_VIOLET_1008_000	它似乎就是古老的书籍中 提及的铁大蛇。传�
 ZKN_VIOLET_1008_001	
 ZKN_VIOLET_1009_000	生态调查中。
 ZKN_VIOLET_1010_000	生态分析中。
+ZKN_VIOLET_0901_001	很特别的月月熊，会用 如铁般坚硬的泥土保护身体， 并拥有能看穿黑暗的左眼。
+ZKN_VIOLET_1011_000	露出脑袋的外头虫与 露出尾巴的里头虫互相帮助， 一起生活在苹果里面。
+ZKN_VIOLET_1012_000	看似是来悲茶的地区形态， 但最近被发现其实 两者之间毫无关系。
+ZKN_VIOLET_1012_001	住在昂贵茶罐中的样子。 虽然与便宜货不同， 但外行人分辨不出来。
+ZKN_VIOLET_1013_000	喜欢待在民宅的地板下和 架子深处等阴凉的地方。 日落后会四处徘徊寻找猎物。
+ZKN_VIOLET_1013_001	越是搅拌头上的茶筅 就越能补充更多能量。 这是进行战斗前的准备。
+ZKN_VIOLET_1014_000	很容易失去冷静的粗暴家伙。 会甩动脖子上的锁链击碎一切。
+ZKN_VIOLET_1015_000	会从安全的地方释放出 能引起强烈头晕的念力， 将敌人玩弄于股掌之间。
+ZKN_VIOLET_1016_000	扇动艳丽的翅膀抛撒费洛蒙 让人和宝可梦为其神魂颠倒。
+ZKN_VIOLET_1017_000	喜欢恶作剧，好奇心旺盛。 会释出蕴藏在面具内的 属性的能量战斗。
+ZKN_VIOLET_1017_001	激发出水之力量的样子。 会以踢技和藤蔓 发起无间断的打击。
+ZKN_VIOLET_1017_002	激发出火之力量的样子。 会像挥动长枪一样操控 带刺的藤蔓贯穿敌人。
+ZKN_VIOLET_1017_003	激发出岩石之力量的样子。 能以坚固的岩石身躯抵挡 任何攻击，守护自身。
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_x_sch.msbt
