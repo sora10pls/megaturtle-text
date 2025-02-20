@@ -3864,6 +3864,59 @@ sp_country_414	Norvège
 sp_country_415	Suède
 sp_country_499	Autre
 sp_country_500	Moyen-Orient
+sp_country_africa	Afrique
+sp_country_north_america	Amérique du Nord
+sp_country_canada	Canada
+sp_country_usa_north	États-Unis (Nord)
+sp_country_usa_east	États-Unis (Est)
+sp_country_usa_west	États-Unis (Ouest)
+sp_country_usa_south	États-Unis (Sud)
+sp_country_north_america_other	Autre
+sp_country_latin_america	Amérique latine
+sp_country_chile	Chili
+sp_country_mexico	Mexique
+sp_country_brazil	Brésil
+sp_country_argentina	Argentine
+sp_country_bolivia	Bolivie
+sp_country_colombia	Colombie
+sp_country_paraguay	Paraguay
+sp_country_peru	Pérou
+sp_country_ecuador	Équateur
+sp_country_latin_america_other	Autre
+sp_country_oceania	Océanie
+sp_country_australia	Australie
+sp_country_new_zealand	Nouvelle-Zélande
+sp_country_oceania_other	Autre
+sp_country_asia_pacific	Asie-Pacifique
+sp_country_china	Chine
+sp_country_hong_kong	Hong Kong
+sp_country_japan	Japon
+sp_country_korea	Corée du Sud
+sp_country_malaysia	Malaisie
+sp_country_philippines	Philippines
+sp_country_singapore	Singapour
+sp_country_taiwan	Taïwan
+sp_country_thailand	Thaïlande
+sp_country_asia_pacific_other	Autre
+sp_country_europe	Europe
+sp_country_austria	Autriche
+sp_country_belgium	Belgique
+sp_country_france	France
+sp_country_germany	Allemagne
+sp_country_ireland	Irlande
+sp_country_italy	Italie
+sp_country_netherlands	Pays-Bas
+sp_country_portugal	Portugal
+sp_country_spain	Espagne
+sp_country_switzerland	Suisse
+sp_country_uk	Royaume-Uni
+sp_country_denmark	Danemark
+sp_country_finland	Finlande
+sp_country_norway	Norvège
+sp_country_sweden	Suède
+sp_country_poland	Pologne
+sp_country_europe_other	Autre
+sp_country_middle_east	Moyen-Orient
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_fra.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	Sélection de la région
 sp_option_country_select_00002	Vous avez choisi la région suivante : <b>[VAR_REGION]</b> Confirmer ? Note : vous pourrez la modifier plus tard.
 sp_option_country_select_00003	Veuillez sélectionner votre région.
 sp_option_country_select_00004	Confirmation de la région
+sp_option_country_reselect_title	Mise à jour des paramètres de région
+sp_option_country_reselect_body	Le menu « Infos combats » a été mis à jour. Vous pouvez à présent consulter l'historique des combats des compétitions Internet de Pokémon Écarlate et Pokémon Violet.  La liste des régions que vous pouvez choisir dans Pokémon HOME a aussi été mise à jour pour refléter celles qui sont disponibles pour les compétitions Internet dans Pokémon Écarlate et Pokémon Violet.  Vous devrez à nouveau sélectionner votre région afin de pouvoir continuer à utiliser Pokémon HOME.  Une fois votre région sélectionnée, les Conditions d'utilisation ainsi que l'Avis sur la confidentialité de celle-ci s'afficheront. Merci de prendre le temps de les consulter.
 sp_option_birthday_select_00001	Date de naissance
 sp_option_birthday_select_00002	Veuillez saisir votre date de naissance afin de vérifier votre âge.
 sp_option_birthday_select_00003	Veuillez saisir une date de naissance correcte.
@@ -4256,7 +4311,7 @@ sp_option_terms2	Conditions d'utilisation
 sp_option_terms_5	J'accepte
 sp_option_terms_6	Je refuse
 sp_option_addsdk_1	Utilisation de vos informations
-sp_option_terms_00012_v1	Mise à jour des conditions d'utilisation et de l'avis sur la confidentialité
+sp_option_terms_00012_v1	Conditions d'utilisation et l'Avis sur la confidentialité
 sp_option_nalink_0001_v2	Voici ce que vous pourrez faire en associant votre compte Nintendo à Pokémon HOME :
 sp_option_nalink_0002_v2	Actions possibles en associant son compte Nintendo
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	Transférer des données lorsque vous changez d'apparei
 sp_option_nalink_0035_v2	Ne pas associer
 sp_option_nalink_0036_v2	Confirmation finale avant de lancer avec un compte invité
 sp_option_nalink_0037_v2	Note : si vous sélectionnez « Non », vous retournerez à l'écran de confirmation d'association de compte Nintendo.
-sp_option_nalink_0038_v2	Confirmer vos résultats personnels en compétitions Internet (tournois amicaux et compétitions officielles) et en combats classés auxquels vous avez participé dans Pokémon Épée et Pokémon Bouclier
-sp_option_nalink_0039_v2	Confirmer vos résultats personnels dans Pokémon Épée et Pokémon Bouclier
+sp_option_nalink_0038_v2	Confirmer vos résultats personnels en compétitions Internet (tournois amicaux et compétitions officielles) et en combats classés auxquels vous avez participé dans les jeux de la série principale Pokémon
+sp_option_nalink_0039_v2	Confirmer vos résultats personnels dans les jeux de la série principale Pokémon
 sp_option_nalink_0040_v2	Aide
 sp_option_nalink_0041_v2	Nous avons pu vérifier que la version Nintendo Switch de Pokémon HOME et la version mobile de Pokémon HOME sont bien utilisées par ce compte Nintendo.
 sp_option_nalink_0042_v2	Veuillez vous assurer que <u><b>l'ID Client qui s'affiche sur l'écran</b></u> <u><b>titre</b></u> de la version Nintendo Switch de Pokémon HOME ou la version mobile de Pokémon HOME que vous utilisez corresponde bien à l'ID ci-dessous.
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	Voulez-vous associer la version Nintendo Switch de Pok�
 sp_option_nalink_0044_v2	Nous avons pu vérifier que la version mobile de Pokémon HOME est bien utilisée par ce compte Nintendo.
 sp_option_nalink_0045_v2	Veuillez vous assurer que <u><b>l'ID Client qui s'affiche sur l'écran</b></u> <u><b>titre</b></u> de la version mobile de Pokémon HOME que vous utilisez corresponde bien à l'ID ci-dessous.
 sp_option_nalink_0046_v2	Voulez-vous transférer les données de la version mobile de Pokémon HOME avant de commencer ?
+sp_option_nalink_0047	Cadeaux Mystère sur la version mobile de Pokémon HOME
 sp_option_holohlo_0001_vgo	Connexion à Pokémon GO
 sp_option_holohlo_0004_vgo	Recevoir des Pokémon
 sp_option_holohlo_0005_vgo	Recevoir des Pokémon
+sp_option_holohlo_0006_vgo	
+sp_option_holohlo_0007_vgo	
 sp_option_my_parent_01_v6	Paramètres d'authentification de D.O. / Nº ID
 sp_option_my_parent_02_v6	Paramétrer plusieurs D.O. / Nº ID
 sp_option_my_parent_03_v6	Sélectionner/supprimer
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	Non
 sp_option_userdel_confirm_title_v11	Suppression de votre compte
 sp_option_userdel_confirm1_body_v11	Cette action supprimera toutes les données de votre compte Pokémon HOME. Toutes vos progressions, comme les entrées Pokédex ou les hauts faits, seront perdues. Une fois le compte supprimé, vous ne pourrez pas le récupérer. De plus, nous ne pourrons traiter aucune demande concernant un compte supprimé.
 sp_option_userdel_confirm1_body_nalink_v11	Si votre compte Pokémon HOME est associé à un compte Nintendo, ils ne seront plus associés. Par conséquent, vous ne pourrez plus vous connecter ou jouer à la version Nintendo Switch de Pokémon HOME. De plus, vous ne pourrez plus synchroniser Pokémon HOME via votre compte Nintendo. Veuillez noter que supprimer votre compte Pokémon HOME n'affectera pas le compte Nintendo associé.
+sp_option_userdel_confirm1_body_nalink_v12	Si votre compte Pokémon HOME est associé à un compte Nintendo, ils ne seront plus associés. Par conséquent, vous ne pourrez plus vous connecter ou jouer à la version Nintendo Switch de Pokémon HOME. De plus, vous ne pourrez plus synchroniser Pokémon HOME via votre compte Nintendo. Veuillez noter que supprimer votre compte Pokémon HOME n'affectera pas le compte Nintendo associé.  Note : si vous recommencez une toute nouvelle partie dans Pokémon HOME avec le même compte Nintendo, certaines données de votre compte actuel seront conservées, comme les Cadeaux Mystère que vous avez reçus.
 sp_option_userdel_confirm2_body_v11	Si vous avez souscrit un compte premium, supprimer votre compte Pokémon HOME n'annulera pas automatiquement votre abonnement. La façon d'annuler votre abonnement dépend de la version Pokémon HOME sur laquelle vous avez souscrit pour la première fois.  Les joueurs ayant souscrit sur la version Nintendo Switch devront annuler leur abonnement via le Nintendo eShop.  Les joueurs ayant souscrit sur la version iOS devront annuler leur abonnement via l'App Store.  Les joueurs ayant souscrit sur la version Android devront annuler leur abonnement via le Google Play Store.  Veuillez noter qu'aucun remboursement ne sera effectué si vous oubliez d'annuler votre compte premium, et nous ne pourrons pas traiter les demandes relatives à ce sujet.
 sp_option_userdel_confirm3_title_v11	Confirmation finale
 sp_option_userdel_confirm3_body_v11	Un compte supprimé ne peut pas être récupéré. Toutes vos progressions, comme les entrées Pokédex ou les hauts faits, seront perdues définitivement.  Confirmer la suppression du compte ?
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	Chromatique
 sp_ui_formcategory03	Forme d'Alola
 sp_ui_formcategory04	Forme de Galar
 sp_ui_formcategory05	Forme de Hisui
+sp_ui_formcategory06	
 sp_ui_formcategory99	Toutes les formes
 sp_ui_achieve	Hauts faits
 sp_ui_friend	Amis
@@ -4881,8 +4941,7 @@ sp_ui_pgl_battledata_top	Menu des infos combats
 sp_ui_pgl_back	Retour
 sp_ui_svbd_battledata	Infos combats
 sp_ui_svbd_rankbattle	Combats classés
-sp_ui_svbd_internet_tournament	Compétition officielle
-sp_ui_svbd_official_competition	Compétition officielle
+sp_ui_svbd_official_competition	Compétitions officielles
 sp_ui_svbd_friendcompe	Tournois amicaux
 sp_ui_svbd_pastdata	Voir l'historique des combats passés
 sp_ui_svbd_friendcompe_na_required	Pour consulter les infos sur les tournois amicaux, vous avez besoin d'un compte Nintendo associé.  Veuillez vous rendre dans le menu Paramètres pour associer le compte Nintendo que vous utilisez pour jouer à Pokémon Écarlate ou Pokémon Violet.
@@ -5153,8 +5212,8 @@ sp_ui_get_calendar_dialog_ym_v9	Afficher par mois
 sp_ui_get_calendar_dialog_ymd_v9	Afficher par jour
 sp_ui_userdel_complete_body_v11	Toutes les données de votre compte ont été supprimées. Fermer cette page vous redirigera vers l'écran de création de compte.
 sp_ui_userdel_error_body_v11	Votre compte n'a pas été totalement supprimé la dernière fois que vous avez fermé l'application. La suppression du compte va à présent se poursuivre.
-sp_ui_gift_confirm_body_nalink_v12	
-sp_ui_gift_confirm_button_nalink_v12	
+sp_ui_gift_confirm_body_nalink_v12	Pour utiliser le menu « Cadeaux Mystère », vous devez avoir un compte Nintendo associé. Chaque Cadeau Mystère ne peut être reçu qu'une fois par compte Nintendo.
+sp_ui_gift_confirm_button_nalink_v12	Je comprends
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_fra.msbt

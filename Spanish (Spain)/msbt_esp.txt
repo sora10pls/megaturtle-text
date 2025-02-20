@@ -3864,6 +3864,59 @@ sp_country_414	Noruega
 sp_country_415	Suecia
 sp_country_499	Otros
 sp_country_500	Oriente Medio
+sp_country_africa	África
+sp_country_north_america	Norteamérica
+sp_country_canada	Canadá
+sp_country_usa_north	Estados Unidos (norte)
+sp_country_usa_east	Estados Unidos (este)
+sp_country_usa_west	Estados Unidos (oeste)
+sp_country_usa_south	Estados Unidos (sur)
+sp_country_north_america_other	Otros
+sp_country_latin_america	Latinoamérica
+sp_country_chile	Chile
+sp_country_mexico	México
+sp_country_brazil	Brasil
+sp_country_argentina	Argentina
+sp_country_bolivia	Bolivia
+sp_country_colombia	Colombia
+sp_country_paraguay	Paraguay
+sp_country_peru	Perú
+sp_country_ecuador	Ecuador
+sp_country_latin_america_other	Otros
+sp_country_oceania	Oceanía
+sp_country_australia	Australia
+sp_country_new_zealand	Nueva Zelanda
+sp_country_oceania_other	Otros
+sp_country_asia_pacific	Asia-Pacífico
+sp_country_china	China
+sp_country_hong_kong	Hong Kong
+sp_country_japan	Japón
+sp_country_korea	Corea
+sp_country_malaysia	Malasia
+sp_country_philippines	Filipinas
+sp_country_singapore	Singapur
+sp_country_taiwan	Taiwán
+sp_country_thailand	Tailandia
+sp_country_asia_pacific_other	Otros
+sp_country_europe	Europa
+sp_country_austria	Austria
+sp_country_belgium	Bélgica
+sp_country_france	Francia
+sp_country_germany	Alemania
+sp_country_ireland	Irlanda
+sp_country_italy	Italia
+sp_country_netherlands	Holanda
+sp_country_portugal	Portugal
+sp_country_spain	España
+sp_country_switzerland	Suiza
+sp_country_uk	Reino Unido
+sp_country_denmark	Dinamarca
+sp_country_finland	Finlandia
+sp_country_norway	Noruega
+sp_country_sweden	Suecia
+sp_country_poland	Polonia
+sp_country_europe_other	Otros
+sp_country_middle_east	Oriente Medio
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_esp.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	Selección de región
 sp_option_country_select_00002	¿Seguro que quieres seleccionar esta región? <b>[VAR_REGION]</b>  Podrás cambiar tu selección más adelante.
 sp_option_country_select_00003	¿Cuál es tu región de residencia?
 sp_option_country_select_00004	Confirmación de la región
+sp_option_country_reselect_title	Actualización de la configuración de región
+sp_option_country_reselect_body	Se ha actualizado la función de datos de combate. Ahora podrás ver los resultados de Torneos en Línea de Pokémon Escarlata y Pokémon Púrpura.  La lista de regiones de residencia que puedes elegir también se ha actualizado para concordar con las opciones en los Torneos en Línea de Pokémon Escarlata y Pokémon Púrpura.  Para poder seguir usando Pokémon HOME, tendrás que volver a seleccionar tu región de residencia.  Una vez hayas seleccionado una, se mostrarán las condiciones de uso y la política de privacidad de tu región. Asegúrate de leerlas.
 sp_option_birthday_select_00001	Fecha de nacimiento
 sp_option_birthday_select_00002	Introduce tu fecha de nacimiento para verificar tu edad.
 sp_option_birthday_select_00003	La fecha de nacimiento no es correcta.
@@ -4256,7 +4311,7 @@ sp_option_terms2	Condiciones de uso
 sp_option_terms_5	Sí
 sp_option_terms_6	No
 sp_option_addsdk_1	Uso de datos
-sp_option_terms_00012_v1	Actualización de las condiciones de uso y de la política de privacidad
+sp_option_terms_00012_v1	Condiciones de uso y política de privacidad
 sp_option_nalink_0001_v2	Si vinculas Pokémon HOME a tu cuenta Nintendo, podrás realizar las operaciones que se indican a continuación.
 sp_option_nalink_0002_v2	Operaciones disponibles al vincular una cuenta Nintendo
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	Transferir datos al cambiar de dispositivo.
 sp_option_nalink_0035_v2	No vincular
 sp_option_nalink_0036_v2	Confirmación final antes de usar una cuenta de invitado
 sp_option_nalink_0037_v2	Si seleccionas "No", volverás a la pantalla de confirmación de vinculación de una cuenta Nintendo.
-sp_option_nalink_0038_v2	Comprobar tus resultados en los Combates Clasificatorios y Torneos en Línea (tanto oficiales como amistosos) en los que hayas participado en Pokémon Espada y Pokémon Escudo.
-sp_option_nalink_0039_v2	Comprobar tus resultados en Pokémon Espada y Pokémon Escudo.
+sp_option_nalink_0038_v2	Comprobar tus resultados en los Combates Clasificatorios y Torneos en Línea (tanto oficiales como amistosos) en los que hayas participado en los juegos de la serie principal de Pokémon.
+sp_option_nalink_0039_v2	Comprobar tus resultados en los juegos de la serie principal de Pokémon.
 sp_option_nalink_0040_v2	Atención al consumidor
 sp_option_nalink_0041_v2	Se ha podido comprobar que la versión de Pokémon HOME para Nintendo Switch y la versión de Pokémon HOME para dispositivos móviles se están usando con esta cuenta Nintendo.
 sp_option_nalink_0042_v2	Asegúrate de que <u><b>el ID de usuario que aparece en la</b></u> <u><b>pantalla del título</b></u> de la versión de Pokémon HOME que estás utilizando (ya sea para Nintendo Switch o para dispositivos móviles) se corresponde con el ID que se muestra a continuación.
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	¿Quieres comenzar la operación para vincular la versi
 sp_option_nalink_0044_v2	Se ha podido comprobar que la versión de Pokémon HOME para dispositivos móviles se está usando con esta cuenta Nintendo.
 sp_option_nalink_0045_v2	Asegúrate de que <u><b>el ID de usuario que aparece en la</b></u> <u><b>pantalla del título</b></u> de la versión de Pokémon HOME para dispositivos móviles que estás usando se corresponde con el ID que se muestra a continuación.
 sp_option_nalink_0046_v2	¿Quieres transferir los datos de la versión para dispositivos móviles antes de comenzar?
+sp_option_nalink_0047	Regalos misteriosos en la versión de Pokémon HOME para dispositivos móviles
 sp_option_holohlo_0001_vgo	Conexión con Pokémon GO
 sp_option_holohlo_0004_vgo	Recibir Pokémon
 sp_option_holohlo_0005_vgo	Recibir Pokémon
+sp_option_holohlo_0006_vgo	
+sp_option_holohlo_0007_vgo	
 sp_option_my_parent_01_v6	Mis EO y n.º ID
 sp_option_my_parent_02_v6	Confirma que uno o varios EO y n.º ID son tuyos.
 sp_option_my_parent_03_v6	Seleccionar/Eliminar
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	No
 sp_option_userdel_confirm_title_v11	Eliminar tu cuenta
 sp_option_userdel_confirm1_body_v11	Se eliminarán por completo los datos de tu cuenta de Pokémon HOME. Se perderá todo el progreso que hayas conseguido, como los logros y las entradas de la Pokédex. Una vez eliminada la cuenta, no se podrá recuperar, ni tampoco podremos responder a ninguna consulta relacionada con una cuenta que se haya eliminado.
 sp_option_userdel_confirm1_body_nalink_v11	Si tu cuenta de Pokémon HOME está vinculada a una cuenta Nintendo, se desvinculará. Por lo tanto, no podrás iniciar sesión ni jugar a la versión de Pokémon HOME para Nintendo Switch. Tampoco podrás sincronizar Pokémon HOME mediante tu cuenta Nintendo. Ten en cuenta que eliminar tu cuenta de Pokémon HOME no eliminará la cuenta Nintendo a la que está vinculada.
+sp_option_userdel_confirm1_body_nalink_v12	Si tu cuenta de Pokémon HOME está vinculada a una cuenta Nintendo, se desvinculará. Por lo tanto, no podrás iniciar sesión ni jugar a la versión de Pokémon HOME para Nintendo Switch. Tampoco podrás sincronizar Pokémon HOME mediante tu cuenta Nintendo. Eliminar tu cuenta de Pokémon HOME no eliminará la cuenta Nintendo a la que está vinculada.  Si vuelves a usar Pokémon HOME con la misma cuenta Nintendo, se transferirán algunos datos de tu cuenta actual, tales como los regalos misteriosos que hayas recibido.
 sp_option_userdel_confirm2_body_v11	Si cuentas con una suscripción al plan prémium, esta no se cancelará automáticamente al eliminar tu cuenta de Pokémon HOME. La forma de cancelar tu suscripción depende de en qué versión de Pokémon HOME te suscribiste en primer lugar.  Si te suscribiste en la versión de Nintendo Switch, deberás cancelar la suscripción a través de la Nintendo eShop.  Si te suscribiste en la versión para iOS, deberás cancelarla a través de la App Store.  Si te suscribiste en la versión para Android, deberás cancelarla a través de Google Play Store.  Ten en cuenta que no efectuaremos reembolsos de ningún cobro que se dé como consecuencia de habérsete olvidado cancelar el plan prémium, ni tampoco podremos responder a ninguna consulta relacionada con ello.
 sp_option_userdel_confirm3_title_v11	Confirmación final
 sp_option_userdel_confirm3_body_v11	Las cuentas eliminadas no se pueden recuperar. Se perderá permanentemente todo el progreso que hayas conseguido, como los logros y las entradas de la Pokédex.  ¿Seguro que quieres eliminar tu cuenta?
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	Variocolor
 sp_ui_formcategory03	Forma de Alola
 sp_ui_formcategory04	Forma de Galar
 sp_ui_formcategory05	Forma de Hisui
+sp_ui_formcategory06	
 sp_ui_formcategory99	Todas las formas
 sp_ui_achieve	Logros
 sp_ui_friend	Amigos
@@ -4881,7 +4941,6 @@ sp_ui_pgl_battledata_top	Datos de combate
 sp_ui_pgl_back	Atrás
 sp_ui_svbd_battledata	Datos de combate
 sp_ui_svbd_rankbattle	Combates Clasificatorios
-sp_ui_svbd_internet_tournament	Torneos oficiales
 sp_ui_svbd_official_competition	Torneos oficiales
 sp_ui_svbd_friendcompe	Torneos amistosos
 sp_ui_svbd_pastdata	Ver mis resultados anteriores
@@ -5153,8 +5212,8 @@ sp_ui_get_calendar_dialog_ym_v9	Vista mensual
 sp_ui_get_calendar_dialog_ymd_v9	Vista diaria
 sp_ui_userdel_complete_body_v11	Los datos de tu cuenta se han borrado por completo. Cuando cierres esta pantalla, se te redirigirá a la pantalla de creación de cuenta.
 sp_ui_userdel_error_body_v11	No se terminó de eliminar tu cuenta la última vez que cerraste la aplicación. A continuación se reanudará el proceso de eliminación.
-sp_ui_gift_confirm_body_nalink_v12	
-sp_ui_gift_confirm_button_nalink_v12	
+sp_ui_gift_confirm_body_nalink_v12	Es necesario tener vinculada una cuenta Nintendo para poder usar la función de regalo misterioso. Solo podrás recibir un regalo por cada cuenta Nintendo.
+sp_ui_gift_confirm_button_nalink_v12	Entendido
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_esp.msbt

@@ -3864,6 +3864,59 @@ sp_country_414	노르웨이
 sp_country_415	스웨덴
 sp_country_499	기타
 sp_country_500	중동
+sp_country_africa	아프리카
+sp_country_north_america	북아메리카
+sp_country_canada	캐나다
+sp_country_usa_north	미국 북부
+sp_country_usa_east	미국 동부
+sp_country_usa_west	미국 서부
+sp_country_usa_south	미국 남부
+sp_country_north_america_other	기타
+sp_country_latin_america	라틴 아메리카
+sp_country_chile	칠레
+sp_country_mexico	멕시코
+sp_country_brazil	브라질
+sp_country_argentina	아르헨티나
+sp_country_bolivia	볼리비아
+sp_country_colombia	콜롬비아
+sp_country_paraguay	파라과이
+sp_country_peru	페루
+sp_country_ecuador	에콰도르
+sp_country_latin_america_other	기타
+sp_country_oceania	오세아니아
+sp_country_australia	오스트레일리아
+sp_country_new_zealand	뉴질랜드
+sp_country_oceania_other	기타
+sp_country_asia_pacific	아시아 태평양
+sp_country_china	중국
+sp_country_hong_kong	홍콩
+sp_country_japan	일본
+sp_country_korea	대한민국
+sp_country_malaysia	말레이시아
+sp_country_philippines	필리핀
+sp_country_singapore	싱가포르
+sp_country_taiwan	대만
+sp_country_thailand	태국
+sp_country_asia_pacific_other	기타
+sp_country_europe	유럽
+sp_country_austria	오스트리아
+sp_country_belgium	벨기에
+sp_country_france	프랑스
+sp_country_germany	독일
+sp_country_ireland	아일랜드
+sp_country_italy	이탈리아
+sp_country_netherlands	네덜란드
+sp_country_portugal	포르투갈
+sp_country_spain	스페인
+sp_country_switzerland	스위스
+sp_country_uk	영국
+sp_country_denmark	덴마크
+sp_country_finland	핀란드
+sp_country_norway	노르웨이
+sp_country_sweden	스웨덴
+sp_country_poland	폴란드
+sp_country_europe_other	기타
+sp_country_middle_east	중동
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_kor.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	지역 선택
 sp_option_country_select_00002	이 지역으로 괜찮겠습니까? <b>[VAR_REGION]</b>  ※나중에 변경할 수 있습니다
 sp_option_country_select_00003	거주 중인 지역을 선택해 주십시오
 sp_option_country_select_00004	선택한 지역 확인
+sp_option_country_reselect_title	지역 설정 갱신
+sp_option_country_reselect_body	배틀 데이터 기능을 업데이트했습니다. "포켓몬스터스칼렛・바이올렛"의 "인터넷 대회" 전적 데이터를 확인할 수 있게 되었습니다.  또한, 본 업데이트에 맞춰, "Pokémon HOME"에서 선택할 수 있는 거주 중인 지역 리스트를 "포켓몬스터스칼렛・바이올렛"의 "인터넷 대회"에서 사용되는 지역 선택 리스트와 동일한 내용으로 갱신했습니다.  "Pokémon HOME"을 계속 이용하려면 거주 중인 지역을 다시 선택해야 합니다.  지역을 다시 선택하면, 각 지역에 대응하는 이용 약관과 개인정보 처리방침이 표시되오니 확인해 주십시오.
 sp_option_birthday_select_00001	연령 확인
 sp_option_birthday_select_00002	당신의 생년월일을 입력해 주십시오
 sp_option_birthday_select_00003	생년월일이 올바르게 입력되지 않았습니다
@@ -4256,7 +4311,7 @@ sp_option_terms2	이용 약관
 sp_option_terms_5	동의한다
 sp_option_terms_6	동의하지 않는다
 sp_option_addsdk_1	정보 이용에 대해서
-sp_option_terms_00012_v1	이용 약관과 개인정보 처리방침 갱신
+sp_option_terms_00012_v1	이용 약관과 개인정보 처리방침
 sp_option_nalink_0001_v2	Pokémon HOME은 닌텐도 어카운트와 연동하면 다음과 같은 기능을 이용할 수 있습니다
 sp_option_nalink_0002_v2	닌텐도 어카운트와 연동하면 할 수 있는 것
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	기종 변경 시 데이터 이어받기
 sp_option_nalink_0035_v2	연동하지 않는다
 sp_option_nalink_0036_v2	게스트 어카운트로 시작 전 최종 확인
 sp_option_nalink_0037_v2	※[아니요]를 누르면 닌텐도 어카운트 연동 확인 화면으로 돌아갑니다
-sp_option_nalink_0038_v2	"포켓몬스터소드・실드"에서 참가한 "인터넷 대회(공식 대회･동료 대회)"와 "랭크배틀"의 개인 전적 확인
-sp_option_nalink_0039_v2	"포켓몬스터소드・실드"의 개인 전적 확인
+sp_option_nalink_0038_v2	"포켓몬스터" 시리즈에서 참가한 "인터넷 대회(공식 대회･동료 대회)"와 "랭크배틀"의 개인 전적 확인
+sp_option_nalink_0039_v2	"포켓몬스터" 시리즈의 개인 전적 확인
 sp_option_nalink_0040_v2	서포트 TOP 페이지
 sp_option_nalink_0041_v2	연동한 닌텐도 어카운트에서 Nintendo Switch 버전 Pokémon HOME과 스마트폰 버전 Pokémon HOME의 이용을 확인했습니다
 sp_option_nalink_0042_v2	지금까지 이용 중이던 Nintendo Switch 버전 Pokémon HOME 또는 스마트폰 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	Nintendo Switch 버전 Pokémon HOME과 스마트폰 �
 sp_option_nalink_0044_v2	연동한 닌텐도 어카운트에서 스마트폰 버전 Pokémon HOME의 이용을 확인했습니다
 sp_option_nalink_0045_v2	지금까지 이용 중이던 스마트폰 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
 sp_option_nalink_0046_v2	스마트폰 버전 Pokémon HOME을 이어서 시작하겠습니까?
+sp_option_nalink_0047	스마트폰 버전 "Pokémon HOME"의 "이상한 소포" 이용
 sp_option_holohlo_0001_vgo	Pokémon GO 연동
 sp_option_holohlo_0004_vgo	받는다
 sp_option_holohlo_0005_vgo	받는다
+sp_option_holohlo_0006_vgo	"Pokémon GO"에서 전송된 포켓몬은 "포켓몬스터" 시리즈에서의 능력치를 상세 화면에서 확인할 수 있습니다.
+sp_option_holohlo_0007_vgo	※포켓몬의 능력치를 전환하는 버튼은 전송된 포켓몬을 연동 소프트웨어로 데려가기 전까지 표시되지 않습니다.
 sp_option_my_parent_01_v6	My 어버이/IDNo. 설정
 sp_option_my_parent_02_v6	복수의 My 어버이/IDNo.를 설정한다
 sp_option_my_parent_03_v6	선택/해제한다
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	아니요
 sp_option_userdel_confirm_title_v11	어카운트 삭제에 대하여
 sp_option_userdel_confirm1_body_v11	"Pokémon HOME" 어카운트의 데이터를 완전히 삭제합니다. 지금까지 이 앱을 이용한 기록과 도감, 업적 등의 모든 정보가 사라집니다. 한번 어카운트를 삭제하면 어떠한 이유로도 복구할 수 없습니다. 삭제한 어카운트에 대한 문의에도 대응하지 않습니다.
 sp_option_userdel_confirm1_body_nalink_v11	닌텐도 어카운트와 연동 중인 경우, 닌텐도 어카운트와 "Pokémon HOME"의 연동이 해제됩니다. 이로 인해, Nintendo Switch 버전에서도 로그인하거나 플레이할 수 없게 됩니다. 또한, 닌텐도 어카운트를 이용한 "Pokémon HOME" 어카운트 이어받기도 할 수 없게 됩니다. "Pokémon HOME" 어카운트는 다시는 이용할 수 없게 되나, 연동했던 닌텐도 어카운트는 계속해서 이용할 수 있습니다.
+sp_option_userdel_confirm1_body_nalink_v12	닌텐도 어카운트와 연동 중인 경우, 닌텐도 어카운트와 "Pokémon HOME"의 연동이 해제됩니다. 이로 인해, Nintendo Switch 버전에서도 로그인하거나 플레이할 수 없게 됩니다. 또한, 닌텐도 어카운트를 이용한 "Pokémon HOME" 어카운트 이어받기도 할 수 없게 됩니다.  "Pokémon HOME" 어카운트는 다시는 이용할 수 없게 되나, 연동했던 닌텐도 어카운트는 계속해서 이용할 수 있습니다.  ※연동했던 닌텐도 어카운트를 이용해서 "Pokémon HOME"을 새로 플레이하는 경우, 현재 어카운트의 "이상한 소포"에서 소포를 받은 이력 등의 정보는 이어받게 됩니다.
 sp_option_userdel_confirm2_body_v11	프리미엄 플랜에 가입한 경우, 어카운트를 삭제해도 프리미엄 플랜이 자동으로 해약되지는 않습니다. 반드시 직접 프리미엄 플랜을 구입한 각 스토어에서 해약을 진행해 주십시오.  ・Nintendo Switch 버전에서 구입한 경우 　⇒"닌텐도 e숍" ・iOS 버전에서 구입한 경우 　⇒"App Store" ・Android 버전에서 구입한 경우 　⇒"Google Play 스토어"  프리미엄 플랜 해약을 잊어버려서 발생한 환불 및 관련 문의에 대해서는 일절 대응하지 않습니다.
 sp_option_userdel_confirm3_title_v11	최종 확인
 sp_option_userdel_confirm3_body_v11	한번 삭제한 어카운트는 복구할 수 없습니다. 지금까지 이 앱을 이용한 기록과 도감, 업적 등의 모든 정보가 사라집니다. 정말 어카운트를 삭제하겠습니까?
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	색이 다른 모습
 sp_ui_formcategory03	알로라
 sp_ui_formcategory04	가라르
 sp_ui_formcategory05	히스이
+sp_ui_formcategory06	팔데아
 sp_ui_formcategory99	모든 모습
 sp_ui_achieve	업적
 sp_ui_friend	친구
@@ -4881,7 +4941,6 @@ sp_ui_pgl_battledata_top	배틀 데이터 TOP
 sp_ui_pgl_back	돌아간다
 sp_ui_svbd_battledata	배틀 데이터
 sp_ui_svbd_rankbattle	랭크배틀
-sp_ui_svbd_internet_tournament	공식 대회
 sp_ui_svbd_official_competition	공식 대회
 sp_ui_svbd_friendcompe	동료 대회
 sp_ui_svbd_pastdata	과거 전적을 확인한다

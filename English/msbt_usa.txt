@@ -3864,6 +3864,59 @@ sp_country_414	Norway
 sp_country_415	Sweden
 sp_country_499	Other
 sp_country_500	Middle East
+sp_country_africa	Africa
+sp_country_north_america	North America
+sp_country_canada	Canada
+sp_country_usa_north	USA - North
+sp_country_usa_east	USA - East
+sp_country_usa_west	USA - West
+sp_country_usa_south	USA - South
+sp_country_north_america_other	Other
+sp_country_latin_america	Latin America
+sp_country_chile	Chile
+sp_country_mexico	Mexico
+sp_country_brazil	Brazil
+sp_country_argentina	Argentina
+sp_country_bolivia	Bolivia
+sp_country_colombia	Colombia
+sp_country_paraguay	Paraguay
+sp_country_peru	Peru
+sp_country_ecuador	Ecuador
+sp_country_latin_america_other	Other
+sp_country_oceania	Oceania
+sp_country_australia	Australia
+sp_country_new_zealand	New Zealand
+sp_country_oceania_other	Other
+sp_country_asia_pacific	Asia-Pacific
+sp_country_china	China
+sp_country_hong_kong	Hong Kong
+sp_country_japan	Japan
+sp_country_korea	Korea
+sp_country_malaysia	Malaysia
+sp_country_philippines	Philippines
+sp_country_singapore	Singapore
+sp_country_taiwan	Taiwan
+sp_country_thailand	Thailand
+sp_country_asia_pacific_other	Other
+sp_country_europe	Europe
+sp_country_austria	Austria
+sp_country_belgium	Belgium
+sp_country_france	France
+sp_country_germany	Germany
+sp_country_ireland	Ireland
+sp_country_italy	Italy
+sp_country_netherlands	Netherlands
+sp_country_portugal	Portugal
+sp_country_spain	Spain
+sp_country_switzerland	Switzerland
+sp_country_uk	UK
+sp_country_denmark	Denmark
+sp_country_finland	Finland
+sp_country_norway	Norway
+sp_country_sweden	Sweden
+sp_country_poland	Poland
+sp_country_europe_other	Other
+sp_country_middle_east	Middle East
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_usa.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	Choose Your Region
 sp_option_country_select_00002	Are you sure you want to set your region to <b>[VAR_REGION]</b>?  You can change your region later.
 sp_option_country_select_00003	Which region do you live in?
 sp_option_country_select_00004	Confirm Region Selection
+sp_option_country_reselect_title	Region Settings Update
+sp_option_country_reselect_body	The Battle Data feature has been updated. You'll now be able to view battle records from Online Competitions in Pokémon Scarlet and Pokémon Violet.  The list of home regions you can choose from in Pokémon HOME has also been updated to align with those you can choose from for Online Competitions in Pokémon Scarlet and Pokémon Violet.  In order to continue using Pokémon HOME, you will need to choose your home region again.  Once you have chosen, you will be shown the Terms of Use and Privacy Notice for your region. Please make sure to review them.
 sp_option_birthday_select_00001	Enter Your Birth Date
 sp_option_birthday_select_00002	Please enter your date of birth below to verify your age.
 sp_option_birthday_select_00003	There's a problem with the date of birth you entered.
@@ -4256,7 +4311,7 @@ sp_option_terms2	Terms of Use
 sp_option_terms_5	I agree
 sp_option_terms_6	I don't agree
 sp_option_addsdk_1	Usage of Your Information
-sp_option_terms_00012_v1	Updates to the Terms of Use and Privacy Notice
+sp_option_terms_00012_v1	Terms of Use and Privacy Notice
 sp_option_nalink_0001_v2	You will be able to do the following by linking Pokémon HOME to your Nintendo Account.
 sp_option_nalink_0002_v2	Things you can do by linking your Nintendo Account
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	Carry over data when changing devices
 sp_option_nalink_0035_v2	Don't link
 sp_option_nalink_0036_v2	Final confirmation before using a guest account
 sp_option_nalink_0037_v2	Note: If you select "No," you will be returned to the Nintendo Account link confirmation screen.
-sp_option_nalink_0038_v2	Check personal battle records for Online Competitions (Official Competitions and Friendly Competitions) that you joined in Pokémon Sword and Pokémon Shield
-sp_option_nalink_0039_v2	Check personal battle records for Pokémon Sword and Pokémon Shield
+sp_option_nalink_0038_v2	Check personal battle records for Online Competitions (Official Competitions and Friendly Competitions) and Ranked Battles that you joined in the main series of Pokémon games
+sp_option_nalink_0039_v2	Check personal battle records for Pokémon games in the main series
 sp_option_nalink_0040_v2	Main Support Page
 sp_option_nalink_0041_v2	We were able to verify that both the Nintendo Switch version of Pokémon HOME and the mobile device version of Pokémon HOME are being used on this Nintendo Account.
 sp_option_nalink_0042_v2	Please make sure the <u><b>Support ID displayed on the</b></u> <u><b>title screen</b></u> of the version of Pokémon HOME you've been using (whether on Nintendo Switch or a mobile device) matches the ID displayed below.
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	Would you like to link the Nintendo Switch version of P
 sp_option_nalink_0044_v2	We were able to verify that the mobile device version of Pokémon HOME is being used on this Nintendo Account.
 sp_option_nalink_0045_v2	Please make sure the <u><b>Support ID displayed on the</b></u> <u><b>title screen</b></u> of the mobile device version of Pokémon HOME you've been using matches the ID displayed below.
 sp_option_nalink_0046_v2	Would you like to carry over your usage of the mobile device version of Pokémon HOME to this device and begin?
+sp_option_nalink_0047	Mystery Gifts on the Mobile Version of Pokémon HOME
 sp_option_holohlo_0001_vgo	Pokémon GO Link
 sp_option_holohlo_0004_vgo	Receive
 sp_option_holohlo_0005_vgo	Receive
+sp_option_holohlo_0006_vgo	
+sp_option_holohlo_0007_vgo	
 sp_option_my_parent_01_v6	Your Trainer Info settings
 sp_option_my_parent_02_v6	Manage multiple sets of Trainer Info at once.
 sp_option_my_parent_03_v6	Select/Remove
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	No
 sp_option_userdel_confirm_title_v11	Deleting your account
 sp_option_userdel_confirm1_body_v11	This will completely delete your account data for Pokémon HOME. All of the progress you've made—such as Challenges and Pokédex entries—will be lost. Once an account has been deleted, it cannot be recovered. We also cannot respond to any inquiries regarding deleted accounts.
 sp_option_userdel_confirm1_body_nalink_v11	If your Pokémon HOME account is linked to a Nintendo Account, they will become unlinked. As such, you will not be able to log in to or play the Nintendo Switch version of Pokémon HOME. You will also no longer be able to sync Pokémon HOME through your Nintendo Account. Please note that deleting your Pokémon HOME account will not have any effect on your linked Nintendo Account.
+sp_option_userdel_confirm1_body_nalink_v12	If your Pokémon HOME account is linked to a Nintendo Account, they will become unlinked. As such, you will not be able to log in to or play the Nintendo Switch version of Pokémon HOME. You will also no longer be able to sync Pokémon HOME through your Nintendo Account. Please note that deleting your Pokémon HOME account will not have any effect on your linked Nintendo Account.  Note: If you start using Pokémon HOME anew with the same Nintendo Account, some data from your current account—such as what Mystery Gifts you've received—will carry over.
 sp_option_userdel_confirm2_body_v11	If you have a Premium Plan subscription, deleting your Pokémon HOME account will not automatically cancel it. How you cancel your subscription varies depending on what version of Pokémon HOME you first registered on.  Players who subscribed through the Nintendo Switch version must cancel their subscription via Nintendo eShop.  Players who subscribed through the iOS version must cancel their subscription via the App Store.  Players who subscribed through the Android version must cancel their subscription via the Google Play Store.  Please note that we will not be issuing refunds for charges that result from forgetting to cancel your Premium Plan, nor will we be able to respond to inquiries related to this matter.
 sp_option_userdel_confirm3_title_v11	Final Confirmation
 sp_option_userdel_confirm3_body_v11	A deleted account cannot be recovered. All of the progress you've made in the application—such as Challenges and Pokédex entries—will be permanently lost.  Are you sure you want to delete your account?
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	Shiny Form
 sp_ui_formcategory03	Alolan Form
 sp_ui_formcategory04	Galarian Form
 sp_ui_formcategory05	Hisuian Form
+sp_ui_formcategory06	
 sp_ui_formcategory99	All Forms
 sp_ui_achieve	Challenges
 sp_ui_friend	Friends
@@ -4881,7 +4941,6 @@ sp_ui_pgl_battledata_top	Battle Data Home
 sp_ui_pgl_back	Back
 sp_ui_svbd_battledata	Battle Data
 sp_ui_svbd_rankbattle	Ranked Battles
-sp_ui_svbd_internet_tournament	Official Competitions
 sp_ui_svbd_official_competition	Official Competitions
 sp_ui_svbd_friendcompe	Friendly Competitions
 sp_ui_svbd_pastdata	View Past Battle Records
@@ -5153,8 +5212,8 @@ sp_ui_get_calendar_dialog_ym_v9	Display by months
 sp_ui_get_calendar_dialog_ymd_v9	Display by days
 sp_ui_userdel_complete_body_v11	All of your account data has been completely deleted. You will be redirected to the account creation screen once you close this screen.
 sp_ui_userdel_error_body_v11	Your account wasn't completely deleted when you last closed the application. The deletion process will now resume.
-sp_ui_gift_confirm_body_nalink_v12	
-sp_ui_gift_confirm_button_nalink_v12	
+sp_ui_gift_confirm_body_nalink_v12	In order to use the Mystery Gifts feature, you must have a linked Nintendo Account. Each Mystery Gift can only be received once per Nintendo Account.
+sp_ui_gift_confirm_button_nalink_v12	I understand
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt

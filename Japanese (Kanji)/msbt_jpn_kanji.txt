@@ -3864,6 +3864,59 @@ sp_country_414	ノルウェー
 sp_country_415	スウェーデン
 sp_country_499	その他
 sp_country_500	中東
+sp_country_africa	アフリカ
+sp_country_north_america	北アメリカ
+sp_country_canada	カナダ
+sp_country_usa_north	アメリカ合衆国北部
+sp_country_usa_east	アメリカ合衆国東部
+sp_country_usa_west	アメリカ合衆国西部
+sp_country_usa_south	アメリカ合衆国南部
+sp_country_north_america_other	その他
+sp_country_latin_america	ラテンアメリカ
+sp_country_chile	チリ
+sp_country_mexico	メキシコ
+sp_country_brazil	ブラジル
+sp_country_argentina	アルゼンチン
+sp_country_bolivia	ボリビア
+sp_country_colombia	コロンビア
+sp_country_paraguay	パラグアイ
+sp_country_peru	ペルー
+sp_country_ecuador	エクアドル
+sp_country_latin_america_other	その他
+sp_country_oceania	オセアニア
+sp_country_australia	オーストラリア
+sp_country_new_zealand	ニュージーランド
+sp_country_oceania_other	その他
+sp_country_asia_pacific	アジア太平洋
+sp_country_china	中国
+sp_country_hong_kong	香港
+sp_country_japan	日本
+sp_country_korea	韓国
+sp_country_malaysia	マレーシア
+sp_country_philippines	フィリピン
+sp_country_singapore	シンガポール
+sp_country_taiwan	台湾
+sp_country_thailand	タイ
+sp_country_asia_pacific_other	その他
+sp_country_europe	ヨーロッパ
+sp_country_austria	オーストリア
+sp_country_belgium	ベルギー
+sp_country_france	フランス
+sp_country_germany	ドイツ
+sp_country_ireland	アイルランド
+sp_country_italy	イタリア
+sp_country_netherlands	オランダ
+sp_country_portugal	ポルトガル
+sp_country_spain	スペイン
+sp_country_switzerland	スイス
+sp_country_uk	英国
+sp_country_denmark	デンマーク
+sp_country_finland	フィンランド
+sp_country_norway	ノルウェー
+sp_country_sweden	スウェーデン
+sp_country_poland	ポーランド
+sp_country_europe_other	その他
+sp_country_middle_east	中東
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_jpn_kanji.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	地域の　選択
 sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR_REGION]】</b>  ※あとから　変更できます
 sp_option_country_select_00003	お住まいの地域を　選択してください
 sp_option_country_select_00004	選択した　地域の　確認
+sp_option_country_reselect_title	地域設定の更新
+sp_option_country_reselect_body	バトルデータの機能をアップデートしました。 『ポケットモンスター スカーレット・バイオレット』の 「インターネット大会」の戦績データが 確認できるようになります。  また、こちらのアップデートに伴い、 『Pokémon HOME』で 選択できるお住まいの地域の一覧を 『ポケットモンスター スカーレット・バイオレット』の 「インターネット大会」における 地域選択の一覧と同等のものに更新します。  『Pokémon HOME』を継続して ご利用いただくには、お住まいの地域を 再度ご選択いただく必要があります。  地域を再度ご選択いただいたあと、 各地域に対応した 利用規約およびプライバシーポリシーが 表示されますので、ご確認ください。
 sp_option_birthday_select_00001	年齢確認
 sp_option_birthday_select_00002	あなたの　生年月日を　入力してください
 sp_option_birthday_select_00003	生年月日が 正しく　入力されて　いません
@@ -4256,7 +4311,7 @@ sp_option_terms2	利用規約
 sp_option_terms_5	同意する
 sp_option_terms_6	同意しない
 sp_option_addsdk_1	情報利用に関して
-sp_option_terms_00012_v1	利用規約とプライバシーポリシーの更新
+sp_option_terms_00012_v1	利用規約とプライバシーポリシー
 sp_option_nalink_0001_v2	Pokémon HOMEでは ニンテンドーアカウントと　連携することで 次のことができるようになります
 sp_option_nalink_0002_v2	ニンテンドーアカウント連携で　できること
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	機種変更時の　データの引き継ぎ
 sp_option_nalink_0035_v2	連携しない
 sp_option_nalink_0036_v2	ゲストアカウントで開始する前の最終確認
 sp_option_nalink_0037_v2	※[いいえ]を押すと　ニンテンドーアカウント連携の 確認画面へもどります
-sp_option_nalink_0038_v2	『ポケットモンスター ソード・シールド』で参加した 「インターネット大会（公式大会・仲間大会）」や 「ランクバトル」の個人戦績の確認
-sp_option_nalink_0039_v2	『ポケットモンスター ソード・シールド』の 個人戦績の確認
+sp_option_nalink_0038_v2	『ポケットモンスター』シリーズで参加した 「インターネット大会（公式大会・仲間大会）」や 「ランクバトル」の個人戦績の確認
+sp_option_nalink_0039_v2	『ポケットモンスター』シリーズの 個人戦績の確認
 sp_option_nalink_0040_v2	サポートトップページ
 sp_option_nalink_0041_v2	連携した ニンテンドーアカウントに Nintendo Switch版Pokémon HOMEと スマートフォン版Pokémon HOMEの  利用が 確認できました
 sp_option_nalink_0042_v2	これまで　ご利用の　 Nintendo Switch版Pokémon HOME、 もしくは　スマートフォン版Pokémon HOMEの <u><b>タイトル画面に　表示されるサポートID</b></u>が 下のIDと　一致しているかを　確認してください
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	Nintendo Switch版Pokémon HOMEと スマートフォ�
 sp_option_nalink_0044_v2	連携した　ニンテンドーアカウントに スマートフォン版Pokémon HOMEの 利用が　確認できました
 sp_option_nalink_0045_v2	これまで　ご利用の スマートフォン版Pokémon HOMEの <u><b>タイトル画面に　表示されるサポートID</b></u> が下のIDと　一致しているかを　確認してください
 sp_option_nalink_0046_v2	スマートフォン版Pokémon HOMEを 引き継いで　開始しますか？
+sp_option_nalink_0047	スマートフォン版『Pokémon HOME』での 「ふしぎなおくりもの」のご利用
 sp_option_holohlo_0001_vgo	Pokémon GO連携
 sp_option_holohlo_0004_vgo	引き取る
 sp_option_holohlo_0005_vgo	引き取る
+sp_option_holohlo_0006_vgo	『Pokémon GO』から転送したポケモンは 『ポケットモンスター』シリーズのつよさとして 詳細画面で確認することができます。
+sp_option_holohlo_0007_vgo	※転送されたポケモンを連携ソフトに連れていくまで ポケモンのつよさを切り替えるボタンは 表示されません。
 sp_option_my_parent_01_v6	マイおや／IDNo.の設定
 sp_option_my_parent_02_v6	マイおや／IDNo.を複数設定する
 sp_option_my_parent_03_v6	選択・解除する
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	いいえ
 sp_option_userdel_confirm_title_v11	アカウント削除について
 sp_option_userdel_confirm1_body_v11	『Pokémon HOME』のアカウントのデータを 完全に削除します。 今までこのアプリで遊んだ記録や図鑑、実績など すべての情報が失われます。 アカウント削除後は、いかなる理由であっても 復旧を行うことができません。 削除したアカウントについてのお問い合わせには 対応できません。
 sp_option_userdel_confirm1_body_nalink_v11	ニンテンドーアカウントと連携している場合、 ニンテンドーアカウントと『Pokémon HOME』の 連携は解除されます。 そのため、Nintendo Switch版からの ログインおよびプレイもできなくなります。 また、ニンテンドーアカウントを利用した、 『Pokémon HOME』のアカウント引継ぎを 行うこともできません。 『Pokémon HOME』のアカウントは 二度と利用できなくなりますが、 連携していたニンテンドーアカウントは 引き続きご利用いただけます。
+sp_option_userdel_confirm1_body_nalink_v12	ニンテンドーアカウントと連携している場合、 ニンテンドーアカウントと『Pokémon HOME』の 連携は解除されます。 そのため、Nintendo Switch版からの ログインおよびプレイもできなくなります。 また、ニンテンドーアカウントを利用した、 『Pokémon HOME』のアカウント引継ぎを 行うこともできません。  『Pokémon HOME』のアカウントは 二度と利用できなくなりますが、 連携していたニンテンドーアカウントは 引き続きご利用いただけます。  ※なお、連携していた ニンテンドーアカウントを利用して 『Pokémon HOME』を新たにプレイする場合、 現在のアカウントの「ふしぎなおくりもの」の 受け取り情報などは引き継がれます。
 sp_option_userdel_confirm2_body_v11	プレミアムプランに加入されている場合、 アカウント削除を行っても、 プレミアムプランは自動解約されません。 必ずご自身でプレミアムプランを購入した 各ストアから解約手続きを行ってください。  ・Nintendo Switch版で購入した方 　⇒「ニンテンドーeショップ」 ・iOS版で購入した方 　⇒「App Store」 ・Android版で購入した方 　⇒「Google Play ストア」  プレミアムプラン解約忘れによる返金や 関連したお問い合わせには一切対応できません。
 sp_option_userdel_confirm3_title_v11	最終確認
 sp_option_userdel_confirm3_body_v11	一度削除したアカウントは復旧できません。 今までこのアプリで遊んだ記録や図鑑、 実績などのすべての情報が失われます。 本当にアカウントを削除しますか？
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	いろちがい
 sp_ui_formcategory03	アローラ
 sp_ui_formcategory04	ガラル
 sp_ui_formcategory05	ヒスイ
+sp_ui_formcategory06	パルデア
 sp_ui_formcategory99	すべてのすがた
 sp_ui_achieve	実績
 sp_ui_friend	フレンド
@@ -4881,7 +4941,6 @@ sp_ui_pgl_battledata_top	バトルデータTOP
 sp_ui_pgl_back	戻る
 sp_ui_svbd_battledata	バトルデータ
 sp_ui_svbd_rankbattle	ランクバトル
-sp_ui_svbd_internet_tournament	公式大会
 sp_ui_svbd_official_competition	公式大会
 sp_ui_svbd_friendcompe	仲間大会
 sp_ui_svbd_pastdata	過去の戦績を見る

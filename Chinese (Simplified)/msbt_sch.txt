@@ -3864,6 +3864,59 @@ sp_country_414	挪威
 sp_country_415	瑞典
 sp_country_499	其他
 sp_country_500	中东地区
+sp_country_africa	非洲
+sp_country_north_america	北美洲
+sp_country_canada	加拿大
+sp_country_usa_north	美利坚合众国北部
+sp_country_usa_east	美利坚合众国东部
+sp_country_usa_west	美利坚合众国西部
+sp_country_usa_south	美利坚合众国南部
+sp_country_north_america_other	其他
+sp_country_latin_america	拉丁美洲
+sp_country_chile	智利
+sp_country_mexico	墨西哥
+sp_country_brazil	巴西
+sp_country_argentina	阿根廷
+sp_country_bolivia	玻利维亚
+sp_country_colombia	哥伦比亚
+sp_country_paraguay	巴拉圭
+sp_country_peru	秘鲁
+sp_country_ecuador	厄瓜多尔
+sp_country_latin_america_other	其他
+sp_country_oceania	大洋洲
+sp_country_australia	澳大利亚
+sp_country_new_zealand	新西兰
+sp_country_oceania_other	其他
+sp_country_asia_pacific	亚太地区
+sp_country_china	中国大陆
+sp_country_hong_kong	香港
+sp_country_japan	日本
+sp_country_korea	韩国
+sp_country_malaysia	马来西亚
+sp_country_philippines	菲律宾
+sp_country_singapore	新加坡
+sp_country_taiwan	台湾
+sp_country_thailand	泰国
+sp_country_asia_pacific_other	其他
+sp_country_europe	欧洲
+sp_country_austria	奥地利
+sp_country_belgium	比利时
+sp_country_france	法国
+sp_country_germany	德国
+sp_country_ireland	爱尔兰
+sp_country_italy	意大利
+sp_country_netherlands	荷兰
+sp_country_portugal	葡萄牙
+sp_country_spain	西班牙
+sp_country_switzerland	瑞士
+sp_country_uk	英国
+sp_country_denmark	丹麦
+sp_country_finland	芬兰
+sp_country_norway	挪威
+sp_country_sweden	瑞典
+sp_country_poland	波兰
+sp_country_europe_other	其他
+sp_country_middle_east	中东地区
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_sch.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	选择地区
 sp_option_country_select_00002	确认选择此地区吗？ <b>【[VAR_REGION]】</b>  ※可在之后更改。
 sp_option_country_select_00003	请选择你所居住的地区。
 sp_option_country_select_00004	确认所选地区
+sp_option_country_reselect_title	地区设置的更新
+sp_option_country_reselect_body	已更新对战数据功能。 可确认《宝可梦 朱／紫》的 “互联网大赛”的成绩数据。  此外，伴随此次更新， 《Pokémon HOME》中可选择的 所居住的地区一览将更新为 与《宝可梦 朱／紫》的“互联网大赛”中 选择地区一览相同的内容。  继续使用《Pokémon HOME》 需要再次选择所居住的地区。  再次选择地区后， 会显示各地区所对应的 用户协议及隐私权政策， 请确认。
 sp_option_birthday_select_00001	确认年龄
 sp_option_birthday_select_00002	请输入你的出生日期。
 sp_option_birthday_select_00003	未正确输入出生日期。
@@ -4256,7 +4311,7 @@ sp_option_terms2	用户协议
 sp_option_terms_5	同意
 sp_option_terms_6	不同意
 sp_option_addsdk_1	关于用户信息的使用
-sp_option_terms_00012_v1	更新用户协议及隐私权政策
+sp_option_terms_00012_v1	用户协议及隐私权政策
 sp_option_nalink_0001_v2	关联Nintendo Account后， Pokémon HOME可实现以下功能。
 sp_option_nalink_0002_v2	关联Nintendo Account后可实现的功能
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	因更换设备而发生的数据继承操作。
 sp_option_nalink_0035_v2	不关联
 sp_option_nalink_0036_v2	以游客身份开始使用前的最终确认
 sp_option_nalink_0037_v2	※按下“否”后，将回到 确认关联Nintendo Account的画面。
-sp_option_nalink_0038_v2	确认在《宝可梦 剑／盾》参加过的 “互联网大赛（官方大赛／伙伴大赛）”及 “级别对战”的个人成绩。
-sp_option_nalink_0039_v2	确认《宝可梦 剑／盾》的个人成绩。
+sp_option_nalink_0038_v2	确认在《宝可梦》系列参加过的 “互联网大赛（官方大赛／伙伴大赛）”及 “级别对战”的个人成绩。
+sp_option_nalink_0039_v2	确认《宝可梦》系列的个人成绩。
 sp_option_nalink_0040_v2	客服首页
 sp_option_nalink_0041_v2	在已关联的Nintendo Account内 确认到了Nintendo Switch版 Pokémon HOME与智能手机版 Pokémon HOME的使用记录。
 sp_option_nalink_0042_v2	请确认至今为止所使用的 Nintendo Switch版Pokémon HOME 或智能手机版Pokémon HOME <u><b>标题画面所显示的客服编码</b></u> 是否与下方编码一致。
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	要开始关联Nintendo Switch版Pokémon HOME 与智�
 sp_option_nalink_0044_v2	在已关联的Nintendo Account内 确认到了智能手机版 Pokémon HOME的使用记录。
 sp_option_nalink_0045_v2	请确认至今为止所使用的 智能手机版Pokémon HOME <u><b>标题画面所显示的客服编码</b></u> 是否与下方编码一致。
 sp_option_nalink_0046_v2	要继承智能手机版Pokémon HOME的 数据并开始吗？
+sp_option_nalink_0047	使用智能手机版 《Pokémon HOME》的“神秘礼物”
 sp_option_holohlo_0001_vgo	关联Pokémon GO
 sp_option_holohlo_0004_vgo	接收
 sp_option_holohlo_0005_vgo	接收
+sp_option_holohlo_0006_vgo	
+sp_option_holohlo_0007_vgo	
 sp_option_my_parent_01_v6	我的初训家／IDNo.设置
 sp_option_my_parent_02_v6	设置多个我的初训家／IDNo.
 sp_option_my_parent_03_v6	选择／解除
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	否
 sp_option_userdel_confirm_title_v11	关于删除账号
 sp_option_userdel_confirm1_body_v11	此操作会完全删除《Pokémon HOME》的账号数据。 目前为止在此应用程序游玩的 记录、图鉴和成就等所有信息都会消失。 删除账号后，无论出于任何理由都无法将其复原。 我们无法对应关于已删除账号的咨询。
 sp_option_userdel_confirm1_body_nalink_v11	若已关联Nintendo Account，则会解除 Nintendo Account与《Pokémon HOME》的关联。 因此，也将无法从Nintendo Switch版登录或游玩。 此外，将无法使用Nintendo Account进行账号继承。 虽然《Pokémon HOME》的账号将无法再次使用， 但原本关联的Nintendo Account可继续使用。
+sp_option_userdel_confirm1_body_nalink_v12	若已关联Nintendo Account， 则会解除Nintendo Account与 《Pokémon HOME》的关联。 因此，也将无法从Nintendo Switch版 登录或游玩。 此外，将无法使用Nintendo Account 进行账号继承。  虽然《Pokémon HOME》的帐号 将无法再次使用， 但原本关联的Nintendo Account 可继续使用。  ※此外，若使用原本关联的 Nintendo Account重新游玩 《Pokémon HOME》，则将继承当前帐号的 “神秘礼物”的接收情况等信息。
 sp_option_userdel_confirm2_body_v11	若加入了进阶方案， 即使删除账号， 进阶方案也不会自动解约。 请务必自行通过购买进阶方案的 各商店办理解约手续。  ・从Nintendo Switch版购买的用户 　⇒“Nintendo eShop” ・从iOS版购买的用户 　⇒“App Store” ・从Android版购买的用户 　⇒“Google Play 商店”  我们无法对忘记解除进阶方案的用户进行退款， 也无法对应相关咨询。
 sp_option_userdel_confirm3_title_v11	最终确认
 sp_option_userdel_confirm3_body_v11	账号一旦删除，将无法复原。 目前为止在此应用程序游玩的 记录、图鉴和成就等所有信息都会消失。 确定要删除账号吗？
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	异色
 sp_ui_formcategory03	阿罗拉
 sp_ui_formcategory04	伽勒尔
 sp_ui_formcategory05	洗翠
+sp_ui_formcategory06	
 sp_ui_formcategory99	所有的样子
 sp_ui_achieve	成就
 sp_ui_friend	好友
@@ -4881,7 +4941,6 @@ sp_ui_pgl_battledata_top	对战数据首页
 sp_ui_pgl_back	返回
 sp_ui_svbd_battledata	对战数据
 sp_ui_svbd_rankbattle	级别对战
-sp_ui_svbd_internet_tournament	官方大赛
 sp_ui_svbd_official_competition	官方大赛
 sp_ui_svbd_friendcompe	伙伴大赛
 sp_ui_svbd_pastdata	查看过去的成绩
@@ -5153,8 +5212,8 @@ sp_ui_get_calendar_dialog_ym_v9	以月为单位显示
 sp_ui_get_calendar_dialog_ymd_v9	以日为单位显示
 sp_ui_userdel_complete_body_v11	已完全删除账号的数据。 关闭此画面后， 将移动到创建新账号的画面。
 sp_ui_userdel_error_body_v11	上次关闭应用程序时， 账号的删除尚未完成。 将继续进行账号的删除。
-sp_ui_gift_confirm_body_nalink_v12	
-sp_ui_gift_confirm_button_nalink_v12	
+sp_ui_gift_confirm_body_nalink_v12	需要关联Nintendo Account 才可使用“神秘礼物”。 每１个Nintendo Account只可领取 １次“神秘礼物”的各项礼物。
+sp_ui_gift_confirm_button_nalink_v12	已确认
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt

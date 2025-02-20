@@ -3864,6 +3864,59 @@ sp_country_414	Norwegen
 sp_country_415	Schweden
 sp_country_499	Sonstige
 sp_country_500	Naher Osten
+sp_country_africa	Afrika
+sp_country_north_america	Nordamerika
+sp_country_canada	Kanada
+sp_country_usa_north	Vereinigte Staaten - Nord
+sp_country_usa_east	Vereinigte Staaten - Ost
+sp_country_usa_west	Vereinigte Staaten - West
+sp_country_usa_south	Vereinigte Staaten - Süd
+sp_country_north_america_other	Sonstige
+sp_country_latin_america	Lateinamerika
+sp_country_chile	Chile
+sp_country_mexico	Mexiko
+sp_country_brazil	Brasilien
+sp_country_argentina	Argentinien
+sp_country_bolivia	Bolivien
+sp_country_colombia	Kolumbien
+sp_country_paraguay	Paraguay
+sp_country_peru	Peru
+sp_country_ecuador	Ecuador
+sp_country_latin_america_other	Sonstige
+sp_country_oceania	Ozeanien
+sp_country_australia	Australien
+sp_country_new_zealand	Neuseeland
+sp_country_oceania_other	Sonstige
+sp_country_asia_pacific	Asien-Pazifik
+sp_country_china	China
+sp_country_hong_kong	Hongkong
+sp_country_japan	Japan
+sp_country_korea	Korea
+sp_country_malaysia	Malaysia
+sp_country_philippines	Philippinen
+sp_country_singapore	Singapur
+sp_country_taiwan	Taiwan
+sp_country_thailand	Thailand
+sp_country_asia_pacific_other	Sonstige
+sp_country_europe	Europa
+sp_country_austria	Österreich
+sp_country_belgium	Belgien
+sp_country_france	Frankreich
+sp_country_germany	Deutschland
+sp_country_ireland	Irland
+sp_country_italy	Italien
+sp_country_netherlands	Niederlande
+sp_country_portugal	Portugal
+sp_country_spain	Spanien
+sp_country_switzerland	Schweiz
+sp_country_uk	Vereinigtes Königreich
+sp_country_denmark	Dänemark
+sp_country_finland	Finnland
+sp_country_norway	Norwegen
+sp_country_sweden	Schweden
+sp_country_poland	Polen
+sp_country_europe_other	Sonstige
+sp_country_middle_east	Naher Osten
 
 ~~~~~~~~~~~~~~~
 Text File : sp_friend_deu.msbt
@@ -4119,6 +4172,8 @@ sp_option_country_select_00001	Regionsauswahl
 sp_option_country_select_00002	Willst du wirklich diese Region auswählen? <b>[VAR_REGION]</b>  Du kannst deine Region später ändern.
 sp_option_country_select_00003	In welcher Region bist du wohnhaft?
 sp_option_country_select_00004	Regionsauswahl bestätigen
+sp_option_country_reselect_title	Aktualisierung der Regionseinstellungen
+sp_option_country_reselect_body	Die Kampfdaten wurden aktualisiert. Du kannst nun die Kampfergebnisse von Online-Turnieren in Pokémon Karmesin und Pokémon Purpur einsehen.  Darüber hinaus wurde die in Pokémon HOME aufrufbare Liste zur Auswahl deiner Region aktualisiert, sodass diese nun mit den verfügbaren Regionen aus Pokémon Karmesin und Pokémon Purpur übereinstimmt.  Um Pokémon HOME weiterhin nutzen zu können, musst du deine Region erneut auswählen.  Wenn du deine Auswahl getroffen hast, werden dir die Nutzungsbedingungen und Datenschutzerklärung für deine Region angezeigt. Bitte lies dir den Inhalt gründlich durch.
 sp_option_birthday_select_00001	Eingabe des Geburtsdatums
 sp_option_birthday_select_00002	Bitte gib dein Geburtsdatum ein, um dein Alter zu bestätigen.
 sp_option_birthday_select_00003	Es gibt ein Problem mit dem Geburtsdatum, das du eingegeben hast.
@@ -4256,7 +4311,7 @@ sp_option_terms2	Nutzungsbedingungen
 sp_option_terms_5	Ich stimme zu
 sp_option_terms_6	Ich stimme nicht zu
 sp_option_addsdk_1	Über die Nutzung deiner Daten
-sp_option_terms_00012_v1	Aktualisierung der Nutzungsbedingungen und Datenschutzerklärung
+sp_option_terms_00012_v1	Nutzungsbedingungen und Datenschutzerklärung
 sp_option_nalink_0001_v2	Wenn du deinen Nintendo-Account mit Pokémon HOME verknüpfst, kannst du die folgenden Funktionen nutzen.
 sp_option_nalink_0002_v2	Vorteile des Verknüpfens mit einem Nintendo-Account
 sp_option_nalink_0003_v2	・ 
@@ -4294,8 +4349,8 @@ sp_option_nalink_0034_v2	Datenübertragung bei Gerätewechsel
 sp_option_nalink_0035_v2	Nicht verknüpfen
 sp_option_nalink_0036_v2	Endgültige Bestätigung der Nutzung eines Gästekontos
 sp_option_nalink_0037_v2	Hinweis: Wenn du „Nein“ auswählst, kehrst du zum Bildschirm zur Bestätigung des Nintendo-Accounts zurück.
-sp_option_nalink_0038_v2	Überprüfung deiner Kampfergebnisse aus Rangkämpfen und Online-Turnieren (Offizielle und Freundesturniere), an denen du mit Pokémon Schwert oder Pokémon Schild teilgenommen hast
-sp_option_nalink_0039_v2	Überprüfung deiner Kampfergebnisse aus Pokémon Schwert oder Pokémon Schild
+sp_option_nalink_0038_v2	Überprüfung deiner Kampfergebnisse aus Rangkämpfen und Online-Turnieren (Offizielle und Freundesturniere), an denen du mit Pokémon-Spielen der Hauptreihe teilgenommen hast
+sp_option_nalink_0039_v2	Überprüfung deiner Kampfergebnisse aus Pokémon-Spielen der Hauptreihe
 sp_option_nalink_0040_v2	Kundendienst
 sp_option_nalink_0041_v2	Wir konnten verifizieren, dass dieser Nintendo-Account sowohl mit der Nintendo Switch-Version von Pokémon HOME als auch mit der Mobilgerät-Version von Pokémon HOME verwendet wird.
 sp_option_nalink_0042_v2	Bitte stelle sicher, dass die <u><b>Kunden-ID</b></u>, die auf dem <u><b>Titelbildschirm</b></u> deiner bisher genutzten Ausgabe von Pokémon HOME für Nintendo Switch oder mobile Geräte angezeigt wird, mit der unten stehenden ID übereinstimmt.
@@ -4303,9 +4358,12 @@ sp_option_nalink_0043_v2	Willst du damit beginnen, Pokémon HOME für Nintendo S
 sp_option_nalink_0044_v2	Wir konnten verifizieren, dass dieser Nintendo-Account mit der Mobilgerät-Version von Pokémon HOME verwendet wird.
 sp_option_nalink_0045_v2	Bitte stelle sicher, dass die <u><b>Kunden-ID</b></u>, die auf dem <u><b>Titelbildschirm</b></u> deiner bisher genutzten Ausgabe von Pokémon HOME für mobile Geräte angezeigt wird, mit der unten stehenden ID übereinstimmt.
 sp_option_nalink_0046_v2	Möchtest du deine Daten der Mobilgerät-Version von Pokémon HOME auf dieses Gerät übertragen und beginnen?
+sp_option_nalink_0047	Geheimgeschenke in der Mobilgerät-Version von Pokémon HOME
 sp_option_holohlo_0001_vgo	Verlinkung mit Pokémon GO
 sp_option_holohlo_0004_vgo	Pokémon empfangen
 sp_option_holohlo_0005_vgo	Pokémon empfangen
+sp_option_holohlo_0006_vgo	
+sp_option_holohlo_0007_vgo	
 sp_option_my_parent_01_v6	Meinen OT/meine ID-Nr. registrieren
 sp_option_my_parent_02_v6	Mehrere OT/ID-Nr. registrieren
 sp_option_my_parent_03_v6	Bestätigen/Entfernen
@@ -4321,6 +4379,7 @@ sp_option_userdel_confirm_no_v11	Nein
 sp_option_userdel_confirm_title_v11	Löschung deines Kontos
 sp_option_userdel_confirm1_body_v11	Dadurch werden all deine Kontodaten für Pokémon HOME gelöscht. Sämtlicher Fortschritt, einschließlich verzeichneter Erfolge sowie Pokédex-Einträge, geht dabei verloren. Nach der Löschung lässt sich das Konto nicht wiederherstellen und Anfragen dazu können nicht mehr beantwortet werden.
 sp_option_userdel_confirm1_body_nalink_v11	Falls eine Verknüpfung zwischen deinem Pokémon HOME- Konto und einem Nintendo-Account besteht, wird diese aufgehoben. Du kannst dich folglich nicht mehr bei der Nintendo Switch-Version von Pokémon HOME anmelden oder diese spielen. Außerdem ist es nicht länger möglich, dein Pokémon HOME-Konto über deinen Nintendo-Account zu synchronisieren. Die Löschung deines Pokémon HOME- Kontos hat keine Auswirkungen auf deinen verknüpften Nintendo-Account.
+sp_option_userdel_confirm1_body_nalink_v12	Falls eine Verknüpfung zwischen deinem Pokémon HOME-Konto und einem Nintendo-Account besteht, wird diese aufgehoben. Du kannst dich folglich nicht mehr bei der Nintendo Switch-Version von Pokémon HOME anmelden oder diese spielen. Außerdem ist es nicht länger möglich, dein Pokémon HOME-Konto über deinen Nintendo-Account zu synchronisieren. Die Löschung deines Pokémon HOME-Kontos hat keine Auswirkungen auf deinen verknüpften Nintendo-Account.  Hinweis: Wenn du Pokémon HOME nach der Löschung erneut startest und dabei denselben Nintendo-Account verknüpfst wie zuvor, werden gewisse Daten von deinem derzeitigen Account übertragen, darunter auch deine bereits erhaltenen Geheimgeschenke.
 sp_option_userdel_confirm2_body_v11	Wenn du den Premium-Service nutzt, wird dein Abonnement infolge der Löschung deines Pokémon HOME-Kontos nicht automatisch gekündigt. Die Vorgehensweise bei der Abo-Kündigung hängt davon ab, auf welcher Version von Pokémon HOME du dich ursprünglich für den Premium-Service registriert hast.  Nutzer, die das Abonnement auf der Nintendo Switch-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den Nintendo eShop kündigen.  Nutzer, die das Abonnement auf der iOS-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den App Store kündigen.  Nutzer, die das Abonnement auf der Android-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den Google Play Store kündigen.  Bitte beachte, dass Kosten, die durch das Vergessen der Kündigung des Premium-Services entstehen, nicht rückerstattet werden und diesbezügliche Anfragen nicht beantwortet werden können.
 sp_option_userdel_confirm3_title_v11	Endgültige Bestätigung
 sp_option_userdel_confirm3_body_v11	Ein gelöschtes Konto kann nicht wiederhergestellt werden. Sämtlicher Fortschritt in der Anwendung, einschließlich verzeichneter Erfolge und Pokédex-Einträge, geht dabei endgültig verloren.  Bist du sicher, dass du dein Konto löschen möchtest?
@@ -4664,6 +4723,7 @@ sp_ui_formcategory02	Schillernd
 sp_ui_formcategory03	Alola-Form
 sp_ui_formcategory04	Galar-Form
 sp_ui_formcategory05	Hisui-Form
+sp_ui_formcategory06	
 sp_ui_formcategory99	Alle Formen
 sp_ui_achieve	Erfolge
 sp_ui_friend	Freunde
@@ -4881,7 +4941,6 @@ sp_ui_pgl_battledata_top	Kampfdaten-Startseite
 sp_ui_pgl_back	Zurück
 sp_ui_svbd_battledata	Kampfdaten
 sp_ui_svbd_rankbattle	Rangkämpfe
-sp_ui_svbd_internet_tournament	Offizielle Turniere
 sp_ui_svbd_official_competition	Offizielle Turniere
 sp_ui_svbd_friendcompe	Freundesturniere
 sp_ui_svbd_pastdata	Bisherige Kampfergebnisse
@@ -4890,7 +4949,7 @@ sp_ui_svbd_in_preparation	Diese Funktion ist noch nicht verfügbar.
 sp_ui_svbd_ok	OK
 sp_ui_svbd_terms_of_use	Verknüpfung deines Nintendo-Accounts
 sp_ui_svbd_reference_sv_info	Wenn du einen verknüpften Nintendo-Account besitzt, kannst du deine Ergebnisse aus verschiedenen Kämpfen wie zum Beispiel Online-Turnieren und Rangkämpfen, an denen du teilgenommen hast, einsehen.
-sp_ui_svbd_yes	Ich bin einverstanden
+sp_ui_svbd_yes	Ich verstehe
 sp_ui_svbd_battledata_top	Kampfdaten-Startseite
 sp_ui_svbd_back	Zurück
 sp_ui_all_pokemon	Alle Pokémon
@@ -5153,8 +5212,8 @@ sp_ui_get_calendar_dialog_ym_v9	Monatsansicht
 sp_ui_get_calendar_dialog_ymd_v9	Tagesansicht
 sp_ui_userdel_complete_body_v11	All deine Kontodaten wurden vollständig gelöscht. Nach dem Schließen dieses Bildschirms kehrst du zum Bildschirm zur Kontoerstellung zurück.
 sp_ui_userdel_error_body_v11	Dein Konto war noch nicht vollständig gelöscht, als du die Anwendung zuletzt geschlossen hast. Der Löschvorgang wird jetzt fortgesetzt.
-sp_ui_gift_confirm_body_nalink_v12	
-sp_ui_gift_confirm_button_nalink_v12	
+sp_ui_gift_confirm_body_nalink_v12	Um die Geheimgeschenke-Funktion nutzen zu können, benötigst du einen verknüpften Nintendo-Account. Jedes Geheimgeschenk kann nur ein Mal über den entsprechenden Nintendo-Account erhalten werden.
+sp_ui_gift_confirm_button_nalink_v12	Ich verstehe
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt
