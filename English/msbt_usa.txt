@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	Receive 5 presents through Mystery Gift!
 sp_achstep_oth_000201	Collect 10 kinds of stickers!
 sp_achstep_oth_000202	Collect 50 kinds of stickers!
 sp_achstep_oth_000203	Collect 100 kinds of stickers!
-sp_achstep_oth_000301	Use Pokémon HOME for 10 days!
-sp_achstep_oth_000302	Use Pokémon HOME for 30 days!
-sp_achstep_oth_000303	Use Pokémon HOME for 60 days!
+sp_achstep_oth_000301	Have 10 days pass since you first started using Pokémon HOME!
+sp_achstep_oth_000302	Have 30 days pass since you first started using Pokémon HOME!
+sp_achstep_oth_000303	Have 60 days pass since you first started using Pokémon HOME!
 sp_achstep_oth_000401	Create a label!
 sp_achstep_oth_000402	Create 3 labels!
 sp_achstep_oth_000403	Create 10 labels!
@@ -1545,8 +1545,8 @@ sp_achstep_oth_s_0032	Participate in the 2020 JR East Pokémon Stamp Rally!
 sp_achstep_oth_s_0033	Complete all stations in the 2020 JR East Pokémon Stamp Rally!
 sp_achstep_oth_s_0034	Participate in the 2021 JR East Pokémon Stamp Rally!
 sp_achstep_oth_s_0035	Complete all stations in the 2021 JR East Pokémon Stamp Rally!
-sp_achstep_oth_s_0036	See （えいがめい） in the theater!
-sp_achstep_oth_s_0037	See （えいがめい） in the theater!
+sp_achstep_oth_s_0036	You saw （えいがめい） in the theater!
+sp_achstep_oth_s_0037	You saw （えいがめい） in the theater!
 sp_achstep_oth_s_0038	Visit Pokémon Cafes!
 sp_achstep_oth_s_0039	Visit Pokémon Center OSAKA DX!
 sp_achstep_oth_s_0040	Change your user icon 10 times!
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	Aqua
 sp_labelcolor_07	Blue
 sp_labelcolor_08	Purple
 sp_labelcolor_09	Pink
+sp_labelcolor_10_v2	
+sp_labelcolor_11_v2	
+sp_labelcolor_12_v2	
+sp_labelcolor_13_v2	
+sp_labelcolor_14_v2	
+sp_labelcolor_15_v2	
+sp_labelcolor_16_v2	
+sp_labelcolor_17_v2	
+sp_labelcolor_18_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_usa.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	Deposit your Pokémon in the Wonder Box and give the
 sp_monbo_trade_top_0001_003	The GTS should be your choice if you want to trade for a specific Pokémon with other users around the world!
 sp_monbo_trade_top_0001_004	I'd suggest creating a Room Trade when you'd like to trade Pokémon with a group of users that you know!
 sp_monbo_trade_top_0001_005	Oh yeah! Friend Trades are handy for when you'd like to trade with Trainers you know who are on your Friend List. You should try them out sometime!
+sp_monbo_battle_data_0001_001	Battle Data is where you can check out all sorts of info about Pokémon battles!
+sp_monbo_battle_data_0001_002	You can check the rankings of Trainers around the world. You can even check your own Battle Records if you've linked your Nintendo Account. Isn't that cool?
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	I agree
 sp_option_terms_6	I don't agree
 sp_option_addsdk_1	Usage of Your Information
 sp_option_terms_00012_v1	Updates to the Terms of Use and Privacy Notice
+sp_option_nalink_0001_v2	
+sp_option_nalink_0002_v2	
+sp_option_nalink_0003_v2	
+sp_option_nalink_0004_v2	
+sp_option_nalink_0005_v2	
+sp_option_nalink_0006_v2	
+sp_option_nalink_0007_v2	
+sp_option_nalink_0008_v2	
+sp_option_nalink_0009_v2	
+sp_option_nalink_0010_v2	
+sp_option_nalink_0011_v2	
+sp_option_nalink_0012_v2	
+sp_option_nalink_0013_v2	
+sp_option_nalink_0014_v2	
+sp_option_nalink_0015_v2	
+sp_option_nalink_0016_v2	
+sp_option_nalink_0017_v2	
+sp_option_nalink_0018_v2	
+sp_option_nalink_0019_v2	
+sp_option_nalink_0020_v2	
+sp_option_nalink_0021_v2	
+sp_option_nalink_0022_v2	
+sp_option_nalink_0023_v2	
+sp_option_nalink_0024_v2	
+sp_option_nalink_0025_v2	
+sp_option_nalink_0026_v2	
+sp_option_nalink_0027_v2	
+sp_option_nalink_0028_v2	
+sp_option_nalink_0029_v2	
+sp_option_nalink_0030_v2	
+sp_option_nalink_0031_v2	
+sp_option_nalink_0032_v2	
+sp_option_nalink_0033_v2	
+sp_option_nalink_0034_v2	
+sp_option_nalink_0035_v2	
+sp_option_nalink_0036_v2	
+sp_option_nalink_0037_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	Take back this Pokémon?
 sp_trade_gts_00009	Include people searching for Legendary and Mythical Pokémon
 sp_trade_gts_00010	Search with these conditions
 sp_trade_gts_00011	Search results
-sp_trade_gts_00012	We couldn't find a trade partner for you.
+sp_trade_gts_00012	The specified Pokémon doesn't exist.
 sp_trade_gts_00013	[VAR_PLAYER]'s info
 sp_trade_gts_00014	Offer as a trade
 sp_trade_gts_00015	You don't have a Pokémon that your partner wants.
 sp_trade_gts_00016	This Pokémon has been traded.
 sp_trade_gts_00017	Game you want to move it to
 sp_trade_gts_00018	Mint applied
-sp_trade_gts_00019_v1	You have specified a special Pokémon as the Pokémon you want.
+sp_trade_gts_00019_v1	You have specified a special Pokémon as the Pokémon you want. Please select a different Pokémon.
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
 sp_trade_gts_01002	I want to trade for a Pokémon that will help me with my adventure.
 sp_trade_gts_01003	I want to trade for a Pokémon that is strong in battles.
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	Cache successfully cleared!
 sp_ui_title_menu_support_id	Support ID
 sp_ui_title_menu_06_v1	Copy Support ID
 sp_ui_title_menu_06_dialog_text_v1	Copied to clipboard:
+sp_ui_title_nalink_v2	
+sp_ui_title_nalink_complete_v2	
+sp_ui_title_nalink_error_v2	
 sp_ui_downlod_0001	Now loading...
 sp_ui_downlod_0002	Master data now downloading...
 sp_ui_downlod_0003	Master data downloading complete!
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	Pokémon name
 sp_ui_keyword_bank	Pokémon name
 sp_ui_keyword_waza	Move name
 sp_ui_keyword_tokusei	Ability name
+sp_ui_keyword_label_v2	
 sp_ui_waza_category	Move category
 sp_ui_filter_all_clear	Clear all
 sp_ui_input_please	Please enter text.
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Pokémon HOME Points
 sp_ui_date	Date
 sp_ui_deposit	Deposit
 sp_ui_withdrawal	Take out
+sp_ui_label_type_v2	
+sp_ui_label_filer_exist_v2	
+sp_ui_label_filter_empty_v2	
+sp_ui_label_filter_all_v2	
+sp_ui_label_filter_box_v2	
+sp_ui_label_sort_index_v2	
+sp_ui_label_pokemon_count_v2	
 sp_ui_library_search	Search Pokédex
 sp_ui_pokemon_search	Search Pokémon
 sp_ui_type_compatibility	Type Matchups
@@ -2711,9 +2770,9 @@ sp_ui_pgl_battle_log	Battle Data
 sp_ui_pgl_rank_match	Ranked Battles
 sp_ui_pgl_internet_tournament	Online Competitions
 sp_ui_pgl_mypage	Your Battle Records
-sp_ui_pgl_regulation	Distribution Regulations
+sp_ui_pgl_regulation	Downloadable Regulations
 sp_ui_pgl_event_calendar	Event Calendar
-sp_ui_pgl_mypage_confirm_v1	
+sp_ui_pgl_mypage_confirm_v1	In order to check your own Battle Records, you'll need to link to a Nintendo Account.  Please go to the Options menu and link the Nintendo Account that you use for Pokémon battles.
 sp_ui_all_pokemon	All Pokémon
 sp_ui_release	Unselect all
 sp_ui_goodby	Release
@@ -2789,7 +2848,7 @@ sp_ui_gift_00001	Local Event Check
 sp_ui_gift_00002	Code
 sp_ui_gift_00005	Code patterns
 sp_ui_gift_00004	Kind
-sp_ui_gift_00006	Availability: [VAR]
+sp_ui_gift_00006	Expiration: [VAR]
 sp_ui_gift_00007	Already claimed
 sp_ui_gift_00008	Compatible game
 sp_ui_gift_00009	The attempt to claim a gift failed.
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	Received
 sp_ui_gift_00011	GPS failed to load.
 sp_ui_gift_00012	Tap to enter a code.
 sp_ui_gift_seal	Stickers
+sp_ui_gift_0013_v1	None
 sp_ui_gift_01001	Gifts you can get in your area:
 sp_ui_gift_01002	Get them from your gift box!
 sp_ui_gift_01003	Gift Box

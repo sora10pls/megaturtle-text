@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	透過神秘禮物接收５次禮物。
 sp_achstep_oth_000201	收集１０種貼紙。
 sp_achstep_oth_000202	收集５０種貼紙。
 sp_achstep_oth_000203	收集１００種貼紙。
-sp_achstep_oth_000301	使用Pokémon HOME１０天。
-sp_achstep_oth_000302	使用Pokémon HOME３０天。
-sp_achstep_oth_000303	使用Pokémon HOME６０天。
+sp_achstep_oth_000301	自開始使用Pokémon HOME 已經過１０天。
+sp_achstep_oth_000302	自開始使用Pokémon HOME 已經過３０天。
+sp_achstep_oth_000303	自開始使用Pokémon HOME 已經過６０天。
 sp_achstep_oth_000401	製作１次標籤。
 sp_achstep_oth_000402	製作３次標籤。
 sp_achstep_oth_000403	製作１０次標籤。
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	淺藍色
 sp_labelcolor_07	藍色
 sp_labelcolor_08	紫色
 sp_labelcolor_09	粉紅色
+sp_labelcolor_10_v2	
+sp_labelcolor_11_v2	
+sp_labelcolor_12_v2	
+sp_labelcolor_13_v2	
+sp_labelcolor_14_v2	
+sp_labelcolor_15_v2	
+sp_labelcolor_16_v2	
+sp_labelcolor_17_v2	
+sp_labelcolor_18_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_tch.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	透過奇蹟盒子交換時， 只需要選擇要送
 sp_monbo_trade_top_0001_003	如果想和世界各地的用戶 交換彼此想要的寶可夢， 選擇GTS就沒錯！
 sp_monbo_trade_top_0001_004	和認識的用戶一起建立群組， 在群組內交換的「群組交換」， 也是推薦的方法喔萌！
 sp_monbo_trade_top_0001_005	對了！如果你和好友們是 『Pokémon HOME』中的朋友， 那朋友交換會非常方便， 一定要試試看喔萌！
+sp_monbo_battle_data_0001_001	在對戰資料中可以查看各種 有關寶可夢對戰的資訊喔萌！
+sp_monbo_battle_data_0001_002	比如說可以看到世界各地訓練家的排行榜。 如果有和Nintendo Account連結， 還能確認到目前為止自己的成績喔萌！ 
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_tch.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	同意
 sp_option_terms_6	不同意
 sp_option_addsdk_1	關於用戶資訊的使用
 sp_option_terms_00012_v1	使用條款與隱私權政策的更新
+sp_option_nalink_0001_v2	
+sp_option_nalink_0002_v2	
+sp_option_nalink_0003_v2	
+sp_option_nalink_0004_v2	
+sp_option_nalink_0005_v2	
+sp_option_nalink_0006_v2	
+sp_option_nalink_0007_v2	
+sp_option_nalink_0008_v2	
+sp_option_nalink_0009_v2	
+sp_option_nalink_0010_v2	
+sp_option_nalink_0011_v2	
+sp_option_nalink_0012_v2	
+sp_option_nalink_0013_v2	
+sp_option_nalink_0014_v2	
+sp_option_nalink_0015_v2	
+sp_option_nalink_0016_v2	
+sp_option_nalink_0017_v2	
+sp_option_nalink_0018_v2	
+sp_option_nalink_0019_v2	
+sp_option_nalink_0020_v2	
+sp_option_nalink_0021_v2	
+sp_option_nalink_0022_v2	
+sp_option_nalink_0023_v2	
+sp_option_nalink_0024_v2	
+sp_option_nalink_0025_v2	
+sp_option_nalink_0026_v2	
+sp_option_nalink_0027_v2	
+sp_option_nalink_0028_v2	
+sp_option_nalink_0029_v2	
+sp_option_nalink_0030_v2	
+sp_option_nalink_0031_v2	
+sp_option_nalink_0032_v2	
+sp_option_nalink_0033_v2	
+sp_option_nalink_0034_v2	
+sp_option_nalink_0035_v2	
+sp_option_nalink_0036_v2	
+sp_option_nalink_0037_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	要領回嗎？
 sp_trade_gts_00009	包含正在尋找傳說 或幻之寶可夢的人
 sp_trade_gts_00010	以此條件搜尋
 sp_trade_gts_00011	搜尋結果
-sp_trade_gts_00012	找不到交換對象
+sp_trade_gts_00012	你所指定的寶可夢不存在。
 sp_trade_gts_00013	[VAR_PLAYER]的資訊
 sp_trade_gts_00014	拿出去交換
 sp_trade_gts_00015	你沒有對方想要的寶可夢。
 sp_trade_gts_00016	這隻寶可夢已被交換。
 sp_trade_gts_00017	想移動過去的作品
 sp_trade_gts_00018	薄荷變更後
-sp_trade_gts_00019_v1	你正將特殊的寶可夢 指定為想要的寶可夢。
+sp_trade_gts_00019_v1	想要的寶可夢目前指定的是 特殊的寶可夢。請重新選擇。
 sp_trade_gts_01001	請進行交換。 拜託你了。
 sp_trade_gts_01002	我想要交換有助於 冒險的寶可夢。
 sp_trade_gts_01003	我想要交換善於 對戰的寶可夢。
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	已清除快取。
 sp_ui_title_menu_support_id	服務ID
 sp_ui_title_menu_06_v1	複製服務ID
 sp_ui_title_menu_06_dialog_text_v1	已複製到剪貼簿
+sp_ui_title_nalink_v2	
+sp_ui_title_nalink_complete_v2	
+sp_ui_title_nalink_error_v2	
 sp_ui_downlod_0001	正在啟動……
 sp_ui_downlod_0002	正在下載主要資料……
 sp_ui_downlod_0003	主要資料下載完成。
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	寶可夢名
 sp_ui_keyword_bank	寶可夢名
 sp_ui_keyword_waza	招式名
 sp_ui_keyword_tokusei	特性名
+sp_ui_keyword_label_v2	
 sp_ui_waza_category	分類
 sp_ui_filter_all_clear	全部解除
 sp_ui_input_please	請輸入……
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Pokémon HOME點數
 sp_ui_date	日期
 sp_ui_deposit	寄放
 sp_ui_withdrawal	領取
+sp_ui_label_type_v2	
+sp_ui_label_filer_exist_v2	
+sp_ui_label_filter_empty_v2	
+sp_ui_label_filter_all_v2	
+sp_ui_label_filter_box_v2	
+sp_ui_label_sort_index_v2	
+sp_ui_label_pokemon_count_v2	
 sp_ui_library_search	圖鑑搜尋
 sp_ui_pokemon_search	寶可夢搜尋
 sp_ui_type_compatibility	屬性相剋關係
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	網路大賽
 sp_ui_pgl_mypage	我的成績
 sp_ui_pgl_regulation	官方對戰規則
 sp_ui_pgl_event_calendar	活動行事曆
-sp_ui_pgl_mypage_confirm_v1	
+sp_ui_pgl_mypage_confirm_v1	若要確認「我的成績」， 需與Nintendo Account連結。  請從「設定」中進行操作， 與用來遊玩寶可夢對戰的 Nintendo Account連結。
 sp_ui_all_pokemon	所有寶可夢
 sp_ui_release	解除
 sp_ui_goodby	放生
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	已接收。
 sp_ui_gift_00011	無法啟動GPS。
 sp_ui_gift_00012	輕點以輸入序號。
 sp_ui_gift_seal	貼紙
+sp_ui_gift_0013_v1	
 sp_ui_gift_01001	可在此區域接收的禮物
 sp_ui_gift_01002	到禮物盒接收吧！
 sp_ui_gift_01003	禮物盒

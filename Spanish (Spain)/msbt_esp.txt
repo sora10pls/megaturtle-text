@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	Recibe 5 regalos misteriosos.
 sp_achstep_oth_000201	Consigue 10 pegatinas.
 sp_achstep_oth_000202	Consigue 50 pegatinas.
 sp_achstep_oth_000203	Consigue 100 pegatinas.
-sp_achstep_oth_000301	Usa Pokémon HOME durante 10 días.
-sp_achstep_oth_000302	Usa Pokémon HOME durante 30 días.
-sp_achstep_oth_000303	Usa Pokémon HOME durante 60 días.
+sp_achstep_oth_000301	Sigue disfrutando de Pokémon HOME 10 días después del primer uso.
+sp_achstep_oth_000302	Sigue disfrutando de Pokémon HOME 30 días después del primer uso.
+sp_achstep_oth_000303	Sigue disfrutando de Pokémon HOME 60 días después del primer uso.
 sp_achstep_oth_000401	Crea 1 etiqueta.
 sp_achstep_oth_000402	Crea 3 etiquetas.
 sp_achstep_oth_000403	Crea 10 etiquetas.
@@ -1708,7 +1708,7 @@ sp_ach_oth_s_0043	¡Acumula 100 puntos Pokémon HOME!
 sp_ach_oth_s_0044	¡Utiliza el reconocimiento de voz!
 sp_ach_oth_0001	¡Recibe regalos misteriosos!
 sp_ach_oth_0002	¡Consigue pegatinas!
-sp_ach_oth_0003	¡Usa Pokémon HOME!
+sp_ach_oth_0003	¡Disfruta de Pokémon HOME!
 sp_ach_oth_0004	¡Crea etiquetas!
 sp_ach_oth_0005	¡Consulta los avisos!
 sp_ach_box_s_0001	¡Trae a Treecko, Torchic y Mudkip desde Hoenn!
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	Celeste
 sp_labelcolor_07	Azul
 sp_labelcolor_08	Morado
 sp_labelcolor_09	Rosa
+sp_labelcolor_10_v2	
+sp_labelcolor_11_v2	
+sp_labelcolor_12_v2	
+sp_labelcolor_13_v2	
+sp_labelcolor_14_v2	
+sp_labelcolor_15_v2	
+sp_labelcolor_16_v2	
+sp_labelcolor_17_v2	
+sp_labelcolor_18_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_esp.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	Si con elegir el Pokémon que quieres ofrecer ya te 
 sp_monbo_trade_top_0001_003	En cambio, si tienes claro qué Pokémon buscas y quieres realizar intercambios con gente de todo el mundo, ¡nada mejor que el GTS!
 sp_monbo_trade_top_0001_004	¡No te olvides tampoco de probar los intercambios en grupo! El nombre lo dice todo: crea un grupo con usuarios que conozcas y hala... ¡a intercambiaros vuestros Pokémon!
 sp_monbo_trade_top_0001_005	Por supuesto, ¡también puedes intercambiar con los amigos que hayas añadido a Pokémon HOME! Es muy fácil, ¡ya verás!
+sp_monbo_battle_data_0001_001	¡En esta pantalla puedes consultar un montón de información sobre los combates!
+sp_monbo_battle_data_0001_002	Puedes ver la clasificación mundial de Entrenadores y, si has vinculado una cuenta Nintendo, también podrás consultar tus resultados hasta ahora.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_esp.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	Sí
 sp_option_terms_6	No
 sp_option_addsdk_1	Uso de datos
 sp_option_terms_00012_v1	Actualización de las condiciones de uso y de la política de privacidad
+sp_option_nalink_0001_v2	
+sp_option_nalink_0002_v2	
+sp_option_nalink_0003_v2	
+sp_option_nalink_0004_v2	
+sp_option_nalink_0005_v2	
+sp_option_nalink_0006_v2	
+sp_option_nalink_0007_v2	
+sp_option_nalink_0008_v2	
+sp_option_nalink_0009_v2	
+sp_option_nalink_0010_v2	
+sp_option_nalink_0011_v2	
+sp_option_nalink_0012_v2	
+sp_option_nalink_0013_v2	
+sp_option_nalink_0014_v2	
+sp_option_nalink_0015_v2	
+sp_option_nalink_0016_v2	
+sp_option_nalink_0017_v2	
+sp_option_nalink_0018_v2	
+sp_option_nalink_0019_v2	
+sp_option_nalink_0020_v2	
+sp_option_nalink_0021_v2	
+sp_option_nalink_0022_v2	
+sp_option_nalink_0023_v2	
+sp_option_nalink_0024_v2	
+sp_option_nalink_0025_v2	
+sp_option_nalink_0026_v2	
+sp_option_nalink_0027_v2	
+sp_option_nalink_0028_v2	
+sp_option_nalink_0029_v2	
+sp_option_nalink_0030_v2	
+sp_option_nalink_0031_v2	
+sp_option_nalink_0032_v2	
+sp_option_nalink_0033_v2	
+sp_option_nalink_0034_v2	
+sp_option_nalink_0035_v2	
+sp_option_nalink_0036_v2	
+sp_option_nalink_0037_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	¿Quieres retirarlo?
 sp_trade_gts_00009	Incluir Pokémon legendarios y Pokémon singulares
 sp_trade_gts_00010	Buscar con estos criterios
 sp_trade_gts_00011	Resultados de la búsqueda
-sp_trade_gts_00012	No se han encontrado usuarios.
+sp_trade_gts_00012	No hay ningún Pokémon que corresponda a esos criterios.
 sp_trade_gts_00013	Datos de [VAR_PLAYER]
 sp_trade_gts_00014	Ofrecer para intercambio
 sp_trade_gts_00015	No tienes ningún Pokémon que quiera el otro usuario.
 sp_trade_gts_00016	Ya has intercambiado a este Pokémon.
 sp_trade_gts_00017	Juego al que lo quieres transferir
 sp_trade_gts_00018	Tras usar una menta
-sp_trade_gts_00019_v1	Has elegido un Pokémon especial como Pokémon deseado.
+sp_trade_gts_00019_v1	Has elegido un Pokémon especial como Pokémon deseado. Elige otro Pokémon.
 sp_trade_gts_01001	¿Quieres intercambiar Pokémon conmigo?
 sp_trade_gts_01002	Busco un Pokémon que pueda ayudarme en mi aventura.
 sp_trade_gts_01003	Busco un Pokémon que me ayude a ganar combates.
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	Se ha borrado la caché.
 sp_ui_title_menu_support_id	ID de usuario
 sp_ui_title_menu_06_v1	Copiar ID de usuario
 sp_ui_title_menu_06_dialog_text_v1	El ID se ha copiado en el portapapeles.
+sp_ui_title_nalink_v2	
+sp_ui_title_nalink_complete_v2	
+sp_ui_title_nalink_error_v2	
 sp_ui_downlod_0001	Iniciando...
 sp_ui_downlod_0002	Descargando datos maestros...
 sp_ui_downlod_0003	Se han descargado los datos maestros.
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	Nombre
 sp_ui_keyword_bank	Nombre
 sp_ui_keyword_waza	Movimiento
 sp_ui_keyword_tokusei	Habilidad
+sp_ui_keyword_label_v2	
 sp_ui_waza_category	Clase
 sp_ui_filter_all_clear	Eliminar todo
 sp_ui_input_please	Introduce texto aquí.
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Puntos Pokémon HOME
 sp_ui_date	Fecha
 sp_ui_deposit	Depósitos
 sp_ui_withdrawal	Retiradas
+sp_ui_label_type_v2	
+sp_ui_label_filer_exist_v2	
+sp_ui_label_filter_empty_v2	
+sp_ui_label_filter_all_v2	
+sp_ui_label_filter_box_v2	
+sp_ui_label_sort_index_v2	
+sp_ui_label_pokemon_count_v2	
 sp_ui_library_search	Buscar en la Pokédex
 sp_ui_pokemon_search	Buscar Pokémon
 sp_ui_type_compatibility	Compatibilidad entre tipos
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	Torneos en Línea
 sp_ui_pgl_mypage	Mis resultados
 sp_ui_pgl_regulation	Descarga de reglamentos
 sp_ui_pgl_event_calendar	Calendario de eventos
-sp_ui_pgl_mypage_confirm_v1	
+sp_ui_pgl_mypage_confirm_v1	Para poder consultar tus resultados, necesitas vincular una cuenta Nintendo.  Vincula la cuenta Nintendo que utilizas para los combates Pokémon en el menú Opciones.
 sp_ui_all_pokemon	Todos los Pokémon
 sp_ui_release	Desmarcar
 sp_ui_goodby	Liberar
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	Regalo recibido
 sp_ui_gift_00011	No se ha podido iniciar el GPS.
 sp_ui_gift_00012	Toca para introducir un código.
 sp_ui_gift_seal	Pegatinas
+sp_ui_gift_0013_v1	
 sp_ui_gift_01001	Regalos disponibles en esta zona
 sp_ui_gift_01002	¡Recíbelos en tu caja de regalos!
 sp_ui_gift_01003	Caja de regalos

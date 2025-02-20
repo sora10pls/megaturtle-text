@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	이상한 소포에서 선물을 5회 받는다
 sp_achstep_oth_000201	씰을 10종류 모은다
 sp_achstep_oth_000202	씰을 50종류 모은다
 sp_achstep_oth_000203	씰을 100종류 모은다
-sp_achstep_oth_000301	Pokémon HOME을 10일 이용한다
-sp_achstep_oth_000302	Pokémon HOME을 30일 이용한다
-sp_achstep_oth_000303	Pokémon HOME을 60일 이용한다
+sp_achstep_oth_000301	Pokémon HOME 이용 시작으로부터 10일이 지났다
+sp_achstep_oth_000302	Pokémon HOME 이용 시작으로부터 30일이 지났다
+sp_achstep_oth_000303	Pokémon HOME 이용 시작으로부터 60일이 지났다
 sp_achstep_oth_000401	라벨을 1회 작성한다
 sp_achstep_oth_000402	라벨을 3회 작성한다
 sp_achstep_oth_000403	라벨을 10회 작성한다
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	옥색
 sp_labelcolor_07	파랑
 sp_labelcolor_08	보라
 sp_labelcolor_09	담홍
+sp_labelcolor_10_v2	
+sp_labelcolor_11_v2	
+sp_labelcolor_12_v2	
+sp_labelcolor_13_v2	
+sp_labelcolor_14_v2	
+sp_labelcolor_15_v2	
+sp_labelcolor_16_v2	
+sp_labelcolor_17_v2	
+sp_labelcolor_18_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_kor.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	교환에 내보낼 포켓몬을 선택하기만 해
 sp_monbo_trade_top_0001_003	전 세계 유저와 서로 원하는 포켓몬을 교환하고 싶을 때는 GTS!
 sp_monbo_trade_top_0001_004	서로 아는 유저끼리 그룹을 만들어서 그룹 안에서 교환할 수 있는 그룹 교환도 추천한다몬!
 sp_monbo_trade_top_0001_005	그렇지! 친구와 "Pokémon HOME"에서 교환할 때는 친구 교환이 편리하니까 꼭 한 번 사용해봐라몬!
+sp_monbo_battle_data_0001_001	배틀 데이터에서는 포켓몬 배틀에 관한 다양한 정보를 볼 수 있다몬!
+sp_monbo_battle_data_0001_002	전 세계 트레이너의 랭킹을 볼 수도 있고 닌텐도 어카운트를 연동하면 자신의 지금까지의 전적도 확인할 수 있다몬!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt
@@ -2152,7 +2163,7 @@ sp_option_continue_00007	닌텐도 어카운트와 연동하지 않으면?
 sp_option_continue_00008	등록/연동
 sp_option_continue_00009	연동하지 않는다
 sp_option_continue_00010	닌텐도 어카운트란?
-sp_option_continue_00011	※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오 <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>  또한, 닌텐도 어카운트와 연동하지 않는 경우 아래 기능을 이용할 수 없습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경 시 데이터 이어받기 ・닌텐도 네트워크 ID를 이용한 "포켓몬 뱅크"의 포켓몬 일괄 이사
+sp_option_continue_00011	※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오 <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>  또한, 닌텐도 어카운트와 연동하지 않는 경우 아래 기능을 이용할 수 없습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경 등을 포함한 데이터 이어받기 ・닌텐도 네트워크 ID를 이용한 "포켓몬 뱅크"의 포켓몬 일괄 이사
 sp_option_continue_00012	닌텐도 어카운트 연동은  [설정] ↓ [어카운트] ↓ [닌텐도 어카운트 연동]  에서 언제든지 진행할 수 있습니다
 sp_option_continue_00013	연동하지 못했습니다 이전 화면으로 돌아갑니다
 sp_option_continue_00014	닌텐도 어카운트와 연동하면 Nintendo Switch 버전 Pokémon HOME이나 "포켓몬 뱅크"와 연동할 수 있습니다  ※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 <b>연동한다</b>를 선택하고 연동해 주십시오  <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>
@@ -2206,7 +2217,7 @@ sp_option_account_00014	이미 다른 Pokémon HOME과 연동 중인 어카운�
 sp_option_account_00015	중단된 어카운트 연동을 계속합니다
 sp_option_account_00016	닌텐도 어카운트와 연동하면 할 수 있는 것
 sp_option_account_00017	연동하면 할 수 있는 것의 주의사항
-sp_option_account_00018	Pokémon HOME에서 아래 기능을 이용할 수 있습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경 시 데이터 이어받기 ・닌텐도 네트워크 ID를 이용한 "포켓몬 뱅크"의 포켓몬 일괄 이사  ※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오  <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>  닌텐도 어카운트와 연동하겠습니까?
+sp_option_account_00018	Pokémon HOME에서 아래 기능을 이용할 수 있습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경 등을 포함한 데이터 이어받기 ・닌텐도 네트워크 ID를 이용한 "포켓몬 뱅크"의 포켓몬 일괄 이사  ※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오  <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>  닌텐도 어카운트와 연동하겠습니까?
 sp_option_account_00019	닌텐도 어카운트와 연동 시작
 sp_option_account_00020	어카운트
 sp_option_account_00021	지난 이사
@@ -2229,6 +2240,43 @@ sp_option_terms_5	동의한다
 sp_option_terms_6	동의하지 않는다
 sp_option_addsdk_1	정보 이용에 대해서
 sp_option_terms_00012_v1	이용 약관과 개인정보 처리방침 갱신
+sp_option_nalink_0001_v2	
+sp_option_nalink_0002_v2	
+sp_option_nalink_0003_v2	
+sp_option_nalink_0004_v2	
+sp_option_nalink_0005_v2	
+sp_option_nalink_0006_v2	
+sp_option_nalink_0007_v2	
+sp_option_nalink_0008_v2	
+sp_option_nalink_0009_v2	
+sp_option_nalink_0010_v2	
+sp_option_nalink_0011_v2	
+sp_option_nalink_0012_v2	
+sp_option_nalink_0013_v2	
+sp_option_nalink_0014_v2	
+sp_option_nalink_0015_v2	
+sp_option_nalink_0016_v2	
+sp_option_nalink_0017_v2	
+sp_option_nalink_0018_v2	
+sp_option_nalink_0019_v2	
+sp_option_nalink_0020_v2	
+sp_option_nalink_0021_v2	
+sp_option_nalink_0022_v2	
+sp_option_nalink_0023_v2	
+sp_option_nalink_0024_v2	
+sp_option_nalink_0025_v2	
+sp_option_nalink_0026_v2	
+sp_option_nalink_0027_v2	
+sp_option_nalink_0028_v2	
+sp_option_nalink_0029_v2	
+sp_option_nalink_0030_v2	
+sp_option_nalink_0031_v2	
+sp_option_nalink_0032_v2	
+sp_option_nalink_0033_v2	
+sp_option_nalink_0034_v2	
+sp_option_nalink_0035_v2	
+sp_option_nalink_0036_v2	
+sp_option_nalink_0037_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	찾겠습니까?
 sp_trade_gts_00009	전설 또는 환상의 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_00010	이 조건으로 찾는다
 sp_trade_gts_00011	검색 결과
-sp_trade_gts_00012	상대를 찾지 못했습니다
+sp_trade_gts_00012	지정한 포켓몬은 존재하지 않습니다
 sp_trade_gts_00013	[VAR_PLAYER]님의 정보
 sp_trade_gts_00014	교환에 내보낸다
 sp_trade_gts_00015	상대가 원하는 포켓몬을 가지고 있지 않습니다
 sp_trade_gts_00016	이미 교환된 포켓몬입니다
 sp_trade_gts_00017	데려가고 싶은 소프트웨어
 sp_trade_gts_00018	민트 변경 후
-sp_trade_gts_00019_v1	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다
+sp_trade_gts_00019_v1	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다 다시 선택해 주십시오
 sp_trade_gts_01001	교환해 주세요! 잘 부탁합니다
 sp_trade_gts_01002	모험을 도와주는 포켓몬과 교환하고 싶습니다
 sp_trade_gts_01003	대전에 강한 포켓몬과 교환하고 싶습니다
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	캐시 삭제를 완료했습니다
 sp_ui_title_menu_support_id	서포트 ID
 sp_ui_title_menu_06_v1	서포트 ID를 복사
 sp_ui_title_menu_06_dialog_text_v1	클립보드에 복사되었습니다
+sp_ui_title_nalink_v2	
+sp_ui_title_nalink_complete_v2	
+sp_ui_title_nalink_error_v2	
 sp_ui_downlod_0001	기동 중입니다
 sp_ui_downlod_0002	마스터 데이터 다운로드 중
 sp_ui_downlod_0003	마스터 데이터 다운로드 완료
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	포켓몬 이름
 sp_ui_keyword_bank	포켓몬 이름
 sp_ui_keyword_waza	기술 이름
 sp_ui_keyword_tokusei	특성 이름
+sp_ui_keyword_label_v2	
 sp_ui_waza_category	분류
 sp_ui_filter_all_clear	모두 해제
 sp_ui_input_please	입력해 주십시오...
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Pokémon HOME 포인트
 sp_ui_date	날짜
 sp_ui_deposit	맡긴다
 sp_ui_withdrawal	찾는다
+sp_ui_label_type_v2	
+sp_ui_label_filer_exist_v2	
+sp_ui_label_filter_empty_v2	
+sp_ui_label_filter_all_v2	
+sp_ui_label_filter_box_v2	
+sp_ui_label_sort_index_v2	
+sp_ui_label_pokemon_count_v2	
 sp_ui_library_search	도감 검색
 sp_ui_pokemon_search	포켓몬 검색
 sp_ui_type_compatibility	타입 상성
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	인터넷 대회
 sp_ui_pgl_mypage	나의 전적
 sp_ui_pgl_regulation	배포 레귤레이션
 sp_ui_pgl_event_calendar	이벤트 캘린더
-sp_ui_pgl_mypage_confirm_v1	
+sp_ui_pgl_mypage_confirm_v1	나의 전적을 확인하려면 닌텐도 어카운트와 연동해야 합니다  "설정"에서 포켓몬 배틀을 플레이 중인 닌텐도 어카운트와 연동해 주십시오
 sp_ui_all_pokemon	모든 포켓몬
 sp_ui_release	해제
 sp_ui_goodby	놓아준다
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	받았습니다
 sp_ui_gift_00011	GPS를 켜지 못했습니다
 sp_ui_gift_00012	탭해서 시리얼 코드를 입력
 sp_ui_gift_seal	씰
+sp_ui_gift_0013_v1	
 sp_ui_gift_01001	이 에리어에서 받을 수 있는 것
 sp_ui_gift_01002	선물 박스에서 받아주세요!
 sp_ui_gift_01003	선물 박스

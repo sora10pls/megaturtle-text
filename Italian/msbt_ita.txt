@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	Ricevi 5 Doni Segreti!
 sp_achstep_oth_000201	Raccogli 10 adesivi!
 sp_achstep_oth_000202	Raccogli 50 adesivi!
 sp_achstep_oth_000203	Raccogli 100 adesivi!
-sp_achstep_oth_000301	Usa Pokémon HOME per 10 giorni!
-sp_achstep_oth_000302	Usa Pokémon HOME per 30 giorni!
-sp_achstep_oth_000303	Usa Pokémon HOME per 60 giorni!
+sp_achstep_oth_000301	Sono passati 10 giorni dalla prima volta che hai usato Pokémon HOME!
+sp_achstep_oth_000302	Sono passati 30 giorni dalla prima volta che hai usato Pokémon HOME!
+sp_achstep_oth_000303	Sono passati 60 giorni dalla prima volta che hai usato Pokémon HOME!
 sp_achstep_oth_000401	Crea 1 etichetta!
 sp_achstep_oth_000402	Crea 3 etichette!
 sp_achstep_oth_000403	Crea 10 etichette!
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	Azzurro
 sp_labelcolor_07	Blu
 sp_labelcolor_08	Viola
 sp_labelcolor_09	Rosa
+sp_labelcolor_10_v2	
+sp_labelcolor_11_v2	
+sp_labelcolor_12_v2	
+sp_labelcolor_13_v2	
+sp_labelcolor_14_v2	
+sp_labelcolor_15_v2	
+sp_labelcolor_16_v2	
+sp_labelcolor_17_v2	
+sp_labelcolor_18_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_ita.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	Se vuoi scambiare dei Pokémon ma non hai richieste 
 sp_monbo_trade_top_0001_003	Se invece vuoi fare uno scambio con giocatori di tutto il mondo e sei alla ricerca di un determinato Pokémon, la scelta ideale è il Global Trade System (GTS)!
 sp_monbo_trade_top_0001_004	Se invece hai un gruppo di amici e volete scambiare Pokémon tra di voi, vi consiglio vivamente di provare lo scambio di gruppo!
 sp_monbo_trade_top_0001_005	E per finire, se hai registrato altri giocatori nella lista degli amici di Pokémon HOME e vuoi fare uno scambio con loro, la cosa più facile è un cosiddetto scambio con amici!
+sp_monbo_battle_data_0001_001	In questa schermata trovi un sacco di informazioni riguardanti le lotte di Pokémon!
+sp_monbo_battle_data_0001_002	Potrai dare un'occhiata alla classifica degli Allenatori di tutto il mondo, e se hai collegato un account Nintendo potrai anche vedere i tuoi risultati!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	Accetto
 sp_option_terms_6	Non accetto
 sp_option_addsdk_1	Uso dei dati personali
 sp_option_terms_00012_v1	Aggiornamento dei termini di utilizzo e dell'informativa sulla privacy
+sp_option_nalink_0001_v2	
+sp_option_nalink_0002_v2	
+sp_option_nalink_0003_v2	
+sp_option_nalink_0004_v2	
+sp_option_nalink_0005_v2	
+sp_option_nalink_0006_v2	
+sp_option_nalink_0007_v2	
+sp_option_nalink_0008_v2	
+sp_option_nalink_0009_v2	
+sp_option_nalink_0010_v2	
+sp_option_nalink_0011_v2	
+sp_option_nalink_0012_v2	
+sp_option_nalink_0013_v2	
+sp_option_nalink_0014_v2	
+sp_option_nalink_0015_v2	
+sp_option_nalink_0016_v2	
+sp_option_nalink_0017_v2	
+sp_option_nalink_0018_v2	
+sp_option_nalink_0019_v2	
+sp_option_nalink_0020_v2	
+sp_option_nalink_0021_v2	
+sp_option_nalink_0022_v2	
+sp_option_nalink_0023_v2	
+sp_option_nalink_0024_v2	
+sp_option_nalink_0025_v2	
+sp_option_nalink_0026_v2	
+sp_option_nalink_0027_v2	
+sp_option_nalink_0028_v2	
+sp_option_nalink_0029_v2	
+sp_option_nalink_0030_v2	
+sp_option_nalink_0031_v2	
+sp_option_nalink_0032_v2	
+sp_option_nalink_0033_v2	
+sp_option_nalink_0034_v2	
+sp_option_nalink_0035_v2	
+sp_option_nalink_0036_v2	
+sp_option_nalink_0037_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	Vuoi ritirare il Pokémon?
 sp_trade_gts_00009	Includi gli utenti che cercano Pokémon leggendari e misteriosi
 sp_trade_gts_00010	Cerca con questi criteri
 sp_trade_gts_00011	Risultati della ricerca
-sp_trade_gts_00012	Non sono stati trovati utenti disponibili.
+sp_trade_gts_00012	Non ci sono Pokémon corrispondenti a quello richiesto.
 sp_trade_gts_00013	Info su [VAR_PLAYER]
 sp_trade_gts_00014	Offri
 sp_trade_gts_00015	Non hai Pokémon che interessano all'altro utente.
 sp_trade_gts_00016	Questo Pokémon è stato scambiato.
 sp_trade_gts_00017	Gioco di destinazione
 sp_trade_gts_00018	Con la menta
-sp_trade_gts_00019_v1	Il Pokémon richiesto è un Pokémon speciale.
+sp_trade_gts_00019_v1	Il Pokémon richiesto è un Pokémon speciale. Scegli un altro Pokémon.
 sp_trade_gts_01001	Ciao! Vuoi fare uno scambio?
 sp_trade_gts_01002	Cerco un Pokémon che mi aiuti ad avanzare nella mia avventura!
 sp_trade_gts_01003	Cerco un Pokémon fortissimo nelle lotte!
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	La cache è stata svuotata.
 sp_ui_title_menu_support_id	ID cliente
 sp_ui_title_menu_06_v1	Copia ID cliente
 sp_ui_title_menu_06_dialog_text_v1	L'ID cliente è stato copiato.
+sp_ui_title_nalink_v2	
+sp_ui_title_nalink_complete_v2	
+sp_ui_title_nalink_error_v2	
 sp_ui_downlod_0001	Inizializzazione in corso...
 sp_ui_downlod_0002	Download dei dati permanenti in corso...
 sp_ui_downlod_0003	I dati permanenti sono stati scaricati.
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	Nome del Pokémon
 sp_ui_keyword_bank	Nome del Pokémon
 sp_ui_keyword_waza	Mossa
 sp_ui_keyword_tokusei	Abilità
+sp_ui_keyword_label_v2	
 sp_ui_waza_category	Categoria
 sp_ui_filter_all_clear	Rimuovi tutto
 sp_ui_input_please	Inserisci del testo.
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Punti Pokémon HOME
 sp_ui_date	Data
 sp_ui_deposit	Deposita
 sp_ui_withdrawal	Ritira
+sp_ui_label_type_v2	
+sp_ui_label_filer_exist_v2	
+sp_ui_label_filter_empty_v2	
+sp_ui_label_filter_all_v2	
+sp_ui_label_filter_box_v2	
+sp_ui_label_sort_index_v2	
+sp_ui_label_pokemon_count_v2	
 sp_ui_library_search	Cerca nel Pokédex
 sp_ui_pokemon_search	Cerca Pokémon
 sp_ui_type_compatibility	Rapporto tra i tipi
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	Gare Online
 sp_ui_pgl_mypage	Tuoi risultati
 sp_ui_pgl_regulation	Regole scaricabili
 sp_ui_pgl_event_calendar	Calendario eventi
-sp_ui_pgl_mypage_confirm_v1	
+sp_ui_pgl_mypage_confirm_v1	Per vedere i tuoi risultati delle lotte di Pokémon devi collegare il tuo account Nintendo.  Puoi collegare l'account Nintendo che usi per le lotte dalle "Opzioni".
 sp_ui_all_pokemon	Tutti i Pokémon
 sp_ui_release	Deseleziona
 sp_ui_goodby	Libera
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	Ricevuto
 sp_ui_gift_00011	Attivazione del GPS non riuscita.
 sp_ui_gift_00012	Tocca qui per inserire il codice seriale.
 sp_ui_gift_seal	Adesivi
+sp_ui_gift_0013_v1	
 sp_ui_gift_01001	Doni che puoi ricevere in questa zona
 sp_ui_gift_01002	Controlla il tuo Box regali!
 sp_ui_gift_01003	Box regali

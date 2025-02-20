@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	Recevoir 5 Cadeaux Mystère
 sp_achstep_oth_000201	Collectionner 10 autocollants
 sp_achstep_oth_000202	Collectionner 50 autocollants
 sp_achstep_oth_000203	Collectionner 100 autocollants
-sp_achstep_oth_000301	Utiliser Pokémon HOME 10 jours
-sp_achstep_oth_000302	Utiliser Pokémon HOME 30 jours
-sp_achstep_oth_000303	Utiliser Pokémon HOME 60 jours
+sp_achstep_oth_000301	Lancer l'application 10 jours après la première utilisation de Pokémon HOME
+sp_achstep_oth_000302	Lancer l'application 30 jours après la première utilisation de Pokémon HOME
+sp_achstep_oth_000303	Lancer l'application 60 jours après la première utilisation de Pokémon HOME
 sp_achstep_oth_000401	Créer une étiquette
 sp_achstep_oth_000402	Créer 3 étiquettes
 sp_achstep_oth_000403	Créer 10 étiquettes
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	Bleu clair
 sp_labelcolor_07	Bleu
 sp_labelcolor_08	Violet
 sp_labelcolor_09	Rose
+sp_labelcolor_10_v2	
+sp_labelcolor_11_v2	
+sp_labelcolor_12_v2	
+sp_labelcolor_13_v2	
+sp_labelcolor_14_v2	
+sp_labelcolor_15_v2	
+sp_labelcolor_16_v2	
+sp_labelcolor_17_v2	
+sp_labelcolor_18_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_fra.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	Par exemple, vous n'avez qu'à déposer un Pokémon 
 sp_monbo_trade_top_0001_003	Par contre, si vous voulez un Pokémon en particulier, le mieux, ça reste le GTS ! Ça veut dire... euh... « Global Trade System » ! Et on peut y faire des échanges avec des Dresseurs du monde entier !
 sp_monbo_trade_top_0001_004	Et aussi, vous pouvez créer un groupe avec des Dresseurs que vous connaissez, et faire des échanges ensemble ! Ça s'appelle les « échanges en groupe », et c'est ma méthode préférée !
 sp_monbo_trade_top_0001_005	Oh, j'allais oublier ! Si vous êtes amis sur Pokémon HOME avec quelqu'un, vous pouvez faire des échanges entre amis, tous les deux. L'amitié, c'est quand même le plus important !
+sp_monbo_battle_data_0001_001	Comme son nom l'indique, l'écran Infos combats regroupe tout un tas d'infos utiles sur les combats Pokémon !
+sp_monbo_battle_data_0001_002	Par exemple, vous pouvez y consulter le classement mondial des Dresseurs ! Et si vous avez associé votre compte Nintendo à Pokémon HOME, vous pourrez même y voir votre propre historique de combats. Pratique !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	J'accepte
 sp_option_terms_6	Je refuse
 sp_option_addsdk_1	Utilisation de vos informations
 sp_option_terms_00012_v1	Mise à jour des conditions d'utilisation et de l'avis sur la confidentialité
+sp_option_nalink_0001_v2	
+sp_option_nalink_0002_v2	
+sp_option_nalink_0003_v2	
+sp_option_nalink_0004_v2	
+sp_option_nalink_0005_v2	
+sp_option_nalink_0006_v2	
+sp_option_nalink_0007_v2	
+sp_option_nalink_0008_v2	
+sp_option_nalink_0009_v2	
+sp_option_nalink_0010_v2	
+sp_option_nalink_0011_v2	
+sp_option_nalink_0012_v2	
+sp_option_nalink_0013_v2	
+sp_option_nalink_0014_v2	
+sp_option_nalink_0015_v2	
+sp_option_nalink_0016_v2	
+sp_option_nalink_0017_v2	
+sp_option_nalink_0018_v2	
+sp_option_nalink_0019_v2	
+sp_option_nalink_0020_v2	
+sp_option_nalink_0021_v2	
+sp_option_nalink_0022_v2	
+sp_option_nalink_0023_v2	
+sp_option_nalink_0024_v2	
+sp_option_nalink_0025_v2	
+sp_option_nalink_0026_v2	
+sp_option_nalink_0027_v2	
+sp_option_nalink_0028_v2	
+sp_option_nalink_0029_v2	
+sp_option_nalink_0030_v2	
+sp_option_nalink_0031_v2	
+sp_option_nalink_0032_v2	
+sp_option_nalink_0033_v2	
+sp_option_nalink_0034_v2	
+sp_option_nalink_0035_v2	
+sp_option_nalink_0036_v2	
+sp_option_nalink_0037_v2	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_fra.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	Effectuer ce retrait ?
 sp_trade_gts_00009	Inclure les demandes de Pokémon légendaires ou fabuleux
 sp_trade_gts_00010	Rechercher avec ces critères
 sp_trade_gts_00011	Résultats de la recherche
-sp_trade_gts_00012	Aucun partenaire trouvé.
+sp_trade_gts_00012	Aucun Pokémon ne correspond à ces critères.
 sp_trade_gts_00013	Résumé de [VAR_PLAYER]
 sp_trade_gts_00014	Proposer à l'échange
 sp_trade_gts_00015	Vous ne possédez pas le Pokémon recherché par votre partenaire.
 sp_trade_gts_00016	Ce Pokémon a été échangé.
 sp_trade_gts_00017	Jeu de destination
 sp_trade_gts_00018	Avec l'aromate
-sp_trade_gts_00019_v1	Le Pokémon recherché est un Pokémon spécial.
+sp_trade_gts_00019_v1	Le Pokémon recherché est un Pokémon spécial. Veuillez en choisir un autre.
 sp_trade_gts_01001	Merci d'échanger un Pokémon avec moi !
 sp_trade_gts_01002	J'aimerais avoir un Pokémon qui puisse m'aider dans mon aventure !
 sp_trade_gts_01003	J'aimerais avoir un Pokémon qui soit super fort en combat !
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	Le cache a été vidé.
 sp_ui_title_menu_support_id	ID Client
 sp_ui_title_menu_06_v1	Copier l'ID Client
 sp_ui_title_menu_06_dialog_text_v1	Copié dans le presse-papier
+sp_ui_title_nalink_v2	
+sp_ui_title_nalink_complete_v2	
+sp_ui_title_nalink_error_v2	
 sp_ui_downlod_0001	Ouverture en cours...
 sp_ui_downlod_0002	Téléchargement des données permanentes...
 sp_ui_downlod_0003	Les données permanentes ont été téléchargées.
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	Nom du Pokémon
 sp_ui_keyword_bank	Nom du Pokémon
 sp_ui_keyword_waza	Nom de la capacité
 sp_ui_keyword_tokusei	Nom du talent
+sp_ui_keyword_label_v2	
 sp_ui_waza_category	Catégorie
 sp_ui_filter_all_clear	Tout effacer
 sp_ui_input_please	Saisissez votre texte ici.
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Points Pokémon HOME
 sp_ui_date	Date
 sp_ui_deposit	Déposer
 sp_ui_withdrawal	Retirer
+sp_ui_label_type_v2	
+sp_ui_label_filer_exist_v2	
+sp_ui_label_filter_empty_v2	
+sp_ui_label_filter_all_v2	
+sp_ui_label_filter_box_v2	
+sp_ui_label_sort_index_v2	
+sp_ui_label_pokemon_count_v2	
 sp_ui_library_search	Chercher dans le Pokédex
 sp_ui_pokemon_search	Chercher un Pokémon
 sp_ui_type_compatibility	Affinités de types
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	Compétitions Internet
 sp_ui_pgl_mypage	Historique des combats
 sp_ui_pgl_regulation	Règles distribuées
 sp_ui_pgl_event_calendar	Calendrier des évènements
-sp_ui_pgl_mypage_confirm_v1	
+sp_ui_pgl_mypage_confirm_v1	Pour consulter votre historique des combats, vous avez besoin d'associer un compte Nintendo à Pokémon HOME.  Veuillez vous rendre dans le menu Paramètres et associer à Pokémon HOME le compte Nintendo que vous utilisez pour les combats Pokémon.
 sp_ui_all_pokemon	Tous les Pokémon
 sp_ui_release	Annuler
 sp_ui_goodby	Relâcher
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	Cadeau reçu
 sp_ui_gift_00011	Le GPS n'a pas pu être initialisé.
 sp_ui_gift_00012	Touchez ici pour saisir un code.
 sp_ui_gift_seal	Autocollants
+sp_ui_gift_0013_v1	
 sp_ui_gift_01001	Cadeaux à recevoir dans cette zone
 sp_ui_gift_01002	Récupérez vos cadeaux dans la Boîte Cadeau !
 sp_ui_gift_01003	Boîte Cadeau

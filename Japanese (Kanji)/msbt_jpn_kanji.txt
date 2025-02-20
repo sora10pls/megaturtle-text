@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	ふしぎなおくりもので　５回 プレゼントを
 sp_achstep_oth_000201	シールを　１０種類　集める
 sp_achstep_oth_000202	シールを　５０種類　集める
 sp_achstep_oth_000203	シールを　１００種類　集める
-sp_achstep_oth_000301	Pokémon HOMEを １０日　利用する
-sp_achstep_oth_000302	Pokémon HOMEを ３０日　利用する
-sp_achstep_oth_000303	Pokémon HOMEを ６０日　利用する
+sp_achstep_oth_000301	Pokémon HOMEを 利用し始めてから　１０日　経った
+sp_achstep_oth_000302	Pokémon HOMEを 利用し始めてから　３０日　経った
+sp_achstep_oth_000303	Pokémon HOMEを 利用し始めてから　６０日　経った
 sp_achstep_oth_000401	ラベルを　１回　作る
 sp_achstep_oth_000402	ラベルを　３回　作る
 sp_achstep_oth_000403	ラベルを　１０回　作る
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	水色
 sp_labelcolor_07	青
 sp_labelcolor_08	紫
 sp_labelcolor_09	桃
+sp_labelcolor_10_v2	ラベル（赤）
+sp_labelcolor_11_v2	ラベル（橙）
+sp_labelcolor_12_v2	ラベル（黄）
+sp_labelcolor_13_v2	ラベル（黄緑）
+sp_labelcolor_14_v2	ラベル（緑）
+sp_labelcolor_15_v2	ラベル（水色）
+sp_labelcolor_16_v2	ラベル（青）
+sp_labelcolor_17_v2	ラベル（紫）
+sp_labelcolor_18_v2	ラベル（桃）
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_jpn_kanji.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	交換にだすポケモンを　選ぶだけで オ
 sp_monbo_trade_top_0001_003	世界中の　ユーザーと お互いに　ほしいポケモンを 交換したいときは　GTS！
 sp_monbo_trade_top_0001_004	知っているユーザーで　グループをつくって そのグループの中で　交換できる グループ交換も　おススメなんだモン！
 sp_monbo_trade_top_0001_005	そうそう！　お友達と 『Pokémon HOME』の　フレンドだったら フレンド交換が　便利だから 使ってみて　ほしいんだモン！
+sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトルに　ついての 色んな　情報を　見ることが　できるモン！
+sp_monbo_battle_data_0001_002	世界中の　トレーナーの　ランキングを　見たり ニンテンドーアカウントを　連携していると これまでの　自分の戦績も　確認できるんだモン！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn_kanji.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	同意する
 sp_option_terms_6	同意しない
 sp_option_addsdk_1	情報利用に関して
 sp_option_terms_00012_v1	利用規約とプライバシーポリシーの更新
+sp_option_nalink_0001_v2	Pokémon HOMEでは ニンテンドーアカウントと　連携することで 次のことができるようになります
+sp_option_nalink_0002_v2	ニンテンドーアカウント連携でできること
+sp_option_nalink_0003_v2	・ 
+sp_option_nalink_0004_v2	また、すでにNintendo Switch版 Pokémon HOMEを　 利用していたり　今後利用予定がある場合は、 必ず連携してください
+sp_option_nalink_0005_v2	<b>今連携しなければ　後から連携できなくなります</b>
+sp_option_nalink_0006_v2	ニンテンドーアカウントと連携して開始する
+sp_option_nalink_0007_v2	ご使用になるニンテンドーアカウントを確認の上、 ニンテンドーアカウントの連携を行ってください。
+sp_option_nalink_0008_v2	※連携するニンテンドーアカウントがわからない場合 以下のいずれかのリンク先で確認してください
+sp_option_nalink_0009_v2	Nintendo Switchで確認
+sp_option_nalink_0010_v2	ニンテンドーアカウント登録情報確認
+sp_option_nalink_0011_v2	連携するニンテンドーアカウントは、 わかりましたか？
+sp_option_nalink_0012_v2	はい、わかったので連携します
+sp_option_nalink_0013_v2	いいえ、ゲストアカウントではじめます
+sp_option_nalink_0014_v2	ニンテンドーアカウントの連携を間違えると 以下のことが出来なくなります
+sp_option_nalink_0015_v2	本当に連携してもよろしいですか？
+sp_option_nalink_0016_v2	すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください 
+sp_option_nalink_0017_v2	なお、ゲストアカウントで始めた場合 以下の機能が　ご利用いただけませんので ご注意ください。
+sp_option_nalink_0018_v2	ゲストアカウントでできないこと
+sp_option_nalink_0019_v2	ゲストアカウントで　開始する
+sp_option_nalink_0020_v2	ゲストアカウントで開始しますか？
+sp_option_nalink_0021_v2	ゲストアカウントで開始すると 以下のことが出来なくなります
+sp_option_nalink_0022_v2	本当にゲストアカウントで開始して よろしいですか？
+sp_option_nalink_0023_v2	POKEMON HOMEを連動してはじめる
+sp_option_nalink_0024_v2	連携したニンテンドーアカウントに Nintendo Switch版 Pokémon HOMEの 利用が　確認できました
+sp_option_nalink_0025_v2	Nintendo Switch版 と スマートフォン版を 連動する場合は、 Nintendo Switch版 Pokémon HOMEの <u><b>タイトル画面に表示されるサポートID</b></u> が下のIDと一致しているかを確認してください 
+sp_option_nalink_0026_v2	Nintendo Switch版 と スマートフォン版の 連動を開始しますか？
+sp_option_nalink_0027_v2	POKEMON HOMEをはじめて利用する
+sp_option_nalink_0028_v2	連携したニンテンドーアカウントに Nintendo Switch版 Pokémon HOMEの 利用が　確認できませんでした
+sp_option_nalink_0029_v2	はじめてのご利用になりますので スマートフォン版 Pokémon HOMEと 新たにニンテンドーアカウントと連携しますか？
+sp_option_nalink_0030_v2	※すでにNintendo Switch版 Pokémon HOMEを 利用している状態でこの画面になった場合は、 連携しているニンテンドーアカウントが違いますので 「いいえ」を押して戻り、別のニンテンドーアカウントで お試しください
+sp_option_nalink_0031_v2	ゲストで開始
+sp_option_nalink_0032_v2	Nintendo Switch版　Pokémon HOMEや ゲームソフトとの連動
+sp_option_nalink_0033_v2	『ポケモンバンク』から　ポケモンのひっこし
+sp_option_nalink_0034_v2	機種変更時の　データの引き継ぎ
+sp_option_nalink_0035_v2	連携しない
+sp_option_nalink_0036_v2	ゲスト開始の最終確認
+sp_option_nalink_0037_v2	※[いいえ]を押すと　ニンテンドーアカウント連携の 確認画面へもどります
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn_kanji.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	引き取りますか？
 sp_trade_gts_00009	伝説や幻のポケモンを　探している人を含む
 sp_trade_gts_00010	この条件で探す
 sp_trade_gts_00011	検索結果
-sp_trade_gts_00012	相手が見つかりませんでした
+sp_trade_gts_00012	指定したポケモンは　存在しません
 sp_trade_gts_00013	[VAR_PLAYER]さんの　情報
 sp_trade_gts_00014	交換に出す
 sp_trade_gts_00015	あいてのほしいポケモンを 持っていません
 sp_trade_gts_00016	交換済みのポケモンです
 sp_trade_gts_00017	つれていきたいタイトル
 sp_trade_gts_00018	ミント変更後
-sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指定されています
+sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指定されています　選びなおしてください
 sp_trade_gts_01001	交換を　してください よろしく　お願いします
 sp_trade_gts_01002	冒険を　助けてくれる ポケモンと　交換したいです
 sp_trade_gts_01003	対戦で　強い　ポケモンと 交換したいです
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	キャッシュクリアが 完了しました
 sp_ui_title_menu_support_id	サポートID
 sp_ui_title_menu_06_v1	サポートIDをコピー
 sp_ui_title_menu_06_dialog_text_v1	クリップボードに　コピーしました
+sp_ui_title_nalink_v2	ニンテンドーアカウントの　情報が変更されました もう一度　ニンテンドーアカウントに　 ログインしてください  使用していた　ニンテンドーアカウントと 違うニンテンドーアカウントで　ログインすることはできません
+sp_ui_title_nalink_complete_v2	ニンテンドーアカウントに　ログインできました
+sp_ui_title_nalink_error_v2	連携している　ニンテンドーアカウントと ログインされた　ニンテンドーアカウントが 違います
 sp_ui_downlod_0001	起動中です
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	ポケモン名
 sp_ui_keyword_bank	ポケモン名
 sp_ui_keyword_waza	わざ名
 sp_ui_keyword_tokusei	とくせい名
+sp_ui_keyword_label_v2	ラベル名
 sp_ui_waza_category	カテゴリー
 sp_ui_filter_all_clear	全解除
 sp_ui_input_please	入力してください…
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Pokémon HOMEポイント
 sp_ui_date	日付
 sp_ui_deposit	預ける
 sp_ui_withdrawal	引き出す
+sp_ui_label_type_v2	ラベルの種類
+sp_ui_label_filer_exist_v2	１匹以上
+sp_ui_label_filter_empty_v2	０匹
+sp_ui_label_filter_all_v2	ラベル（全色）
+sp_ui_label_filter_box_v2	ボックス
+sp_ui_label_sort_index_v2	作成
+sp_ui_label_pokemon_count_v2	ポケモンの数
 sp_ui_library_search	図鑑検索
 sp_ui_pokemon_search	ポケモン検索
 sp_ui_type_compatibility	タイプ相性
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	インターネット大会
 sp_ui_pgl_mypage	自分の戦績
 sp_ui_pgl_regulation	配信レギュレーション
 sp_ui_pgl_event_calendar	イベントカレンダー
-sp_ui_pgl_mypage_confirm_v1	自分の戦績を　確認するには ニンテンドーアカウントと 連携している　必要があります  ニンテンドーアカウントとの 連携は設定から 行うこと　ができます
+sp_ui_pgl_mypage_confirm_v1	自分の戦績を　確認するには ニンテンドーアカウントと 連携する　必要があります  ポケモンバトルを　プレイしている ニンテンドーアカウントを 「設定」から　連携してください
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	解除
 sp_ui_goodby	にがす
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	受け取りました
 sp_ui_gift_00011	GPSが　起動できません
 sp_ui_gift_00012	タップしてシリアルコードを入力
 sp_ui_gift_seal	シール
+sp_ui_gift_0013_v1	無期限
 sp_ui_gift_01001	このエリアで　受け取れるもの
 sp_ui_gift_01002	プレゼントボックスで　受け取ってね！
 sp_ui_gift_01003	プレゼントボックス

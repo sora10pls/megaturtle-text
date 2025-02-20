@@ -1501,9 +1501,9 @@ sp_achstep_oth_000103	ふしぎなおくりもので　５かい プレゼント
 sp_achstep_oth_000201	シールを　１０しゅるい　あつめる
 sp_achstep_oth_000202	シールを　５０しゅるい　あつめる
 sp_achstep_oth_000203	シールを　１００しゅるい　あつめる
-sp_achstep_oth_000301	Pokémon HOMEを １０にち　りようする
-sp_achstep_oth_000302	Pokémon HOMEを ３０にち　りようする
-sp_achstep_oth_000303	Pokémon HOMEを ６０にち　りようする
+sp_achstep_oth_000301	Pokémon HOMEを りようしはじめてから　１０にち　たった
+sp_achstep_oth_000302	Pokémon HOMEを りようしはじめてから　３０にち　たった
+sp_achstep_oth_000303	Pokémon HOMEを りようしはじめてから　６０にち　たった
 sp_achstep_oth_000401	ラベルを　１かい　つくる
 sp_achstep_oth_000402	ラベルを　３かい　つくる
 sp_achstep_oth_000403	ラベルを　１０かい　つくる
@@ -1989,6 +1989,15 @@ sp_labelcolor_06	みずいろ
 sp_labelcolor_07	あお
 sp_labelcolor_08	むらさき
 sp_labelcolor_09	もも
+sp_labelcolor_10_v2	ラベル（あか）
+sp_labelcolor_11_v2	ラベル（だいだい）
+sp_labelcolor_12_v2	ラベル（きいろ）
+sp_labelcolor_13_v2	ラベル（きみどり）
+sp_labelcolor_14_v2	ラベル（みどり）
+sp_labelcolor_15_v2	ラベル（みずいろ）
+sp_labelcolor_16_v2	ラベル（あお）
+sp_labelcolor_17_v2	ラベル（むらさき）
+sp_labelcolor_18_v2	ラベル（もも）
 
 ~~~~~~~~~~~~~~~
 Text File : sp_labelicon_jpn.msbt
@@ -2084,6 +2093,8 @@ sp_monbo_trade_top_0001_002	こうかんにだすポケモンを　えらぶだ�
 sp_monbo_trade_top_0001_003	せかいじゅうの　ユーザーと おたがいに　ほしいポケモンを こうかんしたいときは　GTS！
 sp_monbo_trade_top_0001_004	しっているユーザーで　グループをつくって そのグループのなかで　こうかんできる グループこうかんも　おススメなんだモン！
 sp_monbo_trade_top_0001_005	そうそう！　おともだちと 『Pokémon HOME』の　フレンドだったら フレンドこうかんが　べんりだから つかってみて　ほしいんだモン！
+sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトルに　ついての いろんな　じょうほうを　みることが　できるモン！
+sp_monbo_battle_data_0001_002	せかいじゅうの　トレーナーの　ランキングを　みたり ニンテンドーアカウントを　れんけいしていると これまでの　じぶんのせんせきも かくにん　できるんだモン！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn.msbt
@@ -2229,6 +2240,43 @@ sp_option_terms_5	どういする
 sp_option_terms_6	どういしない
 sp_option_addsdk_1	じょうほうりようにかんして
 sp_option_terms_00012_v1	利用規約とプライバシーポリシーの更新
+sp_option_nalink_0001_v2	Pokémon HOMEでは ニンテンドーアカウントと　連携することで 次のことができるようになります
+sp_option_nalink_0002_v2	ニンテンドーアカウント連携でできること
+sp_option_nalink_0003_v2	・ 
+sp_option_nalink_0004_v2	また、すでにNintendo Switch版 Pokémon HOMEを　 利用していたり　今後利用予定がある場合は、 必ず連携してください
+sp_option_nalink_0005_v2	<b>今連携しなければ　後から連携できなくなります</b>
+sp_option_nalink_0006_v2	ニンテンドーアカウントと連携して開始する
+sp_option_nalink_0007_v2	ご使用になるニンテンドーアカウントを確認の上、 ニンテンドーアカウントの連携を行ってください。
+sp_option_nalink_0008_v2	※連携するニンテンドーアカウントがわからない場合 以下のいずれかのリンク先で確認してください
+sp_option_nalink_0009_v2	Nintendo Switchで確認
+sp_option_nalink_0010_v2	ニンテンドーアカウント登録情報確認
+sp_option_nalink_0011_v2	連携するニンテンドーアカウントは、 わかりましたか？
+sp_option_nalink_0012_v2	はい、わかったので連携します
+sp_option_nalink_0013_v2	いいえ、ゲストアカウントではじめます
+sp_option_nalink_0014_v2	ニンテンドーアカウントの連携を間違えると 以下のことが出来なくなります
+sp_option_nalink_0015_v2	本当に連携してもよろしいですか？
+sp_option_nalink_0016_v2	すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください 
+sp_option_nalink_0017_v2	なお、ゲストアカウントで始めた場合 以下の機能が　ご利用いただけませんので ご注意ください。
+sp_option_nalink_0018_v2	ゲストアカウントでできないこと
+sp_option_nalink_0019_v2	ゲストアカウントで　開始する
+sp_option_nalink_0020_v2	ゲストアカウントで開始しますか？
+sp_option_nalink_0021_v2	ゲストアカウントで開始すると 以下のことが出来なくなります
+sp_option_nalink_0022_v2	本当にゲストアカウントで開始して よろしいですか？
+sp_option_nalink_0023_v2	POKEMON HOMEを連動してはじめる
+sp_option_nalink_0024_v2	連携したニンテンドーアカウントに Nintendo Switch版 Pokémon HOMEの 利用が　確認できました
+sp_option_nalink_0025_v2	Nintendo Switch版 と スマートフォン版を 連動する場合は、 Nintendo Switch版 Pokémon HOMEの <u><b>タイトル画面に表示されるサポートID</b></u> が下のIDと一致しているかを確認してください 
+sp_option_nalink_0026_v2	Nintendo Switch版 と スマートフォン版の 連動を開始しますか？
+sp_option_nalink_0027_v2	POKEMON HOMEをはじめて利用する
+sp_option_nalink_0028_v2	連携したニンテンドーアカウントに Nintendo Switch版 Pokémon HOMEの 利用が　確認できませんでした
+sp_option_nalink_0029_v2	はじめてのご利用になりますので スマートフォン版 Pokémon HOMEと 新たにニンテンドーアカウントと連携しますか？
+sp_option_nalink_0030_v2	※すでにNintendo Switch版 Pokémon HOMEを 利用している状態でこの画面になった場合は、 連携しているニンテンドーアカウントが違いますので 「いいえ」を押して戻り、別のニンテンドーアカウントで お試しください
+sp_option_nalink_0031_v2	ゲストで開始
+sp_option_nalink_0032_v2	Nintendo SwitchのPokémon HOMEや ゲームソフトとの連動 
+sp_option_nalink_0033_v2	『ポケモンバンク』から　ポケモンのひっこし
+sp_option_nalink_0034_v2	機種変更時の　データの引き継ぎ
+sp_option_nalink_0035_v2	連携しない
+sp_option_nalink_0036_v2	ゲスト開始の最終確認
+sp_option_nalink_0037_v2	※[いいえ]を押すと　ニンテンドーアカウント連携の 確認画面へもどります
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn.msbt
@@ -2454,14 +2502,14 @@ sp_trade_gts_00008	ひきとりますか？
 sp_trade_gts_00009	でんせつや　まぼろしの　ポケモンを さがしているひとを　ふくむ
 sp_trade_gts_00010	このじょうけんでさがす
 sp_trade_gts_00011	けんさくけっか
-sp_trade_gts_00012	あいてがみつかりませんでした
+sp_trade_gts_00012	していしたポケモンは　そんざいしません
 sp_trade_gts_00013	[VAR_PLAYER]さんの　じょうほう
 sp_trade_gts_00014	こうかんにだす
 sp_trade_gts_00015	あいてのほしいポケモンを もっていません
 sp_trade_gts_00016	こうかんずみのポケモンです
 sp_trade_gts_00017	つれていきたいタイトル
 sp_trade_gts_00018	ミントへんこうご
-sp_trade_gts_00019_v1	ほしいポケモンに　とくべつな　ポケモンが していされています
+sp_trade_gts_00019_v1	ほしいポケモンに　とくべつな　ポケモンが していされています　えらびなおしてください
 sp_trade_gts_01001	こうかんを　してください よろしくおねがいします
 sp_trade_gts_01002	ぼうけんを　たすけてくれる ポケモンと　こうかんしたいです
 sp_trade_gts_01003	たいせんで　つよい　ポケモンと こうかんしたいです
@@ -2615,6 +2663,9 @@ sp_ui_title_menu_05_dialog_done	キャッシュクリアが かんりょうし�
 sp_ui_title_menu_support_id	サポートID
 sp_ui_title_menu_06_v1	サポートIDをコピー
 sp_ui_title_menu_06_dialog_text_v1	クリップボードに　コピーしました
+sp_ui_title_nalink_v2	ニンテンドーアカウントの　じょうほうがへんこうされました もういちど　ニンテンドーアカウントに ログインしてください  しようしていた　ニンテンドーアカウントと ちがうニンテンドーアカウントで　ログインすることはできません
+sp_ui_title_nalink_complete_v2	ニンテンドーアカウントに　ログインできました
+sp_ui_title_nalink_error_v2	れんけいしている　ニンテンドーアカウントと ログインされた　ニンテンドーアカウントが ちがいます
 sp_ui_downlod_0001	きどうちゅうです
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -2636,6 +2687,7 @@ sp_ui_keyword_dictionary	ポケモンめい
 sp_ui_keyword_bank	ポケモンめい
 sp_ui_keyword_waza	わざめい
 sp_ui_keyword_tokusei	とくせいめい
+sp_ui_keyword_label_v2	ラベルめい
 sp_ui_waza_category	カテゴリー
 sp_ui_filter_all_clear	すべてかいじょ
 sp_ui_input_please	にゅうりょくしてください…
@@ -2697,6 +2749,13 @@ sp_ui_pokesmile	Pokémon HOMEポイント
 sp_ui_date	ひづけ
 sp_ui_deposit	あずける
 sp_ui_withdrawal	ひきだす
+sp_ui_label_type_v2	ラベルのしゅるい
+sp_ui_label_filer_exist_v2	１ぴきいじょう
+sp_ui_label_filter_empty_v2	０ひき
+sp_ui_label_filter_all_v2	ラベル（ぜんしょく）
+sp_ui_label_filter_box_v2	ボックス
+sp_ui_label_sort_index_v2	さくせい
+sp_ui_label_pokemon_count_v2	ポケモンのかず
 sp_ui_library_search	ずかんけんさく
 sp_ui_pokemon_search	ポケモンけんさく
 sp_ui_type_compatibility	タイプあいしょう
@@ -2713,7 +2772,7 @@ sp_ui_pgl_internet_tournament	インターネットたいかい
 sp_ui_pgl_mypage	じぶんのせんせき
 sp_ui_pgl_regulation	はいしんレギュレーション
 sp_ui_pgl_event_calendar	イベントカレンダー
-sp_ui_pgl_mypage_confirm_v1	じぶんのせんせきを　かくにんするには ニンテンドーアカウントと れんけいしている　ひつようがあります  ニンテンドーアカウントとの れんけいは　せっていから おこなうこと　ができます
+sp_ui_pgl_mypage_confirm_v1	じぶんのせんせきを　かくにんするには ニンテンドーアカウントと れんけいする　ひつようが　あります  ポケモンバトルを　プレイしている ニンテンドーアカウントを 「せってい」から　れんけい　してください
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	かいじょ
 sp_ui_goodby	にがす 
@@ -2797,6 +2856,7 @@ sp_ui_gift_00010	うけとりました
 sp_ui_gift_00011	GPSが　きどうできません
 sp_ui_gift_00012	タップしてシリアルコードをにゅうりょく
 sp_ui_gift_seal	シール
+sp_ui_gift_0013_v1	むきげん
 sp_ui_gift_01001	このエリアで　うけとれるもの
 sp_ui_gift_01002	プレゼントボックスで　うけとってね！
 sp_ui_gift_01003	プレゼントボックス
