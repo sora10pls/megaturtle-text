@@ -1241,99 +1241,99 @@ SEIKAKU_024	浮躁
 ~~~~~~~~~~~~~~~
 Text File : sp_achstep_tch.msbt
 ~~~~~~~~~~~~~~~
-sp_achstep_box_000101	已寄放１隻異色寶可夢！
-sp_achstep_box_000102	已寄放５隻異色寶可夢！
-sp_achstep_box_000103	已寄放１０隻異色寶可夢！
-sp_achstep_box_000201	已寄放５隻在精靈球裡的寶可夢！
-sp_achstep_box_000202	已寄放１５隻在精靈球裡的寶可夢！
-sp_achstep_box_000203	已寄放３０隻在精靈球裡的寶可夢！
-sp_achstep_box_000301	已寄放５隻在超級球裡的寶可夢！
-sp_achstep_box_000302	已寄放１５隻在超級球裡的寶可夢！
-sp_achstep_box_000303	已寄放３０隻在超級球裡的寶可夢！
-sp_achstep_box_000401	已寄放５隻在捕網球裡的寶可夢！
-sp_achstep_box_000402	已寄放１５隻在捕網球裡的寶可夢！
-sp_achstep_box_000403	已寄放３０隻在捕網球裡的寶可夢！
-sp_achstep_box_000501	已寄放５隻在重複球裡的寶可夢！
-sp_achstep_box_000502	已寄放１５隻在重複球裡的寶可夢！
-sp_achstep_box_000503	已寄放３０隻在重複球裡的寶可夢！
-sp_achstep_box_000601	已寄放５隻在計時球裡的寶可夢！
-sp_achstep_box_000602	已寄放１５隻在計時球裡的寶可夢！
-sp_achstep_box_000603	已寄放３０隻在計時球裡的寶可夢！
-sp_achstep_box_000701	已寄放５隻在高級球裡的寶可夢！
-sp_achstep_box_000702	已寄放１５隻在高級球裡的寶可夢！
-sp_achstep_box_000703	已寄放３０隻在高級球裡的寶可夢！
-sp_achstep_box_000801	已寄放５隻在巢穴球裡的寶可夢！
-sp_achstep_box_000802	已寄放１５隻在巢穴球裡的寶可夢！
-sp_achstep_box_000803	已寄放３０隻在巢穴球裡的寶可夢！
-sp_achstep_box_000901	已寄放５隻在豪華球裡的寶可夢！
-sp_achstep_box_000902	已寄放１５隻在豪華球裡的寶可夢！
-sp_achstep_box_000903	已寄放３０隻在豪華球裡的寶可夢！
-sp_achstep_box_001001	已寄放５隻在治癒球裡的寶可夢！
-sp_achstep_box_001002	已寄放１５隻在治癒球裡的寶可夢！
-sp_achstep_box_001003	已寄放３０隻在治癒球裡的寶可夢！
-sp_achstep_box_001101	已寄放５隻在潛水球裡的寶可夢！
-sp_achstep_box_001102	已寄放１５隻在潛水球裡的寶可夢！
-sp_achstep_box_001103	已寄放３０隻在潛水球裡的寶可夢！
-sp_achstep_box_001201	已寄放５隻在先機球裡的寶可夢！
-sp_achstep_box_001202	已寄放１５隻在先機球裡的寶可夢！
-sp_achstep_box_001203	已寄放３０隻在先機球裡的寶可夢！
-sp_achstep_box_001301	已寄放５隻在黑暗球裡的寶可夢！
-sp_achstep_box_001302	已寄放１５隻在黑暗球裡的寶可夢！
-sp_achstep_box_001303	已寄放３０隻在黑暗球裡的寶可夢！
-sp_achstep_box_001401	已寄放１隻在大師球裡的寶可夢！
-sp_achstep_box_001402	已寄放５隻在大師球裡的寶可夢！
-sp_achstep_box_001403	已寄放１０隻在大師球裡的寶可夢！
-sp_achstep_box_001501	已寄放５隻在紀念球裡的寶可夢！
-sp_achstep_box_001502	已寄放１５隻在紀念球裡的寶可夢！
-sp_achstep_box_001503	已寄放３０隻在紀念球裡的寶可夢！
-sp_achstep_box_001601	已寄放１隻在貴重球裡的寶可夢！
-sp_achstep_box_001602	已寄放５隻在貴重球裡的寶可夢！
-sp_achstep_box_001603	已寄放１０隻在貴重球裡的寶可夢！
-sp_achstep_box_001701	已寄放５隻在究極球裡的寶可夢！
-sp_achstep_box_001702	已寄放１５隻在究極球裡的寶可夢！
-sp_achstep_box_001703	已寄放３０隻在究極球裡的寶可夢！
-sp_achstep_box_001801	已寄放５隻在夢境球裡的寶可夢！
-sp_achstep_box_001802	已寄放１５隻在夢境球裡的寶可夢！
-sp_achstep_box_001803	已寄放３０隻在夢境球裡的寶可夢！
-sp_achstep_box_001901	已寄放５隻在狩獵球裡的寶可夢！
-sp_achstep_box_001902	已寄放１５隻在狩獵球裡的寶可夢！
-sp_achstep_box_001903	已寄放３０隻在狩獵球裡的寶可夢！
-sp_achstep_box_002001	已寄放５隻在競賽球裡的寶可夢！
-sp_achstep_box_002002	已寄放１５隻在競賽球裡的寶可夢！
-sp_achstep_box_002003	已寄放３０隻在競賽球裡的寶可夢！
-sp_achstep_box_002101	已寄放５隻在速度球裡的寶可夢！
-sp_achstep_box_002102	已寄放１５隻在速度球裡的寶可夢！
-sp_achstep_box_002103	已寄放３０隻在速度球裡的寶可夢！
-sp_achstep_box_002201	已寄放５隻在友友球裡的寶可夢！
-sp_achstep_box_002202	已寄放１５隻在友友球裡的寶可夢！
-sp_achstep_box_002203	已寄放３０隻在友友球裡的寶可夢！
-sp_achstep_box_002301	已寄放５隻在沉重球裡的寶可夢！
-sp_achstep_box_002302	已寄放１５隻在沉重球裡的寶可夢！
-sp_achstep_box_002303	已寄放３０隻在沉重球裡的寶可夢！
-sp_achstep_box_002401	已寄放５隻在月亮球裡的寶可夢！
-sp_achstep_box_002402	已寄放１５隻在月亮球裡的寶可夢！
-sp_achstep_box_002403	已寄放３０隻在月亮球裡的寶可夢！
-sp_achstep_box_002501	已寄放５隻在甜蜜球裡的寶可夢！
-sp_achstep_box_002502	已寄放１５隻在甜蜜球裡的寶可夢！
-sp_achstep_box_002503	已寄放３０隻在甜蜜球裡的寶可夢！
-sp_achstep_box_002601	已寄放５隻在誘餌球裡的寶可夢！
-sp_achstep_box_002602	已寄放１５隻在誘餌球裡的寶可夢！
-sp_achstep_box_002603	已寄放３０隻在誘餌球裡的寶可夢！
-sp_achstep_box_002701	已寄放５隻在等級球裡的寶可夢！
-sp_achstep_box_002702	已寄放１５隻在等級球裡的寶可夢！
-sp_achstep_box_002703	已寄放３０隻在等級球裡的寶可夢！
-sp_achstep_box_002801	已寄放３０隻寶可夢！
-sp_achstep_box_002802	已寄放１００隻寶可夢！
-sp_achstep_box_002803	已寄放３００隻寶可夢！
-sp_achstep_box_s_0001	已從豐緣地區帶來了 木守宮、火稚雞和水躍魚！
-sp_achstep_box_s_0002	已從豐緣地區帶來了 木守宮、森林蜥蜴和蜥蜴王！
-sp_achstep_box_s_0003	已從豐緣地區帶來了 火稚雞、力壯雞和火焰雞！
-sp_achstep_box_s_0004	已從豐緣地區帶來了 水躍魚、沼躍魚和巨沼怪！
-sp_achstep_box_s_0005	已從阿羅拉地區帶來了 索爾迦雷歐、露奈雅拉和奈克洛茲瑪！
-sp_achstep_box_s_0006	已從豐緣地區帶來了 固拉多和蓋歐卡！
-sp_achstep_box_s_0007	已從阿羅拉地區帶來了科斯莫古、 科斯莫姆、索爾迦雷歐和露奈雅拉！
-sp_achstep_box_s_0008	已從神奧地區帶來了 草苗龜、小火焰猴和波加曼！
-sp_achstep_box_s_0009	已從神奧地區帶來了 帝牙盧卡、帕路奇亞和騎拉帝納！
+sp_achstep_box_000101	寄放１隻異色寶可夢。
+sp_achstep_box_000102	寄放５隻異色寶可夢。
+sp_achstep_box_000103	寄放１０隻異色寶可夢。
+sp_achstep_box_000201	寄放５隻在精靈球裡的寶可夢。
+sp_achstep_box_000202	寄放１５隻在精靈球裡的寶可夢。
+sp_achstep_box_000203	寄放３０隻在精靈球裡的寶可夢。
+sp_achstep_box_000301	寄放５隻在超級球裡的寶可夢。
+sp_achstep_box_000302	寄放１５隻在超級球裡的寶可夢。
+sp_achstep_box_000303	寄放３０隻在超級球裡的寶可夢。
+sp_achstep_box_000401	寄放５隻在捕網球裡的寶可夢。
+sp_achstep_box_000402	寄放１５隻在捕網球裡的寶可夢。
+sp_achstep_box_000403	寄放３０隻在捕網球裡的寶可夢。
+sp_achstep_box_000501	寄放５隻在重複球裡的寶可夢。
+sp_achstep_box_000502	寄放１５隻在重複球裡的寶可夢。
+sp_achstep_box_000503	寄放３０隻在重複球裡的寶可夢。
+sp_achstep_box_000601	寄放５隻在計時球裡的寶可夢。
+sp_achstep_box_000602	寄放１５隻在計時球裡的寶可夢。
+sp_achstep_box_000603	寄放３０隻在計時球裡的寶可夢。
+sp_achstep_box_000701	寄放５隻在高級球裡的寶可夢。
+sp_achstep_box_000702	寄放１５隻在高級球裡的寶可夢。
+sp_achstep_box_000703	寄放３０隻在高級球裡的寶可夢。
+sp_achstep_box_000801	寄放５隻在巢穴球裡的寶可夢。
+sp_achstep_box_000802	寄放１５隻在巢穴球裡的寶可夢。
+sp_achstep_box_000803	寄放３０隻在巢穴球裡的寶可夢。
+sp_achstep_box_000901	寄放５隻在豪華球裡的寶可夢。
+sp_achstep_box_000902	寄放１５隻在豪華球裡的寶可夢。
+sp_achstep_box_000903	寄放３０隻在豪華球裡的寶可夢。
+sp_achstep_box_001001	寄放５隻在治癒球裡的寶可夢。
+sp_achstep_box_001002	寄放１５隻在治癒球裡的寶可夢。
+sp_achstep_box_001003	寄放３０隻在治癒球裡的寶可夢。
+sp_achstep_box_001101	寄放５隻在潛水球裡的寶可夢。
+sp_achstep_box_001102	寄放１５隻在潛水球裡的寶可夢。
+sp_achstep_box_001103	寄放３０隻在潛水球裡的寶可夢。
+sp_achstep_box_001201	寄放５隻在先機球裡的寶可夢。
+sp_achstep_box_001202	寄放１５隻在先機球裡的寶可夢。
+sp_achstep_box_001203	寄放３０隻在先機球裡的寶可夢。
+sp_achstep_box_001301	寄放５隻在黑暗球裡的寶可夢。
+sp_achstep_box_001302	寄放１５隻在黑暗球裡的寶可夢。
+sp_achstep_box_001303	寄放３０隻在黑暗球裡的寶可夢。
+sp_achstep_box_001401	寄放１隻在大師球裡的寶可夢。
+sp_achstep_box_001402	寄放５隻在大師球裡的寶可夢。
+sp_achstep_box_001403	寄放１０隻在大師球裡的寶可夢。
+sp_achstep_box_001501	寄放５隻在紀念球裡的寶可夢。
+sp_achstep_box_001502	寄放１５隻在紀念球裡的寶可夢。
+sp_achstep_box_001503	寄放３０隻在紀念球裡的寶可夢。
+sp_achstep_box_001601	寄放１隻在貴重球裡的寶可夢。
+sp_achstep_box_001602	寄放５隻在貴重球裡的寶可夢。
+sp_achstep_box_001603	寄放１０隻在貴重球裡的寶可夢。
+sp_achstep_box_001701	寄放５隻在究極球裡的寶可夢。
+sp_achstep_box_001702	寄放１５隻在究極球裡的寶可夢。
+sp_achstep_box_001703	寄放３０隻在究極球裡的寶可夢。
+sp_achstep_box_001801	寄放５隻在夢境球裡的寶可夢。
+sp_achstep_box_001802	寄放１５隻在夢境球裡的寶可夢。
+sp_achstep_box_001803	寄放３０隻在夢境球裡的寶可夢。
+sp_achstep_box_001901	寄放５隻在狩獵球裡的寶可夢。
+sp_achstep_box_001902	寄放１５隻在狩獵球裡的寶可夢。
+sp_achstep_box_001903	寄放３０隻在狩獵球裡的寶可夢。
+sp_achstep_box_002001	寄放５隻在競賽球裡的寶可夢。
+sp_achstep_box_002002	寄放１５隻在競賽球裡的寶可夢。
+sp_achstep_box_002003	寄放３０隻在競賽球裡的寶可夢。
+sp_achstep_box_002101	寄放５隻在速度球裡的寶可夢。
+sp_achstep_box_002102	寄放１５隻在速度球裡的寶可夢。
+sp_achstep_box_002103	寄放３０隻在速度球裡的寶可夢。
+sp_achstep_box_002201	寄放５隻在友友球裡的寶可夢。
+sp_achstep_box_002202	寄放１５隻在友友球裡的寶可夢。
+sp_achstep_box_002203	寄放３０隻在友友球裡的寶可夢。
+sp_achstep_box_002301	寄放５隻在沉重球裡的寶可夢。
+sp_achstep_box_002302	寄放１５隻在沉重球裡的寶可夢。
+sp_achstep_box_002303	寄放３０隻在沉重球裡的寶可夢。
+sp_achstep_box_002401	寄放５隻在月亮球裡的寶可夢。
+sp_achstep_box_002402	寄放１５隻在月亮球裡的寶可夢。
+sp_achstep_box_002403	寄放３０隻在月亮球裡的寶可夢。
+sp_achstep_box_002501	寄放５隻在甜蜜球裡的寶可夢。
+sp_achstep_box_002502	寄放１５隻在甜蜜球裡的寶可夢。
+sp_achstep_box_002503	寄放３０隻在甜蜜球裡的寶可夢。
+sp_achstep_box_002601	寄放５隻在誘餌球裡的寶可夢
+sp_achstep_box_002602	寄放１５隻在誘餌球裡的寶可夢。
+sp_achstep_box_002603	寄放３０隻在誘餌球裡的寶可夢。
+sp_achstep_box_002701	寄放５隻在等級球裡的寶可夢。
+sp_achstep_box_002702	寄放１５隻在等級球裡的寶可夢。
+sp_achstep_box_002703	寄放３０隻在等級球裡的寶可夢。
+sp_achstep_box_002801	寄放３０隻寶可夢。
+sp_achstep_box_002802	寄放１００隻寶可夢。
+sp_achstep_box_002803	寄放３００隻寶可夢。
+sp_achstep_box_s_0001	已登錄豐緣地區的 木守宮、火稚雞和水躍魚！
+sp_achstep_box_s_0002	已登錄豐緣地區的 木守宮、森林蜥蜴和蜥蜴王！
+sp_achstep_box_s_0003	已登錄豐緣地區的 火稚雞、力壯雞和火焰雞！
+sp_achstep_box_s_0004	已登錄豐緣地區的 水躍魚、沼躍魚和巨沼怪！
+sp_achstep_box_s_0005	已登錄阿羅拉地區的 索爾迦雷歐、露奈雅拉和奈克洛茲瑪！
+sp_achstep_box_s_0006	已登錄豐緣地區的固拉多和蓋歐卡！
+sp_achstep_box_s_0007	已登錄阿羅拉地區的科斯莫古、 科斯莫姆、索爾迦雷歐和露奈雅拉！
+sp_achstep_box_s_0008	已登錄神奧地區的 草苗龜、小火焰猴和波加曼！
+sp_achstep_box_s_0009	已登錄神奧地區的 帝牙盧卡、帕路奇亞和騎拉帝納！
 sp_achstep_box_s_0010	已寄放１０隻性格怕寂寞的寶可夢！
 sp_achstep_box_s_0011	已寄放１０隻性格固執的寶可夢！
 sp_achstep_box_s_0012	已寄放１０隻性格頑皮的寶可夢！
@@ -1361,47 +1361,47 @@ sp_achstep_box_s_0033	已寄放１０隻性格浮躁的寶可夢！
 sp_achstep_box_s_0034	已寄放１０隻性格認真的寶可夢！
 sp_achstep_box_s_0035	已寄放３０隻皮卡丘！
 sp_achstep_box_s_0036	已寄放３０隻百變怪！
-sp_achstep_box_s_0037	已從關都地區帶來了皮卡丘！
-sp_achstep_box_s_0038	已從關都地區帶來了伊布！
-sp_achstep_box_s_0039	已從令人懷念的關都地區 帶來了噴火龍！
-sp_achstep_box_s_0040	已從令人懷念的關都地區 帶來了妙蛙花！
-sp_achstep_box_s_0041	已從令人懷念的關都地區 帶來了水箭龜！
-sp_achstep_box_s_0042	已從令人懷念的關都地區 帶來了皮卡丘！
-sp_achstep_box_s_0043	已從令人懷念的遙遠的土地 帶來了鳳王！
-sp_achstep_box_s_0044	已從令人懷念的遙遠的土地 帶來了洛奇亞！
-sp_achstep_box_s_0045	已從令人懷念的遙遠的土地 帶來了水君！
-sp_achstep_box_s_0046	已從關都地區帶來了噴火龍！
-sp_achstep_box_s_0047	已從關都地區帶來了妙蛙花！
-sp_achstep_box_s_0048	已從城都地區帶來了鳳王！
-sp_achstep_box_s_0049	已從城都地區帶來了洛奇亞！
-sp_achstep_box_s_0050	已從令人懷念的豐緣地區 帶來了固拉多！
-sp_achstep_box_s_0051	已從令人懷念的豐緣地區 帶來了蓋歐卡！
-sp_achstep_box_s_0052	已從令人懷念的豐緣地區 帶來了烈空坐！
-sp_achstep_box_s_0053	已從神奧地區帶來了帝牙盧卡！
-sp_achstep_box_s_0054	已從神奧地區帶來了帕路奇亞！
-sp_achstep_box_s_0055	已從神奧地區帶來了騎拉帝納！
-sp_achstep_box_s_0056	已從合眾地區帶來了萊希拉姆！
-sp_achstep_box_s_0057	已從合眾地區帶來了捷克羅姆！
-sp_achstep_box_s_0058	已從合眾地區帶來了捷克羅姆和酋雷姆！
-sp_achstep_box_s_0059	已從合眾地區帶來了萊希拉姆和酋雷姆！
-sp_achstep_box_s_0060	已從卡洛斯地區帶來了哲爾尼亞斯！
-sp_achstep_box_s_0061	已從卡洛斯地區帶來了伊裴爾塔爾！
-sp_achstep_box_s_0062	已從豐緣地區帶來了固拉多！
-sp_achstep_box_s_0063	已從豐緣地區帶來了蓋歐卡！
-sp_achstep_box_s_0064	已從阿羅拉地區帶來了索爾迦雷歐！
-sp_achstep_box_s_0065	已從阿羅拉地區帶來了露奈雅拉！
-sp_achstep_box_s_0066	已從阿羅拉地區帶來了 索爾迦雷歐和奈克洛茲瑪！
-sp_achstep_box_s_0067	已從阿羅拉地區帶來了 露奈雅拉和奈克洛茲瑪！
-sp_achstep_box_s_0068	已從伽勒爾地區帶來了蒼響！
-sp_achstep_box_s_0069	已從伽勒爾地區帶來了藏瑪然特！
-sp_achstep_box_s_0070	已寄放異色的巨金怪！
-sp_achstep_box_s_0071	已從豐緣地區帶來了烈空坐！
-sp_achstep_box_s_0072	已從卡洛斯地區帶來了蒂安希！
-sp_achstep_box_s_0073	已寄放認真起來的卡比獸！
-sp_achstep_box_s_0074	已從合眾地區帶來了燭光靈！
-sp_achstep_box_s_0075	已從合眾地區帶來了伊布！
-sp_achstep_box_s_0076	已寄放美洛耶塔！
-sp_achstep_box_s_0077	已寄放異色的蓋諾賽克特！
+sp_achstep_box_s_0037	已登錄關都地區的皮卡丘！
+sp_achstep_box_s_0038	已登錄關都地區的伊布！
+sp_achstep_box_s_0039	已登錄令人懷念的 關都地區的噴火龍！
+sp_achstep_box_s_0040	已登錄令人懷念的 關都地區的妙蛙花！
+sp_achstep_box_s_0041	已登錄令人懷念的 關都地區的水箭龜！
+sp_achstep_box_s_0042	已登錄令人懷念的 關都地區的皮卡丘！
+sp_achstep_box_s_0043	已登錄令人懷念的 城都地區的鳳王！
+sp_achstep_box_s_0044	已登錄令人懷念的 城都地區的洛奇亞！
+sp_achstep_box_s_0045	已登錄令人懷念的 城都地區的水君！
+sp_achstep_box_s_0046	已登錄關都地區的噴火龍！
+sp_achstep_box_s_0047	已登錄關都地區的妙蛙花！
+sp_achstep_box_s_0048	已登錄城都地區的鳳王！
+sp_achstep_box_s_0049	已登錄城都地區的洛奇亞！
+sp_achstep_box_s_0050	已登錄令人懷念的 豐緣地區的固拉多！
+sp_achstep_box_s_0051	已登錄令人懷念的 豐緣地區的蓋歐卡！
+sp_achstep_box_s_0052	已登錄令人懷念的 豐緣地區的烈空坐！
+sp_achstep_box_s_0053	已登錄神奧地區的帝牙盧卡！
+sp_achstep_box_s_0054	已登錄神奧地區的帕路奇亞！
+sp_achstep_box_s_0055	已登錄神奧地區的騎拉帝納！
+sp_achstep_box_s_0056	已登錄合眾地區的萊希拉姆！
+sp_achstep_box_s_0057	已登錄合眾地區的捷克羅姆！
+sp_achstep_box_s_0058	已登錄合眾地區的捷克羅姆和酋雷姆！
+sp_achstep_box_s_0059	已登錄合眾地區的萊希拉姆和酋雷姆！
+sp_achstep_box_s_0060	已登錄卡洛斯地區的哲爾尼亞斯！
+sp_achstep_box_s_0061	已登錄卡洛斯地區的伊裴爾塔爾！
+sp_achstep_box_s_0062	已登錄豐緣地區的固拉多！
+sp_achstep_box_s_0063	已登錄豐緣地區的蓋歐卡！
+sp_achstep_box_s_0064	已登錄阿羅拉地區的索爾迦雷歐！
+sp_achstep_box_s_0065	已登錄阿羅拉地區的露奈雅拉！
+sp_achstep_box_s_0066	已登錄阿羅拉地區的 索爾迦雷歐和奈克洛茲瑪！
+sp_achstep_box_s_0067	已登錄阿羅拉地區的 露奈雅拉和奈克洛茲瑪！
+sp_achstep_box_s_0068	已登錄伽勒爾地區的蒼響！
+sp_achstep_box_s_0069	已登錄伽勒爾地區的藏瑪然特！
+sp_achstep_box_s_0070	已登錄異色的巨金怪！
+sp_achstep_box_s_0071	已登錄豐緣地區的烈空坐！
+sp_achstep_box_s_0072	已登錄卡洛斯地區的蒂安希！
+sp_achstep_box_s_0073	已登錄認真起來的卡比獸！
+sp_achstep_box_s_0074	已登錄合眾地區的燭光靈！
+sp_achstep_box_s_0075	已登錄合眾地區的伊布！
+sp_achstep_box_s_0076	已登錄美洛耶塔！
+sp_achstep_box_s_0077	已登錄異色的蓋諾賽克特！
 sp_achstep_lib_000101	登錄５種惡屬性的寶可夢。
 sp_achstep_lib_000102	登錄２０種惡屬性的寶可夢。
 sp_achstep_lib_000103	登錄５０種惡屬性的寶可夢。
@@ -1456,21 +1456,21 @@ sp_achstep_lib_001703	登錄１１０種水屬性的寶可夢。
 sp_achstep_lib_001801	登錄５種蟲屬性的寶可夢。
 sp_achstep_lib_001802	登錄２５種蟲屬性的寶可夢。
 sp_achstep_lib_001803	登錄６０種蟲屬性的寶可夢。
-sp_achstep_lib_001901	已登錄１種霜奶仙的樣子！
-sp_achstep_lib_001902	已登錄３種霜奶仙的樣子！
-sp_achstep_lib_001903	已登錄９種霜奶仙的樣子！
-sp_achstep_lib_002001	已登錄１０種特性！
-sp_achstep_lib_002002	已登錄７０種特性！
-sp_achstep_lib_002003	已登錄２００種特性！
-sp_achstep_lib_002101	已登錄１０種特殊招式！
-sp_achstep_lib_002102	已登錄５０種特殊招式！
-sp_achstep_lib_002103	已登錄１４０種特殊招式！
-sp_achstep_lib_002201	已登錄１０種物理招式！
-sp_achstep_lib_002202	已登錄８０種物理招式！
-sp_achstep_lib_002203	已登錄２２０種物理招式！
-sp_achstep_lib_002301	已登錄１０種變化招式！
-sp_achstep_lib_002302	已登錄４５種變化招式！
-sp_achstep_lib_002303	已登錄２００種變化招式！
+sp_achstep_lib_001901	登錄１種霜奶仙的樣子。
+sp_achstep_lib_001902	登錄３種霜奶仙的樣子。
+sp_achstep_lib_001903	登錄９種霜奶仙的樣子。
+sp_achstep_lib_002001	登錄１０種特性。
+sp_achstep_lib_002002	登錄７０種特性。
+sp_achstep_lib_002003	登錄２００種特性。
+sp_achstep_lib_002101	登錄１０種特殊招式。
+sp_achstep_lib_002102	登錄５０種特殊招式。
+sp_achstep_lib_002103	登錄１４０種特殊招式。
+sp_achstep_lib_002201	登錄１０種物理招式。
+sp_achstep_lib_002202	登錄８０種物理招式。
+sp_achstep_lib_002203	登錄２２０種物理招式。
+sp_achstep_lib_002301	登錄１０種變化招式。
+sp_achstep_lib_002302	登錄４５種變化招式。
+sp_achstep_lib_002303	登錄２００種變化招式。
 sp_achstep_lib_s_0001	已登錄阿羅拉的守護神！
 sp_achstep_lib_s_0002	已登錄４種花舞鳥的形態！
 sp_achstep_lib_s_0003	已登錄在阿羅拉地區 最初選擇的３隻寶可夢！
@@ -1495,21 +1495,21 @@ sp_achstep_lib_s_0021	已登錄２０種從化石復原的寶可夢！
 sp_achstep_lib_s_0022	已登錄７種小隕星的樣子！
 sp_achstep_lib_s_0023	已登錄戴著帽子的皮卡丘！
 sp_achstep_lib_s_0024	已登錄謝米！
-sp_achstep_oth_000101	已透過神秘禮物接收了１次禮物！
-sp_achstep_oth_000102	已透過神秘禮物接收了３次禮物！
-sp_achstep_oth_000103	已透過神秘禮物接收了５次禮物！
-sp_achstep_oth_000201	已收集１０種貼紙！
-sp_achstep_oth_000202	已收集５０種貼紙！
-sp_achstep_oth_000203	已收集１００種貼紙！
-sp_achstep_oth_000301	已使用Pokémon HOME１０天！
-sp_achstep_oth_000302	已使用Pokémon HOME３０天！
-sp_achstep_oth_000303	已使用Pokémon HOME６０天！
-sp_achstep_oth_000401	已製作１次標籤！
-sp_achstep_oth_000402	已製作３次標籤！
-sp_achstep_oth_000403	已製作１０次標籤！
-sp_achstep_oth_000501	已確認公告１次！
-sp_achstep_oth_000502	已確認公告１０次！
-sp_achstep_oth_000503	已確認公告３０次！
+sp_achstep_oth_000101	透過神秘禮物接收１次禮物。
+sp_achstep_oth_000102	透過神秘禮物接收３次禮物。
+sp_achstep_oth_000103	透過神秘禮物接收５次禮物。
+sp_achstep_oth_000201	收集１０種貼紙。
+sp_achstep_oth_000202	收集５０種貼紙。
+sp_achstep_oth_000203	收集１００種貼紙。
+sp_achstep_oth_000301	使用Pokémon HOME１０天。
+sp_achstep_oth_000302	使用Pokémon HOME３０天。
+sp_achstep_oth_000303	使用Pokémon HOME６０天。
+sp_achstep_oth_000401	製作１次標籤。
+sp_achstep_oth_000402	製作３次標籤。
+sp_achstep_oth_000403	製作１０次標籤。
+sp_achstep_oth_000501	確認公告１次。
+sp_achstep_oth_000502	確認公告１０次。
+sp_achstep_oth_000503	確認公告３０次。
 sp_achstep_oth_s_0001	已造訪Pokémon Center Sapporo！
 sp_achstep_oth_s_0002	已造訪Pokémon Center Tohoku！
 sp_achstep_oth_s_0003	已造訪Pokémon Center TOKYO DX！
@@ -1554,18 +1554,18 @@ sp_achstep_oth_s_0041	已從Pokémon HOME領出了巴大蝶！
 sp_achstep_oth_s_0042	已從寶可夢虛擬銀行轉移了寶可夢！
 sp_achstep_oth_s_0043	Pokémon HOME點數 已累積了１００P！
 sp_achstep_oth_s_0044	已使用語音辨識！
-sp_achstep_trd_000101	已透過GTS交換了５次！
-sp_achstep_trd_000102	已透過GTS交換了２５次！
-sp_achstep_trd_000103	已透過GTS交換了５０次！
-sp_achstep_trd_000201	已透過群組交換進行了５次交換！
-sp_achstep_trd_000202	已透過群組交換進行了２５次交換！
-sp_achstep_trd_000203	已透過群組交換進行了５０次交換！
-sp_achstep_trd_000301	已舉辦了１次群組交換！
-sp_achstep_trd_000302	已舉辦了５次群組交換！
-sp_achstep_trd_000303	已舉辦了２０次群組交換！
-sp_achstep_trd_000401	已透過奇蹟盒子交換了５次！
-sp_achstep_trd_000402	已透過奇蹟盒子交換了２５次！
-sp_achstep_trd_000403	已透過奇蹟盒子交換了５０次！
+sp_achstep_trd_000101	透過GTS進行５次交換。
+sp_achstep_trd_000102	透過GTS進行２５次交換。
+sp_achstep_trd_000103	透過GTS進行５０次交換。
+sp_achstep_trd_000201	透過群組交換進行５次交換。
+sp_achstep_trd_000202	透過群組交換進行２５次交換。
+sp_achstep_trd_000203	透過群組交換進行５０次交換。
+sp_achstep_trd_000301	舉辦１次群組交換。
+sp_achstep_trd_000302	舉辦５次群組交換。
+sp_achstep_trd_000303	舉辦２０次群組交換。
+sp_achstep_trd_000401	透過奇蹟盒子進行５次交換。
+sp_achstep_trd_000402	透過奇蹟盒子進行２５次交換。
+sp_achstep_trd_000403	透過奇蹟盒子進行５０次交換。
 sp_achstep_trd_s_0001	已在２０人的群組內進行了交換！
 sp_achstep_trd_s_0002	已同時寄放１０隻寶可夢到奇蹟盒子！
 sp_achstep_trd_s_0003	已交換貓鼬斬和飯匙蛇！
@@ -1711,15 +1711,15 @@ sp_ach_oth_0002	收集貼紙！
 sp_ach_oth_0003	使用Pokémon HOME！
 sp_ach_oth_0004	製作標籤！
 sp_ach_oth_0005	確認公告！
-sp_ach_box_s_0001	已從豐緣地區帶來了 木守宮、火稚雞和水躍魚！
-sp_ach_box_s_0002	已從豐緣地區帶來了 木守宮、森林蜥蜴和蜥蜴王！
-sp_ach_box_s_0003	已從豐緣地區帶來了 火稚雞、力壯雞和火焰雞！
-sp_ach_box_s_0004	已從豐緣地區帶來了 水躍魚、沼躍魚和巨沼怪！
-sp_ach_box_s_0005	已從阿羅拉地區帶來了 索爾迦雷歐、露奈雅拉和奈克洛茲瑪！
-sp_ach_box_s_0006	已從豐緣地區帶來了 固拉多和蓋歐卡！
-sp_ach_box_s_0007	已從阿羅拉地區帶來了科斯莫古、 科斯莫姆、索爾迦雷歐和露奈雅拉！
-sp_ach_box_s_0008	已從神奧地區帶來了 草苗龜、小火焰猴和波加曼！
-sp_ach_box_s_0009	已從神奧地區帶來了 帝牙盧卡、帕路奇亞和騎拉帝納！
+sp_ach_box_s_0001	已登錄豐緣地區的 木守宮、火稚雞和水躍魚！
+sp_ach_box_s_0002	已登錄豐緣地區的 木守宮、森林蜥蜴和蜥蜴王！
+sp_ach_box_s_0003	已登錄豐緣地區的 火稚雞、力壯雞和火焰雞！
+sp_ach_box_s_0004	已登錄豐緣地區的 水躍魚、沼躍魚和巨沼怪！
+sp_ach_box_s_0005	已登錄阿羅拉地區的 索爾迦雷歐、露奈雅拉和奈克洛茲瑪！
+sp_ach_box_s_0006	已登錄豐緣地區的固拉多和蓋歐卡！
+sp_ach_box_s_0007	已登錄阿羅拉地區的科斯莫古、 科斯莫姆、索爾迦雷歐和露奈雅拉！
+sp_ach_box_s_0008	已登錄神奧地區的 草苗龜、小火焰猴和波加曼！
+sp_ach_box_s_0009	已登錄神奧地區的 帝牙盧卡、帕路奇亞和騎拉帝納！
 sp_ach_box_s_0010	已寄放１０隻性格怕寂寞的寶可夢！
 sp_ach_box_s_0011	已寄放１０隻性格固執的寶可夢！
 sp_ach_box_s_0012	已寄放１０隻性格頑皮的寶可夢！
@@ -1747,47 +1747,47 @@ sp_ach_box_s_0033	已寄放１０隻性格浮躁的寶可夢！
 sp_ach_box_s_0034	已寄放１０隻性格認真的寶可夢！
 sp_ach_box_s_0035	已寄放３０隻皮卡丘！
 sp_ach_box_s_0036	已寄放３０隻百變怪！
-sp_ach_box_s_0037	已從關都地區帶來了皮卡丘！
-sp_ach_box_s_0038	已從關都地區帶來了伊布！
-sp_ach_box_s_0039	已從令人懷念的關都地區 帶來了噴火龍！
-sp_ach_box_s_0040	已從令人懷念的關都地區 帶來了妙蛙花！
-sp_ach_box_s_0041	已從令人懷念的關都地區 帶來了水箭龜！
-sp_ach_box_s_0042	已從令人懷念的關都地區 帶來了皮卡丘！
-sp_ach_box_s_0043	已從令人懷念的遙遠的土地 帶來了鳳王！
-sp_ach_box_s_0044	已從令人懷念的遙遠的土地 帶來了洛奇亞！
-sp_ach_box_s_0045	已從令人懷念的遙遠的土地 帶來了水君！
-sp_ach_box_s_0046	已從關都地區帶來了噴火龍！
-sp_ach_box_s_0047	已從關都地區帶來了妙蛙花！
-sp_ach_box_s_0048	已從城都地區帶來了鳳王！
-sp_ach_box_s_0049	已從城都地區帶來了洛奇亞！
-sp_ach_box_s_0050	已從令人懷念的豐緣地區 帶來了固拉多！
-sp_ach_box_s_0051	已從令人懷念的豐緣地區 帶來了蓋歐卡！
-sp_ach_box_s_0052	已從令人懷念的豐緣地區 帶來了烈空坐！
-sp_ach_box_s_0053	已從神奧地區帶來了帝牙盧卡！
-sp_ach_box_s_0054	已從神奧地區帶來了帕路奇亞！
-sp_ach_box_s_0055	已從神奧地區帶來了騎拉帝納！
-sp_ach_box_s_0056	已從合眾地區帶來了萊希拉姆！
-sp_ach_box_s_0057	已從合眾地區帶來了捷克羅姆！
-sp_ach_box_s_0058	已從合眾地區帶來了捷克羅姆和酋雷姆！
-sp_ach_box_s_0059	已從合眾地區帶來了萊希拉姆和酋雷姆！
-sp_ach_box_s_0060	已從卡洛斯地區帶來了哲爾尼亞斯！
-sp_ach_box_s_0061	已從卡洛斯地區帶來了伊裴爾塔爾！
-sp_ach_box_s_0062	已從豐緣地區帶來了固拉多！
-sp_ach_box_s_0063	已從豐緣地區帶來了蓋歐卡！
-sp_ach_box_s_0064	已從阿羅拉地區帶來了索爾迦雷歐！
-sp_ach_box_s_0065	已從阿羅拉地區帶來了露奈雅拉！
-sp_ach_box_s_0066	已從阿羅拉地區帶來了 索爾迦雷歐和奈克洛茲瑪！
-sp_ach_box_s_0067	已從阿羅拉地區帶來了 露奈雅拉和奈克洛茲瑪！
-sp_ach_box_s_0068	已從伽勒爾地區帶來了蒼響！
-sp_ach_box_s_0069	已從伽勒爾地區帶來了藏瑪然特！
-sp_ach_box_s_0070	已寄放異色的巨金怪！
-sp_ach_box_s_0071	已從豐緣地區帶來了烈空坐！
-sp_ach_box_s_0072	已從卡洛斯地區帶來了蒂安希！
-sp_ach_box_s_0073	已寄放認真起來的卡比獸！
-sp_ach_box_s_0074	已從合眾地區帶來了燭光靈！
-sp_ach_box_s_0075	已從合眾地區帶來了伊布！
-sp_ach_box_s_0076	已寄放美洛耶塔！
-sp_ach_box_s_0077	已寄放異色的蓋諾賽克特！
+sp_ach_box_s_0037	已登錄關都地區的皮卡丘！
+sp_ach_box_s_0038	已登錄關都地區的伊布！
+sp_ach_box_s_0039	已登錄令人懷念的 關都地區的噴火龍！
+sp_ach_box_s_0040	已登錄令人懷念的 關都地區的妙蛙花！
+sp_ach_box_s_0041	已登錄令人懷念的 關都地區的水箭龜！
+sp_ach_box_s_0042	已登錄令人懷念的 關都地區的皮卡丘！
+sp_ach_box_s_0043	已登錄令人懷念的 城都地區的鳳王！
+sp_ach_box_s_0044	已登錄令人懷念的 城都地區的洛奇亞！
+sp_ach_box_s_0045	已登錄令人懷念的 城都地區的水君！
+sp_ach_box_s_0046	已登錄關都地區的噴火龍！
+sp_ach_box_s_0047	已登錄關都地區的妙蛙花！
+sp_ach_box_s_0048	已登錄城都地區的鳳王！
+sp_ach_box_s_0049	已登錄城都地區的洛奇亞！
+sp_ach_box_s_0050	已登錄令人懷念的 豐緣地區的固拉多！
+sp_ach_box_s_0051	已登錄令人懷念的 豐緣地區的蓋歐卡！
+sp_ach_box_s_0052	已登錄令人懷念的 豐緣地區的烈空坐！
+sp_ach_box_s_0053	已登錄神奧地區的帝牙盧卡！
+sp_ach_box_s_0054	已登錄神奧地區的帕路奇亞！
+sp_ach_box_s_0055	已登錄了神奧地區的騎拉帝納！
+sp_ach_box_s_0056	已登錄合眾地區的萊希拉姆！
+sp_ach_box_s_0057	已登錄合眾地區的捷克羅姆！
+sp_ach_box_s_0058	已登錄合眾地區的捷克羅姆和酋雷姆！
+sp_ach_box_s_0059	已登錄合眾地區的萊希拉姆和酋雷姆！
+sp_ach_box_s_0060	已登錄卡洛斯地區的哲爾尼亞斯！
+sp_ach_box_s_0061	已登錄卡洛斯地區的伊裴爾塔爾！
+sp_ach_box_s_0062	已登錄豐緣地區的固拉多！
+sp_ach_box_s_0063	已登錄豐緣地區的蓋歐卡！
+sp_ach_box_s_0064	已登錄阿羅拉地區的索爾迦雷歐！
+sp_ach_box_s_0065	已登錄阿羅拉地區的露奈雅拉！
+sp_ach_box_s_0066	已登錄阿羅拉地區的 索爾迦雷歐和奈克洛茲瑪！
+sp_ach_box_s_0067	已登錄阿羅拉地區的 露奈雅拉和奈克洛茲瑪！
+sp_ach_box_s_0068	已登錄伽勒爾地區的蒼響！
+sp_ach_box_s_0069	已登錄伽勒爾地區的藏瑪然特！
+sp_ach_box_s_0070	已登錄異色的巨金怪！
+sp_ach_box_s_0071	已登錄豐緣地區的烈空坐！
+sp_ach_box_s_0072	已登錄卡洛斯地區的蒂安希！
+sp_ach_box_s_0073	已登錄認真起來的卡比獸！
+sp_ach_box_s_0074	已登錄合眾地區的燭光靈！
+sp_ach_box_s_0075	已登錄合眾地區的伊布！
+sp_ach_box_s_0076	已登錄美洛耶塔！
+sp_ach_box_s_0077	已登錄異色的蓋諾賽克特！
 sp_ach_box_0001	寄放異色的寶可夢！
 sp_ach_box_0002	寄放精靈球裡的寶可夢！
 sp_ach_box_0003	寄放超級球裡的寶可夢！
@@ -1857,7 +1857,9 @@ sp_api_500_10208	使用中的Nintendo Account 尚未與Nintendo Network ID連動
 sp_api_500_10209	由於並非使用進階方案， 因此無法進行這項操作。
 sp_api_500_10211	從你目前使用的Nintendo Account 所連動的Nintendo Network ID中， 找不到有效的『寶可夢虛擬銀行』。
 sp_api_400_10309	目前已是進階方案。
+sp_api_404_40407	找不到朋友。 請確認朋友列表。
 sp_api_500_10501	發生錯誤。 請稍後再試。
+sp_api_500_10504	找不到群組。 將結束交換。
 sp_api_500_10551	無法建立群組。 請再試一次。
 sp_api_404_10552	沒有找到群組。
 sp_api_403_10553	這個群組的參加者人數已達上限， 因此無法加入。
@@ -1869,7 +1871,7 @@ sp_api_500_10603	由於朋友人數已達上限， 無法再繼續登錄。
 sp_api_500_10604	對方的朋友人數已達上限。 無法同意朋友申請。
 sp_api_500_10607	朋友編號錯誤。 請重新輸入。
 sp_api_800_100001	請在連線穩定的 環境下再試一次。
-sp_api_400_11500	
+sp_api_400_11500	不能選擇這隻寶可夢。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_tch.msbt
@@ -2223,9 +2225,9 @@ sp_option_addsdk_00001	關於用戶資訊的使用
 sp_option_addsdk_00002	為提升服務品質 （包含各項功能的最佳化、 程式運作的穩定化及提供適合用戶的資訊等）， Pokémon HOME會使用以下資訊。  ・在裝置上應用程式的操作履歷 ・程式運行的相關錯誤 Pokémon HOME會遵照 隱私權政策來使用以上資訊。  即使你不同意Pokémon HOME使用以上資訊， 仍然可以使用本應用程式。 要同意Pokémon HOME使用以上資訊嗎？
 sp_option_addsdk_00003	即使你不同意此條款， 仍然可以使用Pokémon HOME。
 sp_option_terms2	使用條款
-sp_option_terms_5	
-sp_option_terms_6	
-sp_option_addsdk_1	
+sp_option_terms_5	同意
+sp_option_terms_6	不同意
+sp_option_addsdk_1	關於用戶資訊的使用
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt
@@ -2257,7 +2259,7 @@ sp_plan_not_Initalizing_text	消費系統正在初始化……
 sp_plan_help_button	進階方案說明
 sp_plan_help_detail_button	■關於進階方案 進階方案可使用以下功能。 ・最多可寄放6000隻寶可夢。 ・從『寶可夢虛擬銀行』轉移寶可夢過來。 　※需與Nintendo Account連動。 ・在寶可夢的詳細資訊畫面使用評定功能。 ・可同時寄放3隻寶可夢在GTS。 ・可同時寄放10隻寶可夢在奇蹟盒子。 ・可在群組交換中建立群組。
 sp_plan_help_title	關於訂閱服務
-sp_plan_help_text	■進階方案可使用的功能 ・從『寶可夢虛擬銀行』轉移寶可夢過來。 ・最多可寄放6000隻寶可夢。 ・可同時寄放10隻寶可夢在奇蹟盒子。 ・可同時寄放3隻寶可夢在GTS。 ・可舉辦群組交換。 ・可使用評定功能。  ■關於自動續訂付費 若在期間結束日的至少24小時以前未解除自動續訂，契約期間將自動更新。自動續訂後，將在契約期間結束後的24小時以內進行收費。
+sp_plan_help_text	■進階方案可使用的功能 ・從『寶可夢虛擬銀行』轉移寶可夢過來。 ・最多可寄放6000隻寶可夢。 ・可同時寄放10隻寶可夢在奇蹟盒子。 ・可同時寄放3隻寶可夢在GTS。 ・可舉辦群組交換。 ・可使用評定功能。
 sp_plan_control_link_button	管理定期購買內容
 
 ~~~~~~~~~~~~~~~
@@ -2803,7 +2805,7 @@ sp_ui_gift_02007	禮物盒
 sp_ui_gift_empty_list	沒有神秘禮物。
 sp_ui_gift_03001	序號
 sp_ui_gift_03002	請輸入序號。
-sp_ui_achieve_dialog_all_clear	已完成 [VAR]
+sp_ui_achieve_dialog_all_clear	已完成
 sp_ui_achieve_dialog_header_title	完成獎勵
 sp_ui_achieve_sort_grade	等級
 sp_ui_achieve_sort_title	按名稱排序

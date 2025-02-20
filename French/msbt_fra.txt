@@ -1367,9 +1367,9 @@ sp_achstep_box_s_0039	Enregistrer un Dracaufeu de la bonne vieille région de Ka
 sp_achstep_box_s_0040	Enregistrer un Florizarre de la bonne vieille région de Kanto
 sp_achstep_box_s_0041	Enregistrer un Tortank de la bonne vieille région de Kanto
 sp_achstep_box_s_0042	Enregistrer un Pikachu de la bonne vieille région de Kanto
-sp_achstep_box_s_0043	Enregistrer Ho-Oh, d'une contrée lointaine et familière
-sp_achstep_box_s_0044	Enregistrer Lugia, d'une contrée lointaine et familière
-sp_achstep_box_s_0045	Enregistrer Suicune, d'une contrée lointaine et familière
+sp_achstep_box_s_0043	Enregistrer Ho-Oh de la bonne vieille région de Johto.
+sp_achstep_box_s_0044	Enregistrer Lugia de la bonne vieille région de Johto.
+sp_achstep_box_s_0045	Enregistrer Suicune de la bonne vieille région de Johto.
 sp_achstep_box_s_0046	Enregistrer un Dracaufeu de la région de Kanto
 sp_achstep_box_s_0047	Enregistrer un Florizarre de la région de Kanto
 sp_achstep_box_s_0048	Enregistrer Ho-Oh, de la région de Johto
@@ -1711,15 +1711,15 @@ sp_ach_oth_0002	Collectionner des autocollants
 sp_ach_oth_0003	Utiliser Pokémon HOME
 sp_ach_oth_0004	Créer des étiquettes
 sp_ach_oth_0005	Lire les annonces
-sp_ach_box_s_0001	Enregistrer un Arcko, un Poussifeu et un Gobou de la région de Hoenn
-sp_ach_box_s_0002	Enregistrer un Arcko, un Massko et un Jungko de la région de Hoenn
-sp_ach_box_s_0003	Enregistrer un Poussifeu, un Galifeu et un Braségali de la région de Hoenn
-sp_ach_box_s_0004	Enregistrer un Gobou, un Flobio et un Laggron de la région de Hoenn
-sp_ach_box_s_0005	Enregistrer Solgaleo, Lunala et Necrozma, de la région d'Alola
-sp_ach_box_s_0006	Enregistrer Groudon et Kyogre, de la région de Hoenn
-sp_ach_box_s_0007	Enregistrer Cosmog, Cosmovum, Solgaleo et Lunala, de la région d'Alola
-sp_ach_box_s_0008	Enregistrer un Tortipouss, un Ouisticram et un Tiplouf de la région de Sinnoh
-sp_ach_box_s_0009	Enregistrer Dialga, Palkia et Giratina, de la région de Sinnoh
+sp_ach_box_s_0001	Avoir déposé un Arcko, un Poussifeu et un Gobou de la région de Hoenn
+sp_ach_box_s_0002	Avoir déposé un Arcko, un Massko et un Jungko de la région de Hoenn
+sp_ach_box_s_0003	Avoir déposé un Poussifeu, un Galifeu et un Braségali de la région de Hoenn
+sp_ach_box_s_0004	Avoir déposé un Gobou, un Flobio et un Laggron de la région de Hoenn
+sp_ach_box_s_0005	Avoir déposé Solgaleo, Lunala et Necrozma, de la région d'Alola
+sp_ach_box_s_0006	Avoir déposé Groudon et Kyogre, de la région de Hoenn
+sp_ach_box_s_0007	Avoir déposé Cosmog, Cosmovum, Solgaleo et Lunala, de la région d'Alola
+sp_ach_box_s_0008	Avoir déposé un Tortipouss, un Ouisticram et un Tiplouf de la région de Sinnoh
+sp_ach_box_s_0009	Avoir déposé Dialga, Palkia et Giratina, de la région de Sinnoh
 sp_ach_box_s_0010	Déposer 10 Pokémon Solo de nature
 sp_ach_box_s_0011	Déposer 10 Pokémon Rigides de nature
 sp_ach_box_s_0012	Déposer 10 Pokémon Mauvais de nature
@@ -1747,47 +1747,47 @@ sp_ach_box_s_0033	Déposer 10 Pokémon Bizarres de nature
 sp_ach_box_s_0034	Déposer 10 Pokémon Sérieux de nature
 sp_ach_box_s_0035	Déposer 30 Pikachu
 sp_ach_box_s_0036	Déposer 30 Métamorph
-sp_ach_box_s_0037	Enregistrer un Pikachu de la région de Kanto
-sp_ach_box_s_0038	Enregistrer un Évoli de la région de Kanto
-sp_ach_box_s_0039	Enregistrer un Dracaufeu de la bonne vieille région de Kanto
-sp_ach_box_s_0040	Enregistrer un Florizarre de la bonne vieille région de Kanto
-sp_ach_box_s_0041	Enregistrer un Tortank de la bonne vieille région de Kanto
-sp_ach_box_s_0042	Enregistrer un Pikachu de la bonne vieille région de Kanto
-sp_ach_box_s_0043	Enregistrer Ho-Oh, d'une contrée lointaine et familière
-sp_ach_box_s_0044	Enregistrer Lugia, d'une contrée lointaine et familière
-sp_ach_box_s_0045	Enregistrer Suicune, d'une contrée lointaine et familière
-sp_ach_box_s_0046	Enregistrer un Dracaufeu de la région de Kanto
-sp_ach_box_s_0047	Enregistrer un Florizarre de la région de Kanto
-sp_ach_box_s_0048	Enregistrer Ho-Oh, de la région de Johto
-sp_ach_box_s_0049	Enregistrer Lugia, de la région de Johto
-sp_ach_box_s_0050	Enregistrer Groudon, de la bonne vieille région de Hoenn
-sp_ach_box_s_0051	Enregistrer Kyogre, de la bonne vieille région de Hoenn
-sp_ach_box_s_0052	Enregistrer Rayquaza, de la bonne vieille région de Hoenn
-sp_ach_box_s_0053	Enregistrer Dialga, de la région de Sinnoh
-sp_ach_box_s_0054	Enregistrer Palkia, de la région de Sinnoh
-sp_ach_box_s_0055	Enregistrer Giratina, de la région de Sinnoh
-sp_ach_box_s_0056	Enregistrer Reshiram, de la région d'Unys
-sp_ach_box_s_0057	Enregistrer Zekrom, de la région d'Unys
-sp_ach_box_s_0058	Enregistrer Zekrom et Kyurem, de la région d'Unys
-sp_ach_box_s_0059	Enregistrer Reshiram et Kyurem, de la région d'Unys
-sp_ach_box_s_0060	Enregistrer Xerneas, de la région de Kalos
-sp_ach_box_s_0061	Enregistrer Yveltal, de la région de Kalos
-sp_ach_box_s_0062	Enregistrer Groudon, de la région de Hoenn
-sp_ach_box_s_0063	Enregistrer Kyogre, de la région de Hoenn
-sp_ach_box_s_0064	Enregistrer Solgaleo, de la région d'Alola
-sp_ach_box_s_0065	Enregistrer Lunala, de la région d'Alola
-sp_ach_box_s_0066	Enregistrer Solgaleo et Necrozma, de la région d'Alola
-sp_ach_box_s_0067	Enregistrer Lunala et Necrozma, de la région d'Alola
-sp_ach_box_s_0068	Enregistrer Zacian, de la région de Galar
-sp_ach_box_s_0069	Enregistrer Zamazenta, de la région de Galar
-sp_ach_box_s_0070	Enregistrer un Métalosse chromatique
-sp_ach_box_s_0071	Enregistrer Rayquaza, de la région de Hoenn
-sp_ach_box_s_0072	Enregistrer Diancie, de la région de Kalos
-sp_ach_box_s_0073	Enregistrer un Ronflex pouvant utiliser Gare au Ronflex
-sp_ach_box_s_0074	Enregistrer un Funécire de la région d'Unys
-sp_ach_box_s_0075	Enregistrer un Évoli de la région d'Unys
+sp_ach_box_s_0037	Avoir déposé un Pikachu de la région de Kanto
+sp_ach_box_s_0038	Avoir déposé un Évoli de la région de Kanto
+sp_ach_box_s_0039	Avoir déposé un Dracaufeu de la bonne vieille région de Kanto
+sp_ach_box_s_0040	Avoir déposé un Florizarre de la bonne vieille région de Kanto
+sp_ach_box_s_0041	Avoir déposé un Tortank de la bonne vieille région de Kanto
+sp_ach_box_s_0042	Avoir déposé un Pikachu de la bonne vieille région de Kanto
+sp_ach_box_s_0043	Avoir déposé Ho-Oh de la bonne vieille région de Johto.
+sp_ach_box_s_0044	Avoir déposé Lugia de la bonne vieille région de Johto.
+sp_ach_box_s_0045	Avoir déposé Suicune de la bonne vieille région de Johto.
+sp_ach_box_s_0046	Avoir déposé un Dracaufeu de la région de Kanto
+sp_ach_box_s_0047	Avoir déposé un Florizarre de la région de Kanto
+sp_ach_box_s_0048	Avoir déposé Ho-Oh de la région de Johto
+sp_ach_box_s_0049	Avoir déposé Lugia de la région de Johto
+sp_ach_box_s_0050	Avoir déposé Groudon de la bonne vieille région de Hoenn
+sp_ach_box_s_0051	Avoir déposé Kyogre de la bonne vieille région de Hoenn
+sp_ach_box_s_0052	Avoir déposé Rayquaza de la bonne vieille région de Hoenn
+sp_ach_box_s_0053	Avoir déposé Dialga de la région de Sinnoh
+sp_ach_box_s_0054	Avoir déposé Palkia de la région de Sinnoh
+sp_ach_box_s_0055	Avoir déposé Giratina de la région de Sinnoh
+sp_ach_box_s_0056	Avoir déposé Reshiram de la région d'Unys
+sp_ach_box_s_0057	Avoir déposé Zekrom de la région d'Unys
+sp_ach_box_s_0058	Avoir déposé Zekrom et Kyurem de la région d'Unys
+sp_ach_box_s_0059	Avoir déposé Reshiram et Kyurem de la région d'Unys
+sp_ach_box_s_0060	Avoir déposé Xerneas de la région de Kalos
+sp_ach_box_s_0061	Avoir déposé Yveltal de la région de Kalos
+sp_ach_box_s_0062	Avoir déposé Groudon de la région de Hoenn
+sp_ach_box_s_0063	Avoir déposé Kyogre de la région de Hoenn
+sp_ach_box_s_0064	Avoir déposé Solgaleo de la région d'Alola
+sp_ach_box_s_0065	Avoir déposé Lunala de la région d'Alola
+sp_ach_box_s_0066	Avoir déposé Solgaleo et Necrozma de la région d'Alola
+sp_ach_box_s_0067	Avoir déposé Lunala et Necrozma de la région d'Alola
+sp_ach_box_s_0068	Avoir déposé Zacian de la région de Galar
+sp_ach_box_s_0069	Avoir déposé Zamazenta de la région de Galar
+sp_ach_box_s_0070	Avoir déposé un Métalosse chromatique
+sp_ach_box_s_0071	Avoir déposé Rayquaza de la région de Hoenn
+sp_ach_box_s_0072	Avoir déposé Diancie  de la région de Kalos
+sp_ach_box_s_0073	Avoir déposé un Ronflex pouvant utiliser Gare au Ronflex
+sp_ach_box_s_0074	Avoir déposé un Funécire de la région d'Unys
+sp_ach_box_s_0075	Avoir déposé un Évoli de la région d'Unys
 sp_ach_box_s_0076	Enregistrer Meloetta
-sp_ach_box_s_0077	Enregistrer un Genesect chromatique
+sp_ach_box_s_0077	Avoir déposé un Genesect chromatique
 sp_ach_box_0001	Déposer des Pokémon chromatiques
 sp_ach_box_0002	Déposer des Pokémon contenus dans une Poké Ball
 sp_ach_box_0003	Déposer des Pokémon contenus dans une Super Ball
@@ -1857,7 +1857,9 @@ sp_api_500_10208	Le compte Nintendo que vous utilisez n'est associé à aucun id
 sp_api_500_10209	Cette opération ne peut être effectuée qu'avec un compte premium.
 sp_api_500_10211	Impossible de trouver des données valides de Banque Pokémon correspondant à l'identifiant Nintendo Network associé au compte Nintendo en cours d'utilisation.
 sp_api_400_10309	Vous avez déjà un compte premium.
+sp_api_404_40407	Aucun ami n'a été trouvé. Veuillez vérifier votre liste d'amis.
 sp_api_500_10501	Une erreur est survenue. Veuillez réessayer ultérieurement.
+sp_api_500_10504	Aucun groupe n'a été trouvé. Fin de l'échange.
 sp_api_500_10551	La création du groupe a échoué. Veuillez réessayer.
 sp_api_404_10552	Aucun groupe n'a été trouvé.
 sp_api_403_10553	Impossible de rejoindre ce groupe, car il est déjà plein.
@@ -1869,7 +1871,7 @@ sp_api_500_10603	Vous avez atteint le nombre maximal d'amis. Vous ne pouvez pas 
 sp_api_500_10604	Ce partenaire a atteint le nombre maximal d'amis. Vous ne pouvez pas accepter son invitation.
 sp_api_500_10607	Ce code ami est incorrect. Veuillez saisir un code valide.
 sp_api_800_100001	Veuillez réessayer dans un endroit avec une meilleure connexion.
-sp_api_400_11500	
+sp_api_400_11500	Vous ne pouvez pas envoyer ce Pokémon.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_fra.msbt
@@ -2223,9 +2225,9 @@ sp_option_addsdk_00001	Utilisation de vos informations
 sp_option_addsdk_00002	Les informations suivantes seront récupérées afin de continuer à améliorer les services de Pokémon HOME (c'est-à-dire optimiser la performance et la stabilité de l'application et fournir des informations pertinentes) :  - Votre historique d'utilisation de l'application - Rapports d'erreur de performance  Ces informations seront utilisées conformément aux clauses indiquées dans l'avis de confidentialité.  Vous pouvez utiliser l'intégralité de cette application, même si vous choisissez de ne pas partager ces informations.  Acceptez-vous de partager les informations concernant votre utilisation de l'application ?
 sp_option_addsdk_00003	Vous pouvez utiliser l'intégralité de cette application, même si vous choisissez de ne pas partager les informations concernant votre utilisation de l'application.
 sp_option_terms2	Conditions d'utilisation
-sp_option_terms_5	
-sp_option_terms_6	
-sp_option_addsdk_1	
+sp_option_terms_5	J'accepte
+sp_option_terms_6	Je refuse
+sp_option_addsdk_1	Utilisation de vos informations
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_fra.msbt
@@ -2765,7 +2767,7 @@ sp_ui_seal_00004	Changements sauvegardés.
 sp_ui_seal_00005	Enregistré sur l'écran de profil
 sp_ui_seal_00006	Cet autocollant n'a pas été utilisé.
 sp_ui_seal_00007	Aucun changement.
-sp_ui_seal_00008	Fond d'écran
+sp_ui_seal_00008	Page perso
 sp_ui_seal_00009	Voulez-vous utiliser ce fond d'écran ?
 sp_ui_seal_00010	Retirer des autocollants
 sp_ui_seal_00011	Voulez-vous ranger cet autocollant ?

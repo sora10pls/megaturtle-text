@@ -1367,9 +1367,9 @@ sp_achstep_box_s_0039	Register Charizard from the good ol' Kanto region!
 sp_achstep_box_s_0040	Register Venusaur from the good ol' Kanto region!
 sp_achstep_box_s_0041	Register Blastoise from the good ol' Kanto region!
 sp_achstep_box_s_0042	Register Pikachu from the good ol' Kanto region!
-sp_achstep_box_s_0043	Register Ho-Oh from a nostalgic and distant land!
-sp_achstep_box_s_0044	Register Lugia from a nostalgic and distant land!
-sp_achstep_box_s_0045	Register Suicune from a nostalgic and distant land!
+sp_achstep_box_s_0043	Register Ho-Oh from the good ol' Johto region!
+sp_achstep_box_s_0044	Register Lugia from the good ol' Johto region!
+sp_achstep_box_s_0045	Register Suicune from the good ol' Johto region!
 sp_achstep_box_s_0046	Register Charizard from the Kanto region!
 sp_achstep_box_s_0047	Register Venusaur from the Kanto region!
 sp_achstep_box_s_0048	Register Ho-Oh from the Johto region!
@@ -1753,9 +1753,9 @@ sp_ach_box_s_0039	Register Charizard from the good ol' Kanto region!
 sp_ach_box_s_0040	Register Venusaur from the good ol' Kanto region!
 sp_ach_box_s_0041	Register Blastoise from the good ol' Kanto region!
 sp_ach_box_s_0042	Register Pikachu from the good ol' Kanto region!
-sp_ach_box_s_0043	Register Ho-Oh from a nostalgic and distant land!
-sp_ach_box_s_0044	Register Lugia from a nostalgic and distant land!
-sp_ach_box_s_0045	Register Suicune from a nostalgic and distant land!
+sp_ach_box_s_0043	Register Ho-Oh from the good ol' Johto region!
+sp_ach_box_s_0044	Register Lugia from the good ol' Johto region!
+sp_ach_box_s_0045	Register Suicune from the good ol' Johto region!
 sp_ach_box_s_0046	Register Charizard from the Kanto region!
 sp_ach_box_s_0047	Register Venusaur from the Kanto region!
 sp_ach_box_s_0048	Register Ho-Oh from the Johto region!
@@ -1857,7 +1857,9 @@ sp_api_500_10208	The Nintendo Account you're using isn't linked to any Nintendo 
 sp_api_500_10209	That action is only available on the Premium Plan.
 sp_api_500_10211	No valid Pokémon Bank found with the Nintendo Network ID linked to the Nintendo Account in use.
 sp_api_400_10309	You're already on the Premium Plan.
+sp_api_404_40407	Unable to find the Friend. Please check your Friend List.
 sp_api_500_10501	An error has occurred. Please wait a while and try again.
+sp_api_500_10504	Unable to find the trade room. Ending the trade...
 sp_api_500_10551	Unable to create a trade room. Please try again.
 sp_api_404_10552	No trade room found.
 sp_api_403_10553	You can't join this trade room because it's full.
@@ -1865,11 +1867,11 @@ sp_api_403_10554	You can't join a trade room that's in the middle of a trade.
 sp_api_400_10555	This trade room has disbanded.
 sp_api_400_10559	The trade couldn't begin since there aren't any participants.
 sp_api_500_10562	Unable to join the trade room. Please try again.
-sp_api_500_10603	You've reached the maximum number of friends. You can't add any more.
-sp_api_500_10604	The other person has reached the max number of friends. The Friend Request couldn't be completed.
-sp_api_500_10607	The friend code is incorrect. Please enter the code again.
+sp_api_500_10603	You've reached the maximum number of Friends. You can't add any more.
+sp_api_500_10604	The other person has reached the max number of Friends. The Friend Request couldn't be completed.
+sp_api_500_10607	The Friend Code is incorrect. Please enter the code again.
 sp_api_800_100001	Please try again in an environment with a better network connection.
-sp_api_400_11500	
+sp_api_400_11500	You can't trade this Pokémon.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_usa.msbt
@@ -2054,7 +2056,7 @@ Text File : sp_monbo_usa.msbt
 sp_monbo_home_0001_001	Hello there! My name is Poké Boy! It's my job to help you figure out your way around Pokémon HOME!
 sp_monbo_home_0001_002	Whenever you head to a new screen for the first time, your trusty pal Poké Boy will tell you all about it! What do you say we learn about this screen?
 sp_monbo_home_0002_001	Well, golly! This is your room! You can view your favorite Pokémon here!
-sp_monbo_home_0002_002	What's more, you can even check your profile and how many Pokémon HOME Points you've got! Neat-o!
+sp_monbo_home_0002_002	What's more, you can even check your Profile and how many Pokémon HOME Points you've got! Neat-o!
 sp_monbo_home_0002_003	By tapping the displayed icons, you can jump to a whole bunch of different screens! Well, hey, why not try it out?
 sp_monbo_binder_0001_001	Catch Pokémon and complete Challenges to get some real nifty stickers!
 sp_monbo_binder_0001_002	You can place your stickers here and show them off! Be proud of your completed Challenges and your stickers!
@@ -2223,9 +2225,9 @@ sp_option_addsdk_00001	Usage of Your Information
 sp_option_addsdk_00002	The following information will be collected in an effort to continually improve Pokémon HOME services, specifically to optimize the mechanics and performance stability and to provide you with relevant content. • History of how you’ve used the application with your device • Performance errors and data analytics  This information will be used in accordance with the guidelines explained in the Privacy Notice.  You can use this application in full even if you elect not to share this information.  Will you agree to share your usage information?
 sp_option_addsdk_00003	You can use this application in full even if you elect to not share your usage information.
 sp_option_terms2	Terms of Use
-sp_option_terms_5	
-sp_option_terms_6	
-sp_option_addsdk_1	
+sp_option_terms_5	I agree
+sp_option_terms_6	I don't agree
+sp_option_addsdk_1	Usage of Your Information
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2405,9 +2407,9 @@ sp_trade_group_00011	Join a random trade room
 sp_trade_group_00012	to create a trade room
 sp_trade_group_00013	You have left the trade room.
 sp_trade_group_00014	[VAR_PLAYER]'s trade room
-sp_trade_group_00015	Trade Room ID
+sp_trade_group_00015	Trade room ID
 sp_trade_group_00016	Share Code
-sp_trade_group_00017	Trade Room's code pattern
+sp_trade_group_00017	Trade room's code pattern
 sp_trade_group_00018	Leave trade room
 sp_trade_group_00019	Select Pokémon
 sp_trade_group_00020	What do you want to do with [VAR_PLAYER]?
@@ -2762,7 +2764,7 @@ sp_ui_seal_00001	Sticker list
 sp_ui_seal_00002	Save confirmation
 sp_ui_seal_00003	Would you like to save your changes?
 sp_ui_seal_00004	Changes saved
-sp_ui_seal_00005	Registered to profile screen
+sp_ui_seal_00005	Registered to Profile screen
 sp_ui_seal_00006	This sticker hasn't been used.
 sp_ui_seal_00007	No changes have been made.
 sp_ui_seal_00008	Binder settings

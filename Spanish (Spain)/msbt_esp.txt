@@ -1325,15 +1325,15 @@ sp_achstep_box_002703	Deposita 30 Pokémon metidos en Nivel Balls.
 sp_achstep_box_002801	Deposita 30 Pokémon.
 sp_achstep_box_002802	Deposita 100 Pokémon.
 sp_achstep_box_002803	Deposita 300 Pokémon.
-sp_achstep_box_s_0001	Registra un Treecko, un Torchic y un Mudkip procedentes de Hoenn.
-sp_achstep_box_s_0002	Registra un Treecko, un Grovyle y un Sceptile procedentes de Hoenn.
-sp_achstep_box_s_0003	Registra un Torchic, un Combusken y un Blaziken procedentes de Hoenn.
-sp_achstep_box_s_0004	Registra un Mudkip, un Marshtomp y un Swampert procedentes de Hoenn.
-sp_achstep_box_s_0005	Registra un Solgaleo, un Lunala y un Necrozma procedentes de Alola.
-sp_achstep_box_s_0006	Registra un Groudon y un Kyogre procedentes de Hoenn.
-sp_achstep_box_s_0007	Registra un Cosmog, un Cosmoem, un Solgaleo y un Lunala procedentes de Alola.
-sp_achstep_box_s_0008	Registra un Turtwig, un Chimchar y un Piplup procedentes de Sinnoh.
-sp_achstep_box_s_0009	Registra un Dialga, un Palkia y un Giratina procedentes de Sinnoh.
+sp_achstep_box_s_0001	Trae a Treecko, Torchic y Mudkip desde Hoenn.
+sp_achstep_box_s_0002	Trae a Treecko, Grovyle y Sceptile desde Hoenn.
+sp_achstep_box_s_0003	Trae a Torchic, Combusken y Blaziken desde Hoenn.
+sp_achstep_box_s_0004	Trae a Mudkip, Marshtomp y Swampert desde Hoenn.
+sp_achstep_box_s_0005	Trae a Solgaleo, Lunala y Necrozma desde Alola.
+sp_achstep_box_s_0006	Trae a Groudon y Kyogre desde Hoenn.
+sp_achstep_box_s_0007	Trae a Cosmog, Cosmoem, Solgaleo y Lunala desde Alola.
+sp_achstep_box_s_0008	Trae a Turtwig, Chimchar y Piplup desde Sinnoh.
+sp_achstep_box_s_0009	Trae a Dialga, Palkia y Giratina desde Sinnoh.
 sp_achstep_box_s_0010	Deposita 10 Pokémon de naturaleza huraña.
 sp_achstep_box_s_0011	Deposita 10 Pokémon de naturaleza firme.
 sp_achstep_box_s_0012	Deposita 10 Pokémon de naturaleza pícara.
@@ -1361,47 +1361,47 @@ sp_achstep_box_s_0033	Deposita 10 Pokémon de naturaleza rara.
 sp_achstep_box_s_0034	Deposita 10 Pokémon de naturaleza seria.
 sp_achstep_box_s_0035	Deposita 30 Pikachu.
 sp_achstep_box_s_0036	Deposita 30 Ditto.
-sp_achstep_box_s_0037	Registra un Pikachu procedente de Kanto.
-sp_achstep_box_s_0038	Registra un Eevee procedente de Kanto.
-sp_achstep_box_s_0039	Registra un Charizard procedente de la nostálgica región de Kanto.
-sp_achstep_box_s_0040	Registra un Venusaur procedente de la nostálgica región de Kanto.
-sp_achstep_box_s_0041	Registra un Blastoise procedente de la nostálgica región de Kanto.
-sp_achstep_box_s_0042	Registra un Pikachu procedente de la nostálgica región de Kanto.
-sp_achstep_box_s_0043	Registra un Ho-Oh procedente de una nostálgica y lejana región.
-sp_achstep_box_s_0044	Registra un Lugia procedente de una nostálgica y lejana región.
-sp_achstep_box_s_0045	Registra un Suicune procedente de una nostálgica y lejana región.
-sp_achstep_box_s_0046	Registra un Charizard procedente de Kanto.
-sp_achstep_box_s_0047	Registra un Venusaur procedente de Kanto.
-sp_achstep_box_s_0048	Registra un Ho-Oh procedente de Johto.
-sp_achstep_box_s_0049	Registra un Lugia procedente de Johto.
-sp_achstep_box_s_0050	Registra un Groudon procedente de la nostálgica región de Hoenn.
-sp_achstep_box_s_0051	Registra un Kyogre procedente de la nostálgica región de Hoenn.
-sp_achstep_box_s_0052	Registra un Rayquaza procedente de la nostálgica región de Hoenn.
-sp_achstep_box_s_0053	Registra un Dialga procedente de Sinnoh.
-sp_achstep_box_s_0054	Registra un Palkia procedente de Sinnoh.
-sp_achstep_box_s_0055	Registra un Giratina procedente de Sinnoh.
-sp_achstep_box_s_0056	Registra un Reshiram procedente de Teselia.
-sp_achstep_box_s_0057	Registra un Zekrom procedente de Teselia.
-sp_achstep_box_s_0058	Registra un Zekrom y un Kyurem procedentes de Teselia.
-sp_achstep_box_s_0059	Registra un Reshiram y un Kyurem procedentes de Teselia.
-sp_achstep_box_s_0060	Registra un Xerneas procedente de Kalos.
-sp_achstep_box_s_0061	Registra un Yveltal procedente de Kalos.
-sp_achstep_box_s_0062	Registra un Groudon procedente de Hoenn.
-sp_achstep_box_s_0063	Registra un Kyogre procedente de Hoenn.
-sp_achstep_box_s_0064	Registra un Solgaleo procedente de Alola.
-sp_achstep_box_s_0065	Registra un Lunala procedente de Alola.
-sp_achstep_box_s_0066	Registra un Solgaleo y un Necrozma procedentes de Alola.
-sp_achstep_box_s_0067	Registra un Lunala y un Necrozma procedentes de Alola.
-sp_achstep_box_s_0068	Registra un Zacian procedente de Galar.
-sp_achstep_box_s_0069	Registra un Zamazenta procedente de Galar.
-sp_achstep_box_s_0070	Registra un Metagross variocolor.
-sp_achstep_box_s_0071	Registra un Rayquaza procedente de Hoenn.
-sp_achstep_box_s_0072	Registra un Diancie procedente de Kalos.
-sp_achstep_box_s_0073	Registra un Snorlax con mucho arrojo.
-sp_achstep_box_s_0074	Registra un Litwick procedente de Teselia.
-sp_achstep_box_s_0075	Registra un Eevee procedente de Teselia.
-sp_achstep_box_s_0076	Registra un Meloetta.
-sp_achstep_box_s_0077	Registra un Genesect variocolor.
+sp_achstep_box_s_0037	Trae a Pikachu desde Kanto.
+sp_achstep_box_s_0038	Trae a Eevee desde Kanto.
+sp_achstep_box_s_0039	Trae a Charizard desde la nostálgica región de Kanto.
+sp_achstep_box_s_0040	Trae a Venusaur desde la nostálgica región de Kanto.
+sp_achstep_box_s_0041	Trae a Blastoise desde la nostálgica región de Kanto.
+sp_achstep_box_s_0042	Trae a Pikachu desde la nostálgica región de Kanto.
+sp_achstep_box_s_0043	Trae a Ho-Oh desde la nostálgica región de Johto.
+sp_achstep_box_s_0044	Trae a Lugia desde la nostálgica región de Johto.
+sp_achstep_box_s_0045	Trae a Suicune desde la nostálgica región de Johto.
+sp_achstep_box_s_0046	Trae a Charizard desde Kanto.
+sp_achstep_box_s_0047	Trae a Venusaur desde Kanto.
+sp_achstep_box_s_0048	Trae a Ho-Oh desde Johto.
+sp_achstep_box_s_0049	Trae a Lugia desde Johto.
+sp_achstep_box_s_0050	Trae a Groudon desde la nostálgica región de Hoenn.
+sp_achstep_box_s_0051	Trae a Kyogre desde la nostálgica región de Hoenn.
+sp_achstep_box_s_0052	Trae a Rayquaza desde la nostálgica región de Hoenn.
+sp_achstep_box_s_0053	Trae a Dialga desde Sinnoh.
+sp_achstep_box_s_0054	Trae a Palkia desde Sinnoh.
+sp_achstep_box_s_0055	Trae a Giratina desde Sinnoh.
+sp_achstep_box_s_0056	Trae a Reshiram desde Teselia.
+sp_achstep_box_s_0057	Trae a Zekrom desde Teselia.
+sp_achstep_box_s_0058	Trae a Zekrom y Kyurem desde Teselia.
+sp_achstep_box_s_0059	Trae a Reshiram y Kyurem desde Teselia.
+sp_achstep_box_s_0060	Trae a Xerneas desde Kalos
+sp_achstep_box_s_0061	Trae a Yveltal desde Kalos.
+sp_achstep_box_s_0062	Trae a Groudon desde Hoenn.
+sp_achstep_box_s_0063	Trae a Kyogre desde Hoenn.
+sp_achstep_box_s_0064	Trae a Solgaleo desde Alola.
+sp_achstep_box_s_0065	Trae a Lunala desde Alola.
+sp_achstep_box_s_0066	Trae a Solgaleo y Necrozma desde Alola.
+sp_achstep_box_s_0067	Trae a Lunala y Necrozma desde Alola.
+sp_achstep_box_s_0068	Trae a Zacian desde Galar.
+sp_achstep_box_s_0069	Trae a Zamazenta desde Galar.
+sp_achstep_box_s_0070	Trae a un Metagross variocolor.
+sp_achstep_box_s_0071	Trae a Rayquaza desde Hoenn.
+sp_achstep_box_s_0072	Trae a Diancie desde Kalos.
+sp_achstep_box_s_0073	Trae un Snorlax con mucho arrojo.
+sp_achstep_box_s_0074	Trae a Litwick desde Teselia.
+sp_achstep_box_s_0075	Trae a Eevee desde Teselia.
+sp_achstep_box_s_0076	Registra a Meloetta.
+sp_achstep_box_s_0077	Trae un Genesect variocolor.
 sp_achstep_lib_000101	Registra 5 Pokémon de tipo Siniestro.
 sp_achstep_lib_000102	Registra 20 Pokémon de tipo Siniestro.
 sp_achstep_lib_000103	Registra 50 Pokémon de tipo Siniestro.
@@ -1483,18 +1483,18 @@ sp_achstep_lib_s_0009	Registra los 3 Pokémon que se pueden elegir como primer c
 sp_achstep_lib_s_0010	Registra los 3 Pokémon que se pueden elegir como primer compañero al iniciar la aventura en Galar.
 sp_achstep_lib_s_0011	Registra 5 Ultraentes.
 sp_achstep_lib_s_0012	Registra 100 especies de Pokémon que habiten en Alola.
-sp_achstep_lib_s_0013	Registra un Deerling (Forma Primavera) y un Sawsbuck (Forma Primavera).
-sp_achstep_lib_s_0014	Registra un Deerling (Forma Verano) y un Sawsbuck (Forma Verano).
-sp_achstep_lib_s_0015	Registra un Deerling (Forma Otoño) y un Sawsbuck (Forma Otoño).
-sp_achstep_lib_s_0016	Registra un Deerling (Forma Invierno) y un Sawsbuck (Forma Invierno).
+sp_achstep_lib_s_0013	Registra a Deerling (Forma Primavera) y Sawsbuck (Forma Primavera).
+sp_achstep_lib_s_0014	Registra a Deerling (Forma Verano) y Sawsbuck (Forma Verano).
+sp_achstep_lib_s_0015	Registra a Deerling (Forma Otoño) y Sawsbuck (Forma Otoño).
+sp_achstep_lib_s_0016	Registra a Deerling (Forma Invierno) y Sawsbuck (Forma Invierno).
 sp_achstep_lib_s_0017	Registra 18 motivos de Vivillon.
 sp_achstep_lib_s_0018	Registra las 6 formas de Rotom.
 sp_achstep_lib_s_0019	Registra las 28 formas de Unown.
-sp_achstep_lib_s_0020	Registra un Eevee y sus 8 evoluciones.
+sp_achstep_lib_s_0020	Registra a Eevee y sus 8 evoluciones.
 sp_achstep_lib_s_0021	Registra 20 especies de Pokémon que se regeneren a partir de fósiles.
 sp_achstep_lib_s_0022	Registra las 7 formas de Minior.
 sp_achstep_lib_s_0023	Registra un Pikachu con gorra.
-sp_achstep_lib_s_0024	Registra un Shaymin.
+sp_achstep_lib_s_0024	Registra a Shaymin.
 sp_achstep_oth_000101	Recibe 1 regalo misterioso.
 sp_achstep_oth_000102	Recibe 3 regalos misteriosos.
 sp_achstep_oth_000103	Recibe 5 regalos misteriosos.
@@ -1627,18 +1627,18 @@ sp_ach_lib_0020	¡Registra habilidades!
 sp_ach_lib_0021	¡Registra ataques especiales!
 sp_ach_lib_0022	¡Registra ataques físicos!
 sp_ach_lib_0023	¡Registra movimientos de estado!
-sp_ach_lib_s_0013	¡Registra un Deerling (Forma Primavera) y un Sawsbuck (Forma Primavera)!
-sp_ach_lib_s_0014	¡Registra un Deerling (Forma Verano) y un Sawsbuck (Forma Verano)!
-sp_ach_lib_s_0015	¡Registra un Deerling (Forma Otoño) y un Sawsbuck (Forma Otoño)!
-sp_ach_lib_s_0016	¡Registra un Deerling (Forma Invierno) y un Sawsbuck (Forma Invierno)!
+sp_ach_lib_s_0013	¡Registra a Deerling (Forma Primavera) y Sawsbuck (Forma Primavera)!
+sp_ach_lib_s_0014	¡Registra a Deerling (Forma Verano) y Sawsbuck (Forma Verano)!
+sp_ach_lib_s_0015	¡Registra a Deerling (Forma Otoño) y Sawsbuck (Forma Otoño)!
+sp_ach_lib_s_0016	¡Registra a Deerling (Forma Invierno) y Sawsbuck (Forma Invierno)!
 sp_ach_lib_s_0017	¡Registra 18 motivos de Vivillon!
 sp_ach_lib_s_0018	¡Registra las 6 formas de Rotom!
 sp_ach_lib_s_0019	¡Registra las 28 formas de Unown!
-sp_ach_lib_s_0020	¡Registra un Eevee y sus 8 evoluciones!
+sp_ach_lib_s_0020	¡Registra a Eevee y sus 8 evoluciones!
 sp_ach_lib_s_0021	¡Registra 20 especies de Pokémon que se regeneren a partir de fósiles!
 sp_ach_lib_s_0022	¡Registra las 7 formas de Minior!
 sp_ach_lib_s_0023	¡Registra un Pikachu con gorra!
-sp_ach_lib_s_0024	¡Registra un Shaymin!
+sp_ach_lib_s_0024	¡Registra a Shaymin!
 sp_ach_trd_s_0002	¡Deposita 10 Pokémon a la vez en la caja prodigiosa!
 sp_ach_trd_s_0003	¡Intercambia a Zangoose y Seviper!
 sp_ach_trd_s_0004	¡Intercambia a Solrock y Lunatone!
@@ -1711,15 +1711,15 @@ sp_ach_oth_0002	¡Consigue pegatinas!
 sp_ach_oth_0003	¡Usa Pokémon HOME!
 sp_ach_oth_0004	¡Crea etiquetas!
 sp_ach_oth_0005	¡Consulta los avisos!
-sp_ach_box_s_0001	¡Registra un Treecko, un Torchic y un Mudkip procedentes de Hoenn!
-sp_ach_box_s_0002	¡Registra un Treecko, un Grovyle y un Sceptile procedentes de Hoenn!
-sp_ach_box_s_0003	¡Registra un Torchic, un Combusken y un Blaziken procedentes de Hoenn!
-sp_ach_box_s_0004	¡Registra un Mudkip, un Marshtomp y un Swampert procedentes de Hoenn!
-sp_ach_box_s_0005	¡Registra un Solgaleo, un Lunala y un Necrozma procedentes de Alola!
-sp_ach_box_s_0006	¡Registra un Groudon y un Kyogre procedentes de Hoenn!
-sp_ach_box_s_0007	¡Registra un Cosmog, un Cosmoem, un Solgaleo y un Lunala procedentes de Alola!
-sp_ach_box_s_0008	¡Registra un Turtwig, un Chimchar y un Piplup procedentes de Sinnoh!
-sp_ach_box_s_0009	¡Registra un Dialga, un Palkia y un Giratina procedentes de Sinnoh!
+sp_ach_box_s_0001	¡Trae a Treecko, Torchic y Mudkip desde Hoenn!
+sp_ach_box_s_0002	¡Trae a Treecko, Grovyle y Sceptile desde Hoenn!
+sp_ach_box_s_0003	¡Trae a Torchic, Combusken y Blaziken desde Hoenn!
+sp_ach_box_s_0004	¡Trae a Mudkip, Marshtomp y Swampert desde Hoenn!
+sp_ach_box_s_0005	¡Trae a Solgaleo, Lunala y Necrozma desde Alola!
+sp_ach_box_s_0006	¡Trae a Groudon y Kyogre desde Hoenn!
+sp_ach_box_s_0007	¡Trae a Cosmog, Cosmoem, Solgaleo y Lunala desde Alola!
+sp_ach_box_s_0008	¡Trae a Turtwig, Chimchar y Piplup desde Sinnoh!
+sp_ach_box_s_0009	¡Trae a Dialga, Palkia y Giratina desde Sinnoh!
 sp_ach_box_s_0010	¡Deposita 10 Pokémon de naturaleza huraña!
 sp_ach_box_s_0011	¡Deposita 10 Pokémon de naturaleza firme!
 sp_ach_box_s_0012	¡Deposita 10 Pokémon de naturaleza pícara!
@@ -1747,47 +1747,47 @@ sp_ach_box_s_0033	¡Deposita 10 Pokémon de naturaleza rara!
 sp_ach_box_s_0034	¡Deposita 10 Pokémon de naturaleza seria!
 sp_ach_box_s_0035	¡Deposita 30 Pikachu!
 sp_ach_box_s_0036	¡Deposita 30 Ditto!
-sp_ach_box_s_0037	¡Registra un Pikachu procedente de Kanto!
-sp_ach_box_s_0038	¡Registra un Eevee procedente de Kanto!
-sp_ach_box_s_0039	¡Registra un Charizard procedente de la nostálgica región de Kanto!
-sp_ach_box_s_0040	¡Registra un Venusaur procedente de la nostálgica región de Kanto!
-sp_ach_box_s_0041	¡Registra un Blastoise procedente de la nostálgica región de Kanto!
-sp_ach_box_s_0042	¡Registra un Pikachu procedente de la nostálgica región de Kanto!
-sp_ach_box_s_0043	¡Registra un Ho-Oh procedente de una nostálgica y lejana región!
-sp_ach_box_s_0044	¡Registra un Lugia procedente de una nostálgica y lejana región!
-sp_ach_box_s_0045	¡Registra un Suicune procedente de una nostálgica y lejana región!
-sp_ach_box_s_0046	¡Registra un Charizard procedente de Kanto!
-sp_ach_box_s_0047	¡Registra un Venusaur procedente de Kanto!
-sp_ach_box_s_0048	¡Registra un Ho-Oh procedente de Johto!
-sp_ach_box_s_0049	¡Registra un Lugia procedente de Johto!
-sp_ach_box_s_0050	¡Registra un Groudon procedente de la nostálgica región de Hoenn!
-sp_ach_box_s_0051	¡Registra un Kyogre procedente de la nostálgica región de Hoenn!
-sp_ach_box_s_0052	¡Registra un Rayquaza procedente de la nostálgica región de Hoenn!
-sp_ach_box_s_0053	¡Registra un Dialga procedente de Sinnoh!
-sp_ach_box_s_0054	¡Registra un Palkia procedente de Sinnoh!
-sp_ach_box_s_0055	¡Registra un Giratina procedente de Sinnoh!
-sp_ach_box_s_0056	¡Registra un Reshiram procedente de Teselia!
-sp_ach_box_s_0057	¡Registra un Zekrom procedente de Teselia!
-sp_ach_box_s_0058	¡Registra un Zekrom y un Kyurem procedentes de Teselia!
-sp_ach_box_s_0059	¡Registra un Reshiram y un Kyurem procedentes de Teselia!
-sp_ach_box_s_0060	¡Registra un Xerneas procedente de Kalos!
-sp_ach_box_s_0061	¡Registra un Yveltal procedente de Kalos!
-sp_ach_box_s_0062	¡Registra un Groudon procedente de Hoenn!
-sp_ach_box_s_0063	¡Registra un Kyogre procedente de Hoenn!
-sp_ach_box_s_0064	¡Registra un Solgaleo procedente de Alola!
-sp_ach_box_s_0065	¡Registra un Lunala procedente de Alola!
-sp_ach_box_s_0066	¡Registra un Solgaleo y un Necrozma procedentes de Alola!
-sp_ach_box_s_0067	¡Registra un Lunala y un Necrozma procedentes de Alola!
-sp_ach_box_s_0068	¡Registra un Zacian procedente de Galar!
-sp_ach_box_s_0069	¡Registra un Zamazenta procedente de Galar!
-sp_ach_box_s_0070	¡Registra un Metagross variocolor!
-sp_ach_box_s_0071	¡Registra un Rayquaza procedente de Hoenn!
-sp_ach_box_s_0072	¡Registra un Diancie procedente de Kalos!
-sp_ach_box_s_0073	¡Registra un Snorlax con mucho arrojo!
-sp_ach_box_s_0074	¡Registra un Litwick procedente de Teselia!
-sp_ach_box_s_0075	¡Registra un Eevee procedente de Teselia!
-sp_ach_box_s_0076	¡Registra un Meloetta!
-sp_ach_box_s_0077	¡Registra un Genesect variocolor!
+sp_ach_box_s_0037	¡Trae a Pikachu desde Kanto!
+sp_ach_box_s_0038	¡Trae a Eevee desde Kanto!
+sp_ach_box_s_0039	¡Trae a Charizard desde la nostálgica región de Kanto!
+sp_ach_box_s_0040	¡Trae a Venusaur desde la nostálgica región de Kanto!
+sp_ach_box_s_0041	¡Trae a Blastoise desde la nostálgica región de Kanto!
+sp_ach_box_s_0042	¡Trae a Pikachu desde la nostálgica región de Kanto!
+sp_ach_box_s_0043	¡Trae a Ho-Oh desde la nostálgica región de Johto!
+sp_ach_box_s_0044	¡Trae a Lugia desde la nostálgica región de Johto!
+sp_ach_box_s_0045	¡Trae a Suicune desde la nostálgica región de Johto!
+sp_ach_box_s_0046	¡Trae a Charizard desde Kanto!
+sp_ach_box_s_0047	¡Trae a Venusaur desde Kanto!
+sp_ach_box_s_0048	¡Trae a Ho-Oh desde Johto!
+sp_ach_box_s_0049	¡Trae a Lugia desde Johto!
+sp_ach_box_s_0050	¡Trae a Groudon desde la nostálgica región de Hoenn!
+sp_ach_box_s_0051	¡Trae a Kyogre desde la nostálgica región de Hoenn!
+sp_ach_box_s_0052	¡Trae a Rayquaza desde la nostálgica región de Hoenn!
+sp_ach_box_s_0053	¡Trae a Dialga desde Sinnoh!
+sp_ach_box_s_0054	¡Trae a Palkia desde Sinnoh!
+sp_ach_box_s_0055	¡Trae a Giratina desde Sinnoh!
+sp_ach_box_s_0056	¡Trae a Reshiram desde Teselia!
+sp_ach_box_s_0057	¡Trae a Zekrom desde Teselia!
+sp_ach_box_s_0058	¡Trae a Zekrom y Kyurem desde Teselia!
+sp_ach_box_s_0059	¡Trae a Reshiram y Kyurem desde Teselia!
+sp_ach_box_s_0060	¡Trae a Xerneas desde Kalos!
+sp_ach_box_s_0061	¡Trae a Yveltal desde Kalos!
+sp_ach_box_s_0062	¡Trae a Groudon desde Hoenn!
+sp_ach_box_s_0063	¡Trae a Kyogre desde Hoenn!
+sp_ach_box_s_0064	¡Trae a Solgaleo desde Alola!
+sp_ach_box_s_0065	¡Trae a Lunala desde Alola!
+sp_ach_box_s_0066	¡Trae a Solgaleo y Necrozma desde Alola!
+sp_ach_box_s_0067	¡Trae a Lunala y Necrozma desde Alola!
+sp_ach_box_s_0068	¡Trae a Zacian desde Galar!
+sp_ach_box_s_0069	¡Trae a Zamazenta desde Galar!
+sp_ach_box_s_0070	¡Trae un Metagross variocolor!
+sp_ach_box_s_0071	¡Trae a Rayquaza desde Hoenn!
+sp_ach_box_s_0072	¡Trae a Diancie desde Kalos!
+sp_ach_box_s_0073	¡Trae un Snorlax con mucho arrojo!
+sp_ach_box_s_0074	¡Trae a Litwick desde Teselia!
+sp_ach_box_s_0075	¡Trae a Eevee desde Teselia!
+sp_ach_box_s_0076	¡Registra a Meloetta!
+sp_ach_box_s_0077	¡Trae un Genesect variocolor!
 sp_ach_box_0001	¡Deposita Pokémon variocolor!
 sp_ach_box_0002	¡Deposita Pokémon metidos en Poké Balls!
 sp_ach_box_0003	¡Deposita Pokémon metidos en Super Balls!
@@ -1857,7 +1857,9 @@ sp_api_500_10208	Esta cuenta Nintendo no tiene ningún Nintendo Network ID vincu
 sp_api_500_10209	Esta operación solo se puede efectuar con el plan prémium.
 sp_api_500_10211	No se han encontrado datos del Banco de Pokémon usando el Nintendo Network ID vinculado a esta cuenta Nintendo.
 sp_api_400_10309	Ya tienes el plan prémium.
+sp_api_404_40407	No se ha encontrado a este amigo. Comprueba tu lista de amigos.
 sp_api_500_10501	Se ha producido un error. Inténtalo de nuevo más tarde.
+sp_api_500_10504	No se ha encontrado ningún grupo. Se finalizará el intercambio.
 sp_api_500_10551	No se ha podido crear el grupo. Inténtalo de nuevo.
 sp_api_404_10552	No se ha encontrado ningún grupo.
 sp_api_403_10553	No puedes unirte a este grupo porque está lleno.
@@ -1869,7 +1871,7 @@ sp_api_500_10603	Has alcanzado el número máximo de amigos, por lo que no puede
 sp_api_500_10604	No has podido aceptar la solicitud de amistad porque el otro usuario ha alcanzado el número máximo de amigos.
 sp_api_500_10607	La clave de amigo es incorrecta. Comprueba la clave y vuelve a introducirla.
 sp_api_800_100001	Comprueba tu conexión e inténtalo de nuevo en un sitio en el que la señal sea más estable.
-sp_api_400_11500	
+sp_api_400_11500	No puedes intercambiar este Pokémon.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_esp.msbt
@@ -2223,9 +2225,9 @@ sp_option_addsdk_00001	Uso de datos
 sp_option_addsdk_00002	Se recopilarán los siguientes datos con el objetivo de seguir mejorando los servicios de Pokémon HOME, optimizar su funcionamiento y estabilidad, así como proporcionar contenido relevante:  ・Historial del uso de la aplicación en tu dispositivo. ・Errores de funcionamiento y análisis de datos.  Estos datos se utilizarán de acuerdo con las normas detalladas en la política de privacidad.  Podrás utilizar todas las funciones de esta aplicación aunque optes por no compartir estos datos.  ¿Aceptas compartir tus datos de uso de la aplicación?
 sp_option_addsdk_00003	Podrás utilizar todas las funciones de esta aplicación aunque optes por no compartir tus datos de uso.
 sp_option_terms2	Condiciones de uso
-sp_option_terms_5	
-sp_option_terms_6	
-sp_option_addsdk_1	
+sp_option_terms_5	Sí
+sp_option_terms_6	No
+sp_option_addsdk_1	Uso de datos
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
