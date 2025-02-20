@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	おしらせ
 sp_ui_notice_category_2	じゅうような　おしらせ
 sp_ui_notice_category_3	メンテナンス
 sp_ui_notice_category_4	アップデート
-sp_ui_notice_category_5	イベント
+sp_ui_notice_category_5	ポケモン SW・SH
 sp_ui_notice_category_6	キャンペーン
 sp_ui_notice_category_7	バトル
 sp_ui_notice_event_calender	イベントカレンダー

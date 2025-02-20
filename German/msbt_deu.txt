@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	Neuigkeiten
 sp_ui_notice_category_2	Wichtige Neuigkeiten
 sp_ui_notice_category_3	Wartungsarbeiten
 sp_ui_notice_category_4	Update
-sp_ui_notice_category_5	Veranstaltungen
+sp_ui_notice_category_5	Pokémon St & Sd
 sp_ui_notice_category_6	Aktionen
 sp_ui_notice_category_7	Kämpfe
 sp_ui_notice_event_calender	Veranstaltungskalender

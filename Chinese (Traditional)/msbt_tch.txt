@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	公告
 sp_ui_notice_category_2	重要公告
 sp_ui_notice_category_3	系統維護
 sp_ui_notice_category_4	更新
-sp_ui_notice_category_5	活動
+sp_ui_notice_category_5	寶可夢 劍／盾
 sp_ui_notice_category_6	特別活動
 sp_ui_notice_category_7	對戰
 sp_ui_notice_event_calender	活動行事曆

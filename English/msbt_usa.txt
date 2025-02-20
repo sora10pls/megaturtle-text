@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	News
 sp_ui_notice_category_2	Important News
 sp_ui_notice_category_3	Maintenance
 sp_ui_notice_category_4	Update
-sp_ui_notice_category_5	Event
+sp_ui_notice_category_5	Pokémon Sw & Sh
 sp_ui_notice_category_6	Campaign
 sp_ui_notice_category_7	Battle
 sp_ui_notice_event_calender	Event Calendar

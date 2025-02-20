@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	公告
 sp_ui_notice_category_2	重要公告
 sp_ui_notice_category_3	系统维护
 sp_ui_notice_category_4	更新数据
-sp_ui_notice_category_5	活动
+sp_ui_notice_category_5	宝可梦 剑／盾
 sp_ui_notice_category_6	特别活动
 sp_ui_notice_category_7	对战
 sp_ui_notice_event_calender	活动日历

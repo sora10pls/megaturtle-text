@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	Notifiche
 sp_ui_notice_category_2	Notifiche importanti
 sp_ui_notice_category_3	Manutenzione
 sp_ui_notice_category_4	Aggiornamenti
-sp_ui_notice_category_5	Eventi
+sp_ui_notice_category_5	Pokémon Sp e Sc
 sp_ui_notice_category_6	Promozioni
 sp_ui_notice_category_7	Lotte
 sp_ui_notice_event_calender	Calendario eventi

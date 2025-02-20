@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	Annonces
 sp_ui_notice_category_2	Annonces importantes
 sp_ui_notice_category_3	Maintenance
 sp_ui_notice_category_4	Mises à jour
-sp_ui_notice_category_5	Évènements
+sp_ui_notice_category_5	Pokémon Ép/Bo
 sp_ui_notice_category_6	Campagnes
 sp_ui_notice_category_7	Combats
 sp_ui_notice_event_calender	Calendrier des évènements

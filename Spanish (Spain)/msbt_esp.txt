@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	Avisos
 sp_ui_notice_category_2	Avisos importantes
 sp_ui_notice_category_3	Mantenimiento
 sp_ui_notice_category_4	Actualizaciones
-sp_ui_notice_category_5	Eventos
+sp_ui_notice_category_5	Pokémon Esp y Esc
 sp_ui_notice_category_6	Campañas
 sp_ui_notice_category_7	Combates
 sp_ui_notice_event_calender	Calendario de eventos

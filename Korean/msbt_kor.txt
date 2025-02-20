@@ -2946,7 +2946,7 @@ sp_ui_notice_category_1	소식
 sp_ui_notice_category_2	중요한 소식
 sp_ui_notice_category_3	점검
 sp_ui_notice_category_4	업데이트
-sp_ui_notice_category_5	이벤트
+sp_ui_notice_category_5	포켓몬스터소드・실드
 sp_ui_notice_category_6	캠페인
 sp_ui_notice_category_7	배틀
 sp_ui_notice_event_calender	이벤트 캘린더
