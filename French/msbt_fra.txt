@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_fra.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	Aucun objet
+ITEMNAME_001	Master Ball
+ITEMNAME_002	Hyper Ball
+ITEMNAME_003	Super Ball
+ITEMNAME_004	Poké Ball
+ITEMNAME_005	Safari Ball
+ITEMNAME_006	Filet Ball
+ITEMNAME_007	Scuba Ball
+ITEMNAME_008	Faiblo Ball
+ITEMNAME_009	Bis Ball
+ITEMNAME_010	Chrono Ball
+ITEMNAME_011	Luxe Ball
+ITEMNAME_012	Honor Ball
+ITEMNAME_013	Sombre Ball
+ITEMNAME_014	Soin Ball
+ITEMNAME_015	Rapide Ball
+ITEMNAME_016	Mémoire Ball
+ITEMNAME_492	Speed Ball
+ITEMNAME_493	Niveau Ball
+ITEMNAME_494	Appât Ball
+ITEMNAME_495	Masse Ball
+ITEMNAME_496	Love Ball
+ITEMNAME_497	Copain Ball
+ITEMNAME_498	Lune Ball
+ITEMNAME_499	Compét'Ball
+ITEMNAME_500	Parc Ball
+ITEMNAME_576	Rêve Ball
+ITEMNAME_851	Ultra Ball
+
+~~~~~~~~~~~~~~~
 Text File : monsname_fra.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	Œuf
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	Comme son nom l'indique, l'écran Infos combats re
 sp_monbo_battle_data_0001_002	Par exemple, vous pouvez y consulter le classement mondial des Dresseurs ! Et si vous avez associé votre compte Nintendo à Pokémon HOME, vous pourrez même y voir votre propre historique de combats. Pratique !
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_fra.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	Échange via la Boîte Miracle fait !
+sp_mystery_0001_2	Pour fêter votre premier échange grâce à la Boîte Miracle, nous vous offrons un Évoli !
+sp_mystery_0002_1	Premier Cadeau Mystère reçu !
+sp_mystery_0002_2	Pour célébrer la réception de votre premier Cadeau Mystère, nous vous offrons un Zigzaton !
+sp_mystery_0003_1	Premier échange sur le GTS fait !
+sp_mystery_0003_2	Pour fêter votre premier échange de Pokémon sur le GTS, nous vous offrons un Motisma !
+sp_mystery_0004_1	Page perso décorée !
+sp_mystery_0004_2	Pour célébrer l'utilisation de votre premier autocollant sur votre page perso, nous vous offrons un Pichu !
+sp_mystery_0005_1	Pokémon national complété !
+sp_mystery_0005_2	Pour célébrer l'enregistrement de tant de Pokémon dans votre Pokédex national, nous vous offrons Magearna !
+sp_mystery_0006_1	Un cadeau venu de Galar ! ①
+sp_mystery_0006_2	Pour fêter la synchronisation de Pokémon Épée ou Bouclier avec Pokémon HOME, nous vous offrons Ouistempo !
+sp_mystery_0007_1	Un cadeau venu de Galar ! ②
+sp_mystery_0007_2	Pour fêter la synchronisation de Pokémon Épée ou Bouclier avec Pokémon HOME, nous vous offrons Flambino !
+sp_mystery_0008_1	Un cadeau venu de Galar ! ③
+sp_mystery_0008_2	Pour fêter la synchronisation de Pokémon Épée ou Bouclier avec Pokémon HOME, nous vous offrons Larméléon !
+sp_mystery_0009_1	Victoire sur Zeraora ! ①
+sp_mystery_0009_2	Félicitations ! Un nombre suffisant de Dresseurs a vaincu Zeraora lors des raids Dynamax ! Le premier palier a été débloqué : nous vous offrons donc un Zeraora spécial !
+sp_mystery_0010_1	Victoire sur Zeraora ! ②
+sp_mystery_0010_2	Félicitations ! Un nombre suffisant de Dresseurs a vaincu Zeraora lors des raids Dynamax ! Un nouveau palier a été débloqué : nous vous offrons donc de l'Armurium !
+sp_mystery_0011_1	Compte associé à Pokémon GO !
+sp_mystery_0011_2	Pour fêter le transfert de votre premier Pokémon depuis Pokémon GO, nous vous offrons un Melmetal très spécial pouvant se gigamaxer !
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	Tadaaa ! Et une personne en plus sur Pokémon HOME, une !
@@ -2215,9 +2273,41 @@ sp_option_change	Modifier
 sp_option_filter_0001_vgo	Recherche dans les Boîtes Pokémon
 sp_option_filter_0002_vgo	Enregistrer les critères de recherche
 sp_option_filter_0003_vgo	Les critères actuellement enregistrés pour les recherches dans vos Boîtes Pokémon seront réinitialisés. Voulez-vous continuer ?
+sp_option_filter_0004_v4	Boîte Miracle
+sp_option_filter_0005_v4	Les critères actuellement enregistrés pour les recherches dans la Boîte Miracle seront réinitialisés. Voulez-vous continuer ?
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	Les critères actuellement enregistrés pour les recherches dans le GTS seront réinitialisés. Voulez-vous continuer ?
+sp_option_filter_0008_v4	Échanges en groupe
+sp_option_filter_0009_v4	Les critères actuellement enregistrés pour les recherches dans les échanges en groupe seront réinitialisés. Voulez-vous continuer ?
+sp_option_filter_0010_v4	Pokédex national
+sp_option_filter_0011_v4	Les critères actuellement enregistrés pour les recherches dans le Pokédex national seront réinitialisés. Voulez-vous continuer ?
+sp_option_filter_0012_v4	Tout sélectionner
+sp_option_filter_0013_v4	Tous les critères de recherches enregistrés seront réinitialisés. Voulez-vous continuer ?
+sp_option_filter_0014_v4	Critères de recherche
+sp_option_filter_0015_v4	Enregistrer des critères pour différentes recherches.
+sp_option_filter_0016_v4	Paramétrer
+sp_option_filter_0017_v4	Sélectionnez les fonctionnalités pour lesquelles vous souhaitez enregistrer des critères de recherche.
+sp_option_filter_0018_v4	Boîtes Pokémon
+sp_option_filter_0019_v4	Enregistrement des critères de recherches
 sp_option_sort_0001_vgo	Rangement des Boîtes Pokémon
 sp_option_sort_0002_vgo	Enregistrer les paramètres de rangement
 sp_option_sort_0003_vgo	Les paramètres actuellement enregistrés pour le rangement de vos Boîtes Pokémon seront réinitialisés. Voulez-vous continuer ?
+sp_option_sort_0004_v4	Boîte Miracle
+sp_option_sort_0005_v4	Les paramètres actuellement enregistrés pour le rangement de la Boîte Miracle seront réinitialisés. Voulez-vous continuer ?
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	Les paramètres actuellement enregistrés pour le rangement du GTS seront réinitialisés. Voulez-vous continuer ?
+sp_option_sort_0008_v4	Échanges en groupe
+sp_option_sort_0009_v4	Les paramètres actuellement enregistrés pour le rangement des échanges en groupe seront réinitialisés. Voulez-vous continuer ?
+sp_option_sort_0010_v4	Pokédex national
+sp_option_sort_0011_v4	Les paramètres actuellement enregistrés pour le rangement du Pokédex national seront réinitialisés. Voulez-vous continuer ?
+sp_option_sort_0012_v4	Tout sélectionner
+sp_option_sort_0013_v4	Tous les paramètres de rangement enregistrés seront réinitialisés. Voulez-vous continuer ?
+sp_option_sort_0014_v4	Paramètres de rangement
+sp_option_sort_0015_v4	Enregistrer des paramètres pour différents rangements.
+sp_option_sort_0016_v4	Paramétrer
+sp_option_sort_0017_v4	Sélectionnez les fonctionnalités pour lesquelles vous souhaitez enregistrer des paramètres de rangement.
+sp_option_sort_0018_v4	Boîtes Pokémon
+sp_option_sort_0019_v4	Enregistrement des paramètres de rangement
 sp_option_notice_00001	Recevoir des notifications
 sp_option_notice_00005	Autres
 sp_option_notice_00006	Notifications
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	Vous ne pouvez pas sélectionner plus de Pokémon que 
 sp_trade_miracle_00017_v3	Aucun Pokémon n'a été sélectionné. Veuillez choisir un ou plusieurs Pokémon à déposer.
 sp_trade_miracle_00018_v3	Sur l'écran Résumé, vous pouvez changer de Pokémon en balayant l'écran.
 sp_trade_miracle_change_plan_confirm	Un compte premium est nécessaire pour pouvoir déposer des Pokémon dans tous les espaces de la Boîte.  Souhaitez-vous changer de type de compte ?
+sp_trade_miracle_receive_all_v4	Recevoir tous les Pokémon
+sp_trade_miracle_update_v4	Certains Pokémon semblent avoir été échangés. Veuillez vérifier la Boîte Miracle.
 sp_trade_group_00002	Nombre de participants
 sp_trade_group_00003	Pokémon à échanger
 sp_trade_group_00004	Affiché
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	Avec l'aromate
 sp_trade_gts_00019_v1	Le Pokémon recherché est un Pokémon spécial. Veuillez en choisir un autre.
 sp_trade_gts_00020_v3	Inclure les demandes de Pokémon que vous n'avez pas
 sp_trade_gts_00021_v3	Inclure les demandes de Pokémon spéciaux, comme les Pokémon légendaires ou fabuleux
+sp_trade_gts_00022_v4	Vous avez sélectionné un Pokémon spécial comme Pokémon recherché, mais il est impossible d'échanger les Pokémon spéciaux. Veuillez en sélectionner un autre.
 sp_trade_gts_01001	Merci d'échanger un Pokémon avec moi !
 sp_trade_gts_01002	J'aimerais avoir un Pokémon qui puisse m'aider dans mon aventure !
 sp_trade_gts_01003	J'aimerais avoir un Pokémon qui soit super fort en combat !
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	Origine
 sp_ui_parent	D.O.
 sp_ui_shape	Forme
 sp_ui_color	Couleur
+sp_ui_ball_v4	Poké Ball
+sp_ui_language_v4	Langue
 sp_ui_filter_parent	[VAR_PLAYER] ([VAR_TID])
 sp_ui_filter_seikaku_1_m	Hardi (aucun aromate)
 sp_ui_filter_seikaku_2_m	Solo ou Aromate Solo
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	Potentiel supérieur à la moyenne
 sp_ui_total_evaluate_03	Potentiel bien supérieur à la moyenne
 sp_ui_total_evaluate_04	Potentiel exceptionnel !
 sp_ui_lumpribbon_num	[VAR]
+sp_ui_parent_and_id_v4	Dresseur d'Origine (D.O.) et Nº ID
+sp_ui_trainermemo_01_v04	Rencontré le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
+sp_ui_trainermemo_02_v04	Apparemment rencontré le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
+sp_ui_trainermemo_03_v04	Rencontré par la force du destin le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
+sp_ui_trainermemo_04_v04	Apparemment rencontré par la force du destin le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
+sp_ui_trainermemo_05_v04	Rencontré au cours d'un long voyage empreint de nostalgie le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
+sp_ui_trainermemo_06_v04	Rencontré par la force du destin au cours d'un long voyage empreint de nostalgie le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
 sp_ui_label	Étiquettes
 sp_ui_label_create	Créer une étiquette
 sp_ui_new_label_create	Créer une nouvelle étiquette

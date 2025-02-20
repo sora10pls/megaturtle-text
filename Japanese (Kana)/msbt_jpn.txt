@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_jpn.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	なし
+ITEMNAME_001	マスターボール
+ITEMNAME_002	ハイパーボール
+ITEMNAME_003	スーパーボール
+ITEMNAME_004	モンスターボール
+ITEMNAME_005	サファリボール
+ITEMNAME_006	ネットボール
+ITEMNAME_007	ダイブボール
+ITEMNAME_008	ネストボール
+ITEMNAME_009	リピートボール
+ITEMNAME_010	タイマーボール
+ITEMNAME_011	ゴージャスボール
+ITEMNAME_012	プレミアボール
+ITEMNAME_013	ダークボール
+ITEMNAME_014	ヒールボール
+ITEMNAME_015	クイックボール
+ITEMNAME_016	プレシャスボール
+ITEMNAME_492	スピードボール
+ITEMNAME_493	レベルボール
+ITEMNAME_494	ルアーボール
+ITEMNAME_495	ヘビーボール
+ITEMNAME_496	ラブラブボール
+ITEMNAME_497	フレンドボール
+ITEMNAME_498	ムーンボール
+ITEMNAME_499	コンペボール
+ITEMNAME_500	パークボール
+ITEMNAME_576	ドリームボール
+ITEMNAME_851	ウルトラボール
+
+~~~~~~~~~~~~~~~
 Text File : monsname_jpn.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	タマゴ
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトル�
 sp_monbo_battle_data_0001_002	せかいじゅうの　トレーナーの　ランキングを　みたり ニンテンドーアカウントを　れんけいしていると これまでの　じぶんのせんせきも かくにん　できるんだモン！
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_jpn.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	ミラクルボックスこうかんせいりつきねん！
+sp_mystery_0001_2	はじめて　ミラクルボックスで ポケモンこうかんが　せいりつした！ きねんに　イーブイを　プレゼント！
+sp_mystery_0002_1	ふしぎなおくりものうけとりきねん！
+sp_mystery_0002_2	はじめて　ふしぎなおくりものを うけとった！ きねんに　ジグザグマを　プレゼント！
+sp_mystery_0003_1	GTSこうかんせいりつきねん！
+sp_mystery_0003_2	はじめて　GTSで　ポケモンこうかんが せいりつした！ きねんに　ロトムを　プレゼント！
+sp_mystery_0004_1	バインダーさくせいきねん！
+sp_mystery_0004_2	はじめて　バインダーに　シールを はりつけた！ きねんに　ピチューを　プレゼント！ 
+sp_mystery_0005_1	ぜんこくずかんかんせいきねん！
+sp_mystery_0005_2	たくさんの　ポケモンを　とうろくして ぜんこくずかんを　かんせいさせた！ きねんに　マギアナを　プレゼント！
+sp_mystery_0006_1	『ポケモン SW・SH』れんけいきねん！①
+sp_mystery_0006_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　れんけいさせた！ きねんに　サルノリを　プレゼント！
+sp_mystery_0007_1	『ポケモン SW・SH』れんけいきねん！②
+sp_mystery_0007_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　れんけいさせた！ きねんに　ヒバニーを　プレゼント！
+sp_mystery_0008_1	『ポケモン SW・SH』れんけいきねん！③
+sp_mystery_0008_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　れんけいさせた！ きねんに　メッソンを　プレゼント！
+sp_mystery_0009_1	ゼラオラしょうりきねん！①
+sp_mystery_0009_2	とくべつな　マックスレイドバトルで ゼラオラを　たおした　トレーナーの にんずうが　もくひょうを　たっせい！ きねんに　とくべつなゼラオラを　プレゼント！
+sp_mystery_0010_1	ゼラオラしょうりきねん！②
+sp_mystery_0010_2	とくべつな　マックスレイドバトルで ゼラオラを　たおした　トレーナーの にんずうが　もくひょうを　たっせい！ きねんに　ヨロイこうせきを　プレゼント！
+sp_mystery_0011_1	『Pokémon GO』れんけいきねん
+sp_mystery_0011_2	はじめて　『Pokémon GO』から ポケモンを　てんそうした！ きねんに　キョダイマックスできる とくべつな　メルメタルを　プレゼント！
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	オーケイ！　アクセス　せいこうだ！
@@ -2215,9 +2273,41 @@ sp_option_change	へんこう
 sp_option_filter_0001_vgo	ポケモンボックスの　けんさく
 sp_option_filter_0002_vgo	けんさくせっていを　ほぞんする
 sp_option_filter_0003_vgo	げんざいほぞんされている　ポケモンボックスの けんさくせっていが　リセットされます よろしいですか？
+sp_option_filter_0004_v4	ミラクルボックス
+sp_option_filter_0005_v4	げんざいほぞんされている　ミラクルボックスの けんさくせっていが　リセットされます よろしいですか？
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	げんざいほぞんされている　GTSの けんさくせっていが　リセットされます よろしいですか？
+sp_option_filter_0008_v4	グループこうかん
+sp_option_filter_0009_v4	げんざいほぞんされている　グループこうかんの けんさくせっていが　リセットされます よろしいですか？
+sp_option_filter_0010_v4	ぜんこくずかん
+sp_option_filter_0011_v4	げんざいほぞんされている　ぜんこくずかんの けんさくせっていが　リセットされます よろしいですか？
+sp_option_filter_0012_v4	すべてのこうもくを　せんたくする
+sp_option_filter_0013_v4	げんざいほぞんされている　すべての けんさくせっていが　リセットされます よろしいですか？
+sp_option_filter_0014_v4	けんさくの　せってい
+sp_option_filter_0015_v4	けんさくのじょうたいを　こべつにほぞんする
+sp_option_filter_0016_v4	ほぞんの　せっていをする
+sp_option_filter_0017_v4	どのこうもくの　けんさくせっていを ほぞんしますか？
+sp_option_filter_0018_v4	ポケモンボックス
+sp_option_filter_0019_v4	けんさくせっていの　ほぞん
 sp_option_sort_0001_vgo	ポケモンボックスの　ならびじゅん
 sp_option_sort_0002_vgo	ならびじゅんせっていを　ほぞんする
 sp_option_sort_0003_vgo	げんざいほぞんされている　ポケモンボックスの ならびじゅんせっていが　リセットされます よろしいですか？
+sp_option_sort_0004_v4	ミラクルボックス
+sp_option_sort_0005_v4	げんざいほぞんされている　ミラクルボックスの ならびじゅんせっていが　リセットされます よろしいですか？
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	げんざいほぞんされている　GTSの ならびじゅんせっていが　リセットされます よろしいですか？
+sp_option_sort_0008_v4	グループこうかん
+sp_option_sort_0009_v4	げんざいほぞんされている　グループこうかんの ならびじゅんせっていが　リセットされます よろしいですか？
+sp_option_sort_0010_v4	ぜんこくずかん
+sp_option_sort_0011_v4	げんざいほぞんされている　ぜんこくずかんの ならびじゅんせっていが　リセットされます よろしいですか？
+sp_option_sort_0012_v4	すべてのこうもくを　せんたくする
+sp_option_sort_0013_v4	げんざいほぞんされている　すべての ならびじゅんせっていが　リセットされます よろしいですか？
+sp_option_sort_0014_v4	ならびじゅんの　せってい
+sp_option_sort_0015_v4	ならびじゅんのじょうたいを　こべつにほぞんする
+sp_option_sort_0016_v4	ほぞんの　せっていをする
+sp_option_sort_0017_v4	どのこうもくの　ならびじゅんせっていを ほぞんしますか？
+sp_option_sort_0018_v4	ポケモンボックス
+sp_option_sort_0019_v4	ならびじゅんせっていの　ほぞん
 sp_option_notice_00001	つうちを　うけとる
 sp_option_notice_00005	そのた
 sp_option_notice_00006	つうち
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	あきすういじょうの　ポケモンを せん�
 sp_trade_miracle_00017_v3	ポケモンが　せんたくされていません あずけるポケモンを　せんたくしてください
 sp_trade_miracle_00018_v3	つぎのがめんで　ポケモンを スワイプで　きりかえられます
 sp_trade_miracle_change_plan_confirm	すべてのわくに　ポケモンを　あずけるには プレミアムプランの　かにゅうが　ひつようです  プランへんこうを　しますか？
+sp_trade_miracle_receive_all_v4	ポケモンを　すべてうけとる
+sp_trade_miracle_update_v4	いちぶのポケモンが　こうかんされたようです いちど　ミラクルボックスへ もどってください
 sp_trade_group_00002	さんかにんずう
 sp_trade_group_00003	こうかんするポケモンは
 sp_trade_group_00004	みえる
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	ミントへんこうご
 sp_trade_gts_00019_v1	ほしいポケモンに　とくべつな　ポケモンが していされています　えらびなおしてください
 sp_trade_gts_00020_v3	じぶんが　もっていない　ポケモンを さがしているひとを　ふくむ
 sp_trade_gts_00021_v3	でんせつや　まぼろしなどの　とくべつな ポケモンを　さがしているひとを　ふくむ
+sp_trade_gts_00022_v4	ほしいポケモンに　とくべつな　ポケモンが　 していされています とくべつな　ポケモンは　こうかんできません えらびなおしてください　
 sp_trade_gts_01001	こうかんを　してください よろしくおねがいします
 sp_trade_gts_01002	ぼうけんを　たすけてくれる ポケモンと　こうかんしたいです
 sp_trade_gts_01003	たいせんで　つよい　ポケモンと こうかんしたいです
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	しゅっしんマーク
 sp_ui_parent	おや
 sp_ui_shape	かたち
 sp_ui_color	いろ
+sp_ui_ball_v4	ボール
+sp_ui_language_v4	げんご
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	へいきん　いじょうの　のうりょく
 sp_ui_total_evaluate_03	そうとう　ゆうしゅうな　のうりょく
 sp_ui_total_evaluate_04	すばらしい　のうりょく
 sp_ui_lumpribbon_num	[VAR]こ
+sp_ui_parent_and_id_v4	おや　と　IDNo.
+sp_ui_trainermemo_01_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で であった。
+sp_ui_trainermemo_02_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で であった　ようだ。
+sp_ui_trainermemo_03_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で うんめいてきな　であいをした。
+sp_ui_trainermemo_04_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で うんめいてきな　であいをした　ようだ。
+sp_ui_trainermemo_05_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち なつかしの　[VAR_LOCATION]で であった　ようだ。
+sp_ui_trainermemo_06_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち なつかしの　[VAR_LOCATION]で うんめいてきな　であいをした　ようだ。
 sp_ui_label	ラベル
 sp_ui_label_create	ラベルさくせい
 sp_ui_new_label_create	しんきラベルさくせい

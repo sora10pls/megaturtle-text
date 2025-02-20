@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_ita.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	Niente
+ITEMNAME_001	Master Ball
+ITEMNAME_002	Ultra Ball
+ITEMNAME_003	Mega Ball
+ITEMNAME_004	Poké Ball
+ITEMNAME_005	Safari Ball
+ITEMNAME_006	Rete Ball
+ITEMNAME_007	Sub Ball
+ITEMNAME_008	Minor Ball
+ITEMNAME_009	Bis Ball
+ITEMNAME_010	Timer Ball
+ITEMNAME_011	Chic Ball
+ITEMNAME_012	Premier Ball
+ITEMNAME_013	Scuro Ball
+ITEMNAME_014	Cura Ball
+ITEMNAME_015	Velox Ball
+ITEMNAME_016	Pregio Ball
+ITEMNAME_492	Rapid Ball
+ITEMNAME_493	Level Ball
+ITEMNAME_494	Esca Ball
+ITEMNAME_495	Peso Ball
+ITEMNAME_496	Love Ball
+ITEMNAME_497	Friend Ball
+ITEMNAME_498	Luna Ball
+ITEMNAME_499	Gara Ball
+ITEMNAME_500	Parco Ball
+ITEMNAME_576	Dream Ball
+ITEMNAME_851	UC Ball
+
+~~~~~~~~~~~~~~~
 Text File : monsname_ita.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	Uovo
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	In questa schermata trovi un sacco di informazioni
 sp_monbo_battle_data_0001_002	Potrai dare un'occhiata alla classifica degli Allenatori di tutto il mondo, e se hai collegato un account Nintendo potrai anche vedere i tuoi risultati!
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_ita.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	Scambio tramite Box prodigioso!
+sp_mystery_0001_2	Per festeggiare il tuo primo scambio tramite Box prodigioso, vogliamo regalarti un Eevee!
+sp_mystery_0002_1	Hai ricevuto un Dono Segreto!
+sp_mystery_0002_2	Per festeggiare il tuo primo Dono Segreto, vogliamo regalarti uno Zigzagoon!
+sp_mystery_0003_1	Scambio tramite GTS!
+sp_mystery_0003_2	Per festeggiare il tuo primo scambio tramite GTS, vogliamo regalarti un Rotom!
+sp_mystery_0004_1	Hai personalizzato la copertina!
+sp_mystery_0004_2	Hai attaccato il primo adesivo sulla copertina! Per festeggiare, vogliamo regalarti un Pichu!
+sp_mystery_0005_1	Pokédex Nazionale completato!
+sp_mystery_0005_2	Hai completato il Pokédex Nazionale! Per festeggiare, vogliamo regalarti un Magearna!
+sp_mystery_0006_1	Benvenuti a Galar: regalo nº 1!
+sp_mystery_0006_2	Hai collegato Pokémon Spada o Pokémon Scudo a Pokémon HOME! Per festeggiare, vogliamo regalarti un Grookey!
+sp_mystery_0007_1	Benvenuti a Galar: regalo nº 2!
+sp_mystery_0007_2	Hai collegato Pokémon Spada o Pokémon Scudo a Pokémon HOME! Per festeggiare, vogliamo regalarti uno Scorbunny!
+sp_mystery_0008_1	Benvenuti a Galar: regalo nº 3!
+sp_mystery_0008_2	Hai collegato Pokémon Spada o Pokémon Scudo a Pokémon HOME! Per festeggiare, vogliamo regalarti un Sobble!
+sp_mystery_0009_1	Vittoria contro Zeraora 1
+sp_mystery_0009_2	Complimenti! È stato raggiunto il primo obiettivo relativo al numero di Allenatori che hanno sconfitto Zeraora nel Raid Dynamax speciale! Per festeggiare, vogliamo regalarti uno Zeraora speciale!
+sp_mystery_0010_1	Vittoria contro Zeraora 2
+sp_mystery_0010_2	Complimenti! È stato raggiunto il secondo obiettivo relativo al numero di Allenatori che hanno sconfitto Zeraora nel Raid Dynamax speciale! Per festeggiare, vogliamo regalarti delle Roccearmatura!
+sp_mystery_0011_1	Hai collegato Pokémon GO!
+sp_mystery_0011_2	Per festeggiare il tuo primo trasferimento di Pokémon da Pokémon GO, vogliamo regalarti uno speciale Melmetal Gigamax!
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	Ta-daaa! Accesso riuscito!
@@ -2215,9 +2273,41 @@ sp_option_change	Modifica
 sp_option_filter_0001_vgo	Ricerca nei Box Pokémon
 sp_option_filter_0002_vgo	Ricorda i criteri di ricerca
 sp_option_filter_0003_vgo	I criteri di ricerca nei Box Pokémon verranno ripristinati. Vuoi continuare?
+sp_option_filter_0004_v4	Box prodigioso
+sp_option_filter_0005_v4	I criteri di ricerca nel Box prodigioso verranno ripristinati. Vuoi continuare?
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	I criteri di ricerca nel GTS verranno ripristinati. Vuoi continuare?
+sp_option_filter_0008_v4	Scambio di gruppo
+sp_option_filter_0009_v4	I criteri di ricerca nello scambio di gruppo verranno ripristinati. Vuoi continuare?
+sp_option_filter_0010_v4	Pokédex Nazionale
+sp_option_filter_0011_v4	I criteri di ricerca nel Pokédex Nazionale verranno ripristinati. Vuoi continuare?
+sp_option_filter_0012_v4	Seleziona tutto
+sp_option_filter_0013_v4	Tutti i criteri di ricerca verranno ripristinati. Vuoi continuare?
+sp_option_filter_0014_v4	Criteri di ricerca
+sp_option_filter_0015_v4	Salva criteri di ricerca diversi per ogni elemento.
+sp_option_filter_0016_v4	Impostazioni
+sp_option_filter_0017_v4	Per quale elemento vuoi salvare i criteri di ricerca?
+sp_option_filter_0018_v4	Box Pokémon
+sp_option_filter_0019_v4	Salvataggio dei criteri di ricerca
 sp_option_sort_0001_vgo	Organizzazione dei Box Pokémon
 sp_option_sort_0002_vgo	Ricorda i criteri di organizzazione
-sp_option_sort_0003_vgo	I criteri di organizzazione dei Box Pokémon verranno ripristinati. Vuoi continuare?
+sp_option_sort_0003_vgo	I criteri di organizzazione nei Box Pokémon verranno ripristinati. Vuoi continuare?
+sp_option_sort_0004_v4	Box prodigioso
+sp_option_sort_0005_v4	I criteri di organizzazione nel Box prodigioso verranno ripristinati. Vuoi continuare?
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	I criteri di organizzazione nel GTS verranno ripristinati. Vuoi continuare?
+sp_option_sort_0008_v4	Scambio di gruppo
+sp_option_sort_0009_v4	I criteri di organizzazione nello scambio di gruppo verranno ripristinati. Vuoi continuare?
+sp_option_sort_0010_v4	Pokédex Nazionale
+sp_option_sort_0011_v4	I criteri di organizzazione nel Pokédex Nazionale verranno ripristinati. Vuoi continuare?
+sp_option_sort_0012_v4	Seleziona tutto
+sp_option_sort_0013_v4	Tutti i criteri di organizzazione verranno ripristinati. Vuoi continuare?
+sp_option_sort_0014_v4	Criteri di organizzazione
+sp_option_sort_0015_v4	Salva criteri di organizzazione diversi per ogni elemento.
+sp_option_sort_0016_v4	Impostazioni
+sp_option_sort_0017_v4	Per quale elemento vuoi salvare i criteri di organizzazione?
+sp_option_sort_0018_v4	Box Pokémon
+sp_option_sort_0019_v4	Salvataggio dei criteri di organizzazione
 sp_option_notice_00001	Ricevi notifiche
 sp_option_notice_00005	Altro
 sp_option_notice_00006	Notifiche
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	Non puoi selezionare un numero di Pokémon superiore a
 sp_trade_miracle_00017_v3	Non hai selezionato alcun Pokémon. Scegli i Pokémon che vuoi depositare.
 sp_trade_miracle_00018_v3	Nella schermata delle info puoi passare da un Pokémon all'altro facendo scorrere il dito sullo schermo.
 sp_trade_miracle_change_plan_confirm	Per poter usufruire di tutto lo spazio nel Box è necessario il servizio premium.  Vuoi cambiare servizio?
+sp_trade_miracle_receive_all_v4	Ricevi tutti i Pokémon
+sp_trade_miracle_update_v4	Sembra che alcuni Pokémon siano già stati scambiati. Controlla il Box prodigioso.
 sp_trade_group_00002	Numero di partecipanti
 sp_trade_group_00003	Pokémon da scambiare
 sp_trade_group_00004	Visibili
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	Con la menta
 sp_trade_gts_00019_v1	Il Pokémon richiesto è un Pokémon speciale. Scegli un altro Pokémon.
 sp_trade_gts_00020_v3	Includi gli utenti che cercano Pokémon che non hai
 sp_trade_gts_00021_v3	Includi gli utenti che cercano Pokémon speciali, come quelli leggendari o misteriosi
+sp_trade_gts_00022_v4	Il Pokémon richiesto è un Pokémon speciale. I Pokémon speciali non possono essere scambiati. Scegli un altro Pokémon.
 sp_trade_gts_01001	Ciao! Vuoi fare uno scambio?
 sp_trade_gts_01002	Cerco un Pokémon che mi aiuti ad avanzare nella mia avventura!
 sp_trade_gts_01003	Cerco un Pokémon fortissimo nelle lotte!
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	Simbolo regione
 sp_ui_parent	AO
 sp_ui_shape	Sagoma
 sp_ui_color	Colore
+sp_ui_ball_v4	Poké Ball
+sp_ui_language_v4	Lingua
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	Ardita (nessuna menta)
 sp_ui_filter_seikaku_2_m	Schiva (o Menta Schiva)
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	Potenziale sopra la media
 sp_ui_total_evaluate_03	Potenziale ottimo
 sp_ui_total_evaluate_04	Potenziale eccellente
 sp_ui_lumpribbon_num	[VAR]
+sp_ui_parent_and_id_v4	Allenatore Originale e ID
+sp_ui_trainermemo_01_v04	Incontrato in data [VAR]/[VAR_DAY]/[VAR_YEAR] nel seguente luogo: [VAR_LOCATION]
+sp_ui_trainermemo_02_v04	Incontrato in data [VAR]/[VAR_DAY]/[VAR_YEAR], probabilmente nel seguente luogo: [VAR_LOCATION]
+sp_ui_trainermemo_03_v04	Ottenuto durante un evento speciale in data [VAR]/[VAR_DAY]/[VAR_YEAR] nel seguente luogo: [VAR_LOCATION]
+sp_ui_trainermemo_04_v04	Ottenuto durante un evento speciale in data [VAR]/[VAR_DAY]/[VAR_YEAR], probabilmente nel seguente luogo: [VAR_LOCATION]
+sp_ui_trainermemo_05_v04	Probabilmente incontrato in seguito a un viaggio intriso di ricordi in data [VAR]/[VAR_DAY]/[VAR_YEAR], nel seguente luogo: [VAR_LOCATION]
+sp_ui_trainermemo_06_v04	Ottenuto durante un evento speciale in seguito a un viaggio intriso di ricordi in data [VAR]/[VAR_DAY]/[VAR_YEAR], probabilmente nel seguente luogo: [VAR_LOCATION]
 sp_ui_label	Etichetta
 sp_ui_label_create	Crea etichetta
 sp_ui_new_label_create	Crea nuova etichetta

@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_kor.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	없음
+ITEMNAME_001	마스터볼
+ITEMNAME_002	하이퍼볼
+ITEMNAME_003	수퍼볼
+ITEMNAME_004	몬스터볼
+ITEMNAME_005	사파리볼
+ITEMNAME_006	넷트볼
+ITEMNAME_007	다이브볼
+ITEMNAME_008	네스트볼
+ITEMNAME_009	리피드볼
+ITEMNAME_010	타이마볼
+ITEMNAME_011	럭셔리볼
+ITEMNAME_012	프레미어볼
+ITEMNAME_013	다크볼
+ITEMNAME_014	힐볼
+ITEMNAME_015	퀵볼
+ITEMNAME_016	프레셔스볼
+ITEMNAME_492	스피드볼
+ITEMNAME_493	레벨볼
+ITEMNAME_494	루어볼
+ITEMNAME_495	헤비볼
+ITEMNAME_496	러브러브볼
+ITEMNAME_497	프렌드볼
+ITEMNAME_498	문볼
+ITEMNAME_499	콤페볼
+ITEMNAME_500	파크볼
+ITEMNAME_576	드림볼
+ITEMNAME_851	울트라볼
+
+~~~~~~~~~~~~~~~
 Text File : monsname_kor.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	알
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	배틀 데이터에서는 포켓몬 배틀에 관�
 sp_monbo_battle_data_0001_002	전 세계 트레이너의 랭킹을 볼 수도 있고 닌텐도 어카운트를 연동하면 자신의 지금까지의 전적도 확인할 수 있다몬!
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_kor.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	미라클 박스로 교환 성공 기념!
+sp_mystery_0001_2	처음으로 미라클 박스에서 포켓몬 교환에 성공했다! 기념으로 이브이를 선물!
+sp_mystery_0002_1	이상한 소포를 받은 기념!
+sp_mystery_0002_2	처음으로 이상한 소포에서 소포를 받았다! 기념으로 지그제구리를 선물!
+sp_mystery_0003_1	GTS로 교환 성공 기념!
+sp_mystery_0003_2	처음으로 GTS에서 포켓몬 교환에 성공했다! 기념으로 로토무를 선물!
+sp_mystery_0004_1	바인더 작성 기념!
+sp_mystery_0004_2	처음으로 바인더에 씰을 붙였다! 기념으로 피츄를 선물!
+sp_mystery_0005_1	전국도감 완성 기념!
+sp_mystery_0005_2	포켓몬을 많이 등록해서 전국도감을 완성했다! 기념으로 마기아나를 선물!
+sp_mystery_0006_1	포켓몬스터소드･실드 연동 기념! ①
+sp_mystery_0006_2	포켓몬스터소드･실드와 Pokémon HOME을 연동했다! 기념으로 흥나숭을 선물!
+sp_mystery_0007_1	포켓몬스터소드･실드 연동 기념! ②
+sp_mystery_0007_2	포켓몬스터소드･실드와 Pokémon HOME을 연동했다! 기념으로 염버니를 선물!
+sp_mystery_0008_1	포켓몬스터소드･실드 연동 기념! ③
+sp_mystery_0008_2	포켓몬스터소드･실드와 Pokémon HOME을 연동했다! 기념으로 울머기를 선물!
+sp_mystery_0009_1	제라오라 승리 기념! ①
+sp_mystery_0009_2	특별한 맥스 레이드배틀에서 제라오라를 쓰러뜨린 트레이너의 수가 목표를 달성했다! 기념으로 특별한 제라오라를 선물!
+sp_mystery_0010_1	제라오라 승리 기념! ②
+sp_mystery_0010_2	특별한 맥스 레이드배틀에서 제라오라를 쓰러뜨린 트레이너의 수가 목표를 달성했다! 기념으로 갑옷광석을 선물!
+sp_mystery_0011_1	Pokémon GO 연동 기념
+sp_mystery_0011_2	처음으로 Pokémon GO에서 포켓몬을 전송했다! 기념으로 거다이맥스할 수 있는 특별한 멜메탈을 선물!
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	오케이! 접속 성공이다!
@@ -2215,9 +2273,41 @@ sp_option_change	변경
 sp_option_filter_0001_vgo	포켓몬 박스 검색
 sp_option_filter_0002_vgo	검색 설정을 저장한다
 sp_option_filter_0003_vgo	현재 저장 중인 포켓몬 박스의 검색 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_filter_0004_v4	미라클 박스
+sp_option_filter_0005_v4	현재 저장 중인 미라클 박스의 검색 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	현재 저장 중인 GTS의 검색 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_filter_0008_v4	그룹 교환
+sp_option_filter_0009_v4	현재 저장 중인 그룹 교환의 검색 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_filter_0010_v4	전국도감
+sp_option_filter_0011_v4	현재 저장 중인 전국도감의 검색 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_filter_0012_v4	전체 선택
+sp_option_filter_0013_v4	현재 저장 중인 모든 검색 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_filter_0014_v4	검색 설정
+sp_option_filter_0015_v4	검색 상태를 개별 저장한다
+sp_option_filter_0016_v4	저장 설정
+sp_option_filter_0017_v4	어느 항목의 검색 설정을 저장하겠습니까?
+sp_option_filter_0018_v4	포켓몬 박스
+sp_option_filter_0019_v4	검색 설정 저장
 sp_option_sort_0001_vgo	포켓몬 박스의 정렬 순서
 sp_option_sort_0002_vgo	정렬 순서를 저장한다
 sp_option_sort_0003_vgo	현재 저장 중인 포켓몬 박스의 정렬 순서 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_sort_0004_v4	미라클 박스
+sp_option_sort_0005_v4	현재 저장 중인 미라클 박스의 정렬 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	현재 저장 중인 GTS의 정렬 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_sort_0008_v4	그룹 교환
+sp_option_sort_0009_v4	현재 저장 중인 그룹 교환의 정렬 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_sort_0010_v4	전국도감
+sp_option_sort_0011_v4	현재 저장 중인 전국도감의 정렬 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_sort_0012_v4	전체 선택
+sp_option_sort_0013_v4	현재 저장 중인 모든 정렬 설정이 초기화됩니다 괜찮겠습니까?
+sp_option_sort_0014_v4	정렬 설정
+sp_option_sort_0015_v4	정렬 상태를 개별 저장한다
+sp_option_sort_0016_v4	저장 설정
+sp_option_sort_0017_v4	어느 항목의 정렬 설정을 저장하겠습니까?
+sp_option_sort_0018_v4	포켓몬 박스
+sp_option_sort_0019_v4	정렬 설정 저장
 sp_option_notice_00001	알림을 받는다
 sp_option_notice_00005	기타
 sp_option_notice_00006	알림
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	빈 공간보다 많은 포켓몬을 선택할 수 없
 sp_trade_miracle_00017_v3	포켓몬을 선택하지 않았습니다 맡길 포켓몬을 선택해 주십시오
 sp_trade_miracle_00018_v3	다음 화면에서 포켓몬을 스와이프해서 전환할 수 있습니다
 sp_trade_miracle_change_plan_confirm	모든 칸에 포켓몬을 맡기려면 프리미엄 플랜에 가입해야 합니다  플랜을 변경하겠습니까?
+sp_trade_miracle_receive_all_v4	포켓몬을 모두 받는다
+sp_trade_miracle_update_v4	일부 포켓몬이 교환되었습니다 미라클 박스를 확인해 주십시오
 sp_trade_group_00002	참가 인원 수
 sp_trade_group_00003	교환할 포켓몬:
 sp_trade_group_00004	표시
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	민트 변경 후
 sp_trade_gts_00019_v1	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다 다시 선택해 주십시오
 sp_trade_gts_00020_v3	자신이 가지고 있지 않은 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_00021_v3	전설 또는 환상 등의 특별한 포켓몬을 찾고 있는 사람을 포함한다
+sp_trade_gts_00022_v4	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다 특별한 포켓몬은 교환할 수 없습니다 다시 선택해 주십시오
 sp_trade_gts_01001	교환해 주세요! 잘 부탁합니다
 sp_trade_gts_01002	모험을 도와주는 포켓몬과 교환하고 싶습니다
 sp_trade_gts_01003	대전에 강한 포켓몬과 교환하고 싶습니다
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	출신지 마크
 sp_ui_parent	어버이
 sp_ui_shape	형태
 sp_ui_color	색
+sp_ui_ball_v4	볼
+sp_ui_language_v4	언어
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	노력+민트
 sp_ui_filter_seikaku_2_m	외로움+민트
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	평균 이상의 능력
 sp_ui_total_evaluate_03	상당히 우수한 능력
 sp_ui_total_evaluate_04	훌륭한 능력
 sp_ui_lumpribbon_num	[VAR]개
+sp_ui_parent_and_id_v4	어버이와 IDNo.
+sp_ui_trainermemo_01_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 만났다.
+sp_ui_trainermemo_02_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 만난 것 같다.
+sp_ui_trainermemo_03_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 운명적인 만남을 가졌다.
+sp_ui_trainermemo_04_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
+sp_ui_trainermemo_05_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 만난 것 같다.
+sp_ui_trainermemo_06_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
 sp_ui_label	라벨
 sp_ui_label_create	라벨 작성
 sp_ui_new_label_create	신규 라벨 작성

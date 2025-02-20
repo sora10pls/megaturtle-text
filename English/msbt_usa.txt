@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_usa.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	None
+ITEMNAME_001	Master Ball
+ITEMNAME_002	Ultra Ball
+ITEMNAME_003	Great Ball
+ITEMNAME_004	Poké Ball
+ITEMNAME_005	Safari Ball
+ITEMNAME_006	Net Ball
+ITEMNAME_007	Dive Ball
+ITEMNAME_008	Nest Ball
+ITEMNAME_009	Repeat Ball
+ITEMNAME_010	Timer Ball
+ITEMNAME_011	Luxury Ball
+ITEMNAME_012	Premier Ball
+ITEMNAME_013	Dusk Ball
+ITEMNAME_014	Heal Ball
+ITEMNAME_015	Quick Ball
+ITEMNAME_016	Cherish Ball
+ITEMNAME_492	Fast Ball
+ITEMNAME_493	Level Ball
+ITEMNAME_494	Lure Ball
+ITEMNAME_495	Heavy Ball
+ITEMNAME_496	Love Ball
+ITEMNAME_497	Friend Ball
+ITEMNAME_498	Moon Ball
+ITEMNAME_499	Sport Ball
+ITEMNAME_500	Park Ball
+ITEMNAME_576	Dream Ball
+ITEMNAME_851	Beast Ball
+
+~~~~~~~~~~~~~~~
 Text File : monsname_usa.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	Egg
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	Battle Data is where you can check out all sorts o
 sp_monbo_battle_data_0001_002	You can check the rankings of Trainers around the world. You can even check your own Battle Records if you've linked your Nintendo Account. Isn't that cool?
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_usa.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	Gift for using the Wonder Box!
+sp_mystery_0001_2	To celebrate your first trade using the Wonder Box, you'll be gifted an Eevee!
+sp_mystery_0002_1	Gift for receiving a Mystery Gift!
+sp_mystery_0002_2	To celebrate receiving your first Mystery Gift, you'll be gifted a Zigzagoon!
+sp_mystery_0003_1	Gift for using the GTS!
+sp_mystery_0003_2	To celebrate your first trade using the GTS, you'll be gifted a Rotom!
+sp_mystery_0004_1	Gift for creating a Binder!
+sp_mystery_0004_2	To celebrate you putting a sticker on your Binder for the first time, you'll be gifted a Pichu!
+sp_mystery_0005_1	Gift for completing the National Pokédex!
+sp_mystery_0005_2	To celebrate registering so many Pokémon and completing the National Pokédex, you'll be gifted a Magearna!
+sp_mystery_0006_1	Gift for connecting to Galar 1!
+sp_mystery_0006_2	You've connected Pokémon Sword or Pokémon Shield to Pokémon HOME! Here's a Grookey as a special gift!
+sp_mystery_0007_1	Gift for connecting to Galar 2!
+sp_mystery_0007_2	You've connected Pokémon Sword or Pokémon Shield to Pokémon HOME! Here's a Scorbunny as a special gift!
+sp_mystery_0008_1	Gift for connecting to Galar 3!
+sp_mystery_0008_2	You've connected Pokémon Sword or Pokémon Shield to Pokémon HOME! Here's a Sobble as a special gift!
+sp_mystery_0009_1	Victory over Zeraora ①
+sp_mystery_0009_2	Congratulations! We hit our first target for the number of Trainers who defeated Zeraora in special Max Raid Battles! As a reward, you'll receive a special Zeraora for your team!
+sp_mystery_0010_1	Victory over Zeraora ②
+sp_mystery_0010_2	Congratulations! We hit a further target for the number of Trainers who defeated Zeraora in special Max Raid Battles! As a reward, you'll receive some Armorite Ore!
+sp_mystery_0011_1	Gift for linking Pokémon GO
+sp_mystery_0011_2	You transferred a Pokémon from Pokémon GO for the first time! As a reward, you'll receive a special Melmetal that is capable of Gigantamaxing!
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	Excellent! Access successful!
@@ -2215,9 +2273,41 @@ sp_option_change	Change
 sp_option_filter_0001_vgo	Search Pokémon Boxes
 sp_option_filter_0002_vgo	Save Search Settings
 sp_option_filter_0003_vgo	The currently saved search settings for your Pokémon Boxes will be reset. Do you want to continue?
+sp_option_filter_0004_v4	Wonder Box
+sp_option_filter_0005_v4	The currently saved search settings for the Wonder Box will be reset. Do you want to continue?
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	The currently saved search settings for the GTS will be reset. Do you want to continue?
+sp_option_filter_0008_v4	Room Trade
+sp_option_filter_0009_v4	The currently saved search settings for Room Trade will be reset. Do you want to continue?
+sp_option_filter_0010_v4	National Pokédex
+sp_option_filter_0011_v4	The currently saved search settings for the National Pokédex will be reset. Do you want to continue?
+sp_option_filter_0012_v4	Select All
+sp_option_filter_0013_v4	All the currently saved search conditions will be reset. Do you want to continue?
+sp_option_filter_0014_v4	Saved Search Conditions
+sp_option_filter_0015_v4	Choose which features will save search conditions.
+sp_option_filter_0016_v4	Adjust
+sp_option_filter_0017_v4	Which features should autosave their search conditions?
+sp_option_filter_0018_v4	Pokémon Boxes
+sp_option_filter_0019_v4	Saved Search Conditions
 sp_option_sort_0001_vgo	Sort Pokémon Boxes
 sp_option_sort_0002_vgo	Save Sorting Settings
 sp_option_sort_0003_vgo	The currently saved settings for sorting your Pokémon Boxes will be reset. Do you want to continue?
+sp_option_sort_0004_v4	Wonder Box
+sp_option_sort_0005_v4	The currently saved settings for sorting the Wonder Box will be reset. Do you want to continue?
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	The currently saved settings for sorting the GTS will be reset. Do you want to continue?
+sp_option_sort_0008_v4	Room Trade
+sp_option_sort_0009_v4	The currently saved settings for sorting Room Trades will be reset. Do you want to continue?
+sp_option_sort_0010_v4	National Pokédex
+sp_option_sort_0011_v4	The currently saved settings for sorting the National Pokédex will be reset. Do you want to continue?
+sp_option_sort_0012_v4	Select All
+sp_option_sort_0013_v4	All the currently saved sorting settings will be reset. Do you want to continue?
+sp_option_sort_0014_v4	Saved Sorting Settings
+sp_option_sort_0015_v4	Choose which features will save sorting settings.
+sp_option_sort_0016_v4	Adjust
+sp_option_sort_0017_v4	Which features should autosave their sorting settings?
+sp_option_sort_0018_v4	Pokémon Boxes
+sp_option_sort_0019_v4	Saved Sorting Settings
 sp_option_notice_00001	Receive notifications
 sp_option_notice_00005	Other
 sp_option_notice_00006	Notifications
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	You can't select more Pokémon than the number of empt
 sp_trade_miracle_00017_v3	No Pokémon are selected. Please choose Pokémon to deposit.
 sp_trade_miracle_00018_v3	On the summary screen, swipe to switch between Pokémon.
 sp_trade_miracle_change_plan_confirm	You need to have the Premium Plan to deposit Pokémon in all the spaces. Would you like to change your plan?
+sp_trade_miracle_receive_all_v4	Receive all Pokémon
+sp_trade_miracle_update_v4	It seems some Pokémon have been traded. Please check the Wonder Box.
 sp_trade_group_00002	Number of participants
 sp_trade_group_00003	Pokémon to be traded:
 sp_trade_group_00004	Visible
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	Mint applied
 sp_trade_gts_00019_v1	You have specified a special Pokémon as the Pokémon you want. Please select a different Pokémon.
 sp_trade_gts_00020_v3	Include people searching for Pokémon you don't have
 sp_trade_gts_00021_v3	Include people searching for Legendary, Mythical, and other special Pokémon
+sp_trade_gts_00022_v4	You have indicated that you want special Pokémon. Special Pokémon can't be traded. Please select a different Pokémon.
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
 sp_trade_gts_01002	I want to trade for a Pokémon that will help me with my adventure.
 sp_trade_gts_01003	I want to trade for a Pokémon that is strong in battles.
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	Origin mark
 sp_ui_parent	OT
 sp_ui_shape	Shape
 sp_ui_color	Color
+sp_ui_ball_v4	Poké Ball
+sp_ui_language_v4	Language
 sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
 sp_ui_filter_seikaku_1_m	Hardy Nature (no mints used)
 sp_ui_filter_seikaku_2_m	Lonely Nature or Mint
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	Good stats
 sp_ui_total_evaluate_03	Great stats!
 sp_ui_total_evaluate_04	Amazing stats!
 sp_ui_lumpribbon_num	[VAR]
+sp_ui_parent_and_id_v4	OT and ID No.
+sp_ui_trainermemo_01_v04	First met in [VAR_LOCATION] on [VAR_DAY]/[VAR]/[VAR_YEAR].
+sp_ui_trainermemo_02_v04	Seems to have been first met in [VAR_LOCATION] on [VAR_DAY]/[VAR]/[VAR_YEAR].
+sp_ui_trainermemo_03_v04	Had a fateful encounter in [VAR_LOCATION] on [VAR_DAY]/[VAR]/[VAR_YEAR].
+sp_ui_trainermemo_04_v04	Seems to have had a fateful encounter in [VAR_LOCATION] on [VAR_DAY]/[VAR]/[VAR_YEAR].
+sp_ui_trainermemo_05_v04	Seems to have been first met in [VAR_LOCATION] in the good old days, on [VAR_DAY]/[VAR]/[VAR_YEAR].
+sp_ui_trainermemo_06_v04	Seems to have had a fateful encounter in [VAR_LOCATION] in the good old days, on [VAR_DAY]/[VAR]/[VAR_YEAR].
 sp_ui_label	Labels
 sp_ui_label_create	Create a label
 sp_ui_new_label_create	Create a new label

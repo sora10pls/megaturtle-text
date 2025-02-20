@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_deu.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	Kein Item
+ITEMNAME_001	Meisterball
+ITEMNAME_002	Hyperball
+ITEMNAME_003	Superball
+ITEMNAME_004	Pokéball
+ITEMNAME_005	Safariball
+ITEMNAME_006	Netzball
+ITEMNAME_007	Tauchball
+ITEMNAME_008	Nestball
+ITEMNAME_009	Wiederball
+ITEMNAME_010	Timerball
+ITEMNAME_011	Luxusball
+ITEMNAME_012	Premierball
+ITEMNAME_013	Finsterball
+ITEMNAME_014	Heilball
+ITEMNAME_015	Flottball
+ITEMNAME_016	Jubelball
+ITEMNAME_492	Turboball
+ITEMNAME_493	Levelball
+ITEMNAME_494	Köderball
+ITEMNAME_495	Schwerball
+ITEMNAME_496	Sympaball
+ITEMNAME_497	Freundesball
+ITEMNAME_498	Mondball
+ITEMNAME_499	Turnierball
+ITEMNAME_500	Parkball
+ITEMNAME_576	Traumball
+ITEMNAME_851	Ultraball
+
+~~~~~~~~~~~~~~~
 Text File : monsname_deu.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	Ei
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	Unter den Kampfdaten kannst du verschiedene Inform
 sp_monbo_battle_data_0001_002	Dort findest du zum Beispiel Ranglisten aller Trainer weltweit. Außerdem kannst du deine eigenen Kampfergebnisse überprüfen, sofern du dein Konto mit deinem Nintendo-Account verknüpft hast.
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_deu.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	Erster Wunderbox-Tausch!
+sp_mystery_0001_2	Du hast zum ersten Mal per Wunderbox Pokémon getauscht. Als Belohnung bekommst du ein Evoli geschenkt!
+sp_mystery_0002_1	Erstes Geheimgeschenk!
+sp_mystery_0002_2	Du hast zum ersten Mal ein Geheimgeschenk erhalten. Als Belohnung bekommst du ein Zigzachs geschenkt!
+sp_mystery_0003_1	Erster GTS-Tausch!
+sp_mystery_0003_2	Du hast zum ersten Mal über das GTS Pokémon getauscht. Als Belohnung bekommst du ein Rotom geschenkt!
+sp_mystery_0004_1	Erster Sticker im Stickeralbum!
+sp_mystery_0004_2	Du hast den ersten Sticker in dein Stickeralbum geklebt. Als Belohnung bekommst du ein Pichu geschenkt!
+sp_mystery_0005_1	Nationaler Pokédex vollständig!
+sp_mystery_0005_2	Du hast viele Pokémon registriert und somit den Nationalen Pokédex vervollständigt. Als Belohnung bekommst du ein Magearna geschenkt!
+sp_mystery_0006_1	Mit Galar verlinkt! (Geschenk ①)
+sp_mystery_0006_2	Du hast Pokémon HOME mit Pokémon Schwert oder Pokémon Schild verlinkt. Als Belohnung bekommst du ein Chimpep geschenkt!
+sp_mystery_0007_1	Mit Galar verlinkt! (Geschenk ②)
+sp_mystery_0007_2	Du hast Pokémon HOME mit Pokémon Schwert oder Pokémon Schild verlinkt. Als Belohnung bekommst du ein Hopplo geschenkt!
+sp_mystery_0008_1	Mit Galar verlinkt! (Geschenk ③)
+sp_mystery_0008_2	Du hast Pokémon HOME mit Pokémon Schwert oder Pokémon Schild verlinkt. Als Belohnung bekommst du ein Memmeon geschenkt!
+sp_mystery_0009_1	Zeraora besiegt! (Geschenk ①)
+sp_mystery_0009_2	Glückwunsch! In den besonderen Dyna-Raids haben genug Trainer Zeraora besiegt, um den ersten Meilenstein zu erreichen! Als Belohnung erhältst du ein besonderes Zeraora!
+sp_mystery_0010_1	Zeraora besiegt! (Geschenk ②)
+sp_mystery_0010_2	Glückwunsch! In den besonderen Dyna-Raids haben genug Trainer Zeraora besiegt, um einen weiteren Meilenstein zu erreichen! Als Belohnung erhältst du Rüstungserz!
+sp_mystery_0011_1	Mit Pokémon GO verlinkt!
+sp_mystery_0011_2	Du hast zum ersten Mal ein Pokémon aus Pokémon GO übertragen! Als Belohnung bekommst du ein besonderes Melmetal geschenkt, das sich gigadynamaximieren kann!
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	Alles klärchen, du bist drin!
@@ -2215,9 +2273,41 @@ sp_option_change	Ändern
 sp_option_filter_0001_vgo	Suche in den Pokémon-Boxen
 sp_option_filter_0002_vgo	Sucheinstellungen speichern
 sp_option_filter_0003_vgo	Die derzeit gespeicherten Sucheinstellungen deiner Pokémon-Boxen werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_filter_0004_v4	Wunderbox
+sp_option_filter_0005_v4	Die derzeit gespeicherten Sucheinstellungen der Wunderbox werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	Die derzeit gespeicherten Sucheinstellungen des GTS werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_filter_0008_v4	Gruppentausch
+sp_option_filter_0009_v4	Die derzeit gespeicherten Sucheinstellungen des Gruppentauschs werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_filter_0010_v4	Nationaler Pokédex
+sp_option_filter_0011_v4	Die derzeit gespeicherten Sucheinstellungen des Nationalen Pokédex werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_filter_0012_v4	Alle auswählen
+sp_option_filter_0013_v4	Alle derzeit gespeicherten Sucheinstellungen werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_filter_0014_v4	Sucheinstellungen
+sp_option_filter_0015_v4	Hier kannst du einzelne Sucheinstellungen speichern.
+sp_option_filter_0016_v4	Speichereinstellungen
+sp_option_filter_0017_v4	Welche Sucheinstellungen sollen gespeichert werden?
+sp_option_filter_0018_v4	Pokémon-Boxen
+sp_option_filter_0019_v4	Gespeicherte Sucheinstellungen
 sp_option_sort_0001_vgo	Sortierung der Pokémon-Boxen
 sp_option_sort_0002_vgo	Sortierungseinstellungen speichern
 sp_option_sort_0003_vgo	Die derzeit gespeicherten Sortierungseinstellungen deiner Pokémon-Boxen werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_sort_0004_v4	Wunderbox
+sp_option_sort_0005_v4	Die derzeit gespeicherten Sortierungseinstellungen der Wunderbox werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	Die derzeit gespeicherten Sortierungseinstellungen des GTS werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_sort_0008_v4	Gruppentausch
+sp_option_sort_0009_v4	Die derzeit gespeicherten Sortierungseinstellungen des Gruppentauschs werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_sort_0010_v4	Nationaler Pokédex
+sp_option_sort_0011_v4	Die derzeit gespeicherten Sortierungseinstellungen des Nationalen Pokédex werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_sort_0012_v4	Alle auswählen
+sp_option_sort_0013_v4	Alle derzeit gespeicherten Sortierungseinstellungen werden zurückgesetzt. Möchtest du fortfahren?
+sp_option_sort_0014_v4	Sortierungseinstellungen
+sp_option_sort_0015_v4	Hier kannst du einzelne Sortierungseinstellungen speichern.
+sp_option_sort_0016_v4	Speichereinstellungen
+sp_option_sort_0017_v4	Welche Sortierungseinstellungen sollen gespeichert werden?
+sp_option_sort_0018_v4	Pokémon-Boxen
+sp_option_sort_0019_v4	Gespeicherte Sortierungseinstellungen
 sp_option_notice_00001	Mitteilungen erhalten
 sp_option_notice_00005	Sonstiges
 sp_option_notice_00006	Mitteilungen
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	Du kannst nur so viele Pokémon auswählen, wie dir fr
 sp_trade_miracle_00017_v3	Du hast keine Pokémon ausgewählt. Bitte wähle die Pokémon aus, die du ablegen möchtest.
 sp_trade_miracle_00018_v3	In der Bericht-Ansicht kannst du durch Wischen das Pokémon wechseln.
 sp_trade_miracle_change_plan_confirm	Wenn du die maximale Anzahl an Pokémon zum Tausch anbieten willst, musst du zum kostenpflichtigen Premium-Service wechseln.  Möchtest du den Service wechseln?
+sp_trade_miracle_receive_all_v4	Alle Pokémon empfangen
+sp_trade_miracle_update_v4	Manche Pokémon scheinen getauscht worden zu sein. Bitte überprüfe die Wunderbox.
 sp_trade_group_00002	Teilnehmerzahl
 sp_trade_group_00003	Getauschte Pokémon anzeigen?
 sp_trade_group_00004	Anzeigen
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	Minze eingesetzt
 sp_trade_gts_00019_v1	Du hast ein besonderes Pokémon als gewünschtes Pokémon festgelegt. Bitte wähle ein anderes Pokémon aus.
 sp_trade_gts_00020_v3	Inklusive Spielern, die Pokémon suchen, die du nicht besitzt
 sp_trade_gts_00021_v3	Inklusive Spielern, die Legendäre, Mysteriöse oder andere besondere Pokémon suchen
+sp_trade_gts_00022_v4	Du hast ein besonderes Pokémon als gewünschtes Pokémon festgelegt. Besondere Pokémon können nicht getauscht werden. Bitte wähle ein anderes Pokémon aus.
 sp_trade_gts_01001	Hallo! Lass uns tauschen!
 sp_trade_gts_01002	Ich bin auf der Suche nach einem Pokémon, das mir auf meinem Abenteuer weiterhilft!
 sp_trade_gts_01003	Ich bin auf der Suche nach einem Pokémon, das in Kämpfen zu Hochtouren aufläuft!
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	Herkunftssymbol
 sp_ui_parent	Originaltrainer
 sp_ui_shape	Silhouette
 sp_ui_color	Farbe
+sp_ui_ball_v4	Pokéball
+sp_ui_language_v4	Sprache
 sp_ui_filter_parent	[VAR_PLAYER] ([VAR_TID])
 sp_ui_filter_seikaku_1_m	Robust (ohne Minze)
 sp_ui_filter_seikaku_2_m	Solo/Solo-Minze
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	Großes Potenzial
 sp_ui_total_evaluate_03	Sehr großes Potenzial
 sp_ui_total_evaluate_04	Exzellentes Potenzial
 sp_ui_lumpribbon_num	[VAR]
+sp_ui_parent_and_id_v4	Originaltrainer und ID-Nr.
+sp_ui_trainermemo_01_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Herkunft: [VAR_LOCATION]
+sp_ui_trainermemo_02_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION]
+sp_ui_trainermemo_03_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Herkunft: [VAR_LOCATION]
+sp_ui_trainermemo_04_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION]
+sp_ui_trainermemo_05_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
+sp_ui_trainermemo_06_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
 sp_ui_label	Labels
 sp_ui_label_create	Label erstellen
 sp_ui_new_label_create	Neues Label erstellen

@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_jpn_kanji.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	なし
+ITEMNAME_001	マスターボール
+ITEMNAME_002	ハイパーボール
+ITEMNAME_003	スーパーボール
+ITEMNAME_004	モンスターボール
+ITEMNAME_005	サファリボール
+ITEMNAME_006	ネットボール
+ITEMNAME_007	ダイブボール
+ITEMNAME_008	ネストボール
+ITEMNAME_009	リピートボール
+ITEMNAME_010	タイマーボール
+ITEMNAME_011	ゴージャスボール
+ITEMNAME_012	プレミアボール
+ITEMNAME_013	ダークボール
+ITEMNAME_014	ヒールボール
+ITEMNAME_015	クイックボール
+ITEMNAME_016	プレシャスボール
+ITEMNAME_492	スピードボール
+ITEMNAME_493	レベルボール
+ITEMNAME_494	ルアーボール
+ITEMNAME_495	ヘビーボール
+ITEMNAME_496	ラブラブボール
+ITEMNAME_497	フレンドボール
+ITEMNAME_498	ムーンボール
+ITEMNAME_499	コンペボール
+ITEMNAME_500	パークボール
+ITEMNAME_576	ドリームボール
+ITEMNAME_851	ウルトラボール
+
+~~~~~~~~~~~~~~~
 Text File : monsname_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	タマゴ
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトル�
 sp_monbo_battle_data_0001_002	世界中の　トレーナーの　ランキングを　見たり ニンテンドーアカウントを　連携していると これまでの　自分の戦績も　確認できるんだモン！
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_jpn_kanji.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	ミラクルボックス交換成立記念！
+sp_mystery_0001_2	はじめて　ミラクルボックスで　 ポケモン交換が　成立した！ 記念に　イーブイを　プレゼント！
+sp_mystery_0002_1	ふしぎなおくりもの受け取り記念！
+sp_mystery_0002_2	はじめて　ふしぎなおくりものを 受け取った！ 記念に　ジグザグマを　プレゼント！
+sp_mystery_0003_1	GTS交換成立記念！
+sp_mystery_0003_2	はじめて　GTSで　ポケモン交換が 成立した！ 記念に　ロトムを　プレゼント！ 
+sp_mystery_0004_1	バインダー作成記念！
+sp_mystery_0004_2	はじめて　バインダーに　シールを 貼りつけた！ 記念に　ピチューを　プレゼント！
+sp_mystery_0005_1	全国図鑑完成記念！
+sp_mystery_0005_2	たくさんの　ポケモンを　登録して 全国図鑑を　完成させた！ 記念に　マギアナを　プレゼント！
+sp_mystery_0006_1	『ポケモン SW・SH』連携記念！①
+sp_mystery_0006_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　連携させた！ 記念に　サルノリを　プレゼント！
+sp_mystery_0007_1	『ポケモン SW・SH』連携記念！②
+sp_mystery_0007_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　連携させた！ 記念に　ヒバニーを　プレゼント！
+sp_mystery_0008_1	『ポケモン SW・SH』連携記念！③
+sp_mystery_0008_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　連携させた！ 記念に　メッソンを　プレゼント！
+sp_mystery_0009_1	ゼラオラ勝利記念！①
+sp_mystery_0009_2	特別な　マックスレイドバトルで ゼラオラを　倒した　トレーナーの 人数が　目標を　達成！ 記念に　特別なゼラオラを　プレゼント！
+sp_mystery_0010_1	ゼラオラ勝利記念！②
+sp_mystery_0010_2	特別な　マックスレイドバトルで ゼラオラを　倒した　トレーナーの 人数が　目標を　達成！ 記念に　ヨロイこうせきを　プレゼント！
+sp_mystery_0011_1	『Pokémon GO』連携記念
+sp_mystery_0011_2	はじめて　『Pokémon GO』から ポケモンを　転送した！ 記念に　キョダイマックスできる 特別な　メルメタルを　プレゼント！
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	オーケイ！　アクセス　成功だ！
@@ -2215,9 +2273,41 @@ sp_option_change	変更
 sp_option_filter_0001_vgo	ポケモンボックスの　検索
 sp_option_filter_0002_vgo	検索設定を　保存する
 sp_option_filter_0003_vgo	現在保存されている　ポケモンボックスの 検索設定が　リセットされます よろしいですか？
+sp_option_filter_0004_v4	ミラクルボックス
+sp_option_filter_0005_v4	現在保存されている　ミラクルボックスの 検索設定が　リセットされます よろしいですか？
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	現在保存されている　GTSの 検索設定が　リセットされます よろしいですか？
+sp_option_filter_0008_v4	グループ交換
+sp_option_filter_0009_v4	現在保存されている　グループ交換の 検索設定が　リセットされます よろしいですか？
+sp_option_filter_0010_v4	全国図鑑
+sp_option_filter_0011_v4	現在保存されている　全国図鑑の 検索設定が　リセットされます よろしいですか？
+sp_option_filter_0012_v4	全ての項目を　選択する
+sp_option_filter_0013_v4	現在保存されている　全ての 検索設定が　リセットされます よろしいですか？
+sp_option_filter_0014_v4	検索の　設定
+sp_option_filter_0015_v4	検索の状態を　個別に保存する
+sp_option_filter_0016_v4	保存の　設定をする
+sp_option_filter_0017_v4	どの項目の　検索設定を 保存しますか？
+sp_option_filter_0018_v4	ポケモンボックス
+sp_option_filter_0019_v4	検索設定の　保存
 sp_option_sort_0001_vgo	ポケモンボックスの　並び順
 sp_option_sort_0002_vgo	並び順設定を　保存する
 sp_option_sort_0003_vgo	現在保存されている　ポケモンボックスの 並び順設定が　リセットされます よろしいですか？
+sp_option_sort_0004_v4	ミラクルボックス
+sp_option_sort_0005_v4	現在保存されている　ミラクルボックスの 並び順設定が　リセットされます よろしいですか？
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	現在保存されている　GTSの 並び順設定が　リセットされます よろしいですか？
+sp_option_sort_0008_v4	グループ交換
+sp_option_sort_0009_v4	現在保存されている　グループ交換の 並び順設定が　リセットされます よろしいですか？
+sp_option_sort_0010_v4	全国図鑑
+sp_option_sort_0011_v4	現在保存されている　全国図鑑の 並び順設定が　リセットされます よろしいですか？
+sp_option_sort_0012_v4	全ての項目を　選択する
+sp_option_sort_0013_v4	現在保存されている　全ての 並び順設定が　リセットされます よろしいですか？
+sp_option_sort_0014_v4	並び順の　設定
+sp_option_sort_0015_v4	並び順の状態を　個別に保存する
+sp_option_sort_0016_v4	保存の　設定をする
+sp_option_sort_0017_v4	どの項目の　並び順設定を 保存しますか？
+sp_option_sort_0018_v4	ポケモンボックス
+sp_option_sort_0019_v4	並び順設定の　保存
 sp_option_notice_00001	通知を　受け取る
 sp_option_notice_00005	その他
 sp_option_notice_00006	通知
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	空き数以上の　ポケモンを 選択するこ�
 sp_trade_miracle_00017_v3	ポケモンが　選択されていません 預けるポケモンを　選択してください
 sp_trade_miracle_00018_v3	次の画面で　ポケモンを スワイプで　切り替えられます
 sp_trade_miracle_change_plan_confirm	全ての枠に　ポケモンを　預けるには プレミアムプランの　加入が　必要です  プラン変更を　しますか？
+sp_trade_miracle_receive_all_v4	ポケモンを　全て受け取る
+sp_trade_miracle_update_v4	一部のポケモンが　交換されたようです 一度ミラクルボックスへ 戻ってください
 sp_trade_group_00002	参加人数
 sp_trade_group_00003	交換するポケモンは
 sp_trade_group_00004	見える
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	ミント変更後
 sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指定されています　選びなおしてください
 sp_trade_gts_00020_v3	自分が　持っていない　ポケモンを 探している人を　含む
 sp_trade_gts_00021_v3	伝説や　幻などの　特別な ポケモンを　探している人を　含む
+sp_trade_gts_00022_v4	ほしいポケモンに　特別な　ポケモンが　 指定されています 特別な　ポケモンは　交換できません 選びなおしてください　
 sp_trade_gts_01001	交換を　してください よろしく　お願いします
 sp_trade_gts_01002	冒険を　助けてくれる ポケモンと　交換したいです
 sp_trade_gts_01003	対戦で　強い　ポケモンと 交換したいです
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	出身マーク
 sp_ui_parent	おや
 sp_ui_shape	形
 sp_ui_color	色
+sp_ui_ball_v4	ボール
+sp_ui_language_v4	言語
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	平均　以上の　能力
 sp_ui_total_evaluate_03	相当　優秀な　能力
 sp_ui_total_evaluate_04	素晴らしい　能力
 sp_ui_lumpribbon_num	[VAR]個
+sp_ui_parent_and_id_v4	おや　と　IDNo.
+sp_ui_trainermemo_01_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 出会った。
+sp_ui_trainermemo_02_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 出会った　ようだ。
+sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 運命的な　出会いをした。
+sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 運命的な　出会いをした　ようだ。
+sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 懐かしの　[VAR_LOCATION]で 出会った　ようだ。
+sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 懐かしの　[VAR_LOCATION]で 運命的な　出会いをした　ようだ。
 sp_ui_label	ラベル
 sp_ui_label_create	ラベル作成
 sp_ui_new_label_create	新規ラベル作成

@@ -1,4 +1,36 @@
 ~~~~~~~~~~~~~~~
+Text File : itemname_tch.msbt
+~~~~~~~~~~~~~~~
+ITEMNAME_000	無
+ITEMNAME_001	大師球
+ITEMNAME_002	高級球
+ITEMNAME_003	超級球
+ITEMNAME_004	精靈球
+ITEMNAME_005	狩獵球
+ITEMNAME_006	捕網球
+ITEMNAME_007	潛水球
+ITEMNAME_008	巢穴球
+ITEMNAME_009	重複球
+ITEMNAME_010	計時球
+ITEMNAME_011	豪華球
+ITEMNAME_012	紀念球
+ITEMNAME_013	黑暗球
+ITEMNAME_014	治癒球
+ITEMNAME_015	先機球
+ITEMNAME_016	貴重球
+ITEMNAME_492	速度球
+ITEMNAME_493	等級球
+ITEMNAME_494	誘餌球
+ITEMNAME_495	沉重球
+ITEMNAME_496	甜蜜球
+ITEMNAME_497	友友球
+ITEMNAME_498	月亮球
+ITEMNAME_499	競賽球
+ITEMNAME_500	公園球
+ITEMNAME_576	夢境球
+ITEMNAME_851	究極球
+
+~~~~~~~~~~~~~~~
 Text File : monsname_tch.msbt
 ~~~~~~~~~~~~~~~
 MONSNAME_000	蛋
@@ -2112,6 +2144,32 @@ sp_monbo_battle_data_0001_001	在對戰資料中可以查看各種 有關寶可�
 sp_monbo_battle_data_0001_002	比如說可以看到世界各地訓練家的排行榜。 如果有和Nintendo Account連結， 還能確認到目前為止自己的成績喔萌！ 
 
 ~~~~~~~~~~~~~~~
+Text File : sp_mystery_tch.msbt
+~~~~~~~~~~~~~~~
+sp_mystery_0001_1	奇蹟盒子交換成功紀念！
+sp_mystery_0001_2	第一次透過奇蹟盒子成功交換寶可夢！ 送你一隻伊布作為紀念！
+sp_mystery_0002_1	神秘禮物領取紀念！
+sp_mystery_0002_2	第一次接收了神秘禮物！ 送你一隻蛇紋熊作為紀念！
+sp_mystery_0003_1	GTS交換成功紀念！
+sp_mystery_0003_2	第一次透過GTS成功交換寶可夢！ 送你一隻洛托姆作為紀念！
+sp_mystery_0004_1	貼紙簿製作紀念！
+sp_mystery_0004_2	第一次在貼紙簿上貼了貼紙！ 送你一隻皮丘作為紀念！
+sp_mystery_0005_1	全國圖鑑完成紀念！
+sp_mystery_0005_2	登錄了許多寶可夢，完成了全國圖鑑！ 送你一隻瑪機雅娜作為紀念！
+sp_mystery_0006_1	『寶可夢 劍／盾』連結紀念！①
+sp_mystery_0006_2	已將『寶可夢 劍／盾』與 『Pokémon HOME』連結！ 送你一隻敲音猴作為紀念！
+sp_mystery_0007_1	『寶可夢 劍／盾』連結紀念！②
+sp_mystery_0007_2	已將『寶可夢 劍／盾』 與『Pokémon HOME』連結！ 送你一隻炎兔兒作為紀念！
+sp_mystery_0008_1	『寶可夢 劍／盾』連結紀念！③
+sp_mystery_0008_2	已將『寶可夢 劍／盾』 與『Pokémon HOME』連結！ 送你一隻淚眼蜥作為紀念！
+sp_mystery_0009_1	捷拉奧拉勝利紀念！①
+sp_mystery_0009_2	在紀念『寶可夢 劍／盾 擴充票』第1彈 「鎧之孤島」發佈的特別極巨團體戰中， 打倒捷拉奧拉的訓練家人數已達成目標！ 送你一隻特別的捷拉奧拉作為紀念！
+sp_mystery_0010_1	捷拉奧拉勝利紀念！②
+sp_mystery_0010_2	在紀念『寶可夢 劍／盾 擴充票』第1彈 「鎧之孤島」發佈的特別極巨團體戰中， 打倒捷拉奧拉的訓練家人數已達成目標！ 送你鎧甲礦石作為紀念！
+sp_mystery_0011_1	『Pokémon GO』連結紀念
+sp_mystery_0011_2	第一次從『Pokémon GO』 傳送寶可夢過來了！ 送你一隻可以超極巨化的 特別美錄梅塔作為紀念！
+
+~~~~~~~~~~~~~~~
 Text File : sp_oak_tch.msbt
 ~~~~~~~~~~~~~~~
 sp_oak_00001	OK！連線成功了！
@@ -2215,9 +2273,41 @@ sp_option_change	變更
 sp_option_filter_0001_vgo	寶可夢盒的搜尋
 sp_option_filter_0002_vgo	儲存搜尋設定
 sp_option_filter_0003_vgo	目前所保存的寶可夢盒 搜尋設定將被重置。 確定要繼續嗎？
+sp_option_filter_0004_v4	奇蹟盒子
+sp_option_filter_0005_v4	目前所儲存的奇蹟盒子 搜尋設定將被重置。 確定要繼續嗎？
+sp_option_filter_0006_v4	GTS
+sp_option_filter_0007_v4	目前所儲存的GTS 搜尋設定將被重置。 確定要繼續嗎？
+sp_option_filter_0008_v4	群組交換
+sp_option_filter_0009_v4	目前所儲存的群組交換 搜尋設定將被重置。 確定要繼續嗎？
+sp_option_filter_0010_v4	全國圖鑑
+sp_option_filter_0011_v4	目前所儲存的全國圖鑑 搜尋設定將被重置。 確定要繼續嗎？
+sp_option_filter_0012_v4	選擇所有項目
+sp_option_filter_0013_v4	目前所儲存的所有 搜尋設定將被重置。 確定要繼續嗎？
+sp_option_filter_0014_v4	搜尋設定
+sp_option_filter_0015_v4	個別儲存搜尋的狀態
+sp_option_filter_0016_v4	進行儲存設定
+sp_option_filter_0017_v4	要儲存哪一個項目的 搜尋設定呢？
+sp_option_filter_0018_v4	寶可夢盒
+sp_option_filter_0019_v4	儲存搜尋設定
 sp_option_sort_0001_vgo	寶可夢盒的排列順序
 sp_option_sort_0002_vgo	儲存排列順序設定
 sp_option_sort_0003_vgo	目前所儲存的寶可夢盒 排列順序設定將被重置。 確定要繼續嗎？
+sp_option_sort_0004_v4	奇蹟盒子
+sp_option_sort_0005_v4	目前所儲存的奇蹟盒子 排列順序設定將被重置。 確定要繼續嗎？
+sp_option_sort_0006_v4	GTS
+sp_option_sort_0007_v4	目前所儲存的GTS 排列順序設定將被重置。 確定要繼續嗎？
+sp_option_sort_0008_v4	群組交換
+sp_option_sort_0009_v4	目前所儲存的群組交換 排列順序設定將被重置。 確定要繼續嗎？
+sp_option_sort_0010_v4	全國圖鑑
+sp_option_sort_0011_v4	目前所儲存的全國圖鑑 排列順序設定將被重置。 確定要繼續嗎？
+sp_option_sort_0012_v4	選擇所有項目
+sp_option_sort_0013_v4	目前所儲存的所有 排列順序設定將被重置。 確定要繼續嗎？
+sp_option_sort_0014_v4	排列順序設定
+sp_option_sort_0015_v4	個別儲存排列順序的狀態
+sp_option_sort_0016_v4	進行儲存設定
+sp_option_sort_0017_v4	要儲存哪一個項目的 排列順序設定呢？
+sp_option_sort_0018_v4	寶可夢盒
+sp_option_sort_0019_v4	儲存排列順序設定
 sp_option_notice_00001	接收通知
 sp_option_notice_00005	其他
 sp_option_notice_00006	通知
@@ -2481,6 +2571,8 @@ sp_trade_miracle_00016_v3	選擇的寶可夢數量 不能超過剩餘的空位�
 sp_trade_miracle_00017_v3	未選擇任何寶可夢。 請選擇要寄放的寶可夢。
 sp_trade_miracle_00018_v3	可在下一個畫面透過 滑動操作來切換寶可夢。
 sp_trade_miracle_change_plan_confirm	若要在所有的空位寄放寶可夢， 需加入進階方案。  要變更方案嗎？
+sp_trade_miracle_receive_all_v4	接收所有寶可夢
+sp_trade_miracle_update_v4	有部分的寶可夢似乎被交換掉了。 請先返回奇蹟盒子。
 sp_trade_group_00002	參加人數
 sp_trade_group_00003	要交換的寶可夢
 sp_trade_group_00004	看得到
@@ -2550,6 +2642,7 @@ sp_trade_gts_00018	薄荷變更後
 sp_trade_gts_00019_v1	想要的寶可夢目前指定的是 特殊的寶可夢。請重新選擇。
 sp_trade_gts_00020_v3	包含正在尋找 自己未持有的寶可夢的人
 sp_trade_gts_00021_v3	包含正在尋找傳說或幻之寶可夢 等特別的寶可夢的人
+sp_trade_gts_00022_v4	想要的寶可夢目前指定的是 特殊的寶可夢。 特殊的寶可夢無法交換。 請重新選擇。
 sp_trade_gts_01001	請進行交換。 拜託你了。
 sp_trade_gts_01002	我想要交換有助於 冒險的寶可夢。
 sp_trade_gts_01003	我想要交換善於 對戰的寶可夢。
@@ -2743,6 +2836,8 @@ sp_ui_production_location_mark	來源標記
 sp_ui_parent	初訓家
 sp_ui_shape	外形
 sp_ui_color	顏色
+sp_ui_ball_v4	精靈球
+sp_ui_language_v4	語言
 sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
 sp_ui_filter_seikaku_1_m	勤奮＋薄荷
 sp_ui_filter_seikaku_2_m	怕寂寞＋薄荷
@@ -2854,6 +2949,13 @@ sp_ui_total_evaluate_02	中等偏上的能力
 sp_ui_total_evaluate_03	相當優秀的能力
 sp_ui_total_evaluate_04	了不起的能力！
 sp_ui_lumpribbon_num	[VAR]個
+sp_ui_parent_and_id_v4	初訓家與IDNo.
+sp_ui_trainermemo_01_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 在[VAR_LOCATION] 遇見了牠。
+sp_ui_trainermemo_02_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 好像是在[VAR_LOCATION] 遇見了牠。
+sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 好像是在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 遇見了牠。
+sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
 sp_ui_label	標籤
 sp_ui_label_create	製作標籤
 sp_ui_new_label_create	製作新標籤
