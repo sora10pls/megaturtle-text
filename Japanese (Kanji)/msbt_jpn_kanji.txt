@@ -1898,6 +1898,7 @@ sp_api_400_10206	ポケモンの　空きスペースが　足りません！
 sp_api_500_10208	ご使用中の　ニンテンドーアカウントは ニンテンドーネットワークIDと 連携して　いません
 sp_api_500_10209	プレミアムプランでは　ないため この操作は　できません
 sp_api_500_10211	ご使用中の　ニンテンドーアカウントと 連携する　ニンテンドーネットワークIDに 有効な　『ポケモンバンク』は 見つかりませんでした
+sp_api_400_10212	この『ポケモンバンク』から ひっこしすることは　できません
 sp_api_400_10309	既に　プレミアムプランです
 sp_api_403_10310	Nintendo Switch版　Pokémon HOMEで 購入処理中です そちらの処理を　完了させてください
 sp_api_403_10311	スマートフォン(iOS)版　Pokémon HOMEで 購入処理中です そちらの処理を　完了させてください
@@ -2059,6 +2060,11 @@ sp_languageconfirm_003	いいえ
 sp_languageconfirm_004	選択した 言語の 確認
 
 ~~~~~~~~~~~~~~~
+Text File : sp_memory_jpn_kanji.msbt
+~~~~~~~~~~~~~~~
+sp_memory_01	Pokémon Day
+
+~~~~~~~~~~~~~~~
 Text File : sp_migration_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 sp_migration_00002	ポケモンバンク Ver[VAR]以上
@@ -2142,6 +2148,11 @@ sp_monbo_trade_top_0001_004	知っているユーザーで　グループをつ�
 sp_monbo_trade_top_0001_005	そうそう！　お友達と 『Pokémon HOME』の　フレンドだったら フレンド交換が　便利だから 使ってみて　ほしいんだモン！
 sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトルに　ついての 色んな　情報を　見ることが　できるモン！
 sp_monbo_battle_data_0001_002	世界中の　トレーナーの　ランキングを　見たり ニンテンドーアカウントを　連携していると これまでの　自分の戦績も　確認できるんだモン！
+sp_monbo_gift_0001_001	『Pokémon HOME』の　アップデート記念に プレゼントが　あるモン！
+sp_monbo_gift_0001_002	「ふしぎなおくりもの」から 受けとって　欲しいモン！
+sp_monbo_get_calendar_0001_001	ここは　ゲットカレンダー！ 『Pokémon HOME』に　預けているポケモンが 捕まえた日にち順に　並んでいるモン！
+sp_monbo_get_calendar_0001_002	記念日には　好きな日にちを 登録・編集することが　できるモン！ 登録した記念日に　捕まえたポケモンを 絞り込みできるモン！
+sp_monbo_get_calendar_0001_003	自分だけの　思い出の日を 記念日に　登録するといいモン！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_mystery_jpn_kanji.msbt
@@ -2168,6 +2179,10 @@ sp_mystery_0010_1	ゼラオラ勝利記念！②
 sp_mystery_0010_2	特別な　マックスレイドバトルで ゼラオラを　倒した　トレーナーの 人数が　目標を　達成！ 記念に　ヨロイこうせきを　プレゼント！
 sp_mystery_0011_1	『Pokémon GO』連携記念
 sp_mystery_0011_2	はじめて　『Pokémon GO』から ポケモンを　転送した！ 記念に　キョダイマックスできる 特別な　メルメタルを　プレゼント！
+sp_mystery_0012_1	スマホ版　Ver.1.4.0　リリース記念①
+sp_mystery_0012_2	『Pokémon HOME』スマートフォン版 Ver.1.4.0　リリース記念に フシギダネを　プレゼント！ 育てると　キョダイマックスできる フシギバナになるよ！
+sp_mystery_0013_1	スマホ版　Ver.1.4.0　リリース記念②
+sp_mystery_0013_2	『Pokémon HOME』スマートフォン版 Ver.1.4.0　リリース記念に ゼニガメを　プレゼント！ 育てると　キョダイマックスできる カメックスになるよ！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn_kanji.msbt
@@ -2722,6 +2737,7 @@ sp_ui_info	お知らせ
 sp_ui_myroom	マイルーム
 sp_ui_trade	交換
 sp_ui_mysterious_gift	ふしぎなおくりもの
+sp_ui_mysterious_gift_2	ふしぎな おくりもの
 sp_ui_settings	設定
 sp_ui_pgl	バトルデータ
 sp_ui_library	図鑑
@@ -3004,7 +3020,10 @@ sp_ui_gift_00010	受け取りました
 sp_ui_gift_00011	GPSが　起動できません
 sp_ui_gift_00012	タップしてシリアルコードを入力
 sp_ui_gift_seal	シール
+sp_ui_gift_point	ポイント
 sp_ui_gift_0013_v1	なし
+sp_ui_gift_0014_v5	受け取り済み ： [VAR]
+sp_ui_gift_0015_v5	[VAR] ポイント
 sp_ui_gift_01001	このエリアで　受け取れるもの
 sp_ui_gift_01002	プレゼントボックスで　受け取ってね！
 sp_ui_gift_01003	プレゼントボックス
@@ -3047,6 +3066,9 @@ sp_ui_notice_tab_1	すべて
 sp_ui_notice_tab_2	システム
 sp_ui_notice_tab_3	イベント
 sp_ui_notice_tab_4	バトル
+sp_ui_notice_tab_5	Pokémon HOME
+sp_ui_notice_tab_6	連携ソフト
+sp_ui_notice_tab_7	その他
 sp_ui_notice_category_1	お知らせ
 sp_ui_notice_category_2	重要な　お知らせ
 sp_ui_notice_category_3	メンテナンス
@@ -3054,8 +3076,12 @@ sp_ui_notice_category_4	アップデート
 sp_ui_notice_category_5	ポケモン SW・SH
 sp_ui_notice_category_6	キャンペーン
 sp_ui_notice_category_7	バトル
+sp_ui_notice_category_8	連携ソフト
+sp_ui_notice_category_9	その他の　お知らせ
+sp_ui_notice_category_10	アンケート
 sp_ui_notice_event_calender	イベントカレンダー
 sp_ui_notice_empty_list	表示できる　お知らせは　ありません
+sp_ui_notice_001_v5	マイルームへ
 sp_ui_voice_input	音声を　認識中…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もう一度　お試しください
 sp_ui_recognizer_limit_error	音声認識の　１日の使用回数が 限界に　達しました
@@ -3096,6 +3122,39 @@ sp_ui_go_over_capacity_title_vgo	空き不足
 sp_ui_go_pokemon_list_vgo	ボックスへ
 sp_ui_transfer_failure_vgo	『Pokémon GO』からの　引き取りが 正常に　完了しませんでした。 再度　引き取ってください。 タイトル画面に　戻ります。
 sp_ui_holoholo_trainer_name_vgo	Pokémon GO のトレーナー名
+sp_ui_model_viewer_001	操作方法
+sp_ui_model_viewer_002	タップ操作
+sp_ui_model_viewer_003	アクション
+sp_ui_model_viewer_004	ピンチ操作
+sp_ui_model_viewer_005	拡大／縮小
+sp_ui_model_viewer_006	スワイプ操作
+sp_ui_model_viewer_007	回転
+sp_ui_model_viewer_008	２点スワイプ操作
+sp_ui_model_viewer_009	縦移動／横移動
+sp_ui_get_calendar_v5	ゲットカレンダー
+sp_ui_calendar_v5	カレンダー
+sp_ui_memory_v5	記念日
+sp_ui_calendar_year_v5	年
+sp_ui_calendar_numerical_year_v5	[VAR_YEAR]年
+sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]年[VAR_MONTH]月
+sp_ui_calendar_numerical_month_day_v5	[VAR]月[VAR_MONTH]日
+sp_ui_calendar_numerical_date_v5	[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_ui_calendar_illegal_date_v5	不明な日にち
+sp_ui_calendar_date_v5	日付
+sp_ui_calendar_unspecified_v5	今日と同じ日付の記念日
+sp_ui_calendar_manage_memory_v5	記念日の管理
+sp_ui_calendar_register_memory_v5	記念日の登録
+sp_ui_calendar_register_memory_info_v5	記念日の　タイトルと　日付を 設定してください
+sp_ui_calendar_memory_title_v5	記念日のタイトル
+sp_ui_calendar_error_not_entered_v5	記念日の　タイトルと　日付が 設定されていません
+sp_ui_calendar_edit_v5	記念日の編集
+sp_ui_calendar_delete_v5	削除
+sp_ui_calendar_delete_confirm_v5	本当に　削除しますか？
+sp_ui_calendar_over_capacity_v5	記念日の　登録件数が　いっぱいです 登録した　記念日を　削除するか 記念日の　編集を　してください
+sp_ui_calendar_memory_empty_today_v5	記念日が　設定されていません
+sp_ui_calendar_empty_list_v5	表示できる　ポケモンは　いません
+sp_ui_calendar_days_v5	月／日
+sp_ui_calendar_able_edit_memory_v5	登録済の　記念日を　編集します
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn_kanji.msbt

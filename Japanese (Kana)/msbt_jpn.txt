@@ -1898,6 +1898,7 @@ sp_api_400_10206	ポケモンの　あきスペースが　たりません！
 sp_api_500_10208	ごしようちゅうの　ニンテンドーアカウントは ニンテンドーネットワークIDと れんけいして　いません
 sp_api_500_10209	プレミアムプランでは　ないため このそうさは　できません
 sp_api_500_10211	ごしようちゅうの　ニンテンドーアカウントと れんけいする　ニンテンドーネットワークIDに ゆうこうな　『ポケモンバンク』は みつかりませんでした
+sp_api_400_10212	この『ポケモンバンク』から ひっこしすることは　できません
 sp_api_400_10309	すでに　プレミアムプランです
 sp_api_403_10310	Nintendo Switchばん　Pokémon HOMEで こうにゅうしょりちゅうです そちらのしょりを　かんりょうさせてください
 sp_api_403_10311	スマートフォン(iOS)ばん　Pokémon HOMEで こうにゅうしょりちゅうです そちらのしょりを　かんりょうさせてください。
@@ -2059,6 +2060,11 @@ sp_languageconfirm_003	いいえ
 sp_languageconfirm_004	せんたくした げんごの かくにん
 
 ~~~~~~~~~~~~~~~
+Text File : sp_memory_jpn.msbt
+~~~~~~~~~~~~~~~
+sp_memory_01	Pokémon Day
+
+~~~~~~~~~~~~~~~
 Text File : sp_migration_jpn.msbt
 ~~~~~~~~~~~~~~~
 sp_migration_00002	ポケモンバンク Ver[VAR]いじょう
@@ -2142,6 +2148,11 @@ sp_monbo_trade_top_0001_004	しっているユーザーで　グループをつ�
 sp_monbo_trade_top_0001_005	そうそう！　おともだちと 『Pokémon HOME』の　フレンドだったら フレンドこうかんが　べんりだから つかってみて　ほしいんだモン！
 sp_monbo_battle_data_0001_001	バトルデータでは　ポケモンバトルに　ついての いろんな　じょうほうを　みることが　できるモン！
 sp_monbo_battle_data_0001_002	せかいじゅうの　トレーナーの　ランキングを　みたり ニンテンドーアカウントを　れんけいしていると これまでの　じぶんのせんせきも かくにん　できるんだモン！
+sp_monbo_gift_0001_001	『Pokémon HOME』の　アップデートきねんに プレゼントが　あるモン！
+sp_monbo_gift_0001_002	「ふしぎなおくりもの」から うけとって　ほしいモン！
+sp_monbo_get_calendar_0001_001	ここは　ゲットカレンダー！ 『Pokémon HOME』に　あずけているポケモンが つかまえたひにちじゅんに　ならんでいるモン！
+sp_monbo_get_calendar_0001_002	きねんびには　すきなひにちを とうろく・へんしゅうすることが　できるモン！ とうろくしたきねんびに　つかまえたポケモンを しぼりこみできるモン！
+sp_monbo_get_calendar_0001_003	じぶんだけの　おもいでのひを きねんびに　とうろくするといいモン！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_mystery_jpn.msbt
@@ -2168,6 +2179,10 @@ sp_mystery_0010_1	ゼラオラしょうりきねん！②
 sp_mystery_0010_2	とくべつな　マックスレイドバトルで ゼラオラを　たおした　トレーナーの にんずうが　もくひょうを　たっせい！ きねんに　ヨロイこうせきを　プレゼント！
 sp_mystery_0011_1	『Pokémon GO』れんけいきねん
 sp_mystery_0011_2	はじめて　『Pokémon GO』から ポケモンを　てんそうした！ きねんに　キョダイマックスできる とくべつな　メルメタルを　プレゼント！
+sp_mystery_0012_1	スマホばん　Ver.1.4.0　リリースきねん①
+sp_mystery_0012_2	『Pokémon HOME』スマートフォンばん Ver.1.4.0　リリースきねんに フシギダネを　プレゼント！ そだてると　キョダイマックスできる フシギバナになるよ！
+sp_mystery_0013_1	スマホばん　Ver.1.4.0　リリースきねん②
+sp_mystery_0013_2	『Pokémon HOME』スマートフォンばん Ver.1.4.0　リリースきねんに ゼニガメを　プレゼント！ そだてると　キョダイマックスできる カメックスになるよ！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn.msbt
@@ -2722,6 +2737,7 @@ sp_ui_info	おしらせ
 sp_ui_myroom	マイルーム
 sp_ui_trade	こうかん
 sp_ui_mysterious_gift	ふしぎなおくりもの
+sp_ui_mysterious_gift_2	ふしぎな おくりもの
 sp_ui_settings	せってい
 sp_ui_pgl	バトルデータ
 sp_ui_library	ずかん
@@ -3004,7 +3020,10 @@ sp_ui_gift_00010	うけとりました
 sp_ui_gift_00011	GPSが　きどうできません
 sp_ui_gift_00012	タップしてシリアルコードをにゅうりょく
 sp_ui_gift_seal	シール
+sp_ui_gift_point	ポイント
 sp_ui_gift_0013_v1	なし
+sp_ui_gift_0014_v5	うけとりずみ ： [VAR]
+sp_ui_gift_0015_v5	[VAR] ポイント
 sp_ui_gift_01001	このエリアで　うけとれるもの
 sp_ui_gift_01002	プレゼントボックスで　うけとってね！
 sp_ui_gift_01003	プレゼントボックス
@@ -3047,6 +3066,9 @@ sp_ui_notice_tab_1	すべて
 sp_ui_notice_tab_2	システム
 sp_ui_notice_tab_3	イベント
 sp_ui_notice_tab_4	バトル
+sp_ui_notice_tab_5	Pokémon HOME
+sp_ui_notice_tab_6	れんけいソフト
+sp_ui_notice_tab_7	そのた
 sp_ui_notice_category_1	おしらせ
 sp_ui_notice_category_2	じゅうような　おしらせ
 sp_ui_notice_category_3	メンテナンス
@@ -3054,8 +3076,12 @@ sp_ui_notice_category_4	アップデート
 sp_ui_notice_category_5	ポケモン SW・SH
 sp_ui_notice_category_6	キャンペーン
 sp_ui_notice_category_7	バトル
+sp_ui_notice_category_8	れんけいソフト
+sp_ui_notice_category_9	そのたの　おしらせ
+sp_ui_notice_category_10	アンケート
 sp_ui_notice_event_calender	イベントカレンダー
 sp_ui_notice_empty_list	ひょうじできる　おしらせは　ありません
+sp_ui_notice_001_v5	マイルームへ
 sp_ui_voice_input	おんせいを　にんしきちゅう…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もういちど　おためしください
 sp_ui_recognizer_limit_error	おんせいにんしきの　１にちのしようかいすうが げんかいに　たっしました
@@ -3096,6 +3122,39 @@ sp_ui_go_over_capacity_title_vgo	あきぶそく
 sp_ui_go_pokemon_list_vgo	ボックスへ
 sp_ui_transfer_failure_vgo	『Pokémon GO』からの　ひきとりが せいじょうに　かんりょうしませんでした。 さいど　ひきとってください。 タイトルがめんに　もどります。
 sp_ui_holoholo_trainer_name_vgo	Pokémon GO のトレーナーめい
+sp_ui_model_viewer_001	そうさほうほう
+sp_ui_model_viewer_002	タップそうさ
+sp_ui_model_viewer_003	アクション
+sp_ui_model_viewer_004	ピンチそうさ
+sp_ui_model_viewer_005	かくだい／しゅくしょう
+sp_ui_model_viewer_006	スワイプそうさ
+sp_ui_model_viewer_007	かいてん
+sp_ui_model_viewer_008	２てんスワイプそうさ
+sp_ui_model_viewer_009	たていどう／よこいどう
+sp_ui_get_calendar_v5	ゲットカレンダー
+sp_ui_calendar_v5	カレンダー
+sp_ui_memory_v5	きねんび
+sp_ui_calendar_year_v5	ねん
+sp_ui_calendar_numerical_year_v5	[VAR_YEAR]ねん
+sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]ねん[VAR_MONTH]がつ
+sp_ui_calendar_numerical_month_day_v5	[VAR]がつ[VAR_MONTH]にち
+sp_ui_calendar_numerical_date_v5	[VAR_YEAR]ねん[VAR_MONTH]がつ[VAR_DAY]にち
+sp_ui_calendar_illegal_date_v5	ふめいなひにち
+sp_ui_calendar_date_v5	ひづけ
+sp_ui_calendar_unspecified_v5	きょうと　おなじひづけの　きねんび
+sp_ui_calendar_manage_memory_v5	きねんびのかんり
+sp_ui_calendar_register_memory_v5	きねんびのとうろく
+sp_ui_calendar_register_memory_info_v5	きねんびの　タイトルと　ひづけを せっていしてください
+sp_ui_calendar_memory_title_v5	きねんびのタイトル
+sp_ui_calendar_error_not_entered_v5	きねんびの　タイトルと　ひづけが せっていされていません
+sp_ui_calendar_edit_v5	きねんびのへんしゅう
+sp_ui_calendar_delete_v5	さくじょ
+sp_ui_calendar_delete_confirm_v5	ほんとうに　さくじょしますか？
+sp_ui_calendar_over_capacity_v5	きねんびの　とうろくけんすうが　いっぱいです とうろくした　きねんびを　さくじょするか きねんびの　へんしゅうを　してください
+sp_ui_calendar_memory_empty_today_v5	きねんびが　せっていされていません
+sp_ui_calendar_empty_list_v5	ひょうじできる　ポケモンは　いません
+sp_ui_calendar_days_v5	つき／ひ
+sp_ui_calendar_able_edit_memory_v5	とうろくずみの　きねんびを　へんしゅうします
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn.msbt

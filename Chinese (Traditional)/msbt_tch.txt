@@ -1898,6 +1898,7 @@ sp_api_400_10206	寶可夢的空間不足！
 sp_api_500_10208	使用中的Nintendo Account 尚未與Nintendo Network ID連動。
 sp_api_500_10209	由於並非使用進階方案， 因此無法進行這項操作。
 sp_api_500_10211	從你目前使用的Nintendo Account 所連動的Nintendo Network ID中， 找不到有效的『寶可夢虛擬銀行』。
+sp_api_400_10212	無法從『寶可夢虛擬銀行』轉移。
 sp_api_400_10309	目前已是進階方案。
 sp_api_403_10310	Nintendo Switch版Pokémon HOME中 正在執行購買程序。 請先完成該購買程序。
 sp_api_403_10311	智慧型手機版(iOS)Pokémon HOME中 正在執行購買程序。 請先完成該購買程序。
@@ -2059,6 +2060,11 @@ sp_languageconfirm_003	否
 sp_languageconfirm_004	確認選擇的語言
 
 ~~~~~~~~~~~~~~~
+Text File : sp_memory_tch.msbt
+~~~~~~~~~~~~~~~
+sp_memory_01	Pokémon Day
+
+~~~~~~~~~~~~~~~
 Text File : sp_migration_tch.msbt
 ~~~~~~~~~~~~~~~
 sp_migration_00002	寶可夢虛擬銀行 Ver[VAR]以上
@@ -2142,6 +2148,11 @@ sp_monbo_trade_top_0001_004	和認識的用戶一起建立群組， 在群組內
 sp_monbo_trade_top_0001_005	對了！如果你和好友們是 『Pokémon HOME』中的朋友， 那朋友交換會非常方便， 一定要試試看喔萌！
 sp_monbo_battle_data_0001_001	在對戰資料中可以查看各種 有關寶可夢對戰的資訊喔萌！
 sp_monbo_battle_data_0001_002	比如說可以看到世界各地訓練家的排行榜。 如果有和Nintendo Account連結， 還能確認到目前為止自己的成績喔萌！ 
+sp_monbo_gift_0001_001	為了紀念『Pokémon HOME』的更新， 有禮物送給你喔萌！
+sp_monbo_gift_0001_002	快從「神秘禮物」接收吧萌！
+sp_monbo_get_calendar_0001_001	這裡是捕捉日曆！ 寄放在『Pokémon HOME』中的寶可夢， 會按照捕捉到的日期來排列喔萌！
+sp_monbo_get_calendar_0001_002	在紀念日中，可以登錄或編輯 喜歡的日期喔萌！ 而且可以篩選出在登錄的紀念日 捕捉到的寶可夢喔萌！
+sp_monbo_get_calendar_0001_003	快把專屬你的回憶， 登錄到紀念日吧萌！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_mystery_tch.msbt
@@ -2168,6 +2179,10 @@ sp_mystery_0010_1	捷拉奧拉勝利紀念！②
 sp_mystery_0010_2	在紀念『寶可夢 劍／盾 擴充票』第1彈 「鎧之孤島」發佈的特別極巨團體戰中， 打倒捷拉奧拉的訓練家人數已達成目標！ 送你鎧甲礦石作為紀念！
 sp_mystery_0011_1	『Pokémon GO』連結紀念
 sp_mystery_0011_2	第一次從『Pokémon GO』 傳送寶可夢過來了！ 送你一隻可以超極巨化的 特別美錄梅塔作為紀念！
+sp_mystery_0012_1	智慧型手機版Ver.1.4.0上線紀念①
+sp_mystery_0012_2	慶祝『Pokémon HOME』 智慧型手機版Ver.1.4.0上線， 送你一隻妙蛙種子作為紀念！ 好好培育的話，牠會成為 可超極巨化的妙蛙花喔！
+sp_mystery_0013_1	智慧型手機版Ver.1.4.0上線紀念②
+sp_mystery_0013_2	慶祝『Pokémon HOME』 智慧型手機版Ver.1.4.0上線， 送你一隻傑尼龜作為紀念！ 好好培育的話，牠會成為 可超極巨化的水箭龜喔！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_tch.msbt
@@ -2722,6 +2737,7 @@ sp_ui_info	公告
 sp_ui_myroom	我的首頁
 sp_ui_trade	交換
 sp_ui_mysterious_gift	神秘禮物
+sp_ui_mysterious_gift_2	神秘 禮物
 sp_ui_settings	設定
 sp_ui_pgl	對戰資料
 sp_ui_library	圖鑑
@@ -3004,7 +3020,10 @@ sp_ui_gift_00010	已接收。
 sp_ui_gift_00011	無法啟動GPS。
 sp_ui_gift_00012	輕點以輸入序號。
 sp_ui_gift_seal	貼紙
+sp_ui_gift_point	點數
 sp_ui_gift_0013_v1	無
+sp_ui_gift_0014_v5	已接收：[VAR]
+sp_ui_gift_0015_v5	[VAR]點
 sp_ui_gift_01001	可在此區域接收的禮物
 sp_ui_gift_01002	到禮物盒接收吧！
 sp_ui_gift_01003	禮物盒
@@ -3047,6 +3066,9 @@ sp_ui_notice_tab_1	全部
 sp_ui_notice_tab_2	系統
 sp_ui_notice_tab_3	活動
 sp_ui_notice_tab_4	對戰
+sp_ui_notice_tab_5	Pokémon HOME
+sp_ui_notice_tab_6	連結軟體
+sp_ui_notice_tab_7	其他
 sp_ui_notice_category_1	公告
 sp_ui_notice_category_2	重要公告
 sp_ui_notice_category_3	系統維護
@@ -3054,8 +3076,12 @@ sp_ui_notice_category_4	更新
 sp_ui_notice_category_5	寶可夢 劍／盾
 sp_ui_notice_category_6	特別活動
 sp_ui_notice_category_7	對戰
+sp_ui_notice_category_8	連結軟體
+sp_ui_notice_category_9	其他公告
+sp_ui_notice_category_10	問卷調查
 sp_ui_notice_event_calender	活動行事曆
 sp_ui_notice_empty_list	沒有可顯示的公告。
+sp_ui_notice_001_v5	前往我的首頁
 sp_ui_voice_input	正在辨識語音……
 sp_ui_voice_input_error	發生錯誤。  請點一下麥克風的圖示， 再試一次。
 sp_ui_recognizer_limit_error	語音辨識的單日使用次數已達上限。
@@ -3096,6 +3122,39 @@ sp_ui_go_over_capacity_title_vgo	空間不足
 sp_ui_go_pokemon_list_vgo	前往盒子
 sp_ui_transfer_failure_vgo	未正常接收從『Pokémon GO』 傳送過來的寶可夢。 請重新接收。 將返回標題畫面。
 sp_ui_holoholo_trainer_name_vgo	Pokémon GO的訓練家名
+sp_ui_model_viewer_001	操作方法
+sp_ui_model_viewer_002	輕點操作
+sp_ui_model_viewer_003	動作
+sp_ui_model_viewer_004	縮放操作
+sp_ui_model_viewer_005	放大／縮小
+sp_ui_model_viewer_006	滑動操作
+sp_ui_model_viewer_007	旋轉
+sp_ui_model_viewer_008	雙指滑動操作
+sp_ui_model_viewer_009	縱向移動／橫向移動
+sp_ui_get_calendar_v5	捕捉日曆
+sp_ui_calendar_v5	日曆
+sp_ui_memory_v5	紀念日
+sp_ui_calendar_year_v5	年
+sp_ui_calendar_numerical_year_v5	[VAR_YEAR]年
+sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]年[VAR_MONTH]月
+sp_ui_calendar_numerical_month_day_v5	[VAR]月[VAR_MONTH]日
+sp_ui_calendar_numerical_date_v5	[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_ui_calendar_illegal_date_v5	日期不明
+sp_ui_calendar_date_v5	日期
+sp_ui_calendar_unspecified_v5	與今天相同日期的紀念日
+sp_ui_calendar_manage_memory_v5	管理紀念日
+sp_ui_calendar_register_memory_v5	登錄紀念日
+sp_ui_calendar_register_memory_info_v5	請設定紀念日的 標題與日期
+sp_ui_calendar_memory_title_v5	紀念日的標題
+sp_ui_calendar_error_not_entered_v5	未設定紀念日的 標題與日期。
+sp_ui_calendar_edit_v5	編輯紀念日
+sp_ui_calendar_delete_v5	刪除
+sp_ui_calendar_delete_confirm_v5	確定要刪除嗎？
+sp_ui_calendar_over_capacity_v5	紀念日的登錄件數已達上限。 請刪除已登錄的紀念日， 或編輯紀念日。
+sp_ui_calendar_memory_empty_today_v5	未設定紀念日。
+sp_ui_calendar_empty_list_v5	沒有可顯示的寶可夢。
+sp_ui_calendar_days_v5	月／日
+sp_ui_calendar_able_edit_memory_v5	編輯已登錄的紀念日
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_tch.msbt

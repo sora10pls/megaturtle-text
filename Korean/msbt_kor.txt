@@ -1898,6 +1898,7 @@ sp_api_400_10206	포켓몬의 빈 공간이 부족합니다!
 sp_api_500_10208	사용 중인 닌텐도 어카운트는 닌텐도 네트워크 ID와 연동 중이지 않습니다
 sp_api_500_10209	프리미엄 플랜이 아니므로 현재 조작은 할 수 없습니다
 sp_api_500_10211	사용 중인 닌텐도 어카운트와 연동 중인 닌텐도 네트워크 ID에서 유효한 "포켓몬 뱅크"를 찾지 못했습니다
+sp_api_400_10212	이 "포켓몬 뱅크"에서는 이사할 수 없습니다
 sp_api_400_10309	이미 프리미엄 플랜입니다
 sp_api_403_10310	Nintendo Switch 버전 Pokémon HOME에서 구입 처리 중입니다 해당 기기에서 구입 처리를 완료해 주십시오
 sp_api_403_10311	스마트폰(iOS) 버전 Pokémon HOME에서 구입 처리 중입니다 해당 기기에서 구입 처리를 완료해 주십시오
@@ -2059,6 +2060,11 @@ sp_languageconfirm_003	아니요
 sp_languageconfirm_004	선택한 언어 확인
 
 ~~~~~~~~~~~~~~~
+Text File : sp_memory_kor.msbt
+~~~~~~~~~~~~~~~
+sp_memory_01	Pokémon Day
+
+~~~~~~~~~~~~~~~
 Text File : sp_migration_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_migration_00002	포켓몬 뱅크 Ver.[VAR] 이상
@@ -2142,6 +2148,11 @@ sp_monbo_trade_top_0001_004	서로 아는 유저끼리 그룹을 만들어서 �
 sp_monbo_trade_top_0001_005	그렇지! 친구와 "Pokémon HOME"에서 교환할 때는 친구 교환이 편리하니까 꼭 한 번 사용해봐라몬!
 sp_monbo_battle_data_0001_001	배틀 데이터에서는 포켓몬 배틀에 관한 다양한 정보를 볼 수 있다몬!
 sp_monbo_battle_data_0001_002	전 세계 트레이너의 랭킹을 볼 수도 있고 닌텐도 어카운트를 연동하면 자신의 지금까지의 전적도 확인할 수 있다몬!
+sp_monbo_gift_0001_001	"Pokémon HOME"의 업데이트 기념 선물이 있다몬!
+sp_monbo_gift_0001_002	"이상한 소포"에서 받을 수 있다몬!
+sp_monbo_get_calendar_0001_001	여기는 GET 캘린더! "Pokémon HOME"에 맡긴 포켓몬이 잡은 날짜순으로 표시된다몬!
+sp_monbo_get_calendar_0001_002	기념일에는 원하는 날짜를 등록하거나 편집할 수 있다몬! 등록한 기념일에 잡은 포켓몬을 추려낼 수도 있다몬!
+sp_monbo_get_calendar_0001_003	나만의 추억이 있는 날을 기념일로 등록해봐라몬!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_mystery_kor.msbt
@@ -2168,6 +2179,10 @@ sp_mystery_0010_1	제라오라 승리 기념! ②
 sp_mystery_0010_2	특별한 맥스 레이드배틀에서 제라오라를 쓰러뜨린 트레이너의 수가 목표를 달성했다! 기념으로 갑옷광석을 선물!
 sp_mystery_0011_1	Pokémon GO 연동 기념
 sp_mystery_0011_2	처음으로 Pokémon GO에서 포켓몬을 전송했다! 기념으로 거다이맥스할 수 있는 특별한 멜메탈을 선물!
+sp_mystery_0012_1	스마트폰 버전 Ver.1.4.0 배포 기념①
+sp_mystery_0012_2	Pokémon HOME 스마트폰 버전 Ver.1.4.0 배포를 기념하여 이상해씨를 선물! 성장하면 거다이맥스할 수 있는 이상해꽃이 된다!
+sp_mystery_0013_1	스마트폰 버전 Ver.1.4.0 배포 기념②
+sp_mystery_0013_2	Pokémon HOME 스마트폰 버전 Ver.1.4.0 배포를 기념하여 꼬부기를 선물! 성장하면 거다이맥스할 수 있는 거북왕이 된다!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt
@@ -2722,6 +2737,7 @@ sp_ui_info	소식
 sp_ui_myroom	마이 룸
 sp_ui_trade	교환
 sp_ui_mysterious_gift	이상한 소포
+sp_ui_mysterious_gift_2	이상한 소포
 sp_ui_settings	설정
 sp_ui_pgl	배틀 데이터
 sp_ui_library	도감
@@ -3004,7 +3020,10 @@ sp_ui_gift_00010	받았습니다
 sp_ui_gift_00011	GPS를 켜지 못했습니다
 sp_ui_gift_00012	탭해서 시리얼 코드를 입력
 sp_ui_gift_seal	씰
+sp_ui_gift_point	포인트
 sp_ui_gift_0013_v1	없음
+sp_ui_gift_0014_v5	이미 받음: [VAR]
+sp_ui_gift_0015_v5	[VAR]포인트
 sp_ui_gift_01001	이 에리어에서 받을 수 있는 것
 sp_ui_gift_01002	선물 박스에서 받아주세요!
 sp_ui_gift_01003	선물 박스
@@ -3047,6 +3066,9 @@ sp_ui_notice_tab_1	전체
 sp_ui_notice_tab_2	시스템
 sp_ui_notice_tab_3	이벤트
 sp_ui_notice_tab_4	배틀
+sp_ui_notice_tab_5	Pokémon HOME
+sp_ui_notice_tab_6	연동 소프트웨어
+sp_ui_notice_tab_7	기타
 sp_ui_notice_category_1	소식
 sp_ui_notice_category_2	중요한 소식
 sp_ui_notice_category_3	점검
@@ -3054,8 +3076,12 @@ sp_ui_notice_category_4	업데이트
 sp_ui_notice_category_5	포켓몬스터소드・실드
 sp_ui_notice_category_6	캠페인
 sp_ui_notice_category_7	배틀
+sp_ui_notice_category_8	연동 소프트웨어
+sp_ui_notice_category_9	기타 소식
+sp_ui_notice_category_10	앙케트
 sp_ui_notice_event_calender	이벤트 캘린더
 sp_ui_notice_empty_list	표시할 수 있는 소식이 없습니다
+sp_ui_notice_001_v5	마이 룸으로
 sp_ui_voice_input	음성 인식 중...
 sp_ui_voice_input_error	에러가 발생했습니다  마이크 아이콘을 탭하고 다시 시도해 주십시오
 sp_ui_recognizer_limit_error	음성 인식의 1일 사용 횟수가 한계에 도달했습니다
@@ -3096,6 +3122,39 @@ sp_ui_go_over_capacity_title_vgo	빈 공간 부족
 sp_ui_go_pokemon_list_vgo	박스로 이동
 sp_ui_transfer_failure_vgo	"Pokémon GO"에서 받기를 정상적으로 완료하지 못했습니다. 다시 시도해 주십시오. 타이틀 화면으로 돌아갑니다.
 sp_ui_holoholo_trainer_name_vgo	Pokémon GO의 트레이너 이름
+sp_ui_model_viewer_001	조작 방법
+sp_ui_model_viewer_002	탭 조작
+sp_ui_model_viewer_003	액션
+sp_ui_model_viewer_004	핀치 조작
+sp_ui_model_viewer_005	확대/축소
+sp_ui_model_viewer_006	스와이프 조작
+sp_ui_model_viewer_007	회전
+sp_ui_model_viewer_008	멀티 스와이프 조작
+sp_ui_model_viewer_009	종 이동/횡 이동
+sp_ui_get_calendar_v5	GET 캘린더
+sp_ui_calendar_v5	캘린더
+sp_ui_memory_v5	기념일
+sp_ui_calendar_year_v5	년
+sp_ui_calendar_numerical_year_v5	[VAR_YEAR]년
+sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]년 [VAR_MONTH]월
+sp_ui_calendar_numerical_month_day_v5	[VAR]월 [VAR_MONTH]일
+sp_ui_calendar_numerical_date_v5	[VAR_YEAR]년 [VAR_MONTH]월 [VAR_DAY]일
+sp_ui_calendar_illegal_date_v5	알 수 없는 날짜
+sp_ui_calendar_date_v5	날짜
+sp_ui_calendar_unspecified_v5	오늘과 날짜가 같은 기념일
+sp_ui_calendar_manage_memory_v5	기념일 관리
+sp_ui_calendar_register_memory_v5	기념일 등록
+sp_ui_calendar_register_memory_info_v5	기념일의 제목과 날짜를 설정해 주십시오
+sp_ui_calendar_memory_title_v5	기념일 제목
+sp_ui_calendar_error_not_entered_v5	기념일의 제목과 날짜를 설정하지 않았습니다
+sp_ui_calendar_edit_v5	기념일 편집
+sp_ui_calendar_delete_v5	삭제
+sp_ui_calendar_delete_confirm_v5	정말 삭제하겠습니까?
+sp_ui_calendar_over_capacity_v5	기념일 등록 건수가 가득 찼습니다 등록한 기념일을 삭제하거나 기념일을 편집해 주십시오
+sp_ui_calendar_memory_empty_today_v5	설정한 기념일이 없습니다
+sp_ui_calendar_empty_list_v5	표시할 수 있는 포켓몬이 없습니다
+sp_ui_calendar_days_v5	월/일
+sp_ui_calendar_able_edit_memory_v5	등록한 기념일을 편집합니다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt
