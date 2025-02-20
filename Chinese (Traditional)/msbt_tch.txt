@@ -2152,10 +2152,10 @@ sp_option_continue_00007	不連結Nintendo Account的話？
 sp_option_continue_00008	登錄／連結
 sp_option_continue_00009	不連結
 sp_option_continue_00010	什麼是Nintendo Account？
-sp_option_continue_00011	若不連結Nintendo Account， 將無法使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・因更換裝置等原因， 　繼承資料到其他智慧型手機。 ・從『寶可夢虛擬銀行』轉移寶可夢。  ※亦可之後再連結Nintendo Account。
+sp_option_continue_00011	若你已在使用Nintendo Switch版Pokémon HOME， 或今後預定使用，請務必現在進行連結。 <b>若現在不進行連結，之後將無法連結。</b>  此外，若不連結Nintendo Account， 將無法使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・更換裝置時進行資料的繼承。 ・使用Nintendo Network ID 　從『寶可夢虛擬銀行』一次轉移所有寶可夢。
 sp_option_continue_00012	可隨時按照以下步驟， 來連結Nintendo Account。  [設定] ↓ [帳號] ↓ [Nintendo Account連結]
 sp_option_continue_00013	連結失敗。 將回到上一個畫面。
-sp_option_continue_00014	透過連結Nintendo Account， 可與Nintendo Switch版Pokémon HOME 或『寶可夢虛擬銀行』連動。  ※若你已在使用Pokémon HOME， 或要建立新的Nintendo Account， 請選擇<b>連結</b>。
+sp_option_continue_00014	透過連結Nintendo Account， 可與Nintendo Switch版Pokémon HOME 或『寶可夢虛擬銀行』連動。  ※若你已在使用Nintendo Switch版 Pokémon HOME，或今後預定使用， 請務必現在選擇<b>連結</b>進行連結。  <b>若現在不進行連結，之後將無法連結。</b>
 sp_option_continue_00015	繼承帳號
 sp_option_continue_00016	第一次使用Pokémon HOME
 sp_option_continue_00017	與Nintendo Switch版Pokémon HOME 共享使用狀況。
@@ -2206,7 +2206,7 @@ sp_option_account_00014	此帳號已與其他Pokémon HOME連結。
 sp_option_account_00015	繼續進行上次中斷的帳號連結操作。
 sp_option_account_00016	連結Nintendo Account後可使用的功能
 sp_option_account_00017	連結後可使用功能的注意事項
-sp_option_account_00018	可在Pokémon HOME使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・因更換裝置等原因， 　繼承資料到其他智慧型手機。 ・從『寶可夢虛擬銀行』轉移寶可夢。  若你已在使用Pokémon HOME， 可繼承原有的資料繼續使用。  d 要連結 dNintendo Account嗎？
+sp_option_account_00018	可在Pokémon HOME使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・更換裝置時進行資料的繼承。 ・使用Nintendo Network ID 　從『寶可夢虛擬銀行』一次轉移所有寶可夢。  ※若你已在使用Nintendo Switch版 Pokémon HOME，或今後預定使用， 請務必現在進行連結。  <b>若現在不進行連結，之後將無法連結。</b>  d 要連結 dNintendo Account嗎？
 sp_option_account_00019	開始連結Nintendo Account
 sp_option_account_00020	帳號
 sp_option_account_00021	上次的轉移
@@ -2228,6 +2228,7 @@ sp_option_terms2	使用條款
 sp_option_terms_5	同意
 sp_option_terms_6	不同意
 sp_option_addsdk_1	關於用戶資訊的使用
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	清除快取後， 程式可能會運作得較�
 sp_ui_title_menu_05_dialog_progress	正在清除快取……
 sp_ui_title_menu_05_dialog_done	已清除快取。
 sp_ui_title_menu_support_id	服務ID
+sp_ui_title_menu_06_v1	複製服務ID
+sp_ui_title_menu_06_dialog_text_v1	已複製到剪貼簿
 sp_ui_downlod_0001	正在啟動……
 sp_ui_downlod_0002	正在下載主要資料……
 sp_ui_downlod_0003	主要資料下載完成。
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	網路大賽
 sp_ui_pgl_mypage	我的成績
 sp_ui_pgl_regulation	官方對戰規則
 sp_ui_pgl_event_calendar	活動行事曆
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	所有寶可夢
 sp_ui_release	解除
 sp_ui_goodby	放生
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	編輯標籤
 sp_ui_label_seting_please	請設定標籤的名稱與顏色。
 sp_ui_label_name	標籤名
 sp_ui_label_input_please	最多８個字
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	超過字數限制。
 sp_ui_label_cant_use_word	包含無法使用的文字。
 sp_ui_icon	圖示
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	接收失敗。
 sp_ui_gift_00010	已接收。
 sp_ui_gift_00011	無法啟動GPS。
 sp_ui_gift_00012	輕點以輸入序號。
+sp_ui_gift_seal	貼紙
 sp_ui_gift_01001	可在此區域接收的禮物
 sp_ui_gift_01002	到禮物盒接收吧！
 sp_ui_gift_01003	禮物盒

@@ -2152,10 +2152,10 @@ sp_option_continue_00007	Et si je décide de ne pas associer de compte Nintendo 
 sp_option_continue_00008	S'inscrire/associer un compte
 sp_option_continue_00009	Ne pas associer de compte
 sp_option_continue_00010	Qu'est-ce qu'un compte Nintendo ?
-sp_option_continue_00011	Vous ne pourrez utiliser aucune des fonctionnalités suivantes si vous n'associez pas de compte Nintendo.  ・ Synchronisation des activités entre Pokémon HOME sur Nintendo Switch et appareil mobile ・ Transfert de données d'un appareil à un autre, si vous changez d'appareil mobile, par exemple ・ Transfert de Pokémon depuis Banque Pokémon vers Pokémon HOME  Note : vous pourrez associer un compte Nintendo à Pokémon HOME plus tard.
+sp_option_continue_00011	Si vous utilisez la version Nintendo Switch de Pokémon HOME ou que vous comptez l'utiliser à l'avenir, veuillez associer vos comptes dès maintenant. <b>Attention : si vous n'associez pas vos comptes</b> <b>maintenant, vous ne pourrez pas le faire</b> <b>plus tard.</b>  Vous ne pourrez utiliser aucune des fonctionnalités suivantes si vous n'associez pas de compte Nintendo.  ・ Synchronisation des activités entre Pokémon HOME sur Nintendo Switch et appareil mobile ・ Transfert de données d'un appareil à un autre, si vous changez d'appareil mobile, par exemple ・ Transfert de Pokémon depuis Banque Pokémon vers Pokémon HOME
 sp_option_continue_00012	Vous pouvez associer votre compte Nintendo à n'importe quel moment en ouvrant le menu <b>Paramètres</b> dans Pokémon HOME.  Ensuite, sélectionnez l'onglet <b>Compte</b>, puis l'option <b>Associer un compte Nintendo</b> pour associer votre compte.
 sp_option_continue_00013	L'association du compte a échoué. Veuillez retourner vers l'écran précédent pour réessayer.
-sp_option_continue_00014	Si vous associez votre compte Nintendo, vous pourrez vous connecter à la version Nintendo Switch de Pokémon HOME et à Banque Pokémon.  Si vous utilisez déjà Pokémon HOME ou si vous souhaitez créer un nouveau compte Nintendo, veuillez choisir l'option <b>Associer un compte</b>.
+sp_option_continue_00014	Si vous associez votre compte Nintendo, vous pourrez vous connecter à la version Nintendo Switch de Pokémon HOME et à Banque Pokémon.  Si vous utilisez déjà la version Nintendo Switch de Pokémon HOME ou que vous comptez l'utiliser à l'avenir, veuillez sélectionner l'option <b>Associer votre compte</b> pour associer vos comptes. <b>Attention : si vous n'associez pas vos comptes maintenant,</b> <b>vous ne pourrez pas le faire plus tard.</b>
 sp_option_continue_00015	Synchronisation d'un compte existant
 sp_option_continue_00016	Première utilisation de Pokémon HOME
 sp_option_continue_00017	Synchronisation des activités avec la version Nintendo Switch de Pokémon HOME
@@ -2206,7 +2206,7 @@ sp_option_account_00014	Ce compte a déjà été associé à un autre logiciel P
 sp_option_account_00015	Reprise de l'association du compte...
 sp_option_account_00016	Avantages de l'association d'un compte Nintendo
 sp_option_account_00017	Informations sur l'association d'un compte Nintendo
-sp_option_account_00018	Vous pourrez utiliser les fonctionnalités suivantes dans Pokémon HOME :  ・ Synchronisation des activités entre Pokémon HOME sur Nintendo Switch et appareil mobile. ・ Transfert de données d'un appareil à un autre, si vous changez d'appareil mobile, par exemple ・ Transfert de Pokémon depuis Banque Pokémon vers Pokémon HOME  Si vous utilisiez déjà Pokémon HOME sur un autre appareil, vous pourrez également transférer vos données vers un nouvel appareil pour continuer à utiliser Pokémon HOME sans perdre votre historique.  Voulez-vous associer un compte Nintendo ?
+sp_option_account_00018	Vous pourrez utiliser les fonctionnalités suivantes dans Pokémon HOME :  ・ Synchronisation des activités entre Pokémon HOME sur Nintendo Switch et appareil mobile. ・ Transfert de données d'un appareil à un autre, si vous changez d'appareil mobile, par exemple ・ Transfert de Pokémon depuis Banque Pokémon vers Pokémon HOME  Si vous utilisez déjà la version Nintendo Switch de Pokémon HOME ou que vous comptez l'utiliser à l'avenir, veuillez sélectionner l'option <b>Associer votre compte</b> pour associer vos comptes.  <b>Attention : si vous n'associez pas vos comptes maintenant,</b> <b>vous ne pourrez pas le faire plus tard.</b>  Voulez-vous associer un compte Nintendo ?
 sp_option_account_00019	Associer un compte Nintendo
 sp_option_account_00020	Compte
 sp_option_account_00021	Dernier transfert :
@@ -2228,6 +2228,7 @@ sp_option_terms2	Conditions d'utilisation
 sp_option_terms_5	J'accepte
 sp_option_terms_6	Je refuse
 sp_option_addsdk_1	Utilisation de vos informations
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_fra.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	Vider le cache permet parfois aux applications d
 sp_ui_title_menu_05_dialog_progress	Vidage du cache en cours...
 sp_ui_title_menu_05_dialog_done	Le cache a été vidé.
 sp_ui_title_menu_support_id	ID Client
+sp_ui_title_menu_06_v1	Copier l'ID Client
+sp_ui_title_menu_06_dialog_text_v1	Copié dans le presse-papier
 sp_ui_downlod_0001	Ouverture en cours...
 sp_ui_downlod_0002	Téléchargement des données permanentes...
 sp_ui_downlod_0003	Les données permanentes ont été téléchargées.
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	Compétitions Internet
 sp_ui_pgl_mypage	Historique des combats
 sp_ui_pgl_regulation	Règles distribuées
 sp_ui_pgl_event_calendar	Calendrier des évènements
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	Tous les Pokémon
 sp_ui_release	Annuler
 sp_ui_goodby	Relâcher
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	Modifier une étiquette
 sp_ui_label_seting_please	Veuillez choisir un nom et une couleur pour l'étiquette.
 sp_ui_label_name	Nom de l'étiquette
 sp_ui_label_input_please	Maximum : 16 caractères
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	Ce nom est trop long.
 sp_ui_label_cant_use_word	Certains des caractères de ce nom ne peuvent pas être utilisés.
 sp_ui_icon	Avatar
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	Le cadeau n'a pas pu être obtenu.
 sp_ui_gift_00010	Cadeau reçu
 sp_ui_gift_00011	Le GPS n'a pas pu être initialisé.
 sp_ui_gift_00012	Touchez ici pour saisir un code.
+sp_ui_gift_seal	Autocollants
 sp_ui_gift_01001	Cadeaux à recevoir dans cette zone
 sp_ui_gift_01002	Récupérez vos cadeaux dans la Boîte Cadeau !
 sp_ui_gift_01003	Boîte Cadeau

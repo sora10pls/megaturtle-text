@@ -2152,10 +2152,10 @@ sp_option_continue_00007	Was, wenn ich keinen Nintendo-Account verknüpfe?
 sp_option_continue_00008	Registrieren oder verknüpfen
 sp_option_continue_00009	Nicht verknüpfen
 sp_option_continue_00010	Was ist ein Nintendo-Account?
-sp_option_continue_00011	Wenn du keinen Nintendo-Account verknüpfst, kannst du die folgenden Funktionen nicht nutzen:  ・ Synchronisierung zwischen Pokémon HOME für Nintendo Switch und dieser Version für mobile Geräte ・ Datenübertragung auf ein anderes Gerät, beispielsweise wenn du ein neues mobiles Gerät nutzen möchtest ・ Transfer von Pokémon aus Pokémon Bank auf Pokémon HOME  Du kannst deinen Nintendo-Account auch später noch mit Pokémon HOME verknüpfen.
+sp_option_continue_00011	Bitte verknüpfe jetzt deinen Nintendo-Account, wenn du die Nintendo Switch-Version von Pokémon HOME verwendest oder vorhast, sie zu nutzen. <b>Bitte beachte, dass du deinen Nintendo-Account später nicht</b> <b>mehr verknüpfen kannst, wenn du es jetzt nicht tust.</b>  Wenn du keinen Nintendo-Account verknüpfst, kannst du keine der folgenden Funktionen nutzen:  ・ Synchronisierung zwischen Pokémon HOME für Nintendo Switch und dieser Version für mobile Geräte ・ Datenübertragung auf ein anderes Gerät ・ Transfer von Pokémon aus Pokémon Bank auf Pokémon HOME mithilfe deiner Nintendo Network ID
 sp_option_continue_00012	Du kannst deinen Nintendo-Account jederzeit verknüpfen, indem du in Pokémon HOME die <b>Einstellungen</b> öffnest.  Unter „<b>Konto</b>“ findest du dann die Option „<b>Mit Nintendo-Account verknüpfen</b>“.
 sp_option_continue_00013	Die Verknüpfung deines Accounts ist fehlgeschlagen. Kehre zum vorigen Bildschirm zurück und versuche es erneut.
-sp_option_continue_00014	Wenn du deinen Nintendo-Account verknüpfst, kannst du eine Verbindung zu Pokémon Bank und Pokémon HOME für Konsolen der Nintendo Switch-Familie herstellen.  Falls du Pokémon HOME bereits verwendest oder einen völlig neuen Nintendo-Account erstellen willst, wähle bitte die Option „<b>Account verknüpfen</b>“ aus.
+sp_option_continue_00014	Wenn du deinen Nintendo-Account verknüpfst, kannst du eine Verbindung zu Pokémon Bank und Pokémon HOME für Konsolen der Nintendo Switch-Familie herstellen.  Wenn du die Nintendo Switch-Version von Pokémon HOME schon verwendest oder vorhast, sie zu nutzen, wähle bitte die Option „<b>Account verknüpfen</b>“, um so deinen Account zu verknüpfen.  <b>Bitte beachte, dass du deinen Nintendo-Account später nicht</b> <b>mehr verknüpfen kannst, wenn du es jetzt nicht tust.</b>
 sp_option_continue_00015	Mit existierendem Konto synchronisieren
 sp_option_continue_00016	Neuer Nutzer von Pokémon HOME
 sp_option_continue_00017	Synchronisiere diese Version von Pokémon HOME mit Pokémon HOME für Konsolen der Nintendo Switch-Familie.
@@ -2206,7 +2206,7 @@ sp_option_account_00014	Dieser Account wurde bereits mit einer anderen Version v
 sp_option_account_00015	Erneuter Versuch, deinen Account zu verknüpfen, wird gestartet.
 sp_option_account_00016	Vorteile des Verknüpfens mit einem Nintendo-Account
 sp_option_account_00017	Wissenswertes zum Verknüpfen eines Nintendo-Accounts
-sp_option_account_00018	Du kannst die folgenden Funktionen in Pokémon HOME nutzen:  ・ Synchronisierung zwischen Pokémon HOME für Nintendo Switch und dieser Version für mobile Geräte ・ Datentransfer auf ein anderes Gerät, beispielsweise wenn du ein neues mobiles Gerät nutzen möchtest ・ Transfer von Pokémon aus Pokémon Bank auf Pokémon HOME  Wenn du Pokémon HOME bereits auf einem anderen Gerät verwendet hast, kannst du deine Daten auf ein neues Gerät übertragen und Pokémon HOME dort weiterverwenden, ohne deinen Verlauf zu verlieren.  Möchtest du einen Nintendo-Account verknüpfen?
+sp_option_account_00018	Du kannst die folgenden Funktionen in Pokémon HOME nutzen:  ・ Synchronisierung zwischen Pokémon HOME für Nintendo Switch und dieser Version für mobile Geräte ・ Datentransfer auf ein anderes Gerät ・ Transfer von Pokémon aus Pokémon Bank auf Pokémon HOME mithilfe deiner Nintendo Network ID  Wenn du die Nintendo Switch-Version von Pokémon HOME schon verwendest oder vorhast, sie zu nutzen, wähle bitte die Option „<b>Account verknüpfen</b>“, um so deinen Account zu verknüpfen.  <b>Bitte beachte, dass du deinen Nintendo-Account später nicht</b> <b>mehr verknüpfen kannst, wenn du es jetzt nicht tust.</b>  Möchtest du einen Nintendo-Account verknüpfen?
 sp_option_account_00019	Nintendo-Account verknüpfen
 sp_option_account_00020	Konto
 sp_option_account_00021	Letzter Transfer:
@@ -2228,6 +2228,7 @@ sp_option_terms2	Nutzungsbedingungen
 sp_option_terms_5	Ich stimme zu
 sp_option_terms_6	Ich stimme nicht zu
 sp_option_addsdk_1	Über die Nutzung deiner Daten
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	Wenn du den Cache leerst, läuft die Anwendung e
 sp_ui_title_menu_05_dialog_progress	Cache wird geleert...
 sp_ui_title_menu_05_dialog_done	Der Cache wurde geleert.
 sp_ui_title_menu_support_id	Kunden-ID
+sp_ui_title_menu_06_v1	Kunden-ID kopieren
+sp_ui_title_menu_06_dialog_text_v1	Kunden-ID wurde in die Zwischenablage kopiert.
 sp_ui_downlod_0001	Ladevorgang...
 sp_ui_downlod_0002	Stammdaten werden heruntergeladen...
 sp_ui_downlod_0003	Stammdaten heruntergeladen!
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	Online-Turniere
 sp_ui_pgl_mypage	Deine Kampfergebnisse
 sp_ui_pgl_regulation	Herunterladbare Regeln
 sp_ui_pgl_event_calendar	Veranstaltungskalender
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	Alle Pokémon
 sp_ui_release	Zurücksetzen
 sp_ui_goodby	Freilassen
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	Label bearbeiten
 sp_ui_label_seting_please	Bitte wähle Name und Farbe des Labels aus.
 sp_ui_label_name	Label-Name
 sp_ui_label_input_please	maximal 16 Zeichen
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	Dieser Label-Name ist zu lang!
 sp_ui_label_cant_use_word	Dieser Name enthält unzulässige Zeichen!
 sp_ui_icon	Symbol
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	Der Empfang ist fehlgeschlagen.
 sp_ui_gift_00010	Empfangen
 sp_ui_gift_00011	GPS konnte nicht initialisiert werden.
 sp_ui_gift_00012	Hier berühren, um einen Seriencode einzugeben.
+sp_ui_gift_seal	Sticker
 sp_ui_gift_01001	Geschenke für diesen Standort
 sp_ui_gift_01002	Erhalte sie aus deiner Geschenkbox!
 sp_ui_gift_01003	Geschenkbox

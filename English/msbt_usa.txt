@@ -2152,10 +2152,10 @@ sp_option_continue_00007	What happens if I don't link a Nintendo Account?
 sp_option_continue_00008	Register or link
 sp_option_continue_00009	Don't link
 sp_option_continue_00010	What's a Nintendo Account?
-sp_option_continue_00011	You won't be able to use any of the following features if you don't link a Nintendo Account.  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device, such as when you get a new mobile device ・ Move any Pokémon from Pokémon Bank to Pokémon HOME  You can link your Nintendo Account to Pokémon HOME later, even if you don't link it right now.
+sp_option_continue_00011	If you are using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please link your accounts now. <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>  You won't be able to use any of the following features if you don't link a Nintendo Account.  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device ・ Move any Pokémon from Pokémon Bank to Pokémon HOME using your Nintendo Network ID
 sp_option_continue_00012	You can link to your Nintendo Account at any time by opening up the <b>Options</b> menu in Pokémon HOME.  From there, choose the <b>Account</b> tab, and then find the <b>Link a Nintendo Account</b> option to link your account.
 sp_option_continue_00013	Linking your account failed. Go back to the previous screen to try again.
-sp_option_continue_00014	If you link your Nintendo Account, you'll be able to connect to Pokémon Bank and the Nintendo Switch version of Pokémon HOME.  If you're already using Pokémon HOME or you'd like to set up a new Nintendo Account from scratch, please choose the <b>Link your account</b> option.
+sp_option_continue_00014	If you link your Nintendo Account, you'll be able to connect to Pokémon Bank and the Nintendo Switch version of Pokémon HOME.  If you're already using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please choose the <b>Link your account</b> option to link your accounts.  <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>
 sp_option_continue_00015	Sync Existing Account
 sp_option_continue_00016	New Pokémon HOME User
 sp_option_continue_00017	Sync activity between this version of Pokémon HOME and the Nintendo Switch version of Pokémon HOME.
@@ -2206,7 +2206,7 @@ sp_option_account_00014	This account has already been linked to a different Pok�
 sp_option_account_00015	Linking accounts was interrupted. Trying again...
 sp_option_account_00016	Benefits of Linking a Nintendo Account
 sp_option_account_00017	What to know about linking a Nintendo Account
-sp_option_account_00018	You can do the following things in Pokémon HOME:  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device, such as when you get a new mobile device ・ Move Pokémon from Pokémon Bank to Pokémon HOME  If you're already using Pokémon HOME on another device, you'll also be able to transfer your data and start using Pokémon HOME on a new device without losing your history.  Would you like to link a Nintendo Account?
+sp_option_account_00018	You can do the following things in Pokémon HOME:  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device ・ Move Pokémon from Pokémon Bank to Pokémon HOME using your Nintendo Network ID  If you're already using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please choose the <b>Link your account</b> option to link your accounts.  <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>  Would you like to link a Nintendo Account?
 sp_option_account_00019	Link Nintendo Account
 sp_option_account_00020	Account
 sp_option_account_00021	Last move completed:
@@ -2228,6 +2228,7 @@ sp_option_terms2	Terms of Use
 sp_option_terms_5	I agree
 sp_option_terms_6	I don't agree
 sp_option_addsdk_1	Usage of Your Information
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	Clearing the cache can sometimes help applicatio
 sp_ui_title_menu_05_dialog_progress	Now clearing the cache...
 sp_ui_title_menu_05_dialog_done	Cache successfully cleared!
 sp_ui_title_menu_support_id	Support ID
+sp_ui_title_menu_06_v1	Copy Support ID
+sp_ui_title_menu_06_dialog_text_v1	Copied to clipboard:
 sp_ui_downlod_0001	Now loading...
 sp_ui_downlod_0002	Master data now downloading...
 sp_ui_downlod_0003	Master data downloading complete!
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	Online Competitions
 sp_ui_pgl_mypage	Your Battle Records
 sp_ui_pgl_regulation	Distribution Regulations
 sp_ui_pgl_event_calendar	Event Calendar
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	All Pokémon
 sp_ui_release	Unselect all
 sp_ui_goodby	Release
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	Edit existing label
 sp_ui_label_seting_please	Choose a name and color for your label.
 sp_ui_label_name	Label name
 sp_ui_label_input_please	16 characters max
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	The label name is too long!
 sp_ui_label_cant_use_word	This name contains characters that can't be used.
 sp_ui_icon	Icon
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	The attempt to claim a gift failed.
 sp_ui_gift_00010	Received
 sp_ui_gift_00011	GPS failed to load.
 sp_ui_gift_00012	Tap to enter a code.
+sp_ui_gift_seal	Stickers
 sp_ui_gift_01001	Gifts you can get in your area:
 sp_ui_gift_01002	Get them from your gift box!
 sp_ui_gift_01003	Gift Box

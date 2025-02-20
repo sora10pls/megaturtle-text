@@ -2152,10 +2152,10 @@ sp_option_continue_00007	닌텐도 어카운트와 연동하지 않으면?
 sp_option_continue_00008	등록/연동
 sp_option_continue_00009	연동하지 않는다
 sp_option_continue_00010	닌텐도 어카운트란?
-sp_option_continue_00011	닌텐도 어카운트와 연동하지 않는 경우 아래 기능을 이용할 수 없습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경을 포함한 다른 스마트폰으로의 데이터 이어받기 ・"포켓몬 뱅크"에서의 포켓몬 이사  ※닌텐도 어카운트 연동은 나중에 진행할 수 있습니다
+sp_option_continue_00011	※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오 <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>  또한, 닌텐도 어카운트와 연동하지 않는 경우 아래 기능을 이용할 수 없습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경 시 데이터 이어받기 ・닌텐도 네트워크 ID를 이용한 "포켓몬 뱅크"의 포켓몬 일괄 이사
 sp_option_continue_00012	닌텐도 어카운트 연동은  [설정] ↓ [어카운트] ↓ [닌텐도 어카운트 연동]  에서 언제든지 진행할 수 있습니다
 sp_option_continue_00013	연동하지 못했습니다 이전 화면으로 돌아갑니다
-sp_option_continue_00014	닌텐도 어카운트와 연동하면 Nintendo Switch 버전 Pokémon HOME이나 "포켓몬 뱅크"와 연동할 수 있습니다  ※이미 Pokémon HOME을 이용 중이거나 닌텐도 어카운트를 신규 작성할 경우 <b>연동한다</b>를 선택해 주십시오
+sp_option_continue_00014	닌텐도 어카운트와 연동하면 Nintendo Switch 버전 Pokémon HOME이나 "포켓몬 뱅크"와 연동할 수 있습니다  ※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 <b>연동한다</b>를 선택하고 연동해 주십시오  <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>
 sp_option_continue_00015	어카운트 이어받기
 sp_option_continue_00016	Pokémon HOME을 처음 이용한다
 sp_option_continue_00017	Nintendo Switch 버전 Pokémon HOME과 이용 상황 공유
@@ -2206,7 +2206,7 @@ sp_option_account_00014	이미 다른 Pokémon HOME과 연동 중인 어카운�
 sp_option_account_00015	중단된 어카운트 연동을 계속합니다
 sp_option_account_00016	닌텐도 어카운트와 연동하면 할 수 있는 것
 sp_option_account_00017	연동하면 할 수 있는 것의 주의사항
-sp_option_account_00018	Pokémon HOME에서 아래 기능을 이용할 수 있습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경을 포함한 다른 스마트폰으로의 데이터 이어받기 ・"포켓몬 뱅크"에서의 포켓몬 이사  이미 Pokémon HOME을 이용 중인 경우 직전 상태를 이어받아서 시작할 수 있습니다  닌텐도 어카운트와 연동하겠습니까?
+sp_option_account_00018	Pokémon HOME에서 아래 기능을 이용할 수 있습니다  ・Nintendo Switch 버전 Pokémon HOME과의 이용 상황 공유 ・기종 변경 시 데이터 이어받기 ・닌텐도 네트워크 ID를 이용한 "포켓몬 뱅크"의 포켓몬 일괄 이사  ※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오  <b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>  닌텐도 어카운트와 연동하겠습니까?
 sp_option_account_00019	닌텐도 어카운트와 연동 시작
 sp_option_account_00020	어카운트
 sp_option_account_00021	지난 이사
@@ -2228,6 +2228,7 @@ sp_option_terms2	이용 약관
 sp_option_terms_5	동의한다
 sp_option_terms_6	동의하지 않는다
 sp_option_addsdk_1	정보 이용에 대해서
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	캐시 삭제를 진행하면 동작이 빨라�
 sp_ui_title_menu_05_dialog_progress	캐시 삭제를 실행 중입니다...
 sp_ui_title_menu_05_dialog_done	캐시 삭제를 완료했습니다
 sp_ui_title_menu_support_id	서포트 ID
+sp_ui_title_menu_06_v1	서포트 ID를 복사
+sp_ui_title_menu_06_dialog_text_v1	클립보드에 복사되었습니다
 sp_ui_downlod_0001	기동 중입니다
 sp_ui_downlod_0002	마스터 데이터 다운로드 중
 sp_ui_downlod_0003	마스터 데이터 다운로드 완료
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	인터넷 대회
 sp_ui_pgl_mypage	나의 전적
 sp_ui_pgl_regulation	배포 레귤레이션
 sp_ui_pgl_event_calendar	이벤트 캘린더
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	모든 포켓몬
 sp_ui_release	해제
 sp_ui_goodby	놓아준다
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	라벨 편집
 sp_ui_label_seting_please	라벨의 이름과 색을 설정해 주십시오
 sp_ui_label_name	라벨명
 sp_ui_label_input_please	최대 8자
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	글자 수를 초과했습니다
 sp_ui_label_cant_use_word	사용할 수 없는 문자입니다
 sp_ui_icon	아이콘
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	받지 못했습니다
 sp_ui_gift_00010	받았습니다
 sp_ui_gift_00011	GPS를 켜지 못했습니다
 sp_ui_gift_00012	탭해서 시리얼 코드를 입력
+sp_ui_gift_seal	씰
 sp_ui_gift_01001	이 에리어에서 받을 수 있는 것
 sp_ui_gift_01002	선물 박스에서 받아주세요!
 sp_ui_gift_01003	선물 박스
@@ -2822,7 +2828,7 @@ sp_ui_report_07	GTS에서 교환한 횟수
 sp_ui_report_08	그룹 교환을 한 횟수
 sp_ui_report_09	친구 교환을 한 횟수
 sp_ui_report_10	도감에 등록한 포켓몬
-sp_ui_report_11	동록한 기술
+sp_ui_report_11	등록한 기술
 sp_ui_report_12	등록한 특성
 sp_ui_report_13	모은 씰의 개수
 sp_ui_notice_tab_1	전체

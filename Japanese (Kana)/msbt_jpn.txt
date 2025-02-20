@@ -2152,10 +2152,10 @@ sp_option_continue_00007	ニンテンドーアカウントと　連携しない�
 sp_option_continue_00008	登録/連携
 sp_option_continue_00009	連携しない
 sp_option_continue_00010	ニンテンドーアカウントとは？
-sp_option_continue_00011	ニンテンドーアカウントと　連携しない場合 以下の機能が　ご利用いただけません  ・Nintendo Switch版　Pokémon HOMEとの 　利用状況の 共有 ・機種変更を含む　別のスマートフォンへのデータ引継ぎ ・『ポケモンバンク』からの　ポケモンのひっこし  ※ニンテンドーアカウントとの　連携は あとから　行うこともできます
+sp_option_continue_00011	すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください <b>今連携しなければ　後から連携できなくなります</b>  なお、ニンテンドーアカウントと　連携しない場合 以下の機能が　ご利用いただけません  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の 共有 ・機種変更時の　データの引き継ぎ ・ニンテンドーネットワークIDを　使用して 『ポケモンバンク』から　ポケモンを　一括でひっこしさせる
 sp_option_continue_00012	ニンテンドーアカウントとの　連携は  [設定] ↓ [アカウント] ↓ [ニンテンドーアカウントの連携]  から　いつでも　行えます
 sp_option_continue_00013	連携に　失敗しました 前の画面に　戻ります
-sp_option_continue_00014	ニンテンドーアカウントと　連携することで Nintendo Switch版　Pokémon HOMEや 『ポケモンバンク』と　連動できます  ※すでに　Pokémon HOMEを　利用していたり ニンテンドーアカウントを　新規作成したり する場合は　<b>連携する</b> を　選んでください
+sp_option_continue_00014	ニンテンドーアカウントと　連携することで Nintendo Switch版　Pokémon HOMEや 『ポケモンバンク』と　連動できます  ※すでにNintendo Switch版 　Pokémon HOMEを　 利用していたり　今後利用予定がある場合 必ず今　<b>連携する</b>　を選んで　連携してください  <b>今連携しなければ　後から連携できなくなります</b>
 sp_option_continue_00015	アカウントの　引継ぎ
 sp_option_continue_00016	Pokémon HOMEを　初めて利用する
 sp_option_continue_00017	Nintendo Switch版　Pokémon HOMEとの 利用状況の　共有
@@ -2206,7 +2206,7 @@ sp_option_account_00014	すでに　ほかのPokémon HOMEと れんけいずみ
 sp_option_account_00015	ちゅうだんしたアカウントれんけいを　つづけます
 sp_option_account_00016	ニンテンドーアカウント連携で　できること
 sp_option_account_00017	連携でできること　注意事項
-sp_option_account_00018	Pokémon HOMEで　以下のことが　できます  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の　共有 ・機種変更を含む　別のスマートフォンへの ひきつぎ ・『ポケモンバンク』からの　ポケモンのひっこし  すでに　Pokémon HOMEを　利用している場合は ひきついで　開始できます  ニンテンドーアカウントと　連携しますか？
+sp_option_account_00018	Pokémon HOMEで　以下のことが　できます  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の　共有 ・機種変更時の　データの引き継ぎ ・ニンテンドーネットワークIDを　使用して 『ポケモンバンク』から　ポケモンを　一括でひっこしさせる  ※すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください  <b>今連携しなければ　後から連携できなくなります</b>  ニンテンドーアカウントと　連携しますか？
 sp_option_account_00019	ニンテンドーアカウントと　連携開始
 sp_option_account_00020	アカウント
 sp_option_account_00021	ぜんかいのひっこし
@@ -2228,6 +2228,7 @@ sp_option_terms2	りようきやく
 sp_option_terms_5	どういする
 sp_option_terms_6	どういしない
 sp_option_addsdk_1	じょうほうりようにかんして
+sp_option_terms_00012_v1	利用規約とプライバシーポリシーの更新
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	キャッシュクリアを　おこなうと �
 sp_ui_title_menu_05_dialog_progress	キャッシュクリアを じっこうちゅうです…
 sp_ui_title_menu_05_dialog_done	キャッシュクリアが かんりょうしました
 sp_ui_title_menu_support_id	サポートID
+sp_ui_title_menu_06_v1	サポートIDをコピー
+sp_ui_title_menu_06_dialog_text_v1	クリップボードに　コピーしました
 sp_ui_downlod_0001	きどうちゅうです
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	インターネットたいかい
 sp_ui_pgl_mypage	じぶんのせんせき
 sp_ui_pgl_regulation	はいしんレギュレーション
 sp_ui_pgl_event_calendar	イベントカレンダー
+sp_ui_pgl_mypage_confirm_v1	じぶんのせんせきを　かくにんするには ニンテンドーアカウントと れんけいしている　ひつようがあります  ニンテンドーアカウントとの れんけいは　せっていから おこなうこと　ができます
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	かいじょ
 sp_ui_goodby	にがす 
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	ラベルへんしゅう
 sp_ui_label_seting_please	ラベルの　なまえと　いろを　せっていしてください
 sp_ui_label_name	ラベルめい
 sp_ui_label_input_please	さいだい８もじ
+sp_ui_label_input_limit_v1	さいだい[VAR]もじ
 sp_ui_label_over_size	もじすうオーバーです
 sp_ui_label_cant_use_word	しようできない　もじです
 sp_ui_icon	アイコン
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	うけとりに　しっぱいしました
 sp_ui_gift_00010	うけとりました
 sp_ui_gift_00011	GPSが　きどうできません
 sp_ui_gift_00012	タップしてシリアルコードをにゅうりょく
+sp_ui_gift_seal	シール
 sp_ui_gift_01001	このエリアで　うけとれるもの
 sp_ui_gift_01002	プレゼントボックスで　うけとってね！
 sp_ui_gift_01003	プレゼントボックス

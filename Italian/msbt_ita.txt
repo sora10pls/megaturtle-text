@@ -2152,10 +2152,10 @@ sp_option_continue_00007	Cosa succede se non collego un account Nintendo?
 sp_option_continue_00008	Crea o collega
 sp_option_continue_00009	Non collegare
 sp_option_continue_00010	Cos'è un account Nintendo?
-sp_option_continue_00011	Se non colleghi un account Nintendo non potrai utilizzare le seguenti funzioni:  ・ Sincronizzazione tra Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferimento dei dati su un dispositivo diverso, come ad esempio un nuovo dispositivo mobile ・ Trasferimento di Pokémon dalla Banca Pokémon a Pokémon HOME  Se non colleghi il tuo account Nintendo a Pokémon HOME adesso, potrai farlo in seguito.
+sp_option_continue_00011	Se stai usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, ti preghiamo di collegare adesso i tuoi account. <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>  Se non colleghi un account Nintendo, non potrai utilizzare le seguenti funzioni:  ・ Sincronizzazione di Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferimento dei dati su un dispositivo diverso ・ Trasferimento di Pokémon dalla Banca Pokémon a Pokémon HOME tramite Nintendo Network ID.
 sp_option_continue_00012	Puoi collegare il tuo account Nintendo in qualsiasi momento dal menu delle <b>Opzioni</b> di Pokémon HOME.  Seleziona <b>Account</b> e poi l'opzione <b>Collega un account Nintendo</b>.
 sp_option_continue_00013	Il collegamento del tuo account non è riuscito. Ritorna alla schermata precedente e riprova.
-sp_option_continue_00014	Se colleghi il tuo account Nintendo potrai connetterti alla Banca Pokémon e a Pokémon HOME per Nintendo Switch.  Se stai già usando Pokémon HOME o se vuoi creare un nuovo account Nintendo, scegli l'opzione <b>Collega il tuo account</b>.
+sp_option_continue_00014	Se colleghi il tuo account Nintendo potrai connetterti alla Banca Pokémon e a Pokémon HOME per Nintendo Switch.  Se stai già usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, seleziona l'opzione <b>Collega il tuo account</b> per collegare i tuoi account.  <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>
 sp_option_continue_00015	Sincronizza un account esistente
 sp_option_continue_00016	Nuovo utente di Pokémon HOME
 sp_option_continue_00017	Sincronizza questa versione di Pokémon HOME con quella del tuo Nintendo Switch.
@@ -2206,7 +2206,7 @@ sp_option_account_00014	Questo account è già stato collegato ad altri dati di 
 sp_option_account_00015	Il collegamento verrà ripreso da dove è stato interrotto.
 sp_option_account_00016	Vantaggi del collegamento all'account Nintendo
 sp_option_account_00017	Informazioni sul collegamento all'account Nintendo
-sp_option_account_00018	In Pokémon HOME puoi fare le seguenti cose:  ・ Sincronizzare Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferire i dati su un dispositivo diverso, come ad esempio un nuovo dispositivo mobile ・ Trasferire Pokémon dalla Banca Pokémon a Pokémon HOME  Se stai già utilizzando Pokémon HOME su un altro dispositivo, potrai anche trasferire i tuoi dati su un nuovo dispositivo per usare Pokémon HOME senza perdere i tuoi progressi.  Vuoi collegare un account Nintendo?
+sp_option_account_00018	In Pokémon HOME puoi fare le seguenti cose:  ・ Sincronizzare Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferire i dati su un dispositivo diverso ・ Trasferire Pokémon dalla Banca Pokémon a Pokémon HOME tramite Nintendo Network ID.  Se stai già usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, seleziona l'opzione <b>Collega il tuo account</b> per collegare i tuoi account.  <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>  Vuoi collegare un account Nintendo?
 sp_option_account_00019	Collega un account Nintendo
 sp_option_account_00020	Account
 sp_option_account_00021	Ultimo trasferimento
@@ -2228,6 +2228,7 @@ sp_option_terms2	Termini di utilizzo
 sp_option_terms_5	Accetto
 sp_option_terms_6	Non accetto
 sp_option_addsdk_1	Uso dei dati personali
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	Svuotando la cache è possibile ottimizzare le p
 sp_ui_title_menu_05_dialog_progress	Svuotamento della cache in corso...
 sp_ui_title_menu_05_dialog_done	La cache è stata svuotata.
 sp_ui_title_menu_support_id	ID cliente
+sp_ui_title_menu_06_v1	Copia ID cliente
+sp_ui_title_menu_06_dialog_text_v1	L'ID cliente è stato copiato.
 sp_ui_downlod_0001	Inizializzazione in corso...
 sp_ui_downlod_0002	Download dei dati permanenti in corso...
 sp_ui_downlod_0003	I dati permanenti sono stati scaricati.
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	Gare Online
 sp_ui_pgl_mypage	Tuoi risultati
 sp_ui_pgl_regulation	Regole scaricabili
 sp_ui_pgl_event_calendar	Calendario eventi
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	Tutti i Pokémon
 sp_ui_release	Deseleziona
 sp_ui_goodby	Libera
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	Modifica etichetta
 sp_ui_label_seting_please	Scegli il nome e il colore dell'etichetta.
 sp_ui_label_name	Nome etichetta
 sp_ui_label_input_please	Massimo 16 caratteri
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	Il nome è troppo lungo.
 sp_ui_label_cant_use_word	Hai usato caratteri non consentiti.
 sp_ui_icon	Icona
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	Ricezione del dono non riuscita.
 sp_ui_gift_00010	Ricevuto
 sp_ui_gift_00011	Attivazione del GPS non riuscita.
 sp_ui_gift_00012	Tocca qui per inserire il codice seriale.
+sp_ui_gift_seal	Adesivi
 sp_ui_gift_01001	Doni che puoi ricevere in questa zona
 sp_ui_gift_01002	Controlla il tuo Box regali!
 sp_ui_gift_01003	Box regali

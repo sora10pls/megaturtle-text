@@ -2152,10 +2152,10 @@ sp_option_continue_00007	若不关联Nintendo Account会如何？
 sp_option_continue_00008	登录/关联
 sp_option_continue_00009	不关联
 sp_option_continue_00010	什么是Nintendo Account？
-sp_option_continue_00011	若不关联Nintendo Account， 以下功能将无法使用。  ・与Nintendo Switch版的 　Pokémon HOME共享使用状况。 ・因更换设备等原因， 　将数据继承到其他智能手机上。 ・从《宝可梦虚拟银行》转移宝可梦。  ※也可在之后关联Nintendo Account。
+sp_option_continue_00011	若你已在使用，或今后计划使用 Nintendo Switch版Pokémon HOME， 请务必现在进行关联。 <b>若现在不关联，以后将无法关联。</b>  此外，若不关联Nintendo Account， 以下功能将无法使用。  ・与Nintendo Switch版的 Pokémon HOME共享使用状况。 ・因更换设备而发生的数据继承操作。 ・使用Nintendo Network ID， 从《宝可梦虚拟银行》一并转移宝可梦。
 sp_option_continue_00012	可以随时按照以下步骤 关联Nintendo Account。  “设置” ↓ “账号” ↓ “关联Nintendo Account”
 sp_option_continue_00013	关联失败。 即将返回上一个画面。
-sp_option_continue_00014	关联Nintendo Account后就能 与Nintendo Switch版Pokémon HOME及 《宝可梦虚拟银行》连动。  ※若你已在使用Pokémon HOME， 或需要创建新的Nintendo Account时， 请选择<b>关联</b>。
+sp_option_continue_00014	关联Nintendo Account后就能 与Nintendo Switch版Pokémon HOME及 《宝可梦虚拟银行》连动。  ※若你已在使用，或今后计划使用 Nintendo Switch版Pokémon HOME， 请务必现在选择<b>关联</b>，以进行关联。  <b>若现在不关联，以后将无法关联。</b>
 sp_option_continue_00015	账号继承
 sp_option_continue_00016	第一次使用Pokémon HOME
 sp_option_continue_00017	与Nintendo Switch版Pokémon HOME 共享使用状况
@@ -2201,12 +2201,12 @@ sp_option_account_00009	更改
 sp_option_account_00010	关联Nintendo Account。
 sp_option_account_00011	关联Nintendo Account后， 可继承数据继续使用。
 sp_option_account_00012	关联Nintendo Account
-sp_option_account_00013	正在关联Nintendo Account。
+sp_option_account_00013	已关联Nintendo Account。
 sp_option_account_00014	此账号已与其他Pokémon HOME完成关联。
 sp_option_account_00015	继续执行上次中断的账号关联操作。
 sp_option_account_00016	关联Nintendo Account后可实现的功能
 sp_option_account_00017	关联后可实现功能的注意事项
-sp_option_account_00018	Pokémon HOME可实现以下功能。  ・与Nintendo Switch版的 Pokémon HOME共享使用状况。 ・因更换设备等原因， 将数据继承到其他智能手机上。 ・从《宝可梦虚拟银行》转移宝可梦。  如果你已在使用Pokémon HOME， 则可继承数据继续使用。 d  d 要关联Nintendo Account吗？
+sp_option_account_00018	Pokémon HOME可实现以下功能。  ・与Nintendo Switch版的 Pokémon HOME共享使用状况。 ・因更换设备而发生的数据继承操作。 ・使用Nintendo Network ID， 从《宝可梦虚拟银行》一并转移宝可梦。  ※若你已在使用，或今后计划使用 Nintendo Switch版Pokémon HOME， 请务必现在进行关联。  <b>若现在不关联，以后将无法关联。</b>  要关联Nintendo Account吗？
 sp_option_account_00019	开始关联Nintendo Account
 sp_option_account_00020	账号
 sp_option_account_00021	上次的转移
@@ -2228,6 +2228,7 @@ sp_option_terms2	用户协议
 sp_option_terms_5	同意
 sp_option_terms_6	不同意
 sp_option_addsdk_1	关于用户信息的使用
+sp_option_terms_00012_v1	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -2609,6 +2610,8 @@ sp_ui_title_menu_05_dialog_text	清除缓存后应用运行可能会更流畅，
 sp_ui_title_menu_05_dialog_progress	正在清除缓存……
 sp_ui_title_menu_05_dialog_done	已清除缓存。
 sp_ui_title_menu_support_id	客服编码
+sp_ui_title_menu_06_v1	复制客服编码
+sp_ui_title_menu_06_dialog_text_v1	已复制到剪贴板。
 sp_ui_downlod_0001	正在启动……
 sp_ui_downlod_0002	正在下载主数据……
 sp_ui_downlod_0003	主数据下载完成。
@@ -2707,6 +2710,7 @@ sp_ui_pgl_internet_tournament	互联网大赛
 sp_ui_pgl_mypage	我的成绩
 sp_ui_pgl_regulation	官方对战规则
 sp_ui_pgl_event_calendar	活动日历
+sp_ui_pgl_mypage_confirm_v1	
 sp_ui_all_pokemon	所有宝可梦
 sp_ui_release	取消
 sp_ui_goodby	放生
@@ -2749,6 +2753,7 @@ sp_ui_label_edit	编辑标签
 sp_ui_label_seting_please	请设定标签的名称与颜色。
 sp_ui_label_name	标签名
 sp_ui_label_input_please	最长８个字
+sp_ui_label_input_limit_v1	
 sp_ui_label_over_size	超过字数限制。
 sp_ui_label_cant_use_word	包含无法使用的文字。
 sp_ui_icon	图标
@@ -2788,6 +2793,7 @@ sp_ui_gift_00009	接收失败。
 sp_ui_gift_00010	已接收。
 sp_ui_gift_00011	无法启动GPS。
 sp_ui_gift_00012	轻点以输入序列号
+sp_ui_gift_seal	贴纸
 sp_ui_gift_01001	可在此区域接收的礼物
 sp_ui_gift_01002	通过礼物盒接收吧！
 sp_ui_gift_01003	礼物盒
