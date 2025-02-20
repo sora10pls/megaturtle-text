@@ -7646,6 +7646,10 @@ sp_mystery_0024_1	Special Competition Gift No. 2!
 sp_mystery_0024_2	You took part in the "2023 Global Challenge II" held in April in Pokémon Scarlet and Pokémon Violet! Here's a Great Ball Canvas Backpack as a special gift!
 sp_mystery_0025_1	Special Competition Gift No. 3!
 sp_mystery_0025_2	You took part in the "2023 Global Challenge III" held in May in Pokémon Scarlet and Pokémon Violet! Here's an Ultra Ball Canvas Backpack as a special gift!
+sp_mystery_0028_1	Game Pokédex Completion Commemoration No. 2!
+sp_mystery_0028_2	You've completed the Sinnoh Pokédex! Here's a special Manaphy as a gift!
+sp_mystery_0029_1	Game Pokédex Completion Commemoration No. 3!
+sp_mystery_0029_2	You've completed the Hisui Pokédex! Here's a special Enamorus as a gift!
 sp_mystery_0030_1	Game Pokédex Completion Commemoration No. 1!
 sp_mystery_0030_2	You've completed the Paldea Pokédex, the Kitakami Pokédex, and the Blueberry Pokédex! Here's a special Meloetta as a gift!
 sp_mystery_0031_1	Happy birthday from the Pokémon Center!
@@ -7679,6 +7683,14 @@ sp_oak_softdic_comp_001_001	Brilliant! We're one step closer to fulfilling my dr
 sp_oak_softdic_comp_001_002	I see you've registered every single Pokémon in the Paldea Pokédex, the Kitakami Pokédex, and the Blueberry Pokédex.
 sp_oak_softdic_comp_001_003	You were most certainly the right one to entrust with this monumental task.
 sp_oak_softdic_comp_001_004	Absolutely brilliant! I hope you keep up the fantastic work!
+sp_oak_softdic_comp_002_001	Brilliant! We're one step closer to fulfilling my dream of creating a grand Pokédex!
+sp_oak_softdic_comp_002_002	I see you've registered every single Pokémon in the Hisui Pokédex.
+sp_oak_softdic_comp_002_003	You were most certainly the right one to entrust with this monumental task.
+sp_oak_softdic_comp_002_004	Absolutely brilliant! I hope you keep up the fantastic work!
+sp_oak_softdic_comp_003_001	Brilliant! We're one step closer to fulfilling my dream of creating a grand Pokédex!
+sp_oak_softdic_comp_003_002	I see you've registered every single Pokémon for the Sinnoh Pokédex.
+sp_oak_softdic_comp_003_003	You were most certainly the right one to entrust with this monumental task.
+sp_oak_softdic_comp_003_004	Absolutely brilliant! I hope you keep up the fantastic work!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_usa.msbt

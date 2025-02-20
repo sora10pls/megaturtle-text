@@ -7646,6 +7646,10 @@ sp_mystery_0024_1	Regalo por participar en un torneo oficial n.º 2
 sp_mystery_0024_2	Te regalamos esta Mochila de lona con diseño de Super Ball por tu participación en el Desafío Global II de 2023 celebrado en abril de 2023 en Pokémon Escarlata y Pokémon Púrpura.
 sp_mystery_0025_1	Regalo por participar en un torneo oficial n.º 3
 sp_mystery_0025_2	Te regalamos esta Mochila de lona con diseño de Ultra Ball por tu participación en el Desafío Global III de 2023 celebrado en mayo de 2023 en Pokémon Escarlata y Pokémon Púrpura.
+sp_mystery_0028_1	¡Has completado la Pokédex de un juego! ②
+sp_mystery_0028_2	¡Has completado la Pokédex de Sinnoh! ¡Te regalamos un Manaphy especial para celebrarlo!
+sp_mystery_0029_1	¡Has completado la Pokédex de un juego! ③
+sp_mystery_0029_2	¡Has completado la Pokédex de Hisui! ¡Te regalamos un Enamorus especial para celebrarlo!
 sp_mystery_0030_1	¡Has completado la Pokédex de un juego! ①
 sp_mystery_0030_2	¡Has completado la Pokédex de Paldea, la Pokédex de Noroteo y la Pokédex Arándano! ¡Te regalamos un Meloetta especial para celebrarlo!
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
@@ -7679,6 +7683,14 @@ sp_oak_softdic_comp_001_001	¡Fenomenal! ¡Cada vez estoy más cerca de registra
 sp_oak_softdic_comp_001_002	¡Veo que has registrado todos los Pokémon de la Pokédex de Paldea, la Pokédex de Noroteo y la Pokédex Arándano!
 sp_oak_softdic_comp_001_003	¡Desde luego, pedirte que me ayudaras fue todo un acierto!
 sp_oak_softdic_comp_001_004	¡Perfecto! ¡Espero que sigas haciéndolo igual de bien!
+sp_oak_softdic_comp_002_001	¡Fenomenal! ¡Cada vez estoy más cerca de registrar todos los Pokémon y ver cumplido mi sueño!
+sp_oak_softdic_comp_002_002	¡Veo que has registrado todos los Pokémon de la Pokédex de Hisui!
+sp_oak_softdic_comp_002_003	¡Desde luego, pedirte que me ayudaras fue todo un acierto!
+sp_oak_softdic_comp_002_004	¡Perfecto! ¡Espero que sigas haciéndolo igual de bien!
+sp_oak_softdic_comp_003_001	¡Fenomenal! ¡Cada vez estoy más cerca de registrar todos los Pokémon y ver cumplido mi sueño!
+sp_oak_softdic_comp_003_002	¡Veo que has registrado todos los Pokémon de la Pokédex de Sinnoh!
+sp_oak_softdic_comp_003_003	¡Desde luego, pedirte que me ayudaras fue todo un acierto!
+sp_oak_softdic_comp_003_004	¡Perfecto! ¡Espero que sigas haciéndolo igual de bien!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_esp.msbt
