@@ -1923,6 +1923,8 @@ sp_api_400_11500	この　ポケモンは　だせません
 sp_api_400_11502	ほしいポケモンの　じょうけんに もんだいがあります　えらびなおしてください
 sp_api_400_11650	このアカウントでは こうかんすることが　できません
 sp_api_400_11651	こうかんにだせない　ポケモンが ふくまれています
+sp_api_500_10807	プレゼントは　すでにうけとりずみです
+sp_api_404_40409	そんざいしないプレゼントです
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_jpn.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	ポケモンの　ニックネーム
 sp_ui_input_nickname_confirm_02	[VAR_PKNAME]に ニックネームを　つけますか？
 sp_ui_input_nickname	ニックネームにゅうりょく
 sp_ui_input_nickname_00	タップしてニックネームをにゅうりょく
-sp_ui_input_nickname_please	ニックネームを　にゅうりょくしてください
+sp_ui_input_nickname_please	ニックネームを　にゅうりょくしてください （さいだい６もじ）
 sp_ui_input_nickname_warning_01	ニックネームが　にゅうりょくされていません
 sp_ui_input_nickname_warning_02	ニックネームに　しようできない もじが　ふくまれています
 sp_ui_input_nickname_warning_03	ニックネームに　しようできる もじすうを　こえています
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATIO
 sp_ui_trainermemo_04_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で うんめいてきな　であいをした　ようだ。
 sp_ui_trainermemo_05_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち なつかしの　[VAR_LOCATION]で であった　ようだ。
 sp_ui_trainermemo_06_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち なつかしの　[VAR_LOCATION]で うんめいてきな　であいをした　ようだ。
+sp_ui_trainermemo_date_01_v10	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち 
 sp_ui_label	ラベル
 sp_ui_label_create	ラベルさくせい
 sp_ui_new_label_create	しんきラベルさくせい
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	ひょうじできる　ポケモンは　いませ
 sp_ui_calendar_days_v5	つき／ひ
 sp_ui_calendar_able_edit_memory_v5	とうろくずみの　きねんびを　へんしゅうします
 sp_ui_get_calendar_title_v5	ゲットカレンダー
+sp_ui_get_calendar_dialog_title_v9	カレンダーひょうじの　きりかえ
+sp_ui_get_calendar_dialog_ym_v9	つきたんいで　ひょうじする
+sp_ui_get_calendar_dialog_ymd_v9	ひたんい　ひょうじにする
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn.msbt

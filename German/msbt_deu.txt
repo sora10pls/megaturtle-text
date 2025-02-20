@@ -1923,6 +1923,8 @@ sp_api_400_11500	Du kannst dieses Pokémon nicht tauschen.
 sp_api_400_11502	Es gibt ein Problem mit den Kriterien für dein gewünschtes Pokémon. Bitte wähle sie neu aus.
 sp_api_400_11650	Mit diesem Konto kannst du keine Pokémon tauschen.
 sp_api_400_11651	In deiner Auswahl befindet sich mindestens ein Pokémon, das nicht getauscht werden kann.
+sp_api_500_10807	Dieses Geschenk wurde bereits angenommen.
+sp_api_404_40409	Dieses Geschenk existiert nicht.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_deu.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	Pokémon-Spitzname
 sp_ui_input_nickname_confirm_02	Möchtest du dem [VAR_PKNAME] einen Spitznamen geben?
 sp_ui_input_nickname	Eingabe eines Spitznamens
 sp_ui_input_nickname_00	Hier berühren, um einen Spitznamen einzugeben.
-sp_ui_input_nickname_please	Bitte gib einen Spitznamen ein.
+sp_ui_input_nickname_please	Bitte gib einen Spitznamen ein. (Maximal 12 Zeichen)
 sp_ui_input_nickname_warning_01	Es wurde kein Spitzname eingegeben.
 sp_ui_input_nickname_warning_02	Der Spitzname enthält unzulässige Zeichen.
 sp_ui_input_nickname_warning_03	Die maximale Zeichenzahl für Spitznamen wurde überschritten.
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] He
 sp_ui_trainermemo_04_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION]
 sp_ui_trainermemo_05_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
 sp_ui_trainermemo_06_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
+sp_ui_trainermemo_date_01_v10	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
 sp_ui_label	Labels
 sp_ui_label_create	Label erstellen
 sp_ui_new_label_create	Neues Label erstellen
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	Es gibt keine Pokémon, die angezeigt werden könne
 sp_ui_calendar_days_v5	Tag/Monat
 sp_ui_calendar_able_edit_memory_v5	Erstellten Jahrestag bearbeiten
 sp_ui_get_calendar_title_v5	Fangkalender
+sp_ui_get_calendar_dialog_title_v9	Kalenderansicht wechseln
+sp_ui_get_calendar_dialog_ym_v9	Monatsansicht
+sp_ui_get_calendar_dialog_ymd_v9	Tagesansicht
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

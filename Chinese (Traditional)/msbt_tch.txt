@@ -1923,6 +1923,8 @@ sp_api_400_11500	不能選擇這隻寶可夢。
 sp_api_400_11502	想要的寶可夢的條件設定有問題。 請重新選擇。
 sp_api_400_11650	此帳號無法進行交換。
 sp_api_400_11651	目前包含了 無法用來交換的寶可夢。
+sp_api_500_10807	此禮物已接收。
+sp_api_404_40409	不存在的禮物。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_tch.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	寶可夢的暱稱
 sp_ui_input_nickname_confirm_02	要為[VAR_PKNAME]取暱稱嗎？
 sp_ui_input_nickname	輸入暱稱
 sp_ui_input_nickname_00	輕點以輸入暱稱。
-sp_ui_input_nickname_please	請輸入暱稱。
+sp_ui_input_nickname_please	請輸入暱稱。 （最多６個字）
 sp_ui_input_nickname_warning_01	未輸入暱稱。
 sp_ui_input_nickname_warning_02	暱稱中包含了無法使用的文字。
 sp_ui_input_nickname_warning_03	超過暱稱可使用的字數限制。
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 在[VAR_LOCATION] 
 sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 好像是在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
 sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 遇見了牠。
 sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_date_01_v10	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
 sp_ui_label	標籤
 sp_ui_label_create	製作標籤
 sp_ui_new_label_create	製作新標籤
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	沒有可顯示的寶可夢。
 sp_ui_calendar_days_v5	月／日
 sp_ui_calendar_able_edit_memory_v5	編輯已登錄的紀念日
 sp_ui_get_calendar_title_v5	捕捉日曆
+sp_ui_get_calendar_dialog_title_v9	切換日曆顯示
+sp_ui_get_calendar_dialog_ym_v9	以月份為單位顯示
+sp_ui_get_calendar_dialog_ymd_v9	以日期為單位顯示
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_tch.msbt

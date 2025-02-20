@@ -1923,6 +1923,8 @@ sp_api_400_11500	Questo Pokémon non può essere scambiato.
 sp_api_400_11502	C'è un problema con i criteri selezionati per il Pokémon richiesto. Scegli un altro Pokémon.
 sp_api_400_11650	Non puoi effettuare scambi con questo account.
 sp_api_400_11651	Sono presenti uno o più Pokémon che non possono essere scambiati.
+sp_api_500_10807	Hai già ricevuto questo regalo.
+sp_api_404_40409	Questo regalo non esiste.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_ita.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	Soprannome del Pokémon
 sp_ui_input_nickname_confirm_02	Vuoi dare un soprannome a [VAR_PKNAME]?
 sp_ui_input_nickname	Inserisci un soprannome
 sp_ui_input_nickname_00	Tocca qui per inserire un soprannome.
-sp_ui_input_nickname_please	Inserisci un soprannome.
+sp_ui_input_nickname_please	Inserisci un soprannome. (massimo 12 caratteri)
 sp_ui_input_nickname_warning_01	Non hai inserito alcun soprannome.
 sp_ui_input_nickname_warning_02	Sono stati inseriti caratteri non validi.
 sp_ui_input_nickname_warning_03	Hai superato il limite di caratteri a disposizione.
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	Ottenuto durante un evento speciale in data [VAR]/[VAR_
 sp_ui_trainermemo_04_v04	Ottenuto durante un evento speciale in data [VAR]/[VAR_DAY]/[VAR_YEAR], probabilmente nel seguente luogo: [VAR_LOCATION]
 sp_ui_trainermemo_05_v04	Probabilmente incontrato in seguito a un viaggio intriso di ricordi in data [VAR]/[VAR_DAY]/[VAR_YEAR], nel seguente luogo: [VAR_LOCATION]
 sp_ui_trainermemo_06_v04	Ottenuto durante un evento speciale in seguito a un viaggio intriso di ricordi in data [VAR]/[VAR_DAY]/[VAR_YEAR], probabilmente nel seguente luogo: [VAR_LOCATION]
+sp_ui_trainermemo_date_01_v10	Ottenuto durante un evento speciale in seguito a un viaggio intriso di ricordi in data [VAR]/[VAR_DAY]/[VAR_YEAR], probabilmente nel seguente luogo: [VAR_LOCATION]
 sp_ui_label	Etichetta
 sp_ui_label_create	Crea etichetta
 sp_ui_new_label_create	Crea nuova etichetta
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	Non ci sono Pokémon da visualizzare.
 sp_ui_calendar_days_v5	Giorno/Mese
 sp_ui_calendar_able_edit_memory_v5	Modifica l'anniversario registrato
 sp_ui_get_calendar_title_v5	Calendario di cattura
+sp_ui_get_calendar_dialog_title_v9	Modifica la visualizzazione del calendario
+sp_ui_get_calendar_dialog_ym_v9	Visualizza per mese
+sp_ui_get_calendar_dialog_ymd_v9	Visualizza per giorno
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt

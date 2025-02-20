@@ -1923,6 +1923,8 @@ sp_api_400_11500	この　ポケモンは　出せません
 sp_api_400_11502	ほしいポケモンの　条件に 問題があります　選びなおしてください
 sp_api_400_11650	このアカウントでは 交換することが　できません
 sp_api_400_11651	交換に出せない　ポケモンが 含まれています
+sp_api_500_10807	プレゼントは　すでに受け取り済みです
+sp_api_404_40409	存在しないプレゼントです
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_jpn_kanji.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	ポケモンの　ニックネーム
 sp_ui_input_nickname_confirm_02	[VAR_PKNAME]に ニックネームを　つけますか？
 sp_ui_input_nickname	ニックネーム入力
 sp_ui_input_nickname_00	タップしてニックネームを入力
-sp_ui_input_nickname_please	ニックネームを　入力してください
+sp_ui_input_nickname_please	ニックネームを　入力してください （最大６文字）
 sp_ui_input_nickname_warning_01	ニックネームが　入力されていません
 sp_ui_input_nickname_warning_02	ニックネームに　使用できない 文字が　含まれています
 sp_ui_input_nickname_warning_03	ニックネームに　使用できる 文字数を　こえています
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 運
 sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 運命的な　出会いをした　ようだ。
 sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 懐かしの　[VAR_LOCATION]で 出会った　ようだ。
 sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 懐かしの　[VAR_LOCATION]で 運命的な　出会いをした　ようだ。
+sp_ui_trainermemo_date_01_v10	[VAR_YEAR]年[VAR_DAY]月[VAR]日 
 sp_ui_label	ラベル
 sp_ui_label_create	ラベル作成
 sp_ui_new_label_create	新規ラベル作成
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	表示できる　ポケモンは　いません
 sp_ui_calendar_days_v5	月／日
 sp_ui_calendar_able_edit_memory_v5	登録済の　記念日を　編集します
 sp_ui_get_calendar_title_v5	ゲットカレンダー
+sp_ui_get_calendar_dialog_title_v9	カレンダー表示の　切り替え
+sp_ui_get_calendar_dialog_ym_v9	月単位で表示する
+sp_ui_get_calendar_dialog_ymd_v9	日単位で表示する
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn_kanji.msbt

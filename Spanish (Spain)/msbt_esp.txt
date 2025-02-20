@@ -1923,6 +1923,8 @@ sp_api_400_11500	No puedes intercambiar este Pokémon.
 sp_api_400_11502	Hay un problema con los criterios de selección del Pokémon deseado. Elige de nuevo.
 sp_api_400_11650	No puedes realizar intercambios con esta cuenta.
 sp_api_400_11651	Al menos uno de los Pokémon incluidos no puede ser intercambiado.
+sp_api_500_10807	Ya has recibido este regalo.
+sp_api_404_40409	Ese regalo no existe.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_esp.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	Mote del Pokémon
 sp_ui_input_nickname_confirm_02	¿Quieres ponerle un mote a [VAR_PKNAME]?
 sp_ui_input_nickname	Mote del Pokémon
 sp_ui_input_nickname_00	Toca para introducir un mote.
-sp_ui_input_nickname_please	Introduce un mote.
+sp_ui_input_nickname_please	Introduce un mote. (Puede tener hasta 12 caracteres)
 sp_ui_input_nickname_warning_01	No has introducido ningún mote.
 sp_ui_input_nickname_warning_02	Has introducido caracteres no válidos.
 sp_ui_input_nickname_warning_03	El mote es demasiado largo.
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	Encontrado el [VAR]/[VAR_DAY]/[VAR_YEAR]. Origen: [VAR_
 sp_ui_trainermemo_04_v04	Encontrado el [VAR]/[VAR_DAY]/[VAR_YEAR]. Origen: [VAR_LOCATION] Parece que fue cosa del destino.
 sp_ui_trainermemo_05_v04	Posiblemente encontrado el [VAR]/[VAR_DAY]/[VAR_YEAR]. Origen: [VAR_LOCATION] ¡Qué recuerdos!
 sp_ui_trainermemo_06_v04	Posiblemente unidos por el destino el [VAR]/[VAR_DAY]/[VAR_YEAR]. Origen: [VAR_LOCATION] ¡Qué recuerdos!
+sp_ui_trainermemo_date_01_v10	Posiblemente unidos por el destino el [VAR]/[VAR_DAY]/[VAR_YEAR]. Origen: [VAR_LOCATION] ¡Qué recuerdos!
 sp_ui_label	Etiquetas
 sp_ui_label_create	Crear etiqueta
 sp_ui_new_label_create	Crear nueva etiqueta
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	No hay Pokémon que se puedan mostrar.
 sp_ui_calendar_days_v5	Día/Mes
 sp_ui_calendar_able_edit_memory_v5	Editar aniversario creado
 sp_ui_get_calendar_title_v5	Calendario de captura
+sp_ui_get_calendar_dialog_title_v9	Cambiar vista del calendario
+sp_ui_get_calendar_dialog_ym_v9	Vista mensual
+sp_ui_get_calendar_dialog_ymd_v9	Vista diaria
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_esp.msbt

@@ -1923,6 +1923,8 @@ sp_api_400_11500	Vous ne pouvez pas envoyer ce Pokémon.
 sp_api_400_11502	Il y a un problème avec les critères du Pokémon recherché. Veuillez recommencer la sélection.
 sp_api_400_11650	Vous ne pouvez pas faire d'échanges depuis ce compte.
 sp_api_400_11651	Un ou plusieurs Pokémon ne peuvent pas être échangés.
+sp_api_500_10807	Ce cadeau a déjà été récupéré.
+sp_api_404_40409	Ce cadeau n'existe pas.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_fra.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	Surnom de Pokémon
 sp_ui_input_nickname_confirm_02	Voulez-vous donner un surnom à [VAR_PKNAME] ?
 sp_ui_input_nickname	Surnom
 sp_ui_input_nickname_00	Touchez ici pour saisir un surnom.
-sp_ui_input_nickname_please	Veuillez saisir un surnom.
+sp_ui_input_nickname_please	Veuillez saisir un surnom. (12 caractères maximum)
 sp_ui_input_nickname_warning_01	Aucun surnom n'a été saisi.
 sp_ui_input_nickname_warning_02	Certains des caractères de ce surnom ne peuvent pas être utilisés.
 sp_ui_input_nickname_warning_03	Ce surnom est trop long.
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	Rencontré par la force du destin le [VAR]/[VAR_DAY]/[V
 sp_ui_trainermemo_04_v04	Apparemment rencontré par la force du destin le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
 sp_ui_trainermemo_05_v04	Rencontré au cours d'un long voyage empreint de nostalgie le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
 sp_ui_trainermemo_06_v04	Rencontré par la force du destin au cours d'un long voyage empreint de nostalgie le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
+sp_ui_trainermemo_date_01_v10	Rencontré par la force du destin au cours d'un long voyage empreint de nostalgie le [VAR]/[VAR_DAY]/[VAR_YEAR]. Provenance : [VAR_LOCATION]
 sp_ui_label	Étiquettes
 sp_ui_label_create	Créer une étiquette
 sp_ui_new_label_create	Créer une nouvelle étiquette
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	Il n'y a pas de Pokémon à afficher.
 sp_ui_calendar_days_v5	Jour/Mois
 sp_ui_calendar_able_edit_memory_v5	Modifier l'anniversaire enregistré
 sp_ui_get_calendar_title_v5	Calendrier des captures
+sp_ui_get_calendar_dialog_title_v9	Modifier l'affichage du calendrier
+sp_ui_get_calendar_dialog_ym_v9	Afficher par mois
+sp_ui_get_calendar_dialog_ymd_v9	Afficher par jour
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_fra.msbt

@@ -1923,6 +1923,8 @@ sp_api_400_11500	不能选择该宝可梦。
 sp_api_400_11502	想要的宝可梦的条件存在问题， 请重新选择。
 sp_api_400_11650	此账号无法进行交换。
 sp_api_400_11651	包含无法用来交换的宝可梦。
+sp_api_500_10807	此礼物已接收。
+sp_api_404_40409	礼物不存在。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_sch.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	宝可梦的昵称
 sp_ui_input_nickname_confirm_02	要为[VAR_PKNAME]取昵称吗？
 sp_ui_input_nickname	输入昵称
 sp_ui_input_nickname_00	轻点以输入昵称
-sp_ui_input_nickname_please	请输入昵称。
+sp_ui_input_nickname_please	请输入昵称。 （最长６个字）
 sp_ui_input_nickname_warning_01	你没有输入昵称。
 sp_ui_input_nickname_warning_02	此昵称包含无法使用的文字。
 sp_ui_input_nickname_warning_03	此昵称超过了字数限制。
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 在[VAR_LOCATION] 
 sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 好像是在[VAR_LOCATION] 命中注定般地遇见了它。
 sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人怀念的[VAR_LOCATION] 遇见了它。
 sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人怀念的[VAR_LOCATION] 命中注定般地遇见了它。
+sp_ui_trainermemo_date_01_v10	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人怀念的[VAR_LOCATION] 命中注定般地遇见了它。
 sp_ui_label	标签
 sp_ui_label_create	制作标签
 sp_ui_new_label_create	制作新标签
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	没有可显示的宝可梦。
 sp_ui_calendar_days_v5	月／日
 sp_ui_calendar_able_edit_memory_v5	编辑已添加的纪念日。
 sp_ui_get_calendar_title_v5	捕捉日历
+sp_ui_get_calendar_dialog_title_v9	切换日历显示
+sp_ui_get_calendar_dialog_ym_v9	以月为单位显示
+sp_ui_get_calendar_dialog_ymd_v9	以日为单位显示
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt

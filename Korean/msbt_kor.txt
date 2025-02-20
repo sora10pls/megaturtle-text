@@ -1923,6 +1923,8 @@ sp_api_400_11500	이 포켓몬은 내보낼 수 없습니다
 sp_api_400_11502	원하는 포켓몬에 대한 조건에 문제가 있습니다 다시 선택해 주십시오
 sp_api_400_11650	이 어카운트로는 교환할 수 없습니다
 sp_api_400_11651	교환에 내보낼 수 없는 포켓몬이 포함되어 있습니다
+sp_api_500_10807	이미 받은 선물입니다
+sp_api_404_40409	존재하지 않는 선물입니다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_kor.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	포켓몬의 닉네임
 sp_ui_input_nickname_confirm_02	[VAR_PKNAME]에게 닉네임을 붙이겠습니까?
 sp_ui_input_nickname	닉네임 입력
 sp_ui_input_nickname_00	탭해서 닉네임을 입력
-sp_ui_input_nickname_please	닉네임을 입력해 주십시오
+sp_ui_input_nickname_please	닉네임을 입력해 주십시오 (최대 6자)
 sp_ui_input_nickname_warning_01	닉네임을 입력하지 않았습니다
 sp_ui_input_nickname_warning_02	닉네임에 사용할 수 없는 문자가 포함되어 있습니다
 sp_ui_input_nickname_warning_03	닉네임으로 사용할 수 있는 글자 수를 초과했습니다
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에�
 sp_ui_trainermemo_04_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
 sp_ui_trainermemo_05_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 만난 것 같다.
 sp_ui_trainermemo_06_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
+sp_ui_trainermemo_date_01_v10	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
 sp_ui_label	라벨
 sp_ui_label_create	라벨 작성
 sp_ui_new_label_create	신규 라벨 작성
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	표시할 수 있는 포켓몬이 없습니다
 sp_ui_calendar_days_v5	월/일
 sp_ui_calendar_able_edit_memory_v5	등록한 기념일을 편집합니다
 sp_ui_get_calendar_title_v5	GET 캘린더
+sp_ui_get_calendar_dialog_title_v9	캘린더 표시 전환
+sp_ui_get_calendar_dialog_ym_v9	월 단위로 표시한다
+sp_ui_get_calendar_dialog_ymd_v9	일 단위로 표시한다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

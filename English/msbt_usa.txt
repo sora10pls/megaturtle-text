@@ -1593,7 +1593,7 @@ sp_achstep_oth_s_0040	Change your user icon 10 times!
 sp_achstep_oth_s_0041	Withdraw Butterfree from Pokémon HOME!
 sp_achstep_oth_s_0042	Move Pokémon from Pokémon Bank!
 sp_achstep_oth_s_0043	Save up 100 Pokémon HOME Points!
-sp_achstep_oth_s_0044	Use voice recognition!
+sp_achstep_oth_s_0044	Use speech recognition!
 sp_achstep_trd_000101	Trade 5 times using the GTS!
 sp_achstep_trd_000102	Trade 25 times using the GTS!
 sp_achstep_trd_000103	Trade 50 times using the GTS!
@@ -1745,7 +1745,7 @@ sp_ach_oth_s_0040	Change your user icon 10 times!
 sp_ach_oth_s_0041	Withdraw Butterfree from Pokémon HOME!
 sp_ach_oth_s_0042	Move Pokémon from Pokémon Bank!
 sp_ach_oth_s_0043	Save up 100 Pokémon HOME Points!
-sp_ach_oth_s_0044	Use voice recognition!
+sp_ach_oth_s_0044	Use speech recognition!
 sp_ach_oth_0001	Receive presents through Mystery Gift!
 sp_ach_oth_0002	Gather stickers!
 sp_ach_oth_0003	Use Pokémon HOME!
@@ -1923,6 +1923,8 @@ sp_api_400_11500	You can't trade this Pokémon.
 sp_api_400_11502	There is a problem with the conditions for the Pokémon you want. Please change your selection.
 sp_api_400_11650	You can't trade Pokémon with this account.
 sp_api_400_11651	You've included one or more Pokémon that can't be traded.
+sp_api_500_10807	This present has already been claimed.
+sp_api_404_40409	This present does not exist.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_usa.msbt
@@ -2796,7 +2798,7 @@ sp_ui_input_nickname_confirm_01	Pokémon nickname
 sp_ui_input_nickname_confirm_02	Would you like to give [VAR_PKNAME] a nickname?
 sp_ui_input_nickname	Enter a Nickname
 sp_ui_input_nickname_00	Tap to give your Pokémon a nickname!
-sp_ui_input_nickname_please	Please enter a nickname.
+sp_ui_input_nickname_please	Please enter a nickname. (Maximum: 12 characters)
 sp_ui_input_nickname_warning_01	No nickname was given.
 sp_ui_input_nickname_warning_02	That nickname contains characters that can't be used.
 sp_ui_input_nickname_warning_03	That nickname exceeds the max number of characters for a nickname.
@@ -2989,6 +2991,7 @@ sp_ui_trainermemo_03_v04	Had a fateful encounter in [VAR_LOCATION] on [VAR_DAY]/
 sp_ui_trainermemo_04_v04	Seems to have had a fateful encounter in [VAR_LOCATION] on [VAR_DAY]/[VAR]/[VAR_YEAR].
 sp_ui_trainermemo_05_v04	Seems to have been first met in [VAR_LOCATION] in the good old days, on [VAR_DAY]/[VAR]/[VAR_YEAR].
 sp_ui_trainermemo_06_v04	Seems to have had a fateful encounter in [VAR_LOCATION] in the good old days, on [VAR_DAY]/[VAR]/[VAR_YEAR].
+sp_ui_trainermemo_date_01_v10	Seems to have had a fateful encounter in [VAR_LOCATION] in the good old days, on [VAR_DAY]/[VAR]/[VAR_YEAR].
 sp_ui_label	Labels
 sp_ui_label_create	Create a label
 sp_ui_new_label_create	Create a new label
@@ -3176,6 +3179,9 @@ sp_ui_calendar_empty_list_v5	There are no Pokémon that can be shown.
 sp_ui_calendar_days_v5	Month/Day
 sp_ui_calendar_able_edit_memory_v5	Edit registered Anniversaries
 sp_ui_get_calendar_title_v5	Catch Calendar
+sp_ui_get_calendar_dialog_title_v9	Switch calendar view
+sp_ui_get_calendar_dialog_ym_v9	Display by months
+sp_ui_get_calendar_dialog_ymd_v9	Display by days
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt
