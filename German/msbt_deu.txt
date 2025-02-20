@@ -7646,6 +7646,10 @@ sp_mystery_0024_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 2!
 sp_mystery_0024_2	Du hast am Online-Turnier „Globale Challenge 2023 II“ im April in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Superball-Leinenrucksack als besonderes Geschenk!
 sp_mystery_0025_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 3!
 sp_mystery_0025_2	Du hast am Online-Turnier „Globale Challenge 2023 III“ im Mai in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Hyperball-Leinenrucksack als besonderes Geschenk!
+sp_mystery_0026_1	Pokédex eines Spiels vollständig! ④
+sp_mystery_0026_2	Du hast den Kanto-Pokédex vervollständigt. Als Belohnung bekommst du ein besonderes Meltan geschenkt!
+sp_mystery_0027_1	Pokédex eines Spiels vollständig! ⑤
+sp_mystery_0027_2	Du hast den Galar-Pokédex, Rüstungs-Pokédex und Kronen-Pokédex vervollständigt. Als Belohnung bekommst du ein besonderes Keldeo geschenkt!
 sp_mystery_0028_1	Pokédex eines Spiels vollständig! ②
 sp_mystery_0028_2	Du hast den Sinnoh-Pokédex vervollständigt. Als Belohnung bekommst du ein besonderes Manaphy geschenkt!
 sp_mystery_0029_1	Pokédex eines Spiels vollständig! ③
@@ -7691,6 +7695,14 @@ sp_oak_softdic_comp_003_001	Erstklassige Arbeit! Wir sind meinem Traum von einem
 sp_oak_softdic_comp_003_002	Wenn ich das richtig sehe, hast du damit alle Pokémon aus dem Sinnoh-Pokédex registriert...
 sp_oak_softdic_comp_003_003	Es war eine gute Entscheidung, dir diese Aufgabe anzuvertrauen!
 sp_oak_softdic_comp_003_004	Alles klärchen, dann mal keine Müdigkeit vorschützen! Geh da raus und registriere so viele Pokémon, wie du kannst!
+sp_oak_softdic_comp_004_001	Erstklassige Arbeit! Wir sind meinem Traum von einem Pokédex, in dem alle Pokémon dieser Welt verzeichnet sind, wieder ein Stück näher gekommen!
+sp_oak_softdic_comp_004_002	Wenn ich das richtig sehe, hast du damit alle Pokémon aus dem Galar-Pokédex, dem Rüstungs-Pokédex und dem Kronen-Pokédex registriert...
+sp_oak_softdic_comp_004_003	Es war eine gute Entscheidung, dir diese Aufgabe anzuvertrauen!
+sp_oak_softdic_comp_004_004	Alles klärchen, dann mal keine Müdigkeit vorschützen! Geh da raus und registriere so viele Pokémon, wie du kannst!
+sp_oak_softdic_comp_005_001	Erstklassige Arbeit! Wir sind meinem Traum von einem Pokédex, in dem alle Pokémon dieser Welt verzeichnet sind, wieder ein Stück näher gekommen!
+sp_oak_softdic_comp_005_002	Wenn ich das richtig sehe, hast du damit alle Pokémon aus dem Kanto-Pokédex registriert...
+sp_oak_softdic_comp_005_003	Es war eine gute Entscheidung, dir diese Aufgabe anzuvertrauen!
+sp_oak_softdic_comp_005_004	Alles klärchen, dann mal keine Müdigkeit vorschützen! Geh da raus und registriere so viele Pokémon, wie du kannst!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_deu.msbt

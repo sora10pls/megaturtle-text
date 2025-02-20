@@ -7646,6 +7646,10 @@ sp_mystery_0024_1	Special Competition Gift No. 2!
 sp_mystery_0024_2	You took part in the "2023 Global Challenge II" held in April in Pokémon Scarlet and Pokémon Violet! Here's a Great Ball Canvas Backpack as a special gift!
 sp_mystery_0025_1	Special Competition Gift No. 3!
 sp_mystery_0025_2	You took part in the "2023 Global Challenge III" held in May in Pokémon Scarlet and Pokémon Violet! Here's an Ultra Ball Canvas Backpack as a special gift!
+sp_mystery_0026_1	Game Pokédex Completion Commemoration No. 4!
+sp_mystery_0026_2	You've completed the Kanto Pokédex! Here's a special Meltan as a gift!
+sp_mystery_0027_1	Game Pokédex Completion Commemoration No. 5!
+sp_mystery_0027_2	You've completed the Galar Pokédex, the Isle of Armor Pokédex, and the Crown Tundra Pokédex! Here's a special Keldeo as a gift!
 sp_mystery_0028_1	Game Pokédex Completion Commemoration No. 2!
 sp_mystery_0028_2	You've completed the Sinnoh Pokédex! Here's a special Manaphy as a gift!
 sp_mystery_0029_1	Game Pokédex Completion Commemoration No. 3!
@@ -7691,6 +7695,14 @@ sp_oak_softdic_comp_003_001	Brilliant! We're one step closer to fulfilling my dr
 sp_oak_softdic_comp_003_002	I see you've registered every single Pokémon for the Sinnoh Pokédex.
 sp_oak_softdic_comp_003_003	You were most certainly the right one to entrust with this monumental task.
 sp_oak_softdic_comp_003_004	Absolutely brilliant! I hope you keep up the fantastic work!
+sp_oak_softdic_comp_004_001	Brilliant! We're one step closer to fulfilling my dream of creating a grand Pokédex!
+sp_oak_softdic_comp_004_002	I see you've registered every single Pokémon in the Galar Pokédex, the Isle of Armor Pokédex, and the Crown Tundra Pokédex.
+sp_oak_softdic_comp_004_003	You were most certainly the right one to entrust with this monumental task.
+sp_oak_softdic_comp_004_004	Absolutely brilliant! I hope you keep up the fantastic work!
+sp_oak_softdic_comp_005_001	Brilliant! We're one step closer to fulfilling my dream of creating a grand Pokédex!
+sp_oak_softdic_comp_005_002	I see you've registered every single Pokémon in the Kanto Pokédex.
+sp_oak_softdic_comp_005_003	You were most certainly the right one to entrust with this monumental task.
+sp_oak_softdic_comp_005_004	Absolutely brilliant! I hope you keep up the fantastic work!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_usa.msbt

@@ -7646,6 +7646,10 @@ sp_mystery_0024_1	Récompense spéciale de compétition nº 2
 sp_mystery_0024_2	Vous avez pris part au « Défi Mondial II (2023) », une compétition Internet organisée en avril 2023 dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Super Ball en guise de récompense spéciale !
 sp_mystery_0025_1	Récompense spéciale de compétition nº 3
 sp_mystery_0025_2	Vous avez pris part au « Défi Mondial III (2023) », une compétition Internet organisée en mai 2023 dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Hyper Ball en guise de récompense spéciale !
+sp_mystery_0026_1	Félicitations ! Vous avez complété le Pokédex d'un jeu ! ④
+sp_mystery_0026_2	Vous avez complété le Pokédex de Kanto ! En récompense, nous vous offrons un Meltan spécial !
+sp_mystery_0027_1	Félicitations ! Vous avez complété les Pokédex d'un jeu ! ⑤
+sp_mystery_0027_2	Vous avez complété le Pokédex de Galar, le Pokédex d'Isolarmure et le Pokédex de Couronneige ! En récompense, nous vous offrons un Keldeo spécial !
 sp_mystery_0028_1	Félicitations ! Vous avez complété le Pokédex d'un jeu ! ②
 sp_mystery_0028_2	Vous avez complété le Pokédex de Sinnoh ! En récompense, nous vous offrons un Manaphy spécial !
 sp_mystery_0029_1	Félicitations ! Vous avez complété le Pokédex d'un jeu ! ③
@@ -7691,6 +7695,14 @@ sp_oak_softdic_comp_003_001	C'est trop sensass ! Mon rêve d'avoir les entrées
 sp_oak_softdic_comp_003_002	Tu as enregistré tous les Pokémon du Pokédex de Sinnoh, pas vrai ?
 sp_oak_softdic_comp_003_003	Je savais que je pouvais compter sur toi !
 sp_oak_softdic_comp_003_004	Allez, continue comme ça ! Tu fais un boulot vraiment sensass !
+sp_oak_softdic_comp_004_001	C'est trop sensass ! Mon rêve d'avoir les entrées Pokédex de tous les Pokémon semble encore un peu plus à portée de main !
+sp_oak_softdic_comp_004_002	Tu as enregistré tous les Pokémon des Pokédex de Galar, d'Isolarmure et de Couronneige, pas vrai ?
+sp_oak_softdic_comp_004_003	Je savais que je pouvais compter sur toi !
+sp_oak_softdic_comp_004_004	Allez, continue comme ça ! Tu fais un boulot vraiment sensass !
+sp_oak_softdic_comp_005_001	C'est trop sensass ! Mon rêve d'avoir les entrées Pokédex de tous les Pokémon semble encore un peu plus à portée de main !
+sp_oak_softdic_comp_005_002	Tu as enregistré tous les Pokémon du Pokédex de Kanto, pas vrai ?
+sp_oak_softdic_comp_005_003	Je savais que je pouvais compter sur toi !
+sp_oak_softdic_comp_005_004	Allez, continue comme ça ! Tu fais un boulot vraiment sensass !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_fra.msbt

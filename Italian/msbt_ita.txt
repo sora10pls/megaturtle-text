@@ -7646,6 +7646,10 @@ sp_mystery_0024_1	Sfida speciale a Paldea: regalo nº 2!
 sp_mystery_0024_2	Hai partecipato alla Sfida globale II (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi ad aprile 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Mega Ball!
 sp_mystery_0025_1	Sfida speciale a Paldea: regalo nº 3!
 sp_mystery_0025_2	Hai partecipato alla Sfida globale III (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi a maggio 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Ultra Ball!
+sp_mystery_0026_1	Pokédex di un gioco completato! ④
+sp_mystery_0026_2	Hai completato il Pokédex di Kanto! Per festeggiare, vogliamo regalarti un Meltan speciale!
+sp_mystery_0027_1	Pokédex di un gioco completato! ⑤
+sp_mystery_0027_2	Hai completato il Pokédex di Galar, il Pokédex dell'Isola dell'Armatura e il Pokédex della Landa Corona! Per festeggiare, vogliamo regalarti un Keldeo speciale!
 sp_mystery_0028_1	Pokédex di un gioco completato! ②
 sp_mystery_0028_2	Hai completato il Pokédex di Sinnoh! Per festeggiare, vogliamo regalarti un Manaphy speciale!
 sp_mystery_0029_1	Pokédex di un gioco completato! ③
@@ -7691,6 +7695,14 @@ sp_oak_softdic_comp_003_001	Bene bene, sono sempre più vicino a realizzare il m
 sp_oak_softdic_comp_003_002	A quanto pare hai registrato tutti i Pokémon del Pokédex di Sinnoh!
 sp_oak_softdic_comp_003_003	Ho fatto proprio bene a rivolgermi a te!
 sp_oak_softdic_comp_003_004	Bene bene, spero di poter contare sul tuo aiuto anche in futuro!
+sp_oak_softdic_comp_004_001	Bene bene, sono sempre più vicino a realizzare il mio sogno di registrare nel Pokédex tutti i Pokémon esistenti!
+sp_oak_softdic_comp_004_002	A quanto pare hai registrato tutti i Pokémon del Pokédex di Galar, del Pokédex Armatura e del Pokédex Corona!
+sp_oak_softdic_comp_004_003	Ho fatto proprio bene a rivolgermi a te!
+sp_oak_softdic_comp_004_004	Bene bene, spero di poter contare sul tuo aiuto anche in futuro!
+sp_oak_softdic_comp_005_001	Bene bene, sono sempre più vicino a realizzare il mio sogno di registrare nel Pokédex tutti i Pokémon esistenti!
+sp_oak_softdic_comp_005_002	A quanto pare hai registrato tutti i Pokémon del Pokédex di Kanto!
+sp_oak_softdic_comp_005_003	Ho fatto proprio bene a rivolgermi a te!
+sp_oak_softdic_comp_005_004	Bene bene, spero di poter contare sul tuo aiuto anche in futuro!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_ita.msbt
