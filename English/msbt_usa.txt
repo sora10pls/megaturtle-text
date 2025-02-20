@@ -2179,9 +2179,9 @@ sp_mystery_0010_1	Victory over Zeraora ②
 sp_mystery_0010_2	Congratulations! We hit a further target for the number of Trainers who defeated Zeraora in special Max Raid Battles! As a reward, you'll receive some Armorite Ore!
 sp_mystery_0011_1	Gift for linking Pokémon GO
 sp_mystery_0011_2	You transferred a Pokémon from Pokémon GO for the first time! As a reward, you'll receive a special Melmetal that is capable of Gigantamaxing!
-sp_mystery_0012_1	Mobile Device Ver. 1.4.0 Release Celebration ①
+sp_mystery_0012_1	Mobile Ver. 1.4.0 Gift ①
 sp_mystery_0012_2	To celebrate the release of ver. 1.4.0 for the mobile device version of Pokémon HOME, you'll receive a Bulbasaur! If you evolve it, it will become a Venusaur capable of Gigantamaxing!
-sp_mystery_0013_1	Mobile Device Ver. 1.4.0 Release Celebration ②
+sp_mystery_0013_1	Mobile Ver. 1.4.0 Gift ②
 sp_mystery_0013_2	To celebrate the release of ver. 1.4.0 for the mobile device version of Pokémon HOME, you'll receive a Squirtle! If you evolve it, it will become a Blastoise capable of Gigantamaxing!
 
 ~~~~~~~~~~~~~~~
@@ -3155,6 +3155,7 @@ sp_ui_calendar_memory_empty_today_v5	No Anniversaries have been set.
 sp_ui_calendar_empty_list_v5	There are no Pokémon that can be shown.
 sp_ui_calendar_days_v5	Month/Day
 sp_ui_calendar_able_edit_memory_v5	Edit registered Anniversaries
+sp_ui_get_calendar_title_v5	Catch Calendar
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt

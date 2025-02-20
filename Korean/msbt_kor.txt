@@ -3134,7 +3134,7 @@ sp_ui_model_viewer_009	종 이동/횡 이동
 sp_ui_get_calendar_v5	GET 캘린더
 sp_ui_calendar_v5	캘린더
 sp_ui_memory_v5	기념일
-sp_ui_calendar_year_v5	년
+sp_ui_calendar_year_v5	연도
 sp_ui_calendar_numerical_year_v5	[VAR_YEAR]년
 sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]년 [VAR_MONTH]월
 sp_ui_calendar_numerical_month_day_v5	[VAR]월 [VAR_MONTH]일
@@ -3155,6 +3155,7 @@ sp_ui_calendar_memory_empty_today_v5	설정한 기념일이 없습니다
 sp_ui_calendar_empty_list_v5	표시할 수 있는 포켓몬이 없습니다
 sp_ui_calendar_days_v5	월/일
 sp_ui_calendar_able_edit_memory_v5	등록한 기념일을 편집합니다
+sp_ui_get_calendar_title_v5	GET 캘린더
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

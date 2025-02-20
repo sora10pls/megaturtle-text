@@ -3155,6 +3155,7 @@ sp_ui_calendar_memory_empty_today_v5	記念日が　設定されていません
 sp_ui_calendar_empty_list_v5	表示できる　ポケモンは　いません
 sp_ui_calendar_days_v5	月／日
 sp_ui_calendar_able_edit_memory_v5	登録済の　記念日を　編集します
+sp_ui_get_calendar_title_v5	ゲットカレンダー
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn_kanji.msbt

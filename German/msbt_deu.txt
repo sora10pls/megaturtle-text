@@ -3141,7 +3141,7 @@ sp_ui_calendar_numerical_month_day_v5	[VAR_MONTH].[VAR]
 sp_ui_calendar_numerical_date_v5	[VAR_DAY].[VAR_MONTH].[VAR_YEAR]
 sp_ui_calendar_illegal_date_v5	Unbekanntes Datum
 sp_ui_calendar_date_v5	Datum
-sp_ui_calendar_unspecified_v5	Alle Jahrestage
+sp_ui_calendar_unspecified_v5	Alle mit Jahrestag heute
 sp_ui_calendar_manage_memory_v5	Jahrestage verwalten
 sp_ui_calendar_register_memory_v5	Jahrestag erstellen
 sp_ui_calendar_register_memory_info_v5	Bitte gib das Datum und den Namen für den Jahrestag ein.
@@ -3155,6 +3155,7 @@ sp_ui_calendar_memory_empty_today_v5	Es wurden keine Jahrestage erstellt.
 sp_ui_calendar_empty_list_v5	Es gibt keine Pokémon, die angezeigt werden können.
 sp_ui_calendar_days_v5	Tag/Monat
 sp_ui_calendar_able_edit_memory_v5	Erstellten Jahrestag bearbeiten
+sp_ui_get_calendar_title_v5	Fangkalender
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

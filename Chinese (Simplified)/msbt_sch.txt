@@ -3155,6 +3155,7 @@ sp_ui_calendar_memory_empty_today_v5	未设定纪念日。
 sp_ui_calendar_empty_list_v5	没有可显示的宝可梦。
 sp_ui_calendar_days_v5	月／日
 sp_ui_calendar_able_edit_memory_v5	编辑已添加的纪念日。
+sp_ui_get_calendar_title_v5	捕捉日历
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt
