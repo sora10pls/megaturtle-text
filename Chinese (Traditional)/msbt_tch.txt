@@ -4583,6 +4583,7 @@ sp_trade_gts_00024_v6	其他人在尋找的寶可夢
 sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
 sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
 sp_trade_gts_00029_v6	沒有用戶在尋找 你所指定的寶可夢
+sp_trade_gts_search_title_v12	可移動過去的作品
 sp_trade_gts_01001	請進行交換。 拜託你了。
 sp_trade_gts_01002	我想要交換有助於 冒險的寶可夢。
 sp_trade_gts_01003	我想要交換善於 對戰的寶可夢。
@@ -4872,6 +4873,12 @@ sp_ui_pgl_event_calendar	活動行事曆
 sp_ui_pgl_mypage_confirm_v1	若要確認「我的成績」， 需與Nintendo Account連結。  請從「設定」中進行操作， 與用來遊玩寶可夢對戰的 Nintendo Account連結。
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
+sp_ui_pgl_friendcompe	夥伴大賽
+sp_ui_pgl_pastdata	觀看成績紀錄
+sp_ui_pgl_reference_sv_info	
+sp_ui_pgl_friendcompe_na_required	
+sp_ui_pgl_battledata_top	對戰資料TOP
+sp_ui_pgl_back	返回
 sp_ui_all_pokemon	所有寶可夢
 sp_ui_release	解除
 sp_ui_goodby	放生

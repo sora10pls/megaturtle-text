@@ -4311,7 +4311,7 @@ sp_option_my_parent_02_v6	Manage multiple sets of Trainer Info at once.
 sp_option_my_parent_03_v6	Select/Remove
 sp_option_my_parent_04_v6	Show icon in Pokémon List
 sp_option_library_other_v10	Pokédex display settings
-sp_option_library_other_save_v10	Keep the display of Others
+sp_option_library_other_save_v10	Keep the configuration of Others
 sp_option_userdel_header_v11	Manage Account
 sp_option_userdel_button_v11	Delete Account
 sp_option_userdel_confirm3_yes_v11	I agree
@@ -4583,6 +4583,7 @@ sp_trade_gts_00024_v6	Wanted Pokémon
 sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00029_v6	There are no users who are requesting the Pokémon you specified.
+sp_trade_gts_search_title_v12	Games it can travel to
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
 sp_trade_gts_01002	I want to trade for a Pokémon that will help me with my adventure.
 sp_trade_gts_01003	I want to trade for a Pokémon that is strong in battles.
@@ -4872,6 +4873,12 @@ sp_ui_pgl_event_calendar	Event Calendar
 sp_ui_pgl_mypage_confirm_v1	In order to check your own Battle Records, you'll need to link to a Nintendo Account.  Please go to the Options menu and link the Nintendo Account that you use for Pokémon battles.
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
+sp_ui_pgl_friendcompe	Friendly Competitions
+sp_ui_pgl_pastdata	View Your Battle Records
+sp_ui_pgl_reference_sv_info	
+sp_ui_pgl_friendcompe_na_required	
+sp_ui_pgl_battledata_top	Battle Data Home
+sp_ui_pgl_back	Back
 sp_ui_all_pokemon	All Pokémon
 sp_ui_release	Unselect all
 sp_ui_goodby	Release

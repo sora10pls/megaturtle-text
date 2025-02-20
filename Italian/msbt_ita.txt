@@ -4583,6 +4583,7 @@ sp_trade_gts_00024_v6	Pokémon richiesti
 sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00029_v6	Nessun utente ha richiesto questo Pokémon.
+sp_trade_gts_search_title_v12	Giochi compatibili
 sp_trade_gts_01001	Ciao! Vuoi fare uno scambio?
 sp_trade_gts_01002	Cerco un Pokémon che mi aiuti ad avanzare nella mia avventura!
 sp_trade_gts_01003	Cerco un Pokémon fortissimo nelle lotte!
@@ -4872,6 +4873,12 @@ sp_ui_pgl_event_calendar	Calendario eventi
 sp_ui_pgl_mypage_confirm_v1	Per vedere i tuoi risultati delle lotte di Pokémon devi collegare il tuo account Nintendo.  Puoi collegare l'account Nintendo che usi per le lotte dalle "Opzioni".
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
+sp_ui_pgl_friendcompe	Gare private
+sp_ui_pgl_pastdata	Risultati lotte passate
+sp_ui_pgl_reference_sv_info	
+sp_ui_pgl_friendcompe_na_required	
+sp_ui_pgl_battledata_top	Schermata lotte
+sp_ui_pgl_back	Indietro
 sp_ui_all_pokemon	Tutti i Pokémon
 sp_ui_release	Deseleziona
 sp_ui_goodby	Libera

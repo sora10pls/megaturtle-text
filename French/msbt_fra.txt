@@ -4583,6 +4583,7 @@ sp_trade_gts_00024_v6	Pokémon recherchés
 sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00029_v6	Aucun utilisateur ne recherche le ou les Pokémon indiqués.
+sp_trade_gts_search_title_v12	Jeux compatibles
 sp_trade_gts_01001	Merci d'échanger un Pokémon avec moi !
 sp_trade_gts_01002	J'aimerais avoir un Pokémon qui puisse m'aider dans mon aventure !
 sp_trade_gts_01003	J'aimerais avoir un Pokémon qui soit super fort en combat !
@@ -4872,6 +4873,12 @@ sp_ui_pgl_event_calendar	Calendrier des évènements
 sp_ui_pgl_mypage_confirm_v1	Pour consulter votre historique des combats, vous avez besoin d'associer un compte Nintendo à Pokémon HOME.  Veuillez vous rendre dans le menu Paramètres et associer à Pokémon HOME le compte Nintendo que vous utilisez pour les combats Pokémon.
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
+sp_ui_pgl_friendcompe	Tournois amicaux
+sp_ui_pgl_pastdata	Voir votre historique des combats
+sp_ui_pgl_reference_sv_info	
+sp_ui_pgl_friendcompe_na_required	
+sp_ui_pgl_battledata_top	Menu des infos combats
+sp_ui_pgl_back	Retour
 sp_ui_all_pokemon	Tous les Pokémon
 sp_ui_release	Annuler
 sp_ui_goodby	Relâcher

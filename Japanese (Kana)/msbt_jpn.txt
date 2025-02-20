@@ -3299,13 +3299,13 @@ sp_achstep_lib_s_0015	シキジカ（あきのすがた）と メブキジカ（
 sp_achstep_lib_s_0016	シキジカ（ふゆのすがた）と メブキジカ（ふゆのすがた）を　とうろくする
 sp_achstep_lib_s_0017	ビビヨンのもようを　１８しゅるいとうろくする
 sp_achstep_lib_s_0018	ロトムのフォルムを　６しゅるいとうろくする
-sp_achstep_lib_s_0019	アンノーンの　すがたを ２８しゅるい　とうろくする
+sp_achstep_lib_s_0019	アンノーンのすがたを ２８しゅるい　とうろくする
 sp_achstep_lib_s_0020	イーブイと　イーブイのしんかけいを ９しゅるいとうろくする
 sp_achstep_lib_s_0021	カセキからふくげんするポケモンを ２０しゅるいとうろくする
 sp_achstep_lib_s_0022	メテノのすがたを　７しゅるいとうろくする
 sp_achstep_lib_s_0023	ぼうしをかぶったピカチュウを　とうろくする
 sp_achstep_lib_s_0024	シェイミを　とうろくする
-sp_achstep_lib_s_0025	ガラルすがたの　フリーザーと サンダーと　ファイヤーを　とうろくする
+sp_achstep_lib_s_0025	ガラルのすがたの　フリーザーと サンダーと　ファイヤーを　とうろくする
 sp_achstep_lib_s_0026	『ポケモン ピカ・ブイ』の カントーずかんを　うめる
 sp_achstep_lib_s_0027	『ポケモン ソード・シールド』の ガラルずかんを　うめる
 sp_achstep_lib_s_0028	『ポケモン ソード・シールド』の ヨロイじまずかんを　うめる
@@ -4583,6 +4583,7 @@ sp_trade_gts_00024_v6	もとめられているポケモン
 sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
 sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
 sp_trade_gts_00029_v6	していしたポケモンを もとめているユーザーはいません
+sp_trade_gts_search_title_v12	つれていける タイトル
 sp_trade_gts_01001	こうかんを　してください よろしくおねがいします
 sp_trade_gts_01002	ぼうけんを　たすけてくれる ポケモンと　こうかんしたいです
 sp_trade_gts_01003	たいせんで　つよい　ポケモンと こうかんしたいです
@@ -4872,6 +4873,12 @@ sp_ui_pgl_event_calendar	イベントカレンダー
 sp_ui_pgl_mypage_confirm_v1	じぶんのせんせきを　かくにんするには ニンテンドーアカウントと れんけいする　ひつようが　あります  ポケモンバトルを　プレイしている ニンテンドーアカウントを 「せってい」から　れんけい　してください
 sp_ui_pgl_photo_permission_confirm_ios_v3	しゃしんへの　アクセスをきょかしないばあい トーナメントのいくつかのきのうが ごりよういただけません。  ※あとからたんまつのせっていから　へんこうできます
 sp_ui_pgl_photo_permission_confirm_android_v3	ストレージへの　アクセスをきょかしないばあい トーナメントのいくつかのきのうが ごりよういただけません。  ※あとからたんまつのせっていから　へんこうできます
+sp_ui_pgl_friendcompe	なかまたいかい
+sp_ui_pgl_pastdata	かこのせんせきをみる
+sp_ui_pgl_reference_sv_info	ポケットモンスター スカーレット・バイオレットの データをさんしょうします
+sp_ui_pgl_friendcompe_na_required	ニンテンドーアカウントと れんけいしていないと なかまたいかいの　せんせきを　かくにんできません
+sp_ui_pgl_battledata_top	バトルデータTOP
+sp_ui_pgl_back	もどる
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	かいじょ
 sp_ui_goodby	にがす 
@@ -4892,7 +4899,7 @@ sp_ui_no_num	No.[VAR]
 sp_ui_lv_num	Lv.[VAR]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	トレーナーメモ
-sp_ui_available_title	つれていける　タイトル
+sp_ui_available_title	つれていけるタイトル
 sp_ui_title	タイトル
 sp_ui_ribbon	リボン
 sp_ui_not_have_ribbon	リボンを　もっていません
