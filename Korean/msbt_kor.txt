@@ -1897,6 +1897,35 @@ sp_color_0009	하양
 sp_color_0010	담홍
 
 ~~~~~~~~~~~~~~~
+Text File : sp_contentinfo_kor.msbt
+~~~~~~~~~~~~~~~
+sp_contentinfo_0001	헤드라인
+sp_contentinfo_0002	표시할 수 있는 헤드라인이 없습니다
+sp_contentinfo_category_00	전체
+sp_contentinfo_category_01	게임
+sp_contentinfo_category_02	앱
+sp_contentinfo_category_03	굿즈
+sp_contentinfo_category_04	카드
+sp_contentinfo_category_05	포켓몬센터
+sp_contentinfo_category_06	오피셜 숍
+sp_contentinfo_category_07	TV・영화
+sp_contentinfo_category_08	이벤트
+sp_contentinfo_category_09	캠페인
+sp_contentinfo_00001	
+sp_contentinfo_00002	
+sp_contentinfo_00003	
+sp_contentinfo_00004	
+sp_contentinfo_00005	
+sp_contentinfo_00006	
+sp_contentinfo_00007	
+sp_contentinfo_00008	
+sp_contentinfo_00009	
+sp_contentinfo_00010	
+sp_contentinfo_00011	
+sp_contentinfo_00012	
+sp_contentinfo_00013	
+
+~~~~~~~~~~~~~~~
 Text File : sp_country_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	전체
@@ -2275,11 +2304,11 @@ sp_option_nalink_0043_v2	Nintendo Switch 버전 Pokémon HOME과 스마트폰 �
 sp_option_nalink_0044_v2	연동한 닌텐도 어카운트에서 스마트폰 버전 Pokémon HOME의 이용을 확인했습니다
 sp_option_nalink_0045_v2	지금까지 이용 중이던 스마트폰 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
 sp_option_nalink_0046_v2	스마트폰 버전 Pokémon HOME을 이어서 시작하겠습니까?
-sp_option_holohlo_0001_v3	Pokémon GO 연동
-sp_option_holohlo_0002_v3	전송된 포켓몬이 없습니다
-sp_option_holohlo_0003_v3	포켓몬이 전송되었습니다
-sp_option_holohlo_0004_v3	받는다
-sp_option_holohlo_0005_v3	연동한다
+sp_option_holohlo_0001_vgo	Pokémon GO 연동
+sp_option_holohlo_0002_vgo	전송된 포켓몬이 없습니다
+sp_option_holohlo_0003_vgo	포켓몬이 전송되었습니다
+sp_option_holohlo_0004_vgo	받는다
+sp_option_holohlo_0005_vgo	연동한다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -2362,6 +2391,7 @@ sp_playerlog_00036	초회 특전으로 받았습니다
 sp_playerlog_00037	처음 선택한 포켓몬
 sp_playerlog_00038	Pokémon HOME 포인트를 입수했다
 sp_playerlog_00039	Pokémon HOME 포인트를 사용했다
+sp_playerlog_00040_vgo	
 sp_playerlog_empty_list	표시할 수 있는 정보가 없습니다
 sp_playerlog_filter_category	카테고리
 sp_playerlog_sort_pokemon_leave	맡겼다
@@ -2432,6 +2462,13 @@ sp_trade_miracle_00007	[VAR_PKNAME] 촂 미라클 박스에서 찾겠습니까?
 sp_trade_miracle_00008	[VAR_PKNAME] 촁 이미 교환되었습니다
 sp_trade_miracle_00010	교환되었습니다!
 sp_trade_miracle_00011	등록하지 못했습니다  잠시 시간을 두고 다시 한번 시도해 주십시오
+sp_trade_miracle_00013_v3	선택한 포켓몬을 어떻게 하겠습니까?
+sp_trade_miracle_00013_1_v3	([VAR]마리를 선택 중입니다)
+sp_trade_miracle_00014_v3	포켓몬을 맡긴다
+sp_trade_miracle_00015_v3	포켓몬의 능력치를 본다
+sp_trade_miracle_00016_v3	빈 공간보다 많은 포켓몬을 선택할 수 없습니다
+sp_trade_miracle_00017_v3	포켓몬을 선택하지 않았습니다 맡길 포켓몬을 선택해 주십시오
+sp_trade_miracle_00018_v3	다음 화면에서 포켓몬을 스와이프해서 전환할 수 있습니다
 sp_trade_miracle_change_plan_confirm	모든 칸에 포켓몬을 맡기려면 프리미엄 플랜에 가입해야 합니다  플랜을 변경하겠습니까?
 sp_trade_group_00002	참가 인원 수
 sp_trade_group_00003	교환할 포켓몬:
@@ -2500,6 +2537,8 @@ sp_trade_gts_00016	이미 교환된 포켓몬입니다
 sp_trade_gts_00017	데려가고 싶은 소프트웨어
 sp_trade_gts_00018	민트 변경 후
 sp_trade_gts_00019_v1	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다 다시 선택해 주십시오
+sp_trade_gts_00020_v3	자신이 가지고 있지 않은 포켓몬을 찾고 있는 사람을 포함한다
+sp_trade_gts_00021_v3	전설 또는 환상 등의 특별한 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_01001	교환해 주세요! 잘 부탁합니다
 sp_trade_gts_01002	모험을 도와주는 포켓몬과 교환하고 싶습니다
 sp_trade_gts_01003	대전에 강한 포켓몬과 교환하고 싶습니다
@@ -2656,6 +2695,7 @@ sp_ui_title_menu_06_dialog_text_v1	클립보드에 복사되었습니다
 sp_ui_title_nalink_v2	닌텐도 어카운트의 정보가 변경되었습니다 닌텐도 어카운트로 다시 로그인해 주십시오  사용 중인 닌텐도 어카운트와 다른 닌텐도 어카운트로는 로그인할 수 없습니다
 sp_ui_title_nalink_complete_v2	닌텐도 어카운트로 로그인했습니다
 sp_ui_title_nalink_error_v2	연동 중인 닌텐도 어카운트와 로그인한 닌텐도 어카운트가 일치하지 않습니다
+sp_ui_title_license	라이선스
 sp_ui_downlod_0001	기동 중입니다
 sp_ui_downlod_0002	마스터 데이터 다운로드 중
 sp_ui_downlod_0003	마스터 데이터 다운로드 완료
@@ -2761,8 +2801,11 @@ sp_ui_pgl_rank_match	랭크배틀
 sp_ui_pgl_internet_tournament	인터넷 대회
 sp_ui_pgl_mypage	나의 전적
 sp_ui_pgl_regulation	배포 레귤레이션
+sp_ui_pgl_tournament_v3	
 sp_ui_pgl_event_calendar	이벤트 캘린더
 sp_ui_pgl_mypage_confirm_v1	나의 전적을 확인하려면 닌텐도 어카운트와 연동해야 합니다  "설정"에서 포켓몬 배틀을 플레이 중인 닌텐도 어카운트와 연동해 주십시오
+sp_ui_pgl_photo_permission_confirm_ios_v3	
+sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_all_pokemon	모든 포켓몬
 sp_ui_release	해제
 sp_ui_goodby	놓아준다
@@ -2778,6 +2821,7 @@ sp_ui_bank_freebox_remaining	프리 박스 이외의 포켓몬
 sp_ui_bank_change_plan_confirm	모든 포켓몬을 표시하려면 프리미엄 플랜으로 전환해야 합니다  플랜을 전환하겠습니까?
 sp_ui_bank_favall	※즐겨찾기한 포켓몬은 놓아줄 수 없습니다!
 sp_ui_lastet_update	최근 30
+sp_ui_select_max_v3	포켓몬은 한 번에 100마리까지 선택할 수 있습니다
 sp_ui_no_num	No.[VAR]
 sp_ui_lv_num	Lv.[VAR]
 sp_ui_idno_num	IDNo.
@@ -2901,17 +2945,35 @@ sp_ui_voice_input	음성 인식 중...
 sp_ui_voice_input_error	에러가 발생했습니다  마이크 아이콘을 탭하고 다시 시도해 주십시오
 sp_ui_recognizer_limit_error	음성 인식의 1일 사용 횟수가 한계에 도달했습니다
 sp_ui_myroom_point_number	[VAR_YEAR]p
-sp_ui_link_go_0001_v3	
-sp_ui_link_go_0002_v3	
-sp_ui_transfer_accepting_head_v3	
-sp_ui_transfer_complete_head_v3	
-sp_ui_go_complete_body_v3	
-sp_ui_go_info_v3	
-sp_ui_go_over_capacity_bank_v3	
-sp_ui_go_over_capacity_title_v3	
-sp_ui_go_over_capacity_freebox_v3	
-sp_ui_go_pokemon_list_v3	
-sp_ui_transfer_pokemon_detail_v3	
+sp_ui_app_desc_0001_v3	"Pokémon HOME"이란?
+sp_ui_app_desc_0002_v3	"모든 포켓몬이 모이는 장소"를 콘셉트로 하는 Nintendo Switch와 스마트폰 대상의 클라우드 서비스입니다.
+sp_ui_app_desc_0003_v3	연동한 소프트웨어나 서비스를 통해 "포켓몬스터" 시리즈에서 동료로 만든 포켓몬들을 맡길 수 있으며, 일부 소프트웨어는 "Pokémon HOME"에서 포켓몬을 보낼 수 있습니다. 또한, 전 세계 사람들과 포켓몬을 교환할 수도 있습니다. 
+sp_ui_app_desc_0004_v3	Nintendo Switch 버전과 스마트폰 버전 "Pokémon HOME"은 같은 "닌텐도 어카운트"와 연동하여 하나의 포켓몬 박스를 공유할 수 있습니다.
+sp_ui_app_desc_0005_v3	"포켓몬스터소드・실드"와의 연동에 대하여
+sp_ui_app_desc_0006_v3	"포켓몬스터 레츠고! 피카츄･ 레츠고! 이브이"와의 연동에 대하여
+sp_ui_app_desc_0007_v3	"포켓몬 뱅크"에서 이사에 대하여
+sp_ui_app_desc_0008_v3	"포켓몬스터소드・실드"와 "Pokémon HOME"의 연동은 Nintendo Switch 버전에서 할 수 있습니다. 소프트웨어에 대응하는 포켓몬이라면 각각의 포켓몬 박스에 맡기거나 찾을 수 있습니다.
+sp_ui_app_desc_0010_v3	"포켓몬스터 레츠고! 피카츄・레츠고! 이브이"와 "Pokémon HOME"의 연동은 Nintendo Switch 버전에서 할 수 있습니다. 또, "포켓몬스터 레츠고! 피카츄・레츠고! 이브이"에서 "Pokémon HOME"을 경유해서 다른 소프트웨어로 데려가지 않는 한, "포켓몬스터 레츠고! 피카츄・레츠고! 이브이"에서 다시 찾을 수 있습니다.
+sp_ui_app_desc_0011_v3	"포켓몬스터 레츠고! 피카츄・레츠고! 이브이"에서 잡은 포켓몬에 한하여 "포켓몬스터 레츠고! 피카츄・레츠고! 이브이"로 데려갈 수 있습니다. 
+sp_ui_app_desc_0012_v3	"포켓몬스터" 시리즈에서 동료로 만든 포켓몬들을 "포켓몬 뱅크"를 통해 Nintendo Switch 버전과 스마트폰 버전 "Pokémon HOME"으로 보낼 수 있습니다.
+sp_ui_app_desc_0013_v3	포켓몬을 "포켓몬 뱅크"에서 "Pokémon HOME"으로 보내려면 프리미엄 플랜(유료)에 가입해야 합니다. "포켓몬 뱅크"를 이용하려면 별도 요금이 발생합니다.
+sp_ui_app_desc_0014_v3	
+sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0016_v3	"포켓몬스터소드・실드"와의 연동에 대하여
+sp_ui_app_desc_0017_v3	"포켓몬스터 레츠고! 피카츄･ 레츠고! 이브이"와의 연동에 대하여
+sp_ui_app_desc_0018_v3	"Pokémon HOME"에서 "포켓몬 뱅크"로는 포켓몬을 보낼 수 없습니다.
+sp_ui_app_desc_0019_v3	"포켓몬 뱅크"의 "포켓마일포인트"는 "Pokémon HOME"에서 이어받을 수 없습니다.
+sp_ui_link_go_0001_vgo	
+sp_ui_link_go_0002_vgo	
+sp_ui_transfer_accepting_head_vgo	
+sp_ui_transfer_complete_head_vgo	
+sp_ui_go_complete_body_vgo	
+sp_ui_go_info_vgo	
+sp_ui_go_over_capacity_bank_vgo	
+sp_ui_go_over_capacity_title_vgo	
+sp_ui_go_over_capacity_freebox_vgo	
+sp_ui_go_pokemon_list_vgo	
+sp_ui_transfer_pokemon_detail_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

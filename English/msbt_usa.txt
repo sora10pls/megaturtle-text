@@ -1897,6 +1897,35 @@ sp_color_0009	White
 sp_color_0010	Pink
 
 ~~~~~~~~~~~~~~~
+Text File : sp_contentinfo_usa.msbt
+~~~~~~~~~~~~~~~
+sp_contentinfo_0001	Featured
+sp_contentinfo_0002	There's nothing being featured right now.
+sp_contentinfo_category_00	All
+sp_contentinfo_category_01	Video Games
+sp_contentinfo_category_02	Apps
+sp_contentinfo_category_03	Goods
+sp_contentinfo_category_04	Trading Card Game
+sp_contentinfo_category_05	Pokémon Centers
+sp_contentinfo_category_06	Official Store
+sp_contentinfo_category_07	Pokémon TV
+sp_contentinfo_category_08	Events
+sp_contentinfo_category_09	Special Promotions
+sp_contentinfo_00001	
+sp_contentinfo_00002	
+sp_contentinfo_00003	
+sp_contentinfo_00004	
+sp_contentinfo_00005	
+sp_contentinfo_00006	
+sp_contentinfo_00007	
+sp_contentinfo_00008	
+sp_contentinfo_00009	
+sp_contentinfo_00010	
+sp_contentinfo_00011	
+sp_contentinfo_00012	
+sp_contentinfo_00013	
+
+~~~~~~~~~~~~~~~
 Text File : sp_country_usa.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	All
@@ -2275,11 +2304,11 @@ sp_option_nalink_0043_v2	Would you like to link the Nintendo Switch version of P
 sp_option_nalink_0044_v2	We were able to verify that the mobile device version of Pokémon HOME is being used on this Nintendo Account.
 sp_option_nalink_0045_v2	Please make sure the <u><b>Support ID displayed on the</b></u> <u><b>title screen</b></u> of the mobile device version of Pokémon HOME you've been using matches the ID displayed below.
 sp_option_nalink_0046_v2	Would you like to carry over your usage of the mobile device version of Pokémon HOME to this device and begin?
-sp_option_holohlo_0001_v3	
-sp_option_holohlo_0002_v3	
-sp_option_holohlo_0003_v3	
-sp_option_holohlo_0004_v3	
-sp_option_holohlo_0005_v3	
+sp_option_holohlo_0001_vgo	
+sp_option_holohlo_0002_vgo	
+sp_option_holohlo_0003_vgo	
+sp_option_holohlo_0004_vgo	
+sp_option_holohlo_0005_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2362,6 +2391,7 @@ sp_playerlog_00036	Received as a first login reward
 sp_playerlog_00037	Pokémon chosen first
 sp_playerlog_00038	Earned Pokémon HOME Point(s)
 sp_playerlog_00039	Spent Pokémon HOME Point(s)
+sp_playerlog_00040_vgo	
 sp_playerlog_empty_list	There is no information that can be displayed
 sp_playerlog_filter_category	Category
 sp_playerlog_sort_pokemon_leave	Deposited
@@ -2432,6 +2462,13 @@ sp_trade_miracle_00007	Do you want to take [VAR_PKNAME] out of the Wonder Box?
 sp_trade_miracle_00008	[VAR_PKNAME] has already been traded.
 sp_trade_miracle_00010	Trade completed!
 sp_trade_miracle_00011	Registration failed. Please wait a while and then try again.
+sp_trade_miracle_00013_v3	What will you do with the selected Pokémon?
+sp_trade_miracle_00013_1_v3	(You've selected [VAR] Pokémon.)
+sp_trade_miracle_00014_v3	Deposit Pokémon
+sp_trade_miracle_00015_v3	View summary
+sp_trade_miracle_00016_v3	You can't select more Pokémon than the number of empty slots you have.
+sp_trade_miracle_00017_v3	No Pokémon are selected. Please choose Pokémon to deposit.
+sp_trade_miracle_00018_v3	On the summary screen, swipe to switch between Pokémon.
 sp_trade_miracle_change_plan_confirm	You need to have the Premium Plan to deposit Pokémon in all the spaces. Would you like to change your plan?
 sp_trade_group_00002	Number of participants
 sp_trade_group_00003	Pokémon to be traded:
@@ -2500,6 +2537,8 @@ sp_trade_gts_00016	This Pokémon has been traded.
 sp_trade_gts_00017	Game you want to move it to
 sp_trade_gts_00018	Mint applied
 sp_trade_gts_00019_v1	You have specified a special Pokémon as the Pokémon you want. Please select a different Pokémon.
+sp_trade_gts_00020_v3	Include people searching for Pokémon you don't have
+sp_trade_gts_00021_v3	Include people searching for Legendary, Mythical, and other special Pokémon
 sp_trade_gts_01001	Please trade Pokémon with me. Thanks in advance!
 sp_trade_gts_01002	I want to trade for a Pokémon that will help me with my adventure.
 sp_trade_gts_01003	I want to trade for a Pokémon that is strong in battles.
@@ -2656,6 +2695,7 @@ sp_ui_title_menu_06_dialog_text_v1	Copied to clipboard:
 sp_ui_title_nalink_v2	The information for your Nintendo Account has been changed. Please log in to your Nintendo Account again.  You cannot log in with a different Nintendo Account than the one you were using.
 sp_ui_title_nalink_complete_v2	You were able to log in to your Nintendo Account.
 sp_ui_title_nalink_error_v2	The Nintendo Account you've logged in to is different from the linked Nintendo Account.
+sp_ui_title_license	Licenses
 sp_ui_downlod_0001	Now loading...
 sp_ui_downlod_0002	Master data now downloading...
 sp_ui_downlod_0003	Master data downloading complete!
@@ -2761,8 +2801,11 @@ sp_ui_pgl_rank_match	Ranked Battles
 sp_ui_pgl_internet_tournament	Online Competitions
 sp_ui_pgl_mypage	Your Battle Records
 sp_ui_pgl_regulation	Downloadable Regulations
+sp_ui_pgl_tournament_v3	
 sp_ui_pgl_event_calendar	Event Calendar
 sp_ui_pgl_mypage_confirm_v1	In order to check your own Battle Records, you'll need to link to a Nintendo Account.  Please go to the Options menu and link the Nintendo Account that you use for Pokémon battles.
+sp_ui_pgl_photo_permission_confirm_ios_v3	
+sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_all_pokemon	All Pokémon
 sp_ui_release	Unselect all
 sp_ui_goodby	Release
@@ -2778,6 +2821,7 @@ sp_ui_bank_freebox_remaining	Pokémon not in Basic Box
 sp_ui_bank_change_plan_confirm	To view all of your Pokémon, you would need to change your current plan to a Premium Plan.  Would you like to change your plan?
 sp_ui_bank_favall	You can't release a favorite Pokémon!
 sp_ui_lastet_update	Newest 30
+sp_ui_select_max_v3	You can select a maximum of 100 Pokémon at once.
 sp_ui_no_num	No. [VAR]
 sp_ui_lv_num	Lv. [VAR]
 sp_ui_idno_num	ID No.
@@ -2901,17 +2945,35 @@ sp_ui_voice_input	Checking microphone input...
 sp_ui_voice_input_error	An error has occurred.  Tap on the microphone icon to try once again.
 sp_ui_recognizer_limit_error	You've reached the maximum number of times you can use speech recognition per day.
 sp_ui_myroom_point_number	[VAR]
-sp_ui_link_go_0001_v3	
-sp_ui_link_go_0002_v3	
-sp_ui_transfer_accepting_head_v3	
-sp_ui_transfer_complete_head_v3	
-sp_ui_go_complete_body_v3	
-sp_ui_go_info_v3	
-sp_ui_go_over_capacity_bank_v3	
-sp_ui_go_over_capacity_title_v3	
-sp_ui_go_over_capacity_freebox_v3	
-sp_ui_go_pokemon_list_v3	
-sp_ui_transfer_pokemon_detail_v3	
+sp_ui_app_desc_0001_v3	What is Pokémon HOME?
+sp_ui_app_desc_0002_v3	Pokémon HOME is a cloud service for Nintendo Switch and compatible mobile devices, designed as a place where all Pokémon can gather.
+sp_ui_app_desc_0003_v3	If you link Pokémon HOME with compatible games and services, you can bring Pokémon you've befriended in those games to Pokémon HOME, as well as transfer them to certain other games. You can also trade Pokémon with other Trainers from around the world.
+sp_ui_app_desc_0004_v3	By linking the same Nintendo Account to both the Nintendo Switch version and mobile version of Pokémon HOME, you’ll be able to access the same Pokémon Boxes on both versions.
+sp_ui_app_desc_0005_v3	Linking with Pokémon Sword and Pokémon Shield
+sp_ui_app_desc_0006_v3	Linking with Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee!
+sp_ui_app_desc_0007_v3	Moving Pokémon from Pokémon Bank
+sp_ui_app_desc_0008_v3	Pokémon Sword and Pokémon Shield can link to the Nintendo Switch version of Pokémon HOME. Once the games are linked, you can deposit or retrieve compatible Pokémon.
+sp_ui_app_desc_0010_v3	Pokémon: Let’s Go, Pikachu! and Pokémon: Let’s Go, Eevee! can link to the Nintendo Switch version of Pokémon HOME. You can move Pokémon back and forth between these games and Pokémon HOME. However, once a Pokémon from Pokémon: Let’s Go, Pikachu! or Pokémon: Let’s Go, Eevee! is moved to any other game in the Pokémon series via Pokémon HOME, that Pokémon cannot be returned to its original game.
+sp_ui_app_desc_0011_v3	Only Pokémon that were caught in Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee! can be transferred to Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee!
+sp_ui_app_desc_0012_v3	Pokémon you've befriended in previous games in the Pokémon series can be sent to the Nintendo Switch version or mobile device version of Pokémon HOME by using Pokémon Bank.
+sp_ui_app_desc_0013_v3	You must have the Premium Plan (paid service) to transfer Pokémon from Pokémon Bank to Pokémon HOME. Pokémon Bank has a separate annual charge for usage.
+sp_ui_app_desc_0014_v3	
+sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0016_v3	Linking with Pokémon Sword and Pokémon Shield
+sp_ui_app_desc_0017_v3	Linking with Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee!
+sp_ui_app_desc_0018_v3	Once a Pokémon from Pokémon Bank is moved into Pokémon HOME, it cannot be moved back to Pokémon Bank.
+sp_ui_app_desc_0019_v3	Poké Miles from Pokémon Bank cannot be carried over into Pokémon HOME.
+sp_ui_link_go_0001_vgo	
+sp_ui_link_go_0002_vgo	
+sp_ui_transfer_accepting_head_vgo	
+sp_ui_transfer_complete_head_vgo	
+sp_ui_go_complete_body_vgo	
+sp_ui_go_info_vgo	
+sp_ui_go_over_capacity_bank_vgo	
+sp_ui_go_over_capacity_title_vgo	
+sp_ui_go_over_capacity_freebox_vgo	
+sp_ui_go_pokemon_list_vgo	
+sp_ui_transfer_pokemon_detail_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt

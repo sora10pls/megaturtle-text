@@ -1897,6 +1897,35 @@ sp_color_0009	白
 sp_color_0010	桃
 
 ~~~~~~~~~~~~~~~
+Text File : sp_contentinfo_jpn_kanji.msbt
+~~~~~~~~~~~~~~~
+sp_contentinfo_0001	ヘッドライン
+sp_contentinfo_0002	表示できるヘッドラインはありません
+sp_contentinfo_category_00	すべて
+sp_contentinfo_category_01	ゲーム
+sp_contentinfo_category_02	アプリ
+sp_contentinfo_category_03	グッズ
+sp_contentinfo_category_04	カード
+sp_contentinfo_category_05	ポケモンセンター
+sp_contentinfo_category_06	オフィシャルショップ
+sp_contentinfo_category_07	TV・映画
+sp_contentinfo_category_08	イベント
+sp_contentinfo_category_09	キャンペーン
+sp_contentinfo_00001	ポケモンのホームページだよ
+sp_contentinfo_00002	ポケモンセンターのホームページだよ
+sp_contentinfo_00003	ポケットモンスター　ソード・シールド　好評発売中！
+sp_contentinfo_00004	Pokémon GO 好評サービス中！
+sp_contentinfo_00005	ポケモンスケールワールドにグリーンが登場！ 
+sp_contentinfo_00006	ちっちゃくてかわいいナノブロックの新作が登場！ 
+sp_contentinfo_00007	ピカチュウ大量発生チュウ！2019
+sp_contentinfo_00008	鳥取県×サンドのコラボイベント「湯けむりサンド旅情篇 in 鳥取」レポート！
+sp_contentinfo_00009	薄明の翼　youtubeにて配信中！
+sp_contentinfo_00010	「劇場版ポケットモンスター ココ」 今冬公開
+sp_contentinfo_00011	ポケモンカード公式サイト！！
+sp_contentinfo_00012	ポケモンオフィシャルサイト
+sp_contentinfo_00013	夏ポケモンキャンペーン！
+
+~~~~~~~~~~~~~~~
 Text File : sp_country_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	すべて
@@ -2275,11 +2304,11 @@ sp_option_nalink_0043_v2	Nintendo Switch版Pokémon HOMEと スマートフォ�
 sp_option_nalink_0044_v2	連携した　ニンテンドーアカウントに スマートフォン版Pokémon HOMEの 利用が　確認できました
 sp_option_nalink_0045_v2	これまで　ご利用の スマートフォン版Pokémon HOMEの <u><b>タイトル画面に　表示されるサポートID</b></u> が下のIDと　一致しているかを　確認してください
 sp_option_nalink_0046_v2	スマートフォン版Pokémon HOMEを 引き継いで　開始しますか？
-sp_option_holohlo_0001_v3	Pokémon GO 連携 
-sp_option_holohlo_0002_v3	おくられてきたポケモンは　いません
-sp_option_holohlo_0003_v3	ポケモンが　送られてきました
-sp_option_holohlo_0004_v3	うけとる
-sp_option_holohlo_0005_v3	れんけいする
+sp_option_holohlo_0001_vgo	Pokémon GO 連携 
+sp_option_holohlo_0002_vgo	おくられてきたポケモンは　いません
+sp_option_holohlo_0003_vgo	ポケモンが　送られてきました
+sp_option_holohlo_0004_vgo	うけとる
+sp_option_holohlo_0005_vgo	れんけいする
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn_kanji.msbt
@@ -2362,6 +2391,7 @@ sp_playerlog_00036	初回特典で　受け取りました
 sp_playerlog_00037	最初に選んだポケモン
 sp_playerlog_00038	Pokémon HOMEポイントを　入手
 sp_playerlog_00039	Pokémon HOMEポイントを　使った
+sp_playerlog_00040_vgo	Pokémon Goから　受け取りました
 sp_playerlog_empty_list	表示できる　情報は　ありません
 sp_playerlog_filter_category	カテゴリー
 sp_playerlog_sort_pokemon_leave	預けた
@@ -2432,6 +2462,13 @@ sp_trade_miracle_00007	[VAR_PKNAME]を ミラクルボックスから　引き�
 sp_trade_miracle_00008	[VAR_PKNAME]は すでに　交換されています。
 sp_trade_miracle_00010	交換されました！
 sp_trade_miracle_00011	登録　できませんでした  少し　時間をおいてから もう一度　お試しください
+sp_trade_miracle_00013_v3	選択したポケモンを　どうしますか？
+sp_trade_miracle_00013_1_v3	（[VAR]匹を　選択しています）
+sp_trade_miracle_00014_v3	ポケモンを　預ける
+sp_trade_miracle_00015_v3	ポケモンの　つよさを　見る
+sp_trade_miracle_00016_v3	空き数以上の　ポケモンを 選択することは　できません
+sp_trade_miracle_00017_v3	ポケモンが　選択されていません 預けるポケモンを　選択してください
+sp_trade_miracle_00018_v3	次の画面で　ポケモンを スワイプで　切り替えられます
 sp_trade_miracle_change_plan_confirm	全ての枠に　ポケモンを　預けるには プレミアムプランの　加入が　必要です  プラン変更を　しますか？
 sp_trade_group_00002	参加人数
 sp_trade_group_00003	交換するポケモンは
@@ -2500,6 +2537,8 @@ sp_trade_gts_00016	交換済みのポケモンです
 sp_trade_gts_00017	つれていきたいタイトル
 sp_trade_gts_00018	ミント変更後
 sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指定されています　選びなおしてください
+sp_trade_gts_00020_v3	自分が　持っていない　ポケモンを 探している人を　含む
+sp_trade_gts_00021_v3	伝説や　幻などの　特別な ポケモンを　探している人を　含む
 sp_trade_gts_01001	交換を　してください よろしく　お願いします
 sp_trade_gts_01002	冒険を　助けてくれる ポケモンと　交換したいです
 sp_trade_gts_01003	対戦で　強い　ポケモンと 交換したいです
@@ -2656,6 +2695,7 @@ sp_ui_title_menu_06_dialog_text_v1	クリップボードに　コピーしまし
 sp_ui_title_nalink_v2	ニンテンドーアカウントの 情報が変更されました もう一度　ニンテンドーアカウントに ログインしてください  使用していた　ニンテンドーアカウントと 違うニンテンドーアカウントで ログインすることはできません
 sp_ui_title_nalink_complete_v2	ニンテンドーアカウントに　ログインできました
 sp_ui_title_nalink_error_v2	連携している　ニンテンドーアカウントと ログインされた　ニンテンドーアカウントが 違います
+sp_ui_title_license	権利表記
 sp_ui_downlod_0001	起動中です
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -2761,8 +2801,11 @@ sp_ui_pgl_rank_match	ランクバトル
 sp_ui_pgl_internet_tournament	インターネット大会
 sp_ui_pgl_mypage	自分の戦績
 sp_ui_pgl_regulation	配信レギュレーション
+sp_ui_pgl_tournament_v3	トーナメント
 sp_ui_pgl_event_calendar	イベントカレンダー
 sp_ui_pgl_mypage_confirm_v1	自分の戦績を　確認するには ニンテンドーアカウントと 連携する　必要があります  ポケモンバトルを　プレイしている ニンテンドーアカウントを 「設定」から　連携してください
+sp_ui_pgl_photo_permission_confirm_ios_v3	写真へのアクセスを許可しない場合、 トーナメントのいくつかの機能が ご利用いただけません。  ※あとから端末の設定から　変更できます
+sp_ui_pgl_photo_permission_confirm_android_v3	ストレージへのアクセスを許可しない場合、 トーナメントのいくつかの機能が ご利用いただけません。  ※あとから端末の設定から　変更できます
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	解除
 sp_ui_goodby	にがす
@@ -2778,6 +2821,7 @@ sp_ui_bank_freebox_remaining	フリーボックス以外のポケモン
 sp_ui_bank_change_plan_confirm	全てのポケモンを　表示するには プレミアムプランへ　変更が　必要です  プラン変更を　しますか？
 sp_ui_bank_favall	※お気に入りのポケモンを にがすことは　できません！
 sp_ui_lastet_update	さいしん30
+sp_ui_select_max_v3	ポケモンの　選択は １度に　１００匹までです
 sp_ui_no_num	No.[VAR]
 sp_ui_lv_num	Lv.[VAR]
 sp_ui_idno_num	IDNo.
@@ -2901,17 +2945,35 @@ sp_ui_voice_input	音声を　認識中…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もう一度　お試しください
 sp_ui_recognizer_limit_error	音声認識の　１日の使用回数が 限界に　達しました
 sp_ui_myroom_point_number	[VAR_YEAR]p
-sp_ui_link_go_0001_v3	Pokémon GO 連携 
-sp_ui_link_go_0002_v3	「Pokémon GO」からポケモンが 送られてきています  受け取りにいきますか？
-sp_ui_transfer_accepting_head_v3	受け取り中
-sp_ui_transfer_complete_head_v3	受け取り完了
-sp_ui_go_complete_body_v3	「Pokémon GO」からの　受け取りを 完了しました！
-sp_ui_go_info_v3	「Pokémon GO」 から 送られてきた　ポケモンを 受け取ることができます
-sp_ui_go_over_capacity_bank_v3	「Pokémon HOME」の　ポケモンが いっぱいです。 整理してから　再度　受け取ってください。  ポケモンを　逃がすには　ポケモンリストで ポケモンを　長押ししたあと サブメニューから　行えます。
-sp_ui_go_over_capacity_title_v3	空き不足
-sp_ui_go_over_capacity_freebox_v3	フリーボックスが　いっぱいになります。 受け取りますか？
-sp_ui_go_pokemon_list_v3	ポケモンリストへ
-sp_ui_transfer_pokemon_detail_v3	ポケモン詳細
+sp_ui_app_desc_0001_v3	『Pokémon HOME』とは
+sp_ui_app_desc_0002_v3	「すべてのポケモンが集まる場所」をコンセプトに、 Nintendo Switchとスマートフォンを 対象としたクラウドサービスです。
+sp_ui_app_desc_0003_v3	連携するソフトやサービスを通じて、 『ポケットモンスター』シリーズで 仲間にしたポケモンたちを預けることができたり、 一部のソフトには、『Pokémon HOME』からポケモンを 送ったりすることができます。 また、世界中の人と ポケモンを交換することもできます。 
+sp_ui_app_desc_0004_v3	Nintendo Switch版とスマートフォン版の 『Pokémon HOME』は、 共通の「ニンテンドーアカウント」と 連携させることで、同じポケモンボックスを 共有することができます。
+sp_ui_app_desc_0005_v3	『ポケットモンスター ソード・シールド』 との連携について
+sp_ui_app_desc_0006_v3	『ポケットモンスター Let's Go!ピカチュウ・ Let's Go!イーブイ』との連携について
+sp_ui_app_desc_0007_v3	『ポケモンバンク』からのひっこしについて
+sp_ui_app_desc_0008_v3	『ポケモン ソード・シールド』と 『Pokémon HOME』の連携は、 Nintendo Switch版で行うことができます。 ソフトが対応しているポケモンであれば、 それぞれのポケモンボックスに預けたり、 引き出したりすることができます。
+sp_ui_app_desc_0010_v3	『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』と 『Pokémon HOME』の連携は、 Nintendo Switch版で行うことができます。 また、『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』から 『Pokémon HOME』経由で 他のソフトへ連れていかないかぎり、 『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』に引き出すこともできます。
+sp_ui_app_desc_0011_v3	『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』に連れていくことができるポケモンは 『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』で捕まえたポケモンに限ります。
+sp_ui_app_desc_0012_v3	『ポケットモンスター』シリーズで 仲間にしたポケモンたちを、 『ポケモンバンク』を通じて Nintendo Switch版とスマートフォン版の 『Pokémon HOME』へ送り出すことができます。
+sp_ui_app_desc_0013_v3	ポケモンを『ポケモンバンク』から 『Pokémon HOME』へ送り出すには、 プレミアムプラン（有料）への加入が必要となります。 『ポケモンバンク』のご利用は別途料金がかかります。
+sp_ui_app_desc_0014_v3	『Pokémon GO』との連携について
+sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0016_v3	『ポケットモンスター ソード・シールド』 との連携について
+sp_ui_app_desc_0017_v3	『ポケットモンスター Let's Go! ピカチュウ・ Let's Go! イーブイ』との連携について
+sp_ui_app_desc_0018_v3	『Pokémon HOME』から『ポケモンバンク』へ、 ポケモンを戻すことはできません。
+sp_ui_app_desc_0019_v3	『ポケモンバンク』の「ポケマイルポイント」は、 『Pokémon HOME』に引き継ぐことができません。
+sp_ui_link_go_0001_vgo	Pokémon GO 連携 
+sp_ui_link_go_0002_vgo	「Pokémon GO」からポケモンが 送られてきています  受け取りにいきますか？
+sp_ui_transfer_accepting_head_vgo	受け取り中
+sp_ui_transfer_complete_head_vgo	受け取り完了
+sp_ui_go_complete_body_vgo	「Pokémon GO」からの　受け取りを 完了しました！
+sp_ui_go_info_vgo	「Pokémon GO」 から 送られてきた　ポケモンを 受け取ることができます
+sp_ui_go_over_capacity_bank_vgo	「Pokémon HOME」の　ポケモンが いっぱいです。 整理してから　再度　受け取ってください。  ポケモンを　逃がすには　ポケモンリストで ポケモンを　長押ししたあと サブメニューから　行えます。
+sp_ui_go_over_capacity_title_vgo	空き不足
+sp_ui_go_over_capacity_freebox_vgo	フリーボックスが　いっぱいになります。 受け取りますか？
+sp_ui_go_pokemon_list_vgo	ポケモンリストへ
+sp_ui_transfer_pokemon_detail_vgo	ポケモン詳細
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn_kanji.msbt

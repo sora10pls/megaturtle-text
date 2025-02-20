@@ -1897,6 +1897,35 @@ sp_color_0009	白
 sp_color_0010	粉红
 
 ~~~~~~~~~~~~~~~
+Text File : sp_contentinfo_sch.msbt
+~~~~~~~~~~~~~~~
+sp_contentinfo_0001	头条消息
+sp_contentinfo_0002	没有可显示的头条消息。
+sp_contentinfo_category_00	全部
+sp_contentinfo_category_01	游戏
+sp_contentinfo_category_02	应用程序
+sp_contentinfo_category_03	商品
+sp_contentinfo_category_04	卡牌游戏
+sp_contentinfo_category_05	Pokémon Center
+sp_contentinfo_category_06	官方商店
+sp_contentinfo_category_07	电视动画系列／电影
+sp_contentinfo_category_08	活动
+sp_contentinfo_category_09	特别活动
+sp_contentinfo_00001	
+sp_contentinfo_00002	
+sp_contentinfo_00003	
+sp_contentinfo_00004	
+sp_contentinfo_00005	
+sp_contentinfo_00006	
+sp_contentinfo_00007	
+sp_contentinfo_00008	
+sp_contentinfo_00009	
+sp_contentinfo_00010	
+sp_contentinfo_00011	
+sp_contentinfo_00012	
+sp_contentinfo_00013	
+
+~~~~~~~~~~~~~~~
 Text File : sp_country_sch.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	全部
@@ -2275,11 +2304,11 @@ sp_option_nalink_0043_v2	要开始关联Nintendo Switch版Pokémon HOME 与智�
 sp_option_nalink_0044_v2	在已关联的Nintendo Account内 确认到了智能手机版 Pokémon HOME的使用记录。
 sp_option_nalink_0045_v2	请确认至今为止所使用的 智能手机版Pokémon HOME <u><b>标题画面所显示的客服编码</b></u> 是否与下方编码一致。
 sp_option_nalink_0046_v2	要继承智能手机版Pokémon HOME的 数据并开始吗？
-sp_option_holohlo_0001_v3	
-sp_option_holohlo_0002_v3	
-sp_option_holohlo_0003_v3	
-sp_option_holohlo_0004_v3	
-sp_option_holohlo_0005_v3	
+sp_option_holohlo_0001_vgo	
+sp_option_holohlo_0002_vgo	
+sp_option_holohlo_0003_vgo	
+sp_option_holohlo_0004_vgo	
+sp_option_holohlo_0005_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -2362,6 +2391,7 @@ sp_playerlog_00036	已通过初次特典获得。
 sp_playerlog_00037	最初选择的宝可梦
 sp_playerlog_00038	获得Pokémon HOME点数
 sp_playerlog_00039	已使用Pokémon HOME点数。
+sp_playerlog_00040_vgo	
 sp_playerlog_empty_list	没有可以显示的信息。
 sp_playerlog_filter_category	分类
 sp_playerlog_sort_pokemon_leave	已寄放
@@ -2432,6 +2462,13 @@ sp_trade_miracle_00007	要把[VAR_PKNAME] 从奇迹盒子里领回吗？
 sp_trade_miracle_00008	[VAR_PKNAME]已经被交换。
 sp_trade_miracle_00010	被交换掉了！
 sp_trade_miracle_00011	无法添加。  请稍等片刻后再试一次。
+sp_trade_miracle_00013_v3	要拿所选的宝可梦怎么办？
+sp_trade_miracle_00013_1_v3	（已选择[VAR]只宝可梦）
+sp_trade_miracle_00014_v3	寄放宝可梦
+sp_trade_miracle_00015_v3	查看宝可梦的能力
+sp_trade_miracle_00016_v3	所选宝可梦数 不能多于剩余空位数。
+sp_trade_miracle_00017_v3	没有选中任何宝可梦。 请选择要寄放的宝可梦。
+sp_trade_miracle_00018_v3	可在下一个画面 通过滑动画面来切换宝可梦。
 sp_trade_miracle_change_plan_confirm	需要加入进阶方案 才能往所有空位寄放宝可梦。  要更改方案吗？
 sp_trade_group_00002	参加人数
 sp_trade_group_00003	要交换的宝可梦
@@ -2500,6 +2537,8 @@ sp_trade_gts_00016	这只宝可梦已被交换。
 sp_trade_gts_00017	想移动过去的作品
 sp_trade_gts_00018	更改薄荷后
 sp_trade_gts_00019_v1	你将特殊的宝可梦指定为了 想要的宝可梦，请重新选择。
+sp_trade_gts_00020_v3	包含正在搜索 自己未持有的宝可梦的人
+sp_trade_gts_00021_v3	包含正在搜索传说及幻之宝可梦 等特别的宝可梦的人
 sp_trade_gts_01001	请进行交换。 拜托你了。
 sp_trade_gts_01002	我想要交换能帮助我冒险的宝可梦。
 sp_trade_gts_01003	我想要交换在对战中很强的宝可梦。
@@ -2656,6 +2695,7 @@ sp_ui_title_menu_06_dialog_text_v1	已复制到剪贴板。
 sp_ui_title_nalink_v2	Nintendo Account的信息已被更改， 请重新登录Nintendo Account。  无法用你以前使用的 Nintendo Account之外的 Nintendo Account登录。
 sp_ui_title_nalink_complete_v2	成功登录Nintendo Account。
 sp_ui_title_nalink_error_v2	你所登录的Nintendo Account 与关联中的Nintendo Account不同。
+sp_ui_title_license	版权所有
 sp_ui_downlod_0001	正在启动……
 sp_ui_downlod_0002	正在下载主数据……
 sp_ui_downlod_0003	主数据下载完成。
@@ -2761,8 +2801,11 @@ sp_ui_pgl_rank_match	级别对战
 sp_ui_pgl_internet_tournament	互联网大赛
 sp_ui_pgl_mypage	我的成绩
 sp_ui_pgl_regulation	官方对战规则
+sp_ui_pgl_tournament_v3	
 sp_ui_pgl_event_calendar	活动日历
 sp_ui_pgl_mypage_confirm_v1	要确认“我的成绩”需关联 Nintendo Account。  请从“设置”处关联 正在游玩宝可梦对战的 Nintendo Account。
+sp_ui_pgl_photo_permission_confirm_ios_v3	
+sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_all_pokemon	所有宝可梦
 sp_ui_release	取消
 sp_ui_goodby	放生
@@ -2778,6 +2821,7 @@ sp_ui_bank_freebox_remaining	不在免费盒子内的宝可梦
 sp_ui_bank_change_plan_confirm	需要更改为进阶方案， 才能显示所有宝可梦。  要更改方案吗？
 sp_ui_bank_favall	※无法放生已加入 “我的最爱”的宝可梦！
 sp_ui_lastet_update	最新30
+sp_ui_select_max_v3	１次最多可选择 １００只宝可梦。
 sp_ui_no_num	No.[VAR]
 sp_ui_lv_num	Lv.[VAR]
 sp_ui_idno_num	IDNo.
@@ -2901,17 +2945,35 @@ sp_ui_voice_input	正在识别语音……
 sp_ui_voice_input_error	发生错误。  请轻点麦克风图标，再试一次。
 sp_ui_recognizer_limit_error	１天内可使用的语音识别次数已达上限。
 sp_ui_myroom_point_number	[VAR_YEAR]p
-sp_ui_link_go_0001_v3	
-sp_ui_link_go_0002_v3	
-sp_ui_transfer_accepting_head_v3	
-sp_ui_transfer_complete_head_v3	
-sp_ui_go_complete_body_v3	
-sp_ui_go_info_v3	
-sp_ui_go_over_capacity_bank_v3	
-sp_ui_go_over_capacity_title_v3	
-sp_ui_go_over_capacity_freebox_v3	
-sp_ui_go_pokemon_list_v3	
-sp_ui_transfer_pokemon_detail_v3	
+sp_ui_app_desc_0001_v3	什么是《Pokémon HOME》
+sp_ui_app_desc_0002_v3	以“所有宝可梦聚集的地方”为设计理念， 以Nintendo Switch和智能手机 为对象的云服务。
+sp_ui_app_desc_0003_v3	通过与软件及服务的连动， 就能寄放《宝可梦》系列中 成为伙伴的宝可梦们， 还可以从《Pokémon HOME》 送出宝可梦到部分软件。 此外，还能与全世界的人交换宝可梦。
+sp_ui_app_desc_0004_v3	智能手机版和Nintendo Switch版 《Pokémon HOME》只要关联了 同一个Nintendo Account， 就能共用同一个宝可梦盒。
+sp_ui_app_desc_0005_v3	关联《宝可梦 剑／盾》
+sp_ui_app_desc_0006_v3	关联《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》
+sp_ui_app_desc_0007_v3	从《宝可梦虚拟银行》转移宝可梦
+sp_ui_app_desc_0008_v3	Nintendo Switch版《Pokémon HOME》 能够关联《宝可梦 剑／盾》。 只要是软件支持的宝可梦， 就能在各自的宝可梦盒 进行寄放及领取。
+sp_ui_app_desc_0010_v3	Nintendo Switch版《Pokémon HOME》 能够关联《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》。 并且，从《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》移动到《Pokémon HOME》里的 宝可梦如果没被带去过其他软件，就能被带回 《精灵宝可梦 Let‘s Go！皮卡丘／ Let’s Go！伊布》。
+sp_ui_app_desc_0011_v3	只有在《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》里捉到的宝可梦 才能被带到《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》去。
+sp_ui_app_desc_0012_v3	《宝可梦》系列中成为伙伴的 宝可梦们能够通过 《宝可梦虚拟银行》移动到 Nintendo Switch版和智能手机版 《Pokémon HOME》。
+sp_ui_app_desc_0013_v3	将宝可梦从《宝可梦虚拟银行》 移动到《Pokémon HOME》 需加入进阶方案（收费）。 使用《宝可梦虚拟银行》需另行收费。
+sp_ui_app_desc_0014_v3	
+sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0016_v3	关联《宝可梦 剑／盾》
+sp_ui_app_desc_0017_v3	关联《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》
+sp_ui_app_desc_0018_v3	无法将《Pokémon HOME》里的 宝可梦送回《宝可梦虚拟银行》。
+sp_ui_app_desc_0019_v3	无法将《宝可梦虚拟银行》里的 “宝可里程点数”继承至《Pokémon HOME》。
+sp_ui_link_go_0001_vgo	
+sp_ui_link_go_0002_vgo	
+sp_ui_transfer_accepting_head_vgo	
+sp_ui_transfer_complete_head_vgo	
+sp_ui_go_complete_body_vgo	
+sp_ui_go_info_vgo	
+sp_ui_go_over_capacity_bank_vgo	
+sp_ui_go_over_capacity_title_vgo	
+sp_ui_go_over_capacity_freebox_vgo	
+sp_ui_go_pokemon_list_vgo	
+sp_ui_transfer_pokemon_detail_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt

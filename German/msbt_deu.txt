@@ -1897,6 +1897,35 @@ sp_color_0009	Weiß
 sp_color_0010	Rosa
 
 ~~~~~~~~~~~~~~~
+Text File : sp_contentinfo_deu.msbt
+~~~~~~~~~~~~~~~
+sp_contentinfo_0001	Schlagzeilen
+sp_contentinfo_0002	Keine Schlagzeilen vorhanden
+sp_contentinfo_category_00	Alle
+sp_contentinfo_category_01	Videospiele
+sp_contentinfo_category_02	Apps
+sp_contentinfo_category_03	Produkte
+sp_contentinfo_category_04	Sammelkartenspiel
+sp_contentinfo_category_05	Pokémon Center
+sp_contentinfo_category_06	Offizieller Online-Shop
+sp_contentinfo_category_07	Pokémon-TV
+sp_contentinfo_category_08	Veranstaltungen
+sp_contentinfo_category_09	Sonderaktionen
+sp_contentinfo_00001	
+sp_contentinfo_00002	
+sp_contentinfo_00003	
+sp_contentinfo_00004	
+sp_contentinfo_00005	
+sp_contentinfo_00006	
+sp_contentinfo_00007	
+sp_contentinfo_00008	
+sp_contentinfo_00009	
+sp_contentinfo_00010	
+sp_contentinfo_00011	
+sp_contentinfo_00012	
+sp_contentinfo_00013	
+
+~~~~~~~~~~~~~~~
 Text File : sp_country_deu.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	Alle
@@ -2252,13 +2281,13 @@ sp_option_nalink_0020_v2	Möchtest du ein Gästekonto verwenden?
 sp_option_nalink_0021_v2	Folgende Funktionen sind für Gästekontos nicht verfügbar:
 sp_option_nalink_0022_v2	Möchtest du wirklich ein Gästekonto verwenden?
 sp_option_nalink_0023_v2	Mit Pokémon HOME verknüpfen und beginnen
-sp_option_nalink_0024_v2	Wir konnten verifizieren, dass der verknüpfte Nintendo-Account mit der Nintendo Switch-Version von Pokémon HOME verwendet wird.
+sp_option_nalink_0024_v2	Wir konnten verifizieren, dass dieser Nintendo-Account mit der Nintendo Switch-Version von Pokémon HOME verwendet wird.
 sp_option_nalink_0025_v2	Wenn du Pokémon HOME für Nintendo Switch mit Pokémon HOME für mobile Geräte verknüpfen möchtest, solltest du sicherstellen, dass die <u><b>Kunden-ID, die auf dem</b></u> <u><b>Titelbildschirm der Nintendo Switch-Version angezeigt wird</b></u>, mit der unten stehenden ID übereinstimmt.
 sp_option_nalink_0026_v2	Willst du damit beginnen, Pokémon HOME für Nintendo Switch mit Pokémon HOME für mobile Geräte zu verknüpfen?
 sp_option_nalink_0027_v2	Erste Nutzung von Pokémon HOME
 sp_option_nalink_0028_v2	Wir konnten nicht verifizieren, ob dieser Nintendo-Account mit der Nintendo Switch-Version von Pokémon HOME verwendet wird.
 sp_option_nalink_0029_v2	Dies ist deine erste Nutzung von Pokémon HOME. Möchtest du Pokémon HOME für mobile Geräte mit einem Nintendo-Account verknüpfen?
-sp_option_nalink_0030_v2	Hinweis: Wenn du diese Nachricht siehst, obwohl du bereits die Nintendo Switch-Version von Pokémon HOME nutzt, bedeutet das, dass der falsche Nintendo-Account verknüpft wurde. Wähle „Nein“ aus, um zum vorigen Bildschirm zurückzukehren und es mit einem anderen Nintendo-Account zu versuchen.
+sp_option_nalink_0030_v2	Hinweis: Wenn du diese Nachricht siehst, obwohl du bereits die Nintendo Switch-Version von Pokémon HOME nutzt, hast du versucht, den falschen Nintendo-Account zu verknüpfen. Wähle „Nein“ aus, um zum vorigen Bildschirm zurückzukehren und es mit einem anderen Nintendo-Account zu probieren.
 sp_option_nalink_0031_v2	Als Gast beginnen
 sp_option_nalink_0032_v2	Verbindung mit Pokémon HOME und anderen Spielen für Nintendo Switch
 sp_option_nalink_0033_v2	Transfer von Pokémon aus Pokémon Bank
@@ -2269,17 +2298,17 @@ sp_option_nalink_0037_v2	Hinweis: Wenn du „Nein“ auswählst, kehrst du zum B
 sp_option_nalink_0038_v2	Überprüfung deiner Kampfergebnisse aus Rangkämpfen und Online-Turnieren (Offizielle und Freundesturniere), an denen du mit Pokémon Schwert oder Pokémon Schild teilgenommen hast
 sp_option_nalink_0039_v2	Überprüfung deiner Kampfergebnisse aus Pokémon Schwert oder Pokémon Schild
 sp_option_nalink_0040_v2	Kundendienst
-sp_option_nalink_0041_v2	Wir konnten verifizieren, dass der verknüpfte Nintendo-Account sowohl mit der Nintendo Switch-Version von Pokémon HOME als auch mit der Mobilgerät-Version von Pokémon HOME verwendet wird.
+sp_option_nalink_0041_v2	Wir konnten verifizieren, dass dieser Nintendo-Account sowohl mit der Nintendo Switch-Version von Pokémon HOME als auch mit der Mobilgerät-Version von Pokémon HOME verwendet wird.
 sp_option_nalink_0042_v2	Bitte stelle sicher, dass die <u><b>Kunden-ID</b></u>, die auf dem <u><b>Titelbildschirm</b></u> deiner bisher genutzten Ausgabe von Pokémon HOME für Nintendo Switch oder mobile Geräte angezeigt wird, mit der unten stehenden ID übereinstimmt.
 sp_option_nalink_0043_v2	Willst du damit beginnen, Pokémon HOME für Nintendo Switch mit Pokémon HOME für mobile Geräte zu verknüpfen?
-sp_option_nalink_0044_v2	Wir konnten verifizieren, dass der verknüpfte Nintendo-Account mit der Mobilgerät-Version von Pokémon HOME verwendet wird.
+sp_option_nalink_0044_v2	Wir konnten verifizieren, dass dieser Nintendo-Account mit der Mobilgerät-Version von Pokémon HOME verwendet wird.
 sp_option_nalink_0045_v2	Bitte stelle sicher, dass die <u><b>Kunden-ID</b></u>, die auf dem <u><b>Titelbildschirm</b></u> deiner bisher genutzten Ausgabe von Pokémon HOME für mobile Geräte angezeigt wird, mit der unten stehenden ID übereinstimmt.
 sp_option_nalink_0046_v2	Möchtest du deine Daten der Mobilgerät-Version von Pokémon HOME auf dieses Gerät übertragen und beginnen?
-sp_option_holohlo_0001_v3	
-sp_option_holohlo_0002_v3	
-sp_option_holohlo_0003_v3	
-sp_option_holohlo_0004_v3	
-sp_option_holohlo_0005_v3	
+sp_option_holohlo_0001_vgo	
+sp_option_holohlo_0002_vgo	
+sp_option_holohlo_0003_vgo	
+sp_option_holohlo_0004_vgo	
+sp_option_holohlo_0005_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -2362,6 +2391,7 @@ sp_playerlog_00036	Als Begrüßungsgeschenk erhalten
 sp_playerlog_00037	Pokémon, das zu Beginn ausgewählt wurde
 sp_playerlog_00038	Pokémon HOME-Punkte erhalten
 sp_playerlog_00039	Pokémon HOME-Punkte verwendet
+sp_playerlog_00040_vgo	
 sp_playerlog_empty_list	Keine Informationen vorhanden
 sp_playerlog_filter_category	Kategorie
 sp_playerlog_sort_pokemon_leave	Gelagert
@@ -2432,6 +2462,13 @@ sp_trade_miracle_00007	Möchtest du [VAR_PKNAME] aus der Wunderbox entnehmen?
 sp_trade_miracle_00008	[VAR_PKNAME] wurde bereits getauscht.
 sp_trade_miracle_00010	Tausch abgeschlossen!
 sp_trade_miracle_00011	Die Registrierung ist fehlgeschlagen. Bitte versuche es später erneut.
+sp_trade_miracle_00013_v3	Was soll mit der Auswahl geschehen?
+sp_trade_miracle_00013_1_v3	(Du hast [VAR] Pokémon ausgewählt.)
+sp_trade_miracle_00014_v3	Ablegen
+sp_trade_miracle_00015_v3	Bericht
+sp_trade_miracle_00016_v3	Du kannst nur so viele Pokémon auswählen, wie dir freie Plätze zur Verfügung stehen.
+sp_trade_miracle_00017_v3	Du hast keine Pokémon ausgewählt. Bitte wähle die Pokémon aus, die du ablegen möchtest.
+sp_trade_miracle_00018_v3	In der Bericht-Ansicht kannst du durch Wischen das Pokémon wechseln.
 sp_trade_miracle_change_plan_confirm	Wenn du die maximale Anzahl an Pokémon zum Tausch anbieten willst, musst du zum kostenpflichtigen Premium-Service wechseln.  Möchtest du den Service wechseln?
 sp_trade_group_00002	Teilnehmerzahl
 sp_trade_group_00003	Getauschte Pokémon anzeigen?
@@ -2500,6 +2537,8 @@ sp_trade_gts_00016	Dieses Pokémon wurde bereits getauscht.
 sp_trade_gts_00017	Gewünschte Zielspielesoftware
 sp_trade_gts_00018	Minze eingesetzt
 sp_trade_gts_00019_v1	Du hast ein besonderes Pokémon als gewünschtes Pokémon festgelegt. Bitte wähle ein anderes Pokémon aus.
+sp_trade_gts_00020_v3	Inklusive Spielern, die Pokémon suchen, die du nicht besitzt
+sp_trade_gts_00021_v3	Inklusive Spielern, die Legendäre, Mysteriöse oder andere besondere Pokémon suchen
 sp_trade_gts_01001	Hallo! Lass uns tauschen!
 sp_trade_gts_01002	Ich bin auf der Suche nach einem Pokémon, das mir auf meinem Abenteuer weiterhilft!
 sp_trade_gts_01003	Ich bin auf der Suche nach einem Pokémon, das in Kämpfen zu Hochtouren aufläuft!
@@ -2656,6 +2695,7 @@ sp_ui_title_menu_06_dialog_text_v1	Kunden-ID wurde in die Zwischenablage kopiert
 sp_ui_title_nalink_v2	Die Informationen deines Nintendo-Accounts wurden verändert. Bitte melde dich erneut mit deinem Nintendo-Account an.  Du kannst dich nicht mit einem anderen Nintendo-Account anmelden als zuvor.
 sp_ui_title_nalink_complete_v2	Du hast dich erfolgreich mit deinem Nintendo-Account angemeldet.
 sp_ui_title_nalink_error_v2	Der Nintendo-Account, mit dem du dich angemeldet hast, unterscheidet sich vom verknüpften Nintendo-Account.
+sp_ui_title_license	Lizenzen
 sp_ui_downlod_0001	Ladevorgang...
 sp_ui_downlod_0002	Stammdaten werden heruntergeladen...
 sp_ui_downlod_0003	Stammdaten heruntergeladen!
@@ -2761,8 +2801,11 @@ sp_ui_pgl_rank_match	Rangkämpfe
 sp_ui_pgl_internet_tournament	Online-Turniere
 sp_ui_pgl_mypage	Deine Kampfergebnisse
 sp_ui_pgl_regulation	Herunterladbare Regeln
+sp_ui_pgl_tournament_v3	
 sp_ui_pgl_event_calendar	Veranstaltungskalender
 sp_ui_pgl_mypage_confirm_v1	Um deine Kampfergebnisse zu überprüfen, musst du dein Konto mit einem Nintendo-Account verknüpfen.  Bitte begib dich in die Einstellungen und verknüpfe dort deinen Nintendo-Account, den du für Pokémon-Kämpfe verwendest.
+sp_ui_pgl_photo_permission_confirm_ios_v3	
+sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_all_pokemon	Alle Pokémon
 sp_ui_release	Zurücksetzen
 sp_ui_goodby	Freilassen
@@ -2778,6 +2821,7 @@ sp_ui_bank_freebox_remaining	Pokémon außerhalb der Standard-Box
 sp_ui_bank_change_plan_confirm	Um alle Pokémon sehen zu können, musst du zum Premium-Service wechseln.  Möchtest du jetzt den Service wechseln?
 sp_ui_bank_favall	Favoriten kannst du nicht freilassen!
 sp_ui_lastet_update	30 neueste
+sp_ui_select_max_v3	Du kannst nur bis zu 100 Pokémon auf einmal auswählen.
 sp_ui_no_num	Nr. [VAR]
 sp_ui_lv_num	Lv. [VAR]
 sp_ui_idno_num	ID-Nr.
@@ -2901,17 +2945,35 @@ sp_ui_voice_input	Mikrofon-Input wird überprüft...
 sp_ui_voice_input_error	Ein Fehler ist aufgetreten.  Berühre das Mikrofon-Symbol, um es erneut zu versuchen.
 sp_ui_recognizer_limit_error	Die tägliche maximale Anzahl für Nutzungen der Spracheingabe wurde erreicht.
 sp_ui_myroom_point_number	[VAR_YEAR]Ԁ P
-sp_ui_link_go_0001_v3	
-sp_ui_link_go_0002_v3	
-sp_ui_transfer_accepting_head_v3	
-sp_ui_transfer_complete_head_v3	
-sp_ui_go_complete_body_v3	
-sp_ui_go_info_v3	
-sp_ui_go_over_capacity_bank_v3	
-sp_ui_go_over_capacity_title_v3	
-sp_ui_go_over_capacity_freebox_v3	
-sp_ui_go_pokemon_list_v3	
-sp_ui_transfer_pokemon_detail_v3	
+sp_ui_app_desc_0001_v3	Was ist Pokémon HOME?
+sp_ui_app_desc_0002_v3	Pokémon HOME ist ein Cloud-Dienst für Nintendo Switch und kompatible Mobilgeräte, durch den du all deine Pokémon an einem Ort lagern kannst.
+sp_ui_app_desc_0003_v3	Wenn du Pokémon HOME mit kompatiblen Spielen und Services verlinkst, kannst du Pokémon, die sich dir dort angeschlossen haben, auf Pokémon HOME übertragen. Von dort aus kannst du deine Pokémon wiederum auf andere kompatible Spiele übertragen oder sie mit Trainern auf der ganzen Welt tauschen.
+sp_ui_app_desc_0004_v3	Wenn du denselben Nintendo-Account mit deiner Nintendo Switch-Version und deiner Mobilgerät-Version von Pokémon HOME verknüpfst, kannst du mit beiden Versionen auf dieselben Pokémon-Boxen zugreifen.
+sp_ui_app_desc_0005_v3	Verlinkung mit Pokémon Schwert und Pokémon Schild
+sp_ui_app_desc_0006_v3	Verlinkung mit Pokémon: Let’s Go, Pikachu! und Pokémon: Let’s Go, Evoli!
+sp_ui_app_desc_0007_v3	Transfer aus Pokémon Bank
+sp_ui_app_desc_0008_v3	Pokémon Schwert und Pokémon Schild können mit der Nintendo Switch-Version von Pokémon HOME verlinkt werden. Sobald sie verlinkt wurden, kannst du Pokémon, die mit der Software kompatibel sind, in den Boxen lagern oder sie von dort entnehmen.
+sp_ui_app_desc_0010_v3	Pokémon: Let’s Go, Pikachu! und Pokémon: Let’s Go, Evoli! können mit der Nintendo Switch-Version von Pokémon HOME verlinkt werden. Sobald sie verlinkt wurden, kannst du Pokémon in Pokémon HOME lagern oder sie zwischen diesen zwei Spielen hin- und zurückschicken. Sobald jedoch ein Pokémon aus Pokémon: Let’s Go, Pikachu! oder Pokémon: Let’s Go, Evoli! über Pokémon HOME auf ein anderes Spiel der Pokémon-Hauptreihe übertragen wurde, kann es nicht mehr in das ursprüngliche Spiel zurückkehren.
+sp_ui_app_desc_0011_v3	Nur Pokémon, die in Pokémon: Let’s Go, Pikachu! oder Pokémon: Let’s Go, Evoli! gefangen wurden, können auf diese beiden Spiele übertragen werden.
+sp_ui_app_desc_0012_v3	Pokémon, die sich dir in vergangenen Spielen der Pokémon-Hauptreihe angeschlossen haben, können mithilfe von Pokémon Bank auf die Nintendo Switch-Version oder die Mobilgerät-Version von Pokémon HOME transferiert werden.
+sp_ui_app_desc_0013_v3	Um Pokémon von Pokémon Bank auf Pokémon HOME transferieren zu können, wird der kostenpflichtige Premium-Service benötigt. Für Pokémon Bank fällt eine gesonderte jährliche Gebühr an.
+sp_ui_app_desc_0014_v3	
+sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0016_v3	Verlinkung mit Pokémon Schwert und Pokémon Schild
+sp_ui_app_desc_0017_v3	Verlinkung mit Pokémon: Let’s Go, Pikachu! und Pokémon: Let’s Go, Evoli!
+sp_ui_app_desc_0018_v3	Sobald ein Pokémon von Pokémon Bank auf Pokémon HOME transferiert wurde, kann es nicht auf Pokémon Bank zurückübertragen werden.
+sp_ui_app_desc_0019_v3	Die Poké-Meilen aus Pokémon Bank können nicht auf Pokémon HOME übertragen werden.
+sp_ui_link_go_0001_vgo	
+sp_ui_link_go_0002_vgo	
+sp_ui_transfer_accepting_head_vgo	
+sp_ui_transfer_complete_head_vgo	
+sp_ui_go_complete_body_vgo	
+sp_ui_go_info_vgo	
+sp_ui_go_over_capacity_bank_vgo	
+sp_ui_go_over_capacity_title_vgo	
+sp_ui_go_over_capacity_freebox_vgo	
+sp_ui_go_pokemon_list_vgo	
+sp_ui_transfer_pokemon_detail_vgo	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt
