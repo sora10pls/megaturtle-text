@@ -4131,6 +4131,10 @@ sp_mystery_0022_1	Un cadeau venu de Paldea ! ②
 sp_mystery_0022_2	Pour fêter la synchronisation de Pokémon Écarlate ou Pokémon Violet avec Pokémon HOME, nous vous offrons Chochodile !
 sp_mystery_0023_1	Un cadeau venu de Paldea ! ③
 sp_mystery_0023_2	Pour fêter la synchronisation de Pokémon Écarlate ou Pokémon Violet avec Pokémon HOME, nous vous offrons Coiffeton !
+sp_mystery_0024_1	Récompense spéciale de compétition nº 2
+sp_mystery_0024_2	Vous avez pris part au « Défi Mondial II (2023) », une compétition Internet organisée en avril 2023 dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Super Ball en guise de récompense spéciale !
+sp_mystery_0025_1	Récompense spéciale de compétition nº 3
+sp_mystery_0025_2	Vous avez pris part au « Défi Mondial III (2023) », une compétition Internet organisée en mai 2023 dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Hyper Ball en guise de récompense spéciale !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt

@@ -4131,6 +4131,10 @@ sp_mystery_0022_1	Mit Paldea verlinkt! (Geschenk ②)
 sp_mystery_0022_2	Du hast Pokémon HOME mit Pokémon Karmesin oder Pokémon Purpur verlinkt. Als Belohnung bekommst du ein Krokel geschenkt!
 sp_mystery_0023_1	Mit Paldea verlinkt! (Geschenk ③)
 sp_mystery_0023_2	Du hast Pokémon HOME mit Pokémon Karmesin oder Pokémon Purpur verlinkt. Als Belohnung bekommst du ein Kwaks geschenkt!
+sp_mystery_0024_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 2!
+sp_mystery_0024_2	Du hast am Online-Turnier „Globale Challenge 2023 II“ im April in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Superball-Leinenrucksack als besonderes Geschenk!
+sp_mystery_0025_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 3!
+sp_mystery_0025_2	Du hast am Online-Turnier „Globale Challenge 2023 III“ im Mai in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Hyperball-Leinenrucksack als besonderes Geschenk!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt

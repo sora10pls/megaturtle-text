@@ -4131,6 +4131,10 @@ sp_mystery_0022_1	Benvenuti a Paldea: regalo nº 2!
 sp_mystery_0022_2	Hai collegato Pokémon Scarlatto o Pokémon Violetto a Pokémon HOME! Per festeggiare, vogliamo regalarti un Fuecoco!
 sp_mystery_0023_1	Benvenuti a Paldea: regalo nº 3!
 sp_mystery_0023_2	Hai collegato Pokémon Scarlatto o Pokémon Violetto a Pokémon HOME! Per festeggiare, vogliamo regalarti un Quaxly!
+sp_mystery_0024_1	Sfida speciale a Paldea: regalo nº 2!
+sp_mystery_0024_2	Hai partecipato alla Sfida globale II (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi ad aprile 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Mega Ball!
+sp_mystery_0025_1	Sfida speciale a Paldea: regalo nº 3!
+sp_mystery_0025_2	Hai partecipato alla Sfida globale III (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi a maggio 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Ultra Ball!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt

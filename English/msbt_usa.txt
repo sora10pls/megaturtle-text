@@ -4131,6 +4131,10 @@ sp_mystery_0022_1	Special Link Gift No. 8!
 sp_mystery_0022_2	You've linked Pokémon Scarlet or Pokémon Violet with Pokémon HOME! Here's Fuecoco as a special gift!
 sp_mystery_0023_1	Special Link Gift No. 9!
 sp_mystery_0023_2	You've linked Pokémon Scarlet or Pokémon Violet with Pokémon HOME! Here's Quaxly as a special gift!
+sp_mystery_0024_1	Special Competition Gift No. 2!
+sp_mystery_0024_2	You took part in the "2023 Global Challenge II" held in April in Pokémon Scarlet and Pokémon Violet! Here's a Great Ball Canvas Backpack as a special gift!
+sp_mystery_0025_1	Special Competition Gift No. 3!
+sp_mystery_0025_2	You took part in the "2023 Global Challenge III" held in May in Pokémon Scarlet and Pokémon Violet! Here's an Ultra Ball Canvas Backpack as a special gift!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt

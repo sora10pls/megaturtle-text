@@ -4131,6 +4131,10 @@ sp_mystery_0022_1	¡Conexión con Paldea n.º 2!
 sp_mystery_0022_2	Para celebrar que has conectado Pokémon Escarlata o Pokémon Púrpura con Pokémon HOME, ¡te regalamos este Fuecoco!
 sp_mystery_0023_1	¡Conexión con Paldea n.º 3!
 sp_mystery_0023_2	Para celebrar que has conectado Pokémon Escarlata o Pokémon Púrpura con Pokémon HOME, ¡te regalamos este Quaxly!
+sp_mystery_0024_1	Regalo por participar en un torneo oficial n.º 2
+sp_mystery_0024_2	Te regalamos esta Mochila de lona con diseño de Super Ball por tu participación en el Desafío Global II de 2023 celebrado en abril de 2023 en Pokémon Escarlata y Pokémon Púrpura.
+sp_mystery_0025_1	Regalo por participar en un torneo oficial n.º 3
+sp_mystery_0025_2	Te regalamos esta Mochila de lona con diseño de Ultra Ball por tu participación en el Desafío Global III de 2023 celebrado en mayo de 2023 en Pokémon Escarlata y Pokémon Púrpura.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_esp.msbt
