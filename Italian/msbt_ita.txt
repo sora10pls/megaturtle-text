@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	Seleziona/deseleziona
 sp_option_my_parent_04_v6	Mostra l'icona nella lista dei Pokémon
 sp_option_library_other_v10	Impostazioni visualizzazione Pokédex
 sp_option_library_other_save_v10	Mantieni le impostazioni per "Altro"
+sp_option_userdel_header_v11	Gestione account
+sp_option_userdel_button_v11	Elimina account
+sp_option_userdel_confirm3_yes_v11	Accetto
+sp_option_userdel_confirm3_no_v11	Non accetto
+sp_option_userdel_confirm_yes_v11	Sì
+sp_option_userdel_confirm_no_v11	No
+sp_option_userdel_confirm_title_v11	Eliminazione dell'account
+sp_option_userdel_confirm1_body_v11	Questa azione cancellerà completamente i dati del tuo account di Pokémon HOME. Ogni progresso fatto, tra cui gli obiettivi e le voci del Pokédex, andrà perso. Non è possibile recuperare un account una volta eliminato. Inoltre, non possiamo rispondere ad alcuna domanda relativa agli account eliminati.
+sp_option_userdel_confirm1_body_nalink_v11	Se il tuo account Pokémon HOME è collegato a un account Nintendo, questi si scollegheranno. Pertanto, non sarai più in grado di accedere o di giocare alla versione per Nintendo Switch di Pokémon HOME. Inoltre, non potrai più sincronizzare Pokémon HOME tramite il tuo account Nintendo. Tieni presente che l'eliminazione del tuo account Pokémon HOME non avrà alcun effetto sull'account Nintendo ad esso collegato.
+sp_option_userdel_confirm2_body_v11	Se hai effettuato l'iscrizione al servizio premium, eliminare l'account Pokémon HOME non cancellerà automaticamente la tua iscrizione. Le modalità di cancellazione cambiano a seconda della versione di Pokémon HOME sulla quale hai acquistato inizialmente il servizio.  I giocatori che si sono iscritti tramite la versione per Nintendo Switch dovranno effettuare la cancellazione dal Nintendo eShop.  I giocatori che si sono iscritti tramite la versione per iOS dovranno effettuare la cancellazione dall'App Store.  I giocatori che si sono iscritti tramite la versione per Android dovranno effettuare la cancellazione dal Google Play Store.  Ti preghiamo di notare che non forniremo rimborsi per le spese risultanti dalla mancata cancellazione del servizio premium, né saremo in grado di rispondere a domande in merito.
+sp_option_userdel_confirm3_title_v11	Ultima conferma
+sp_option_userdel_confirm3_body_v11	Non è possibile recuperare un account una volta eliminato. Ogni progresso, tra cui gli obiettivi e le voci del Pokédex, andrà perso.  Confermi di voler eliminare il tuo account?
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	Calendario di cattura
 sp_ui_get_calendar_dialog_title_v9	Modifica la visualizzazione del calendario
 sp_ui_get_calendar_dialog_ym_v9	Visualizza per mese
 sp_ui_get_calendar_dialog_ymd_v9	Visualizza per giorno
+sp_ui_userdel_complete_body_v11	Tutti i dati del tuo account sono stati completamente cancellati. Tornerai alla schermata di creazione dell'account, una volta chiusa questa schermata.
+sp_ui_userdel_error_body_v11	Il tuo account non è stato eliminato completamente l'ultima volta che hai chiuso l'applicazione. Il processo di eliminazione riprenderà adesso.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt

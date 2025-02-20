@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	선택/해제한다
 sp_option_my_parent_04_v6	포켓몬 일람에서 아이콘을 표시한다
 sp_option_library_other_v10	도감 표시 설정
 sp_option_library_other_save_v10	"기타"의 표시를 유지한다
+sp_option_userdel_header_v11	어카운트 관리
+sp_option_userdel_button_v11	어카운트 삭제
+sp_option_userdel_confirm3_yes_v11	동의한다
+sp_option_userdel_confirm3_no_v11	동의하지 않는다
+sp_option_userdel_confirm_yes_v11	예
+sp_option_userdel_confirm_no_v11	아니요
+sp_option_userdel_confirm_title_v11	어카운트 삭제에 대하여
+sp_option_userdel_confirm1_body_v11	"Pokémon HOME" 어카운트의 데이터를 완전히 삭제합니다. 지금까지 이 앱을 이용한 기록과 도감, 업적 등의 모든 정보가 사라집니다. 한번 어카운트를 삭제하면 어떠한 이유로도 복구할 수 없습니다. 삭제한 어카운트에 대한 문의에도 대응하지 않습니다.
+sp_option_userdel_confirm1_body_nalink_v11	닌텐도 어카운트와 연동 중인 경우, 닌텐도 어카운트와 "Pokémon HOME"의 연동이 해제됩니다. 이로 인해, Nintendo Switch 버전에서도 로그인하거나 플레이할 수 없게 됩니다. 또한, 닌텐도 어카운트를 이용한 "Pokémon HOME" 어카운트 이어받기도 할 수 없게 됩니다. "Pokémon HOME" 어카운트는 다시는 이용할 수 없게 되나, 연동했던 닌텐도 어카운트는 계속해서 이용할 수 있습니다.
+sp_option_userdel_confirm2_body_v11	프리미엄 플랜에 가입한 경우, 어카운트를 삭제해도 프리미엄 플랜이 자동으로 해약되지는 않습니다. 반드시 직접 프리미엄 플랜을 구입한 각 스토어에서 해약을 진행해 주십시오.  ・Nintendo Switch 버전에서 구입한 경우 　⇒"닌텐도 e숍" ・iOS 버전에서 구입한 경우 　⇒"App Store" ・Android 버전에서 구입한 경우 　⇒"Google Play 스토어"  프리미엄 플랜 해약을 잊어버려서 발생한 환불 및 관련 문의에 대해서는 일절 대응하지 않습니다.
+sp_option_userdel_confirm3_title_v11	최종 확인
+sp_option_userdel_confirm3_body_v11	한번 삭제한 어카운트는 복구할 수 없습니다. 지금까지 이 앱을 이용한 기록과 도감, 업적 등의 모든 정보가 사라집니다. 정말 어카운트를 삭제하겠습니까?
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	GET 캘린더
 sp_ui_get_calendar_dialog_title_v9	캘린더 표시 전환
 sp_ui_get_calendar_dialog_ym_v9	월 단위로 표시한다
 sp_ui_get_calendar_dialog_ymd_v9	일 단위로 표시한다
+sp_ui_userdel_complete_body_v11	어카운트의 데이터를 완전히 삭제했습니다. 이 화면을 닫으면 신규 어카운트 작성 화면으로 이동합니다.
+sp_ui_userdel_error_body_v11	지난번에 앱을 종료했을 때 어카운트 삭제가 완료되지 않았습니다. 계속해서 어카운트 삭제를 진행합니다.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

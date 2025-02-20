@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	選擇／解除
 sp_option_my_parent_04_v6	在寶可夢一覽中顯示圖示
 sp_option_library_other_v10	圖鑑顯示設定
 sp_option_library_other_save_v10	維持「其他」的顯示
+sp_option_userdel_header_v11	管理帳號
+sp_option_userdel_button_v11	刪除帳號
+sp_option_userdel_confirm3_yes_v11	同意
+sp_option_userdel_confirm3_no_v11	不同意
+sp_option_userdel_confirm_yes_v11	是
+sp_option_userdel_confirm_no_v11	否
+sp_option_userdel_confirm_title_v11	關於刪除帳號
+sp_option_userdel_confirm1_body_v11	會完全刪除『Pokémon HOME』的帳號資料。 目前為止在此應用程式遊玩的紀錄、 圖鑑和成就等所有資訊將會消失。 刪除帳號後，無論任何理由都無法進行復原。 我們無法對應有關刪除後的帳號的洽詢。
+sp_option_userdel_confirm1_body_nalink_v11	若有與Nintendo Account連結， 則Nintendo Account與 『Pokémon HOME』的連結會被解除。 因此，將無法從Nintendo Switch版登入和遊玩。 此外，也將無法使用Nintendo Account 來進行『Pokémon HOME』的帳號繼承操作。 『Pokémon HOME』的帳號雖無法再次使用， 原本連結的Nintendo Account則可繼續使用。
+sp_option_userdel_confirm2_body_v11	若有加入進階方案， 即使刪除了帳號， 進階方案也不會自動解除。 請務必親自從購買進階方案的 各商店進行解除手續。  ・自Nintendo Switch版購買的用戶 　⇒「Nintendo eShop」 ・自iOS版購買的用戶 　⇒「App Store」 ・自Android版購買的用戶 　⇒「Google Play 商店」  我們無法對忘記解除進階方案 而產生的費用進行退款， 或對應任何相關洽詢。
+sp_option_userdel_confirm3_title_v11	最終確認
+sp_option_userdel_confirm3_body_v11	帳號一旦刪除，將無法復原。 目前為止在此應用程式遊玩的紀錄、 圖鑑和成就等所有資訊將會消失。 確定要刪除帳號嗎？
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	捕捉日曆
 sp_ui_get_calendar_dialog_title_v9	切換日曆顯示
 sp_ui_get_calendar_dialog_ym_v9	以月份為單位顯示
 sp_ui_get_calendar_dialog_ymd_v9	以日期為單位顯示
+sp_ui_userdel_complete_body_v11	已完全刪除帳號資料。 關閉此畫面後， 將轉移至建立新帳號的畫面。
+sp_ui_userdel_error_body_v11	上次結束應用程式時， 帳號的刪除尚未完成。 將繼續進行帳號的刪除。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_tch.msbt

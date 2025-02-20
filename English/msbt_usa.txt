@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	Select/Remove
 sp_option_my_parent_04_v6	Show icon in Pokémon List
 sp_option_library_other_v10	Pokédex display settings
 sp_option_library_other_save_v10	Keep the display of Others
+sp_option_userdel_header_v11	Manage Account
+sp_option_userdel_button_v11	Delete Account
+sp_option_userdel_confirm3_yes_v11	I agree
+sp_option_userdel_confirm3_no_v11	I don't agree
+sp_option_userdel_confirm_yes_v11	Yes
+sp_option_userdel_confirm_no_v11	No
+sp_option_userdel_confirm_title_v11	Deleting your account
+sp_option_userdel_confirm1_body_v11	This will completely delete your account data for Pokémon HOME. All of the progress you've made—such as Challenges and Pokédex entries—will be lost. Once an account has been deleted, it cannot be recovered. We also cannot respond to any inquiries regarding deleted accounts.
+sp_option_userdel_confirm1_body_nalink_v11	If your Pokémon HOME account is linked to a Nintendo Account, they will become unlinked. As such, you will not be able to log in to or play the Nintendo Switch version of Pokémon HOME. You will also no longer be able to sync Pokémon HOME through your Nintendo Account. Please note that deleting your Pokémon HOME account will not have any effect on your linked Nintendo Account.
+sp_option_userdel_confirm2_body_v11	If you have a Premium Plan subscription, deleting your Pokémon HOME account will not automatically cancel it. How you cancel your subscription varies depending on what version of Pokémon HOME you first registered on.  Players who subscribed through the Nintendo Switch version must cancel their subscription via Nintendo eShop.  Players who subscribed through the iOS version must cancel their subscription via the App Store.  Players who subscribed through the Android version must cancel their subscription via the Google Play Store.  Please note that we will not be issuing refunds for charges that result from forgetting to cancel your Premium Plan, nor will we be able to respond to inquiries related to this matter.
+sp_option_userdel_confirm3_title_v11	Final Confirmation
+sp_option_userdel_confirm3_body_v11	A deleted account cannot be recovered. All of the progress you've made in the application—such as Challenges and Pokédex entries—will be permanently lost.  Are you sure you want to delete your account?
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	Catch Calendar
 sp_ui_get_calendar_dialog_title_v9	Switch calendar view
 sp_ui_get_calendar_dialog_ym_v9	Display by months
 sp_ui_get_calendar_dialog_ymd_v9	Display by days
+sp_ui_userdel_complete_body_v11	All of your account data has been completely deleted. You will be redirected to the account creation screen once you close this screen.
+sp_ui_userdel_error_body_v11	Your account wasn't completely deleted when you last closed the application. The deletion process will now resume.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt

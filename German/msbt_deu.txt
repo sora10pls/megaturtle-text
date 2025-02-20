@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	Bestätigen/Entfernen
 sp_option_my_parent_04_v6	Symbole in der Pokémon-Übersicht anzeigen
 sp_option_library_other_v10	Pokédex-Anzeigeeinstellungen
 sp_option_library_other_save_v10	Einstellungen von Sonstige beibehalten
+sp_option_userdel_header_v11	Konto verwalten
+sp_option_userdel_button_v11	Konto löschen
+sp_option_userdel_confirm3_yes_v11	Ich stimme zu
+sp_option_userdel_confirm3_no_v11	Ich stimme nicht zu
+sp_option_userdel_confirm_yes_v11	Ja
+sp_option_userdel_confirm_no_v11	Nein
+sp_option_userdel_confirm_title_v11	Löschung deines Kontos
+sp_option_userdel_confirm1_body_v11	Dadurch werden all deine Kontodaten für Pokémon HOME gelöscht. Sämtlicher Fortschritt, einschließlich verzeichneter Erfolge sowie Pokédex-Einträge, geht dabei verloren. Nach der Löschung lässt sich das Konto nicht wiederherstellen und Anfragen dazu können nicht mehr beantwortet werden.
+sp_option_userdel_confirm1_body_nalink_v11	Falls eine Verknüpfung zwischen deinem Pokémon HOME- Konto und einem Nintendo-Account besteht, wird diese aufgehoben. Du kannst dich folglich nicht mehr bei der Nintendo Switch-Version von Pokémon HOME anmelden oder diese spielen. Außerdem ist es nicht länger möglich, dein Pokémon HOME-Konto über deinen Nintendo-Account zu synchronisieren. Die Löschung deines Pokémon HOME- Kontos hat keine Auswirkungen auf deinen verknüpften Nintendo-Account.
+sp_option_userdel_confirm2_body_v11	Wenn du den Premium-Service nutzt, wird dein Abonnement infolge der Löschung deines Pokémon HOME-Kontos nicht automatisch gekündigt. Die Vorgehensweise bei der Abo-Kündigung hängt davon ab, auf welcher Version von Pokémon HOME du dich ursprünglich für den Premium-Service registriert hast.  Nutzer, die das Abonnement auf der Nintendo Switch-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den Nintendo eShop kündigen.  Nutzer, die das Abonnement auf der iOS-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den App Store kündigen.  Nutzer, die das Abonnement auf der Android-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den Google Play Store kündigen.  Bitte beachte, dass Kosten, die durch das Vergessen der Kündigung des Premium-Services entstehen, nicht rückerstattet werden und diesbezügliche Anfragen nicht beantwortet werden können.
+sp_option_userdel_confirm3_title_v11	Endgültige Bestätigung
+sp_option_userdel_confirm3_body_v11	Ein gelöschtes Konto kann nicht wiederhergestellt werden. Sämtlicher Fortschritt in der Anwendung, einschließlich verzeichneter Erfolge und Pokédex-Einträge, geht dabei endgültig verloren.  Bist du sicher, dass du dein Konto löschen möchtest?
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -4569,7 +4581,7 @@ sp_trade_gts_00022_v4	Du hast ein besonderes Pokémon als gewünschtes Pokémon 
 sp_trade_gts_00023_v6	Datum der Einlagerung: [VAR_DAY].[VAR_MONTH].[VAR_YEAR] 
 sp_trade_gts_00024_v6	Gewünschte Pokémon
 sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
-sp_trade_gts_00028_v6	[Name:PokemonName ] ([Name:FormName Idx="1" ])
+sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
 sp_trade_gts_00029_v6	Dieses Pokémon wird von keinem Nutzer gewünscht.
 sp_trade_gts_01001	Hallo! Lass uns tauschen!
 sp_trade_gts_01002	Ich bin auf der Suche nach einem Pokémon, das mir auf meinem Abenteuer weiterhilft!
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	Fangkalender
 sp_ui_get_calendar_dialog_title_v9	Kalenderansicht wechseln
 sp_ui_get_calendar_dialog_ym_v9	Monatsansicht
 sp_ui_get_calendar_dialog_ymd_v9	Tagesansicht
+sp_ui_userdel_complete_body_v11	All deine Kontodaten wurden vollständig gelöscht. Nach dem Schließen dieses Bildschirms kehrst du zum Bildschirm zur Kontoerstellung zurück.
+sp_ui_userdel_error_body_v11	Dein Konto war noch nicht vollständig gelöscht, als du die Anwendung zuletzt geschlossen hast. Der Löschvorgang wird jetzt fortgesetzt.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

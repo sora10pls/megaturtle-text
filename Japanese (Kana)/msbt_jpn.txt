@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	せんたく・かいじょする
 sp_option_my_parent_04_v6	ポケモンいちらんで　アイコンをひょうじする
 sp_option_library_other_v10	ずかんのひょうじせってい
 sp_option_library_other_save_v10	「そのた」のひょうじをいじする
+sp_option_userdel_header_v11	アカウントかんり
+sp_option_userdel_button_v11	アカウントさくじょ
+sp_option_userdel_confirm3_yes_v11	同意する
+sp_option_userdel_confirm3_no_v11	同意しない
+sp_option_userdel_confirm_yes_v11	はい
+sp_option_userdel_confirm_no_v11	いいえ
+sp_option_userdel_confirm_title_v11	アカウント削除について
+sp_option_userdel_confirm1_body_v11	『Pokémon HOME』のアカウントのデータを 完全に削除します。 今までこのアプリで遊んだ記録や図鑑、実績など すべての情報が失われます。 アカウント削除後は、いかなる理由であっても 復旧を行うことができません。 削除したアカウントについてのお問い合わせには 対応できません。
+sp_option_userdel_confirm1_body_nalink_v11	ニンテンドーアカウントと連携している場合、 ニンテンドーアカウントと『Pokémon HOME』の 連携は解除されます。 そのため、Nintendo Switch版からの ログインおよびプレイもできなくなります。 また、ニンテンドーアカウントを利用した、 『Pokémon HOME』のアカウント引継ぎを 行うこともできません。 『Pokémon HOME』のアカウントは 二度と利用できなくなりますが、 連携していたニンテンドーアカウントは 引き続きご利用いただけます。
+sp_option_userdel_confirm2_body_v11	プレミアムプランに加入されている場合、 アカウント削除を行っても、 プレミアムプランは自動解約されません。 必ずご自身でプレミアムプランを購入した 各ストアから解約手続きを行ってください。  ・Nintendo Switch版で購入した方 　⇒「ニンテンドーeショップ」 ・iOS版で購入した方 　⇒「App Store」 ・Android版で購入した方 　⇒「Google Play ストア」  プレミアムプラン解約忘れによる返金や 関連したお問い合わせには一切対応できません。
+sp_option_userdel_confirm3_title_v11	最終確認
+sp_option_userdel_confirm3_body_v11	一度削除したアカウントは復旧できません。 今までこのアプリで遊んだ記録や図鑑、 実績などのすべての情報が失われます。 本当にアカウントを削除しますか？
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	ゲットカレンダー
 sp_ui_get_calendar_dialog_title_v9	カレンダーひょうじの　きりかえ
 sp_ui_get_calendar_dialog_ym_v9	つきたんいで　ひょうじする
 sp_ui_get_calendar_dialog_ymd_v9	ひたんい　ひょうじにする
+sp_ui_userdel_complete_body_v11	アカウントのデータを完全に削除しました。 この画面を閉じると、 新規アカウント作成の画面に遷移します。
+sp_ui_userdel_error_body_v11	前回アプリを終了した際に アカウントの削除が完了していません。 引き続きアカウントの削除を行います。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn.msbt

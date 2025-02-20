@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	选择／解除
 sp_option_my_parent_04_v6	在宝可梦一览中显示图标
 sp_option_library_other_v10	图鉴的显示设置
 sp_option_library_other_save_v10	维持“其他”的显示
+sp_option_userdel_header_v11	管理账号
+sp_option_userdel_button_v11	删除账号
+sp_option_userdel_confirm3_yes_v11	同意
+sp_option_userdel_confirm3_no_v11	不同意
+sp_option_userdel_confirm_yes_v11	是
+sp_option_userdel_confirm_no_v11	否
+sp_option_userdel_confirm_title_v11	关于删除账号
+sp_option_userdel_confirm1_body_v11	此操作会完全删除《Pokémon HOME》的账号数据。 目前为止在此应用程序游玩的 记录、图鉴和成就等所有信息都会消失。 删除账号后，无论出于任何理由都无法将其复原。 我们无法对应关于已删除账号的咨询。
+sp_option_userdel_confirm1_body_nalink_v11	若已关联Nintendo Account，则会解除 Nintendo Account与《Pokémon HOME》的关联。 因此，也将无法从Nintendo Switch版登录或游玩。 此外，将无法使用Nintendo Account进行账号继承。 虽然《Pokémon HOME》的账号将无法再次使用， 但原本关联的Nintendo Account可继续使用。
+sp_option_userdel_confirm2_body_v11	若加入了进阶方案， 即使删除账号， 进阶方案也不会自动解约。 请务必自行通过购买进阶方案的 各商店办理解约手续。  ・从Nintendo Switch版购买的用户 　⇒“Nintendo eShop” ・从iOS版购买的用户 　⇒“App Store” ・从Android版购买的用户 　⇒“Google Play 商店”  我们无法对忘记解除进阶方案的用户进行退款， 也无法对应相关咨询。
+sp_option_userdel_confirm3_title_v11	最终确认
+sp_option_userdel_confirm3_body_v11	账号一旦删除，将无法复原。 目前为止在此应用程序游玩的 记录、图鉴和成就等所有信息都会消失。 确定要删除账号吗？
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	捕捉日历
 sp_ui_get_calendar_dialog_title_v9	切换日历显示
 sp_ui_get_calendar_dialog_ym_v9	以月为单位显示
 sp_ui_get_calendar_dialog_ymd_v9	以日为单位显示
+sp_ui_userdel_complete_body_v11	已完全删除账号的数据。 关闭此画面后， 将移动到创建新账号的画面。
+sp_ui_userdel_error_body_v11	上次关闭应用程序时， 账号的删除尚未完成。 将继续进行账号的删除。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt

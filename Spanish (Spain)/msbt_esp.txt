@@ -4312,6 +4312,18 @@ sp_option_my_parent_03_v6	Seleccionar/Eliminar
 sp_option_my_parent_04_v6	Mostrar icono en la lista de Pokémon
 sp_option_library_other_v10	Vista de la Pokédex
 sp_option_library_other_save_v10	Mantener la configuración de filtros de Otros
+sp_option_userdel_header_v11	Gestión de la cuenta
+sp_option_userdel_button_v11	Eliminar cuenta
+sp_option_userdel_confirm3_yes_v11	Sí
+sp_option_userdel_confirm3_no_v11	No
+sp_option_userdel_confirm_yes_v11	Sí
+sp_option_userdel_confirm_no_v11	No
+sp_option_userdel_confirm_title_v11	Eliminar tu cuenta
+sp_option_userdel_confirm1_body_v11	Se eliminarán por completo los datos de tu cuenta de Pokémon HOME. Se perderá todo el progreso que hayas conseguido, como los logros y las entradas de la Pokédex. Una vez eliminada la cuenta, no se podrá recuperar, ni tampoco podremos responder a ninguna consulta relacionada con una cuenta que se haya eliminado.
+sp_option_userdel_confirm1_body_nalink_v11	Si tu cuenta de Pokémon HOME está vinculada a una cuenta Nintendo, se desvinculará. Por lo tanto, no podrás iniciar sesión ni jugar a la versión de Pokémon HOME para Nintendo Switch. Tampoco podrás sincronizar Pokémon HOME mediante tu cuenta Nintendo. Ten en cuenta que eliminar tu cuenta de Pokémon HOME no eliminará la cuenta Nintendo a la que está vinculada.
+sp_option_userdel_confirm2_body_v11	Si cuentas con una suscripción al plan prémium, esta no se cancelará automáticamente al eliminar tu cuenta de Pokémon HOME. La forma de cancelar tu suscripción depende de en qué versión de Pokémon HOME te suscribiste en primer lugar.  Si te suscribiste en la versión de Nintendo Switch, deberás cancelar la suscripción a través de la Nintendo eShop.  Si te suscribiste en la versión para iOS, deberás cancelarla a través de la App Store.  Si te suscribiste en la versión para Android, deberás cancelarla a través de Google Play Store.  Ten en cuenta que no efectuaremos reembolsos de ningún cobro que se dé como consecuencia de habérsete olvidado cancelar el plan prémium, ni tampoco podremos responder a ninguna consulta relacionada con ello.
+sp_option_userdel_confirm3_title_v11	Confirmación final
+sp_option_userdel_confirm3_body_v11	Las cuentas eliminadas no se pueden recuperar. Se perderá permanentemente todo el progreso que hayas conseguido, como los logros y las entradas de la Pokédex.  ¿Seguro que quieres eliminar tu cuenta?
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
@@ -5116,6 +5128,8 @@ sp_ui_get_calendar_title_v5	Calendario de captura
 sp_ui_get_calendar_dialog_title_v9	Cambiar vista del calendario
 sp_ui_get_calendar_dialog_ym_v9	Vista mensual
 sp_ui_get_calendar_dialog_ymd_v9	Vista diaria
+sp_ui_userdel_complete_body_v11	Los datos de tu cuenta se han borrado por completo. Cuando cierres esta pantalla, se te redirigirá a la pantalla de creación de cuenta.
+sp_ui_userdel_error_body_v11	No se terminó de eliminar tu cuenta la última vez que cerraste la aplicación. A continuación se reanudará el proceso de eliminación.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_esp.msbt
