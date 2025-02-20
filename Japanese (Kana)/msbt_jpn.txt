@@ -7254,6 +7254,7 @@ sp_api_400_8809	ニンテンドーアカウントで ログインできません
 sp_api_400_8810	この　ニンテンドーアカウントは すでに　Pokémon HOMEを　りようしています
 sp_api_400_8813	プレミアムプランでは　ニンテンドーアカウントを へんこうすることが　できません
 sp_api_400_8816	べつのスマートフォンへ　データひきつぎずみです タイトル画面に　もどります
+sp_api_400_11700	通信エラーが　発生しました タイトル画面の　メニューから キャッシュを　クリアしてください
 sp_api_500_9010	べつのたんまつで　ログインがあったため タイトルがめんに　もどります。
 sp_api_500_9011	ちょうじかんにわたり　そうさがなかったため タイトルがめんに　もどります。
 sp_api_405_9014	『Pokémon HOME』の　あたらしい バージョンが　こうかいされています  バージョンアップを　おこなってください
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	キャンペーン
 Text File : sp_country_jpn.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	すべて
+sp_country_100	アフリカ
+sp_country_200	アメリカたいりく
+sp_country_201	カナダ
+sp_country_202	チリ
+sp_country_203	メキシコ
+sp_country_204	アメリカ
+sp_country_205	ブラジル
+sp_country_299	そのた
+sp_country_300	アジアたいへいよう
+sp_country_301	オーストラリア
+sp_country_302	ちゅうごく
+sp_country_303	ほんこん
+sp_country_304	にほん
+sp_country_305	かんこく
+sp_country_306	マレーシア
+sp_country_307	フィリピン
+sp_country_308	シンガポール
+sp_country_309	たいわん
+sp_country_310	タイ
+sp_country_399	そのた
+sp_country_400	ヨーロッパ
+sp_country_401	オーストリア
+sp_country_402	ベルギー
+sp_country_403	フランス
+sp_country_404	ドイツ
+sp_country_405	アイルランド
+sp_country_406	イタリア
+sp_country_407	オランダ
+sp_country_408	ポルトガル
+sp_country_409	スペイン
+sp_country_410	スイス
+sp_country_411	えいこく
+sp_country_412	デンマーク
+sp_country_413	フィンランド
+sp_country_414	ノルウェー
+sp_country_415	スウェーデン
+sp_country_499	そのた
+sp_country_500	ちゅうとう
 sp_country_africa	アフリカ
 sp_country_north_america	きたアメリカ
 sp_country_canada	カナダ
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	はじめて　GTSで　ポケモンこうかんが せいり�
 sp_mystery_0004_1	バインダーさくせいきねん！
 sp_mystery_0004_2	はじめて　バインダーに　シールを はりつけた！ きねんに　ピチューを　プレゼント！ 
 sp_mystery_0005_1	ぜんこくずかんかんせいきねん！
-sp_mystery_0005_2	たくさんの　ポケモンを　とうろくして ぜんこくずかんを　かんせいさせた！ きねんに　マギアナを　プレゼント！
+sp_mystery_0005_2	たくさんの　ポケモンを　とうろくして ぜんこくずかんの　No.0001～No.0890までを かんせいさせた！ きねんに　マギアナを　プレゼント！
 sp_mystery_0006_1	『ポケモン SW・SH』れんけいきねん！①
 sp_mystery_0006_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　れんけいさせた！ きねんに　サルノリを　プレゼント！
 sp_mystery_0007_1	『ポケモン SW・SH』れんけいきねん！②
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	『ポケモンS・V』たいかいさんかきねん！②
 sp_mystery_0024_2	『ポケモン スカーレット・バイオレット』で かいさいしていた　2023ねん４がつ こうしきインターネットたいかい②に さんかしてくれた　きねんとして 「キャンバスリュック スーパー」を　プレゼント！
 sp_mystery_0025_1	『ポケモンS・V』たいかいさんかきねん！③
 sp_mystery_0025_2	『ポケモン スカーレット・バイオレット』で かいさいしていた　2023ねん５がつ こうしきインターネットたいかい③に さんかしてくれた　きねんとして 「キャンバスリュック ハイパー」を　プレゼント！
+sp_mystery_0030_1	ソフトずかんかんせいきねん！①
+sp_mystery_0030_2	ソフトずかんの　「パルデアずかん」「キタカミずかん」 「ブルーベリーずかん」を　かんせいさせた！ きねんに　とくべつな　メロエッタを　プレゼント！
+sp_mystery_0031_1	ポケモンセンターわくわくおたんじょうび
+sp_mystery_0031_2	おたんじょうびおめでとう！ おいわいに　ワッカネズミを　プレゼント！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいのかね？
 sp_oak_00019	オーケイ！　『Pokémon HOME』の くわしい　きのう　は モンボーに　きいてくれい！
 sp_oak_00020	モンボーは　キミの　ポケモンと　 いっしょに　マイルームで　 まって　おるぞ！
 sp_oak_00021	オーケイ！　 それでは　よろしくたのんだぞ！
+sp_oak_softdic_comp_001_001	オーケイ！　わたしのゆめ すべての　ポケモンの　ずかん　とうろくに またいっぽ　ちかづいたぞ！
+sp_oak_softdic_comp_001_002	「パルデアずかん」「キタカミずかん」 「ブルーベリーずかん」の　すべての　ポケモンを とうろく　してくれた　ようだな！
+sp_oak_softdic_comp_001_003	キミに　おねがいして　ほんとうに　よかった！
+sp_oak_softdic_comp_001_004	オーケイ！　これからも ずかん　とうろくを　よろしく　たのむぞ！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_jpn.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	ほぞんの　せっていをする
 sp_option_filter_0017_v4	どのこうもくの　けんさくせっていを ほぞんしますか？
 sp_option_filter_0018_v4	ポケモンボックス
 sp_option_filter_0019_v4	けんさくせっていの　ほぞん
+sp_option_filter_0020_v4	ポケモンについてしる
+sp_option_filter_0021_v4	げんざいほぞんされている　ポケモンについてしるの けんさくせっていが　リセットされます よろしいですか？
 sp_option_sort_0001_vgo	ポケモンボックスの　ならびじゅん
 sp_option_sort_0002_vgo	ならびじゅんせっていを　ほぞんする
 sp_option_sort_0003_vgo	げんざいほぞんされている　ポケモンボックスの ならびじゅんせっていが　リセットされます よろしいですか？
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	ほぞんの　せっていをする
 sp_option_sort_0017_v4	どのこうもくの　ならびじゅんせっていを ほぞんしますか？
 sp_option_sort_0018_v4	ポケモンボックス
 sp_option_sort_0019_v4	ならびじゅんせっていの　ほぞん
+sp_option_sort_0020_v4	ポケモンについてしる
+sp_option_sort_0021_v4	げんざいほぞんされている　ポケモンについてしるの ならびじゅんせっていが　リセットされます よろしいですか？
 sp_option_notice_00001	つうちを　うけとる
 sp_option_notice_00005	そのた
 sp_option_notice_00006	つうち
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	ひょうじできる　ポケモンは　いません
 sp_ui_waza_library_empty_list	ひょうじできる　わざは　ありません
 sp_ui_tokusei_library_empty_list	ひょうじできる　とくせいは　ありません
 sp_ui_library_no_desc_text	このげんごの　せつめいぶんは　そんざいしません
+sp_ui_softlibrary_comp_gift_text	『Pokémon HOME』の　ふしぎなおくりものの プレゼントボックスを　かくにん　してみよう！
 sp_ui_refine	けんさく
 sp_ui_details_settings	しょうさいせってい
 sp_ui_keyword_dictionary	ポケモンめい
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	ポイント
 sp_ui_gift_0013_v1	なし
 sp_ui_gift_0014_v5	うけとりずみ ： [VAR]
 sp_ui_gift_0015_v5	[VAR] ポイント
+sp_ui_gift_nfc_0001	NFCよみとり
+sp_ui_gift_nfc_0002	NFCタグに かざしてください
+sp_ui_gift_nfc_0003	よみとりに　せいこうしました！ プレゼントボックスを　かくにんしてください
+sp_ui_gift_nfc_0003_01	よみとりに　せいこうしました！
+sp_ui_gift_nfc_0004	よみとりにしっぱいしました
+sp_ui_gift_nfc_0005	タイムアウトしました もういちど　おためしください
+sp_ui_gift_nfc_0006	たいおうしていない　NFCタグです
+sp_ui_gift_nfc_0007	すでにうけとりずみの　プレゼントです
 sp_ui_gift_01001	このエリアで　うけとれるもの
 sp_ui_gift_01002	プレゼントボックスで　うけとってね！
 sp_ui_gift_01003	プレゼントボックス
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	アカウントのデータを完全に削除し
 sp_ui_userdel_error_body_v11	前回アプリを終了した際に アカウントの削除が完了していません。 引き続きアカウントの削除を行います。
 sp_ui_gift_confirm_body_nalink_v12	「ふしぎなおくりもの」をご利用いただくには ニンテンドーアカウントとの連携が必要です。 「ふしぎなおくりもの」の各プレゼントの受け取りは １つのニンテンドーアカウントにつき１回のみとなります。
 sp_ui_gift_confirm_button_nalink_v12	確認しました
+sp_ui_off_lib_title	ポケモンについてしる
+sp_ui_off_lib_home_title	ポケモンに ついてしる
+sp_ui_off_lib_rom_filter_title	であえるソフト
+sp_ui_off_lib_move_filter_title	かんれんどうが
+sp_ui_off_lib_form_filter_title	すがた
+sp_ui_off_lib_move_filter01	あり
+sp_ui_off_lib_move_filter02	なし
+sp_ui_off_lib_form_filter01	メガシンカ
+sp_ui_off_lib_form_filter02	キョダイマックス
+sp_ui_off_lib_form_filter03	アローラのすがた
+sp_ui_off_lib_form_filter04	ガラルのすがた
+sp_ui_off_lib_form_filter05	ヒスイのすがた
+sp_ui_off_lib_form_filter06	パルデアのすがた
+sp_ui_off_lib_deets_caprom_title	であえるソフト
+sp_ui_off_lib_deets_news_title	かんれんどうが
+sp_ui_off_lib_deets_caprom_text	つうじょうのプレイでこのポケモンと であえるソフトです。 しょうさいはヘルプをごかくにんください。
+sp_ui_off_lib_deets_evo_title	しんか
+sp_ui_off_lib_deets_evo_notext	しんかしません
+sp_ui_off_lib_deets_form_title	すがた
+sp_ui_off_lib_deets_form_notext	ほかのすがたはかくにんされていません
+sp_ui_off_lib_deets_form_extxt_001	ぜん28しゅるい（A～Z、！、？）のすがたが そんざいする。
+sp_ui_off_lib_deets_form_extxt_002	てんきによって　「たいようのすがた」 「あまみずのすがた」「ゆきぐものすがた」に かわる。
+sp_ui_off_lib_deets_form_extxt_003	つうじょうは　ノーマルタイプだが もたせるプレートの　しゅるいによって タイプとすがたがかわり　タイプシフトする。
+sp_ui_off_lib_deets_form_extxt_004	「かくれとくせい：ダルマモード」を もったヒヒダルマは　せんとうちゅうにHPが はんぶんいかになると　[ダルマモード]になる。
+sp_ui_off_lib_deets_form_extxt_005	「かくれとくせい：ダルマモード」を もったヒヒダルマは　せんとうちゅうにHPが はんぶんいかになると　[ダルマモード]になる。
+sp_ui_off_lib_deets_form_extxt_006	はねのもようや　しきさいが ことなるしゅるいが　そんざいする。 げんざい　20しゅるいが　かくにんされている。
+sp_ui_off_lib_deets_form_extxt_007	はなのいろが　ことなるしゅるいが　そんざいする。 はなのいろは　5しゅるい （あか　きいろ　オレンジ　あお　しろ）。
+sp_ui_off_lib_deets_form_extxt_008	はなのいろが　ことなるしゅるいが　そんざいする。 はなのいろは　5しゅるい （あか　きいろ　オレンジ　あお　しろ）。
+sp_ui_off_lib_deets_form_extxt_009	はなのいろが　ことなるしゅるいが　そんざいする。 はなのいろは　5しゅるい （あか　きいろ　オレンジ　あお　しろ）。
+sp_ui_off_lib_deets_form_extxt_010	やせいのすがたのほか 9しゅるいの　ちがうすがたに　トリミングできる。
+sp_ui_off_lib_deets_form_extxt_011	せんとうちゅうは　「アクティブモード」になり せんとうを　おこっていないときは 「リラックスモード」になる。
+sp_ui_off_lib_deets_form_extxt_012	つうじょうは　ノーマルタイプだが もたせるメモリの　しゅるいによって タイプとすがたがかわる。
+sp_ui_off_lib_deets_form_extxt_013	あかいろのコアのほかに　だいだいいろのコア きいろのコア　みどりいろのコア　みずいろのコア あおいろのコア　むらさきいろのコアの けい7しゅるいが　そんざいする。
+sp_ui_off_lib_deets_form_extxt_014	はつめいされたとうじの　すがたである 「５００ねんまえのいろ」も　そんざいする。
+sp_ui_off_lib_deets_form_extxt_015	マホミルから　しんかするときに もたせているどうぐや　じかんたいなどによって すがたがかわる。
+sp_ui_off_lib_deets_form_extxt_016	ぶつりこうげきを　うけると あたまの　こおりが　くだけ 「ナイスフェイス」になる。
+sp_ui_off_lib_deets_form_extxt_017	４ひきかぞくのほかに、 ３びきかぞくが　そんざいする。
+sp_ui_off_lib_deets_form_extxt_018	グリーンフェザーのほかに　ブルーフェザー イエローフェザー　ホワイトフェザーの けい4しゅるいが　そんざいする。
+sp_ui_off_lib_deets_form_extxt_019	ふたふしフォルムのほかに みつふしフォルムも　そんざいする。
+sp_ui_off_lib_deets_form_extxt_020	こうげきを　うけると、 ばけのかわが　はがれる。
+sp_ui_off_lib_deets_form_extxt_021	せんとうちゅうに　「なみのり」か 「ダイビング」をすると 「うのみのすがた」か　「まるのみのすがた」になる。
+sp_ui_off_lib_deets_news_notext	どうがはありません
+sp_ui_off_lib_deets_caprom_notext	つうじょうのプレイでであえるソフトはありません
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn.msbt

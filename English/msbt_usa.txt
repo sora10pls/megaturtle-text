@@ -6828,19 +6828,19 @@ sp_achstep_oth_000403	Create 10 labels!
 sp_achstep_oth_000501	Check the news!
 sp_achstep_oth_000502	Check the news 10 times!
 sp_achstep_oth_000503	Check the news 30 times!
-sp_achstep_oth_s_0001	Visit the Pokémon Center Sapporo!
-sp_achstep_oth_s_0002	Visit the Pokémon Center Tohoku!
-sp_achstep_oth_s_0003	Visit the Pokémon Center TOKYO DX!
-sp_achstep_oth_s_0004	Visit the Pokémon Center MEGA TOKYO!
-sp_achstep_oth_s_0005	Visit the Pokémon Center SKYTREE TOWN!
-sp_achstep_oth_s_0006	Visit the Pokémon Center TOKYO-BAY!
-sp_achstep_oth_s_0007	Visit the Pokémon Center Yokohama!
-sp_achstep_oth_s_0008	Visit the Pokémon Center Nagoya!
-sp_achstep_oth_s_0009	Visit the Pokémon Center Kyoto!
-sp_achstep_oth_s_0010	Visit the Pokémon Center Osaka!
-sp_achstep_oth_s_0011	Visit the Pokémon Center Hiroshima!
-sp_achstep_oth_s_0012	Visit the Pokémon Center Fukuoka!
-sp_achstep_oth_s_0013	Visit the Pokémon Center SHIBUYA!
+sp_achstep_oth_s_0001	Visit Pokémon Center Sapporo!
+sp_achstep_oth_s_0002	Visit Pokémon Center Tohoku!
+sp_achstep_oth_s_0003	Visit Pokémon Center TOKYO DX!
+sp_achstep_oth_s_0004	Visit Pokémon Center MEGA TOKYO!
+sp_achstep_oth_s_0005	Visit Pokémon Center SKYTREE TOWN!
+sp_achstep_oth_s_0006	Visit Pokémon Center TOKYO-BAY!
+sp_achstep_oth_s_0007	Visit Pokémon Center Yokohama!
+sp_achstep_oth_s_0008	Visit Pokémon Center Nagoya!
+sp_achstep_oth_s_0009	Visit Pokémon Center Kyoto!
+sp_achstep_oth_s_0010	Visit Pokémon Center Osaka!
+sp_achstep_oth_s_0011	Visit Pokémon Center Hiroshima!
+sp_achstep_oth_s_0012	Visit Pokémon Center Fukuoka!
+sp_achstep_oth_s_0013	Visit Pokémon Center SHIBUYA!
 sp_achstep_oth_s_0014	Visit the Pokémon Store New Chitose Airport Shop!
 sp_achstep_oth_s_0015	Visit the Pokémon Store Tokyo Station Shop!
 sp_achstep_oth_s_0016	Visit the Pokémon Store Narita Airport Shop!
@@ -7066,19 +7066,19 @@ sp_ach_trd_0001	Trade using the GTS!
 sp_ach_trd_0002	Trade using a Room Trade!
 sp_ach_trd_0003	Host Room Trades!
 sp_ach_trd_0004	Trade using the Wonder Box!
-sp_ach_oth_s_0001	Visit the Pokémon Center Sapporo!
-sp_ach_oth_s_0002	Visit the Pokémon Center Tohoku!
-sp_ach_oth_s_0003	Visit the Pokémon Center TOKYO DX!
-sp_ach_oth_s_0004	Visit the Pokémon Center MEGA TOKYO!
-sp_ach_oth_s_0005	Visit the Pokémon Center SKYTREE TOWN!
-sp_ach_oth_s_0006	Visit the Pokémon Center TOKYO-BAY!
-sp_ach_oth_s_0007	Visit the Pokémon Center Yokohama!
-sp_ach_oth_s_0008	Visit the Pokémon Center Nagoya!
-sp_ach_oth_s_0009	Visit the Pokémon Center Kyoto!
-sp_ach_oth_s_0010	Visit the Pokémon Center Osaka!
-sp_ach_oth_s_0011	Visit the Pokémon Center Hiroshima!
-sp_ach_oth_s_0012	Visit the Pokémon Center Fukuoka!
-sp_ach_oth_s_0013	Visit the Pokémon Center SHIBUYA!
+sp_ach_oth_s_0001	Visit Pokémon Center Sapporo!
+sp_ach_oth_s_0002	Visit Pokémon Center Tohoku!
+sp_ach_oth_s_0003	Visit Pokémon Center TOKYO DX!
+sp_ach_oth_s_0004	Visit Pokémon Center MEGA TOKYO!
+sp_ach_oth_s_0005	Visit Pokémon Center SKYTREE TOWN!
+sp_ach_oth_s_0006	Visit Pokémon Center TOKYO-BAY!
+sp_ach_oth_s_0007	Visit Pokémon Center Yokohama!
+sp_ach_oth_s_0008	Visit Pokémon Center Nagoya!
+sp_ach_oth_s_0009	Visit Pokémon Center Kyoto!
+sp_ach_oth_s_0010	Visit Pokémon Center Osaka!
+sp_ach_oth_s_0011	Visit Pokémon Center Hiroshima!
+sp_ach_oth_s_0012	Visit Pokémon Center Fukuoka!
+sp_ach_oth_s_0013	Visit Pokémon Center SHIBUYA!
 sp_ach_oth_s_0014	Visit the Pokémon Store New Chitose Airport Shop!
 sp_ach_oth_s_0015	Visit the Pokémon Store Tokyo Station Shop!
 sp_ach_oth_s_0016	Visit the Pokémon Store Narita Airport Shop!
@@ -7089,7 +7089,7 @@ sp_ach_oth_s_0023	Visit the Pokémon Store Emifull MASAKI Shop!
 sp_ach_oth_s_0036	See （えいがめい） in the theater!
 sp_ach_oth_s_0037	See （えいがめい） in the theater!
 sp_ach_oth_s_0038	Visit Pokémon Cafes!
-sp_ach_oth_s_0039	Visit the Pokémon Center OSAKA DX!
+sp_ach_oth_s_0039	Visit Pokémon Center OSAKA DX!
 sp_ach_oth_s_0040	Change your user icon 10 times!
 sp_ach_oth_s_0041	Withdraw Butterfree from Pokémon HOME!
 sp_ach_oth_s_0042	Move Pokémon from Pokémon Bank!
@@ -7254,6 +7254,7 @@ sp_api_400_8809	Unable to log in using your Nintendo Account. Please check the N
 sp_api_400_8810	Pokémon HOME is already being used with this Nintendo Account.
 sp_api_400_8813	You are unable to change Nintendo Accounts when on a Premium Plan.
 sp_api_400_8816	You have already transferred your data to a new device. Returning to title screen...
+sp_api_400_11700	A communication error has occurred. Please go to the menu on the title screen and clear your cache.
 sp_api_500_9010	You are being returned to the title screen because another device was used to log in.
 sp_api_500_9011	You are being returned to the title screen because you have been idle for an extended period of time.
 sp_api_405_9014	A new version of Pokémon HOME is available. Please update your version of Pokémon HOME.
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	Special Promotions
 Text File : sp_country_usa.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	All
+sp_country_100	Africa
+sp_country_200	Americas
+sp_country_201	Canada
+sp_country_202	Chile
+sp_country_203	Mexico
+sp_country_204	USA
+sp_country_205	Brazil
+sp_country_299	Other
+sp_country_300	Asia-Pacific
+sp_country_301	Australia
+sp_country_302	China
+sp_country_303	Hong Kong
+sp_country_304	Japan
+sp_country_305	Korea
+sp_country_306	Malaysia
+sp_country_307	Philippines
+sp_country_308	Singapore
+sp_country_309	Taiwan
+sp_country_310	Thailand
+sp_country_399	Other
+sp_country_400	Europe
+sp_country_401	Austria
+sp_country_402	Belgium
+sp_country_403	France
+sp_country_404	Germany
+sp_country_405	Ireland
+sp_country_406	Italy
+sp_country_407	Netherlands
+sp_country_408	Portugal
+sp_country_409	Spain
+sp_country_410	Switzerland
+sp_country_411	UK
+sp_country_412	Denmark
+sp_country_413	Finland
+sp_country_414	Norway
+sp_country_415	Sweden
+sp_country_499	Other
+sp_country_500	Middle East
 sp_country_africa	Africa
 sp_country_north_america	North America
 sp_country_canada	Canada
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	To celebrate your first trade using the GTS, you'll be gifted 
 sp_mystery_0004_1	Gift for creating a Binder!
 sp_mystery_0004_2	To celebrate you putting a sticker on your Binder for the first time, you'll be gifted a Pichu!
 sp_mystery_0005_1	Gift for completing the National Pokédex!
-sp_mystery_0005_2	To celebrate registering so many Pokémon and completing the National Pokédex, you'll be gifted a Magearna!
+sp_mystery_0005_2	To celebrate registering so many Pokémon and completing the National Pokédex from No. 0001 to No. 0890, you'll be gifted a Magearna!
 sp_mystery_0006_1	Gift for connecting to Galar 1!
 sp_mystery_0006_2	You've connected Pokémon Sword or Pokémon Shield to Pokémon HOME! Here's a Grookey as a special gift!
 sp_mystery_0007_1	Gift for connecting to Galar 2!
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	Special Competition Gift No. 2!
 sp_mystery_0024_2	You took part in the "2023 Global Challenge II" held in April in Pokémon Scarlet and Pokémon Violet! Here's a Great Ball Canvas Backpack as a special gift!
 sp_mystery_0025_1	Special Competition Gift No. 3!
 sp_mystery_0025_2	You took part in the "2023 Global Challenge III" held in May in Pokémon Scarlet and Pokémon Violet! Here's an Ultra Ball Canvas Backpack as a special gift!
+sp_mystery_0030_1	Game Pokédex Completion Commemoration No. 1!
+sp_mystery_0030_2	You've completed the Paldea Pokédex, the Kitakami Pokédex, and the Blueberry Pokédex! Here's a special Meloetta as a gift!
+sp_mystery_0031_1	Happy birthday from the Pokémon Center!
+sp_mystery_0031_2	Happy birthday! To celebrate, here's Tandemaus as a gift!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	Are you happy with the [VAR_PKCATEGORY] [VAR_PKNAME]?
 sp_oak_00019	Brilliant! If you want to know more about the features of Pokémon HOME, just ask Poké Boy.
 sp_oak_00020	Poké Boy is waiting for you in your room, along with your Pokémon!
 sp_oak_00021	Now then, I wish you the best of luck!
+sp_oak_softdic_comp_001_001	Brilliant! We're one step closer to fulfilling my dream of creating a grand Pokédex!
+sp_oak_softdic_comp_001_002	I see you've registered every single Pokémon in the Paldea Pokédex, the Kitakami Pokédex, and the Blueberry Pokédex.
+sp_oak_softdic_comp_001_003	You were most certainly the right one to entrust with this monumental task.
+sp_oak_softdic_comp_001_004	Absolutely brilliant! I hope you keep up the fantastic work!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_usa.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	Adjust
 sp_option_filter_0017_v4	Which features should autosave their search conditions?
 sp_option_filter_0018_v4	Pokémon Boxes
 sp_option_filter_0019_v4	Saved Search Conditions
+sp_option_filter_0020_v4	Pokémon Guidebook
+sp_option_filter_0021_v4	The currently saved search settings for the Pokémon Guidebook will be reset. Do you want to continue?
 sp_option_sort_0001_vgo	Sort Pokémon Boxes
 sp_option_sort_0002_vgo	Save Sorting Settings
 sp_option_sort_0003_vgo	The currently saved settings for sorting your Pokémon Boxes will be reset. Do you want to continue?
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	Adjust
 sp_option_sort_0017_v4	Which features should autosave their sorting settings?
 sp_option_sort_0018_v4	Pokémon Boxes
 sp_option_sort_0019_v4	Saved Sorting Settings
+sp_option_sort_0020_v4	Pokémon Guidebook
+sp_option_sort_0021_v4	The currently saved settings for sorting the Pokémon Guidebook will be reset. Do you want to continue?
 sp_option_notice_00001	Receive notifications
 sp_option_notice_00005	Other
 sp_option_notice_00006	Notifications
@@ -7887,7 +7938,7 @@ sp_plan_fund_settlement_method	Payment Laws
 sp_plan_specifiedcommercial_transaction_law	Commercial Transactions
 sp_plan_change	Check plan
 sp_plan_buy_text	Purchase [VAR]
-sp_plan_change_disable_text	This Premium Plan was purchased at a different store. Please check its expiration at the store where it was purchased.
+sp_plan_change_disable_text	This Premium Plan was purchased from a different store. Please visit the store where it was purchased to confirm the expiration date.
 sp_plan_restored_title	Restore plan
 sp_plan_restored_text	Plan restored
 sp_plan_buy_failed_title	Payment error.
@@ -8027,7 +8078,7 @@ sp_trade_02007	Welcome back, [VAR_PKNAME]!
 sp_trade_02008	Depositing [VAR_PKNAME] in the Wonder Box! Good-bye, [VAR_PKNAME]!
 sp_trade_02009	[VAR_PKNAME] came from the Wonder Box!
 sp_trade_03001	An error has occurred. Returning to the main trading menu...
-sp_trade_03002	You have been disconnected. Returning to the trading main menu...
+sp_trade_03002	You have been disconnected. Returning to the main trading menu.
 sp_trade_03003	Total trades
 sp_trade_03004	Trade ranking
 sp_trade_03005	This is a special Pokémon and can't be offered for a trade.
@@ -8177,7 +8228,7 @@ sp_ui_yes	Yes
 sp_ui_no	No
 sp_ui_confirm	Confirm
 sp_ui_next_to	Next
-sp_ui_migration	Move
+sp_ui_migration	Moves from Bank
 sp_ui_connecting	Now communicating...
 sp_ui_loading	Now loading...
 sp_ui_retry	Retry
@@ -8204,7 +8255,7 @@ sp_ui_furgloss	Sheen
 sp_ui_ganbalv	Effort Level
 sp_ui_sex	Gender
 sp_ui_formcategory01	Mega Evolution
-sp_ui_formcategory02	Shiny Form
+sp_ui_formcategory02	Shiny
 sp_ui_formcategory03	Alolan Form
 sp_ui_formcategory04	Galarian Form
 sp_ui_formcategory05	Hisuian Form
@@ -8254,7 +8305,7 @@ sp_ui_nickname	Nickname
 sp_ui_country_name	Country/Region
 sp_ui_number	Number
 sp_ui_name	Name
-sp_ui_date_of_leave	Date it moved in
+sp_ui_date_of_leave	Date deposited
 sp_ui_library_number	Pokédex Number
 sp_ui_latest_achievement_date	Most Recent
 sp_ui_hozon	Save
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	No Pokémon found.
 sp_ui_waza_library_empty_list	No moves found.
 sp_ui_tokusei_library_empty_list	No Abilities found.
 sp_ui_library_no_desc_text	No description found for this language.
+sp_ui_softlibrary_comp_gift_text	Check your gift box in Pokémon HOME for Mystery Gifts!
 sp_ui_refine	Search
 sp_ui_details_settings	Detailed Settings
 sp_ui_keyword_dictionary	Pokémon name
@@ -8388,7 +8440,7 @@ sp_ui_category	Grade
 sp_ui_clear_not_cleared	Cleared / Not yet cleared
 sp_ui_operation	Operations
 sp_ui_delivery_receive	Mystery Gifts
-sp_ui_pokemon_out_in	Sync with game
+sp_ui_pokemon_out_in	Transfers
 sp_ui_pokesmile	Pokémon HOME Points
 sp_ui_go	Pokémon GO Link
 sp_ui_date	Date
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	Points
 sp_ui_gift_0013_v1	None
 sp_ui_gift_0014_v5	Received on [VAR]
 sp_ui_gift_0015_v5	[VAR] Point(s)
+sp_ui_gift_nfc_0001	Read NFC Tag
+sp_ui_gift_nfc_0002	Please tap the NFC tag to your device.
+sp_ui_gift_nfc_0003	The tag was read successfully! Please check your gift box.
+sp_ui_gift_nfc_0003_01	The tag was read successfully!
+sp_ui_gift_nfc_0004	The tag couldn't be read.
+sp_ui_gift_nfc_0005	The request timed out. Please try again.
+sp_ui_gift_nfc_0006	This NFC tag is not supported.
+sp_ui_gift_nfc_0007	You've already received this gift.
 sp_ui_gift_01001	Gifts you can get in your area:
 sp_ui_gift_01002	Get them from your gift box!
 sp_ui_gift_01003	Gift Box
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	All of your account data has been completely del
 sp_ui_userdel_error_body_v11	Your account wasn't completely deleted when you last closed the application. The deletion process will now resume.
 sp_ui_gift_confirm_body_nalink_v12	In order to use the Mystery Gifts feature, you must have a linked Nintendo Account. Each Mystery Gift can only be received once per Nintendo Account.
 sp_ui_gift_confirm_button_nalink_v12	I understand
+sp_ui_off_lib_title	Pokémon Guidebook
+sp_ui_off_lib_home_title	Pokémon Guidebook
+sp_ui_off_lib_rom_filter_title	Appears In
+sp_ui_off_lib_move_filter_title	Related Videos
+sp_ui_off_lib_form_filter_title	Forms
+sp_ui_off_lib_move_filter01	Available
+sp_ui_off_lib_move_filter02	Not Available
+sp_ui_off_lib_form_filter01	Mega Evolved
+sp_ui_off_lib_form_filter02	Gigantamax
+sp_ui_off_lib_form_filter03	Alolan Form
+sp_ui_off_lib_form_filter04	Galarian Form
+sp_ui_off_lib_form_filter05	Hisuian Form
+sp_ui_off_lib_form_filter06	Paldean Form
+sp_ui_off_lib_deets_caprom_title	Appears In
+sp_ui_off_lib_deets_news_title	Related Videos
+sp_ui_off_lib_deets_caprom_text	You can encounter this Pokémon through normal gameplay in these games. For details, see Help.
+sp_ui_off_lib_deets_evo_title	Evolution
+sp_ui_off_lib_deets_evo_notext	Does not evolve.
+sp_ui_off_lib_deets_form_title	Forms
+sp_ui_off_lib_deets_form_notext	No other forms are known to exist.
+sp_ui_off_lib_deets_form_extxt_001	28 forms (A–Z, !, and ?) currently exist.
+sp_ui_off_lib_deets_form_extxt_002	Depending on the weather, it can change into Sunny Form, Rainy Form, or Snowy Form.
+sp_ui_off_lib_deets_form_extxt_003	This Pokémon is Normal type by default, but its type and form change depending on the plate it's holding.
+sp_ui_off_lib_deets_form_extxt_004	Darmanitan with the Zen Mode Hidden Ability will enter Zen Mode when their HP drops below 50 percent during battle.
+sp_ui_off_lib_deets_form_extxt_005	Darmanitan with the Zen Mode Hidden Ability will enter Zen Mode when their HP drops below 50 percent during battle.
+sp_ui_off_lib_deets_form_extxt_006	It has 20 known varieties, whose wings sport different colors or patterns.
+sp_ui_off_lib_deets_form_extxt_007	It comes in five forms, each with a different-colored flower: red, yellow, orange, blue, or white.
+sp_ui_off_lib_deets_form_extxt_008	It comes in five forms, each with a different-colored flower: red, yellow, orange, blue, or white.
+sp_ui_off_lib_deets_form_extxt_009	It comes in five forms, each with different-colored flowers: red, yellow, orange, blue, or white.
+sp_ui_off_lib_deets_form_extxt_010	It can be in its Natural Form, or it can have its fur groomed into nine different trims.
+sp_ui_off_lib_deets_form_extxt_011	It enters Active Mode during battle. When not fighting, it enters Neutral Mode.
+sp_ui_off_lib_deets_form_extxt_012	This Pokémon is Normal type by default, but its type and form change depending on the memory it's holding.
+sp_ui_off_lib_deets_form_extxt_013	It can have one of seven core colors: Red Core, Orange Core, Yellow Core, Green Core, Blue Core, Indigo Core, or Violet Core.
+sp_ui_off_lib_deets_form_extxt_014	Its Original Color form dates back to when it was first invented five hundred years ago.
+sp_ui_off_lib_deets_form_extxt_015	When evolving from Milcery, it takes a form depending on the item it's holding, the time of day, and other factors.
+sp_ui_off_lib_deets_form_extxt_016	When it's hit with a physical attack, the ice on its head breaks and it enters Noice Face form.
+sp_ui_off_lib_deets_form_extxt_017	There is a Family of Three as well as a Family of Four.
+sp_ui_off_lib_deets_form_extxt_018	It comes in four forms: Green Plumage, Blue Plumage, Yellow Plumage, and White Plumage.
+sp_ui_off_lib_deets_form_extxt_019	There is a Three-Segment Form as well as a Two-Segment Form.
+sp_ui_off_lib_deets_form_extxt_020	Its disguise is busted when it takes damage.
+sp_ui_off_lib_deets_form_extxt_021	When it uses Surf or Dive in battle, it will take on either Gulping Form or Gorging Form.
+sp_ui_off_lib_deets_news_notext	No videos available.
+sp_ui_off_lib_deets_caprom_notext	You cannot encounter this Pokémon through normal gameplay in any eligible games.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt

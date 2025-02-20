@@ -7254,6 +7254,7 @@ sp_api_400_8809	ニンテンドーアカウントで ログインできません
 sp_api_400_8810	この　ニンテンドーアカウントは 既に　Pokémon HOMEを　利用しています
 sp_api_400_8813	プレミアムプランでは　ニンテンドーアカウントを 変更することが　できません
 sp_api_400_8816	別のスマートフォンへ　データ引継ぎ済です タイトル画面に　戻ります
+sp_api_400_11700	通信エラーが　発生しました タイトル画面の　メニューから キャッシュを　クリアしてください
 sp_api_500_9010	別の端末でログインがあったため タイトル画面に戻ります。
 sp_api_500_9011	長時間にわたり操作が無かったため タイトル画面に戻ります。
 sp_api_405_9014	『Pokémon HOME』の 新しいバージョンが　公開されています  バージョンアップを　行ってください
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	キャンペーン
 Text File : sp_country_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	すべて
+sp_country_100	アフリカ
+sp_country_200	アメリカ大陸
+sp_country_201	カナダ
+sp_country_202	チリ
+sp_country_203	メキシコ
+sp_country_204	アメリカ
+sp_country_205	ブラジル
+sp_country_299	その他
+sp_country_300	アジア太平洋
+sp_country_301	オーストラリア
+sp_country_302	中国
+sp_country_303	香港
+sp_country_304	日本
+sp_country_305	韓国
+sp_country_306	マレーシア
+sp_country_307	フィリピン
+sp_country_308	シンガポール
+sp_country_309	台湾
+sp_country_310	タイ
+sp_country_399	その他
+sp_country_400	ヨーロッパ
+sp_country_401	オーストリア
+sp_country_402	ベルギー
+sp_country_403	フランス
+sp_country_404	ドイツ
+sp_country_405	アイルランド
+sp_country_406	イタリア
+sp_country_407	オランダ
+sp_country_408	ポルトガル
+sp_country_409	スペイン
+sp_country_410	スイス
+sp_country_411	英国
+sp_country_412	デンマーク
+sp_country_413	フィンランド
+sp_country_414	ノルウェー
+sp_country_415	スウェーデン
+sp_country_499	その他
+sp_country_500	中東
 sp_country_africa	アフリカ
 sp_country_north_america	北アメリカ
 sp_country_canada	カナダ
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	はじめて　GTSで　ポケモン交換が 成立した！ 
 sp_mystery_0004_1	バインダー作成記念！
 sp_mystery_0004_2	はじめて　バインダーに　シールを 貼りつけた！ 記念に　ピチューを　プレゼント！
 sp_mystery_0005_1	全国図鑑完成記念！
-sp_mystery_0005_2	たくさんの　ポケモンを　登録して 全国図鑑を　完成させた！ 記念に　マギアナを　プレゼント！
+sp_mystery_0005_2	たくさんの　ポケモンを　登録して 全国図鑑の　No.0001～No.0890までを 完成させた！ 記念に　マギアナを　プレゼント！
 sp_mystery_0006_1	『ポケモン SW・SH』連携記念！①
 sp_mystery_0006_2	『ポケットモンスター ソード・シールド』と 『Pokémon HOME』を　連携させた！ 記念に　サルノリを　プレゼント！
 sp_mystery_0007_1	『ポケモン SW・SH』連携記念！②
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	『ポケモンS・V』大会参加記念！②
 sp_mystery_0024_2	『ポケモン スカーレット・バイオレット』で 開催していた　2023年４月 公式インターネット大会②に 参加してくれた　記念として 「キャンバスリュック スーパー」を　プレゼント！
 sp_mystery_0025_1	『ポケモンS・V』大会参加記念！③
 sp_mystery_0025_2	『ポケモン スカーレット・バイオレット』で 開催していた　2023年５月 公式インターネット大会③に 参加してくれた　記念として 「キャンバスリュック ハイパー」を　プレゼント！
+sp_mystery_0030_1	ソフト図鑑完成記念！①
+sp_mystery_0030_2	ソフト図鑑の　「パルデア図鑑」「キタカミ図鑑」 「ブルーベリー図鑑」を　完成させた！ 記念に　特別な　メロエッタを　プレゼント！
+sp_mystery_0031_1	ポケモンセンターわくわくおたんじょうび
+sp_mystery_0031_2	お誕生日おめでとう！ お祝いに　ワッカネズミを　プレゼント！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn_kanji.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいのかね？
 sp_oak_00019	オーケイ！　『Pokémon HOME』の 詳しい　機能　は モンボーに　きいてくれい！
 sp_oak_00020	モンボーは　キミの　ポケモンと　 一緒に　マイルームで　 待って　おるぞ！
 sp_oak_00021	オーケイ！　 それでは　よろしく頼んだぞ！
+sp_oak_softdic_comp_001_001	オーケイ！　私の夢 すべての　ポケモンの　図鑑登録に また一歩　近づいたぞ！
+sp_oak_softdic_comp_001_002	「パルデア図鑑」「キタカミ図鑑」 「ブルーベリー図鑑」の すべての　ポケモンを　登録してくれたようだな！
+sp_oak_softdic_comp_001_003	キミに　お願いして　本当に　良かった！
+sp_oak_softdic_comp_001_004	オーケイ！　これからも 図鑑登録を　よろしく　頼むぞ！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_jpn_kanji.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	保存の設定をする
 sp_option_filter_0017_v4	どの項目の　検索設定を 保存しますか？
 sp_option_filter_0018_v4	ポケモンボックス
 sp_option_filter_0019_v4	検索設定の保存
+sp_option_filter_0020_v4	ポケモンについて知る
+sp_option_filter_0021_v4	現在保存されている　ポケモンについて知るの 検索設定が　リセットされます よろしいですか？
 sp_option_sort_0001_vgo	ポケモンボックスの　並び順
 sp_option_sort_0002_vgo	並び順設定を保存する
 sp_option_sort_0003_vgo	現在保存されている　ポケモンボックスの 並び順設定が　リセットされます よろしいですか？
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	保存の設定をする
 sp_option_sort_0017_v4	どの項目の　並び順設定を 保存しますか？
 sp_option_sort_0018_v4	ポケモンボックス
 sp_option_sort_0019_v4	並び順設定の保存
+sp_option_sort_0020_v4	ポケモンについて知る
+sp_option_sort_0021_v4	現在保存されている　ポケモンについて知るの 並び順設定が　リセットされます よろしいですか？
 sp_option_notice_00001	通知を受け取る
 sp_option_notice_00005	その他
 sp_option_notice_00006	通知
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	表示できる　ポケモンは　いません
 sp_ui_waza_library_empty_list	表示できる　わざは　ありません
 sp_ui_tokusei_library_empty_list	表示できる　とくせいは　ありません
 sp_ui_library_no_desc_text	この言語の　説明文は　存在しません
+sp_ui_softlibrary_comp_gift_text	『Pokémon HOME』の　ふしぎなおくりものの プレゼントボックスを　確認してみよう！
 sp_ui_refine	検索
 sp_ui_details_settings	詳細設定
 sp_ui_keyword_dictionary	ポケモン名
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	ポイント
 sp_ui_gift_0013_v1	なし
 sp_ui_gift_0014_v5	受け取り済み ： [VAR]
 sp_ui_gift_0015_v5	[VAR] ポイント
+sp_ui_gift_nfc_0001	NFC読み取り
+sp_ui_gift_nfc_0002	NFCタグに かざしてください
+sp_ui_gift_nfc_0003	読み取りに　成功しました！ プレゼントボックスを　確認してください
+sp_ui_gift_nfc_0003_01	読み取りに　成功しました！
+sp_ui_gift_nfc_0004	読み取りに　失敗しました
+sp_ui_gift_nfc_0005	タイムアウトしました もう一度　お試しください
+sp_ui_gift_nfc_0006	対応していない　NFCタグです
+sp_ui_gift_nfc_0007	既に受け取り済みの　プレゼントです
 sp_ui_gift_01001	このエリアで　受け取れるもの
 sp_ui_gift_01002	プレゼントボックスで　受け取ってね！
 sp_ui_gift_01003	プレゼントボックス
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	アカウントのデータを完全に削除し
 sp_ui_userdel_error_body_v11	前回アプリを終了した際に アカウントの削除が完了していません。 引き続きアカウントの削除を行います。
 sp_ui_gift_confirm_body_nalink_v12	「ふしぎなおくりもの」をご利用いただくには ニンテンドーアカウントとの連携が必要です。 「ふしぎなおくりもの」の各プレゼントの受け取りは １つのニンテンドーアカウントにつき１回のみとなります。
 sp_ui_gift_confirm_button_nalink_v12	確認しました
+sp_ui_off_lib_title	ポケモンについて知る
+sp_ui_off_lib_home_title	ポケモンに ついて知る
+sp_ui_off_lib_rom_filter_title	出会えるソフト
+sp_ui_off_lib_move_filter_title	関連動画
+sp_ui_off_lib_form_filter_title	すがた
+sp_ui_off_lib_move_filter01	あり
+sp_ui_off_lib_move_filter02	なし
+sp_ui_off_lib_form_filter01	メガシンカ
+sp_ui_off_lib_form_filter02	キョダイマックス
+sp_ui_off_lib_form_filter03	アローラのすがた
+sp_ui_off_lib_form_filter04	ガラルのすがた
+sp_ui_off_lib_form_filter05	ヒスイのすがた
+sp_ui_off_lib_form_filter06	パルデアのすがた
+sp_ui_off_lib_deets_caprom_title	出会えるソフト
+sp_ui_off_lib_deets_news_title	関連動画
+sp_ui_off_lib_deets_caprom_text	通常のプレイでこのポケモンと 出会えるソフトです。 詳細はヘルプをご確認ください。
+sp_ui_off_lib_deets_evo_title	進化
+sp_ui_off_lib_deets_evo_notext	進化しません
+sp_ui_off_lib_deets_form_title	すがた
+sp_ui_off_lib_deets_form_notext	他のすがたは確認されていません
+sp_ui_off_lib_deets_form_extxt_001	全28種類（A～Z、！、？）のすがたが存在する。
+sp_ui_off_lib_deets_form_extxt_002	天気によって「たいようのすがた」 「あまみずのすがた」「ゆきぐものすがた」に変わる。
+sp_ui_off_lib_deets_form_extxt_003	通常はノーマルタイプだが 持たせるプレートの種類によって タイプとすがたが変わり、タイプシフトする。
+sp_ui_off_lib_deets_form_extxt_004	「隠れ特性：ダルマモード」を持ったヒヒダルマは 戦闘中にHPが半分以下になると [ダルマモード]になる。
+sp_ui_off_lib_deets_form_extxt_005	「隠れ特性：ダルマモード」を持ったヒヒダルマは 戦闘中にHPが半分以下になると [ダルマモード]になる。
+sp_ui_off_lib_deets_form_extxt_006	羽の模様や色彩が異なる種類が存在する。 現在20種類が確認されている。
+sp_ui_off_lib_deets_form_extxt_007	花の色が異なる種類が存在する。 花の色は5種類 （あか、きいろ、オレンジ、あお、しろ）。
+sp_ui_off_lib_deets_form_extxt_008	花の色が異なる種類が存在する。 花の色は5種類 （あか、きいろ、オレンジ、あお、しろ）。
+sp_ui_off_lib_deets_form_extxt_009	花の色が異なる種類が存在する。 花の色は5種類 （あか、きいろ、オレンジ、あお、しろ）。
+sp_ui_off_lib_deets_form_extxt_010	やせいのすがたのほか 9種類の違うすがたにトリミングできる。
+sp_ui_off_lib_deets_form_extxt_011	戦闘中は「アクティブモード」になり 戦闘を行っていない時は「リラックスモード」になる。
+sp_ui_off_lib_deets_form_extxt_012	通常はノーマルタイプだが 持たせるメモリの種類によって タイプとすがたが変わる。
+sp_ui_off_lib_deets_form_extxt_013	あかいろのコアのほかに、だいだいいろのコア きいろのコア、みどりいろのコア、みずいろのコア あおいろのコア、むらさきいろのコアの 計7種類が存在する。
+sp_ui_off_lib_deets_form_extxt_014	発明された当時のすがたである 「５００ねんまえのいろ」も存在する。
+sp_ui_off_lib_deets_form_extxt_015	マホミルから進化するときに 持たせているどうぐや時間帯などによって すがたが変わる。
+sp_ui_off_lib_deets_form_extxt_016	物理攻撃を受けると頭の氷が砕け 「ナイスフェイス」になる。
+sp_ui_off_lib_deets_form_extxt_017	４ひきかぞくのほかに、３びきかぞくが存在する。
+sp_ui_off_lib_deets_form_extxt_018	グリーンフェザーのほかに、ブルーフェザー イエローフェザー、ホワイトフェザーの 計4種類が存在する。
+sp_ui_off_lib_deets_form_extxt_019	ふたふしフォルムのほかに みつふしフォルムも存在する。
+sp_ui_off_lib_deets_form_extxt_020	攻撃を受けると、ばけのかわがはがれる。
+sp_ui_off_lib_deets_form_extxt_021	戦闘中に「なみのり」か「ダイビング」をすると 「うのみのすがた」か「まるのみのすがた」になる。
+sp_ui_off_lib_deets_news_notext	動画はありません
+sp_ui_off_lib_deets_caprom_notext	通常のプレイで出会えるソフトはありません
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn_kanji.msbt

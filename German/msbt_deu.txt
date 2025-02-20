@@ -7254,6 +7254,7 @@ sp_api_400_8809	Die Anmeldung mit deinem Nintendo-Account ist fehlgeschlagen.  B
 sp_api_400_8810	Dieser Nintendo-Account wird bereits mit Pokémon HOME verwendet.
 sp_api_400_8813	Wenn du den Premium-Service nutzt, kannst du den Nintendo-Account nicht wechseln.
 sp_api_400_8816	Die Daten wurden bereits auf ein anderes Gerät übertragen. Du kehrst nun zum Titelbildschirm zurück.
+sp_api_400_11700	Ein Verbindungsfehler ist aufgetreten. Bitte kehre zum Titelbildschirm zurück und leere den Cache.
 sp_api_500_9010	Du wurdest auf einem anderen Gerät angemeldet. Du kehrst nun zum Titelbildschirm zurück.
 sp_api_500_9011	Es wurde über längere Zeit keine Eingabe vorgenommen. Du kehrst nun zum Titelbildschirm zurück.
 sp_api_405_9014	Eine neue Version von Pokémon HOME ist verfügbar.  Bitte aktualisiere deine Anwendung.
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	Sonderaktionen
 Text File : sp_country_deu.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	Alle
+sp_country_100	Afrika
+sp_country_200	Amerika
+sp_country_201	Kanada
+sp_country_202	Chile
+sp_country_203	Mexiko
+sp_country_204	Vereinigte Staaten
+sp_country_205	Brasilien
+sp_country_299	Sonstige
+sp_country_300	Asien-Pazifik
+sp_country_301	Australien
+sp_country_302	China
+sp_country_303	Hongkong
+sp_country_304	Japan
+sp_country_305	Korea
+sp_country_306	Malaysia
+sp_country_307	Philippinen
+sp_country_308	Singapur
+sp_country_309	Taiwan
+sp_country_310	Thailand
+sp_country_399	Sonstige
+sp_country_400	Europa
+sp_country_401	Österreich
+sp_country_402	Belgien
+sp_country_403	Frankreich
+sp_country_404	Deutschland
+sp_country_405	Irland
+sp_country_406	Italien
+sp_country_407	Niederlande
+sp_country_408	Portugal
+sp_country_409	Spanien
+sp_country_410	Schweiz
+sp_country_411	Vereinigtes Königreich
+sp_country_412	Dänemark
+sp_country_413	Finnland
+sp_country_414	Norwegen
+sp_country_415	Schweden
+sp_country_499	Sonstige
+sp_country_500	Naher Osten
 sp_country_africa	Afrika
 sp_country_north_america	Nordamerika
 sp_country_canada	Kanada
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	Du hast zum ersten Mal über das GTS Pokémon getauscht. Als B
 sp_mystery_0004_1	Erster Sticker im Stickeralbum!
 sp_mystery_0004_2	Du hast den ersten Sticker in dein Stickeralbum geklebt. Als Belohnung bekommst du ein Pichu geschenkt!
 sp_mystery_0005_1	Nationaler Pokédex vollständig!
-sp_mystery_0005_2	Du hast viele Pokémon registriert und somit den Nationalen Pokédex vervollständigt. Als Belohnung bekommst du ein Magearna geschenkt!
+sp_mystery_0005_2	Du hast viele Pokémon registriert und somit den Nationalen Pokédex von Nr. 0001 bis 0890 vervollständigt. Als Belohnung bekommst du ein Magearna geschenkt!
 sp_mystery_0006_1	Mit Galar verlinkt! (Geschenk ①)
 sp_mystery_0006_2	Du hast Pokémon HOME mit Pokémon Schwert oder Pokémon Schild verlinkt. Als Belohnung bekommst du ein Chimpep geschenkt!
 sp_mystery_0007_1	Mit Galar verlinkt! (Geschenk ②)
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 2!
 sp_mystery_0024_2	Du hast am Online-Turnier „Globale Challenge 2023 II“ im April in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Superball-Leinenrucksack als besonderes Geschenk!
 sp_mystery_0025_1	Besonderes Online-Turnier-Teilnahmegeschenk Nr. 3!
 sp_mystery_0025_2	Du hast am Online-Turnier „Globale Challenge 2023 III“ im Mai in Pokémon Karmesin und Pokémon Purpur teilgenommen! Hier ist ein Hyperball-Leinenrucksack als besonderes Geschenk!
+sp_mystery_0030_1	Pokédex eines Spiels vollständig! ①
+sp_mystery_0030_2	Du hast den Paldea-Pokédex, Kitakami-Pokédex und Blaubeer-Pokédex vervollständigt. Als Belohnung bekommst du ein besonderes Meloetta geschenkt!
+sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
+sp_mystery_0031_2	Herzlichen Glückwunsch zum Geburtstag! Hier ist ein Zwieps als besonderes Geschenk!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	Du entscheidest dich also für [VAR_PKNAME], das [VAR_PKCATEGORY]?
 sp_oak_00019	Alles klar! Wende dich einfach an meinen Kumpel Pokiba, wenn du mehr über die Funktionen von Pokémon HOME erfahren möchtest.
 sp_oak_00020	Pokiba wartet zusammen mit deinem neuen Pokémon in deinem Bereich auf dich!
 sp_oak_00021	Also dann, ich wünsche dir viel Erfolg und Spaß!
+sp_oak_softdic_comp_001_001	Erstklassige Arbeit! Wir sind meinem Traum von einem Pokédex, in dem alle Pokémon dieser Welt verzeichnet sind, wieder ein Stück näher gekommen!
+sp_oak_softdic_comp_001_002	Wenn ich das richtig sehe, hast du damit alle Pokémon aus dem Paldea-Pokédex, dem Kitakami-Pokédex und dem Blaubeer-Pokédex registriert...
+sp_oak_softdic_comp_001_003	Es war eine gute Entscheidung, dir diese Aufgabe anzuvertrauen!
+sp_oak_softdic_comp_001_004	Alles klärchen, dann mal keine Müdigkeit vorschützen! Geh da raus und registriere so viele Pokémon, wie du kannst!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_deu.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	Speichereinstellungen
 sp_option_filter_0017_v4	Welche Sucheinstellungen sollen gespeichert werden?
 sp_option_filter_0018_v4	Pokémon-Boxen
 sp_option_filter_0019_v4	Gespeicherte Sucheinstellungen
+sp_option_filter_0020_v4	Pokémon-Wissen
+sp_option_filter_0021_v4	Die derzeit gespeicherten Sucheinstellungen für das Pokémon-Wissen werden zurückgesetzt. Möchtest du fortfahren?
 sp_option_sort_0001_vgo	Sortierung der Pokémon-Boxen
 sp_option_sort_0002_vgo	Sortierungseinstellungen speichern
 sp_option_sort_0003_vgo	Die derzeit gespeicherten Sortierungseinstellungen deiner Pokémon-Boxen werden zurückgesetzt. Möchtest du fortfahren?
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	Speichereinstellungen
 sp_option_sort_0017_v4	Welche Sortierungseinstellungen sollen gespeichert werden?
 sp_option_sort_0018_v4	Pokémon-Boxen
 sp_option_sort_0019_v4	Gespeicherte Sortierungseinstellungen
+sp_option_sort_0020_v4	Pokémon-Wissen
+sp_option_sort_0021_v4	Die derzeit gespeicherten Sucheinstellungen für das Pokémon-Wissen werden zurückgesetzt. Möchtest du fortfahren?
 sp_option_notice_00001	Mitteilungen erhalten
 sp_option_notice_00005	Sonstiges
 sp_option_notice_00006	Mitteilungen
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	Keine Pokémon gefunden
 sp_ui_waza_library_empty_list	Keine Attacken gefunden
 sp_ui_tokusei_library_empty_list	Keine Fähigkeiten gefunden
 sp_ui_library_no_desc_text	Kein Eintrag in dieser Sprache gefunden
+sp_ui_softlibrary_comp_gift_text	Sieh dir an, was in der Geschenkbox im Geheimgeschenk-Menü von Pokémon HOME auf dich wartet!
 sp_ui_refine	Suchen
 sp_ui_details_settings	Mehr
 sp_ui_keyword_dictionary	Pokémon-Art
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	Punkte
 sp_ui_gift_0013_v1	Unbegrenzt
 sp_ui_gift_0014_v5	Erhalten am [VAR]
 sp_ui_gift_0015_v5	[VAR] Punkt(e)
+sp_ui_gift_nfc_0001	Nahfeld-Kommunikation
+sp_ui_gift_nfc_0002	Bitte halte dein Gerät an einen NFC-Tag.
+sp_ui_gift_nfc_0003	Der Einlesevorgang war erfolgreich. Sieh dir an, was in der Geschenkbox auf dich wartet!
+sp_ui_gift_nfc_0003_01	Der Einlesevorgang war erfolgreich.
+sp_ui_gift_nfc_0004	Der Einlesevorgang ist fehlgeschlagen.
+sp_ui_gift_nfc_0005	Zeitüberschreitung beim Einlesevorgang. Bitte versuche es erneut.
+sp_ui_gift_nfc_0006	Dieser NFC-Tag ist nicht kompatibel.
+sp_ui_gift_nfc_0007	Dieses Geschenk wurde bereits abgeholt.
 sp_ui_gift_01001	Geschenke für diesen Standort
 sp_ui_gift_01002	Erhalte sie aus deiner Geschenkbox!
 sp_ui_gift_01003	Geschenkbox
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	All deine Kontodaten wurden vollständig gelösc
 sp_ui_userdel_error_body_v11	Dein Konto war noch nicht vollständig gelöscht, als du die Anwendung zuletzt geschlossen hast. Der Löschvorgang wird jetzt fortgesetzt.
 sp_ui_gift_confirm_body_nalink_v12	Um die Geheimgeschenke-Funktion nutzen zu können, benötigst du einen verknüpften Nintendo-Account. Jedes Geheimgeschenk kann nur ein Mal über den entsprechenden Nintendo-Account erhalten werden.
 sp_ui_gift_confirm_button_nalink_v12	Ich verstehe
+sp_ui_off_lib_title	Pokémon-Wissen
+sp_ui_off_lib_home_title	Pokémon-Wissen
+sp_ui_off_lib_rom_filter_title	Vorkommen in Spielen
+sp_ui_off_lib_move_filter_title	Relevante Videos
+sp_ui_off_lib_form_filter_title	Formen
+sp_ui_off_lib_move_filter01	Vorhanden
+sp_ui_off_lib_move_filter02	Nichts
+sp_ui_off_lib_form_filter01	Mega-Entwicklung möglich
+sp_ui_off_lib_form_filter02	Gigadynamaximierung möglich
+sp_ui_off_lib_form_filter03	Alola-Form
+sp_ui_off_lib_form_filter04	Galar-Form
+sp_ui_off_lib_form_filter05	Hisui-Form
+sp_ui_off_lib_form_filter06	Paldea-Form
+sp_ui_off_lib_deets_caprom_title	Vorkommen in Spielen
+sp_ui_off_lib_deets_news_title	Relevante Videos
+sp_ui_off_lib_deets_caprom_text	Dieses Pokémon kann im normalen Spielverlauf dieser Spiele angetroffen werden. Einzelheiten dazu findest du unter Hilfe.
+sp_ui_off_lib_deets_evo_title	Entwicklung
+sp_ui_off_lib_deets_evo_notext	Entwickelt sich nicht.
+sp_ui_off_lib_deets_form_title	Formen
+sp_ui_off_lib_deets_form_notext	Weitere Formen sind nicht bekannt.
+sp_ui_off_lib_deets_form_extxt_001	Es existieren 28 verschiedene Formen (A bis Z, ! und ?).
+sp_ui_off_lib_deets_form_extxt_002	Abhängig vom Wetter nimmt es die Sonnenform, Regenform oder Schneeform an.
+sp_ui_off_lib_deets_form_extxt_003	Üblicherweise gehört es dem Typ Normal an, aber abhängig von der Tafel, die man ihm zum Tragen gibt, ändern sich sein Typ und seine Form.
+sp_ui_off_lib_deets_form_extxt_004	Flampivian mit der versteckten Fähigkeit Trance-Modus verfallen in den Trance-Modus, wenn ihre KP im Kampf auf die Hälfte des Maximalwerts oder weniger fallen.
+sp_ui_off_lib_deets_form_extxt_005	Flampivian mit der versteckten Fähigkeit Trance-Modus verfallen in den Trance-Modus, wenn ihre KP im Kampf auf die Hälfte des Maximalwerts oder weniger fallen.
+sp_ui_off_lib_deets_form_extxt_006	Je nach Form unterscheiden sich Muster und Farbe seiner Flügel. Bisher wurden insgesamt 20 verschiedene Formen entdeckt.
+sp_ui_off_lib_deets_form_extxt_007	Seine Formen unterscheiden sich in der Farbe ihrer Blumen. Bisher wurden fünf verschiedene Farben entdeckt: Rot, Gelb, Orange, Blau und Weiß.
+sp_ui_off_lib_deets_form_extxt_008	Seine Formen unterscheiden sich in der Farbe ihrer Blumen. Bisher wurden fünf verschiedene Farben entdeckt: Rot, Gelb, Orange, Blau und Weiß.
+sp_ui_off_lib_deets_form_extxt_009	Seine Formen unterscheiden sich in der Farbe ihrer Blumen. Bisher wurden fünf verschiedene Farben entdeckt: Rot, Gelb, Orange, Blau und Weiß.
+sp_ui_off_lib_deets_form_extxt_010	Neben der Zottelform existieren neun Schnitte, zu denen sein Fell frisiert werden kann.
+sp_ui_off_lib_deets_form_extxt_011	Im Kampf wechselt es in den Aktiv-Modus, während es außerhalb des Kampfes im Ruhe-Modus verbleibt.
+sp_ui_off_lib_deets_form_extxt_012	Üblicherweise gehört es dem Typ Normal an, aber abhängig von der Disc, die man ihm zum Tragen gibt, ändern sich sein Typ und seine Form.
+sp_ui_off_lib_deets_form_extxt_013	Es kann in einer von sieben Kernfarben auftreten: Roter Kern, Oranger Kern, Gelber Kern, Grüner Kern, Hellblauer Kern, Blauer Kern und Violetter Kern.
+sp_ui_off_lib_deets_form_extxt_014	Magearna kann auch in seiner Originalfarbe auftreten, welche die ursprüngliche Form aus der Zeit seiner Erschaffung vor 500 Jahren darstellt.
+sp_ui_off_lib_deets_form_extxt_015	Wenn ein Hokumil sich entwickelt, haben Zeitpunkt, getragene Items und andere Faktoren einen Einfluss auf die Form, die Pokusan schließlich annimmt.
+sp_ui_off_lib_deets_form_extxt_016	Wenn Kubuin von einem physischen Angriff getroffen wird, zerbricht der Eisblock um seinen Kopf und es nimmt die Wohlfühlkopf-Form an.
+sp_ui_off_lib_deets_form_extxt_017	Es kann nicht nur in der Viererfamilie-Form, sondern auch in der Dreierfamilie-Form auftreten.
+sp_ui_off_lib_deets_form_extxt_018	Insgesamt existierten vier verschiedene Formen von Krawalloro: Grüngefiedert, Blaugefiedert, Gelbgefiedert und Weißgefiedert.
+sp_ui_off_lib_deets_form_extxt_019	Es kann nicht nur in der Zweisegmentform, sondern auch in der Dreisegmentform auftreten.
+sp_ui_off_lib_deets_form_extxt_020	Wenn es von einem Angriff getroffen wird, verliert es sein aus Lumpen gefertigtes Kostüm.
+sp_ui_off_lib_deets_form_extxt_021	Wenn es im Kampf Surfer oder Taucher einsetzt, nimmt es die Schlingform oder die Stopfform an.
+sp_ui_off_lib_deets_news_notext	Keine Videos verfügbar.
+sp_ui_off_lib_deets_caprom_notext	Dieses Pokémon kann nicht im normalen Spielverlauf von Spielen angetroffen werden.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

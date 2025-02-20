@@ -7254,6 +7254,7 @@ sp_api_400_8809	Accesso all'account Nintendo non riuscito. Controlla le domande 
 sp_api_400_8810	Questo account Nintendo è già collegato a Pokémon HOME.
 sp_api_400_8813	Non è possibile cambiare l'account Nintendo se hai un servizio premium.
 sp_api_400_8816	Il trasferimento dei dati su un altro dispositivo mobile è terminato. Tornerai allo schermo del titolo.
+sp_api_400_11700	Si è verificato un errore di comunicazione. Vai al menu nello schermo del titolo e svuota la cache.
 sp_api_500_9010	È stato effettuato l'accesso da un altro dispositivo. Tornerai allo schermo del titolo.
 sp_api_500_9011	Non è stata eseguita alcuna operazione per un po' di tempo. Tornerai allo schermo del titolo.
 sp_api_405_9014	È disponibile una nuova versione di Pokémon HOME. Effettua l'aggiornamento dell'app.
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	Offerte
 Text File : sp_country_ita.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	Tutti
+sp_country_100	Africa
+sp_country_200	America
+sp_country_201	Canada
+sp_country_202	Cile
+sp_country_203	Messico
+sp_country_204	Stati Uniti d'America
+sp_country_205	Brasile
+sp_country_299	Altro
+sp_country_300	Asia e Oceania
+sp_country_301	Australia
+sp_country_302	Cina
+sp_country_303	Hong Kong
+sp_country_304	Giappone
+sp_country_305	Corea
+sp_country_306	Malesia
+sp_country_307	Filippine
+sp_country_308	Singapore
+sp_country_309	Taiwan
+sp_country_310	Thailandia
+sp_country_399	Altro
+sp_country_400	Europa
+sp_country_401	Austria
+sp_country_402	Belgio
+sp_country_403	Francia
+sp_country_404	Germania
+sp_country_405	Irlanda
+sp_country_406	Italia
+sp_country_407	Paesi Bassi
+sp_country_408	Portogallo
+sp_country_409	Spagna
+sp_country_410	Svizzera
+sp_country_411	Regno Unito
+sp_country_412	Danimarca
+sp_country_413	Finlandia
+sp_country_414	Norvegia
+sp_country_415	Svezia
+sp_country_499	Altro
+sp_country_500	Medio Oriente
 sp_country_africa	Africa
 sp_country_north_america	America del Nord
 sp_country_canada	Canada
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	Per festeggiare il tuo primo scambio tramite GTS, vogliamo reg
 sp_mystery_0004_1	Hai personalizzato la copertina!
 sp_mystery_0004_2	Hai attaccato il primo adesivo sulla copertina! Per festeggiare, vogliamo regalarti un Pichu!
 sp_mystery_0005_1	Pokédex Nazionale completato!
-sp_mystery_0005_2	Hai completato il Pokédex Nazionale! Per festeggiare, vogliamo regalarti un Magearna!
+sp_mystery_0005_2	Hai registrato tutti i Pokémon dal 1º all'890º nel Pokédex Nazionale! Per festeggiare, vogliamo regalarti un Magearna!
 sp_mystery_0006_1	Benvenuti a Galar: regalo nº 1!
 sp_mystery_0006_2	Hai collegato Pokémon Spada o Pokémon Scudo a Pokémon HOME! Per festeggiare, vogliamo regalarti un Grookey!
 sp_mystery_0007_1	Benvenuti a Galar: regalo nº 2!
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	Sfida speciale a Paldea: regalo nº 2!
 sp_mystery_0024_2	Hai partecipato alla Sfida globale II (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi ad aprile 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Mega Ball!
 sp_mystery_0025_1	Sfida speciale a Paldea: regalo nº 3!
 sp_mystery_0025_2	Hai partecipato alla Sfida globale III (2023) di Pokémon Scarlatto e Pokémon Violetto tenutasi a maggio 2023. Per festeggiare, vogliamo regalarti uno Zaino di tela color Ultra Ball!
+sp_mystery_0030_1	Pokédex di un gioco completato! ①
+sp_mystery_0030_2	Hai completato il Pokédex di Paldea, il Pokédex di Nordivia e il Pokédex Mirtillo! Per festeggiare, vogliamo regalarti un Meloetta speciale!
+sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
+sp_mystery_0031_2	Buon compleanno! Per festeggiare, vogliamo regalarti un Tandemaus!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	Hai scelto [VAR_PKNAME], il [VAR_PKCATEGORY]. Procediamo?
 sp_oak_00019	Ottimo! Credo di averti detto tutto! Per i dettagli sulle funzioni di Pokémon HOME, ti lascio nelle mani di Poké-B!
 sp_oak_00020	Ti aspetta nella tua Home assieme al tuo nuovo Pokémon!
 sp_oak_00021	È tutto da parte mia! Ti auguro una maxifortuna, e buon divertimento!
+sp_oak_softdic_comp_001_001	Bene bene, sono sempre più vicino a realizzare il mio sogno di registrare nel Pokédex tutti i Pokémon esistenti!
+sp_oak_softdic_comp_001_002	A quanto pare hai registrato tutti i Pokémon del Pokédex di Paldea, del Pokédex di Nordivia e del Pokédex Mirtillo!
+sp_oak_softdic_comp_001_003	Ho fatto proprio bene a rivolgermi a te!
+sp_oak_softdic_comp_001_004	Bene bene, spero di poter contare sul tuo aiuto anche in futuro!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_ita.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	Impostazioni
 sp_option_filter_0017_v4	Per quale elemento vuoi salvare i criteri di ricerca?
 sp_option_filter_0018_v4	Box Pokémon
 sp_option_filter_0019_v4	Salvataggio dei criteri di ricerca
+sp_option_filter_0020_v4	Dossier Pokémon
+sp_option_filter_0021_v4	I criteri di ricerca nel Dossier Pokémon verranno ripristinati. Vuoi continuare?
 sp_option_sort_0001_vgo	Organizzazione dei Box Pokémon
 sp_option_sort_0002_vgo	Ricorda i criteri di organizzazione
 sp_option_sort_0003_vgo	I criteri di organizzazione nei Box Pokémon verranno ripristinati. Vuoi continuare?
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	Impostazioni
 sp_option_sort_0017_v4	Per quale elemento vuoi salvare i criteri di organizzazione?
 sp_option_sort_0018_v4	Box Pokémon
 sp_option_sort_0019_v4	Salvataggio dei criteri di organizzazione
+sp_option_sort_0020_v4	Dossier Pokémon
+sp_option_sort_0021_v4	I criteri di organizzazione nel Dossier Pokémon verranno ripristinati. Vuoi continuare?
 sp_option_notice_00001	Ricevi notifiche
 sp_option_notice_00005	Altro
 sp_option_notice_00006	Notifiche
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	La lista è vuota.
 sp_ui_waza_library_empty_list	La lista è vuota.
 sp_ui_tokusei_library_empty_list	La lista è vuota.
 sp_ui_library_no_desc_text	Testo non presente in questa lingua.
+sp_ui_softlibrary_comp_gift_text	Controlla il box regali, a cui puoi accedere dal menu "Dono Segreto" di Pokémon HOME!
 sp_ui_refine	Ricerca
 sp_ui_details_settings	Opzioni avanzate
 sp_ui_keyword_dictionary	Nome del Pokémon
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	Punti
 sp_ui_gift_0013_v1	illimitata
 sp_ui_gift_0014_v5	Ricevuto in data [VAR]
 sp_ui_gift_0015_v5	[VAR] punt [CHECK_PLURAL]oi
+sp_ui_gift_nfc_0001	Lettura NFC
+sp_ui_gift_nfc_0002	Avvicina il dispositivo al tag NFC.
+sp_ui_gift_nfc_0003	Lettura riuscita! Controlla il box regali.
+sp_ui_gift_nfc_0003_01	Lettura riuscita!
+sp_ui_gift_nfc_0004	Lettura non riuscita.
+sp_ui_gift_nfc_0005	Errore di timeout. Riprova.
+sp_ui_gift_nfc_0006	Tag NFC non compatibile.
+sp_ui_gift_nfc_0007	Questo regalo è già stato ricevuto.
 sp_ui_gift_01001	Doni che puoi ricevere in questa zona
 sp_ui_gift_01002	Controlla il tuo box regali!
 sp_ui_gift_01003	Box regali
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	Tutti i dati del tuo account sono stati completa
 sp_ui_userdel_error_body_v11	Il tuo account non è stato eliminato completamente l'ultima volta che hai chiuso l'applicazione. Il processo di eliminazione riprenderà adesso.
 sp_ui_gift_confirm_body_nalink_v12	Per utilizzare la funzione Dono Segreto, devi collegare il tuo account Nintendo. Ogni Dono Segreto può essere ricevuto solo una volta per account Nintendo.
 sp_ui_gift_confirm_button_nalink_v12	Ho capito
+sp_ui_off_lib_title	Dossier Pokémon
+sp_ui_off_lib_home_title	Dossier Pokémon
+sp_ui_off_lib_rom_filter_title	Gioco in cui appare
+sp_ui_off_lib_move_filter_title	Video correlati
+sp_ui_off_lib_form_filter_title	Forma
+sp_ui_off_lib_move_filter01	Presenti
+sp_ui_off_lib_move_filter02	Nessuno
+sp_ui_off_lib_form_filter01	Megaevoluzione
+sp_ui_off_lib_form_filter02	Gigamax
+sp_ui_off_lib_form_filter03	Forma di Alola
+sp_ui_off_lib_form_filter04	Forma di Galar
+sp_ui_off_lib_form_filter05	Forma di Hisui
+sp_ui_off_lib_form_filter06	Forma di Paldea
+sp_ui_off_lib_deets_caprom_title	Giochi in cui appare
+sp_ui_off_lib_deets_news_title	Video correlati
+sp_ui_off_lib_deets_caprom_text	Giochi in cui si può incontrare nel corso dell'avventura. Per saperne di più, controlla il menu "Aiuto".
+sp_ui_off_lib_deets_evo_title	Evoluzione
+sp_ui_off_lib_deets_evo_notext	Non si evolve
+sp_ui_off_lib_deets_form_title	Forma
+sp_ui_off_lib_deets_form_notext	Non si conoscono altre forme.
+sp_ui_off_lib_deets_form_extxt_001	Ne esistono in tutto 28 tipi (dalla "A" alla "Z", più "!" e "?").
+sp_ui_off_lib_deets_form_extxt_002	A seconda delle condizioni atmosferiche, assume la Forma Sole, la Forma Pioggia o la Forma Nuvola di Neve.
+sp_ui_off_lib_deets_form_extxt_003	Solitamente è di tipo Normale, ma cambia tipo e forma a seconda della lastra che gli viene data.
+sp_ui_off_lib_deets_form_extxt_004	I Darmanitan con l'abilità speciale Stato Zen entrano nello Stato Zen quando i loro PS scendono fino a metà o meno durante la lotta.
+sp_ui_off_lib_deets_form_extxt_005	I Darmanitan con l'abilità speciale Stato Zen entrano nello Stato Zen quando i loro PS scendono fino a metà o meno durante la lotta.
+sp_ui_off_lib_deets_form_extxt_006	Ne esistono diverse varietà che si distinguono per colore e motivo delle ali. Attualmente se ne conoscono 20.
+sp_ui_off_lib_deets_form_extxt_007	Ne esistono diverse varietà che si distinguono per la tinta del fiore. Il fiore può essere di cinque colori diversi: rosso, giallo, arancione, blu e bianco.
+sp_ui_off_lib_deets_form_extxt_008	Ne esistono diverse varietà che si distinguono per la tinta del fiore. Il fiore può essere di cinque colori diversi: rosso, giallo, arancione, blu e bianco.
+sp_ui_off_lib_deets_form_extxt_009	Ne esistono diverse varietà che si distinguono per la tinta del fiore. Il fiore può essere di cinque colori diversi: rosso, giallo, arancione, blu e bianco.
+sp_ui_off_lib_deets_form_extxt_010	Oltre alla Forma Selvatica, ne esistono altre nove che si distinguono per la toelettatura.
+sp_ui_off_lib_deets_form_extxt_011	Durante le lotta assume il Modo Attivo, mentre nel resto del tempo torna nel Modo Relax.
+sp_ui_off_lib_deets_form_extxt_012	Solitamente è di tipo Normale, ma cambia tipo e forma a seconda della ROM che gli viene data.
+sp_ui_off_lib_deets_form_extxt_013	In totale ne esistono sette forme: Nucleo Rosso, Nucleo Arancione, Nucleo Giallo, Nucleo Verde, Nucleo Azzurro, Nucleo Indaco e Nucleo Violetto.
+sp_ui_off_lib_deets_form_extxt_014	La sua forma Colore Antico risale all'epoca in cui è stato inventato.
+sp_ui_off_lib_deets_form_extxt_015	La forma cambia in base all'ora del giorno in cui si evolve da Milcery, lo strumento che ha con sé in quel momento, e altri fattori.
+sp_ui_off_lib_deets_form_extxt_016	Quando viene colpito da una mossa fisica, il ghiaccio attorno alla testa si scioglie e il Pokémon assume la forma Liquefaccia.
+sp_ui_off_lib_deets_form_extxt_017	Oltre alla forma Quadrifamiglia esiste quella Trifamiglia.
+sp_ui_off_lib_deets_form_extxt_018	In totale ne esistono quattro: oltre alla forma Piume Verdi, c'è quella Piume Azzurre, quella Piume Gialle e quella Piume Bianche.
+sp_ui_off_lib_deets_form_extxt_019	Oltre alla Forma Bimetamero, c'è la Forma Trimetamero.
+sp_ui_off_lib_deets_form_extxt_020	Quando subisce un attacco, viene smascherato.
+sp_ui_off_lib_deets_form_extxt_021	Se usa la mossa Surf o Sub durante la lotta, assume la Forma Inghiottitutto o la Forma Inghiottintero.
+sp_ui_off_lib_deets_news_notext	Non ci sono video.
+sp_ui_off_lib_deets_caprom_notext	Non si può incontrare in alcun gioco nel corso dell'avventura.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt

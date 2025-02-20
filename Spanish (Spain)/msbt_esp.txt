@@ -7254,6 +7254,7 @@ sp_api_400_8809	No se ha podido iniciar sesión con tu cuenta Nintendo. Consulta
 sp_api_400_8810	Pokémon HOME ya se está utilizando con esta cuenta Nintendo.
 sp_api_400_8813	No puedes cambiar la cuenta Nintendo si tienes el plan prémium.
 sp_api_400_8816	Ya has transferido los datos a un dispositivo móvil nuevo. Regresarás a la pantalla del título.
+sp_api_400_11700	Se ha producido un error de comunicación. Regresa al menú de la pantalla del título y borra la caché.
 sp_api_500_9010	Has iniciado sesión en otro dispositivo. Regresarás a la pantalla del título.
 sp_api_500_9011	Se ha detectado un largo período de inactividad. Regresarás a la pantalla del título.
 sp_api_405_9014	Hay una nueva versión de Pokémon HOME disponible. Actualiza la aplicación.
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	Promociones
 Text File : sp_country_esp.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	Todos
+sp_country_100	África
+sp_country_200	América
+sp_country_201	Canadá
+sp_country_202	Chile
+sp_country_203	México
+sp_country_204	Estados Unidos
+sp_country_205	Brasil
+sp_country_299	Otros
+sp_country_300	Asia-Pacífico
+sp_country_301	Australia
+sp_country_302	China
+sp_country_303	Hong Kong
+sp_country_304	Japón
+sp_country_305	Corea
+sp_country_306	Malasia
+sp_country_307	Filipinas
+sp_country_308	Singapur
+sp_country_309	Taiwán
+sp_country_310	Tailandia
+sp_country_399	Otros
+sp_country_400	Europa
+sp_country_401	Austria
+sp_country_402	Bélgica
+sp_country_403	Francia
+sp_country_404	Alemania
+sp_country_405	Irlanda
+sp_country_406	Italia
+sp_country_407	Holanda
+sp_country_408	Portugal
+sp_country_409	España
+sp_country_410	Suiza
+sp_country_411	Reino Unido
+sp_country_412	Dinamarca
+sp_country_413	Finlandia
+sp_country_414	Noruega
+sp_country_415	Suecia
+sp_country_499	Otros
+sp_country_500	Oriente Medio
 sp_country_africa	África
 sp_country_north_america	Norteamérica
 sp_country_canada	Canadá
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	Para celebrar tu primer intercambio en el GTS, ¡te regalamos 
 sp_mystery_0004_1	¡Portada personalizada!
 sp_mystery_0004_2	Para celebrar que has puesto la primera pegatina en tu portada, ¡te regalamos este Pichu!
 sp_mystery_0005_1	¡Pokédex Nacional completada!
-sp_mystery_0005_2	Para celebrar que has registrado tantísimos Pokémon y que has completado la Pokédex Nacional, ¡te regalamos este Magearna!
+sp_mystery_0005_2	Para celebrar que has registrado tantísimos Pokémon y que has completado de la entrada 1 a la 890 de la Pokédex Nacional, ¡te regalamos este Magearna!
 sp_mystery_0006_1	¡Conexión con Galar n.º 1!
 sp_mystery_0006_2	Para celebrar que has conectado Pokémon Espada o Pokémon Escudo con Pokémon HOME, ¡te regalamos este Grookey!
 sp_mystery_0007_1	¡Conexión con Galar n.º 2!
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	Regalo por participar en un torneo oficial n.º 2
 sp_mystery_0024_2	Te regalamos esta Mochila de lona con diseño de Super Ball por tu participación en el Desafío Global II de 2023 celebrado en abril de 2023 en Pokémon Escarlata y Pokémon Púrpura.
 sp_mystery_0025_1	Regalo por participar en un torneo oficial n.º 3
 sp_mystery_0025_2	Te regalamos esta Mochila de lona con diseño de Ultra Ball por tu participación en el Desafío Global III de 2023 celebrado en mayo de 2023 en Pokémon Escarlata y Pokémon Púrpura.
+sp_mystery_0030_1	¡Has completado la Pokédex de un juego! ①
+sp_mystery_0030_2	¡Has completado la Pokédex de Paldea, la Pokédex de Noroteo y la Pokédex Arándano! ¡Te regalamos un Meloetta especial para celebrarlo!
+sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
+sp_mystery_0031_2	¡Feliz cumpleaños! ¡Te regalamos un Tandemaus para celebrarlo!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_esp.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	¿Te quedas con [VAR_PKNAME], el [VAR_PKCATEGORY]?
 sp_oak_00019	¡Muy bien! Ah, y si quieres saber algo más acerca de las funciones de Pokémon HOME, pregúntale a Pobolín.
 sp_oak_00020	Te está esperando en tu rincón personal con tu nuevo Pokémon.
 sp_oak_00021	¡Hala, pues ya está todo dicho! ¡Hasta otra!
+sp_oak_softdic_comp_001_001	¡Fenomenal! ¡Cada vez estoy más cerca de registrar todos los Pokémon y ver cumplido mi sueño!
+sp_oak_softdic_comp_001_002	¡Veo que has registrado todos los Pokémon de la Pokédex de Paldea, la Pokédex de Noroteo y la Pokédex Arándano!
+sp_oak_softdic_comp_001_003	¡Desde luego, pedirte que me ayudaras fue todo un acierto!
+sp_oak_softdic_comp_001_004	¡Perfecto! ¡Espero que sigas haciéndolo igual de bien!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_esp.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	Opciones de guardado
 sp_option_filter_0017_v4	¿Para qué función quieres guardar los filtros de búsqueda?
 sp_option_filter_0018_v4	Cajas de Pokémon
 sp_option_filter_0019_v4	Filtros de búsqueda
+sp_option_filter_0020_v4	Conoce a los Pokémon
+sp_option_filter_0021_v4	Se restablecerán los filtros de búsqueda de la función Conoce a los Pokémon. ¿Quieres continuar?
 sp_option_sort_0001_vgo	Ordenación de las cajas
 sp_option_sort_0002_vgo	Guardar criterios de ordenación
 sp_option_sort_0003_vgo	Se restablecerán los criterios de ordenación de las cajas. ¿Quieres continuar?
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	Opciones de guardado
 sp_option_sort_0017_v4	¿Para qué función quieres guardar los criterios de ordenación?
 sp_option_sort_0018_v4	Cajas de Pokémon
 sp_option_sort_0019_v4	Criterios de ordenación
+sp_option_sort_0020_v4	Conoce a los Pokémon
+sp_option_sort_0021_v4	Se restablecerán los criterios de ordenación de la función Conoce a los Pokémon. ¿Quieres continuar?
 sp_option_notice_00001	Recibir notificaciones
 sp_option_notice_00005	Otros
 sp_option_notice_00006	Notificaciones
@@ -8208,7 +8259,7 @@ sp_ui_formcategory02	Variocolor
 sp_ui_formcategory03	Forma de Alola
 sp_ui_formcategory04	Forma de Galar
 sp_ui_formcategory05	Forma de Hisui
-sp_ui_formcategory06	Paldea
+sp_ui_formcategory06	Forma de Paldea
 sp_ui_formcategory99	Todas las formas
 sp_ui_achieve	Logros
 sp_ui_friend	Amigos
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	No hay Pokémon que mostrar.
 sp_ui_waza_library_empty_list	No hay movimientos que mostrar.
 sp_ui_tokusei_library_empty_list	No hay habilidades que mostrar.
 sp_ui_library_no_desc_text	Esta descripción no existe en este idioma.
+sp_ui_softlibrary_comp_gift_text	¡Accede al menú Regalo misterioso de Pokémon HOME y comprueba tu caja de regalos!
 sp_ui_refine	Buscar
 sp_ui_details_settings	Filtros avanzados
 sp_ui_keyword_dictionary	Nombre
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	Puntos
 sp_ui_gift_0013_v1	Indefinido
 sp_ui_gift_0014_v5	Recibido el [VAR]
 sp_ui_gift_0015_v5	[VAR] punto(s)
+sp_ui_gift_nfc_0001	Lectura de etiquetas NFC
+sp_ui_gift_nfc_0002	Acerca el dispositivo a la etiqueta NFC.
+sp_ui_gift_nfc_0003	Se ha efectuado la lectura. Comprueba tu caja de regalos.
+sp_ui_gift_nfc_0003_01	Se ha efectuado la lectura.
+sp_ui_gift_nfc_0004	No se ha podido efectuar la lectura.
+sp_ui_gift_nfc_0005	Ha pasado demasiado tiempo. Inténtalo de nuevo.
+sp_ui_gift_nfc_0006	Esta etiqueta NFC no es válida.
+sp_ui_gift_nfc_0007	Ya has recibido este regalo.
 sp_ui_gift_01001	Regalos disponibles en esta zona
 sp_ui_gift_01002	¡Recíbelos en tu caja de regalos!
 sp_ui_gift_01003	Caja de regalos
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	Los datos de tu cuenta se han borrado por comple
 sp_ui_userdel_error_body_v11	No se terminó de eliminar tu cuenta la última vez que cerraste la aplicación. A continuación se reanudará el proceso de eliminación.
 sp_ui_gift_confirm_body_nalink_v12	Es necesario tener vinculada una cuenta Nintendo para poder usar la función de regalo misterioso. Solo podrás recibir un regalo por cada cuenta Nintendo.
 sp_ui_gift_confirm_button_nalink_v12	Entendido
+sp_ui_off_lib_title	Conoce a los Pokémon
+sp_ui_off_lib_home_title	Conoce a los Pokémon
+sp_ui_off_lib_rom_filter_title	Juegos donde aparece
+sp_ui_off_lib_move_filter_title	Animación
+sp_ui_off_lib_form_filter_title	Forma
+sp_ui_off_lib_move_filter01	Sí
+sp_ui_off_lib_move_filter02	Ninguna
+sp_ui_off_lib_form_filter01	Megaevolución
+sp_ui_off_lib_form_filter02	Gigamax
+sp_ui_off_lib_form_filter03	Forma de Alola
+sp_ui_off_lib_form_filter04	Forma de Galar
+sp_ui_off_lib_form_filter05	Forma de Hisui
+sp_ui_off_lib_form_filter06	Forma de Paldea
+sp_ui_off_lib_deets_caprom_title	Juegos donde aparece
+sp_ui_off_lib_deets_news_title	Animación
+sp_ui_off_lib_deets_caprom_text	Este Pokémon puede encontrarse en el juego durante el transcurso normal de la partida. Consulta el apartado Ayuda para obtener más detalles.
+sp_ui_off_lib_deets_evo_title	Evolución
+sp_ui_off_lib_deets_evo_notext	Sin evolución.
+sp_ui_off_lib_deets_form_title	Formas
+sp_ui_off_lib_deets_form_notext	No se han observado otras formas.
+sp_ui_off_lib_deets_form_extxt_001	Existe un total de 28 formas distintas: de la A a la Z, ! y ?.
+sp_ui_off_lib_deets_form_extxt_002	Cambia entre Forma Sol, Forma Lluvia y Forma Nieve en función de qué tiempo haga.
+sp_ui_off_lib_deets_form_extxt_003	Es de tipo Normal, pero cambia de forma y tipo en función de la tabla que lleve.
+sp_ui_off_lib_deets_form_extxt_004	Si Darmanitan posee la habilidad oculta Modo Daruma y sus PS se reducen a menos de la mitad durante un combate, adoptará la forma Modo Daruma.
+sp_ui_off_lib_deets_form_extxt_005	Si Darmanitan posee la habilidad oculta Modo Daruma y sus PS se reducen a menos de la mitad durante un combate, adoptará la forma Modo Daruma.
+sp_ui_off_lib_deets_form_extxt_006	Los colores y motivos de sus alas varían de un ejemplar a otro. A día de hoy se han observado hasta 20 motivos distintos.
+sp_ui_off_lib_deets_form_extxt_007	El color de la flor varía de un ejemplar a otro. Se han observado cinco colores distintos: rojo, amarillo, naranja, azul y blanco.
+sp_ui_off_lib_deets_form_extxt_008	El color de la flor varía de un ejemplar a otro. Se han observado cinco colores distintos: rojo, amarillo, naranja, azul y blanco.
+sp_ui_off_lib_deets_form_extxt_009	El color de la flor varía de un ejemplar a otro. Se han observado cinco colores distintos: rojo, amarillo, naranja, azul y blanco.
+sp_ui_off_lib_deets_form_extxt_010	Además de la Forma Salvaje, existen otras nueve formas distintas en función de su corte de pelo.
+sp_ui_off_lib_deets_form_extxt_011	Entra en Modo Activo durante el combate y revierte a Modo Relajado cuando deja de combatir.
+sp_ui_off_lib_deets_form_extxt_012	Es de tipo Normal, pero cambia de forma y de tipo en función del disco que lleve.
+sp_ui_off_lib_deets_form_extxt_013	Existen siete formas distintas: Núcleo Rojo, Núcleo Naranja, Núcleo Amarillo, Núcleo Verde, Núcleo Azul, Núcleo Añil y Núcleo Violeta.
+sp_ui_off_lib_deets_form_extxt_014	También existe la forma Color Vetusto, que data de la época en la que fue creado.
+sp_ui_off_lib_deets_form_extxt_015	Su forma depende del objeto que Milcery llevaba equipado y de la hora del día a la que evolucionó, entre otros factores.
+sp_ui_off_lib_deets_form_extxt_016	Cuando le alcanza un ataque físico, el hielo de la cabeza se rompe y adopta la forma Cara Deshielo.
+sp_ui_off_lib_deets_form_extxt_017	Además de la forma Familia de Cuatro, también existe la forma Familia de Tres.
+sp_ui_off_lib_deets_form_extxt_018	Existen cuatro formas distintas: Plumaje Verde, Plumaje Azul, Plumaje Amarillo y Plumaje Blanco.
+sp_ui_off_lib_deets_form_extxt_019	Además de la Forma Binodular, también existe la Forma Trinodular.
+sp_ui_off_lib_deets_form_extxt_020	Al recibir un ataque, se desgarra el saco que usa como disfraz.
+sp_ui_off_lib_deets_form_extxt_021	Si utiliza Surf o Buceo durante un combate, adopta la Forma Tragatodo o la Forma Engulletodo.
+sp_ui_off_lib_deets_news_notext	Sin animación.
+sp_ui_off_lib_deets_caprom_notext	No puede encontrarse en ningún juego durante el transcurso de la partida.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_esp.msbt

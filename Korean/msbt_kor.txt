@@ -7254,6 +7254,7 @@ sp_api_400_8809	닌텐도 어카운트에 로그인하지 못했습니다  닌�
 sp_api_400_8810	이 닌텐도 어카운트는 이미 Pokémon HOME을 이용 중입니다
 sp_api_400_8813	프리미엄 플랜인 경우 닌텐도 어카운트를 변경할 수 없습니다
 sp_api_400_8816	다른 스마트폰에서 데이터를 이어받았습니다 타이틀 화면으로 돌아갑니다
+sp_api_400_11700	통신 에러가 발생했습니다 타이틀 화면의 메뉴에서 캐시를 삭제해 주십시오
 sp_api_500_9010	다른 단말기에서 로그인하여 타이틀 화면으로 돌아갑니다
 sp_api_500_9011	장시간에 걸쳐 조작하지 않아 타이틀 화면으로 돌아갑니다
 sp_api_405_9014	"Pokémon HOME"의 새로운 버전이 공개되었습니다  버전을 업데이트해 주십시오
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	캠페인
 Text File : sp_country_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	전체
+sp_country_100	아프리카
+sp_country_200	아메리카 대륙
+sp_country_201	캐나다
+sp_country_202	칠레
+sp_country_203	멕시코
+sp_country_204	미국
+sp_country_205	브라질
+sp_country_299	기타
+sp_country_300	아시아 태평양
+sp_country_301	오스트레일리아
+sp_country_302	중국
+sp_country_303	홍콩
+sp_country_304	일본
+sp_country_305	대한민국
+sp_country_306	말레이시아
+sp_country_307	필리핀
+sp_country_308	싱가포르
+sp_country_309	대만
+sp_country_310	태국
+sp_country_399	기타
+sp_country_400	유럽
+sp_country_401	오스트리아
+sp_country_402	벨기에
+sp_country_403	프랑스
+sp_country_404	독일
+sp_country_405	아일랜드
+sp_country_406	이탈리아
+sp_country_407	네덜란드
+sp_country_408	포르투갈
+sp_country_409	스페인
+sp_country_410	스위스
+sp_country_411	영국
+sp_country_412	덴마크
+sp_country_413	핀란드
+sp_country_414	노르웨이
+sp_country_415	스웨덴
+sp_country_499	기타
+sp_country_500	중동
 sp_country_africa	아프리카
 sp_country_north_america	북아메리카
 sp_country_canada	캐나다
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	처음으로 GTS에서 포켓몬 교환에 성공했다! 기�
 sp_mystery_0004_1	바인더 작성 기념!
 sp_mystery_0004_2	처음으로 바인더에 씰을 붙였다! 기념으로 피츄를 선물!
 sp_mystery_0005_1	전국도감 완성 기념!
-sp_mystery_0005_2	포켓몬을 많이 등록해서 전국도감을 완성했다! 기념으로 마기아나를 선물!
+sp_mystery_0005_2	포켓몬을 많이 등록해서 전국도감 No.0001~No.0890을 완성했다! 기념으로 마기아나를 선물!
 sp_mystery_0006_1	포켓몬스터소드･실드 연동 기념! ①
 sp_mystery_0006_2	포켓몬스터소드･실드와 Pokémon HOME을 연동했다! 기념으로 흥나숭을 선물!
 sp_mystery_0007_1	포켓몬스터소드･실드 연동 기념! ②
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	포켓몬스터스칼렛・바이올렛 대회 참가 기념! 
 sp_mystery_0024_2	포켓몬스터스칼렛・바이올렛에서 2023년 4월에 개최된 공식 인터넷 대회②에 참가한 기념으로 캔버스 륙색(슈퍼)을 선물!
 sp_mystery_0025_1	포켓몬스터스칼렛・바이올렛 대회 참가 기념! ③
 sp_mystery_0025_2	포켓몬스터스칼렛・바이올렛에서 2023년 5월에 개최된 공식 인터넷 대회③에 참가한 기념으로 캔버스 륙색(하이퍼)을 선물!
+sp_mystery_0030_1	게임도감 완성 기념! ①
+sp_mystery_0030_2	게임도감 "팔데아도감", "북신도감", "블루베리도감"을 완성했다! 기념으로 특별한 메로엣타를 선물!
+sp_mystery_0031_1	포켓몬센터 두근두근 생일 축하
+sp_mystery_0031_2	생일 축하합니다! 기념으로 두리쥐를 선물!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	[VAR_PKCATEGORY] [VAR_PKNAME] 촅로 괜찮겠니?
 sp_oak_00019	오케이! "Pokémon HOME"의 기능에 대한 자세한 설명은 몬보에게 물어보도록 하려무나!
 sp_oak_00020	몬보는 너의 포켓몬과 함께 마이 룸에서 기다리고 있단다!
 sp_oak_00021	오케이! 그럼 앞으로 잘 부탁한다!
+sp_oak_softdic_comp_001_001	오케이! 모든 포켓몬을 도감에 등록하겠다는 나의 꿈에 한 걸음 더 가까워졌군!
+sp_oak_softdic_comp_001_002	"팔데아도감", "북신도감", "블루베리도감"의 모든 포켓몬을 등록해 줬구나!
+sp_oak_softdic_comp_001_003	너에게 부탁하길 정말 잘한 것 같단 말이지!
+sp_oak_softdic_comp_001_004	오케이! 앞으로도 열심히 도감을 등록해 주려무나!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_kor.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	저장 설정
 sp_option_filter_0017_v4	어느 항목의 검색 설정을 저장하겠습니까?
 sp_option_filter_0018_v4	포켓몬 박스
 sp_option_filter_0019_v4	검색 설정 저장
+sp_option_filter_0020_v4	포켓몬 알아보기
+sp_option_filter_0021_v4	현재 저장 중인 포켓몬 알아보기의 검색 설정이 초기화됩니다 괜찮겠습니까?
 sp_option_sort_0001_vgo	포켓몬 박스의 정렬 순서
 sp_option_sort_0002_vgo	정렬 순서를 저장한다
 sp_option_sort_0003_vgo	현재 저장 중인 포켓몬 박스의 정렬 순서 설정이 초기화됩니다 괜찮겠습니까?
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	저장 설정
 sp_option_sort_0017_v4	어느 항목의 정렬 설정을 저장하겠습니까?
 sp_option_sort_0018_v4	포켓몬 박스
 sp_option_sort_0019_v4	정렬 설정 저장
+sp_option_sort_0020_v4	포켓몬 알아보기
+sp_option_sort_0021_v4	현재 저장 중인 포켓몬 알아보기의 정렬 설정이 초기화됩니다 괜찮겠습니까?
 sp_option_notice_00001	알림을 받는다
 sp_option_notice_00005	기타
 sp_option_notice_00006	알림
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	표시할 수 있는 포켓몬이 없습니다
 sp_ui_waza_library_empty_list	표시할 수 있는 기술이 없습니다
 sp_ui_tokusei_library_empty_list	표시할 수 있는 특성이 없습니다
 sp_ui_library_no_desc_text	이 언어로 된 설명문은 존재하지 않습니다
+sp_ui_softlibrary_comp_gift_text	"Pokémon HOME" 이상한 소포의 선물 박스를 확인하자!
 sp_ui_refine	검색
 sp_ui_details_settings	상세 설정
 sp_ui_keyword_dictionary	포켓몬 이름
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	포인트
 sp_ui_gift_0013_v1	없음
 sp_ui_gift_0014_v5	이미 받음: [VAR]
 sp_ui_gift_0015_v5	[VAR]포인트
+sp_ui_gift_nfc_0001	NFC 스캔
+sp_ui_gift_nfc_0002	NFC 태그를 스캔해 주십시오
+sp_ui_gift_nfc_0003	스캔에 성공했습니다! 선물 박스를 확인해 주십시오
+sp_ui_gift_nfc_0003_01	스캔에 성공했습니다!
+sp_ui_gift_nfc_0004	스캔하지 못했습니다
+sp_ui_gift_nfc_0005	스캔 시간을 초과했습니다 다시 한번 시도해 주십시오
+sp_ui_gift_nfc_0006	대응하지 않는 NFC 태그입니다
+sp_ui_gift_nfc_0007	이미 받은 선물입니다
 sp_ui_gift_01001	이 에리어에서 받을 수 있는 것
 sp_ui_gift_01002	선물 박스에서 받아주세요!
 sp_ui_gift_01003	선물 박스
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	어카운트의 데이터를 완전히 삭제했
 sp_ui_userdel_error_body_v11	지난번에 앱을 종료했을 때 어카운트 삭제가 완료되지 않았습니다. 계속해서 어카운트 삭제를 진행합니다.
 sp_ui_gift_confirm_body_nalink_v12	"이상한 소포"를 이용하려면 닌텐도 어카운트와 연동 중이어야 합니다. "이상한 소포"의 각 선물은 하나의 닌텐도 어카운트에서 한 번만 받을 수 있습니다.
 sp_ui_gift_confirm_button_nalink_v12	확인했습니다
+sp_ui_off_lib_title	포켓몬 알아보기
+sp_ui_off_lib_home_title	포켓몬 알아보기
+sp_ui_off_lib_rom_filter_title	출현 소프트웨어
+sp_ui_off_lib_move_filter_title	관련 동영상
+sp_ui_off_lib_form_filter_title	모습
+sp_ui_off_lib_move_filter01	있음
+sp_ui_off_lib_move_filter02	없음
+sp_ui_off_lib_form_filter01	메가진화
+sp_ui_off_lib_form_filter02	거다이맥스
+sp_ui_off_lib_form_filter03	알로라의 모습
+sp_ui_off_lib_form_filter04	가라르의 모습
+sp_ui_off_lib_form_filter05	히스이의 모습
+sp_ui_off_lib_form_filter06	팔데아의 모습
+sp_ui_off_lib_deets_caprom_title	출현 소프트웨어
+sp_ui_off_lib_deets_news_title	관련 동영상
+sp_ui_off_lib_deets_caprom_text	일반적인 플레이로 이 포켓몬이 출현하는 소프트웨어입니다. 자세한 내용은 도움말을 확인해 주십시오.
+sp_ui_off_lib_deets_evo_title	진화
+sp_ui_off_lib_deets_evo_notext	진화하지 않습니다
+sp_ui_off_lib_deets_form_title	모습
+sp_ui_off_lib_deets_form_notext	다른 모습은 확인되지 않았습니다
+sp_ui_off_lib_deets_form_extxt_001	총 28종류(A~Z, !, ?)의 모습이 존재한다.
+sp_ui_off_lib_deets_form_extxt_002	날씨에 따라 "태양의 모습", "빗방울의 모습", "설운의 모습"으로 변한다.
+sp_ui_off_lib_deets_form_extxt_003	평소에는 노말타입이나 지니게 한 플레이트의 종류에 따라 타입과 모습이 바뀐다.
+sp_ui_off_lib_deets_form_extxt_004	"숨겨진 특성: 달마모드"를 가진 불비달마는 배틀 중 HP가 절반 이하가 되면 [달마모드]가 된다.
+sp_ui_off_lib_deets_form_extxt_005	"숨겨진 특성: 달마모드"를 가진 불비달마는 배틀 중 HP가 절반 이하가 되면 [달마모드]가 된다.
+sp_ui_off_lib_deets_form_extxt_006	날개의 무늬와 색상이 다른 종류가 존재한다. 현재까지 20종류가 확인되었다.
+sp_ui_off_lib_deets_form_extxt_007	꽃의 색이 다른 종류가 존재한다. 꽃의 색은 5종류가 있다. (빨강, 노랑, 오렌지, 파랑, 하양)
+sp_ui_off_lib_deets_form_extxt_008	꽃의 색이 다른 종류가 존재한다. 꽃의 색은 5종류가 있다. (빨강, 노랑, 오렌지, 파랑, 하양)
+sp_ui_off_lib_deets_form_extxt_009	꽃의 색이 다른 종류가 존재한다. 꽃의 색은 5종류가 있다. (빨강, 노랑, 오렌지, 파랑, 하양)
+sp_ui_off_lib_deets_form_extxt_010	야생의 모습 외에 9종류의 다른 모습으로 트리밍할 수 있다.
+sp_ui_off_lib_deets_form_extxt_011	배틀 중에는 "액티브모드"가 되고 배틀 중이지 않을 때는 "릴랙스모드"가 된다.
+sp_ui_off_lib_deets_form_extxt_012	평소에는 노말타입이나 지니게 한 메모리의 종류에 따라 타입과 모습이 바뀐다.
+sp_ui_off_lib_deets_form_extxt_013	빨간색 코어와 주황색 코어, 노란색 코어, 초록색 코어, 옥색 코어, 파란색 코어, 보라색 코어, 총 7종류가 존재한다.
+sp_ui_off_lib_deets_form_extxt_014	발명된 당시의 모습인 "500년 전의 색"도 존재한다.
+sp_ui_off_lib_deets_form_extxt_015	마빌크에서 진화할 때 지니게 한 도구나 시간대 등에 따라 모습이 달라진다.
+sp_ui_off_lib_deets_form_extxt_016	물리공격을 받아 머리의 얼음이 부서지면 "나이스페이스"가 된다.
+sp_ui_off_lib_deets_form_extxt_017	네 식구와 세 식구가 존재한다.
+sp_ui_off_lib_deets_form_extxt_018	그린 페더와 블루 페더, 옐로 페더, 화이트 페더, 총 4종류가 존재한다.
+sp_ui_off_lib_deets_form_extxt_019	두 마디폼과 세 마디폼이 존재한다.
+sp_ui_off_lib_deets_form_extxt_020	공격을 받으면 정체가 드러난다.
+sp_ui_off_lib_deets_form_extxt_021	배틀 중에 "파도타기" 또는 "다이빙"을 사용하면 "그대로 삼킨 모습" 또는 "통째로 삼킨 모습"이 된다.
+sp_ui_off_lib_deets_news_notext	관련 동영상이 없습니다
+sp_ui_off_lib_deets_caprom_notext	일반적인 플레이로 출현하는 소프트웨어가 없습니다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

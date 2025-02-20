@@ -7254,6 +7254,7 @@ sp_api_400_8809	Impossible de se connecter en utilisant ce compte Nintendo.  Veu
 sp_api_400_8810	Pokémon HOME est déjà utilisé avec ce compte Nintendo.
 sp_api_400_8813	Vous ne pouvez pas changer de compte Nintendo si vous possédez un compte premium.
 sp_api_400_8816	Vous avez déjà transféré vos données vers un nouvel appareil. Retour à l'écran titre.
+sp_api_400_11700	Une erreur de communication est survenue. Veuillez vider le cache depuis le menu de l'écran titre.
 sp_api_500_9010	Vous êtes déjà connecté sur un autre appareil. Retour à l'écran titre.
 sp_api_500_9011	Votre session a expiré. Retour à l'écran titre.
 sp_api_405_9014	Une nouvelle version de Pokémon HOME est disponible.  Veuillez mettre l'application à jour.
@@ -7336,6 +7337,44 @@ sp_contentinfo_category_09	Promotions spéciales
 Text File : sp_country_fra.msbt
 ~~~~~~~~~~~~~~~
 sp_country_000	Tous
+sp_country_100	Afrique
+sp_country_200	Amérique
+sp_country_201	Canada
+sp_country_202	Chili
+sp_country_203	Mexique
+sp_country_204	États-Unis
+sp_country_205	Brésil
+sp_country_299	Autre
+sp_country_300	Asie-Pacifique
+sp_country_301	Australie
+sp_country_302	Chine
+sp_country_303	Hong Kong
+sp_country_304	Japon
+sp_country_305	Corée du Sud
+sp_country_306	Malaisie
+sp_country_307	Philippines
+sp_country_308	Singapour
+sp_country_309	Taïwan
+sp_country_310	Thaïlande
+sp_country_399	Autre
+sp_country_400	Europe
+sp_country_401	Autriche
+sp_country_402	Belgique
+sp_country_403	France
+sp_country_404	Allemagne
+sp_country_405	Irlande
+sp_country_406	Italie
+sp_country_407	Pays-Bas
+sp_country_408	Portugal
+sp_country_409	Espagne
+sp_country_410	Suisse
+sp_country_411	Royaume-Uni
+sp_country_412	Danemark
+sp_country_413	Finlande
+sp_country_414	Norvège
+sp_country_415	Suède
+sp_country_499	Autre
+sp_country_500	Moyen-Orient
 sp_country_africa	Afrique
 sp_country_north_america	Amérique du Nord
 sp_country_canada	Canada
@@ -7566,7 +7605,7 @@ sp_mystery_0003_2	Pour fêter votre premier échange de Pokémon sur le GTS, nou
 sp_mystery_0004_1	Page perso décorée !
 sp_mystery_0004_2	Pour célébrer l'utilisation de votre premier autocollant sur votre page perso, nous vous offrons un Pichu !
 sp_mystery_0005_1	Pokémon national complété !
-sp_mystery_0005_2	Pour célébrer l'enregistrement de tant de Pokémon dans votre Pokédex national, nous vous offrons Magearna !
+sp_mystery_0005_2	Pour vous féliciter d'avoir enregistré tous les Pokémon des entrées comprises entre le Nº 0001 au Nº 0890 dans le Pokédex national, nous vous offrons un Magearna !
 sp_mystery_0006_1	Un cadeau venu de Galar ! ①
 sp_mystery_0006_2	Pour fêter la synchronisation de Pokémon Épée ou Pokémon Bouclier avec Pokémon HOME, nous vous offrons Ouistempo !
 sp_mystery_0007_1	Un cadeau venu de Galar ! ②
@@ -7607,6 +7646,10 @@ sp_mystery_0024_1	Récompense spéciale de compétition nº 2
 sp_mystery_0024_2	Vous avez pris part au « Défi Mondial II (2023) », une compétition Internet organisée en avril 2023 dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Super Ball en guise de récompense spéciale !
 sp_mystery_0025_1	Récompense spéciale de compétition nº 3
 sp_mystery_0025_2	Vous avez pris part au « Défi Mondial III (2023) », une compétition Internet organisée en mai 2023 dans Pokémon Écarlate et Pokémon Violet ! Voici donc un Sac à dos en toile Hyper Ball en guise de récompense spéciale !
+sp_mystery_0030_1	Félicitations ! Vous avez complété les Pokédex d'un jeu ! ①
+sp_mystery_0030_2	Vous avez complété le Pokédex de Paldea, le Pokédex de Septentria et le Pokédex Myrtille ! En récompense, nous vous offrons un Meloetta spécial !
+sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
+sp_mystery_0031_2	Nous vous souhaitons un très joyeux anniversaire ! Pour célébrer cette journée avec vous, nous vous offrons un Compagnol !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt
@@ -7632,6 +7675,10 @@ sp_oak_00018	Tu veux [VAR_PKNAME], le [VAR_PKCATEGORY] ?
 sp_oak_00019	Et voilà ! Si tu as des questions sur Pokémon HOME, je te laisse t'adresser à l'ami Boball !
 sp_oak_00020	Il t'attend dans le menu « Accueil » avec ton Pokémon.
 sp_oak_00021	Sur ce, je te laisse. Je compte sur toi pour collectionner tout plein de Pokémon !
+sp_oak_softdic_comp_001_001	C'est trop sensass ! Mon rêve d'avoir les entrées Pokédex de tous les Pokémon semble encore un peu plus à portée de main !
+sp_oak_softdic_comp_001_002	Tu as enregistré tous les Pokémon des Pokédex de Paldea, de Septentria et de l'Institut Myrtille, pas vrai ?
+sp_oak_softdic_comp_001_003	Je savais que je pouvais compter sur toi !
+sp_oak_softdic_comp_001_004	Allez, continue comme ça ! Tu fais un boulot vraiment sensass !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_fra.msbt
@@ -7730,6 +7777,8 @@ sp_option_filter_0016_v4	Paramétrer
 sp_option_filter_0017_v4	Sélectionnez les fonctionnalités pour lesquelles vous souhaitez enregistrer des critères de recherche.
 sp_option_filter_0018_v4	Boîtes Pokémon
 sp_option_filter_0019_v4	Enregistrement des critères de recherches
+sp_option_filter_0020_v4	À la découverte des Pokémon
+sp_option_filter_0021_v4	Les critères actuellement enregistrés pour les recherches dans le menu « À la découverte des Pokémon » seront réinitialisés. Voulez-vous continuer ?
 sp_option_sort_0001_vgo	Rangement des Boîtes Pokémon
 sp_option_sort_0002_vgo	Enregistrer les paramètres de rangement
 sp_option_sort_0003_vgo	Les paramètres actuellement enregistrés pour le rangement de vos Boîtes Pokémon seront réinitialisés. Voulez-vous continuer ?
@@ -7749,6 +7798,8 @@ sp_option_sort_0016_v4	Paramétrer
 sp_option_sort_0017_v4	Sélectionnez les fonctionnalités pour lesquelles vous souhaitez enregistrer des paramètres de rangement.
 sp_option_sort_0018_v4	Boîtes Pokémon
 sp_option_sort_0019_v4	Enregistrement des paramètres de rangement
+sp_option_sort_0020_v4	À la découverte des Pokémon
+sp_option_sort_0021_v4	Les paramètres actuellement enregistrés pour le rangement du menu « À la découverte des Pokémon » seront réinitialisés. Voulez-vous continuer ?
 sp_option_notice_00001	Recevoir des notifications
 sp_option_notice_00005	Autres
 sp_option_notice_00006	Notifications
@@ -8319,6 +8370,7 @@ sp_ui_library_empty_list	Aucun Pokémon à afficher.
 sp_ui_waza_library_empty_list	Aucune capacité à afficher.
 sp_ui_tokusei_library_empty_list	Aucun talent à afficher.
 sp_ui_library_no_desc_text	Cette description n'existe pas dans cette langue.
+sp_ui_softlibrary_comp_gift_text	Jetez un œil à la Boîte Cadeau du menu « Cadeaux Mystères » de Pokémon HOME !
 sp_ui_refine	Recherche
 sp_ui_details_settings	Plus de filtres
 sp_ui_keyword_dictionary	Nom du Pokémon
@@ -8545,6 +8597,14 @@ sp_ui_gift_point	Points
 sp_ui_gift_0013_v1	Pas d'expiration
 sp_ui_gift_0014_v5	Reçu le [VAR]
 sp_ui_gift_0015_v5	[VAR] point(s)
+sp_ui_gift_nfc_0001	Lire un tag NFC
+sp_ui_gift_nfc_0002	Veuillez placer votre appareil contre le tag NFC.
+sp_ui_gift_nfc_0003	Le tag a été lu avec succès ! Veuillez consulter votre Boîte Cadeau.
+sp_ui_gift_nfc_0003_01	Le tag a été lu avec succès !
+sp_ui_gift_nfc_0004	La lecture du tag a échoué.
+sp_ui_gift_nfc_0005	La requête a expiré. Veuillez réessayer.
+sp_ui_gift_nfc_0006	Ce tag NFC n'est pas compatible.
+sp_ui_gift_nfc_0007	Vous avez déjà reçu ce cadeau.
 sp_ui_gift_01001	Cadeaux à recevoir dans cette zone
 sp_ui_gift_01002	Récupérez vos cadeaux dans la Boîte Cadeau !
 sp_ui_gift_01003	Boîte Cadeau
@@ -8711,6 +8771,49 @@ sp_ui_userdel_complete_body_v11	Toutes les données de votre compte ont été su
 sp_ui_userdel_error_body_v11	Votre compte n'a pas été totalement supprimé la dernière fois que vous avez fermé l'application. La suppression du compte va à présent se poursuivre.
 sp_ui_gift_confirm_body_nalink_v12	Pour utiliser le menu « Cadeaux Mystère », vous devez avoir un compte Nintendo associé. Chaque Cadeau Mystère ne peut être reçu qu'une fois par compte Nintendo.
 sp_ui_gift_confirm_button_nalink_v12	Je comprends
+sp_ui_off_lib_title	À la découverte des Pokémon
+sp_ui_off_lib_home_title	À la découverte des Pokémon
+sp_ui_off_lib_rom_filter_title	Apparaît dans
+sp_ui_off_lib_move_filter_title	Vidéo(s) associée(s)
+sp_ui_off_lib_form_filter_title	Forme(s)
+sp_ui_off_lib_move_filter01	Avec
+sp_ui_off_lib_move_filter02	Sans
+sp_ui_off_lib_form_filter01	Méga-Évolution
+sp_ui_off_lib_form_filter02	Gigamax
+sp_ui_off_lib_form_filter03	Forme d'Alola
+sp_ui_off_lib_form_filter04	Forme de Galar
+sp_ui_off_lib_form_filter05	Forme de Hisui
+sp_ui_off_lib_form_filter06	Forme de Paldea
+sp_ui_off_lib_deets_caprom_title	Apparaît dans
+sp_ui_off_lib_deets_news_title	Vidéo(s) associée(s)
+sp_ui_off_lib_deets_caprom_text	Ce Pokémon peut être rencontré au cours d'une partie normale dans les jeux suivants. Pour plus d'informations, veuillez consulter le menu « Aide ».
+sp_ui_off_lib_deets_evo_title	Évolution(s)
+sp_ui_off_lib_deets_evo_notext	N'évolue pas
+sp_ui_off_lib_deets_form_title	Forme(s)
+sp_ui_off_lib_deets_form_notext	Aucune autre forme découverte
+sp_ui_off_lib_deets_form_extxt_001	Il en existe 28 variétés (A à Z, ! et ?) en tout.
+sp_ui_off_lib_deets_form_extxt_002	Il alterne entre la Forme Solaire, la Forme Eau de Pluie et la Forme Blizzard en fonction de la météo.
+sp_ui_off_lib_deets_form_extxt_003	Il est de type Normal par défaut, mais change de type et de forme en fonction de la plaque qu'il tient.
+sp_ui_off_lib_deets_form_extxt_004	Un Darumacho doté du talent caché Mode Transe change de forme quand il lui reste moins de la moitié de ses PV en combat.
+sp_ui_off_lib_deets_form_extxt_005	Un Darumacho doté du talent caché Mode Transe change de forme quand il lui reste moins de la moitié de ses PV en combat.
+sp_ui_off_lib_deets_form_extxt_006	Vingt variétés ont été découvertes, chacune arborant des couleurs et des motifs différents sur ses ailes.
+sp_ui_off_lib_deets_form_extxt_007	Il en existe cinq variétés, chacune ayant une fleur d'une couleur différente (rouge, jaune, orange, bleue ou blanche).
+sp_ui_off_lib_deets_form_extxt_008	Il en existe cinq variétés, chacune ayant une fleur d'une couleur différente (rouge, jaune, orange, bleue ou blanche).
+sp_ui_off_lib_deets_form_extxt_009	Il en existe cinq variétés, chacune ayant des fleurs de couleurs différentes (rouge, jaune, orange, bleue ou blanche).
+sp_ui_off_lib_deets_form_extxt_010	Il peut être toiletté de neuf façons différentes, en plus de celle qui correspond à sa Forme Sauvage.
+sp_ui_off_lib_deets_form_extxt_011	Il adopte le Mode Déchaîné en combat et le Mode Paisible hors combat.
+sp_ui_off_lib_deets_form_extxt_012	Il est de type Normal par défaut, mais change de type et de forme en fonction de la ROM qu'il tient.
+sp_ui_off_lib_deets_form_extxt_013	Il en existe sept variétés en tout : Noyau Rouge, Noyau Orange, Noyau Jaune, Noyau Vert, Noyau Bleu, Noyau Indigo et Noyau Violet.
+sp_ui_off_lib_deets_form_extxt_014	Il existe une forme nommée « Couleur du Passé » qui, elle aussi, a été créée il y a 500 ans.
+sp_ui_off_lib_deets_form_extxt_015	L'apparence de ce Pokémon dépend de différents facteurs, tels que l'objet qu'il tenait ou l'heure à laquelle il a évolué quand il n'était encore qu'un Crèmy.
+sp_ui_off_lib_deets_form_extxt_016	Il passe en Tête Dégel quand il est touché par une capacité offensive physique et que la glace autour de sa tête se brise.
+sp_ui_off_lib_deets_form_extxt_017	On le trouve soit en Famille de Trois, soit en Famille de Quatre.
+sp_ui_off_lib_deets_form_extxt_018	Il en existe quatre variétés en tout : Plumage Vert, Plumage Bleu, Plumage Jaune et Plumage Blanc.
+sp_ui_off_lib_deets_form_extxt_019	En plus de la Forme Double, il existe une Forme Triple.
+sp_ui_off_lib_deets_form_extxt_020	Son déguisement tombe lorsqu'il se fait attaquer.
+sp_ui_off_lib_deets_form_extxt_021	Quand il utilise Surf ou Plongée en combat, il prend soit la Forme Gobe-Tout, soit la Forme Gobe-Chu.
+sp_ui_off_lib_deets_news_notext	Aucune vidéo disponible
+sp_ui_off_lib_deets_caprom_notext	Ce Pokémon ne peut pas être rencontré au cours d'une partie normale, et ce, quel que soit le jeu.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_fra.msbt
