@@ -2000,6 +2000,13 @@ MONSNAME_1014	Okidogi
 MONSNAME_1015	Munkidori
 MONSNAME_1016	Fezandipiti
 MONSNAME_1017	Ogerpon
+MONSNAME_1018	Archaludon
+MONSNAME_1019	Hydrapple
+MONSNAME_1020	Gouging Fire
+MONSNAME_1021	Raging Bolt
+MONSNAME_1022	Iron Boulder
+MONSNAME_1023	Iron Crown
+MONSNAME_1024	Terapagos
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_out_usa.msbt
@@ -3097,6 +3104,7 @@ mes_ribbon_name_106	Once-in-a-Lifetime Ribbon
 mes_ribbon_name_107	Alpha Mark
 mes_ribbon_name_108	Mightiest Mark
 mes_ribbon_name_109	Titan Mark
+mes_ribbon_name_110	Partner Ribbon
 mes_ribbon_info_000	A Ribbon awarded for beating the Kalos Champion and entering the Kalos Hall of Fame.
 mes_ribbon_info_001	A Ribbon awarded for clearing the Pokémon League and entering the Hall of Fame somewhere long ago.
 mes_ribbon_info_002	A Ribbon awarded for beating the Sinnoh Champion and entering the Sinnoh Hall of Fame.
@@ -3207,6 +3215,7 @@ mes_ribbon_info_106	A rare Ribbon found extremely infrequently on Pokémon obtai
 mes_ribbon_info_107	A mark for a Pokémon that was an alpha.
 mes_ribbon_info_108	A mark for an especially mighty Pokémon.
 mes_ribbon_info_109	A mark for a Pokémon that was a Titan.
+mes_ribbon_info_110	A special Ribbon awarded to a Pokémon that was once partnered with another great Trainer.
 
 ~~~~~~~~~~~~~~~
 Text File : ribbon_SWSH_usa.msbt
@@ -3620,6 +3629,7 @@ mes_ribbon_name_106	Once-in-a-Lifetime Ribbon
 mes_ribbon_name_107	Alpha Mark
 mes_ribbon_name_108	Mightiest Mark
 mes_ribbon_name_109	Titan Mark
+mes_ribbon_name_110	Partner Ribbon
 mes_ribbon_info_000	A Ribbon awarded for beating the Kalos Champion and entering the Kalos Hall of Fame.
 mes_ribbon_info_001	A Ribbon awarded for clearing the Pokémon League and entering the Hall of Fame somewhere long ago.
 mes_ribbon_info_002	A Ribbon awarded for beating the Sinnoh Champion and entering the Sinnoh Hall of Fame.
@@ -3730,6 +3740,7 @@ mes_ribbon_info_106	A rare Ribbon found extremely infrequently on Pokémon obtai
 mes_ribbon_info_107	A mark for a Pokémon that was an alpha.
 mes_ribbon_info_108	A mark for an especially mighty Pokémon.
 mes_ribbon_info_109	A mark for a Pokémon that was a Titan.
+mes_ribbon_info_110	A special Ribbon awarded to a Pokémon that was once partnered with another great Trainer.
 
 ~~~~~~~~~~~~~~~
 Text File : ribbon_USUM_usa.msbt
@@ -4490,6 +4501,8 @@ sp_achstep_lib_s_0034	Register Arceus from Pokémon Legends: Arceus!
 sp_achstep_lib_s_0035	Register Hisuian Decidueye, Hisuian Typhlosion, and Hisuian Samurott!
 sp_achstep_lib_s_0036	Register Staraptor, Bidoof, and Bibarel from Pokémon Brilliant Diamond or Pokémon Shining Pearl!
 sp_achstep_lib_s_0037	Fill in your Paldea region Pokédex in Pokémon Scarlet or Pokémon Violet!
+sp_achstep_lib_s_0054	Fill in your Kitakami Pokédex in Pokémon Scarlet or Pokémon Violet!
+sp_achstep_lib_s_0055	Fill in your Blueberry Pokédex in Pokémon Scarlet or Pokémon Violet!
 sp_achstep_lib_s_0038	Register 3 varieties of Paldean Tauros!
 sp_achstep_lib_s_0039	Register 4 colors of Squawkabilly!
 sp_achstep_lib_s_0040	Register 3 varieties of Tatsugiri!
@@ -4498,6 +4511,11 @@ sp_achstep_lib_s_0042	Register 2 forms of Dudunsparce!
 sp_achstep_lib_s_0043	Register 4 different Ruinous Pokémon!
 sp_achstep_lib_s_0044	Register Scream Tail, Brute Bonnet, Flutter Mane, and Sandy Shocks!
 sp_achstep_lib_s_0045	Register Iron Bundle, Iron Hands, Iron Jugulis, and Iron Thorns!
+sp_achstep_lib_s_0048	Register Okidogi, Munkidori, and Fezandipiti!
+sp_achstep_lib_s_0049	Register Ogerpon!
+sp_achstep_lib_s_0050	Register Ursaluna and Bloodmoon Ursaluna!
+sp_achstep_lib_s_0051	Register Terapagos!
+sp_achstep_lib_s_0053	Register Applin and its 4 Evolutions!
 sp_achstep_oth_000101	Receive a present through Mystery Gift!
 sp_achstep_oth_000102	Receive 3 presents through Mystery Gift!
 sp_achstep_oth_000103	Receive 5 presents through Mystery Gift!
@@ -4609,6 +4627,7 @@ sp_achstep_trd_s_0050	Trade Tentacruel and Toedscruel!
 sp_achstep_trd_s_0051	Trade Dugtrio and Wugtrio!
 sp_achstep_trd_s_0052	Trade Quagsire and Clodsire!
 sp_achstep_trd_s_0053	Trade Koraidon and Miraidon!
+sp_achstep_trd_s_0054	Trade Polteageist and Sinistcha!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_ach_usa.msbt
@@ -4660,7 +4679,7 @@ sp_ach_lib_s_0018	Register 6 forms of Rotom!
 sp_ach_lib_s_0019	Register 28 forms of Unown!
 sp_ach_lib_s_0020	Register Eevee and its 8 Evolutions!
 sp_ach_lib_s_0021	Register 20 species of Pokémon revived from Fossils!
-sp_ach_lib_s_0022	Register 7 forms of Minior!
+sp_ach_lib_s_0022	Register 7 colors of Minior!
 sp_ach_lib_s_0023	Register Pikachu wearing a hat!
 sp_ach_lib_s_0024	Register Shaymin!
 sp_ach_lib_s_0025	Register Galarian Articuno, Galarian Zapdos, and Galarian Moltres!
@@ -4675,6 +4694,8 @@ sp_ach_lib_s_0034	Register Arceus from Pokémon Legends: Arceus!
 sp_ach_lib_s_0035	Register Hisuian Decidueye, Hisuian Typhlosion, and Hisuian Samurott!
 sp_ach_lib_s_0036	Register Staraptor, Bidoof, and Bibarel from Pokémon Brilliant Diamond or Pokémon Shining Pearl!
 sp_ach_lib_s_0037	Fill in your Paldea region Pokédex in Pokémon Scarlet or Pokémon Violet!
+sp_ach_lib_s_0054	Fill in your Kitakami Pokédex in Pokémon Scarlet or Pokémon Violet!
+sp_ach_lib_s_0055	Fill in your Blueberry Pokédex in Pokémon Scarlet or Pokémon Violet!
 sp_ach_lib_s_0038	Register 3 varieties of Paldean Tauros!
 sp_ach_lib_s_0039	Register 4 colors of Squawkabilly!
 sp_ach_lib_s_0040	Register 3 varieties of Tatsugiri!
@@ -4683,6 +4704,11 @@ sp_ach_lib_s_0042	Register 2 forms of Dudunsparce!
 sp_ach_lib_s_0043	Register 4 different Ruinous Pokémon!
 sp_ach_lib_s_0044	Register Scream Tail, Brute Bonnet, Flutter Mane, and Sandy Shocks!
 sp_ach_lib_s_0045	Register Iron Bundle, Iron Hands, Iron Jugulis, and Iron Thorns!
+sp_ach_lib_s_0048	Register Okidogi, Munkidori, and Fezandipiti!
+sp_ach_lib_s_0049	Register Ogerpon!
+sp_ach_lib_s_0050	Register Ursaluna and Bloodmoon Ursaluna!
+sp_ach_lib_s_0051	Register Terapagos!
+sp_ach_lib_s_0053	Register Applin and its 4 Evolutions!
 sp_ach_trd_s_0002	Deposit 10 Pokémon at once in the Wonder Box!
 sp_ach_trd_s_0003	Trade Zangoose and Seviper!
 sp_ach_trd_s_0004	Trade Lunatone and Solrock!
@@ -4735,6 +4761,7 @@ sp_ach_trd_s_0050	Trade Tentacruel and Toedscruel!
 sp_ach_trd_s_0051	Trade Dugtrio and Wugtrio!
 sp_ach_trd_s_0052	Trade Quagsire and Clodsire!
 sp_ach_trd_s_0053	Trade Koraidon and Miraidon!
+sp_ach_trd_s_0054	Trade Polteageist and Sinistcha!
 sp_ach_trd_0001	Trade using the GTS!
 sp_ach_trd_0002	Trade using a Room Trade!
 sp_ach_trd_0003	Host Room Trades!
@@ -5692,6 +5719,7 @@ sp_softwaredictionary_005	Sinnoh Pokédex
 sp_softwaredictionary_006	Hisui Pokédex
 sp_softwaredictionary_008	Paldea Pokédex
 sp_softwaredictionary_009	Kitakami Pokédex
+sp_softwaredictionary_010	Blueberry Pokédex
 sp_softwaredictionary_007	Pokédex
 
 ~~~~~~~~~~~~~~~
@@ -6718,6 +6746,36 @@ PLACENAME_subarea_su01w05_01	Infernal Pass
 PLACENAME_subarea_su01w05_02	Oni Mountain
 PLACENAME_dungeon_a_su01d02_01	Chilling Waterhead
 PLACENAME_dungeon_a_su01d02_02	
+PLACENAME_a_sch_2_entrance01_01	Blueberry Academy
+PLACENAME_a_sch_2_entrance01_02	
+PLACENAME_a_su0201_01	Savanna Biome
+PLACENAME_a_su0201_02	Terarium
+PLACENAME_a_su0202_01	Coastal Biome
+PLACENAME_a_su0202_02	Terarium
+PLACENAME_a_su0203_01	Canyon Biome
+PLACENAME_a_su0203_02	Terarium
+PLACENAME_a_su0204_01	Polar Biome
+PLACENAME_a_su0204_02	Terarium
+PLACENAME_subarea_su2city_01	Central Plaza
+PLACENAME_subarea_su2city_02	Terarium
+PLACENAME_subarea_su2bigfourfire_01	Savanna Plaza
+PLACENAME_subarea_su2bigfourfire_02	Terarium
+PLACENAME_subarea_su2bigfourfairy_01	Coastal Plaza
+PLACENAME_subarea_su2bigfourfairy_02	Terarium
+PLACENAME_subarea_su2bigfoursteel_01	Canyon Plaza
+PLACENAME_subarea_su2bigfoursteel_02	Terarium
+PLACENAME_subarea_su2bigfourdragon_01	Polar Plaza
+PLACENAME_subarea_su2bigfourdragon_02	Terarium
+PLACENAME_a_su02d01_01	Chargestone Cavern
+PLACENAME_a_su02d01_02	Terarium
+PLACENAME_a_su02d02_01	Torchlit Labyrinth
+PLACENAME_a_su02d02_02	Terarium
+PLACENAME_a_w23_d10_01	Area Zero Underdepths
+PLACENAME_a_w23_d10_02	
+PLACENAME_a_w23_d11_01	Area Zero Underdepths
+PLACENAME_a_w23_d11_02	
+PLACENAME_subarea_su2approach_01	Terarium
+PLACENAME_subarea_su2approach_02	
 
 ~~~~~~~~~~~~~~~
 Text File : SWSHDLC_place_name_usa.msbt
@@ -8298,6 +8356,9 @@ TOKUSEIINFO_SV_303	The Pokémon's heart fills with memories, causing the Wellspr
 TOKUSEIINFO_SV_304	The Pokémon's heart fills with memories, causing the Cornerstone Mask to shine and the Pokémon's Defense stat to be boosted.
 TOKUSEIINFO_SV_305	The power of the Pokémon's toxic chain may badly poison any target the Pokémon hits with a move.
 TOKUSEIINFO_SV_306	A sickly sweet scent spreads across the field the first time the Pokémon enters a battle, lowering the evasiveness of opposing Pokémon.
+TOKUSEIINFO_SV_307	When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.
+TOKUSEIINFO_SV_308	The Pokémon's shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.
+TOKUSEIINFO_SV_309	When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_usa.msbt
@@ -9184,6 +9245,9 @@ TOKUSEI_303	Embody Aspect
 TOKUSEI_304	Embody Aspect
 TOKUSEI_305	Toxic Chain
 TOKUSEI_306	Supersweet Syrup
+TOKUSEI_307	Tera Shift
+TOKUSEI_308	Tera Shell
+TOKUSEI_309	Teraform Zero
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_usa.msbt
@@ -9976,7 +10040,7 @@ WAZAINFO_ALL_350	The user attacks by hurling hard rocks at the target. This move
 WAZAINFO_ALL_351	The user strikes the target with a quick jolt of electricity. This attack never misses.
 WAZAINFO_ALL_352	The user attacks the target with a pulsing blast of water. This may also confuse the target.
 WAZAINFO_ALL_353	Two turns after this move is used, a concentrated bundle of light blasts the target.
-WAZAINFO_ALL_354	The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.
+WAZAINFO_ALL_354	The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat.
 WAZAINFO_ALL_355	The user lands and rests its body. This move restores the user's HP by up to half its max HP.
 WAZAINFO_ALL_356	Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used.
 WAZAINFO_ALL_357	Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.
@@ -10314,7 +10378,7 @@ WAZAINFO_ALL_688	The user lands an intense kick of tropical origins on the targe
 WAZAINFO_ALL_689	The user instructs the target to reuse the move last used by the target.
 WAZAINFO_ALL_690	The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn.
 WAZAINFO_ALL_691	The user rubs the scales on its entire body and makes a huge noise to attack opposing Pokémon. The user's Defense stat is lowered after the attack.
-WAZAINFO_ALL_692	The user uses its body like a hammer to attack the target and inflict damage.
+WAZAINFO_ALL_692	The user wields its body like a hammer to attack the target and inflict damage.
 WAZAINFO_ALL_693	The user swings its body around violently to inflict damage on everything in its vicinity.
 WAZAINFO_ALL_694	This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing.
 WAZAINFO_ALL_695	The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force.
@@ -10527,6 +10591,21 @@ WAZAINFO_ALL_901	The user unleashes the full brunt of its spirit from a full moo
 WAZAINFO_ALL_902	The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn.
 WAZAINFO_ALL_903	The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.
 WAZAINFO_ALL_904	The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit.
+WAZAINFO_ALL_905	The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain.
+WAZAINFO_ALL_906	With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pokémon.
+WAZAINFO_ALL_907	The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power.
+WAZAINFO_ALL_908	The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it.
+WAZAINFO_ALL_909	This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.
+WAZAINFO_ALL_910	The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself.
+WAZAINFO_ALL_911	The user attacks by launching particle blades at the target twice in a row. This attack never misses.
+WAZAINFO_ALL_912	The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power.
+WAZAINFO_ALL_913	The user raises its allies' morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more.
+WAZAINFO_ALL_914	The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn.
+WAZAINFO_ALL_915	Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed.
+WAZAINFO_ALL_916	The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.
+WAZAINFO_ALL_917	The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.
+WAZAINFO_ALL_918	The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.
+WAZAINFO_ALL_851_01	Inflicts damage with the user's Attack or Sp. Atk stat— whichever is higher. Super effective against Terastallized targets. This lowers the user's Attack and Sp. Atk stats.
 
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_BDSP_usa.msbt
@@ -12805,7 +12884,7 @@ WAZAINFO_SV_350	The user attacks by hurling hard rocks at the target. This move 
 WAZAINFO_SV_351	The user strikes the target with a quick jolt of electricity. This attack never misses.
 WAZAINFO_SV_352	The user attacks the target with a pulsing blast of water. This may also confuse the target.
 WAZAINFO_SV_353	Two turns after this move is used, a concentrated bundle of light blasts the target.
-WAZAINFO_SV_354	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+WAZAINFO_SV_354	The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat.
 WAZAINFO_SV_355	The user lands and rests its body. This move restores the user's HP by up to half its max HP.
 WAZAINFO_SV_356	Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used.
 WAZAINFO_SV_357	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
@@ -13143,7 +13222,7 @@ WAZAINFO_SV_688	The user lands an intense kick of tropical origins on the target
 WAZAINFO_SV_689	The user instructs the target to reuse the move last used by the target.
 WAZAINFO_SV_690	The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn.
 WAZAINFO_SV_691	The user rubs the scales on its entire body and makes a huge noise to attack opposing Pokémon. The user's Defense stat is lowered after the attack.
-WAZAINFO_SV_692	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+WAZAINFO_SV_692	The user wields its body like a hammer to attack the target and inflict damage.
 WAZAINFO_SV_693	The user swings its body around violently to inflict damage on everything in its vicinity.
 WAZAINFO_SV_694	This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing.
 WAZAINFO_SV_695	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
@@ -13356,6 +13435,21 @@ WAZAINFO_SV_901	The user unleashes the full brunt of its spirit from a full moon
 WAZAINFO_SV_902	The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn.
 WAZAINFO_SV_903	The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.
 WAZAINFO_SV_904	The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit.
+WAZAINFO_SV_905	The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain.
+WAZAINFO_SV_906	With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pokémon.
+WAZAINFO_SV_907	The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power.
+WAZAINFO_SV_908	The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it.
+WAZAINFO_SV_909	This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.
+WAZAINFO_SV_910	The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself.
+WAZAINFO_SV_911	The user attacks by launching particle blades at the target twice in a row. This attack never misses.
+WAZAINFO_SV_912	The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power.
+WAZAINFO_SV_913	The user raises its allies' morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more.
+WAZAINFO_SV_914	The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn.
+WAZAINFO_SV_915	Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed.
+WAZAINFO_SV_916	The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.
+WAZAINFO_SV_917	The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.
+WAZAINFO_SV_918	The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.
+WAZAINFO_SV_851_01	Inflicts damage with the user's Attack or Sp. Atk stat— whichever is higher. Super effective against Terastallized targets. This lowers the user's Attack and Sp. Atk stats.
 
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_SWSH_usa.msbt
@@ -16001,6 +16095,20 @@ WAZANAME_901	Blood Moon
 WAZANAME_902	Matcha Gotcha
 WAZANAME_903	Syrup Bomb
 WAZANAME_904	Ivy Cudgel
+WAZANAME_905	Electro Shot
+WAZANAME_906	Tera Starstorm
+WAZANAME_907	Fickle Beam
+WAZANAME_908	Burning Bulwark
+WAZANAME_909	Thunderclap
+WAZANAME_910	Mighty Cleave
+WAZANAME_911	Tachyon Cutter
+WAZANAME_912	Hard Press
+WAZANAME_913	Dragon Cheer
+WAZANAME_914	Alluring Voice
+WAZANAME_915	Temper Flare
+WAZANAME_916	Supercell Slam
+WAZANAME_917	Psychic Noise
+WAZANAME_918	Upper Hand
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_out_usa.msbt
@@ -17743,6 +17851,15 @@ ZKN_FORM_1017_000	Teal Mask
 ZKN_FORM_1017_001	Wellspring Mask
 ZKN_FORM_1017_002	Hearthflame Mask
 ZKN_FORM_1017_003	Cornerstone Mask
+ZKN_FORM_1018_000	
+ZKN_FORM_1019_000	
+ZKN_FORM_1020_000	
+ZKN_FORM_1021_000	
+ZKN_FORM_1022_000	
+ZKN_FORM_1023_000	
+ZKN_FORM_1024_000	Normal Form
+ZKN_FORM_1024_001	Terastal Form
+ZKN_FORM_1024_002	Stellar Form
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_usa.msbt
@@ -19211,6 +19328,15 @@ ZKN_HEIGHT_1017_000	3'11"
 ZKN_HEIGHT_1017_001	3'11"
 ZKN_HEIGHT_1017_002	3'11"
 ZKN_HEIGHT_1017_003	3'11"
+ZKN_HEIGHT_1018_000	6'7"
+ZKN_HEIGHT_1019_000	5'11"
+ZKN_HEIGHT_1020_000	11'6"
+ZKN_HEIGHT_1021_000	17'1"
+ZKN_HEIGHT_1022_000	4'11"
+ZKN_HEIGHT_1023_000	5'3"
+ZKN_HEIGHT_1024_000	8"
+ZKN_HEIGHT_1024_001	1'
+ZKN_HEIGHT_1024_002	5'7"
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_usa.msbt
@@ -20265,6 +20391,15 @@ ZKN_TYPE_1013_001	Matcha Pokémon
 ZKN_TYPE_1017_001	Mask Pokémon
 ZKN_TYPE_1017_002	Mask Pokémon
 ZKN_TYPE_1017_003	Mask Pokémon
+ZKN_TYPE_1018	Alloy Pokémon
+ZKN_TYPE_1019	Apple Hydra Pokémon
+ZKN_TYPE_1020	Paradox Pokémon
+ZKN_TYPE_1021	Paradox Pokémon
+ZKN_TYPE_1022	Paradox Pokémon
+ZKN_TYPE_1023	Paradox Pokémon
+ZKN_TYPE_1024	Tera Pokémon
+ZKN_TYPE_1024_001	Tera Pokémon
+ZKN_TYPE_1024_002	Tera Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_usa.msbt
@@ -21733,6 +21868,15 @@ ZKN_WEIGHT_1017_000	87.7 lbs.
 ZKN_WEIGHT_1017_001	87.7 lbs.
 ZKN_WEIGHT_1017_002	87.7 lbs.
 ZKN_WEIGHT_1017_003	87.7 lbs.
+ZKN_WEIGHT_1018_000	132.3 lbs.
+ZKN_WEIGHT_1019_000	205 lbs.
+ZKN_WEIGHT_1020_000	1300.7 lbs.
+ZKN_WEIGHT_1021_000	1058.2 lbs.
+ZKN_WEIGHT_1022_000	358.3 lbs.
+ZKN_WEIGHT_1023_000	343.9 lbs.
+ZKN_WEIGHT_1024_000	14.3 lbs.
+ZKN_WEIGHT_1024_001	35.3 lbs.
+ZKN_WEIGHT_1024_002	169.8 lbs.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_usa.msbt
@@ -27619,20 +27763,20 @@ ZKN_OMEGA_720_001	In its true form, it possesses a huge amount of power. Legends
 Text File : zukan_comment_scarlet_usa.msbt
 ~~~~~~~~~~~~~~~
 ZKN_SCARLET_0000_000	
-ZKN_SCARLET_0001_000	
-ZKN_SCARLET_0002_000	
-ZKN_SCARLET_0003_000	
+ZKN_SCARLET_0001_000	For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.
+ZKN_SCARLET_0002_000	The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.
+ZKN_SCARLET_0003_000	While it basks in the sun, it can convert the light into energy. As a result, it is more powerful in the summertime.
 ZKN_SCARLET_0003_001	
 ZKN_SCARLET_0003_999	
-ZKN_SCARLET_0004_000	
-ZKN_SCARLET_0005_000	
-ZKN_SCARLET_0006_000	
+ZKN_SCARLET_0004_000	The flame on its tail shows the strength of its life-force. If Charmander is weak, the flame also burns weakly.
+ZKN_SCARLET_0005_000	When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.
+ZKN_SCARLET_0006_000	If Charizard becomes truly angered, the flame at the tip of its tail burns in a light blue shade.
 ZKN_SCARLET_0006_001	
 ZKN_SCARLET_0006_002	
 ZKN_SCARLET_0006_999	
-ZKN_SCARLET_0007_000	
-ZKN_SCARLET_0008_000	
-ZKN_SCARLET_0009_000	
+ZKN_SCARLET_0007_000	After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.
+ZKN_SCARLET_0008_000	Wartortle's long, furry tail is a symbol of longevity, so this Pokémon is quite popular among older people.
+ZKN_SCARLET_0009_000	It deliberately increases its body weight so it can withstand the recoil of the water jets it fires.
 ZKN_SCARLET_0009_001	
 ZKN_SCARLET_0009_999	
 ZKN_SCARLET_0010_000	
@@ -27670,9 +27814,9 @@ ZKN_SCARLET_0025_999
 ZKN_SCARLET_0026_000	Its tail discharges electricity into the ground, protecting it from getting shocked.
 ZKN_SCARLET_0026_001	
 ZKN_SCARLET_0027_000	It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.
-ZKN_SCARLET_0027_001	
+ZKN_SCARLET_0027_001	It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.
 ZKN_SCARLET_0028_000	It is adept at attacking with the spines on its back and its sharp claws while quickly scurrying about.
-ZKN_SCARLET_0028_001	
+ZKN_SCARLET_0028_001	This Pokémon's steel spikes are sheathed in ice. Stabs from these spikes cause deep wounds and severe frostbite as well.
 ZKN_SCARLET_0029_000	
 ZKN_SCARLET_0030_000	
 ZKN_SCARLET_0031_000	
@@ -27682,24 +27826,24 @@ ZKN_SCARLET_0034_000
 ZKN_SCARLET_0035_000	On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.
 ZKN_SCARLET_0036_000	Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.
 ZKN_SCARLET_0037_000	If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.
-ZKN_SCARLET_0037_001	
+ZKN_SCARLET_0037_001	They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their −58 degree Fahrenheit breath.
 ZKN_SCARLET_0038_000	Some legends claim that each of its nine tails has its own unique type of special mystical power.
-ZKN_SCARLET_0038_001	
+ZKN_SCARLET_0038_001	Possessing a calm demeanor, this Pokémon was revered as a deity incarnate before it was identified as a regional variant of Ninetales.
 ZKN_SCARLET_0039_000	When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.
 ZKN_SCARLET_0040_000	It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.
 ZKN_SCARLET_0041_000	
 ZKN_SCARLET_0042_000	
-ZKN_SCARLET_0043_000	
-ZKN_SCARLET_0044_000	
-ZKN_SCARLET_0045_000	
+ZKN_SCARLET_0043_000	Its scientific name is Oddium wanderus. It is said to cover distances as far as 1,000 feet when night falls, walking on its two roots.
+ZKN_SCARLET_0044_000	The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.
+ZKN_SCARLET_0045_000	The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.
 ZKN_SCARLET_0046_000	
 ZKN_SCARLET_0047_000	
 ZKN_SCARLET_0048_000	Poison oozes from all over its body. It catches small bug Pokémon at night that are attracted by light.
 ZKN_SCARLET_0049_000	The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.
 ZKN_SCARLET_0050_000	It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.
-ZKN_SCARLET_0050_001	
+ZKN_SCARLET_0050_001	The things growing from its head are whiskers that have become metallic. Diglett communicates with its comrades by waving them.
 ZKN_SCARLET_0051_000	Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.
-ZKN_SCARLET_0051_001	
+ZKN_SCARLET_0051_001	Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.
 ZKN_SCARLET_0052_000	All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.
 ZKN_SCARLET_0052_001	
 ZKN_SCARLET_0052_002	
@@ -27726,35 +27870,35 @@ ZKN_SCARLET_0068_999
 ZKN_SCARLET_0069_000	No matter what Bellsprout is doing, if it detects movement nearby, it will immediately react by reaching out with its thin vines.
 ZKN_SCARLET_0070_000	Even though it is filled with acid, it does not melt because it also oozes a protective fluid.
 ZKN_SCARLET_0071_000	It lures prey into its mouth with a nectar-like aroma. The helpless prey is melted with a dissolving fluid.
-ZKN_SCARLET_0072_000	
-ZKN_SCARLET_0073_000	
+ZKN_SCARLET_0072_000	When the tide goes out, dehydrated Tentacool can be found left behind on the shore.
+ZKN_SCARLET_0073_000	On the rare occasions that large outbreaks of Tentacruel occur, all fish Pokémon disappear from the surrounding sea.
 ZKN_SCARLET_0074_000	At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.
-ZKN_SCARLET_0074_001	
+ZKN_SCARLET_0074_001	Its body is a magnetic stone. Iron sand attaches firmly to the portions of its body that are particularly magnetic.
 ZKN_SCARLET_0075_000	A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.
-ZKN_SCARLET_0075_001	
+ZKN_SCARLET_0075_001	They eat rocks and often get into a scrap over them. The impact of Graveler smashing together causes a flash of light and a booming noise.
 ZKN_SCARLET_0076_000	It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.
-ZKN_SCARLET_0076_001	
+ZKN_SCARLET_0076_001	It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.
 ZKN_SCARLET_0077_000	
 ZKN_SCARLET_0077_001	
 ZKN_SCARLET_0078_000	
 ZKN_SCARLET_0078_001	
 ZKN_SCARLET_0079_000	It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.
-ZKN_SCARLET_0079_001	
+ZKN_SCARLET_0079_001	It gives off a stimulating scent because of chemicals that have seeped into its body from the spice that it eats as its staple food.
 ZKN_SCARLET_0080_000	When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.
 ZKN_SCARLET_0080_001	
-ZKN_SCARLET_0080_002	
+ZKN_SCARLET_0080_002	Shellder seems blissful over the taste of Slowbro even though the toxins seeping from the bite have caused Shellder to faint.
 ZKN_SCARLET_0081_000	The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.
 ZKN_SCARLET_0082_000	Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.
 ZKN_SCARLET_0083_000	
 ZKN_SCARLET_0083_001	
-ZKN_SCARLET_0084_000	
-ZKN_SCARLET_0085_000	
-ZKN_SCARLET_0086_000	
-ZKN_SCARLET_0087_000	
+ZKN_SCARLET_0084_000	Its twin heads have exactly the same genes and battle in perfect sync with each other.
+ZKN_SCARLET_0085_000	It now has three hearts and three sets of lungs. Though it can't run as fast as Doduo, Dodrio can keep running for longer stretches of time.
+ZKN_SCARLET_0086_000	The protrusion on its head is very hard. It is used for bashing through thick ice.
+ZKN_SCARLET_0087_000	It sleeps under shallow ocean waters during the day, then looks for food at night when it's colder.
 ZKN_SCARLET_0088_000	Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.
-ZKN_SCARLET_0088_001	
+ZKN_SCARLET_0088_001	They store their toxins inside their bodies, so unlike Grimer from other regions, they don't smell bad even up close.
 ZKN_SCARLET_0089_000	It's thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.
-ZKN_SCARLET_0089_001	
+ZKN_SCARLET_0089_001	There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality.
 ZKN_SCARLET_0090_000	It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.
 ZKN_SCARLET_0091_000	Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.
 ZKN_SCARLET_0092_000	It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.
@@ -27770,27 +27914,27 @@ ZKN_SCARLET_0099_000
 ZKN_SCARLET_0099_999	
 ZKN_SCARLET_0100_000	It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.
 ZKN_SCARLET_0101_000	The more energy it charges up, the faster it gets. But this also makes it more likely to explode.
-ZKN_SCARLET_0102_000	
-ZKN_SCARLET_0103_000	
-ZKN_SCARLET_0103_001	
+ZKN_SCARLET_0102_000	If you touch one of Exeggcute's heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.
+ZKN_SCARLET_0103_000	It is called the Walking Jungle. Each of the nuts has a face and a will of its own.
+ZKN_SCARLET_0103_001	It swings its long neck like a whip and smacks its head into opponents. This makes Exeggutor itself a little dizzy too.
 ZKN_SCARLET_0104_000	
 ZKN_SCARLET_0105_000	
 ZKN_SCARLET_0105_001	
 ZKN_SCARLET_0105_002	
-ZKN_SCARLET_0106_000	
-ZKN_SCARLET_0107_000	
+ZKN_SCARLET_0106_000	At the exact moment it lands a kick on its target, Hitmonlee hardens the muscles on the sole of its foot, maximizing the power of the kick.
+ZKN_SCARLET_0107_000	It corners its foes with combo punches from both sides, then finishes them off with a single straight punch launched at over 300 mph.
 ZKN_SCARLET_0108_000	
 ZKN_SCARLET_0109_000	Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions.
 ZKN_SCARLET_0110_000	Top-grade perfume is made using its internal poison gases by diluting them to the highest level.
 ZKN_SCARLET_0110_001	
-ZKN_SCARLET_0111_000	
-ZKN_SCARLET_0112_000	
+ZKN_SCARLET_0111_000	Rhyhorn claims an area with over a six mile radius as its territory. It apparently forgets where this territory is when running, however.
+ZKN_SCARLET_0112_000	The horn of a Rhydon is powerful enough to crush raw diamonds. These Pokémon polish their horns by bashing them together.
 ZKN_SCARLET_0113_000	This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.
 ZKN_SCARLET_0114_000	
 ZKN_SCARLET_0115_000	
 ZKN_SCARLET_0115_001	
-ZKN_SCARLET_0116_000	
-ZKN_SCARLET_0117_000	
+ZKN_SCARLET_0116_000	If attacked—even by a large enemy—Horsea effortlessly swims to safety by utilizing its well-developed dorsal fin.
+ZKN_SCARLET_0117_000	The male raises the young. If it is approached while caring for young, it will use its toxic spines to fend off the intruder.
 ZKN_SCARLET_0118_000	
 ZKN_SCARLET_0119_000	
 ZKN_SCARLET_0120_000	
@@ -27799,18 +27943,18 @@ ZKN_SCARLET_0122_000
 ZKN_SCARLET_0122_001	
 ZKN_SCARLET_0123_000	It slashes through grass with its sharp scythes, moving too fast for the human eye to track.
 ZKN_SCARLET_0124_000	
-ZKN_SCARLET_0125_000	
-ZKN_SCARLET_0126_000	
+ZKN_SCARLET_0125_000	Its body constantly discharges electricity. Getting close to it will make your hair stand on end.
+ZKN_SCARLET_0126_000	Found near the mouth of a volcano. This fire-breather's body temperature is nearly 2,200 degrees Fahrenheit.
 ZKN_SCARLET_0127_000	
 ZKN_SCARLET_0127_001	
-ZKN_SCARLET_0128_000	
+ZKN_SCARLET_0128_000	When it targets an enemy, it charges furiously while whipping its body with its long tails.
 ZKN_SCARLET_0128_001	This Pokémon has a muscular body and excels at close-quarters combat. It uses its short horns to strike the opponent's weak spots.
 ZKN_SCARLET_0128_002	When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.
 ZKN_SCARLET_0128_003	This Pokémon blasts water from holes on the tips of its horns—the high-pressure jets pierce right through Tauros's enemies.
 ZKN_SCARLET_0129_000	An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.
 ZKN_SCARLET_0130_000	Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.
 ZKN_SCARLET_0130_001	
-ZKN_SCARLET_0131_000	
+ZKN_SCARLET_0131_000	It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.
 ZKN_SCARLET_0131_999	
 ZKN_SCARLET_0132_000	Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.
 ZKN_SCARLET_0133_000	Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.
@@ -27819,7 +27963,7 @@ ZKN_SCARLET_0133_999
 ZKN_SCARLET_0134_000	It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.
 ZKN_SCARLET_0135_000	It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.
 ZKN_SCARLET_0136_000	Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.
-ZKN_SCARLET_0137_000	
+ZKN_SCARLET_0137_000	It is an artificial Pokémon. Since it doesn't breathe, people are excited by its potential to be useful in any environment.
 ZKN_SCARLET_0138_000	
 ZKN_SCARLET_0139_000	
 ZKN_SCARLET_0140_000	
@@ -27841,15 +27985,15 @@ ZKN_SCARLET_0150_000
 ZKN_SCARLET_0150_001	
 ZKN_SCARLET_0150_002	
 ZKN_SCARLET_0151_000	
-ZKN_SCARLET_0152_000	
-ZKN_SCARLET_0153_000	
-ZKN_SCARLET_0154_000	
-ZKN_SCARLET_0155_000	
-ZKN_SCARLET_0156_000	
-ZKN_SCARLET_0157_000	
-ZKN_SCARLET_0158_000	
-ZKN_SCARLET_0159_000	
-ZKN_SCARLET_0160_000	
+ZKN_SCARLET_0152_000	It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.
+ZKN_SCARLET_0153_000	The spicy scent that wafts from around Bayleef's neck somehow makes those who smell it want to fight.
+ZKN_SCARLET_0154_000	Anyone who stands beside it becomes refreshed, just as if they were soaking in the soothing atmosphere of a forest.
+ZKN_SCARLET_0155_000	It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back.
+ZKN_SCARLET_0156_000	Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.
+ZKN_SCARLET_0157_000	It has a secret, devastating move. It rubs its blazing fur to cause huge explosions.
+ZKN_SCARLET_0158_000	Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.
+ZKN_SCARLET_0159_000	The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.
+ZKN_SCARLET_0160_000	When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.
 ZKN_SCARLET_0161_000	This Pokémon is extremely cautious. Its supple tail is well muscled and firm to the touch.
 ZKN_SCARLET_0162_000	It raises its offspring inside a long, narrow nest. Once they're old enough, it takes them outside the nest to prepare them for independence.
 ZKN_SCARLET_0163_000	Hoothoot's internal clock is precise at all times. It tilts its head in a fixed rhythm.
@@ -27859,8 +28003,8 @@ ZKN_SCARLET_0166_000
 ZKN_SCARLET_0167_000	Even while there are prey ensnared in its nest of spun thread, Spinarak will wait motionlessly until darkness falls.
 ZKN_SCARLET_0168_000	A single strand of a special thread is endlessly spun out of its rear. The thread leads back to its nest.
 ZKN_SCARLET_0169_000	
-ZKN_SCARLET_0170_000	
-ZKN_SCARLET_0171_000	
+ZKN_SCARLET_0170_000	It lives in ocean depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.
+ZKN_SCARLET_0171_000	Portions of its dorsal fin mutated, becoming the parts that glow brightly to lure prey.
 ZKN_SCARLET_0172_000	It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.
 ZKN_SCARLET_0173_000	On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.
 ZKN_SCARLET_0174_000	Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.
@@ -27872,7 +28016,7 @@ ZKN_SCARLET_0179_000	If static electricity builds in its body, its fleece double
 ZKN_SCARLET_0180_000	As a result of storing too much electricity, it developed patches where even downy wool won't grow.
 ZKN_SCARLET_0181_000	The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.
 ZKN_SCARLET_0181_001	
-ZKN_SCARLET_0182_000	
+ZKN_SCARLET_0182_000	Due to the effects of the Sun Stone, it is now active during the daytime. It likes to dance in pools of sunlight.
 ZKN_SCARLET_0183_000	The fur on its body naturally repels water. It can stay dry even when it plays in the water.
 ZKN_SCARLET_0184_000	Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.
 ZKN_SCARLET_0185_000	Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.
@@ -27891,7 +28035,7 @@ ZKN_SCARLET_0196_000	The tip of its forked tail quivers when it is predicting it
 ZKN_SCARLET_0197_000	When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.
 ZKN_SCARLET_0198_000	Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.
 ZKN_SCARLET_0199_000	When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.
-ZKN_SCARLET_0199_001	
+ZKN_SCARLET_0199_001	It administers its potions to weakened Pokémon it sees. These potions are derived from poison and secreted from holes in Slowking's horns.
 ZKN_SCARLET_0200_000	This Pokémon startles people in the middle of the night. It gathers fear as its energy.
 ZKN_SCARLET_0201_000	
 ZKN_SCARLET_0201_001	
@@ -27929,8 +28073,8 @@ ZKN_SCARLET_0206_000	It creates mazes in dark locations. When spotted, it flees 
 ZKN_SCARLET_0207_000	It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.
 ZKN_SCARLET_0208_000	
 ZKN_SCARLET_0208_001	
-ZKN_SCARLET_0209_000	
-ZKN_SCARLET_0210_000	
+ZKN_SCARLET_0209_000	In truth, it is a cowardly Pokémon. It growls eagerly in order to hide its fear from its opponent.
+ZKN_SCARLET_0210_000	It is actually timid and easily spooked. If attacked, it desperately flails its limbs about in an attempt to repel its opponent.
 ZKN_SCARLET_0211_000	Be cautious if this Pokémon starts sucking in water—it will soon attack by scattering the toxic spikes that grow all over its body.
 ZKN_SCARLET_0212_000	This Pokémon's pincers, which contain steel, can crush any hard object they get ahold of into bits.
 ZKN_SCARLET_0212_001	
@@ -27950,21 +28094,21 @@ ZKN_SCARLET_0223_000
 ZKN_SCARLET_0224_000	
 ZKN_SCARLET_0225_000	It carries food all day long. There are tales about lost people who were saved by the food it had.
 ZKN_SCARLET_0226_000	
-ZKN_SCARLET_0227_000	
+ZKN_SCARLET_0227_000	Its sturdy, heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.
 ZKN_SCARLET_0228_000	It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.
 ZKN_SCARLET_0229_000	If you are burned by the flames it shoots from its mouth, the pain will never go away.
 ZKN_SCARLET_0229_001	
-ZKN_SCARLET_0230_000	
+ZKN_SCARLET_0230_000	It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.
 ZKN_SCARLET_0231_000	This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.
 ZKN_SCARLET_0232_000	Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.
-ZKN_SCARLET_0233_000	
+ZKN_SCARLET_0233_000	This artificial Pokémon evolved thanks to cutting- edge science. It sometimes displays behavior that is not in its programming.
 ZKN_SCARLET_0234_000	This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.
-ZKN_SCARLET_0235_000	
-ZKN_SCARLET_0236_000	
-ZKN_SCARLET_0237_000	
+ZKN_SCARLET_0235_000	Once a Smeargle reaches adulthood, it will have other members of its species leave paw prints on its back.
+ZKN_SCARLET_0236_000	This earnest Pokémon battles all sorts of opponents, searching for the fighting style that suits it best.
+ZKN_SCARLET_0237_000	This Pokémon is adept at dance-like kicks. The horn atop its head is made from the same substance that generally forms fur and claws.
 ZKN_SCARLET_0238_000	
-ZKN_SCARLET_0239_000	
-ZKN_SCARLET_0240_000	
+ZKN_SCARLET_0239_000	It loves violent thunder. The space between its horns flickers bluish white when it is charging energy.
+ZKN_SCARLET_0240_000	Each and every time it inhales and exhales, sparks leak from its mouth and nostrils.
 ZKN_SCARLET_0241_000	
 ZKN_SCARLET_0242_000	Anyone who takes even one taste of Blissey's egg becomes unfailingly caring and pleasant to everyone.
 ZKN_SCARLET_0243_000	
@@ -27977,17 +28121,17 @@ ZKN_SCARLET_0248_001
 ZKN_SCARLET_0249_000	
 ZKN_SCARLET_0250_000	
 ZKN_SCARLET_0251_000	
-ZKN_SCARLET_0252_000	
-ZKN_SCARLET_0253_000	
-ZKN_SCARLET_0254_000	
+ZKN_SCARLET_0252_000	The small hooks on the soles of its feet latch on to walls and ceilings, so it will never fall even while hanging upside down.
+ZKN_SCARLET_0253_000	Its strongly developed thigh muscles give it astounding agility and jumping performance.
+ZKN_SCARLET_0254_000	It agilely flits through the jungle and uses the sharp-edged leaves on its arms to cut down its prey.
 ZKN_SCARLET_0254_001	
-ZKN_SCARLET_0255_000	
-ZKN_SCARLET_0256_000	
-ZKN_SCARLET_0257_000	
+ZKN_SCARLET_0255_000	Torchic feels toasty warm if you hug it. It has a flame sac inside its belly, and the flames burn continuously as long as Torchic has life in it.
+ZKN_SCARLET_0256_000	It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.
+ZKN_SCARLET_0257_000	When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.
 ZKN_SCARLET_0257_001	
-ZKN_SCARLET_0258_000	
-ZKN_SCARLET_0259_000	
-ZKN_SCARLET_0260_000	
+ZKN_SCARLET_0258_000	It has the power to crush large boulders into pieces. To rest, it buries itself in mud at the bottom of a river.
+ZKN_SCARLET_0259_000	Living on muddy ground that provides poor footing has served to train its lower body and caused it to develop sturdy legs.
+ZKN_SCARLET_0260_000	Its arms are hard as rock. With one swing, it can break an enormous boulder into pieces.
 ZKN_SCARLET_0260_001	
 ZKN_SCARLET_0261_000	It bares its large fangs and barks vigorously to try to intimidate opponents, but this is actually a manifestation of its cowardly nature.
 ZKN_SCARLET_0262_000	They faithfully follow the orders of their leader. Prey targeted by Mightyena is never allowed to escape the outstanding teamwork of its pursuers.
@@ -28047,8 +28191,8 @@ ZKN_SCARLET_0308_001
 ZKN_SCARLET_0309_000	
 ZKN_SCARLET_0310_000	
 ZKN_SCARLET_0310_001	
-ZKN_SCARLET_0311_000	
-ZKN_SCARLET_0312_000	
+ZKN_SCARLET_0311_000	It cheers on partners while scattering sparks from its body. It climbs telephone poles to absorb electricity.
+ZKN_SCARLET_0312_000	Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.
 ZKN_SCARLET_0313_000	It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.
 ZKN_SCARLET_0314_000	Illumise uses its sweet scent to guide Volbeat, having them form over 200 patterns in the night sky.
 ZKN_SCARLET_0315_000	
@@ -28066,9 +28210,9 @@ ZKN_SCARLET_0324_000	It burns coal inside its shell for energy. It blows out bla
 ZKN_SCARLET_0325_000	Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.
 ZKN_SCARLET_0326_000	It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.
 ZKN_SCARLET_0327_000	
-ZKN_SCARLET_0328_000	
-ZKN_SCARLET_0329_000	
-ZKN_SCARLET_0330_000	
+ZKN_SCARLET_0328_000	This Pokémon lives in arid deserts. It patiently awaits prey inside its funnel- shaped nest.
+ZKN_SCARLET_0329_000	Rather than using its underdeveloped wings for flight, it rubs them together, emitting ultrasonic waves to attack its enemies.
+ZKN_SCARLET_0330_000	Known as the Desert Spirit, this Pokémon hides in the sandstorms it causes by beating its wings.
 ZKN_SCARLET_0331_000	It prefers harsh environments, such as deserts. It can survive for 30 days on water stored in its body.
 ZKN_SCARLET_0332_000	Packs of them follow travelers through the desert until the travelers can no longer move.
 ZKN_SCARLET_0333_000	It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.
@@ -28120,9 +28264,9 @@ ZKN_SCARLET_0371_000	Its steel-hard head can shatter boulders. It longingly hope
 ZKN_SCARLET_0372_000	The cells within its shell transform with explosive speed, preparing it for evolution.
 ZKN_SCARLET_0373_000	It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up everything it passes over.
 ZKN_SCARLET_0373_001	
-ZKN_SCARLET_0374_000	
-ZKN_SCARLET_0375_000	
-ZKN_SCARLET_0376_000	
+ZKN_SCARLET_0374_000	The magnetic force generated by its body repels the ground's natural magnetism, letting it float.
+ZKN_SCARLET_0375_000	It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power.
+ZKN_SCARLET_0376_000	It folds its four legs when flying. Its four brains are said to be superior to a supercomputer.
 ZKN_SCARLET_0376_001	
 ZKN_SCARLET_0377_000	
 ZKN_SCARLET_0378_000	
@@ -28142,15 +28286,15 @@ ZKN_SCARLET_0386_000
 ZKN_SCARLET_0386_001	
 ZKN_SCARLET_0386_002	
 ZKN_SCARLET_0386_003	
-ZKN_SCARLET_0387_000	
-ZKN_SCARLET_0388_000	
-ZKN_SCARLET_0389_000	
-ZKN_SCARLET_0390_000	
-ZKN_SCARLET_0391_000	
-ZKN_SCARLET_0392_000	
-ZKN_SCARLET_0393_000	
-ZKN_SCARLET_0394_000	
-ZKN_SCARLET_0395_000	
+ZKN_SCARLET_0387_000	The shell on its back is made of soil. If the shell is moist to the touch, Turtwig is very healthy.
+ZKN_SCARLET_0388_000	Grotle live in the forest. Each is said to have its own secret place for getting clean springwater.
+ZKN_SCARLET_0389_000	Ancient people imagined that beneath the ground dwelt a gigantic Torterra.
+ZKN_SCARLET_0390_000	It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.
+ZKN_SCARLET_0391_000	It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.
+ZKN_SCARLET_0392_000	This Pokémon confounds opponents with its speed. It uses all its limbs to fight in its own unique style.
+ZKN_SCARLET_0393_000	A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.
+ZKN_SCARLET_0394_000	It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees in half with a single hit.
+ZKN_SCARLET_0395_000	If anyone were to hurt its pride, it would slash them in two with wings that can cleave through an ice floe.
 ZKN_SCARLET_0396_000	They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.
 ZKN_SCARLET_0397_000	Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.
 ZKN_SCARLET_0398_000	When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.
@@ -28163,10 +28307,10 @@ ZKN_SCARLET_0404_000	Strong electricity courses through the tips of its sharp cl
 ZKN_SCARLET_0405_000	It can see clearly through walls to track down its prey and seek its lost young.
 ZKN_SCARLET_0406_000	
 ZKN_SCARLET_0407_000	
-ZKN_SCARLET_0408_000	
-ZKN_SCARLET_0409_000	
-ZKN_SCARLET_0410_000	
-ZKN_SCARLET_0411_000	
+ZKN_SCARLET_0408_000	It lived in jungles around a hundred million years ago. It used its skillful headbutts to combat Aerodactyl.
+ZKN_SCARLET_0409_000	Stifled by a thick skull that can withstand any impact, this Pokémon's brain never got very big.
+ZKN_SCARLET_0410_000	It is outstandingly armored. As a result, it has no particular need to battle with others and can spend its time feeding on grass and berries.
+ZKN_SCARLET_0411_000	While it can guard against any sort of attack from the front, it is left without recourse when attacked from behind.
 ZKN_SCARLET_0412_000	
 ZKN_SCARLET_0412_001	
 ZKN_SCARLET_0412_002	
@@ -28232,17 +28376,17 @@ ZKN_SCARLET_0460_001
 ZKN_SCARLET_0461_000	Evolution made it even more devious. It communicates by clawing signs in boulders.
 ZKN_SCARLET_0462_000	As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.
 ZKN_SCARLET_0463_000	
-ZKN_SCARLET_0464_000	
+ZKN_SCARLET_0464_000	This Pokémon's sturdy carapace protects it from volcanic eruptions. It shoots round rocks from the holes in its hands.
 ZKN_SCARLET_0465_000	
-ZKN_SCARLET_0466_000	
-ZKN_SCARLET_0467_000	
+ZKN_SCARLET_0466_000	When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.
+ZKN_SCARLET_0467_000	When shooting 3,600 degree Fahrenheit fireballs from its arms, its body takes on a whitish hue from the intense heat.
 ZKN_SCARLET_0468_000	
 ZKN_SCARLET_0469_000	Yanmega's wingbeats are so powerful that the Pokémon blows down huge trees nearby when it vigorously launches itself into flight.
 ZKN_SCARLET_0470_000	When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.
 ZKN_SCARLET_0471_000	It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.
 ZKN_SCARLET_0472_000	If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.
 ZKN_SCARLET_0473_000	A frozen Mamoswine was dug from ice dating back 10,000 years. This Pokémon has been around a long, long, long time.
-ZKN_SCARLET_0474_000	
+ZKN_SCARLET_0474_000	An additional program was installed to create a more advanced Pokémon, but it was apparently flawed. Porygon-Z moves oddly as a result.
 ZKN_SCARLET_0475_000	When trying to protect someone, it extends its elbows as if they were swords and fights savagely.
 ZKN_SCARLET_0475_001	
 ZKN_SCARLET_0476_000	It controls three units called Mini-Noses using magnetic force. With them, it can attack a foe from three directions.
@@ -28288,15 +28432,15 @@ ZKN_SCARLET_0493_015
 ZKN_SCARLET_0493_016	
 ZKN_SCARLET_0493_017	
 ZKN_SCARLET_0494_000	
-ZKN_SCARLET_0495_000	
-ZKN_SCARLET_0496_000	
-ZKN_SCARLET_0497_000	
-ZKN_SCARLET_0498_000	
-ZKN_SCARLET_0499_000	
-ZKN_SCARLET_0500_000	
-ZKN_SCARLET_0501_000	
-ZKN_SCARLET_0502_000	
-ZKN_SCARLET_0503_000	
+ZKN_SCARLET_0495_000	The leaf on Snivy's tail generates energy when exposed to sunlight, making Snivy swifter and adding an edge to its moves.
+ZKN_SCARLET_0496_000	It runs low to the ground, weaving through the grass, then mercilessly pummels its target by whipping them with its vines.
+ZKN_SCARLET_0497_000	It generates energy from sunlight, then amplifies that energy dozens of times within its long body.
+ZKN_SCARLET_0498_000	It's more nimble than it looks, and it uses its speed to confound its enemies. It rapidly launches fireballs from both nostrils.
+ZKN_SCARLET_0499_000	When Pignite enters battle, its body temperature rapidly soars until Pignite itself is engulfed by a scorching fireball.
+ZKN_SCARLET_0500_000	The flames blazing deep inside Emboar's chest erupt vigorously from its chin, forming a beard of fire.
+ZKN_SCARLET_0501_000	It wields the scalchop on its stomach like a knife, blocking the moves of its enemies before slashing back at them in swift retaliation.
+ZKN_SCARLET_0502_000	It's said that people modeled swordplay after the way Dewott's movements flow like water while it’s wielding its two scalchops.
+ZKN_SCARLET_0503_000	A master of a sword-drawing art called iaijutsu, Samurott settles its battles with a single swing of either large sword sheathed in its foreleg armor.
 ZKN_SCARLET_0504_000	
 ZKN_SCARLET_0505_000	
 ZKN_SCARLET_0506_000	
@@ -28316,15 +28460,15 @@ ZKN_SCARLET_0519_000
 ZKN_SCARLET_0520_000	
 ZKN_SCARLET_0521_000	
 ZKN_SCARLET_0521_001	
-ZKN_SCARLET_0522_000	
-ZKN_SCARLET_0523_000	
+ZKN_SCARLET_0522_000	Its heartbeat generates electricity. When Blitzle is surprised and its heart rate goes up, the voltage of its electricity also rises.
+ZKN_SCARLET_0523_000	This Pokémon is aggressive and has a volatile disposition. When agitated, it will illuminate its mane in yellow and fire off bolts of electricity.
 ZKN_SCARLET_0524_000	
 ZKN_SCARLET_0525_000	
 ZKN_SCARLET_0526_000	
 ZKN_SCARLET_0527_000	
 ZKN_SCARLET_0528_000	
-ZKN_SCARLET_0529_000	
-ZKN_SCARLET_0530_000	
+ZKN_SCARLET_0529_000	It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.
+ZKN_SCARLET_0530_000	Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.
 ZKN_SCARLET_0531_000	
 ZKN_SCARLET_0531_001	
 ZKN_SCARLET_0532_000	Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.
@@ -28341,8 +28485,8 @@ ZKN_SCARLET_0542_000	This gentle Pokémon has strong protective instincts. The l
 ZKN_SCARLET_0543_000	
 ZKN_SCARLET_0544_000	
 ZKN_SCARLET_0545_000	
-ZKN_SCARLET_0546_000	
-ZKN_SCARLET_0547_000	
+ZKN_SCARLET_0546_000	Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.
+ZKN_SCARLET_0547_000	Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.
 ZKN_SCARLET_0548_000	The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.
 ZKN_SCARLET_0549_000	The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.
 ZKN_SCARLET_0550_000	Its temperament is vicious and aggressive. This Pokémon is also full of vitality and can multiply rapidly before anyone notices.
@@ -28360,8 +28504,8 @@ ZKN_SCARLET_0555_003
 ZKN_SCARLET_0556_000	
 ZKN_SCARLET_0557_000	
 ZKN_SCARLET_0558_000	
-ZKN_SCARLET_0559_000	
-ZKN_SCARLET_0560_000	
+ZKN_SCARLET_0559_000	It stretches its saggy skin up to its neck to protect itself. Among Scraggy, individuals with saggier skin apparently garner more respect.
+ZKN_SCARLET_0560_000	Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.
 ZKN_SCARLET_0561_000	
 ZKN_SCARLET_0562_000	
 ZKN_SCARLET_0562_001	
@@ -28375,14 +28519,14 @@ ZKN_SCARLET_0569_000
 ZKN_SCARLET_0569_999	
 ZKN_SCARLET_0570_000	It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.
 ZKN_SCARLET_0571_000	Stories say those who tried to catch Zoroark were trapped in an illusion and punished.
-ZKN_SCARLET_0572_000	
-ZKN_SCARLET_0573_000	
+ZKN_SCARLET_0572_000	When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean springwater.
+ZKN_SCARLET_0573_000	Their white fur is coated in a special oil that makes it easy for them to deflect attacks.
 ZKN_SCARLET_0574_000	This Pokémon is normally very innocent. When it is staring at something invisible, it is unblinking and utterly silent.
 ZKN_SCARLET_0575_000	This Pokémon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.
 ZKN_SCARLET_0576_000	Gothitelle unleashes psychic energy and shows opponents dreams of the universe's end. These dreams are apparently ethereal and beautiful.
-ZKN_SCARLET_0577_000	
-ZKN_SCARLET_0578_000	
-ZKN_SCARLET_0579_000	
+ZKN_SCARLET_0577_000	Because their bodies are enveloped in a special liquid, they can survive in any environment.
+ZKN_SCARLET_0578_000	Since they have two divided brains, at times they suddenly try to take two different actions at once.
+ZKN_SCARLET_0579_000	Their arms are made of a special liquid. They use psychic power to control these arms and crush boulders.
 ZKN_SCARLET_0580_000	It's not very good at flying yet. It watches the dances of its Swanna parents to learn how to move its wings.
 ZKN_SCARLET_0581_000	Centered around its leader, the flock dances in perfect sync to strengthen its unity.
 ZKN_SCARLET_0582_000	
@@ -28406,8 +28550,8 @@ ZKN_SCARLET_0592_001
 ZKN_SCARLET_0593_000	
 ZKN_SCARLET_0593_001	
 ZKN_SCARLET_0594_000	It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.
-ZKN_SCARLET_0595_000	
-ZKN_SCARLET_0596_000	
+ZKN_SCARLET_0595_000	Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.
+ZKN_SCARLET_0596_000	They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.
 ZKN_SCARLET_0597_000	
 ZKN_SCARLET_0598_000	
 ZKN_SCARLET_0599_000	
@@ -28434,8 +28578,8 @@ ZKN_SCARLET_0618_001
 ZKN_SCARLET_0619_000	In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.
 ZKN_SCARLET_0620_000	When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!
 ZKN_SCARLET_0621_000	
-ZKN_SCARLET_0622_000	
-ZKN_SCARLET_0623_000	
+ZKN_SCARLET_0622_000	These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.
+ZKN_SCARLET_0623_000	When the seal on its chest is removed, it rages indiscriminately. During such rampages, it can turn a whole town into a mountain of rubble.
 ZKN_SCARLET_0624_000	Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.
 ZKN_SCARLET_0625_000	This Pokémon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.
 ZKN_SCARLET_0626_000	
@@ -28473,15 +28617,15 @@ ZKN_SCARLET_0649_001
 ZKN_SCARLET_0649_002	
 ZKN_SCARLET_0649_003	
 ZKN_SCARLET_0649_004	
-ZKN_SCARLET_0650_000	
-ZKN_SCARLET_0651_000	
-ZKN_SCARLET_0652_000	
-ZKN_SCARLET_0653_000	
-ZKN_SCARLET_0654_000	
-ZKN_SCARLET_0655_000	
-ZKN_SCARLET_0656_000	
-ZKN_SCARLET_0657_000	
-ZKN_SCARLET_0658_000	
+ZKN_SCARLET_0650_000	When Chespin tenses up just before landing a headbutt, the spikes on its head sharpen to points, piercing the enemy's body on contact.
+ZKN_SCARLET_0651_000	It's protected by a sturdy shell. The shell is also very heavy, which naturally strengthens Quilladin's lower body.
+ZKN_SCARLET_0652_000	When its allies are in trouble, Chesnaught creates a shield with its arms and uses its own body to block attacks.
+ZKN_SCARLET_0653_000	This Pokémon gets worked up easily. Its body can also overheat, so it uses its ears to dissipate the heat and calm down.
+ZKN_SCARLET_0654_000	It ignites the twig from its tail and waves the twig around to signal its allies. To indicate danger, it draws circles in the air with the twig's flame.
+ZKN_SCARLET_0655_000	It leaves burn marks in the ground with the flame at the tip of its wand. Long ago, people used the shapes of these burn marks for divination.
+ZKN_SCARLET_0656_000	Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed.
+ZKN_SCARLET_0657_000	It excels at devising battle strategies that make use of the terrain, and it never misses its mark when throwing bubble-covered pebbles.
+ZKN_SCARLET_0658_000	The movement of air against the long tongue Greninja keeps wrapped around its neck allows it to sense enemies it can't see.
 ZKN_SCARLET_0658_001	
 ZKN_SCARLET_0658_002	
 ZKN_SCARLET_0659_000	
@@ -28581,9 +28725,9 @@ ZKN_SCARLET_0676_006
 ZKN_SCARLET_0676_007	
 ZKN_SCARLET_0676_008	
 ZKN_SCARLET_0676_009	
-ZKN_SCARLET_0677_000	
-ZKN_SCARLET_0678_000	
-ZKN_SCARLET_0678_001	
+ZKN_SCARLET_0677_000	It keeps its ears covered to prevent the intense psychic power in its body from escaping, but it falls unconscious if this power builds too much.
+ZKN_SCARLET_0678_000	Though it has enough psychic power to blast away any opponent, Meowstic prefers to support its allies rather than attack.
+ZKN_SCARLET_0678_001	Female Meowstic are more aggressive than males. Their expression remains blank even while they're wielding immense psychic power.
 ZKN_SCARLET_0679_000	
 ZKN_SCARLET_0680_000	
 ZKN_SCARLET_0681_000	
@@ -28592,8 +28736,8 @@ ZKN_SCARLET_0682_000
 ZKN_SCARLET_0683_000	
 ZKN_SCARLET_0684_000	
 ZKN_SCARLET_0685_000	
-ZKN_SCARLET_0686_000	
-ZKN_SCARLET_0687_000	
+ZKN_SCARLET_0686_000	It protects itself from tough foes by flashing its luminescent spots to discourage them.
+ZKN_SCARLET_0687_000	Its hypnotic powers are dangerously strong. Anyone who falls under Malamar's control loses their memories surrounding the event.
 ZKN_SCARLET_0688_000	
 ZKN_SCARLET_0689_000	
 ZKN_SCARLET_0690_000	Skrelp evades its enemies by hiding amid drifting seaweed. It eats rotten seaweed to create its poison.
@@ -28641,18 +28785,18 @@ ZKN_SCARLET_0719_001
 ZKN_SCARLET_0720_000	
 ZKN_SCARLET_0720_001	
 ZKN_SCARLET_0721_000	
-ZKN_SCARLET_0722_000	
-ZKN_SCARLET_0723_000	
-ZKN_SCARLET_0724_000	
-ZKN_SCARLET_0725_000	
-ZKN_SCARLET_0726_000	
-ZKN_SCARLET_0727_000	
-ZKN_SCARLET_0728_000	
-ZKN_SCARLET_0729_000	
-ZKN_SCARLET_0730_000	
-ZKN_SCARLET_0731_000	
-ZKN_SCARLET_0732_000	
-ZKN_SCARLET_0733_000	
+ZKN_SCARLET_0722_000	Silently it glides, streaking toward its targets to get close to them. Before they even notice it, it begins to pelt them with vicious kicks.
+ZKN_SCARLET_0723_000	This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.
+ZKN_SCARLET_0724_000	It cunningly conceals arrow quills in its wings. It launches these quills with such precision that they can pierce a pebble at over a hundred yards.
+ZKN_SCARLET_0725_000	If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.
+ZKN_SCARLET_0726_000	At its throat, it bears a bell of fire. The bell rings brightly whenever fire spews out.
+ZKN_SCARLET_0727_000	When its fighting spirit is set alight, the flames around its waist become especially intense.
+ZKN_SCARLET_0728_000	This Pokémon can control balloons made of water. It practices diligently so it can learn to make big balloons.
+ZKN_SCARLET_0729_000	A skillful dancer, it creates a sequence of water balloons as it dances, then briskly bombards its enemies.
+ZKN_SCARLET_0730_000	To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.
+ZKN_SCARLET_0731_000	Using its beak to strike 16 times per second, it opens holes in even the hardest of trees.
+ZKN_SCARLET_0732_000	It flies around using a hundred different cries in various ways to declare its territory to others.
+ZKN_SCARLET_0733_000	The compressed gas in Toucannon's beak launches seeds with such force that they can shatter large boulders.
 ZKN_SCARLET_0734_000	Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.
 ZKN_SCARLET_0735_000	Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.
 ZKN_SCARLET_0735_001	
@@ -28680,8 +28824,8 @@ ZKN_SCARLET_0747_000	This Pokémon wanders the seaside looking for food. It ofte
 ZKN_SCARLET_0748_000	This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.
 ZKN_SCARLET_0749_000	This Pokémon covers itself in mud that it has regurgitated. The mud won't dry out even if it's exposed to the sun for a long time.
 ZKN_SCARLET_0750_000	This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.
-ZKN_SCARLET_0751_000	
-ZKN_SCARLET_0752_000	
+ZKN_SCARLET_0751_000	Dewpider uses sticky threads to create the water bubble that covers its head, so the bubble very rarely bursts.
+ZKN_SCARLET_0752_000	A caring Pokémon, Araquanid carries Dewpider around inside its water bubble to protect them as it walks. It protects its food in its bubble too.
 ZKN_SCARLET_0752_001	
 ZKN_SCARLET_0753_000	Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.
 ZKN_SCARLET_0754_000	By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.
@@ -28696,7 +28840,7 @@ ZKN_SCARLET_0760_000
 ZKN_SCARLET_0761_000	Its sweat is sweet, like syrup made from boiled- down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.
 ZKN_SCARLET_0762_000	Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.
 ZKN_SCARLET_0763_000	This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.
-ZKN_SCARLET_0764_000	
+ZKN_SCARLET_0764_000	It uses its vine to pick flowers. The flowers that Comfey attaches to itself develop healing properties.
 ZKN_SCARLET_0765_000	People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.
 ZKN_SCARLET_0766_000	This Pokémon battles by throwing hard berries. It won't obey a Trainer who throws Poké Balls without skill.
 ZKN_SCARLET_0767_000	
@@ -28723,20 +28867,20 @@ ZKN_SCARLET_0773_014
 ZKN_SCARLET_0773_015	
 ZKN_SCARLET_0773_016	
 ZKN_SCARLET_0773_017	
-ZKN_SCARLET_0774_000	
-ZKN_SCARLET_0774_001	
-ZKN_SCARLET_0774_002	
-ZKN_SCARLET_0774_003	
-ZKN_SCARLET_0774_004	
-ZKN_SCARLET_0774_005	
-ZKN_SCARLET_0774_006	
-ZKN_SCARLET_0774_007	
-ZKN_SCARLET_0774_008	
-ZKN_SCARLET_0774_009	
-ZKN_SCARLET_0774_010	
-ZKN_SCARLET_0774_011	
-ZKN_SCARLET_0774_012	
-ZKN_SCARLET_0774_013	
+ZKN_SCARLET_0774_000	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_001	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_002	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_003	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_004	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_005	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_006	This Pokémon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.
+ZKN_SCARLET_0774_007	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
+ZKN_SCARLET_0774_008	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
+ZKN_SCARLET_0774_009	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
+ZKN_SCARLET_0774_010	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
+ZKN_SCARLET_0774_011	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
+ZKN_SCARLET_0774_012	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
+ZKN_SCARLET_0774_013	Minior that fall to the ground try to return to space, but their wish will not come true—all they can do is fade away.
 ZKN_SCARLET_0775_000	Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.
 ZKN_SCARLET_0776_000	
 ZKN_SCARLET_0777_000	
@@ -28782,17 +28926,17 @@ ZKN_SCARLET_0807_000
 ZKN_SCARLET_0808_000	
 ZKN_SCARLET_0809_000	
 ZKN_SCARLET_0809_999	
-ZKN_SCARLET_0810_000	
-ZKN_SCARLET_0811_000	
-ZKN_SCARLET_0812_000	
+ZKN_SCARLET_0810_000	The stick Grookey holds has grown harder and more flexible after soaking in the energy that emanates from inside Grookey's body.
+ZKN_SCARLET_0811_000	It skillfully uses its two sticks not only for drumming out rapid beats but also for pummeling opponents during battle.
+ZKN_SCARLET_0812_000	Though it has a calm disposition, it won't tolerate those who drum up discord. It strictly disciplines offenders until they learn their lesson.
 ZKN_SCARLET_0812_999	
-ZKN_SCARLET_0813_000	
-ZKN_SCARLET_0814_000	
-ZKN_SCARLET_0815_000	
+ZKN_SCARLET_0813_000	Once its body has heated up, Scorbunny can use the full extent of its power. That's why it does warm-up exercises.
+ZKN_SCARLET_0814_000	Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power.
+ZKN_SCARLET_0815_000	Although Cinderace loses its cool easily, it will battle flawlessly for a Trainer it trusts.
 ZKN_SCARLET_0815_999	
-ZKN_SCARLET_0816_000	
-ZKN_SCARLET_0817_000	
-ZKN_SCARLET_0818_000	
+ZKN_SCARLET_0816_000	It gets berries to eat by shooting them down with bullets of water it spurts from its mouth. Its aim is perfect.
+ZKN_SCARLET_0817_000	It extends its long, slimy tongue at blinding speeds and finishes off its prey with great skill.
+ZKN_SCARLET_0818_000	It uses special lenses in its eyes to sense things about its opponents—like their body heat—then attacks once it identifies a weak spot.
 ZKN_SCARLET_0818_999	
 ZKN_SCARLET_0819_000	It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.
 ZKN_SCARLET_0820_000	If it spots a berry tree, it will immediately go to gather berries without a sideways glance—even if it's in the middle of a battle.
@@ -28859,16 +29003,16 @@ ZKN_SCARLET_0864_000
 ZKN_SCARLET_0865_000	
 ZKN_SCARLET_0866_000	
 ZKN_SCARLET_0867_000	
-ZKN_SCARLET_0868_000	
-ZKN_SCARLET_0869_000	
-ZKN_SCARLET_0869_001	
-ZKN_SCARLET_0869_002	
-ZKN_SCARLET_0869_003	
-ZKN_SCARLET_0869_004	
-ZKN_SCARLET_0869_005	
-ZKN_SCARLET_0869_006	
-ZKN_SCARLET_0869_007	
-ZKN_SCARLET_0869_008	
+ZKN_SCARLET_0868_000	The more sweet aromas it absorbs, the more its body swells. Milcery will deflate when its energy level drops.
+ZKN_SCARLET_0869_000	Desserts that Alcremie have decorated with their cream have a rich, sweet flavor and bring happiness to all who eat them.
+ZKN_SCARLET_0869_001	Slight vibrations shook its cells when it evolved, giving it a sweet and tart flavor.
+ZKN_SCARLET_0869_002	Slight vibrations shook its cells when it evolved, giving it an aromatic flavor.
+ZKN_SCARLET_0869_003	Slight vibrations shook its cells when it evolved, giving it a refreshing flavor.
+ZKN_SCARLET_0869_004	Slight vibrations shook its cells when it evolved, giving it a sour flavor.
+ZKN_SCARLET_0869_005	Slight vibrations shook its cells when it evolved, giving it a salty flavor.
+ZKN_SCARLET_0869_006	Slight vibrations shook its cells when it evolved, giving it a mixed flavor.
+ZKN_SCARLET_0869_007	Slight vibrations shook its cells when it evolved, giving it a bitter flavor.
+ZKN_SCARLET_0869_008	Slight vibrations shook its cells when it evolved, giving it a complex flavor.
 ZKN_SCARLET_0869_999	
 ZKN_SCARLET_0870_000	The brass, which is the one that stands at the front and issues orders, is the strongest and smartest of the six.
 ZKN_SCARLET_0871_000	This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.
@@ -28888,7 +29032,7 @@ ZKN_SCARLET_0880_000
 ZKN_SCARLET_0881_000	
 ZKN_SCARLET_0882_000	
 ZKN_SCARLET_0883_000	
-ZKN_SCARLET_0884_000	
+ZKN_SCARLET_0884_000	Duraludon's body is comprised of a special metal that’s lightweight and scratch resistant. It's also smooth, as though it was given a mirror finish.
 ZKN_SCARLET_0884_999	
 ZKN_SCARLET_0885_000	In the evening, groups of Dreepy will fly at high speeds over the ocean and poke at Pokémon in the water for fun.
 ZKN_SCARLET_0886_000	This Pokémon flies around at over 120 miles per hour. If a Drakloak is defeated in a battle, its Dreepy will wander off without a second thought.
@@ -29031,8 +29175,8 @@ ZKN_SCARLET_1007_000	This seems to be the Winged King mentioned in an old expedi
 ZKN_SCARLET_1007_001	
 ZKN_SCARLET_1008_000	Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.
 ZKN_SCARLET_1008_001	
-ZKN_SCARLET_1009_000	Ecology under research.
-ZKN_SCARLET_1010_000	Ecology under analysis.
+ZKN_SCARLET_1009_000	This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.
+ZKN_SCARLET_1010_000	Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.
 ZKN_SCARLET_0901_001	It crossed the sea and drifted ashore in a new land. Surviving in this place led it to take on a unique appearance and gain special powers.
 ZKN_SCARLET_1011_000	Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.
 ZKN_SCARLET_1012_000	Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.
@@ -29046,6 +29190,18 @@ ZKN_SCARLET_1017_000	This Pokémon's type changes based on which mask it's weari
 ZKN_SCARLET_1017_001	This form excels in both attack and defense. It ceaselessly unleashes moves like a spring gushes water.
 ZKN_SCARLET_1017_002	This form is the most aggressive, bombarding enemies with the intensity of flames blazing within a hearth.
 ZKN_SCARLET_1017_003	This form has excellent defenses, absorbing impacts solidly like the cornerstones that support houses.
+ZKN_SCARLET_1018_000	It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.
+ZKN_SCARLET_1019_000	Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.
+ZKN_SCARLET_1020_000	There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.
+ZKN_SCARLET_1021_000	It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.
+ZKN_SCARLET_1022_000	It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.
+ZKN_SCARLET_1023_000	It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.
+ZKN_SCARLET_1024_000	Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.
+ZKN_SCARLET_1024_001	Upon sensing danger, it prepares itself for battle by creating a sturdy shell of crystallized Terastal energy.
+ZKN_SCARLET_1024_002	In this form, Terapagos resembles the world as the ancients saw it, and its Terastal energy is abnormally amplified.
+ZKN_SCARLET_0900_000	Parts of its body turned to stone when it evolved thanks to an extremely rare ore found in volcanic areas.
+ZKN_SCARLET_0904_000	Overqwil's poisonous spikes will reflexively react even while Overqwil sleeps, stabbing any moving thing that approaches.
+ZKN_SCARLET_0211_001	It lives just offshore in cold parts of the world. Its poisonous spikes are thicker and shorter than those of other regions' Qwilfish.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_shield_usa.msbt
@@ -35516,20 +35672,20 @@ ZKN_ULSUN_801_001	This is its form from almost 500 years ago. Its body is nothin
 Text File : zukan_comment_violet_usa.msbt
 ~~~~~~~~~~~~~~~
 ZKN_VIOLET_0000_000	
-ZKN_VIOLET_0001_000	
-ZKN_VIOLET_0002_000	
-ZKN_VIOLET_0003_000	
+ZKN_VIOLET_0001_000	It carries a seed on its back right from birth. As its body grows larger, the seed does too.
+ZKN_VIOLET_0002_000	The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms.
+ZKN_VIOLET_0003_000	By spreading the broad petals of its flower and catching the sun's rays, it fills its body with power.
 ZKN_VIOLET_0003_001	
 ZKN_VIOLET_0003_999	
-ZKN_VIOLET_0004_000	
-ZKN_VIOLET_0005_000	
-ZKN_VIOLET_0006_000	
+ZKN_VIOLET_0004_000	If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won't go out even if it gets a bit wet.
+ZKN_VIOLET_0005_000	It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn't win.
+ZKN_VIOLET_0006_000	It uses its wings to fly sky-high. The more experience it gains in battle, the greater the temperature at which its flames burn.
 ZKN_VIOLET_0006_001	
 ZKN_VIOLET_0006_002	
 ZKN_VIOLET_0006_999	
-ZKN_VIOLET_0007_000	
-ZKN_VIOLET_0008_000	
-ZKN_VIOLET_0009_000	
+ZKN_VIOLET_0007_000	Its shell is soft immediately after it is born. In no time at all, the shell becomes so resilient that a prodding finger will bounce right off it.
+ZKN_VIOLET_0008_000	It often hides in water to stalk unwary prey. While swimming quickly, it moves its ears to maintain balance.
+ZKN_VIOLET_0009_000	It has jet nozzles on its shell. This impressive Pokémon uses these jets to charge toward foes with all the force of a rocket.
 ZKN_VIOLET_0009_001	
 ZKN_VIOLET_0009_999	
 ZKN_VIOLET_0010_000	
@@ -35567,9 +35723,9 @@ ZKN_VIOLET_0025_999
 ZKN_VIOLET_0026_000	If the electric pouches in its cheeks become fully charged, both ears will stand straight up.
 ZKN_VIOLET_0026_001	
 ZKN_VIOLET_0027_000	No matter how high a place it falls from, this Pokémon can save itself by rolling into a ball and bouncing.
-ZKN_VIOLET_0027_001	
+ZKN_VIOLET_0027_001	An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can.
 ZKN_VIOLET_0028_000	The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.
-ZKN_VIOLET_0028_001	
+ZKN_VIOLET_0028_001	A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can run right up an iceberg without slipping.
 ZKN_VIOLET_0029_000	
 ZKN_VIOLET_0030_000	
 ZKN_VIOLET_0031_000	
@@ -35579,24 +35735,24 @@ ZKN_VIOLET_0034_000
 ZKN_VIOLET_0035_000	On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.
 ZKN_VIOLET_0036_000	It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.
 ZKN_VIOLET_0037_000	As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.
-ZKN_VIOLET_0037_001	
+ZKN_VIOLET_0037_001	In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off.
 ZKN_VIOLET_0038_000	It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.
-ZKN_VIOLET_0038_001	
+ZKN_VIOLET_0038_001	It creates drops of ice in its coat and showers them over its enemies. Anyone who angers it will be frozen stiff in an instant.
 ZKN_VIOLET_0039_000	If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.
 ZKN_VIOLET_0040_000	The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it.
 ZKN_VIOLET_0041_000	
 ZKN_VIOLET_0042_000	
-ZKN_VIOLET_0043_000	
-ZKN_VIOLET_0044_000	
-ZKN_VIOLET_0045_000	
+ZKN_VIOLET_0043_000	When it is woken by moonlight, it wanders about. But during the day, it stays still underground.
+ZKN_VIOLET_0044_000	It secretes a sticky, drool-like nectar. Though sweet, it smells too repulsive to get very close.
+ZKN_VIOLET_0045_000	It fiendishly scatters allergenic pollen from its petals, which are the largest in the world.
 ZKN_VIOLET_0046_000	
 ZKN_VIOLET_0047_000	
 ZKN_VIOLET_0048_000	Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.
 ZKN_VIOLET_0049_000	When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.
 ZKN_VIOLET_0050_000	Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.
-ZKN_VIOLET_0050_001	
+ZKN_VIOLET_0050_001	Its golden whiskers function as sensors. It pokes them out of its burrow to monitor its surroundings.
 ZKN_VIOLET_0051_000	In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.
-ZKN_VIOLET_0051_001	
+ZKN_VIOLET_0051_001	Its metallic whiskers are heavy, so it's not very fast, but it has the power to dig through even the hardest bedrock.
 ZKN_VIOLET_0052_000	It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.
 ZKN_VIOLET_0052_001	
 ZKN_VIOLET_0052_002	
@@ -35623,35 +35779,35 @@ ZKN_VIOLET_0068_999
 ZKN_VIOLET_0069_000	It plants its feet deep underground to rehydrate itself. While doing so, it's unable to run away if it's attacked.
 ZKN_VIOLET_0070_000	The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.
 ZKN_VIOLET_0071_000	After dissolving many prey, this Pokémon's acid becomes sweeter. This makes it even easier to attract more prey.
-ZKN_VIOLET_0072_000	
-ZKN_VIOLET_0073_000	
+ZKN_VIOLET_0072_000	Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light.
+ZKN_VIOLET_0073_000	In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.
 ZKN_VIOLET_0074_000	Most people may not notice, but a closer look should reveal that there are many Geodude around.
-ZKN_VIOLET_0074_001	
+ZKN_VIOLET_0074_001	If you step on a Geodude sleeping on the ground, you'll hear a zapping sound and feel a tingling shock throughout your entire body.
 ZKN_VIOLET_0075_000	Moss-covered rocks are Graveler's favorite food. It consumes over a ton of them a day, crunching loudly while it eats.
-ZKN_VIOLET_0075_001	
+ZKN_VIOLET_0075_001	Graveler's entire body is electrically charged due to the stones it likes to eat. It is a very quick-tempered Pokémon.
 ZKN_VIOLET_0076_000	It deliberately blows itself up, then uses this explosive force to jump from mountain to mountain.
-ZKN_VIOLET_0076_001	
+ZKN_VIOLET_0076_001	It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.
 ZKN_VIOLET_0077_000	
 ZKN_VIOLET_0077_001	
 ZKN_VIOLET_0078_000	
 ZKN_VIOLET_0078_001	
 ZKN_VIOLET_0079_000	It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.
-ZKN_VIOLET_0079_001	
+ZKN_VIOLET_0079_001	It uses its tail to fish, but the scent of the spice emanating from its tail ensures its catches are always lacking.
 ZKN_VIOLET_0080_000	If the tail-biting Shellder is thrown off in a harsh battle, this Pokémon reverts to being an ordinary Slowpoke.
 ZKN_VIOLET_0080_001	
-ZKN_VIOLET_0080_002	
+ZKN_VIOLET_0080_002	Shellder bites down hard on Slowbro's arm to suck out more poison. This seems to cause itching, so Slowbro occasionally lashes out.
 ZKN_VIOLET_0081_000	It moves while constantly hovering. It discharges electromagnetic waves and so on from the units at its sides.
 ZKN_VIOLET_0082_000	They're formed by several Magnemite linked together. They frequently appear when sunspots flare up.
 ZKN_VIOLET_0083_000	
 ZKN_VIOLET_0083_001	
-ZKN_VIOLET_0084_000	
-ZKN_VIOLET_0085_000	
-ZKN_VIOLET_0086_000	
-ZKN_VIOLET_0087_000	
+ZKN_VIOLET_0084_000	Its heads never sleep at the same time—each one takes a turn keeping watch while the other sleeps, switching every hour or so.
+ZKN_VIOLET_0085_000	The strongest head with the thickest neck becomes the leader and gains primary control of the body.
+ZKN_VIOLET_0086_000	The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice.
+ZKN_VIOLET_0087_000	It stores thermal energy in its body to fend off the cold. It swims at eight knots even in frigid waters.
 ZKN_VIOLET_0088_000	When two of these Pokémon's bodies are combined together, new poisons are created.
-ZKN_VIOLET_0088_001	
+ZKN_VIOLET_0088_001	Alolan Grimer will gladly gobble up any kind of trash, making it a widely used and popular Pokémon at garbage disposal facilities.
 ZKN_VIOLET_0089_000	It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by.
-ZKN_VIOLET_0089_001	
+ZKN_VIOLET_0089_001	What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.
 ZKN_VIOLET_0090_000	Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.
 ZKN_VIOLET_0091_000	When attacked, it launches its spikes in quick volleys. Its innards have never been seen.
 ZKN_VIOLET_0092_000	Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.
@@ -35667,27 +35823,27 @@ ZKN_VIOLET_0099_000
 ZKN_VIOLET_0099_999	
 ZKN_VIOLET_0100_000	It's usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.
 ZKN_VIOLET_0101_000	It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.
-ZKN_VIOLET_0102_000	
-ZKN_VIOLET_0103_000	
-ZKN_VIOLET_0103_001	
+ZKN_VIOLET_0102_000	Using telepathy only fellow Exeggcute can pick up on, they always form a cluster of six.
+ZKN_VIOLET_0103_000	It is said that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.
+ZKN_VIOLET_0103_001	As it grew taller and taller, it outgrew its reliance on psychic powers, while within it awakened the power of the sleeping dragon.
 ZKN_VIOLET_0104_000	
 ZKN_VIOLET_0105_000	
 ZKN_VIOLET_0105_001	
 ZKN_VIOLET_0105_002	
-ZKN_VIOLET_0106_000	
-ZKN_VIOLET_0107_000	
+ZKN_VIOLET_0106_000	It has complete control over the ligaments in its legs, expanding and contracting them to double the reach of its kicks.
+ZKN_VIOLET_0107_000	Its fists are masses of muscle. It takes a break every three minutes to steady its breath and mood.
 ZKN_VIOLET_0108_000	
 ZKN_VIOLET_0109_000	The poisonous gases it contains are a little bit lighter than air. That's why it's always slightly airborne.
 ZKN_VIOLET_0110_000	When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.
 ZKN_VIOLET_0110_001	
-ZKN_VIOLET_0111_000	
-ZKN_VIOLET_0112_000	
+ZKN_VIOLET_0111_000	Once it starts running, it won't stop—even if it crashes through boulders. This disposition is what's caused its habitat to expand.
+ZKN_VIOLET_0112_000	It evolved to walk using only its hind legs, which has allowed it to expand its habitat even onto steep mountains.
 ZKN_VIOLET_0113_000	It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.
 ZKN_VIOLET_0114_000	
 ZKN_VIOLET_0115_000	
 ZKN_VIOLET_0115_001	
-ZKN_VIOLET_0116_000	
-ZKN_VIOLET_0117_000	
+ZKN_VIOLET_0116_000	It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.
+ZKN_VIOLET_0117_000	Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.
 ZKN_VIOLET_0118_000	
 ZKN_VIOLET_0119_000	
 ZKN_VIOLET_0120_000	
@@ -35696,18 +35852,18 @@ ZKN_VIOLET_0122_000
 ZKN_VIOLET_0122_001	
 ZKN_VIOLET_0123_000	The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.
 ZKN_VIOLET_0124_000	
-ZKN_VIOLET_0125_000	
-ZKN_VIOLET_0126_000	
+ZKN_VIOLET_0125_000	Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.
+ZKN_VIOLET_0126_000	Wavering flames similar to those of the sun appear on the surface of this Pokémon's body.
 ZKN_VIOLET_0127_000	
 ZKN_VIOLET_0127_001	
-ZKN_VIOLET_0128_000	
+ZKN_VIOLET_0128_000	They fight each other by locking horns. The herd's protectors take pride in their battle-scarred horns.
 ZKN_VIOLET_0128_001	This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.
 ZKN_VIOLET_0128_002	People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.
 ZKN_VIOLET_0128_003	It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.
 ZKN_VIOLET_0129_000	In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.
 ZKN_VIOLET_0130_000	It appears whenever there is world conflict, burning down any place it travels through.
 ZKN_VIOLET_0130_001	
-ZKN_VIOLET_0131_000	
+ZKN_VIOLET_0131_000	Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.
 ZKN_VIOLET_0131_999	
 ZKN_VIOLET_0132_000	It can freely recombine its own cellular structure to transform into other life-forms.
 ZKN_VIOLET_0133_000	Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.
@@ -35716,7 +35872,7 @@ ZKN_VIOLET_0133_999
 ZKN_VIOLET_0134_000	Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water.
 ZKN_VIOLET_0135_000	If agitated, it uses electricity to straighten out its fur and launch it in small bunches.
 ZKN_VIOLET_0136_000	It fluffs out its fur collar to cool down its body temperature, which can reach 1,650 degrees Fahrenheit.
-ZKN_VIOLET_0137_000	
+ZKN_VIOLET_0137_000	Porygon is an artificial Pokémon created using advanced scientific means. It can move freely through cyberspace.
 ZKN_VIOLET_0138_000	
 ZKN_VIOLET_0139_000	
 ZKN_VIOLET_0140_000	
@@ -35738,15 +35894,15 @@ ZKN_VIOLET_0150_000
 ZKN_VIOLET_0150_001	
 ZKN_VIOLET_0150_002	
 ZKN_VIOLET_0151_000	
-ZKN_VIOLET_0152_000	
-ZKN_VIOLET_0153_000	
-ZKN_VIOLET_0154_000	
-ZKN_VIOLET_0155_000	
-ZKN_VIOLET_0156_000	
-ZKN_VIOLET_0157_000	
-ZKN_VIOLET_0158_000	
-ZKN_VIOLET_0159_000	
-ZKN_VIOLET_0160_000	
+ZKN_VIOLET_0152_000	Its pleasantly aromatic leaf has the ability to check the humidity and temperature of the area around it.
+ZKN_VIOLET_0153_000	The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.
+ZKN_VIOLET_0154_000	Meganium's breath holds within it the power to revive grasses and plants that have withered.
+ZKN_VIOLET_0155_000	The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes.
+ZKN_VIOLET_0156_000	The fur covering this Pokémon's body never burns, no matter what. It can shrug off any kind of fire attack.
+ZKN_VIOLET_0157_000	If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.
+ZKN_VIOLET_0158_000	This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.
+ZKN_VIOLET_0159_000	It opens its huge jaws wide to attack. If it loses fangs while biting, they'll just keep on growing back, one after another.
+ZKN_VIOLET_0160_000	Although it has a massive body, its powerful hind legs enable it to move quickly, even on land.
 ZKN_VIOLET_0161_000	If it encounters a foe, it will stand up on its tail, making itself look bigger than usual to intimidate them.
 ZKN_VIOLET_0162_000	It is nimble and has a very flexible body. Even if you get ahold of it, it'll slip right out of your arms.
 ZKN_VIOLET_0163_000	Since it tells time precisely, some countries consider it to be a deity of wisdom, versed in the ways of the world.
@@ -35756,8 +35912,8 @@ ZKN_VIOLET_0166_000
 ZKN_VIOLET_0167_000	Some fishers weave its sturdy thread into nets to catch fish Pokémon.
 ZKN_VIOLET_0168_000	It wanders in search of food after darkness falls, never nesting in a specific place.
 ZKN_VIOLET_0169_000	
-ZKN_VIOLET_0170_000	
-ZKN_VIOLET_0171_000	
+ZKN_VIOLET_0170_000	It shoots positively and negatively charged electricity from the tips of its two antennae and stuns its opponents.
+ZKN_VIOLET_0171_000	It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.
 ZKN_VIOLET_0172_000	Despite this Pokémon's cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts.
 ZKN_VIOLET_0173_000	Since it is often seen when shooting stars fill the night skies, it's said to come here by riding on a star.
 ZKN_VIOLET_0174_000	It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little.
@@ -35769,7 +35925,7 @@ ZKN_VIOLET_0179_000	Its fleece grows continually. In the summer, the fleece is f
 ZKN_VIOLET_0180_000	Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur.
 ZKN_VIOLET_0181_000	When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.
 ZKN_VIOLET_0181_001	
-ZKN_VIOLET_0182_000	
+ZKN_VIOLET_0182_000	After it grows up, it leaves the forest it was born in to form groups with other Bellossom. It breaks into dance when it gets excited.
 ZKN_VIOLET_0183_000	The oil-filled tail functions as a buoy, so it's fine even in rivers with strong currents.
 ZKN_VIOLET_0184_000	By keeping still and listening intently, it can tell what is in even wild, fast-moving rivers.
 ZKN_VIOLET_0185_000	To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.
@@ -35788,7 +35944,7 @@ ZKN_VIOLET_0196_000	It uses the fine hair that covers its body to sense air curr
 ZKN_VIOLET_0197_000	When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.
 ZKN_VIOLET_0198_000	If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.
 ZKN_VIOLET_0199_000	It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.
-ZKN_VIOLET_0199_001	
+ZKN_VIOLET_0199_001	It creates potions by mixing toxins with the food it's eaten. Not even Slowking itself knows what effects the potions will have.
 ZKN_VIOLET_0200_000	It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.
 ZKN_VIOLET_0201_000	
 ZKN_VIOLET_0201_001	
@@ -35826,8 +35982,8 @@ ZKN_VIOLET_0206_000	If spotted, it escapes by burrowing with its tail. It can fl
 ZKN_VIOLET_0207_000	It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.
 ZKN_VIOLET_0208_000	
 ZKN_VIOLET_0208_001	
-ZKN_VIOLET_0209_000	
-ZKN_VIOLET_0210_000	
+ZKN_VIOLET_0209_000	Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day.
+ZKN_VIOLET_0210_000	It can make most any Pokémon run away by opening its big mouth to reveal its thick fangs.
 ZKN_VIOLET_0211_000	Experienced fishers say they try to catch Qwilfish in the brief moment that these Pokémon become defenseless just after launching poisonous spikes.
 ZKN_VIOLET_0212_000	It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.
 ZKN_VIOLET_0212_001	
@@ -35847,21 +36003,21 @@ ZKN_VIOLET_0223_000
 ZKN_VIOLET_0224_000	
 ZKN_VIOLET_0225_000	It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.
 ZKN_VIOLET_0226_000	
-ZKN_VIOLET_0227_000	
+ZKN_VIOLET_0227_000	Since the feathers that it sheds are thin and sharp, people apparently once used them as swords.
 ZKN_VIOLET_0228_000	It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.
 ZKN_VIOLET_0229_000	Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.
 ZKN_VIOLET_0229_001	
-ZKN_VIOLET_0230_000	
+ZKN_VIOLET_0230_000	This Pokémon is said to sleep at the bottom of the sea—deeper than any other life-form can descend—building its energy.
 ZKN_VIOLET_0231_000	It is far stronger than it appears. If a Phanpy is swinging its trunk around and your arm gets hit by it, your arm bone will shatter.
 ZKN_VIOLET_0232_000	Donphan is normally a calm Pokémon, but once it is enraged, it will curl its body into a ball and charge at you while rolling.
-ZKN_VIOLET_0233_000	
+ZKN_VIOLET_0233_000	Porygon was upgraded to become capable of planetary development. However, this upgraded version cannot even fly yet.
 ZKN_VIOLET_0234_000	It's said that this Pokémon used to be stronger long ago when it had many enemies, and that it was even able to evolve under its own power.
-ZKN_VIOLET_0235_000	
-ZKN_VIOLET_0236_000	
-ZKN_VIOLET_0237_000	
+ZKN_VIOLET_0235_000	The color of the mysterious fluid secreted from the tip of the tail is predetermined for each Smeargle.
+ZKN_VIOLET_0236_000	Its intense desire to become stronger and stronger drives it to recklessly train its body and challenge any opponent it can find to battle.
+ZKN_VIOLET_0237_000	It spins on its horn while dealing out elegant kicks. Its horn grows continuously through its lifetime.
 ZKN_VIOLET_0238_000	
-ZKN_VIOLET_0239_000	
-ZKN_VIOLET_0240_000	
+ZKN_VIOLET_0239_000	It rotates its arms to generate electricity, but it tires easily, so it only charges up a little bit.
+ZKN_VIOLET_0240_000	Magma-like blood circulates throughout this Pokémon's body, raising its body temperature as high as 1,100 degrees Fahrenheit.
 ZKN_VIOLET_0241_000	
 ZKN_VIOLET_0242_000	The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.
 ZKN_VIOLET_0243_000	
@@ -35874,17 +36030,17 @@ ZKN_VIOLET_0248_001
 ZKN_VIOLET_0249_000	
 ZKN_VIOLET_0250_000	
 ZKN_VIOLET_0251_000	
-ZKN_VIOLET_0252_000	
-ZKN_VIOLET_0253_000	
-ZKN_VIOLET_0254_000	
+ZKN_VIOLET_0252_000	Treecko can quickly scale even vertical surfaces. It senses humidity with its tail to predict the next day's weather.
+ZKN_VIOLET_0253_000	Grovyle leaps from branch to branch in large trees, moving with ease. It propels itself with astounding speed and force.
+ZKN_VIOLET_0254_000	The leaves on its arms are as sharp as swords. It agilely leaps about the branches of trees to strike its enemies.
 ZKN_VIOLET_0254_001	
-ZKN_VIOLET_0255_000	
-ZKN_VIOLET_0256_000	
-ZKN_VIOLET_0257_000	
+ZKN_VIOLET_0255_000	In its belly, it has a sac filled with burning fire, meaning that Torchic feels as warm as a hot-water bottle if you hug it.
+ZKN_VIOLET_0256_000	When it enters battle, the flame inside its body burns stronger. Its kicks have outstanding destructive power.
+ZKN_VIOLET_0257_000	It can jump powerfully, clearing a 30-story building in a single leap. Its flaming punches scorch its opponents.
 ZKN_VIOLET_0257_001	
-ZKN_VIOLET_0258_000	
-ZKN_VIOLET_0259_000	
-ZKN_VIOLET_0260_000	
+ZKN_VIOLET_0258_000	When it uses its large tail fin, it picks up speed rapidly in the water. It is strong in spite of its small size.
+ZKN_VIOLET_0259_000	It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.
+ZKN_VIOLET_0260_000	Swampert's arms are rock-hard. With one swing, they can batter down Swampert's foes. This Pokémon makes its nest on beautiful beaches.
 ZKN_VIOLET_0260_001	
 ZKN_VIOLET_0261_000	Poochyena pursue their prey in packs. Once the prey is exhausted, the pack finishes it off. But sometimes the prey retaliates, and the pack flees.
 ZKN_VIOLET_0262_000	Once it's caught the scent of faraway prey, the leader gives a signal, and the whole pack moves out.
@@ -35944,8 +36100,8 @@ ZKN_VIOLET_0308_001
 ZKN_VIOLET_0309_000	
 ZKN_VIOLET_0310_000	
 ZKN_VIOLET_0310_001	
-ZKN_VIOLET_0311_000	
-ZKN_VIOLET_0312_000	
+ZKN_VIOLET_0311_000	This Pokémon absorbs electricity from telephone poles. It shorts out the electricity stored inside its body to create noises.
+ZKN_VIOLET_0312_000	Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.
 ZKN_VIOLET_0313_000	It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.
 ZKN_VIOLET_0314_000	It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.
 ZKN_VIOLET_0315_000	
@@ -35963,9 +36119,9 @@ ZKN_VIOLET_0324_000	Coal is the source of Torkoal's energy. Large amounts of coa
 ZKN_VIOLET_0325_000	Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.
 ZKN_VIOLET_0326_000	It uses black pearls to amplify its psychic power. It does a strange dance to control foes' minds.
 ZKN_VIOLET_0327_000	
-ZKN_VIOLET_0328_000	
-ZKN_VIOLET_0329_000	
-ZKN_VIOLET_0330_000	
+ZKN_VIOLET_0328_000	As it digs through the sand, its giant jaws crush any rocks that obstruct its path. It builds a funnel-shaped nest.
+ZKN_VIOLET_0329_000	It generates ultrasonic waves by vigorously vibrating its wings. After making its prey faint, it dissolves the prey with its digestive juices.
+ZKN_VIOLET_0330_000	The sound of its wings flapping resembles singing. Those entranced by this sound get lured into a sandstorm and become Flygon's prey.
 ZKN_VIOLET_0331_000	It lives in arid locations. Its yellow flowers bloom once a year.
 ZKN_VIOLET_0332_000	It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat.
 ZKN_VIOLET_0333_000	It can't relax if it or its surroundings are not clean. It wipes off dirt with its wings.
@@ -36017,9 +36173,9 @@ ZKN_VIOLET_0371_000	Its belief that it will be able to fly one day is apparently
 ZKN_VIOLET_0372_000	Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.
 ZKN_VIOLET_0373_000	It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.
 ZKN_VIOLET_0373_001	
-ZKN_VIOLET_0374_000	
-ZKN_VIOLET_0375_000	
-ZKN_VIOLET_0376_000	
+ZKN_VIOLET_0374_000	All its cells are magnets. It communicates with others of its kind by transmitting magnetic forces from its body.
+ZKN_VIOLET_0375_000	It adores magnetic minerals, so it pursues Nosepass at speeds exceeding 60 mph.
+ZKN_VIOLET_0376_000	It firmly pins its prey using its four claws and large body. Then Metagross uses the mouth on its stomach to chew its prey to bits.
 ZKN_VIOLET_0376_001	
 ZKN_VIOLET_0377_000	
 ZKN_VIOLET_0378_000	
@@ -36039,15 +36195,15 @@ ZKN_VIOLET_0386_000
 ZKN_VIOLET_0386_001	
 ZKN_VIOLET_0386_002	
 ZKN_VIOLET_0386_003	
-ZKN_VIOLET_0387_000	
-ZKN_VIOLET_0388_000	
-ZKN_VIOLET_0389_000	
-ZKN_VIOLET_0390_000	
-ZKN_VIOLET_0391_000	
-ZKN_VIOLET_0392_000	
-ZKN_VIOLET_0393_000	
-ZKN_VIOLET_0394_000	
-ZKN_VIOLET_0395_000	
+ZKN_VIOLET_0387_000	It uses its whole body to photosynthesize when exposed to sunlight. Its shell is made from hardened soil.
+ZKN_VIOLET_0388_000	It knows where pure water wells up. It carries fellow Pokémon there on its back.
+ZKN_VIOLET_0389_000	Some Pokémon are born on a Torterra's back and spend their entire life there.
+ZKN_VIOLET_0390_000	The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.
+ZKN_VIOLET_0391_000	A bigger fire on its tail and a brighter blue pattern on its face means it holds a higher rank in its troop.
+ZKN_VIOLET_0392_000	It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.
+ZKN_VIOLET_0393_000	It doesn't like to be taken care of. It's difficult to bond with since it won't listen to its Trainer.
+ZKN_VIOLET_0394_000	Because every Prinplup considers itself to be the most important, they can never form a group.
+ZKN_VIOLET_0395_000	It avoids unnecessary disputes, but it will mercilessly decimate anything that threatens the safety of its colony.
 ZKN_VIOLET_0396_000	Because they are weak individually, they form groups. However, they bicker if the group grows too big.
 ZKN_VIOLET_0397_000	They maintain huge flocks, although fierce scuffles break out between various flocks.
 ZKN_VIOLET_0398_000	It never stops attacking even if it is injured. It fusses over the shape of its comb.
@@ -36060,10 +36216,10 @@ ZKN_VIOLET_0404_000	By gathering their tails together, they collectively generat
 ZKN_VIOLET_0405_000	Luxray's ability to see through objects comes in handy when it's scouting for danger.
 ZKN_VIOLET_0406_000	
 ZKN_VIOLET_0407_000	
-ZKN_VIOLET_0408_000	
-ZKN_VIOLET_0409_000	
-ZKN_VIOLET_0410_000	
-ZKN_VIOLET_0411_000	
+ZKN_VIOLET_0408_000	Cranidos toughen up their already sturdy heads by headbutting one another.
+ZKN_VIOLET_0409_000	If two were to smash their heads together, their foot-thick skulls would keep them from fainting.
+ZKN_VIOLET_0410_000	This Pokémon lived in primeval jungles. It's thought that Shieldon had few enemies thanks to its sturdy face.
+ZKN_VIOLET_0411_000	Bastiodon live in herds. When assaulted by enemies, they line up side by side and use their hard faces to block attacks.
 ZKN_VIOLET_0412_000	
 ZKN_VIOLET_0412_001	
 ZKN_VIOLET_0412_002	
@@ -36129,17 +36285,17 @@ ZKN_VIOLET_0460_001
 ZKN_VIOLET_0461_000	They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.
 ZKN_VIOLET_0462_000	Exposure to a special magnetic field changed Magneton's molecular structure, turning it into Magnezone.
 ZKN_VIOLET_0463_000	
-ZKN_VIOLET_0464_000	
+ZKN_VIOLET_0464_000	A Rhyperior's brain is smaller than a Rhydon's, but the Rhyperior is stronger because it spends more energy on battling and less on brainpower.
 ZKN_VIOLET_0465_000	
-ZKN_VIOLET_0466_000	
-ZKN_VIOLET_0467_000	
+ZKN_VIOLET_0466_000	This Pokémon presses the tips of its tails onto an opponent and instantly sends over 20,000 volts of high-voltage electricity through them.
+ZKN_VIOLET_0467_000	They dwell in volcanic craters. It's said that only a single pair of Magmortar will inhabit any given volcano.
 ZKN_VIOLET_0468_000	
 ZKN_VIOLET_0469_000	Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.
 ZKN_VIOLET_0470_000	The younger they are, the more they smell like fresh grass. With age, their fragrance takes on the odor of fallen leaves.
 ZKN_VIOLET_0471_000	It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.
 ZKN_VIOLET_0472_000	It flies soundlessly through the sky. It catches prey with its long tail, then lunges at the prey's vulnerable spots with its fangs.
 ZKN_VIOLET_0473_000	A frozen one was dug up from soil dating back 10,000 years. It woke up, to much amazement.
-ZKN_VIOLET_0474_000	
+ZKN_VIOLET_0474_000	Its programming was modified to enable it to operate in other dimensions. This did not work as planned.
 ZKN_VIOLET_0475_000	Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.
 ZKN_VIOLET_0475_001	
 ZKN_VIOLET_0476_000	Probopass radiates such a powerful magnetic field that nearby electrical appliances are rendered useless while it's around.
@@ -36185,15 +36341,15 @@ ZKN_VIOLET_0493_015
 ZKN_VIOLET_0493_016	
 ZKN_VIOLET_0493_017	
 ZKN_VIOLET_0494_000	
-ZKN_VIOLET_0495_000	
-ZKN_VIOLET_0496_000	
-ZKN_VIOLET_0497_000	
-ZKN_VIOLET_0498_000	
-ZKN_VIOLET_0499_000	
-ZKN_VIOLET_0500_000	
-ZKN_VIOLET_0501_000	
-ZKN_VIOLET_0502_000	
-ZKN_VIOLET_0503_000	
+ZKN_VIOLET_0495_000	It prefers to avoid groups. In its day-to-day life, it dexterously controls its vines to compensate for its short arms.
+ZKN_VIOLET_0496_000	Servine's one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon.
+ZKN_VIOLET_0497_000	An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest.
+ZKN_VIOLET_0498_000	This Pokémon is a ravenous glutton. It uses its excellent sense of smell to find food, then cooks it to a crisp before eating.
+ZKN_VIOLET_0499_000	When defending its friends, Pignite will stand up to any opponent, no matter how strong. But it's powerless when faced with an empty stomach.
+ZKN_VIOLET_0500_000	The direr the situation, the more it seems to enjoy itself. The flames around its neck intensify, too, increasing Emboar's power and speed.
+ZKN_VIOLET_0501_000	It's said that Oshawott learned to maintain its scalchop with riverbed stones by mimicking humans it saw using whetstones.
+ZKN_VIOLET_0502_000	Dewott has a studious and stern personality. It masters the use of its scalchops through dedicated, repeated training.
+ZKN_VIOLET_0503_000	Samurott leads its group strictly. Those who do not follow its rules receive a merciless thrashing.
 ZKN_VIOLET_0504_000	
 ZKN_VIOLET_0505_000	
 ZKN_VIOLET_0506_000	
@@ -36213,15 +36369,15 @@ ZKN_VIOLET_0519_000
 ZKN_VIOLET_0520_000	
 ZKN_VIOLET_0521_000	
 ZKN_VIOLET_0521_001	
-ZKN_VIOLET_0522_000	
-ZKN_VIOLET_0523_000	
+ZKN_VIOLET_0522_000	This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.
+ZKN_VIOLET_0523_000	Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.
 ZKN_VIOLET_0524_000	
 ZKN_VIOLET_0525_000	
 ZKN_VIOLET_0526_000	
 ZKN_VIOLET_0527_000	
 ZKN_VIOLET_0528_000	
-ZKN_VIOLET_0529_000	
-ZKN_VIOLET_0530_000	
+ZKN_VIOLET_0529_000	It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
+ZKN_VIOLET_0530_000	Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction.
 ZKN_VIOLET_0531_000	
 ZKN_VIOLET_0531_001	
 ZKN_VIOLET_0532_000	It fights by swinging a piece of lumber around. It is close to evolving when it can handle heavy lumber without difficulty.
@@ -36238,8 +36394,8 @@ ZKN_VIOLET_0542_000	It fashions clothing from woven leaves. Though gentle in dis
 ZKN_VIOLET_0543_000	
 ZKN_VIOLET_0544_000	
 ZKN_VIOLET_0545_000	
-ZKN_VIOLET_0546_000	
-ZKN_VIOLET_0547_000	
+ZKN_VIOLET_0546_000	When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.
+ZKN_VIOLET_0547_000	It rides on the wind and slips into people's homes. After it has turned a room into a cotton- filled mess, it giggles to itself and takes off.
 ZKN_VIOLET_0548_000	If the leaves on its head are pruned with regularity, this Pokémon can be grown into a fine plump shape.
 ZKN_VIOLET_0549_000	No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.
 ZKN_VIOLET_0550_000	It's so vicious that it's called the Thug of the River. Yet Basculin is still targeted by predators, such as Dondozo and Bombirdier.
@@ -36257,8 +36413,8 @@ ZKN_VIOLET_0555_003
 ZKN_VIOLET_0556_000	
 ZKN_VIOLET_0557_000	
 ZKN_VIOLET_0558_000	
-ZKN_VIOLET_0559_000	
-ZKN_VIOLET_0560_000	
+ZKN_VIOLET_0559_000	It will abruptly headbutt anyone that makes eye contact with it. Its skull is extremely hard.
+ZKN_VIOLET_0560_000	This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.
 ZKN_VIOLET_0561_000	
 ZKN_VIOLET_0562_000	
 ZKN_VIOLET_0562_001	
@@ -36272,14 +36428,14 @@ ZKN_VIOLET_0569_000
 ZKN_VIOLET_0569_999	
 ZKN_VIOLET_0570_000	To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.
 ZKN_VIOLET_0571_000	Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
-ZKN_VIOLET_0572_000	
-ZKN_VIOLET_0573_000	
+ZKN_VIOLET_0572_000	These Pokémon like things neat and tidy. They are always sweeping and dusting their habitat, using their tails as brooms.
+ZKN_VIOLET_0573_000	The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.
 ZKN_VIOLET_0574_000	Beware of touching the ribbon-shaped feelers that control its psychic power. Gothita will begin bawling if you do.
 ZKN_VIOLET_0575_000	Using its psychic power, it arranges pebbles to form the shapes of constellations. Some people believe this Pokémon came from outer space.
 ZKN_VIOLET_0576_000	It gazes at the stars to predict the future. It acts somewhat detached because it has seen the end of all existence.
-ZKN_VIOLET_0577_000	
-ZKN_VIOLET_0578_000	
-ZKN_VIOLET_0579_000	
+ZKN_VIOLET_0577_000	They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.
+ZKN_VIOLET_0578_000	When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.
+ZKN_VIOLET_0579_000	When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.
 ZKN_VIOLET_0580_000	It strengthens its body by diving into the depths of ponds, swimming around while looking for bog moss to eat.
 ZKN_VIOLET_0581_000	It's said that many artists have taken inspiration from the sight of a Swanna performing a beautiful dance in the light of dawn.
 ZKN_VIOLET_0582_000	
@@ -36303,8 +36459,8 @@ ZKN_VIOLET_0592_001
 ZKN_VIOLET_0593_000	
 ZKN_VIOLET_0593_001	
 ZKN_VIOLET_0594_000	They float upon the open sea. Many water Pokémon gather in the area around Alomomola.
-ZKN_VIOLET_0595_000	
-ZKN_VIOLET_0596_000	
+ZKN_VIOLET_0595_000	Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.
+ZKN_VIOLET_0596_000	When attacked, they create an electric barrier by spitting out many electrically charged threads.
 ZKN_VIOLET_0597_000	
 ZKN_VIOLET_0598_000	
 ZKN_VIOLET_0599_000	
@@ -36331,8 +36487,8 @@ ZKN_VIOLET_0618_001
 ZKN_VIOLET_0619_000	They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.
 ZKN_VIOLET_0620_000	Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.
 ZKN_VIOLET_0621_000	
-ZKN_VIOLET_0622_000	
-ZKN_VIOLET_0623_000	
+ZKN_VIOLET_0622_000	Its movements are powered by a mysterious energy. It has continued to move since ancient times, so its power may soon run out.
+ZKN_VIOLET_0623_000	Golurk were created by ancient people to protect both people and Pokémon. They run on a mysterious energy.
 ZKN_VIOLET_0624_000	Any chips in its blades would prove fatal for it. After each battle, it diligently maintains its blades using its favorite sharpening stone.
 ZKN_VIOLET_0625_000	Bisharp mercilessly cuts its opponents to pieces with the sharp blades covering its body. It will do anything to win.
 ZKN_VIOLET_0626_000	
@@ -36370,15 +36526,15 @@ ZKN_VIOLET_0649_001
 ZKN_VIOLET_0649_002	
 ZKN_VIOLET_0649_003	
 ZKN_VIOLET_0649_004	
-ZKN_VIOLET_0650_000	
-ZKN_VIOLET_0651_000	
-ZKN_VIOLET_0652_000	
-ZKN_VIOLET_0653_000	
-ZKN_VIOLET_0654_000	
-ZKN_VIOLET_0655_000	
-ZKN_VIOLET_0656_000	
-ZKN_VIOLET_0657_000	
-ZKN_VIOLET_0658_000	
+ZKN_VIOLET_0650_000	Eating lots of berries makes the bark shell that covers Chespin's head and body grow sturdier.
+ZKN_VIOLET_0651_000	It can send a trailer flying with a tackle. It's numb to pain, so even violent collisions don't faze it.
+ZKN_VIOLET_0652_000	Its gentle disposition would have it avoid conflict, but it gives opponents a thrashing with its thorned fists when the situation calls for it.
+ZKN_VIOLET_0653_000	Twigs make for Fennekin's snacks. When it nibbles on twigs, it finds the courage to face strong foes.
+ZKN_VIOLET_0654_000	Braixen's branch ignites as it's pulled from the Pokémon's tail. Braixen then uses the flame to spark powerful attacks.
+ZKN_VIOLET_0655_000	It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.
+ZKN_VIOLET_0656_000	It utilizes its extraordinary jumping abilities to flummox its foes, throwing springy bubbles at them from above their heads.
+ZKN_VIOLET_0657_000	The tips of its fingers and toes stick firmly to vertical surfaces. Frogadier can scale skyscrapers with ease.
+ZKN_VIOLET_0658_000	It makes shuriken out of mucus excreted from its thighs. These shuriken can cut cleanly through steel cables.
 ZKN_VIOLET_0658_001	
 ZKN_VIOLET_0658_002	
 ZKN_VIOLET_0659_000	
@@ -36478,9 +36634,9 @@ ZKN_VIOLET_0676_006
 ZKN_VIOLET_0676_007	
 ZKN_VIOLET_0676_008	
 ZKN_VIOLET_0676_009	
-ZKN_VIOLET_0677_000	
-ZKN_VIOLET_0678_000	
-ZKN_VIOLET_0678_001	
+ZKN_VIOLET_0677_000	Behind an Espurr's expressionless face is a frantic struggle to contain psychic power.
+ZKN_VIOLET_0678_000	If Meowstic continuously emits its powerful psychic energy, it will damage its own body.
+ZKN_VIOLET_0678_001	When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents.
 ZKN_VIOLET_0679_000	
 ZKN_VIOLET_0680_000	
 ZKN_VIOLET_0681_000	
@@ -36489,8 +36645,8 @@ ZKN_VIOLET_0682_000
 ZKN_VIOLET_0683_000	
 ZKN_VIOLET_0684_000	
 ZKN_VIOLET_0685_000	
-ZKN_VIOLET_0686_000	
-ZKN_VIOLET_0687_000	
+ZKN_VIOLET_0686_000	Being upside-down improves its blood flow and clears its mind, causing the power of its psychic moves to increase dramatically.
+ZKN_VIOLET_0687_000	It flashes the luminescent spots on its body to hypnotize its opponents, gaining total control over them.
 ZKN_VIOLET_0688_000	
 ZKN_VIOLET_0689_000	
 ZKN_VIOLET_0690_000	This Pokémon is a poor swimmer. If it's caught in a fierce storm, it will sometimes get washed far away and become unable to return to its home.
@@ -36538,18 +36694,18 @@ ZKN_VIOLET_0719_001
 ZKN_VIOLET_0720_000	
 ZKN_VIOLET_0720_001	
 ZKN_VIOLET_0721_000	
-ZKN_VIOLET_0722_000	
-ZKN_VIOLET_0723_000	
-ZKN_VIOLET_0724_000	
-ZKN_VIOLET_0725_000	
-ZKN_VIOLET_0726_000	
-ZKN_VIOLET_0727_000	
-ZKN_VIOLET_0728_000	
-ZKN_VIOLET_0729_000	
-ZKN_VIOLET_0730_000	
-ZKN_VIOLET_0731_000	
-ZKN_VIOLET_0732_000	
-ZKN_VIOLET_0733_000	
+ZKN_VIOLET_0722_000	It feels relaxed in tight, dark places and has been known to nestle into its Trainer's bag or the front of their jacket.
+ZKN_VIOLET_0723_000	It throws sharp feathers called blade quills at enemies or prey. It seldom misses.
+ZKN_VIOLET_0724_000	It nocks its arrow quills and looses them at opponents. When it needs to hit, it pulls the vines on its hood to narrow its view and focus.
+ZKN_VIOLET_0725_000	While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.
+ZKN_VIOLET_0726_000	Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.
+ZKN_VIOLET_0727_000	After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.
+ZKN_VIOLET_0728_000	The balloons it inflates with its nose grow larger and larger as it practices day by day.
+ZKN_VIOLET_0729_000	It cares deeply for its companions. When its Trainer is feeling down, it performs a cheery dance to try to help.
+ZKN_VIOLET_0730_000	Also known as a songstress, it is a sight to behold on moonlit nights when it sings in front of the colony it leads.
+ZKN_VIOLET_0731_000	Pikipek has strong muscles in its neck, so it won't hurt itself even if it violently shakes its head.
+ZKN_VIOLET_0732_000	When it encounters foes, it launches the many seeds stored in its beak in a radial burst.
+ZKN_VIOLET_0733_000	Pairs of Toucannon are considered symbols of companionship, as these Pokémon will raise the temperature of their beaks to warm each other.
 ZKN_VIOLET_0734_000	It spends its waking hours searching endlessly for food. When Yungoos is hungry, its ferocity gains a certain edge.
 ZKN_VIOLET_0735_000	Gumshoos specializes in relentlessly tracking down prey. The simple-minded Skwovet doesn't seem to provide Gumshoos enough challenge.
 ZKN_VIOLET_0735_001	
@@ -36577,8 +36733,8 @@ ZKN_VIOLET_0747_000	It has excellent regenerative capabilities. Legs that a Mare
 ZKN_VIOLET_0748_000	Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it.
 ZKN_VIOLET_0749_000	Though a slow walker, Mudbray is plenty strong. Its pace doesn't change even when it's loaded with 50 times its own body weight.
 ZKN_VIOLET_0750_000	Its legs are fortified with mud and harder than stone, and they can reduce a large truck to scrap with one kick.
-ZKN_VIOLET_0751_000	
-ZKN_VIOLET_0752_000	
+ZKN_VIOLET_0751_000	It supports the water bubble that envelops its head with three of its legs. Sometimes it secretly swaps which legs are holding up the bubble.
+ZKN_VIOLET_0752_000	It launches sticky water bubbles. Foes who lose consciousness while trapped inside these bubbles will get torn apart by Araquanid's gnashing jaws.
 ZKN_VIOLET_0752_001	
 ZKN_VIOLET_0753_000	Many Trainers give their Fomantis their own flowerpots so they can sunbathe in peace and quiet.
 ZKN_VIOLET_0754_000	A lot of time and effort is required to maintain the vivid colors of its petals. This Pokémon puts its Trainer's attentiveness to the test.
@@ -36593,7 +36749,7 @@ ZKN_VIOLET_0760_000
 ZKN_VIOLET_0761_000	A Greedent drawn in by the sweet scent of these Pokémon will tuck the Bounsweet in among the berries in its tail and carry them all away.
 ZKN_VIOLET_0762_000	Steenee bounces energetically through forests. If the rind that peels off its body is pulverized, it can be used to treat stomach pains.
 ZKN_VIOLET_0763_000	This Pokémon launches fierce yet elegant kicks with its long, slender legs. It views Quaquaval as its rival.
-ZKN_VIOLET_0764_000	
+ZKN_VIOLET_0764_000	It prefers areas with lots of flowers. A Comfey adorned with flowers is a happy Comfey, and the flowers gain healing effects.
 ZKN_VIOLET_0765_000	This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages.
 ZKN_VIOLET_0766_000	The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group.
 ZKN_VIOLET_0767_000	
@@ -36620,20 +36776,20 @@ ZKN_VIOLET_0773_014
 ZKN_VIOLET_0773_015	
 ZKN_VIOLET_0773_016	
 ZKN_VIOLET_0773_017	
-ZKN_VIOLET_0774_000	
-ZKN_VIOLET_0774_001	
-ZKN_VIOLET_0774_002	
-ZKN_VIOLET_0774_003	
-ZKN_VIOLET_0774_004	
-ZKN_VIOLET_0774_005	
-ZKN_VIOLET_0774_006	
-ZKN_VIOLET_0774_007	
-ZKN_VIOLET_0774_008	
-ZKN_VIOLET_0774_009	
-ZKN_VIOLET_0774_010	
-ZKN_VIOLET_0774_011	
-ZKN_VIOLET_0774_012	
-ZKN_VIOLET_0774_013	
+ZKN_VIOLET_0774_000	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_001	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_002	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_003	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_004	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_005	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_006	It will react when touched or called to, but it's unknown whether such responses indicate consciousness.
+ZKN_VIOLET_0774_007	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
+ZKN_VIOLET_0774_008	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
+ZKN_VIOLET_0774_009	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
+ZKN_VIOLET_0774_010	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
+ZKN_VIOLET_0774_011	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
+ZKN_VIOLET_0774_012	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
+ZKN_VIOLET_0774_013	It feeds on dust in the atmosphere. The color of its core is said to be determined by the composition of the dust it eats.
 ZKN_VIOLET_0775_000	A potent anesthetic can be made by diluting Komala's drool. This anesthetic was used for surgeries in the past.
 ZKN_VIOLET_0776_000	
 ZKN_VIOLET_0777_000	
@@ -36679,17 +36835,17 @@ ZKN_VIOLET_0807_000
 ZKN_VIOLET_0808_000	
 ZKN_VIOLET_0809_000	
 ZKN_VIOLET_0809_999	
-ZKN_VIOLET_0810_000	
-ZKN_VIOLET_0811_000	
-ZKN_VIOLET_0812_000	
+ZKN_VIOLET_0810_000	As Grookey strikes everything in sight with its stick, it has more and more fun, and its rhythm becomes livelier.
+ZKN_VIOLET_0811_000	It becomes intensely focused while it drums out vigorous beats—so much so that sometimes it won't listen to its Trainer's commands.
+ZKN_VIOLET_0812_000	When one Rillaboom challenges another who leads a troop, a drumming battle commences. The victor becomes the troop's new boss.
 ZKN_VIOLET_0812_999	
-ZKN_VIOLET_0813_000	
-ZKN_VIOLET_0814_000	
-ZKN_VIOLET_0815_000	
+ZKN_VIOLET_0813_000	Fire energy gathers in the pads of its feet, raising their temperature. Once hot, Scorbunny's footpads can deal heavy damage to opponents.
+ZKN_VIOLET_0814_000	While it prides itself on its varied kicking moves, it can also deliver powerful headbutts once its flames have heated up its forehead.
+ZKN_VIOLET_0815_000	Using a ball that it made out of flames, Cinderace blinds its opponents and keeps them at bay.
 ZKN_VIOLET_0815_999	
-ZKN_VIOLET_0816_000	
-ZKN_VIOLET_0817_000	
-ZKN_VIOLET_0818_000	
+ZKN_VIOLET_0816_000	It's a very cautious Pokémon. When it has no choice but to battle, it hides itself before attacking.
+ZKN_VIOLET_0817_000	Highly intelligent but also very lazy, it defends its home by laying traps.
+ZKN_VIOLET_0818_000	It may present itself as being well-mannered, but deep down, it still has a lazy side. It will slack off when its Trainer isn't looking.
 ZKN_VIOLET_0818_999	
 ZKN_VIOLET_0819_000	No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail.
 ZKN_VIOLET_0820_000	This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.
@@ -36756,16 +36912,16 @@ ZKN_VIOLET_0864_000
 ZKN_VIOLET_0865_000	
 ZKN_VIOLET_0866_000	
 ZKN_VIOLET_0867_000	
-ZKN_VIOLET_0868_000	
-ZKN_VIOLET_0869_000	
-ZKN_VIOLET_0869_001	
-ZKN_VIOLET_0869_002	
-ZKN_VIOLET_0869_003	
-ZKN_VIOLET_0869_004	
-ZKN_VIOLET_0869_005	
-ZKN_VIOLET_0869_006	
-ZKN_VIOLET_0869_007	
-ZKN_VIOLET_0869_008	
+ZKN_VIOLET_0868_000	When attacked, it tackles its foe and covers them in cream. With its foe either blinded or astonished by deliciousness, Milcery flees.
+ZKN_VIOLET_0869_000	Alcremie that have been cherished produce exquisite cream, so Trainers always raise them lovingly.
+ZKN_VIOLET_0869_001	When attacked, it strikes back by throwing cream accented with sweet and tart flavors.
+ZKN_VIOLET_0869_002	When attacked, it strikes back by throwing cream accented with an aromatic flavor.
+ZKN_VIOLET_0869_003	When attacked, it strikes back by throwing cream accented with a refreshing flavor.
+ZKN_VIOLET_0869_004	When attacked, it strikes back by throwing cream accented with a sour flavor.
+ZKN_VIOLET_0869_005	When attacked, it strikes back by throwing cream accented with a salty flavor.
+ZKN_VIOLET_0869_006	When attacked, it strikes back by throwing cream accented with a mix of flavors.
+ZKN_VIOLET_0869_007	When attacked, it strikes back by throwing cream accented with a bitter flavor.
+ZKN_VIOLET_0869_008	When attacked, it strikes back by throwing cream accented with complex flavors.
 ZKN_VIOLET_0869_999	
 ZKN_VIOLET_0870_000	The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.
 ZKN_VIOLET_0871_000	This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.
@@ -36785,7 +36941,7 @@ ZKN_VIOLET_0880_000
 ZKN_VIOLET_0881_000	
 ZKN_VIOLET_0882_000	
 ZKN_VIOLET_0883_000	
-ZKN_VIOLET_0884_000	
+ZKN_VIOLET_0884_000	Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.
 ZKN_VIOLET_0884_999	
 ZKN_VIOLET_0885_000	It has a habit of biting at Clauncher even though it doesn't feed on them. This is said to be vestigial behavior from when Dreepy was alive.
 ZKN_VIOLET_0886_000	This Pokémon stores up energy in its lungs, then shoots it out. It takes care of Dreepy and battles alongside them until they're all grown up.
@@ -36928,8 +37084,8 @@ ZKN_VIOLET_1007_000	This Pokémon resembles Cyclizar, but it is far burlier and 
 ZKN_VIOLET_1007_001	
 ZKN_VIOLET_1008_000	This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
 ZKN_VIOLET_1008_001	
-ZKN_VIOLET_1009_000	Ecology under research.
-ZKN_VIOLET_1010_000	Ecology under analysis.
+ZKN_VIOLET_1009_000	It resembles an illustration published in a paranormal magazine, said to be a depiction of a super-ancient Suicune.
+ZKN_VIOLET_1010_000	According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders.
 ZKN_VIOLET_0901_001	This special Ursaluna can see in the dark with its left eye and protects itself with mud that is as hard as iron.
 ZKN_VIOLET_1011_000	The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.
 ZKN_VIOLET_1012_000	Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.
@@ -36943,6 +37099,18 @@ ZKN_VIOLET_1017_000	This mischief-loving Pokémon is full of curiosity. It battl
 ZKN_VIOLET_1017_001	In this form, it draws on the power of water. It attacks unrelentingly with kicks and ivy strikes.
 ZKN_VIOLET_1017_002	In this form, it draws on the power of fire. It spears its enemies with thorn-covered ivy.
 ZKN_VIOLET_1017_003	In this form, it draws on the power of stone. Its body is rock-solid, protecting it from all manner of attacks.
+ZKN_VIOLET_1018_000	It digs holes on mountains, searching for food. It's so durable that being caught in a cave-in won't faze it.
+ZKN_VIOLET_1019_000	These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.
+ZKN_VIOLET_1020_000	It resembles an eerie Pokémon once shown in a paranormal magazine. That Pokémon was said to be an Entei regenerated from a fossil.
+ZKN_VIOLET_1021_000	It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor.
+ZKN_VIOLET_1022_000	It was named after a mysterious object recorded in an old book. Its body seems to be metallic.
+ZKN_VIOLET_1023_000	There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it.
+ZKN_VIOLET_1024_000	It's thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct.
+ZKN_VIOLET_1024_001	The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move's energy and transfers it to Terapagos.
+ZKN_VIOLET_1024_002	An old expedition journal describes the sight of this Pokémon buried in the depths of the earth as resembling a planet floating in space.
+ZKN_VIOLET_0900_000	This Pokémon is a rough, crude, and violent sort. It swings around its large, heavy stone axes to finish off its prey.
+ZKN_VIOLET_0904_000	It's ferocious and has a short temper. The ends of its spikes are barbed, and they can't be easily removed once they've punctured something.
+ZKN_VIOLET_0211_001	It absorbs toxins from the food it eats. The distinct purple spikes on its body are evidence of its potent poison.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_x_usa.msbt

@@ -2000,6 +2000,13 @@ MONSNAME_1014	Boninu
 MONSNAME_1015	Benesaru
 MONSNAME_1016	Beatori
 MONSNAME_1017	Ogerpon
+MONSNAME_1018	Briduradon
+MONSNAME_1019	Hydrapfel
+MONSNAME_1020	Keilflamme
+MONSNAME_1021	Furienblitz
+MONSNAME_1022	Eisenfels
+MONSNAME_1023	Eisenhaupt
+MONSNAME_1024	Terapagos
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_deu.msbt
@@ -2795,6 +2802,7 @@ mes_ribbon_name_106	Glückstrefferband
 mes_ribbon_name_107	Elite-Zeichen
 mes_ribbon_name_108	Titanen-Zeichen
 mes_ribbon_name_109	Herrscher-Zeichen
+mes_ribbon_name_110	Partnerband
 mes_ribbon_info_000	Band für den Sieg über den Champ von Kalos und den Einzug in die Ruhmeshalle.
 mes_ribbon_info_001	Band für einen alten Sieg über den Champ einer anderen Region und den Einzug in die Ruhmeshalle.
 mes_ribbon_info_002	Band für den Sieg über den Champ von Sinnoh und den Einzug in die Ruhmeshalle.
@@ -2905,6 +2913,7 @@ mes_ribbon_info_106	Besonderes Band, das nur sehr selten an Pokémon zu finden i
 mes_ribbon_info_107	Zeichen eines Pokémon, das einst ein Elite-Pokémon war.
 mes_ribbon_info_108	Zeichen eines besonders starken Pokémon.
 mes_ribbon_info_109	Zeichen eines Pokémon, das einst ein Herrscher-Pokémon war.
+mes_ribbon_info_110	Spezielles Band zur Auszeichnung eines Pokémon, das dir von einem besonderen Trainer anvertraut wurde.
 
 ~~~~~~~~~~~~~~~
 Text File : ribbon_LA_deu.msbt
@@ -3321,6 +3330,7 @@ mes_ribbon_name_106	Glückstrefferband
 mes_ribbon_name_107	Elite-Zeichen
 mes_ribbon_name_108	Titanen-Zeichen
 mes_ribbon_name_109	Herrscher-Zeichen
+mes_ribbon_name_110	Partnerband
 mes_ribbon_info_000	Band für den Sieg über den Champ von Kalos und den Einzug in die Ruhmeshalle.
 mes_ribbon_info_001	Band für einen alten Sieg über den Champ einer anderen Region und den Einzug in die Ruhmeshalle.
 mes_ribbon_info_002	Band für den Sieg über den Champ von Sinnoh und den Einzug in die Ruhmeshalle.
@@ -3431,6 +3441,7 @@ mes_ribbon_info_106	Besonderes Band, das nur sehr selten an Pokémon zu finden i
 mes_ribbon_info_107	Zeichen eines Pokémon, das einst ein Elite-Pokémon war.
 mes_ribbon_info_108	Zeichen eines besonders starken Pokémon.
 mes_ribbon_info_109	Zeichen eines Pokémon, das einst ein Herrscher-Pokémon war.
+mes_ribbon_info_110	Spezielles Band zur Auszeichnung eines Pokémon, das dir von einem besonderen Trainer anvertraut wurde.
 
 ~~~~~~~~~~~~~~~
 Text File : ribbon_SWSH_deu.msbt
@@ -4490,6 +4501,8 @@ sp_achstep_lib_s_0034	Registriere Arceus aus Pokémon-Legenden: Arceus!
 sp_achstep_lib_s_0035	Registriere die Hisui-Formen von Tornupto, Admurai und Silvarro!
 sp_achstep_lib_s_0036	Registriere Staraptor, Bidiza und Bidifas aus Pokémon Strahlender Diamant oder Leuchtende Perle!
 sp_achstep_lib_s_0037	Vervollständige den Paldea-Pokédex in Pokémon Karmesin oder Pokémon Purpur!
+sp_achstep_lib_s_0054	Vervollständige den Kitakami-Pokédex in Pokémon Karmesin oder Pokémon Purpur!
+sp_achstep_lib_s_0055	Vervollständige den Blaubeer-Pokédex in Pokémon Karmesin oder Pokémon Purpur!
 sp_achstep_lib_s_0038	Registriere 3 Varianten von Paldea-Tauros!
 sp_achstep_lib_s_0039	Registriere 4 Farben von Krawalloro!
 sp_achstep_lib_s_0040	Registriere 3 Formen von Nigiragi!
@@ -4498,6 +4511,11 @@ sp_achstep_lib_s_0042	Registriere 2 Formen von Dummimisel!
 sp_achstep_lib_s_0043	Registriere 4 Unheils-Pokémon!
 sp_achstep_lib_s_0044	Registriere Brüllschweif, Wutpilz, Flatterhaar und Sandfell!
 sp_achstep_lib_s_0045	Registriere Eisenbündel, Eisenhand, Eisenhals und Eisendorn!
+sp_achstep_lib_s_0048	Registriere Boninu, Benesaru und Beatori!
+sp_achstep_lib_s_0049	Registriere Ogerpon!
+sp_achstep_lib_s_0050	Registriere Ursaluna und Ursaluna (Blutmond)!
+sp_achstep_lib_s_0051	Registriere Terapagos!
+sp_achstep_lib_s_0053	Registriere Knapfel und seine 4 Entwicklungen!
 sp_achstep_oth_000101	Empfange 1-mal etwas per Geheimgeschenk!
 sp_achstep_oth_000102	Empfange 3-mal etwas per Geheimgeschenk!
 sp_achstep_oth_000103	Empfange 5-mal etwas per Geheimgeschenk!
@@ -4609,6 +4627,7 @@ sp_achstep_trd_s_0050	Tausche Tentoxa und Tenterra!
 sp_achstep_trd_s_0051	Tausche Digdri und Schligdri!
 sp_achstep_trd_s_0052	Tausche Morlord und Suelord!
 sp_achstep_trd_s_0053	Tausche Koraidon und Miraidon!
+sp_achstep_trd_s_0054	Tausche Mortipot und Fatalitcha!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_ach_deu.msbt
@@ -4675,6 +4694,8 @@ sp_ach_lib_s_0034	Registriere Arceus aus Pokémon-Legenden: Arceus!
 sp_ach_lib_s_0035	Registriere die Hisui-Formen von Tornupto, Admurai und Silvarro!
 sp_ach_lib_s_0036	Registriere Staraptor, Bidiza und Bidifas aus Pokémon Strahlender Diamant oder Leuchtende Perle!
 sp_ach_lib_s_0037	Vervollständige den Paldea-Pokédex in Pokémon Karmesin oder Pokémon Purpur!
+sp_ach_lib_s_0054	Vervollständige den Kitakami-Pokédex in Pokémon Karmesin oder Pokémon Purpur!
+sp_ach_lib_s_0055	Vervollständige den Blaubeer-Pokédex in Pokémon Karmesin oder Pokémon Purpur!
 sp_ach_lib_s_0038	Registriere 3 Varianten von Paldea-Tauros!
 sp_ach_lib_s_0039	Registriere 4 Farben von Krawalloro!
 sp_ach_lib_s_0040	Registriere 3 Formen von Nigiragi!
@@ -4683,6 +4704,11 @@ sp_ach_lib_s_0042	Registriere 2 Formen von Dummimisel!
 sp_ach_lib_s_0043	Registriere 4 Unheils-Pokémon!
 sp_ach_lib_s_0044	Registriere Brüllschweif, Wutpilz, Flatterhaar und Sandfell!
 sp_ach_lib_s_0045	Registriere Eisenbündel, Eisenhand, Eisenhals und Eisendorn!
+sp_ach_lib_s_0048	Registriere Boninu, Benesaru und Beatori!
+sp_ach_lib_s_0049	Registriere Ogerpon!
+sp_ach_lib_s_0050	Registriere Ursaluna und Ursaluna (Blutmond)!
+sp_ach_lib_s_0051	Registriere Terapagos!
+sp_ach_lib_s_0053	Registriere Knapfel und seine 4 Entwicklungen!
 sp_ach_trd_s_0002	Lagere 10 Pokémon gleichzeitig in die Wunderbox!
 sp_ach_trd_s_0003	Tausche Sengo und Vipitis!
 sp_ach_trd_s_0004	Tausche Sonnfel und Lunastein!
@@ -4735,6 +4761,7 @@ sp_ach_trd_s_0050	Tausche Tentoxa und Tenterra!
 sp_ach_trd_s_0051	Tausche Digdri und Schligdri!
 sp_ach_trd_s_0052	Tausche Morlord und Suelord!
 sp_ach_trd_s_0053	Tausche Koraidon und Miraidon!
+sp_ach_trd_s_0054	Tausche Mortipot und Fatalitcha!
 sp_ach_trd_0001	Tausche über die GTS!
 sp_ach_trd_0002	Tausche per Gruppentausch!
 sp_ach_trd_0003	Erstelle eine Gruppe für einen Gruppentausch!
@@ -5692,6 +5719,7 @@ sp_softwaredictionary_005	Sinnoh-Pokédex
 sp_softwaredictionary_006	Hisui-Pokédex
 sp_softwaredictionary_008	Paldea-Pokédex
 sp_softwaredictionary_009	Kitakami-Pokédex
+sp_softwaredictionary_010	Blaubeer-Pokédex
 sp_softwaredictionary_007	Pokédex
 
 ~~~~~~~~~~~~~~~
@@ -6608,6 +6636,36 @@ PLACENAME_subarea_su01w05_01	Infernopass
 PLACENAME_subarea_su01w05_02	Oniyama
 PLACENAME_dungeon_a_su01d02_01	Kaltwasserkarst
 PLACENAME_dungeon_a_su01d02_02	
+PLACENAME_a_sch_2_entrance01_01	Blaubeer-Akademie
+PLACENAME_a_sch_2_entrance01_02	
+PLACENAME_a_su0201_01	Savannen-Areal
+PLACENAME_a_su0201_02	Tera-Kuppel
+PLACENAME_a_su0202_01	Küsten-Areal
+PLACENAME_a_su0202_02	Tera-Kuppel
+PLACENAME_a_su0203_01	Canyon-Areal
+PLACENAME_a_su0203_02	Tera-Kuppel
+PLACENAME_a_su0204_01	Polar-Areal
+PLACENAME_a_su0204_02	Tera-Kuppel
+PLACENAME_subarea_su2city_01	Zentralplatz
+PLACENAME_subarea_su2city_02	Tera-Kuppel
+PLACENAME_subarea_su2bigfourfire_01	Savannen-Platz
+PLACENAME_subarea_su2bigfourfire_02	Tera-Kuppel
+PLACENAME_subarea_su2bigfourfairy_01	Küsten-Platz
+PLACENAME_subarea_su2bigfourfairy_02	Tera-Kuppel
+PLACENAME_subarea_su2bigfoursteel_01	Canyon-Platz
+PLACENAME_subarea_su2bigfoursteel_02	Tera-Kuppel
+PLACENAME_subarea_su2bigfourdragon_01	Polar-Platz
+PLACENAME_subarea_su2bigfourdragon_02	Tera-Kuppel
+PLACENAME_a_su02d01_01	Elektrolithgrotte
+PLACENAME_a_su02d01_02	Tera-Kuppel
+PLACENAME_a_su02d02_01	Fackellabyrinth
+PLACENAME_a_su02d02_02	Tera-Kuppel
+PLACENAME_a_w23_d10_01	Höhlensystem Null
+PLACENAME_a_w23_d10_02	
+PLACENAME_a_w23_d11_01	Höhlensystem Null
+PLACENAME_a_w23_d11_02	
+PLACENAME_subarea_su2approach_01	Tera-Kuppel
+PLACENAME_subarea_su2approach_02	
 
 ~~~~~~~~~~~~~~~
 Text File : SV_place_name_out_deu.msbt
@@ -8601,6 +8659,9 @@ TOKUSEIINFO_SV_303	Die Erinnerungen, die das Pokémon in sich trägt, lassen die
 TOKUSEIINFO_SV_304	Die Erinnerungen, die das Pokémon in sich trägt, lassen die Fundamentmaske aufleuchten und erhöhen seine Verteidigung.
 TOKUSEIINFO_SV_305	Durch die toxischen Stoffe in seiner Kette werden Ziele, die das Pokémon mit einer Attacke trifft, gelegentlich schwer vergiftet.
 TOKUSEIINFO_SV_306	Beim ersten Kampfantritt verbreitet das Pokémon den Duft süßen Nektars und senkt so den Ausweichwert seiner Gegner.
+TOKUSEIINFO_SV_307	Bei Kampfantritt absorbiert das Pokémon Energie in seiner Umgebung und nimmt die Terakristall-Form an.
+TOKUSEIINFO_SV_308	Der Panzer des Pokémon birgt die Kraft aller Typen in sich. Alle Schaden verursachenden Attacken, die es bei vollen KP treffen, sind nicht sehr effektiv.
+TOKUSEIINFO_SV_309	Wenn Terapagos die Stellarform annimmt, eliminiert es dank seiner verborgenen Kräfte sämtliche Wettereffekte und Felder.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_deu.msbt
@@ -9184,6 +9245,9 @@ TOKUSEI_303	Erinnerungskraft
 TOKUSEI_304	Erinnerungskraft
 TOKUSEI_305	Giftkette
 TOKUSEI_306	Süßer Nektar
+TOKUSEI_307	Tera-Wandel
+TOKUSEI_308	Tera-Panzer
+TOKUSEI_309	Teraforming Null
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_deu.msbt
@@ -9815,7 +9879,7 @@ WAZAINFO_ALL_189	Schadet dem Ziel durch Matsch. Dessen Genauigkeit sinkt.
 WAZAINFO_ALL_190	Schießt mit Tinte, um Schaden anzurichten und die Genauigkeit zu senken.
 WAZAINFO_ALL_191	Der Anwender legt Stacheln aus, die gegnerische Pokémon verletzen, die in den Kampf gerufen werden.
 WAZAINFO_ALL_192	Kanonenähnlicher Elektro-Schuss, der schadet und paralysiert.
-WAZAINFO_ALL_193	Ermöglicht es, Geister-Pokémon mit Normal- und Kampf-Attacken anzugreifen. Ignoriert den Fluchtwert des Zieles.
+WAZAINFO_ALL_193	Ermöglicht es, Geister-Pokémon mit Normal- und Kampf-Attacken anzugreifen. Ignoriert den Ausweichwert des Zieles.
 WAZAINFO_ALL_194	Wird der Anwender nach Einsatz dieser Attacke kampfunfähig, führt dies auch beim Pokémon, das ihn besiegt hat, zum K.O. Scheitert bei Wiederholung.
 WAZAINFO_ALL_195	Wer diese Musik hört, wird nach drei Runden besiegt. Rettung ist durch den Eintausch eines neuen Pokémon möglich.
 WAZAINFO_ALL_196	Eis-Attacke, die gegnerischen Pokémon Schaden zufügt und ihren Initiative-Wert senkt.
@@ -9938,7 +10002,7 @@ WAZAINFO_ALL_312	Heilt alle Statusprobleme des Teams mit beruhigendem Duft.
 WAZAINFO_ALL_313	Täuscht Weinen vor, um die Spezial-Verteidigung des Zieles stark zu senken.
 WAZAINFO_ALL_314	Greift gegnerische Pokémon mit rasierklingenartigem Wind an. Hohe Volltrefferquote.
 WAZAINFO_ALL_315	Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.
-WAZAINFO_ALL_316	Ermöglicht es, Geister-Pokémon mit Normal- und Kampf-Attacken anzugreifen. Ignoriert den Fluchtwert des Zieles.
+WAZAINFO_ALL_316	Ermöglicht es, Geister-Pokémon mit Normal- und Kampf-Attacken anzugreifen. Ignoriert den Ausweichwert des Zieles.
 WAZAINFO_ALL_317	Angriff mit Felsen. Bei Erfolg wird der Initiative-Wert des Zieles gesenkt.
 WAZAINFO_ALL_318	Angriff mit Silberstaub. Eventuell werden alle Statuswerte des Anwenders erhöht.
 WAZAINFO_ALL_319	Stößt einen spitzen Schrei aus, der die Spezial-Verteidigung des Zieles stark senkt.
@@ -9979,7 +10043,7 @@ WAZAINFO_ALL_353	Angriff mit gebündeltem Licht erfolgt zwei Runden nach Attacke
 WAZAINFO_ALL_354	Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.
 WAZAINFO_ALL_355	Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
 WAZAINFO_ALL_356	Ermöglicht es, Flug-Pokémon oder Pokémon mit der Fähigkeit Schwebe mit Boden-Attacken zu treffen. Verhindert Attacken, bei denen der Anwender fliegt.
-WAZAINFO_ALL_357	Ermöglicht es, Unlicht-Pokémon mit Psycho-Attacken anzugreifen. Ignoriert den Fluchtwert des Zieles.
+WAZAINFO_ALL_357	Ermöglicht es, Unlicht-Pokémon mit Psycho-Attacken anzugreifen. Ignoriert den Ausweichwert des Zieles.
 WAZAINFO_ALL_358	Richtet großen Schaden bei einem schlafenden Ziel an, weckt es aber auch auf.
 WAZAINFO_ALL_359	Anwender trifft mit einem starken Hieb. Senkt Initiative des Anwenders.
 WAZAINFO_ALL_360	Angriff mit hoher Geschwindigkeit. Je niedriger die Initiative des Anwenders im Vergleich zum Ziel ist, desto höher der Schaden.
@@ -10527,6 +10591,21 @@ WAZAINFO_ALL_901	Der Anwender entfesselt eine gewaltige Energieladung aus einem 
 WAZAINFO_ALL_902	Der Anwender verschießt gequirlten Tee. Die Hälfte des zugefügten Schadens wird ihm als KP gutgeschrieben. Das Ziel erleidet eventuell Verbrennungen.
 WAZAINFO_ALL_903	Der Anwender feuert eine klebrige Sirupbombe auf das Ziel, wodurch es in Sirup gehüllt und seine Initiative drei Runden in Folge gesenkt wird.
 WAZAINFO_ALL_904	Der Anwender schlägt mit einer rankenumschlungenen Keule zu. Der Typ dieser Attacke hängt von der Maske des Anwenders ab. Hohe Volltrefferquote.
+WAZAINFO_ALL_905	Sammelt in Runde 1 Elektrizität, um den Spezial-Angriff zu erhöhen, und greift dann in Runde 2 mit Starkstrom an. Bei Regen erfolgt der Angriff sofort in Runde 1.
+WAZAINFO_ALL_906	Der Anwender greift das Ziel mit gebündelter Kristall- energie an. Wenn Terapagos diese Attacke in seiner Stellarform einsetzt, erleiden alle Gegner Schaden.
+WAZAINFO_ALL_907	Der Anwender greift mit einem Laserstrahl an. Manchmal feuern mehrere seiner Köpfe Laser ab, wodurch sich die Stärke dieser Attacke verdoppelt.
+WAZAINFO_ALL_908	Das brennend heiße Fell des Anwenders schützt ihn vor Angriffen. Gleichzeitig erleiden alle Pokémon, die mit ihm in Berührung kommen, Verbrennungen.
+WAZAINFO_ALL_909	Bei dieser Erstschlag-Attacke lässt der Anwender einen Blitz auf das Ziel einschlagen. Sie gelingt nur, wenn dieses gerade eine Angriffsattacke vorbereitet.
+WAZAINFO_ALL_910	Der Anwender führt mit dem in seinem Kopf gespeicherten Licht einen Schnitt aus. Diese Attacke trifft auch, wenn das Ziel sich selbst schützt.
+WAZAINFO_ALL_911	Der Anwender greift das Ziel zweimal hintereinander mit Partikelklingen an. Der Angriff trifft garantiert.
+WAZAINFO_ALL_912	Der Anwender nimmt das Ziel mit Armen oder Scheren in die Mangel. Je höher die KP des Zieles, desto stärker die Attacke.
+WAZAINFO_ALL_913	Das anspornende Drachengebrüll hebt die Moral aller Mitstreiter und erhöht ihre Volltrefferquote. Der Effekt ist stärker, wenn sie dem Typ Drache angehören.
+WAZAINFO_ALL_914	Der Anwender greift mit engelsgleichem Gesang an. Falls die Statuswerte des Zieles in dieser Runde erhöht wurden, wird es zusätzlich verwirrt.
+WAZAINFO_ALL_915	Der Anwender greift das Ziel voller Verzweiflung an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke.
+WAZAINFO_ALL_916	Der Anwender lädt seinen Körper mit elektrischer Energie auf und stürzt sich auf das Ziel. Bei Misserfolg verletzt sich der Anwender selbst.
+WAZAINFO_ALL_917	Der Anwender greift mit unerträglichen Schallwellen an, wodurch das Ziel zwei Runden lang nicht durch Attacken, Fähigkeiten oder getragene Items geheilt werden kann.
+WAZAINFO_ALL_918	Der Anwender reagiert auf Bewegungen des Zieles und lässt es durch einen Schlag zurückschrecken. Gelingt nur, wenn das Ziel gerade eine Erstschlag-Attacke vorbereitet.
+WAZAINFO_ALL_851_01	Verursacht Schaden mit Angriffs- oder Sp.-Ang.-Wert, je nachdem, welcher höher ist. Ang. und Sp.-Ang. des Anw. sinken. Sehr effektiv gegen terakristallisierte Ziele.
 
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_BDSP_deu.msbt
@@ -13710,7 +13789,7 @@ WAZAINFO_SV_350	Wirft zwei- bis fünfmal in Folge Felsblöcke auf das Ziel.
 WAZAINFO_SV_351	Angriff mit schnellem Elektro-Schlag. Ausweichen nicht möglich.
 WAZAINFO_SV_352	Angriff mit Wasserwelle, die das Ziel eventuell verwirren kann.
 WAZAINFO_SV_353	Angriff mit gebündeltem Licht erfolgt zwei Runden nach Attackeneinsatz.
-WAZAINFO_SV_354	Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
+WAZAINFO_SV_354	Angriff mit voller Kraft, der den Spezial-Angriff des Anwenders durch den Rückstoß stark senkt.
 WAZAINFO_SV_355	Anwender landet und ruht sich aus. KP des Anwenders werden um 50 % der maximalen KP aufgefüllt.
 WAZAINFO_SV_356	Ermöglicht es, Flug-Pokémon oder Pokémon mit der Fähigkeit Schwebe mit Boden-Attacken zu treffen. Verhindert Attacken, bei denen der Anwender fliegt.
 WAZAINFO_SV_357	Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
@@ -14048,7 +14127,7 @@ WAZAINFO_SV_688	Der Anwender greift das Ziel mit einem heftigen Tritt tropischer
 WAZAINFO_SV_689	Der Anwender befiehlt dem Ziel, dessen zuletzt ausgeführte Attacke sofort wieder einzusetzen.
 WAZAINFO_SV_690	Der Anwender erhitzt zuerst seinen Schnabel und greift dann an. Pokémon, die ihn während des Erhitzens berühren, erleiden Verbrennungen.
 WAZAINFO_SV_691	Der Anwender erzeugt durch das Rasseln mit seinen Schuppen ein lautes Geräusch und greift gegnerische Pokémon an. Anschließend sinkt seine Verteidigung.
-WAZAINFO_SV_692	Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
+WAZAINFO_SV_692	Der Anwender nutzt seinen Körper wie einen Hammer und stürzt sich auf das Ziel, wodurch dieses Schaden erleidet.
 WAZAINFO_SV_693	Der Anwender dreht schwungvoll seinen Körper und fügt allen Pokémon im Umkreis dabei Schaden zu.
 WAZAINFO_SV_694	Diese Attacke schwächt fünf Runden lang den durch physische sowie durch Spezial-Attacken erhaltenen Schaden. Kann nur bei Schnee eingesetzt werden.
 WAZAINFO_SV_695	Diese Attacke kann nicht eingesetzt werden. Du solltest dein Pokémon sie vergessen lassen. Beachte aber, dass es sich danach nicht wieder an sie erinnern kann.
@@ -14261,6 +14340,21 @@ WAZAINFO_SV_901	Der Anwender entfesselt eine gewaltige Energieladung aus einem b
 WAZAINFO_SV_902	Der Anwender verschießt gequirlten Tee. Die Hälfte des zugefügten Schadens wird ihm als KP gutgeschrieben. Das Ziel erleidet eventuell Verbrennungen.
 WAZAINFO_SV_903	Der Anwender feuert eine klebrige Sirupbombe auf das Ziel, wodurch es in Sirup gehüllt und seine Initiative drei Runden in Folge gesenkt wird.
 WAZAINFO_SV_904	Der Anwender schlägt mit einer rankenumschlungenen Keule zu. Der Typ dieser Attacke hängt von der Maske des Anwenders ab. Hohe Volltrefferquote.
+WAZAINFO_SV_905	Sammelt in Runde 1 Elektrizität, um den Spezial-Angriff zu erhöhen, und greift dann in Runde 2 mit Starkstrom an. Bei Regen erfolgt der Angriff sofort in Runde 1.
+WAZAINFO_SV_906	Der Anwender greift das Ziel mit gebündelter Kristall- energie an. Wenn Terapagos diese Attacke in seiner Stellarform einsetzt, erleiden alle Gegner Schaden.
+WAZAINFO_SV_907	Der Anwender greift mit einem Laserstrahl an. Manchmal feuern mehrere seiner Köpfe Laser ab, wodurch sich die Stärke dieser Attacke verdoppelt.
+WAZAINFO_SV_908	Das brennend heiße Fell des Anwenders schützt ihn vor Angriffen. Gleichzeitig erleiden alle Pokémon, die mit ihm in Berührung kommen, Verbrennungen.
+WAZAINFO_SV_909	Bei dieser Erstschlag-Attacke lässt der Anwender einen Blitz auf das Ziel einschlagen. Sie gelingt nur, wenn dieses gerade eine Angriffsattacke vorbereitet.
+WAZAINFO_SV_910	Der Anwender führt mit dem in seinem Kopf gespeicherten Licht einen Schnitt aus. Diese Attacke trifft auch, wenn das Ziel sich selbst schützt.
+WAZAINFO_SV_911	Der Anwender greift das Ziel zweimal hintereinander mit Partikelklingen an. Der Angriff trifft garantiert.
+WAZAINFO_SV_912	Der Anwender nimmt das Ziel mit Armen oder Scheren in die Mangel. Je höher die KP des Zieles, desto stärker die Attacke.
+WAZAINFO_SV_913	Das anspornende Drachengebrüll hebt die Moral aller Mitstreiter und erhöht ihre Volltrefferquote. Der Effekt ist stärker, wenn sie dem Typ Drache angehören.
+WAZAINFO_SV_914	Der Anwender greift mit engelsgleichem Gesang an. Falls die Statuswerte des Zieles in dieser Runde erhöht wurden, wird es zusätzlich verwirrt.
+WAZAINFO_SV_915	Der Anwender greift das Ziel voller Verzweiflung an. Wenn seine vorige Attacke fehlgeschlagen ist, verdoppelt sich die Stärke der Attacke.
+WAZAINFO_SV_916	Der Anwender lädt seinen Körper mit elektrischer Energie auf und stürzt sich auf das Ziel. Bei Misserfolg verletzt sich der Anwender selbst.
+WAZAINFO_SV_917	Der Anwender greift mit unerträglichen Schallwellen an, wodurch das Ziel zwei Runden lang nicht durch Attacken, Fähigkeiten oder getragene Items geheilt werden kann.
+WAZAINFO_SV_918	Der Anwender reagiert auf Bewegungen des Zieles und lässt es durch einen Schlag zurückschrecken. Gelingt nur, wenn das Ziel gerade eine Erstschlag-Attacke vorbereitet.
+WAZAINFO_SV_851_01	Verursacht Schaden mit Angriffs- oder Sp.-Ang.-Wert, je nachdem, welcher höher ist. Ang. und Sp.-Ang. des Anw. sinken. Sehr effektiv gegen terakristallisierte Ziele.
 
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_SWSH_deu.msbt
@@ -16001,6 +16095,20 @@ WAZANAME_901	Blutmond
 WAZANAME_902	Quirlschuss
 WAZANAME_903	Sirupbombe
 WAZANAME_904	Rankenkeule
+WAZANAME_905	Stromstrahl
+WAZANAME_906	Tera-Sternhagel
+WAZANAME_907	Launenlaser
+WAZANAME_908	Flammenschild
+WAZANAME_909	Sturmblitz
+WAZANAME_910	Wuchtklinge
+WAZANAME_911	Tachyon-Schnitt
+WAZANAME_912	Stahlpresse
+WAZANAME_913	Drachenschrei
+WAZANAME_914	Lockstimme
+WAZANAME_915	Frustflamme
+WAZANAME_916	Donnerstoß
+WAZANAME_917	Psycholärm
+WAZANAME_918	Schnellkonter
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_deu.msbt
@@ -17743,6 +17851,15 @@ ZKN_FORM_1017_000	Türkisgrüne Maske
 ZKN_FORM_1017_001	Brunnenmaske
 ZKN_FORM_1017_002	Ofenmaske
 ZKN_FORM_1017_003	Fundamentmaske
+ZKN_FORM_1018_000	
+ZKN_FORM_1019_000	
+ZKN_FORM_1020_000	
+ZKN_FORM_1021_000	
+ZKN_FORM_1022_000	
+ZKN_FORM_1023_000	
+ZKN_FORM_1024_000	Normalform
+ZKN_FORM_1024_001	Terakristall-Form
+ZKN_FORM_1024_002	Stellarform
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_deu.msbt
@@ -19211,6 +19328,15 @@ ZKN_HEIGHT_1017_000	1,2 m
 ZKN_HEIGHT_1017_001	1,2 m
 ZKN_HEIGHT_1017_002	1,2 m
 ZKN_HEIGHT_1017_003	1,2 m
+ZKN_HEIGHT_1018_000	2,0 m
+ZKN_HEIGHT_1019_000	1,8 m
+ZKN_HEIGHT_1020_000	3,5 m
+ZKN_HEIGHT_1021_000	5,2 m
+ZKN_HEIGHT_1022_000	1,5 m
+ZKN_HEIGHT_1023_000	1,6 m
+ZKN_HEIGHT_1024_000	0,2 m
+ZKN_HEIGHT_1024_001	0,3 m
+ZKN_HEIGHT_1024_002	1,7 m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_deu.msbt
@@ -19271,8 +19397,8 @@ ZKN_TYPE_052	Katzen-Pokémon
 ZKN_TYPE_053	Rassekatzen-Pokémon
 ZKN_TYPE_054	Enten-Pokémon
 ZKN_TYPE_055	Enten-Pokémon
-ZKN_TYPE_056	Schwein/Affen-Pokémon
-ZKN_TYPE_057	Schwein/Affen-Pokémon
+ZKN_TYPE_056	Schweinsaffen-Pokémon
+ZKN_TYPE_057	Schweinsaffen-Pokémon
 ZKN_TYPE_058	Welpen-Pokémon
 ZKN_TYPE_059	Legendär-Pokémon
 ZKN_TYPE_060	Kaulquappen-Pokémon
@@ -19421,8 +19547,8 @@ ZKN_TYPE_202	Gedulds-Pokémon
 ZKN_TYPE_203	Langhals-Pokémon
 ZKN_TYPE_204	Beutelwurm-Pokémon
 ZKN_TYPE_205	Beutelwurm-Pokémon
-ZKN_TYPE_206	Schlangen-Pokémon
-ZKN_TYPE_207	Flugskorpi-Pokémon
+ZKN_TYPE_206	Erdschlangen-Pokémon
+ZKN_TYPE_207	Flugskorpion-Pokémon
 ZKN_TYPE_208	Stahlboa-Pokémon
 ZKN_TYPE_209	Feen-Pokémon
 ZKN_TYPE_210	Feen-Pokémon
@@ -19436,7 +19562,7 @@ ZKN_TYPE_217	Schläfer-Pokémon
 ZKN_TYPE_218	Lava-Pokémon
 ZKN_TYPE_219	Lava-Pokémon
 ZKN_TYPE_220	Ferkel-Pokémon
-ZKN_TYPE_221	Schwein-Pokémon
+ZKN_TYPE_221	Wildschwein-Pokémon
 ZKN_TYPE_222	Korallen-Pokémon
 ZKN_TYPE_223	Hochdruck-Pokémon
 ZKN_TYPE_224	Hochdruck-Pokémon
@@ -19471,7 +19597,7 @@ ZKN_TYPE_252	Waldgecko-Pokémon
 ZKN_TYPE_253	Waldgecko-Pokémon
 ZKN_TYPE_254	Dschungel-Pokémon
 ZKN_TYPE_255	Küken-Pokémon
-ZKN_TYPE_256	Kleinhahn-Pokémon
+ZKN_TYPE_256	Jungvogel-Pokémon
 ZKN_TYPE_257	Großbrand-Pokémon
 ZKN_TYPE_258	Lehmhüpfer-Pokémon
 ZKN_TYPE_259	Lehmhüpfer-Pokémon
@@ -19554,8 +19680,8 @@ ZKN_TYPE_335	Frettkatz-Pokémon
 ZKN_TYPE_336	Reißzahn-Pokémon
 ZKN_TYPE_337	Meteoriten-Pokémon
 ZKN_TYPE_338	Meteoriten-Pokémon
-ZKN_TYPE_339	Barthaar-Pokémon
-ZKN_TYPE_340	Barthaar-Pokémon
+ZKN_TYPE_339	Bartelfisch-Pokémon
+ZKN_TYPE_340	Bartelfisch-Pokémon
 ZKN_TYPE_341	Grobian-Pokémon
 ZKN_TYPE_342	Schlingel-Pokémon
 ZKN_TYPE_343	Lehmpuppen-Pokémon
@@ -19685,9 +19811,9 @@ ZKN_TYPE_466	Donnerkeil-Pokémon
 ZKN_TYPE_467	Detonations-Pokémon
 ZKN_TYPE_468	Jubilierer-Pokémon
 ZKN_TYPE_469	Agrion-Pokémon
-ZKN_TYPE_470	Unreif-Pokémon
+ZKN_TYPE_470	Frischgrün-Pokémon
 ZKN_TYPE_471	Neuschnee-Pokémon
-ZKN_TYPE_472	Zahnskorpi-Pokémon
+ZKN_TYPE_472	Zahnskorpion-Pokémon
 ZKN_TYPE_473	Doppelstoßzahn-Pokémon
 ZKN_TYPE_474	Virtuell-Pokémon
 ZKN_TYPE_475	Klingen-Pokémon
@@ -20265,6 +20391,15 @@ ZKN_TYPE_1013_001	Matcha-Pokémon
 ZKN_TYPE_1017_001	Masken-Pokémon
 ZKN_TYPE_1017_002	Masken-Pokémon
 ZKN_TYPE_1017_003	Masken-Pokémon
+ZKN_TYPE_1018	Legierungs-Pokémon
+ZKN_TYPE_1019	Apfelhydra-Pokémon
+ZKN_TYPE_1020	Paradox-Pokémon
+ZKN_TYPE_1021	Paradox-Pokémon
+ZKN_TYPE_1022	Paradox-Pokémon
+ZKN_TYPE_1023	Paradox-Pokémon
+ZKN_TYPE_1024	Terakristall-Pokémon
+ZKN_TYPE_1024_001	Terakristall-Pokémon
+ZKN_TYPE_1024_002	Terakristall-Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_deu.msbt
@@ -21733,6 +21868,15 @@ ZKN_WEIGHT_1017_000	39,8 kg
 ZKN_WEIGHT_1017_001	39,8 kg
 ZKN_WEIGHT_1017_002	39,8 kg
 ZKN_WEIGHT_1017_003	39,8 kg
+ZKN_WEIGHT_1018_000	60,0 kg
+ZKN_WEIGHT_1019_000	93,0 kg
+ZKN_WEIGHT_1020_000	590,0 kg
+ZKN_WEIGHT_1021_000	480,0 kg
+ZKN_WEIGHT_1022_000	162,5 kg
+ZKN_WEIGHT_1023_000	156,0 kg
+ZKN_WEIGHT_1024_000	6,5 kg
+ZKN_WEIGHT_1024_001	16,0 kg
+ZKN_WEIGHT_1024_002	77,0 kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_deu.msbt
@@ -27619,20 +27763,20 @@ ZKN_OMEGA_720_001	In seiner wahren Gestalt verfügt es über enorme Kräfte. Leg
 Text File : zukan_comment_scarlet_deu.msbt
 ~~~~~~~~~~~~~~~
 ZKN_SCARLET_0000_000	
-ZKN_SCARLET_0001_000	
-ZKN_SCARLET_0002_000	
-ZKN_SCARLET_0003_000	
+ZKN_SCARLET_0001_000	Nach der Geburt nutzt es für eine Weile die Nährstoffe im Samen auf seinem Rücken, um zu wachsen.
+ZKN_SCARLET_0002_000	Die Sonne macht es stärker. Die Knospe auf seinem Rücken wächst unter dem Einfluss von Sonnenlicht.
+ZKN_SCARLET_0003_000	Da es Sonnenlicht in Energie umwandelt, ist es im Sommer stärker.
 ZKN_SCARLET_0003_001	
 ZKN_SCARLET_0003_999	
-ZKN_SCARLET_0004_000	
-ZKN_SCARLET_0005_000	
-ZKN_SCARLET_0006_000	
+ZKN_SCARLET_0004_000	Die Flamme an seiner Schwanzspitze zeigt seine Lebensenergie an. Geht es ihm nicht gut, wird die Flamme schwächer.
+ZKN_SCARLET_0005_000	Wenn Glutexo seinen brennenden Schwanz schwingt, steigt die Temperatur um es herum immer weiter an und setzt seinen Gegnern zu.
+ZKN_SCARLET_0006_000	Wenn Glurak richtig wütend wird, flackert die Flamme an seiner Schwanzspitze in einem bläulichen Ton.
 ZKN_SCARLET_0006_001	
 ZKN_SCARLET_0006_002	
 ZKN_SCARLET_0006_999	
-ZKN_SCARLET_0007_000	
-ZKN_SCARLET_0008_000	
-ZKN_SCARLET_0009_000	
+ZKN_SCARLET_0007_000	Nach der Geburt schwillt sein Rücken an und verhärtet sich zu einem Panzer. Es versprüht starken Schaum aus seinem Maul.
+ZKN_SCARLET_0008_000	Sein langer und buschiger Schweif zeugt von Langlebigkeit. Es ist besonders bei älteren Menschen beliebt.
+ZKN_SCARLET_0009_000	Es macht sich absichtlich schwer, um den Rückstoß seiner Wasserstrahlen abzufangen.
 ZKN_SCARLET_0009_001	
 ZKN_SCARLET_0009_999	
 ZKN_SCARLET_0010_000	
@@ -27670,9 +27814,9 @@ ZKN_SCARLET_0025_999
 ZKN_SCARLET_0026_000	Mithilfe seines Schweifs entlädt es Elektrizität in den Boden, um sich auf diese Weise vor elektrischen Schlägen zu schützen.
 ZKN_SCARLET_0026_001	
 ZKN_SCARLET_0027_000	Es gräbt tiefe Baue, um darin zu leben. Bei Gefahr rollt es sich zusammen und sitzt den Angriff aus.
-ZKN_SCARLET_0027_001	
+ZKN_SCARLET_0027_001	Es lebt auf verschneiten Bergen. Sein stählerner Panzer ist zwar robust, aber so hart, dass es den Körper nicht vollständig zusammenrollen kann.
 ZKN_SCARLET_0028_000	Es ist besonders geschickt darin, mit den Stacheln an seinem Rücken und seinen scharfen Klauen anzugreifen, während es flink umherrennt.
-ZKN_SCARLET_0028_001	
+ZKN_SCARLET_0028_001	Eis bedeckt seine stählernen Stacheln. Ein Angriff mit diesen Stacheln führt neben tiefen Wunden auch zu Erfrierungen.
 ZKN_SCARLET_0029_000	
 ZKN_SCARLET_0030_000	
 ZKN_SCARLET_0031_000	
@@ -27682,24 +27826,24 @@ ZKN_SCARLET_0034_000
 ZKN_SCARLET_0035_000	Bei Vollmond kommen die Piepi von überall zusammen, um zu tanzen. Das Mondlicht lässt sie in der Luft schweben.
 ZKN_SCARLET_0036_000	Man sagt, es lebe in ruhigen, abgelegenen Bergregionen. Dieses feenhafte Pokémon zeigt sich nur ungern.
 ZKN_SCARLET_0037_000	Wird es von einem stärkeren Gegner angegriffen, täuscht es eine Verletzung vor, um im richtigen Moment vor ihm zu flüchten.
-ZKN_SCARLET_0037_001	
+ZKN_SCARLET_0037_001	Vulpix helfen sich in ihrem Rudel gegenseitig. Mit seinem eisigen Atem von −50 ℃ friert es seine Beute ein, bevor es sie verspeist.
 ZKN_SCARLET_0038_000	Eine Legende besagt, dass jedem seiner neun Schweife eine einzigartige mystische Kraft innewohnt.
-ZKN_SCARLET_0038_001	
+ZKN_SCARLET_0038_001	Dieses sanftmütige Pokémon wurde als Gottheit verehrt, bis man herausfand, dass es sich um eine Regionalform Vulnonas handelt.
 ZKN_SCARLET_0039_000	Wenn seine Kulleraugen zu flackern beginnen, singt es ein mysteriöses, wohlklingendes Lied, das Zuhörer in Schlaf versetzt.
 ZKN_SCARLET_0040_000	Es hat sehr feines Fell. Doch Vorsicht: Verärgert man Knuddeluff, bläst es sich stark auf und stürzt sich mit seinem ganzen Körper auf einen.
 ZKN_SCARLET_0041_000	
 ZKN_SCARLET_0042_000	
-ZKN_SCARLET_0043_000	
-ZKN_SCARLET_0044_000	
-ZKN_SCARLET_0045_000	
+ZKN_SCARLET_0043_000	Es ist auch als „Oddium Wanderus“ bekannt. Nachts kann es knapp 300 m auf seinen zwei Wurzeln zurücklegen.
+ZKN_SCARLET_0044_000	Was aus seinem Mund sickert, ist kein Speichel, sondern eine Art Nektar, mit dem es seine Beute anlockt.
+ZKN_SCARLET_0045_000	Seine Knospe öffnet sich mit einem Knall. Anschließend beginnt es, seine allergenen, giftigen Pollen zu verteilen.
 ZKN_SCARLET_0046_000	
 ZKN_SCARLET_0047_000	
 ZKN_SCARLET_0048_000	Aus seinem ganzen Körper tritt Gift aus. Es fängt und frisst nachts kleine Käfer-Pokémon, die von Licht angelockt wurden.
 ZKN_SCARLET_0049_000	Seine Flügel sind mit staubähnlichen Schuppen überzogen. Mit jedem Flügelschlag verstreut es hochgiftigen Puder.
 ZKN_SCARLET_0050_000	Dieses Pokémon lebt 1 m unter der Erde. Es frisst Wurzeln und kommt hin und wieder an die Oberfläche.
-ZKN_SCARLET_0050_001	
+ZKN_SCARLET_0050_001	Die metallischen Fortsätze auf seinem Kopf waren ursprünglich Haare. Es wackelt mit ihnen, um mit anderen Digda zu kommunizieren.
 ZKN_SCARLET_0051_000	Seine drei Köpfe bewegen sich abwechselnd hinauf und hinunter, um das Erdreich um sich herum zu lockern und leichter graben zu können.
-ZKN_SCARLET_0051_001	
+ZKN_SCARLET_0051_001	Seine golden leuchtenden Haare sind sensible Sensoren, die Geräusche in mehreren Kilometern Entfernung als Vibrationen wahrnehmen können.
 ZKN_SCARLET_0052_000	Es schläft den ganzen Tag. Nachts patrouilliert es sein Revier mit glühenden Augen.
 ZKN_SCARLET_0052_001	
 ZKN_SCARLET_0052_002	
@@ -27726,35 +27870,35 @@ ZKN_SCARLET_0068_999
 ZKN_SCARLET_0069_000	Bewegt sich etwas in seinem Umfeld, reagiert es sofort und streckt seine dünnen Ranken aus.
 ZKN_SCARLET_0070_000	Da es auch eine Flüssigkeit absondert, die es gegen Säure resistent macht, verätzt es sich nicht selbst.
 ZKN_SCARLET_0071_000	Mit einem nektarartigen Aroma lockt es Beute in sein Maul. Dort wird diese in einer ätzenden Flüssigkeit rückstandslos aufgelöst.
-ZKN_SCARLET_0072_000	
-ZKN_SCARLET_0073_000	
+ZKN_SCARLET_0072_000	Bei Ebbe kann man ausgetrocknete Tentacha am Strand finden.
+ZKN_SCARLET_0073_000	In äußerst seltenen Fällen bilden sie einen Schwarm, woraufhin alle Fisch-Pokémon in der näheren Umgebung verschwinden.
 ZKN_SCARLET_0074_000	Ruhend sieht es fast wie ein Felsen aus, doch tritt man auf ein Kleinstein, schwingt es wütend die Fäuste.
-ZKN_SCARLET_0074_001	
+ZKN_SCARLET_0074_001	Sein Steinkörper ist von Magnetkraft erfüllt. An den Stellen, wo diese besonders stark wirkt, heften sich Schichten von Eisensand an.
 ZKN_SCARLET_0075_000	Da es nur langsam gehen kann, bewegt es sich rollend. Es nimmt dabei keine Rücksicht auf Hindernisse.
-ZKN_SCARLET_0075_001	
+ZKN_SCARLET_0075_001	Georok streiten sich um ihre Gesteinsnahrung. Wenn sie kollidieren, erzeugt das einen lauten Knall sowie einen Lichtblitz.
 ZKN_SCARLET_0076_000	Es ist von einem harten, felsartigen Panzer umgeben und häutet sich jährlich, um zu wachsen.
-ZKN_SCARLET_0076_001	
+ZKN_SCARLET_0076_001	Wenn man dieses dickköpfige und mürrische Pokémon verärgert, stößt es aus seinem Körper Strom aus und heult mit donnernder Stimme auf.
 ZKN_SCARLET_0077_000	
 ZKN_SCARLET_0077_001	
 ZKN_SCARLET_0078_000	
 ZKN_SCARLET_0078_001	
 ZKN_SCARLET_0079_000	Ein unglaublich träges und einfältiges Pokémon. Wenn es angegriffen wird, bemerkt es den Schmerz erst fünf Sekunden später.
-ZKN_SCARLET_0079_001	
+ZKN_SCARLET_0079_001	Sein anregender Duft stammt von einem Gewürz, das seine Hauptnahrungsquelle bildet und dessen Partikel sich in seinem Körper ausgebreitet haben.
 ZKN_SCARLET_0080_000	Als Flegmon im Meer jagen ging, biss ein Muschas in seine Rute. Dadurch entwickelte es sich zu Lahmus.
 ZKN_SCARLET_0080_001	
-ZKN_SCARLET_0080_002	
+ZKN_SCARLET_0080_002	Das am Arm festgebissene Muschas wurde wegen des austretenden Gifts zwar bewusstlos, erscheint aber ekstatisch durch Lahmus’ Geschmack.
 ZKN_SCARLET_0081_000	Die seitlichen Module halten es in der Luft, indem sie mit elektromagnetischen Wellen die Schwerkraft überlisten.
 ZKN_SCARLET_0082_000	Drei Magnetilo sind durch ein starkes Magnetfeld verbunden. In seiner Nähe bekommt man Ohrensausen.
 ZKN_SCARLET_0083_000	
 ZKN_SCARLET_0083_001	
-ZKN_SCARLET_0084_000	
-ZKN_SCARLET_0085_000	
-ZKN_SCARLET_0086_000	
-ZKN_SCARLET_0087_000	
+ZKN_SCARLET_0084_000	Die beiden Zwillingsköpfe haben die exakt gleiche DNS und vollziehen Attacken in perfektem Einklang.
+ZKN_SCARLET_0085_000	Diesem Pokémon sind drei Lungen und drei Herzen gewachsen. Es ist langsamer als Dodu, hat beim Rennen aber eine hohe Ausdauer.
+ZKN_SCARLET_0086_000	Dieses Pokémon verfügt über ein sehr hartes Horn. Mit Kopfstößen durchbricht es Eismassen in seinem Weg.
+ZKN_SCARLET_0087_000	Des Nachts, wenn die Wassertemperatur fällt, schwimmt es auf der Suche nach Nahrung umher. Tagsüber schläft es im seichten Meereswasser.
 ZKN_SCARLET_0088_000	Diese aus Schlamm entstandenen Pokémon scharen sich an dreckigen Orten, um ihre körpereigenen Bakterien zu kultivieren.
-ZKN_SCARLET_0088_001	
+ZKN_SCARLET_0088_001	Da es seine Toxine im Inneren seines Körpers speichert, stinkt es im Gegensatz zu den Sleima anderer Regionen selbst aus der Nähe nicht.
 ZKN_SCARLET_0089_000	Der schmutzige Schleim dieses Pokémon ist extrem toxisch. Selbst die Spuren, die es hinterlässt, enthalten Gift.
-ZKN_SCARLET_0089_001	
+ZKN_SCARLET_0089_001	In seinem Inneren befinden sich mehr als 100 verschiedene Toxine. Seine Lebenskraft zieht es aus den chemischen Reaktionen zwischen ihnen.
 ZKN_SCARLET_0090_000	Seine Schale ist härter als Diamant. Im Inneren ist es jedoch überraschend weich.
 ZKN_SCARLET_0091_000	Austos, die in Meeren mit starker Strömung leben, entwickeln große und scharfe Stacheln an ihrer Schale.
 ZKN_SCARLET_0092_000	Es hüllt seine Beute in seinen Gaskörper ein und schwächt sie, indem es sie nach und nach über die Haut vergiftet.
@@ -27770,27 +27914,27 @@ ZKN_SCARLET_0099_000
 ZKN_SCARLET_0099_999	
 ZKN_SCARLET_0100_000	Es bewegt sich rollend fort. Rollt es über unebenen Boden, kann es plötzlich explodieren.
 ZKN_SCARLET_0101_000	Je mehr elektrische Energie es speichert, desto schneller ist es. Allerdings steigt dabei auch das Risiko, dass es explodiert.
-ZKN_SCARLET_0102_000	
-ZKN_SCARLET_0103_000	
-ZKN_SCARLET_0103_001	
+ZKN_SCARLET_0102_000	Berührt man einen seiner Köpfe, weil man ihn für ein Ei hält, tun die übrigen sich rasch zusammen und gehen zum Angriff über.
+ZKN_SCARLET_0103_000	Man nennt es den „Laufenden Dschungel“. Jede der Nüsse hat ein eigenes Gesicht und einen eigenen Willen.
+ZKN_SCARLET_0103_001	Es greift mit seinen Köpfen an, indem es den langen Hals wie eine Peitsche schwingt. Dabei wird ihm jedoch leicht schwindelig.
 ZKN_SCARLET_0104_000	
 ZKN_SCARLET_0105_000	
 ZKN_SCARLET_0105_001	
 ZKN_SCARLET_0105_002	
-ZKN_SCARLET_0106_000	
-ZKN_SCARLET_0107_000	
+ZKN_SCARLET_0106_000	In dem Moment, in dem es mit einem Tritt einen Treffer landet, verhärtet es die Muskeln seiner Fußsohle und erreicht so das Maximum an Kraft.
+ZKN_SCARLET_0107_000	Mit rasanten Schlägen von beiden Seiten treibt es seine Gegner in die Enge und erledigt sie dann mit einer 500 km/h schnellen gezielten Geraden.
 ZKN_SCARLET_0108_000	
 ZKN_SCARLET_0109_000	Da sein dünner, ballonförmiger Körper mit sehr giftigem Gas angefüllt ist, verursacht es hin und wieder Explosionen.
 ZKN_SCARLET_0110_000	Verdünnt man das in seinem Körper auftretende giftige Gas aufs Äußerste, so kann ein edles Parfüm daraus gewonnen werden.
 ZKN_SCARLET_0110_001	
-ZKN_SCARLET_0111_000	
-ZKN_SCARLET_0112_000	
+ZKN_SCARLET_0111_000	Das Revier dieses Pokémon hat einen Radius von 10 km. Sobald es jedoch losrennt, scheint es zu vergessen, wo dieses anfängt und aufhört.
+ZKN_SCARLET_0112_000	Mit seinem Horn kann es selbst Rohdiamanten zertrümmern. Artgenossen stoßen ihre Hörner aneinander, um sie zu schärfen.
 ZKN_SCARLET_0113_000	Ein freundliches Pokémon, das nahrhafte Eier legt, um diese mit verletzten Pokémon und Menschen zu teilen.
 ZKN_SCARLET_0114_000	
 ZKN_SCARLET_0115_000	
 ZKN_SCARLET_0115_001	
-ZKN_SCARLET_0116_000	
-ZKN_SCARLET_0117_000	
+ZKN_SCARLET_0116_000	Auch bei Angriffen durch größere Gegner kann es mühelos davonschwimmen, indem es seine gut ausgebildete Rückenflosse einsetzt.
+ZKN_SCARLET_0117_000	Das Männchen zieht den Nachwuchs auf. Nähert sich in dieser Zeit ein Störenfried, setzt es hochgiftige Stacheln ein, um ihn zu vertreiben.
 ZKN_SCARLET_0118_000	
 ZKN_SCARLET_0119_000	
 ZKN_SCARLET_0120_000	
@@ -27799,18 +27943,18 @@ ZKN_SCARLET_0122_000
 ZKN_SCARLET_0122_001	
 ZKN_SCARLET_0123_000	Es bahnt sich mit seinen scharfen Sicheln so schnell einen Weg durch das Gras, dass es dabei für das menschliche Auge unsichtbar ist.
 ZKN_SCARLET_0124_000	
-ZKN_SCARLET_0125_000	
-ZKN_SCARLET_0126_000	
+ZKN_SCARLET_0125_000	Sein Körper entlädt sich ständig. Kommt man ihm zu nahe, stehen einem die Haare senkrecht vom Kopf ab.
+ZKN_SCARLET_0126_000	Dieses Feuer speiende Pokémon wurde in der Nähe eines Vulkankraters entdeckt. Seine Körpertemperatur beträgt ganze 1200 ℃.
 ZKN_SCARLET_0127_000	
 ZKN_SCARLET_0127_001	
-ZKN_SCARLET_0128_000	
+ZKN_SCARLET_0128_000	Wenn Tauros ein Ziel ins Visier genommen hat, stürmt es direkt auf es zu und benutzt seine Schweife als Peitsche, um sich anzutreiben.
 ZKN_SCARLET_0128_001	Es hat einen muskulösen Körper und zeichnet sich im Nahkampf aus. Mit seinen kurzen Hörnern zielt es auf die Schwachstellen des Gegners ab.
 ZKN_SCARLET_0128_002	Seine Hörner erreichen mithilfe von Feuer-Energie 1000 ℃. Spießt es damit Gegner auf, so erleiden diese Verletzungen und Verbrennungen.
 ZKN_SCARLET_0128_003	Es spritzt Wasser aus den Öffnungen an seinen Hornenden. Die mit Hochdruck abgefeuerten Wasserstrahlen durchbohren seine Gegner.
 ZKN_SCARLET_0129_000	Ein schwaches und jämmerliches Pokémon. Manchmal gelingen ihm hohe Sprünge, aber über 2 m kommt es selten hinaus.
 ZKN_SCARLET_0130_000	Taucht es auf, randaliert es. Es beruhigt sich erst, wenn es alles um sich zerstört hat.
 ZKN_SCARLET_0130_001	
-ZKN_SCARLET_0131_000	
+ZKN_SCARLET_0131_000	Es trägt Menschen auf seinem Rücken übers Meer. Wenn es gut gelaunt ist, stimmt es anscheinend manchmal ein entzückendes Lied an.
 ZKN_SCARLET_0131_999	
 ZKN_SCARLET_0132_000	Seine Verwandlungskunst ist perfekt. Bringt man es jedoch zum Lachen, fliegt seine Tarnung auf.
 ZKN_SCARLET_0133_000	Um sich jeder Umgebung perfekt anpassen zu können, ist es in der Lage, sich zu verschiedenen Pokémon zu entwickeln.
@@ -27819,7 +27963,7 @@ ZKN_SCARLET_0133_999
 ZKN_SCARLET_0134_000	Dieses Pokémon lebt nahe an Gewässern. Wegen seiner fischähnlichen Schwanzflosse wird es manchmal für eine Meerjungfrau gehalten.
 ZKN_SCARLET_0135_000	Es sammelt die schwache elektrische Energie, die von seinen Zellen ausgeht, und feuert starke Blitze ab.
 ZKN_SCARLET_0136_000	Es speichert Atemluft in einem Flammensack. Dort erhitzt es sie auf 1700 ℃, um sie als Flammen auszuspucken.
-ZKN_SCARLET_0137_000	
+ZKN_SCARLET_0137_000	Dieses künstliche Pokémon atmet nicht. Daher zählt man darauf, dass es in jeder Umgebung eingesetzt werden kann.
 ZKN_SCARLET_0138_000	
 ZKN_SCARLET_0139_000	
 ZKN_SCARLET_0140_000	
@@ -27841,15 +27985,15 @@ ZKN_SCARLET_0150_000
 ZKN_SCARLET_0150_001	
 ZKN_SCARLET_0150_002	
 ZKN_SCARLET_0151_000	
-ZKN_SCARLET_0152_000	
-ZKN_SCARLET_0153_000	
-ZKN_SCARLET_0154_000	
-ZKN_SCARLET_0155_000	
-ZKN_SCARLET_0156_000	
-ZKN_SCARLET_0157_000	
-ZKN_SCARLET_0158_000	
-ZKN_SCARLET_0159_000	
-ZKN_SCARLET_0160_000	
+ZKN_SCARLET_0152_000	Es liegt gerne in der Sonne. Mithilfe des Blattes auf seinem Kopf findet es warme Orte.
+ZKN_SCARLET_0153_000	Der würzige Geruch, der von seinem Hals ausgeht, regt beim Einatmen aus irgendeinem Grund den Kampfgeist an.
+ZKN_SCARLET_0154_000	Jeder, der neben Meganie steht, fühlt sich so erfrischt, als ob er einen entspannenden Spaziergang durch den Wald gemacht hätte.
+ZKN_SCARLET_0155_000	Man sieht es stets in einer gekrümmten Haltung. Ist es zornig oder überrascht, schießen Flammen aus seinem Rücken.
+ZKN_SCARLET_0156_000	Vor dem Kampf dreht es dem Feind den Rücken zu, um ihm zu zeigen, wie beeindruckend sein Feuer lodert.
+ZKN_SCARLET_0157_000	Es verfügt über eine verheerende Geheimattacke, bei der es sein flammendes Fell reibt, um so Explosionen zu erzeugen.
+ZKN_SCARLET_0158_000	Seine kräftigen, stark entwickelten Kiefer können alles zermalmen. Selbst sein Trainer muss sich vor ihm in Acht nehmen.
+ZKN_SCARLET_0159_000	Seine Zähne sind nach hinten gerichtet, damit es nicht mehr abzuschütteln ist, wenn es sich einmal in seiner Beute festgebissen hat.
+ZKN_SCARLET_0160_000	Wenn es mit seinem großen, kräftigen Kiefer zugebissen hat, schüttelt es seinen Kopf und reißt den Gegner in Stücke.
 ZKN_SCARLET_0161_000	Der Schweif dieses überaus vorsichtigen Pokémon bewegt sich geschmeidig. Da er sehr muskulös ist, fühlt er sich bei Berührung hart an.
 ZKN_SCARLET_0162_000	Es zieht seine Jungen in einem langen, schmalen Bau auf. Sind diese groß genug, bereitet es sie im Freien auf ein eigenständiges Leben vor.
 ZKN_SCARLET_0163_000	Dank seiner stets präzisen inneren Uhr neigt es den Kopf in einem gleichbleibenden Rhythmus.
@@ -27859,8 +28003,8 @@ ZKN_SCARLET_0166_000
 ZKN_SCARLET_0167_000	Selbst wenn sich Beute in seinem aus Fäden gesponnenen Nest verfängt, verharrt Webarak regungslos bis zum Einbruch der Nacht.
 ZKN_SCARLET_0168_000	Aus seinem Hinterleib sondert es fortlaufend einen speziellen Faden ab. Folgt man diesem, so gelangt man zu Ariados’ Nest.
 ZKN_SCARLET_0169_000	
-ZKN_SCARLET_0170_000	
-ZKN_SCARLET_0171_000	
+ZKN_SCARLET_0170_000	Es lebt in den Tiefen des Meeres, zu denen kein Licht durchdringt. Es kommuniziert mit anderen Lampi, indem es seine Antennen aufblitzen lässt.
+ZKN_SCARLET_0171_000	Die grell leuchtenden Fortsätze, mit denen dieses Pokémon Beute anlockt, haben sich aus seiner Rückenflosse entwickelt.
 ZKN_SCARLET_0172_000	Dieses Pokémon ist ungeschickt im Umgang mit Elektrizität. Erschrickt es, entlädt es sich sofort.
 ZKN_SCARLET_0173_000	Sieht man es tief in der Nacht gebannt das Funkeln von Sternschnuppen beobachten, schwelgt es wohl in Gedanken an seine Heimat.
 ZKN_SCARLET_0174_000	Es duftet süßlich. Fängt sein weicher, elastischer Körper einmal an zu hüpfen, ist er nicht mehr zu stoppen.
@@ -27872,7 +28016,7 @@ ZKN_SCARLET_0179_000	Lädt es sich statisch auf, verdoppelt sich das Volumen sei
 ZKN_SCARLET_0180_000	Es hat so viel Elektrizität gespeichert, dass an manchen Stellen seines Körpers keinerlei Wolle wachsen kann.
 ZKN_SCARLET_0181_000	Das helle Licht an seiner Schwanzspitze ist von Weitem zu sehen. Es wird daher von alters her als Leuchtfeuer geschätzt.
 ZKN_SCARLET_0181_001	
-ZKN_SCARLET_0182_000	
+ZKN_SCARLET_0182_000	Durch den Einfluss des Sonnensteins ist es nun tagaktiv. Es tanzt gern in der Sonne.
 ZKN_SCARLET_0183_000	Sein Fell ist von Natur aus wasserabweisend. Es bleibt trocken, auch wenn es im Wasser spielt.
 ZKN_SCARLET_0184_000	Seine langen Ohren sind hervorragende Sensoren, mit denen es Geräusche unter Wasser unterscheiden und zuordnen kann.
 ZKN_SCARLET_0185_000	Obwohl es vorgibt, ein Baum zu sein, kommt seine Zusammensetzung einem Stein näher als einer Pflanze.
@@ -27891,7 +28035,7 @@ ZKN_SCARLET_0196_000	Die Spitze seines geteilten Schweifs bebt, wenn es die näc
 ZKN_SCARLET_0197_000	Wird es der Aura des Mondes ausgesetzt, glühen die ringförmigen Muster auf seinem Körper leicht und es erhält eine mysteriöse Kraft.
 ZKN_SCARLET_0198_000	Viele verabscheuen und hassen es, da sie glauben, es bringe Unglück, wenn sie ihm nachts begegnen.
 ZKN_SCARLET_0199_000	Als Flegmon in den Kopf gebissen wurde, floss Gift in seinen Kopf und setzte eine gewaltige Kraft frei.
-ZKN_SCARLET_0199_001	
+ZKN_SCARLET_0199_001	Erblickt es geschwächte Pokémon, verabreicht es ihnen Arznei, die es aus flüssigen Toxinen herstellt und aus Löchern an seinen Hörnern absondert.
 ZKN_SCARLET_0200_000	Ein Pokémon, das Menschen mitten in der Nacht erschreckt. Es sammelt die Angst als seine Energie.
 ZKN_SCARLET_0201_000	
 ZKN_SCARLET_0201_001	
@@ -27929,8 +28073,8 @@ ZKN_SCARLET_0206_000	Es baut an dunklen Orten Labyrinthe. Wird es von jemandem e
 ZKN_SCARLET_0207_000	Skorgla baut sein Nest an steilen Klippen. Wenn es seinen Gleitflug beendet, hüpft es ins Nest zurück.
 ZKN_SCARLET_0208_000	
 ZKN_SCARLET_0208_001	
-ZKN_SCARLET_0209_000	
-ZKN_SCARLET_0210_000	
+ZKN_SCARLET_0209_000	Snubbull ist eigentlich ein feiges Pokémon. Es knurrt lautstark, um so seine Angst zu verbergen.
+ZKN_SCARLET_0210_000	Granbull ist in Wahrheit ängstlich und scheu. Wird es angegriffen, fuchtelt es wild mit den Armen und Beinen, um Gegner zu verscheuchen.
 ZKN_SCARLET_0211_000	Wenn es sich mit Wasser vollsaugt, ist Vorsicht geboten. Dann verschießt es nämlich bald die giftigen Stacheln, die seinen Körper bedecken.
 ZKN_SCARLET_0212_000	Scherox' Scheren bestehen zum Teil aus Stahl, wodurch es mit ihnen jedes noch so harte Objekt zerkleinern kann, das es zu fassen bekommt.
 ZKN_SCARLET_0212_001	
@@ -27950,21 +28094,21 @@ ZKN_SCARLET_0223_000
 ZKN_SCARLET_0224_000	
 ZKN_SCARLET_0225_000	Es trägt immer Nahrung bei sich. Man sagt, dass viele Menschen in Not nur dank seiner Essensration überlebt hätten.
 ZKN_SCARLET_0226_000	
-ZKN_SCARLET_0227_000	
+ZKN_SCARLET_0227_000	Sein robuster, stählerner Körper wirkt schwer, ist aber dünn und leicht, weshalb es mit einem Tempo von bis zu 300 km/h fliegen kann.
 ZKN_SCARLET_0228_000	Es ist intelligent genug, um bei der Jagd über eine ganze Reihe von Rufen mit seinem Rudel zu kommunizieren.
 ZKN_SCARLET_0229_000	Wird man von den Flammen getroffen, die es aus seinem Maul schießt, so erleidet man eine Brandwunde, deren Schmerz nie nachlässt.
 ZKN_SCARLET_0229_001	
-ZKN_SCARLET_0230_000	
+ZKN_SCARLET_0230_000	Es soll tief unten am Meeresboden schlafen, um Kraft zu sammeln. Man sagt, wenn es aufwacht, löse es einen Tornado aus.
 ZKN_SCARLET_0231_000	Es lebt in Nestern, die es an Flussufern baut. Nach dem Spielen im Schlamm muss es sich erst waschen, um sich wohlzufühlen.
 ZKN_SCARLET_0232_000	Seine Haut ist so hart, dass ihm nicht einmal der Zusammenprall mit einem Auto etwas anhaben kann. Regen setzt ihm jedoch stark zu.
-ZKN_SCARLET_0233_000	
+ZKN_SCARLET_0233_000	Dieses künstliche Pokémon entwickelte sich mithilfe neuester Technologie. Manchmal zeigt es Reaktionen, die nicht einprogrammiert sind.
 ZKN_SCARLET_0234_000	Da dieses Pokémon einst in einer unwirtlichen Umgebung lebte, verfügte es damals offenbar über stärkere Psycho-Kräfte als heutzutage.
-ZKN_SCARLET_0235_000	
-ZKN_SCARLET_0236_000	
-ZKN_SCARLET_0237_000	
+ZKN_SCARLET_0235_000	Sobald Farbeagle das Erwachsenenalter erreicht haben, ist es üblich, dass Artgenossen mit den Pfoten Abdrücke auf ihren Rücken hinterlassen.
+ZKN_SCARLET_0236_000	Dieses zielstrebige Pokémon kämpft mit vielen verschiedenen Gegnern, um den Kampfstil zu finden, der am besten zu ihm passt.
+ZKN_SCARLET_0237_000	Tanzartige Tritte sind Kapoeras Spezialität. Das Horn auf seinem Kopf besteht aus dem gleichen Material wie Haare und Krallen.
 ZKN_SCARLET_0238_000	
-ZKN_SCARLET_0239_000	
-ZKN_SCARLET_0240_000	
+ZKN_SCARLET_0239_000	Es mag gewaltige Gewitter. Der Bereich zwischen seinen Hörnern leuchtet hellblau, wenn es in seinem Körper Elektrizität speichert.
+ZKN_SCARLET_0240_000	Bei jedem Atemzug springen Funken aus seinem Mund und aus seinen Nasenlöchern.
 ZKN_SCARLET_0241_000	
 ZKN_SCARLET_0242_000	Jeder, der von einem Ei kostet, das Heiteira gelegt hat, wird anderen gegenüber sorgsam und höflich.
 ZKN_SCARLET_0243_000	
@@ -27977,17 +28121,17 @@ ZKN_SCARLET_0248_001
 ZKN_SCARLET_0249_000	
 ZKN_SCARLET_0250_000	
 ZKN_SCARLET_0251_000	
-ZKN_SCARLET_0252_000	
-ZKN_SCARLET_0253_000	
-ZKN_SCARLET_0254_000	
+ZKN_SCARLET_0252_000	Dank seiner mit winzigen Stacheln besetzten Fußsohlen haftet es sogar kopfüber an Wänden und Decken, ohne herunterzufallen.
+ZKN_SCARLET_0253_000	Seine stark entwickelten Oberschenkelmuskeln verleihen ihm außergewöhnliche Agilität und Sprungkraft.
+ZKN_SCARLET_0254_000	Es huscht agil durch den Dschungel und erlegt seine Beute mit den scharfen Blättern an seinen Armen.
 ZKN_SCARLET_0254_001	
-ZKN_SCARLET_0255_000	
-ZKN_SCARLET_0256_000	
-ZKN_SCARLET_0257_000	
+ZKN_SCARLET_0255_000	Flemmli fühlt sich wohlig warm an, wenn man es umarmt. In seinem Bauch hat es einen Flammensack, der brennt, solange es lebt.
+ZKN_SCARLET_0256_000	Es steigert seine Konzentration, indem es schrille Schreie ausstößt. Seine Tritte besitzen eine außergewöhnliche Zerstörungskraft.
+ZKN_SCARLET_0257_000	Trifft es auf einen hartnäckigen Gegner, lässt es seine Handgelenke auflodern. Mit seinen starken Beinen springt es selbst über Hochhäuser.
 ZKN_SCARLET_0257_001	
-ZKN_SCARLET_0258_000	
-ZKN_SCARLET_0259_000	
-ZKN_SCARLET_0260_000	
+ZKN_SCARLET_0258_000	Es ist stark genug, um große Felsen zu zerbröseln. Zum Schlafen gräbt es sich in den Schlamm am Flussboden.
+ZKN_SCARLET_0259_000	Das Leben auf schlammigen Böden ohne festen Halt hat seine Beine gestählt und ihnen gewaltige Kraft verliehen.
+ZKN_SCARLET_0260_000	Schon ein einziger Hieb mit seinen steinharten Armen genügt, um selbst die größten Felsen zu Staub zu verwandeln.
 ZKN_SCARLET_0260_001	
 ZKN_SCARLET_0261_000	Es fletscht seine großen Zähne und bellt heftig, um Gegner einzuschüchtern. In Wirklichkeit deutet dies aber auf sein ängstliches Wesen hin.
 ZKN_SCARLET_0262_000	Diese Pokémon folgen treu den Befehlen ihres Anführers. Haben sie Beute im Visier, lassen sie diese dank perfektem Teamwork nie entwischen.
@@ -28047,8 +28191,8 @@ ZKN_SCARLET_0308_001
 ZKN_SCARLET_0309_000	
 ZKN_SCARLET_0310_000	
 ZKN_SCARLET_0310_001	
-ZKN_SCARLET_0311_000	
-ZKN_SCARLET_0312_000	
+ZKN_SCARLET_0311_000	Indem es Funken aus seinem Körper versprüht, feuert es andere an. Es steigt auf Strommasten, um Elektrizität zu absorbieren.
+ZKN_SCARLET_0312_000	Die Elektrizität von Minun und Plusle regt den Blutkreislauf an und löst so Verspannungen.
 ZKN_SCARLET_0313_000	Es lebt bei Teichen mit reinem Wasser. Nachts leuchtet sein Hinterteil und es kommuniziert durch dessen Blinken mit Artgenossen.
 ZKN_SCARLET_0314_000	Da Volbeat seinem süßen Duft folgen, bringt Illumise sie dazu, über 200 verschiedene Lichtmuster an den Nachthimmel zu malen.
 ZKN_SCARLET_0315_000	
@@ -28066,9 +28210,9 @@ ZKN_SCARLET_0324_000	Im Inneren seines Panzers verbrennt es Kohle. Wenn es angeg
 ZKN_SCARLET_0325_000	Hört es je auf umherzuspringen, stirbt es. Die Perle auf seinem Kopf verstärkt seine Psycho-Kräfte.
 ZKN_SCARLET_0326_000	Die seltsamen Tanzschritte, mit denen es seine Gegner kontrolliert, erfreuten sich einst in anderen Regionen großer Beliebtheit.
 ZKN_SCARLET_0327_000	
-ZKN_SCARLET_0328_000	
-ZKN_SCARLET_0329_000	
-ZKN_SCARLET_0330_000	
+ZKN_SCARLET_0328_000	Es lebt in trockenen Wüstengebieten, wo es in seinem trichterförmigen Bau geduldig auf Beute wartet.
+ZKN_SCARLET_0329_000	Vibravas Flügel sind zum Fliegen kaum geeignet. Es reibt sie aneinander, um Ultraschallwellen zu erzeugen und so seine Gegner anzugreifen.
+ZKN_SCARLET_0330_000	Dieses auch als „Geist der Wüste“ bekannte Pokémon versteckt sich in Sandstürmen, die es durch das Schlagen seiner Flügel erzeugt.
 ZKN_SCARLET_0331_000	Es bevorzugt unwirtliche Gebiete wie Wüsten. Der Wasserspeicher in seinem Körper reicht für bis zu 30 Tage.
 ZKN_SCARLET_0332_000	Gruppen von Noktuska folgen Reisenden in der Wüste und warten, bis diese vor Erschöpfung bewegungsunfähig werden.
 ZKN_SCARLET_0333_000	Ständig pflegt es seine watteartigen Flügel. Falls es schmutzig wird, badet es und putzt sich sauber.
@@ -28120,9 +28264,9 @@ ZKN_SCARLET_0371_000	Mit seinem stahlharten Schädel kann es Felsen zu Staub zer
 ZKN_SCARLET_0372_000	In Draschels Schale vollziehen seine Zellen in Vorbereitung auf seine Entwicklung eine rasante Transformation.
 ZKN_SCARLET_0373_000	Nun, da ihm Flügel gewachsen sind, zieht es am Himmel seine Kreise. Vor Freude spuckt es Flammen und hinterlässt überall Brandspuren.
 ZKN_SCARLET_0373_001	
-ZKN_SCARLET_0374_000	
-ZKN_SCARLET_0375_000	
-ZKN_SCARLET_0376_000	
+ZKN_SCARLET_0374_000	Die magnetische Kraft aus seinem Körper und die des Bodens stoßen sich gegenseitig ab, wodurch es in der Luft schwebt.
+ZKN_SCARLET_0375_000	Es besteht aus zwei Tanhel. Dank der Vereinigung der beiden Hirne verfügt es über gesteigerte Psycho-Kräfte.
+ZKN_SCARLET_0376_000	Wenn es fliegt, sind seine vier Beine eingeklappt. Es heißt, seine vier Gehirne seien sogar einem Supercomputer überlegen.
 ZKN_SCARLET_0376_001	
 ZKN_SCARLET_0377_000	
 ZKN_SCARLET_0378_000	
@@ -28142,15 +28286,15 @@ ZKN_SCARLET_0386_000
 ZKN_SCARLET_0386_001	
 ZKN_SCARLET_0386_002	
 ZKN_SCARLET_0386_003	
-ZKN_SCARLET_0387_000	
-ZKN_SCARLET_0388_000	
-ZKN_SCARLET_0389_000	
-ZKN_SCARLET_0390_000	
-ZKN_SCARLET_0391_000	
-ZKN_SCARLET_0392_000	
-ZKN_SCARLET_0393_000	
-ZKN_SCARLET_0394_000	
-ZKN_SCARLET_0395_000	
+ZKN_SCARLET_0387_000	Der Panzer auf seinem Rücken besteht aus Lehm. Bei gesunden Chelast sollte er sich leicht feucht anfühlen.
+ZKN_SCARLET_0388_000	Sie sind in Wäldern zu Hause. Jedes Chelcarain soll seine ganz eigene Stelle kennen, wo es stets reines Quellwasser findet.
+ZKN_SCARLET_0389_000	In alten Zeiten malten die Menschen sich aus, dass sich ein riesiges Chelterrar unter der Erde befinde.
+ZKN_SCARLET_0390_000	Dieses Pokémon ist sehr flink. Vor dem Schlafen löscht es die Flamme an seinem Hinterteil, um zu verhindern, dass sie einen Brand verursacht.
+ZKN_SCARLET_0391_000	Es kontrolliert die Stärke des Feuers an seinem Schweif geschickt, um Gegner auf idealer Distanz zu halten.
+ZKN_SCARLET_0392_000	Es hält den Gegner mit flinken Bewegungen zum Narren und wendet eine spezielle Kampfkunst an, bei der alle Gliedmaßen zum Einsatz kommen.
+ZKN_SCARLET_0393_000	Es stolpert häufig, weil es nicht gut laufen kann. Allerdings ist es sehr stolz, und so rappelt es sich immer wieder unbeirrt auf.
+ZKN_SCARLET_0394_000	Pliprin sind Einzelgänger. Mit ihren Flügeln teilen sie kräftige Schläge aus, die selbst große Bäume entzweihauen.
+ZKN_SCARLET_0395_000	Verletzt jemand seine Ehre, so schlägt es diesen mit seinen Flügeln entzwei, die sogar Treibeis durchschneiden können.
 ZKN_SCARLET_0396_000	Auf der Suche nach Käfer-Pokémon fliegen Schwärme von ihnen durchs Land. Ihr Ruf erzeugt großen Lärm.
 ZKN_SCARLET_0397_000	Da sie sich ihrer eigenen Schwäche bewusst sind, leben Staravia stets in Schwärmen. Sind sie allein, stoßen sie laute Rufe aus.
 ZKN_SCARLET_0398_000	Entwickelt sich Staravia zu Staraptor, verlässt es den Schwarm und lebt allein. Die Spannweite seiner Flügel ist gigantisch.
@@ -28163,10 +28307,10 @@ ZKN_SCARLET_0404_000	Durch die Spitzen seiner scharfen Krallen strömt Elektrizi
 ZKN_SCARLET_0405_000	Es kann durch Wände sehen und spürt auf diese Weise Beute und verloren gegangene Junge auf.
 ZKN_SCARLET_0406_000	
 ZKN_SCARLET_0407_000	
-ZKN_SCARLET_0408_000	
-ZKN_SCARLET_0409_000	
-ZKN_SCARLET_0410_000	
-ZKN_SCARLET_0411_000	
+ZKN_SCARLET_0408_000	Vor ungefähr 100 Millionen Jahren lebte es im Dschungel. Mit seinen erprobten Kopfstößen setzte es sich gegen Aerodactyl zur Wehr.
+ZKN_SCARLET_0409_000	Sein dicker Schädelknochen kann jedem Aufprall standhalten. Gleichzeitig schränkt er jedoch das Hirnwachstum ein.
+ZKN_SCARLET_0410_000	Da es extrem gut gepanzert ist, muss es nur sehr selten kämpfen und kann den Tag damit verbringen, Gras und Beeren zu fressen.
+ZKN_SCARLET_0411_000	Alle möglichen Angriffe von vorn kann es abwehren, aber von hinten ist es schutzlos.
 ZKN_SCARLET_0412_000	
 ZKN_SCARLET_0412_001	
 ZKN_SCARLET_0412_002	
@@ -28232,17 +28376,17 @@ ZKN_SCARLET_0460_001
 ZKN_SCARLET_0461_000	Snibunna wurde durch seine Entwicklung noch verschlagener. Es kommuniziert durch in Felsen gekratzte Zeichen.
 ZKN_SCARLET_0462_000	Es heißt, dass es beim Herumfliegen mysteriöse Funkwellen aussende und unbekannte Wellen empfange.
 ZKN_SCARLET_0463_000	
-ZKN_SCARLET_0464_000	
+ZKN_SCARLET_0464_000	Durch seine robuste Panzerung hält sein Körper auch Vulkanausbrüchen stand. Aus den Löchern in den Handflächen feuert es runde Felsbrocken ab.
 ZKN_SCARLET_0465_000	
-ZKN_SCARLET_0466_000	
-ZKN_SCARLET_0467_000	
+ZKN_SCARLET_0466_000	Wenn es aufgeregt ist, schlägt es sich auf die Brust. Bei jedem Schlag sprühen elektrische Funken und es ertönt ein Donnern.
+ZKN_SCARLET_0467_000	Während es 2000 ℃ heiße Feuerbälle aus seinen Armen schießt, nimmt sein Körper durch die Hitze einen weißlichen Farbton an.
 ZKN_SCARLET_0468_000	
 ZKN_SCARLET_0469_000	Seine Flügel sind ungemein mächtig. Erhebt es sich kraftvoll in die Höhe, reißt es dabei große Bäume im Umkreis um.
 ZKN_SCARLET_0470_000	An klaren Tagen erzeugt ein schlafendes Folipurba saubere Luft, indem es Fotosynthese betreibt.
 ZKN_SCARLET_0471_000	Es kann seine Körpertemperatur frei regulieren. Indem es die Wasserbestandteile der Luft gefrieren lässt, wirbelt es Diamantstaub auf.
 ZKN_SCARLET_0472_000	Erwischt es auch nur ein Lüftchen auf die richtige Weise, kann es den Planeten umkreisen, ohne ein einziges Mal mit den Flügeln zu schlagen.
 ZKN_SCARLET_0473_000	Es existiert schon seit Urzeiten. Mamutel wurde sogar schon in 10 000 Jahre altem Eis gefunden.
-ZKN_SCARLET_0474_000	
+ZKN_SCARLET_0474_000	Um das Pokémon zu verbessern, wurde eine zusätzliche Software installiert, die aber offenbar fehlerhaft war. Seitdem bewegt es sich seltsam.
 ZKN_SCARLET_0475_000	Will es jemanden beschützen, verlängert es seine Ellbogen, um sie wie Schwerter zu nutzen, und kämpft auf wilde Art.
 ZKN_SCARLET_0475_001	
 ZKN_SCARLET_0476_000	Mit magnetischer Kraft steuert es drei Einheiten, die „Mininasen“ genannt werden. So greift es Gegner aus drei Richtungen an.
@@ -28288,15 +28432,15 @@ ZKN_SCARLET_0493_015
 ZKN_SCARLET_0493_016	
 ZKN_SCARLET_0493_017	
 ZKN_SCARLET_0494_000	
-ZKN_SCARLET_0495_000	
-ZKN_SCARLET_0496_000	
-ZKN_SCARLET_0497_000	
-ZKN_SCARLET_0498_000	
-ZKN_SCARLET_0499_000	
-ZKN_SCARLET_0500_000	
-ZKN_SCARLET_0501_000	
-ZKN_SCARLET_0502_000	
-ZKN_SCARLET_0503_000	
+ZKN_SCARLET_0495_000	Wenn es über das Blatt an seinem Schwanz Sonnenlicht aufnimmt und Energie erzeugt, wird es schneller und greift präziser an.
+ZKN_SCARLET_0496_000	Es schlängelt sich geduckt durchs Gras und schlägt dann erbarmungslos mit seinen Ranken zu.
+ZKN_SCARLET_0497_000	Serpiroyal erzeugt Energie aus Sonnenlicht und verstärkt diese in seinem langen Körper um ein Dutzendfaches.
+ZKN_SCARLET_0498_000	Mit unerwartet schnellen Bewegungen hält es Feinde zum Narren. Aus seinen beiden Nasenlöchern schießt es Feuerbälle ab.
+ZKN_SCARLET_0499_000	Ferkokel heizt sich im Kampf auf. Seine Körpertemperatur steigt rapide an, bis es zu einem glühend heißen Feuerball wird.
+ZKN_SCARLET_0500_000	Die Flammen, die tief in seiner Brust lodern, strömen kraftvoll aus seinem Kinn und bilden einen Bart aus Feuer.
+ZKN_SCARLET_0501_000	Es setzt die Muschel an seinem Bauch als Messer ein. Mit ihr wehrt es gegnerische Attacken ab und schlägt dann sofort zurück.
+ZKN_SCARLET_0502_000	Die fließenden Bewegungen, die es mit seinen beiden Muscheln ausführt, sollen den Menschen als Vorlage für ihre Schwertkünste gedient haben.
+ZKN_SCARLET_0503_000	Es kann die großen Klingen in der Panzerung seiner Vorderbeine meisterhaft schnell ziehen und entscheidet den Kampf mit nur einem Streich.
 ZKN_SCARLET_0504_000	
 ZKN_SCARLET_0505_000	
 ZKN_SCARLET_0506_000	
@@ -28316,15 +28460,15 @@ ZKN_SCARLET_0519_000
 ZKN_SCARLET_0520_000	
 ZKN_SCARLET_0521_000	
 ZKN_SCARLET_0521_001	
-ZKN_SCARLET_0522_000	
-ZKN_SCARLET_0523_000	
+ZKN_SCARLET_0522_000	Der Herzschlag dieses Pokémon generiert Strom. Erschrickt es, steigt seine Herzfrequenz und somit auch die elektrische Spannung.
+ZKN_SCARLET_0523_000	Dieses Pokémon hat ein angriffslustiges und wildes Gemüt. Ist es gereizt, lässt es seine Mähne gelb aufleuchten und feuert Stromsalven ab.
 ZKN_SCARLET_0524_000	
 ZKN_SCARLET_0525_000	
 ZKN_SCARLET_0526_000	
 ZKN_SCARLET_0527_000	
 ZKN_SCARLET_0528_000	
-ZKN_SCARLET_0529_000	
-ZKN_SCARLET_0530_000	
+ZKN_SCARLET_0529_000	Es gräbt sich mit über 50 km/h durch das Erdreich und kann beinahe schon mit den Autos an der Oberfläche Schritt halten.
+ZKN_SCARLET_0530_000	Mit seinem Kopf und seinen Klauen aus Stahl formt es einen Bohrer, der jede noch so dicke Metallplatte durchbohrt.
 ZKN_SCARLET_0531_000	
 ZKN_SCARLET_0531_001	
 ZKN_SCARLET_0532_000	Es trägt stets einen Holzbalken bei sich und hilft auf Baustellen aus. Im Laufe der Zeit sucht es sich einen größeren Balken.
@@ -28341,8 +28485,8 @@ ZKN_SCARLET_0542_000	Dieses sanftmütige Pokémon hat einen starken Beschützeri
 ZKN_SCARLET_0543_000	
 ZKN_SCARLET_0544_000	
 ZKN_SCARLET_0545_000	
-ZKN_SCARLET_0546_000	
-ZKN_SCARLET_0547_000	
+ZKN_SCARLET_0546_000	Kissen und Bettdecken, die mit Watte von Waumboll gefüllt sind, gelten als Artikel von hoher Qualität, da sie leicht und luftig sind.
+ZKN_SCARLET_0547_000	Es passiert wie ein Luftzug mühelos jeden noch so engen Spalt und hinterlässt weiße Fellknäuel auf seinem Weg.
 ZKN_SCARLET_0548_000	Die Blätter auf seinem Kopf schmecken äußerst bitter, wirken aber erfrischend. Fallen sie aus, wachsen sie sofort nach.
 ZKN_SCARLET_0549_000	Der Blumenschmuck auf seinem Kopf sondert einen beruhigenden Duft ab, ist jedoch nicht gerade pflegeleicht.
 ZKN_SCARLET_0550_000	Es hat ein raues und aggressives Temperament. Zudem ist es sehr widerstandsfähig und vermehrt sich deshalb äußerst schnell.
@@ -28360,8 +28504,8 @@ ZKN_SCARLET_0555_003
 ZKN_SCARLET_0556_000	
 ZKN_SCARLET_0557_000	
 ZKN_SCARLET_0558_000	
-ZKN_SCARLET_0559_000	
-ZKN_SCARLET_0560_000	
+ZKN_SCARLET_0559_000	Es zieht seine gummiartige Haut zum Schutz bis zum Hals hinauf. Je höher es sie ziehen kann, desto mehr Ansehen genießt es.
+ZKN_SCARLET_0560_000	Es geht im Rudel gegen Eindringlinge in seinem Revier vor. Aus seinem Mund speit es eine ätzende Flüssigkeit.
 ZKN_SCARLET_0561_000	
 ZKN_SCARLET_0562_000	
 ZKN_SCARLET_0562_001	
@@ -28375,14 +28519,14 @@ ZKN_SCARLET_0569_000
 ZKN_SCARLET_0569_999	
 ZKN_SCARLET_0570_000	Es übertölpelt andere, indem es deren Gestalt annimmt. Angeblich tarnt es sich oft als wortkarges Kind.
 ZKN_SCARLET_0571_000	Es heißt, Zoroark verbanne jeden, der es zu fangen versucht, zur Strafe in eine Welt der Illusionen.
-ZKN_SCARLET_0572_000	
-ZKN_SCARLET_0573_000	
+ZKN_SCARLET_0572_000	Wird sein Schweif beim Putzen seines Baus oder Körpers schmutzig, verbringt es einen ganzen Tag damit, ihn mit klarem Quellwasser zu reinigen.
+ZKN_SCARLET_0573_000	Sein weißer Flaum ist mit einem speziellen Öl überzogen. Gegnerische Angriffe gleiten daran einfach ab.
 ZKN_SCARLET_0574_000	Für gewöhnlich ist es überaus unschuldig. Entdeckt es etwas Unsichtbares, so starrt es stumm und ohne zu blinzeln in dessen Richtung.
 ZKN_SCARLET_0575_000	Es lullt Kinder mittels Hypnose in den Schlaf und entführt sie. In sternklaren Nächten ist besondere Vorsicht geboten.
 ZKN_SCARLET_0576_000	Es entfesselt Psycho-Kräfte und lässt Gegner so vom Ende des Universums träumen. Man sagt, diese Träume seien ätherisch und wunderschön.
-ZKN_SCARLET_0577_000	
-ZKN_SCARLET_0578_000	
-ZKN_SCARLET_0579_000	
+ZKN_SCARLET_0577_000	Da sein Körper von einer speziellen Flüssigkeit umgeben ist, kann es in jedem Umfeld überleben.
+ZKN_SCARLET_0578_000	Wegen seines gespaltenen Denkapparates kann es vorkommen, dass es sich abrupt einer anderen Tätigkeit zuwendet.
+ZKN_SCARLET_0579_000	Mit Psycho-Kräften kontrolliert es seine Arme, die aus einer speziellen Flüssigkeit bestehen, und kann so Felsen zerschmettern.
 ZKN_SCARLET_0580_000	Das Fliegen fällt diesem Pokémon noch schwer. Um die Flügelbewegungen zu üben, beobachtet es den Tanz von Swaroness, seinen Eltern.
 ZKN_SCARLET_0581_000	Mit ihrem Anführer im Zentrum bieten sie einen perfekt synchronisierten Tanz dar, der den Zusammenhalt innerhalb des Schwarms erhöht.
 ZKN_SCARLET_0582_000	
@@ -28406,8 +28550,8 @@ ZKN_SCARLET_0592_001
 ZKN_SCARLET_0593_000	
 ZKN_SCARLET_0593_001	
 ZKN_SCARLET_0594_000	Es umarmt verletzte und geschwächte Pokémon liebevoll mit seinen Flossen und heilt sie mithilfe seiner speziellen Schleimschicht.
-ZKN_SCARLET_0595_000	
-ZKN_SCARLET_0596_000	
+ZKN_SCARLET_0595_000	Wattzapf, die in der Stadt leben, haben gelernt, aus den Steckdosen von Wohnhäusern Strom abzuzapfen.
+ZKN_SCARLET_0596_000	Es legt Fallen aus elektrisch geladenen Fäden und labt sich dann gemächlich an der durch Stromschläge gelähmten Beute.
 ZKN_SCARLET_0597_000	
 ZKN_SCARLET_0598_000	
 ZKN_SCARLET_0599_000	
@@ -28434,8 +28578,8 @@ ZKN_SCARLET_0618_001
 ZKN_SCARLET_0619_000	Es überwältigt seine Feinde mit einer Serie aus geschmeidigen Attacken und schlitzt sie mit seinen spitzen Klauen auf.
 ZKN_SCARLET_0620_000	Gibt es einen sonderbaren Laut von sich, sollte man schnell in Deckung gehen, da eine rasante Angriffsserie aus Schlägen und Tritten folgt.
 ZKN_SCARLET_0621_000	
-ZKN_SCARLET_0622_000	
-ZKN_SCARLET_0623_000	
+ZKN_SCARLET_0622_000	Man nimmt an, dass dieses Pokémon ein Produkt der Wissenschaft einer mysteriösen und uralten Zivilisation sei.
+ZKN_SCARLET_0623_000	Löst sich das Siegel auf seiner Brust, gerät es völlig außer Kontrolle und legt ganze Städte in Schutt und Asche.
 ZKN_SCARLET_0624_000	Furchtlos stellt es sich selbst starken Gegnern. Im Ernstfall hält es sich an ihnen fest und sticht mit den vielen Klingen an seinem Körper zu.
 ZKN_SCARLET_0625_000	Es dient als Anführer einer Schar Gladiantri. Nach Revierkämpfen werden die Verlierer in die Gewinnerschar assimiliert.
 ZKN_SCARLET_0626_000	
@@ -28473,15 +28617,15 @@ ZKN_SCARLET_0649_001
 ZKN_SCARLET_0649_002	
 ZKN_SCARLET_0649_003	
 ZKN_SCARLET_0649_004	
-ZKN_SCARLET_0650_000	
-ZKN_SCARLET_0651_000	
-ZKN_SCARLET_0652_000	
-ZKN_SCARLET_0653_000	
-ZKN_SCARLET_0654_000	
-ZKN_SCARLET_0655_000	
-ZKN_SCARLET_0656_000	
-ZKN_SCARLET_0657_000	
-ZKN_SCARLET_0658_000	
+ZKN_SCARLET_0650_000	Nimmt es kurz vor einem Kopfstoß all seine Kraft zusammen, werden die Stacheln auf seinem Kopf scharf und spitz, um den Gegner zu durchbohren.
+ZKN_SCARLET_0651_000	Sein robuster Panzer bietet ihm Schutz. Da er auch enorm schwer ist, sind Igastarnishs Beine von Natur aus gut trainiert.
+ZKN_SCARLET_0652_000	Sind seine Freunde in Gefahr, schützt es sie vor Angriffen, indem es mit seinen Armen einen Schild bildet.
+ZKN_SCARLET_0653_000	Es regt sich sehr schnell auf. Da dabei auch sein Körper überhitzt, gibt es Wärme über seine Ohren ab, um sich zu beruhigen.
+ZKN_SCARLET_0654_000	Es entzündet den Zweig aus seinem Schweif und schwenkt ihn, um seinen Artgenossen Signale zu geben. Bei Gefahr lässt es ihn kreisen.
+ZKN_SCARLET_0655_000	Mit der Flamme an der Spitze seines Stabes zeichnet es Brandspuren auf den Boden. Früher haben Menschen daraus Weissagungen gelesen.
+ZKN_SCARLET_0656_000	Es wirkt unbekümmert, doch damit täuscht es nur Gegner, um sie dann plötzlich mit unbegreiflicher Geschwindigkeit zu überwältigen.
+ZKN_SCARLET_0657_000	Seine Stärke sind Kampfstrategien, bei denen es die Umgebung nutzt. Es wirft kleine, in Blasen gehüllte Steine und trifft so garantiert sein Ziel.
+ZKN_SCARLET_0658_000	Mithilfe der langen Zunge, die es um seinen Hals gewickelt hat, kann es Luftströme spüren und so die Präsenz verborgener Gegner erahnen.
 ZKN_SCARLET_0658_001	
 ZKN_SCARLET_0658_002	
 ZKN_SCARLET_0659_000	
@@ -28581,9 +28725,9 @@ ZKN_SCARLET_0676_006
 ZKN_SCARLET_0676_007	
 ZKN_SCARLET_0676_008	
 ZKN_SCARLET_0676_009	
-ZKN_SCARLET_0677_000	
-ZKN_SCARLET_0678_000	
-ZKN_SCARLET_0678_001	
+ZKN_SCARLET_0677_000	Es klappt die Ohren herunter, damit seine starken Psycho-Kräfte nicht aus seinem Körper dringen. Staut sich zu viel Energie an, fällt es in Ohnmacht.
+ZKN_SCARLET_0678_000	Mit seinen Psycho-Kräften kann es jede Art von Gegner fortschleudern. Es setzt sie jedoch lieber zum Schutz von Artgenossen als zum Angriff ein.
+ZKN_SCARLET_0678_001	Weibliche Psiaugon sind aggressiver als männliche. Ihr Gesicht bleibt ausdruckslos, selbst wenn sie enorme Psycho-Kräfte einsetzen.
 ZKN_SCARLET_0679_000	
 ZKN_SCARLET_0680_000	
 ZKN_SCARLET_0681_000	
@@ -28592,8 +28736,8 @@ ZKN_SCARLET_0682_000
 ZKN_SCARLET_0683_000	
 ZKN_SCARLET_0684_000	
 ZKN_SCARLET_0685_000	
-ZKN_SCARLET_0686_000	
-ZKN_SCARLET_0687_000	
+ZKN_SCARLET_0686_000	Es schützt sich vor starken Feinden, indem es die Punkte auf seinem Körper blinken lässt und Gegnern so den Kampfeswillen raubt.
+ZKN_SCARLET_0687_000	Seine hypnotischen Kräfte sind unfassbar stark. Hat es sich ein Opfer gefügig gemacht, verliert dieses jegliche Erinnerung an den Vorfall.
 ZKN_SCARLET_0688_000	
 ZKN_SCARLET_0689_000	
 ZKN_SCARLET_0690_000	Algitt versteckt sich zwischen im Meer treibenden Algen vor Feinden. Es frisst verfaulten Seetang, um Gift herzustellen.
@@ -28641,18 +28785,18 @@ ZKN_SCARLET_0719_001
 ZKN_SCARLET_0720_000	
 ZKN_SCARLET_0720_001	
 ZKN_SCARLET_0721_000	
-ZKN_SCARLET_0722_000	
-ZKN_SCARLET_0723_000	
-ZKN_SCARLET_0724_000	
-ZKN_SCARLET_0725_000	
-ZKN_SCARLET_0726_000	
-ZKN_SCARLET_0727_000	
-ZKN_SCARLET_0728_000	
-ZKN_SCARLET_0729_000	
-ZKN_SCARLET_0730_000	
-ZKN_SCARLET_0731_000	
-ZKN_SCARLET_0732_000	
-ZKN_SCARLET_0733_000	
+ZKN_SCARLET_0722_000	Nachdem es sich seinem Feind lautlos im Gleitflug genähert hat, wird dieser mit heftigen Tritten völlig überrascht.
+ZKN_SCARLET_0723_000	Es ist selbstverliebt und legt großen Wert auf Sauberkeit. Wenn man es nicht ordentlich pflegt, widersetzt es sich manchmal sogar Befehlen.
+ZKN_SCARLET_0724_000	Es feuert in seinen Flügeln versteckte Federpfeile so präzise ab, dass sie einen Kiesel auf 100 m Distanz durchbohren können.
+ZKN_SCARLET_0725_000	Gegenüber Menschen, die zu aufdringlich sind, verschließt es sich. Übermäßiger Körperkontakt ist für Flamiau selbst bei guten Freunden tabu.
+ZKN_SCARLET_0726_000	Es trägt ein feuriges Glöckchen am Hals. Immer, wenn es Flammen ausstößt, ertönt ein helles Läuten.
+ZKN_SCARLET_0727_000	Entbrennt sein Kampfeswille, lodern die Flammen um seine Hüfte noch heftiger auf.
+ZKN_SCARLET_0728_000	Es kontrolliert Wasserblasen. Um eine große Blase zu erschaffen, muss es unermüdlich üben.
+ZKN_SCARLET_0729_000	Dieser begnadete Tänzer erzeugt beim Tanzen eine Wasserblase nach der anderen und greift damit seine Feinde an.
+ZKN_SCARLET_0730_000	Für Primarene ist jeder Kampf wie eine Aufführung. Es erlegt seine Beute durch anmutiges Singen und Tanzen.
+ZKN_SCARLET_0731_000	Mit seinem Schnabel kann es 16-mal pro Sekunde zuschlagen und dadurch in jeden noch so harten Baum Löcher hacken.
+ZKN_SCARLET_0732_000	Es kann 100 verschiedene Rufe ausstoßen und nutzt sie, um anderen sein Revier zu demonstrieren, während es umherfliegt.
+ZKN_SCARLET_0733_000	Durch das komprimierte Gas in seinem Schnabel verschießt es Samen mit einer Wucht, die selbst große Felsen zerschmettern kann.
 ZKN_SCARLET_0734_000	Sein Magen füllt beinahe seinen ganzen Körper aus. Auf der Suche nach frischem Futter schlägt es täglich denselben Pfad ein.
 ZKN_SCARLET_0735_000	Findet Manguspektor Spuren potenzieller Beute, legt es sich geduldig auf die Lauer und verharrt bis Sonnenuntergang am selben Ort.
 ZKN_SCARLET_0735_001	
@@ -28680,8 +28824,8 @@ ZKN_SCARLET_0747_000	Auf Futtersuche wandert es an Küsten entlang. Versucht es,
 ZKN_SCARLET_0748_000	Seine Beine bilden eine Kuppel, in der es lebt. Mit seinen Hörnern erkennt es den Strom der Gezeiten und erkundet seine Umgebung.
 ZKN_SCARLET_0749_000	Der Schlamm, der es bedeckt, besteht aus wiedergekäuter Erde. Dieser trocknet selbst dann nicht aus, wenn er lange der Sonne ausgesetzt ist.
 ZKN_SCARLET_0750_000	Es wird sehr für seine Schwerstarbeit und für das Herstellen von hochwertigem Schlamm geschätzt, der ein ideales Material für die Keramik darstellt.
-ZKN_SCARLET_0751_000	
-ZKN_SCARLET_0752_000	
+ZKN_SCARLET_0751_000	Die Wasserblase, in die es seinen Kopf einhüllt, stellt Araqua mit einem klebrigen Faden her, weshalb sie so gut wie nie zerplatzt.
+ZKN_SCARLET_0752_000	Dieses sehr fürsorgliche Pokémon trägt nicht nur Futter in seiner Wasserblase herum, sondern auch Araqua, um sie zu schützen.
 ZKN_SCARLET_0752_001	
 ZKN_SCARLET_0753_000	Es wird nicht gern beim Mittagsschlaf gestört. Mithilfe der Energie, die es beim Sonnenbaden sammelt, kann es Strahlen abfeuern.
 ZKN_SCARLET_0754_000	Es täuscht die von süßem Blumenduft angelockten Käfer-Pokémon, indem es sich als eines von ihnen ausgibt, und erlegt sie dann mit seinen Sicheln.
@@ -28696,7 +28840,7 @@ ZKN_SCARLET_0760_000
 ZKN_SCARLET_0761_000	Sein Schweiß schmeckt so süß wie eingekochtes Obst und wurde daher früher, als es nur wenige Süßungsmittel gab, sehr geschätzt.
 ZKN_SCARLET_0762_000	Es verströmt ein süßes Aroma, das für gute Laune sorgt und auch als Duftnote für Deodorants sehr beliebt ist.
 ZKN_SCARLET_0763_000	Zwar ist es stolz und aggressiv, aber wenn man seine Krone berührt, soll es sich augenblicklich beruhigen.
-ZKN_SCARLET_0764_000	
+ZKN_SCARLET_0764_000	Mit seiner Ranke pflückt es Blumen. Von den Blüten, die es an seinem Körper trägt, geht eine heilsame Wirkung aus.
 ZKN_SCARLET_0765_000	Wegen der Art und Weise, wie sie den Pokémon des Waldes ständig Befehle erteilen, hielt man sie vor langer Zeit für Menschen.
 ZKN_SCARLET_0766_000	Es kämpft, indem es harte Beeren wirft. Trainern, die Pokébälle nicht gut werfen können, gehorcht es nicht.
 ZKN_SCARLET_0767_000	
@@ -28723,20 +28867,20 @@ ZKN_SCARLET_0773_014
 ZKN_SCARLET_0773_015	
 ZKN_SCARLET_0773_016	
 ZKN_SCARLET_0773_017	
-ZKN_SCARLET_0774_000	
-ZKN_SCARLET_0774_001	
-ZKN_SCARLET_0774_002	
-ZKN_SCARLET_0774_003	
-ZKN_SCARLET_0774_004	
-ZKN_SCARLET_0774_005	
-ZKN_SCARLET_0774_006	
-ZKN_SCARLET_0774_007	
-ZKN_SCARLET_0774_008	
-ZKN_SCARLET_0774_009	
-ZKN_SCARLET_0774_010	
-ZKN_SCARLET_0774_011	
-ZKN_SCARLET_0774_012	
-ZKN_SCARLET_0774_013	
+ZKN_SCARLET_0774_000	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_001	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_002	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_003	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_004	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_005	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_006	Es wird in der Ozonschicht geboren. Wenn die äußere Schale, die seinen Kern umgibt, zu schwer wird, stürzt es zu Boden.
+ZKN_SCARLET_0774_007	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
+ZKN_SCARLET_0774_008	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
+ZKN_SCARLET_0774_009	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
+ZKN_SCARLET_0774_010	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
+ZKN_SCARLET_0774_011	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
+ZKN_SCARLET_0774_012	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
+ZKN_SCARLET_0774_013	Ein aus dem Weltall herabgefallenes Meteno versucht stets, dorthin zurückzukehren, doch es erlischt, ohne dass dieser Wunsch je wahr wird.
 ZKN_SCARLET_0775_000	Koalelu verbringt sein ganzes Leben schlafend und ernährt sich von hochgiftigen Blättern, deren Toxine kein anderes Pokémon abbauen kann.
 ZKN_SCARLET_0776_000	
 ZKN_SCARLET_0777_000	
@@ -28782,17 +28926,17 @@ ZKN_SCARLET_0807_000
 ZKN_SCARLET_0808_000	
 ZKN_SCARLET_0809_000	
 ZKN_SCARLET_0809_999	
-ZKN_SCARLET_0810_000	
-ZKN_SCARLET_0811_000	
-ZKN_SCARLET_0812_000	
+ZKN_SCARLET_0810_000	Der Schlägel, den es bei sich trägt, nimmt Energie aus Chimpeps Körper auf und wird dadurch robuster und biegsamer.
+ZKN_SCARLET_0811_000	Es schwingt seine zwei Schlägel mit viel Geschick und kann so nicht nur einen wilden Beat auflegen, sondern auch im Kampf auf Gegner eintrommeln.
+ZKN_SCARLET_0812_000	Es besitzt ein ruhiges Gemüt. Doch wer es wagt, die Harmonie zu stören, wird erbarmungslos von Gortrom zurechtgewiesen, bis er Einsicht zeigt.
 ZKN_SCARLET_0812_999	
-ZKN_SCARLET_0813_000	
-ZKN_SCARLET_0814_000	
-ZKN_SCARLET_0815_000	
+ZKN_SCARLET_0813_000	Erst wenn sein Körper ausreichend warm ist, kann es seine wahre Kraft entfesseln. Deshalb macht es Aufwärmübungen.
+ZKN_SCARLET_0814_000	Dank seines flauschigen Fells kann es leichter Feuer-Energie aufbauen und dadurch noch heißere Flammen ausstoßen.
+ZKN_SCARLET_0815_000	Es hat ein hitziges Gemüt. Bringt es einem Trainer aber genügend Vertrauen entgegen, legt es eine fehlerfreie Kampfweise an den Tag.
 ZKN_SCARLET_0815_999	
-ZKN_SCARLET_0816_000	
-ZKN_SCARLET_0817_000	
-ZKN_SCARLET_0818_000	
+ZKN_SCARLET_0816_000	Es feuert Wassergeschosse aus seinem Mund, um Beeren herabzuschießen und dann zu fressen. Jeder Schuss ist ein Treffer.
+ZKN_SCARLET_0817_000	Seine lange Zunge ist von Schleim überzogen. Es kann sie blitzschnell ausstrecken, um seiner Beute geschickt den Garaus zu machen.
+ZKN_SCARLET_0818_000	Dank spezieller Linsen in den Augen erfasst es Faktoren wie die Körpertemperatur von Gegnern, erkennt so deren Schwachpunkte und greift an.
 ZKN_SCARLET_0818_999	
 ZKN_SCARLET_0819_000	Es hortet Beeren in seinen Backentaschen. Falls es einmal keine findet, stopft es stattdessen Kiesel hinein, um Heißhungerattacken zu überwinden.
 ZKN_SCARLET_0820_000	Entdeckt es einen Baum voller Beeren, lässt es selbst in der Hitze des Gefechts alles stehen und liegen, um sie einzusammeln.
@@ -28859,16 +29003,16 @@ ZKN_SCARLET_0864_000
 ZKN_SCARLET_0865_000	
 ZKN_SCARLET_0866_000	
 ZKN_SCARLET_0867_000	
-ZKN_SCARLET_0868_000	
-ZKN_SCARLET_0869_000	
-ZKN_SCARLET_0869_001	
-ZKN_SCARLET_0869_002	
-ZKN_SCARLET_0869_003	
-ZKN_SCARLET_0869_004	
-ZKN_SCARLET_0869_005	
-ZKN_SCARLET_0869_006	
-ZKN_SCARLET_0869_007	
-ZKN_SCARLET_0869_008	
+ZKN_SCARLET_0868_000	Je mehr süße Düfte es aufnimmt, desto weiter dehnt sich sein Körper aus. Jedoch schrumpft es zusammen, wenn sein Energielevel sinkt.
+ZKN_SCARLET_0869_000	Von Pokusan verzierte Desserts haben solch eine vollmundige Süße, dass jeder glücklich wird, der davon kostet.
+ZKN_SCARLET_0869_001	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen süßsauren Geschmack angenommen hat.
+ZKN_SCARLET_0869_002	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen aromatischen Geschmack angenommen hat.
+ZKN_SCARLET_0869_003	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen erfrischenden Geschmack angenommen hat.
+ZKN_SCARLET_0869_004	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen säuerlichen Geschmack angenommen hat.
+ZKN_SCARLET_0869_005	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen salzigen Geschmack angenommen hat.
+ZKN_SCARLET_0869_006	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen vielseitigen Geschmack angenommen hat.
+ZKN_SCARLET_0869_007	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen bitteren Geschmack angenommen hat.
+ZKN_SCARLET_0869_008	Bei der Entwicklung kam es zu einer subtilen Durchmischung seiner Körperzellen, wodurch es einen komplexen Geschmack angenommen hat.
 ZKN_SCARLET_0869_999	
 ZKN_SCARLET_0870_000	Der Anführer steht an erster Stelle und gibt die Befehle. Er ist das stärkste und schlauste Glied dieses sechsteiligen Pokémon.
 ZKN_SCARLET_0871_000	Bei der Verdauung erzeugt es Elektrizität. Mit seinen fünf harten Zähnen schabt es Algen von Oberflächen ab und frisst sie.
@@ -28888,7 +29032,7 @@ ZKN_SCARLET_0880_000
 ZKN_SCARLET_0881_000	
 ZKN_SCARLET_0882_000	
 ZKN_SCARLET_0883_000	
-ZKN_SCARLET_0884_000	
+ZKN_SCARLET_0884_000	Sein Körper, der aus einem speziellen Metall besteht, ist kratzfest, leicht und so glatt wie ein hochglanzpolierter Spiegel.
 ZKN_SCARLET_0884_999	
 ZKN_SCARLET_0885_000	Gruppen von ihnen fliegen abends in hohem Tempo übers Meer und machen sich einen Spaß daraus, nach Pokémon im Wasser zu schnappen.
 ZKN_SCARLET_0886_000	Beim Fliegen ist es bis zu 200 km/h schnell. Verliert es im Kampf, macht sich sein Grolldra ohne zu zögern aus dem Staub.
@@ -29031,8 +29175,8 @@ ZKN_SCARLET_1007_000	Offenbar ist dies die Kreatur Schwingenkönig, von der es i
 ZKN_SCARLET_1007_001	
 ZKN_SCARLET_1008_000	Es sind kaum Einzelheiten zu diesem Wesen bekannt, welches zwar Mopex ähnelt, aber weitaus stärker und grausamer ist.
 ZKN_SCARLET_1008_001	
-ZKN_SCARLET_1009_000	Lebensweise wird untersucht.
-ZKN_SCARLET_1010_000	Lebensweise wird analysiert.
+ZKN_SCARLET_1009_000	Diese rätselhafte und wilde Kreatur ist nach einem Wassermonster benannt, das in einem alten Expeditionsbericht beschrieben wurde.
+ZKN_SCARLET_1010_000	Viele seiner Merkmale entsprechen denen eines Viridium aus der Zukunft, welches in einer esoterischen Zeitschrift vorgestellt wurde.
 ZKN_SCARLET_0901_001	Es überquerte den Ozean und erreichte fremdes Land, wo es ums Überleben kämpfte und dabei besondere Fertigkeiten und Merkmale erlangte.
 ZKN_SCARLET_1011_000	Dieses Pokémon besteht aus zwei Individuen. Es hat sich mithilfe eines Apfels entwickelt, der nur in einer bestimmten Gegend angebaut wird.
 ZKN_SCARLET_1012_000	Es soll entstanden sein, als ein Teemeister starb, bevor er sein Handwerk perfektioniert hatte, und sein Gram von einer Tasse Matcha Besitz ergriff.
@@ -29046,6 +29190,18 @@ ZKN_SCARLET_1017_000	Sein Typ ändert sich je nach aufgesetzter Maske. Es führt
 ZKN_SCARLET_1017_001	Diese Form glänzt in Offensive und Defensive. Wie das sprudelnde Wasser eines Springbrunnens greift dieses Pokémon Gegner pausenlos an.
 ZKN_SCARLET_1017_002	Diese Form ist äußerst offensiv und angriffslustig. Wie eine wild lodernde Ofenflamme stürzt sich dieses Pokémon erbarmungslos auf seine Feinde.
 ZKN_SCARLET_1017_003	Diese Form ist auf die Defensive spezialisiert. Wie das Fundament eines Hauses fängt dieses Pokémon jegliche Stöße solide ab.
+ZKN_SCARLET_1018_000	Es sammelt statische Elektrizität aus der Umgebung. Die Strahlen, die es auf allen Vieren abfeuert, sind extrem stark.
+ZKN_SCARLET_1019_000	Sieben sogenannte „Schlangel“ leben in einem Apfel aus Nektar. Das Exemplar in der Mitte ist der Anführer.
+ZKN_SCARLET_1020_000	Es gibt nur sehr wenige bestätigte Sichtungen, doch es existiert ein kurzes Video, auf dem es umherwütet und Flammensäulen ausspeit.
+ZKN_SCARLET_1021_000	Man sagt, dass es mit den Blitzen, die es aus seinem Fell abfeuert, alles in seiner Umgebung zu Asche verbrennt. Genaueres ist nicht bekannt.
+ZKN_SCARLET_1022_000	Es ähnelt einem Pokémon, das eine fragwürdige Zeitschrift als ein Terrakium vorstellte, das von einer bösartigen Organisation modifiziert wurde.
+ZKN_SCARLET_1023_000	Es ähnelt einem rätselhaften Objekt, das einer esoterischen Zeitschrift nach eine ultramoderne Waffe sein soll, die wie Kobalium aussieht.
+ZKN_SCARLET_1024_000	Es schützt sich, indem es Energie in harten Kristall umwandelt. Dieses Pokémon ist der Ursprung der Terakristallisierung.
+ZKN_SCARLET_1024_001	Wenn es Gefahr wittert, bereitet es sich auf einen Kampf vor, indem es einen robusten Panzer aus Terakristallen erschafft.
+ZKN_SCARLET_1024_002	Diese Form verfügt über eine enorm verstärkte Terakristall-Energie. Ihr Aussehen ähnelt der Welt, wie uralte Völker sie sich vorgestellt haben.
+ZKN_SCARLET_0900_000	Ein extrem seltenes Erz, das in Vulkanregionen zu finden ist, löste seine Entwicklung aus, bei der Teile seines Körpers zu Stein wurden.
+ZKN_SCARLET_0904_000	Selbst im Schlaf reagieren Myriadors Giftstacheln von allein und spießen alles auf, was sich ihm nähert.
+ZKN_SCARLET_0211_001	Es lebt ufernah in Gewässern kalter Gefilde. Verglichen mit den Baldorfish anderer Regionen sind seine Giftstacheln dicker und kürzer.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_shield_deu.msbt
@@ -35516,20 +35672,20 @@ ZKN_ULSUN_801_001	So sah Magearna vor etwa 500 Jahren aus. Sein Körper ist ledi
 Text File : zukan_comment_violet_deu.msbt
 ~~~~~~~~~~~~~~~
 ZKN_VIOLET_0000_000	
-ZKN_VIOLET_0001_000	
-ZKN_VIOLET_0002_000	
-ZKN_VIOLET_0003_000	
+ZKN_VIOLET_0001_000	Von Geburt an trägt es einen Samen auf seinem Rücken. Wächst es, so wächst auch der Samen.
+ZKN_VIOLET_0002_000	Nimmt es Nährstoffe zu sich, wächst die Knospe auf seinem Rücken. Blüht diese auf, verströmt sie einen angenehmen Duft.
+ZKN_VIOLET_0003_000	Es breitet seine großen Blütenblätter aus, um im Sonnenlicht zu baden und seinen Körper mit Energie zu füllen.
 ZKN_VIOLET_0003_001	
 ZKN_VIOLET_0003_999	
-ZKN_VIOLET_0004_000	
-ZKN_VIOLET_0005_000	
-ZKN_VIOLET_0006_000	
+ZKN_VIOLET_0004_000	Ist es gesund, strahlt die Flamme an seiner Schwanzspitze leuchtend hell und erlischt selbst dann nicht, wenn sie ein wenig nass wird.
+ZKN_VIOLET_0005_000	Glutexo hat ein hitziges Gemüt und sucht ständig nach Gegnern. Es beruhigt sich nur, wenn es gewinnt.
+ZKN_VIOLET_0006_000	Mit seinen Flügeln fliegt es hoch empor. Die Temperatur seiner Flamme steigt mit der Kampferfahrung.
 ZKN_VIOLET_0006_001	
 ZKN_VIOLET_0006_002	
 ZKN_VIOLET_0006_999	
-ZKN_VIOLET_0007_000	
-ZKN_VIOLET_0008_000	
-ZKN_VIOLET_0009_000	
+ZKN_VIOLET_0007_000	Sein Panzer ist bei Geburt weich. Er wird jedoch sofort so elastisch, dass kleinere Stöße von ihm abprallen.
+ZKN_VIOLET_0008_000	Dieses Pokémon lauert oft im Wasser auf Beute. Beim schnellen Schwimmen hält es mit seinen Ohren das Gleichgewicht.
+ZKN_VIOLET_0009_000	Dieses mächtige Pokémon hat Wasserdüsen in seinem Panzer und nutzt sie, um sich mit der Wucht einer Rakete auf seine Gegner zu stürzen.
 ZKN_VIOLET_0009_001	
 ZKN_VIOLET_0009_999	
 ZKN_VIOLET_0010_000	
@@ -35567,9 +35723,9 @@ ZKN_VIOLET_0025_999
 ZKN_VIOLET_0026_000	Wenn seine Backentaschen voll aufgeladen sind, stehen seine beiden Ohren senkrecht nach oben.
 ZKN_VIOLET_0026_001	
 ZKN_VIOLET_0027_000	Egal, aus welcher Höhe dieses Pokémon fällt, es kann den Sturz abfangen, indem es sich zusammenrollt und vom Boden abprallt.
-ZKN_VIOLET_0027_001	
+ZKN_VIOLET_0027_001	Bei einem der traditionellen Feste Alolas messen sich die Teilnehmer darin, ihre Sandan so weit wie möglich über Eisflächen gleiten zu lassen.
 ZKN_VIOLET_0028_000	Seine Stacheln sind erhärtete Haut. Im Kampf rollt es sich zusammen und greift den Gegner mit den Stacheln an.
-ZKN_VIOLET_0028_001	
+ZKN_VIOLET_0028_001	Vor Urzeiten lebte es in der Wüste. Mithilfe seiner scharfen Krallen erklimmt es Eisberge, ohne abzurutschen.
 ZKN_VIOLET_0029_000	
 ZKN_VIOLET_0030_000	
 ZKN_VIOLET_0031_000	
@@ -35579,24 +35735,24 @@ ZKN_VIOLET_0034_000
 ZKN_VIOLET_0035_000	Bei Vollmond versammeln sie sich und tanzen gemeinsam. Um sie herum entsteht dadurch ein ungewöhnliches Magnetfeld.
 ZKN_VIOLET_0036_000	Es besitzt ein exzellentes Hörvermögen. Darum kann es eine Nadel fallen hören, selbst wenn sie 1 km entfernt ist.
 ZKN_VIOLET_0037_000	Während es wächst, wird das Fell seiner sechs warmen Schweife noch schöner und weicher.
-ZKN_VIOLET_0037_001	
+ZKN_VIOLET_0037_001	Bei heißem Wetter erzeugt es mit seinen sechs Schweifen Kiesel aus Eis. Diese verteilt es in der Nähe, um seinen Körper abzukühlen.
 ZKN_VIOLET_0038_000	Es hat neun lange Schweife und sein Fell glänzt gülden. Man sagt, es soll mindestens 1000 Jahre lang leben.
-ZKN_VIOLET_0038_001	
+ZKN_VIOLET_0038_001	Es greift seine Feinde mittels Eiskristallen an, die es mit seinem Fell erzeugt. Wer es wütend macht, wird in Sekundenschnelle tiefgefroren.
 ZKN_VIOLET_0039_000	Wenn es tief einatmet und sich aufbläht, kann es ein noch längeres Lied singen, das seine Zuhörer unweigerlich in Schlaf versetzt.
 ZKN_VIOLET_0040_000	Sein dichtes, flauschiges Fell fühlt sich so toll an, dass man nicht aufhören kann, es anzufassen.
 ZKN_VIOLET_0041_000	
 ZKN_VIOLET_0042_000	
-ZKN_VIOLET_0043_000	
-ZKN_VIOLET_0044_000	
-ZKN_VIOLET_0045_000	
+ZKN_VIOLET_0043_000	Es erwacht bei Mondschein und wandert umher. Tagsüber verharrt es still unter der Erde.
+ZKN_VIOLET_0044_000	Es scheidet klebrigen, speichelähnlichen Nektar aus. Obwohl dieser sehr süß ist, stinkt er so schlimm, dass man sich ihm nicht nähern kann.
+ZKN_VIOLET_0045_000	Es besitzt die größten Blütenblätter der Welt. Aus ihnen verstreut es wie besessen Pollen, die Allergien auslösen.
 ZKN_VIOLET_0046_000	
 ZKN_VIOLET_0047_000	
 ZKN_VIOLET_0048_000	Seine Augen setzt es als Radar ein, damit es im Dunkeln aktiv sein kann. Aus ihnen kann Bluzuk auch Strahlen schießen.
 ZKN_VIOLET_0049_000	Beim Angriff schlägt es wild mit seinen großen Flügeln, um seinen Giftpuder überall zu verstreuen.
 ZKN_VIOLET_0050_000	Seine Haut ist sehr dünn. Wird es Licht ausgesetzt, erhitzt sich sein Blut und es wird schwach.
-ZKN_VIOLET_0050_001	
+ZKN_VIOLET_0050_001	Seine goldenen Haare verfügen über sensorische Funktionen. Es streckt sie aus Löchern heraus, um die Umgebung zu erkunden.
 ZKN_VIOLET_0051_000	Im Kampf gräbt es sich ein und attackiert den Gegner plötzlich aus einer unvorhersehbaren Richtung.
-ZKN_VIOLET_0051_001	
+ZKN_VIOLET_0051_001	Da seine metallischen Haare schwer sind, ist es nicht besonders flink. Dafür hat es aber die Kraft, sich durch harte Felsschichten zu graben.
 ZKN_VIOLET_0052_000	Glänzende Dinge faszinieren es. Findet es etwas Schimmerndes, leuchtet auch die Münze an seinem Kopf aus unbekanntem Grund auf.
 ZKN_VIOLET_0052_001	
 ZKN_VIOLET_0052_002	
@@ -35623,35 +35779,35 @@ ZKN_VIOLET_0068_999
 ZKN_VIOLET_0069_000	Es bohrt seine Füße tief in die Erde, um Wasser aufzunehmen. Wird es dabei angegriffen, kann es nicht fliehen.
 ZKN_VIOLET_0070_000	Seine Blätter dienen als Schneiden, mit denen es Gegner aufschlitzt. Es spuckt eine Flüssigkeit, die alles auflöst.
 ZKN_VIOLET_0071_000	Wurde in seiner ätzenden Lösung bereits viel Beute zersetzt, ist diese Flüssigkeit süßer und lockt leichter Beute an.
-ZKN_VIOLET_0072_000	
-ZKN_VIOLET_0073_000	
+ZKN_VIOLET_0072_000	Seine Augen sind durchsichtig wie Kristalle. Aus ihnen schießt es geheimnisvolle Lichtstrahlen.
+ZKN_VIOLET_0073_000	Im Kampf breitet es all seine 80 Tentakel aus und bildet mit ihnen ein giftiges Netz, um seine Gegner darin zu fangen.
 ZKN_VIOLET_0074_000	Viele Leute bemerken dieses Pokémon nicht. Sieht man sich die Umgebung jedoch genauer an, kann man dort viele Kleinstein entdecken.
-ZKN_VIOLET_0074_001	
+ZKN_VIOLET_0074_001	Wenn man auf ein am Boden schlafendes Kleinstein tritt, hört man ein Knistern und bekommt einen Stromschlag ab.
 ZKN_VIOLET_0075_000	Mit Moos überzogene Steine sind seine absolute Leibspeise. Es vertilgt täglich laut knirschend mindestens eine Tonne davon.
-ZKN_VIOLET_0075_001	
+ZKN_VIOLET_0075_001	Durch seine bevorzugte Gesteinsnahrung ist sein Körper von Elektrizität erfüllt. Außerdem ist es sehr streitlustig.
 ZKN_VIOLET_0076_000	Es kann sich in die Luft sprengen und nutzt die Kraft dieser Explosionen, um von Berg zu Berg zu springen.
-ZKN_VIOLET_0076_001	
+ZKN_VIOLET_0076_001	Es feuert elektrisch geladene Felsen ab. Selbst wenn es nicht direkt trifft, genügt eine Schramme, um Gegner zu lähmen und bewusstlos zu machen.
 ZKN_VIOLET_0077_000	
 ZKN_VIOLET_0077_001	
 ZKN_VIOLET_0078_000	
 ZKN_VIOLET_0078_001	
 ZKN_VIOLET_0079_000	Flegmon ist stets in Gedanken versunken, aber niemand weiß, worüber es nachdenkt. Seine Rute nutzt es geschickt zum Angeln.
-ZKN_VIOLET_0079_001	
+ZKN_VIOLET_0079_001	Es hängt seine Rute zum Angeln ins Wasser, doch aufgrund des würzigen Aromas, das von ihr ausgeht, beißt kaum etwas an.
 ZKN_VIOLET_0080_000	Wenn das Muschas an seiner Rute in einem harten Kampf abfällt, wird Lahmus wieder zu Flegmon.
 ZKN_VIOLET_0080_001	
-ZKN_VIOLET_0080_002	
+ZKN_VIOLET_0080_002	Muschas beißt kräftig in Lahmus’ Arm, um mehr Gift aus ihm zu saugen. Dies erzeugt wohl einen Juckreiz, der Lahmus mitunter rasend macht.
 ZKN_VIOLET_0081_000	Es bewegt sich schwebend. Seine Magnete an den Seiten senden unter anderem elektromagnetische Wellen aus.
 ZKN_VIOLET_0082_000	Mehrere miteinander verbundene Magnetilo bilden dieses Pokémon. Es heißt, es erscheine in Massen, wenn vermehrt Sonnenflecken auftreten.
 ZKN_VIOLET_0083_000	
 ZKN_VIOLET_0083_001	
-ZKN_VIOLET_0084_000	
-ZKN_VIOLET_0085_000	
-ZKN_VIOLET_0086_000	
-ZKN_VIOLET_0087_000	
+ZKN_VIOLET_0084_000	Seine beiden Köpfe schlafen nie gleichzeitig, sondern wechseln sich ungefähr jede Stunde mit der Wache ab.
+ZKN_VIOLET_0085_000	Der stärkste Kopf mit dem dicksten Hals übernimmt als Anführer die Kontrolle über den Körper.
+ZKN_VIOLET_0086_000	Je niedriger die Temperatur, desto wohler fühlt es sich. Es schwimmt vergnügt durch kalte Meere, auf denen Eisschollen treiben.
+ZKN_VIOLET_0087_000	Es speichert thermische Energie in seinem Körper, um der Kälte standzuhalten. Selbst in eiskalten Meeren schwimmt es acht Knoten schnell.
 ZKN_VIOLET_0088_000	Wenn die Körper von zwei Sleima miteinander kombiniert werden, so entstehen völlig neue Arten von Gift.
-ZKN_VIOLET_0088_001	
+ZKN_VIOLET_0088_001	Da es sämtliche Arten von Müll mit Freuden verschlingt, gilt es als großer Star einer jeden Abfallentsorgungsanlage.
 ZKN_VIOLET_0089_000	Sein Gestank ist unerträglich. Das starke Gift, aus dem sein Körper besteht, macht jeder Pflanze in seinem Weg den Garaus.
-ZKN_VIOLET_0089_001	
+ZKN_VIOLET_0089_001	In seiner Nähe ist Vorsicht geboten. Was nach Fangzähnen und Krallen aussieht, sind kristalline Giftstoffe, die bei bloßer Berührung vergiften.
 ZKN_VIOLET_0090_000	Klammert es sich mit seiner Schale an einen Gegner, so wird sein weiches Inneres freigelegt. Es tut dies daher nur im äußersten Notfall.
 ZKN_VIOLET_0091_000	Niemand weiß, wie Austos ohne Schale aussieht. Wird es angegriffen, schießt es ununterbrochen mit seinen Stacheln.
 ZKN_VIOLET_0092_000	Mit seinem gasförmigen Körper kann es Gegner jeder Größe einhüllen und ersticken.
@@ -35667,27 +35823,27 @@ ZKN_VIOLET_0099_000
 ZKN_VIOLET_0099_999	
 ZKN_VIOLET_0100_000	Viele Menschen verwechseln Voltobal mit einem Pokéball und erhalten beim Anfassen einen Stromschlag. Es lebt vorwiegend in Kraftwerken.
 ZKN_VIOLET_0101_000	Es explodiert schon bei kleinsten Reizen und ist unter dem Spitznamen „Bombenkugel“ gefürchtet.
-ZKN_VIOLET_0102_000	
-ZKN_VIOLET_0103_000	
-ZKN_VIOLET_0103_001	
+ZKN_VIOLET_0102_000	Die Köpfe nutzen untereinander Telepathie, die nur sie wahrnehmen können, um stets eine Gruppe von sechs Exemplaren zu bilden.
+ZKN_VIOLET_0103_000	Es heißt, in sehr seltenen Fällen falle einer seiner Köpfe zu Boden und lebe als Owei weiter.
+ZKN_VIOLET_0103_001	Der Wachstumsschub machte seine Psycho-Kräfte überflüssig. Stattdessen wurden die in ihm schlummernden Drachen-Kräfte geweckt.
 ZKN_VIOLET_0104_000	
 ZKN_VIOLET_0105_000	
 ZKN_VIOLET_0105_001	
 ZKN_VIOLET_0105_002	
-ZKN_VIOLET_0106_000	
-ZKN_VIOLET_0107_000	
+ZKN_VIOLET_0106_000	Es kann die Bänder in seinen Beinen nach Belieben dehnen und zusammenziehen, wodurch sich die Reichweite seiner Tritte verdoppelt.
+ZKN_VIOLET_0107_000	Seine Fäuste bestehen aus reiner Muskelmasse. Alle drei Minuten muss es kurz Pause machen, um Luft zu schnappen und sich zu sammeln.
 ZKN_VIOLET_0108_000	
 ZKN_VIOLET_0109_000	Das giftige Gas in seinem Inneren ist etwas leichter als Luft. Dadurch schwebt es stets in geringer Höhe.
 ZKN_VIOLET_0110_000	Atmet es giftige Gase von Abfällen ein, bläht es sich auf und sein Inneres riecht noch schlimmer.
 ZKN_VIOLET_0110_001	
-ZKN_VIOLET_0111_000	
-ZKN_VIOLET_0112_000	
+ZKN_VIOLET_0111_000	Wenn es losstürmt, können selbst Felsbrocken es nicht mehr stoppen. Wegen dieser Veranlagung vergrößerte sich sein Lebensraum immer weiter.
+ZKN_VIOLET_0112_000	Da es nach seiner Entwicklung aufrecht auf seinen Hinterbeinen gehen kann, erstreckt sich sein Lebensraum nun auch über raue Berge.
 ZKN_VIOLET_0113_000	Chaneira bewegt sich behutsam, damit sein Ei nicht zerbricht. Es kann jedoch sehr schnell davonlaufen.
 ZKN_VIOLET_0114_000	
 ZKN_VIOLET_0115_000	
 ZKN_VIOLET_0115_001	
-ZKN_VIOLET_0116_000	
-ZKN_VIOLET_0117_000	
+ZKN_VIOLET_0116_000	Es hält mithilfe seines Schwanzes, der wie eine Spule aufgewickelt ist, das Gleichgewicht. Manchmal spuckt es Tinte aus seinem Mund.
+ZKN_VIOLET_0117_000	Aus seinen Flossenspitzen tritt Gift aus. Seine Flossen und Knochen stehen als Inhaltsstoffe für traditionelle Medizin hoch im Kurs.
 ZKN_VIOLET_0118_000	
 ZKN_VIOLET_0119_000	
 ZKN_VIOLET_0120_000	
@@ -35696,18 +35852,18 @@ ZKN_VIOLET_0122_000
 ZKN_VIOLET_0122_001	
 ZKN_VIOLET_0123_000	Die scharfen Sicheln an den Unterarmen werden durch das Schneiden harter Objekte noch schärfer.
 ZKN_VIOLET_0124_000	
-ZKN_VIOLET_0125_000	
-ZKN_VIOLET_0126_000	
+ZKN_VIOLET_0125_000	Es wird danach geforscht, die Energie von Blitzen in Elektek zu speichern, um sie so jederzeit verfügbar zu machen.
+ZKN_VIOLET_0126_000	Auf der Oberfläche seines Körpers entstehen lodernde Flammen, die an die der Sonne erinnern.
 ZKN_VIOLET_0127_000	
 ZKN_VIOLET_0127_001	
-ZKN_VIOLET_0128_000	
+ZKN_VIOLET_0128_000	Sie kämpfen mit ihren Hörnern. Starke Tauros, welche die Herde beschützen, sind stolz auf ihre mit vielen Kampfspuren versehenen Hörner.
 ZKN_VIOLET_0128_001	Es zeichnet sich durch seine dicken Muskeln und sein wildes Temperament aus. Diese Form wird „Gefechtvariante“ genannt.
 ZKN_VIOLET_0128_002	Diese Form heißt „Flammenvariante“, da sie beim Schnauben heiße Luft aus der Nase ausstößt. Die drei Schweife sind miteinander verflochten.
 ZKN_VIOLET_0128_003	Es schwimmt durch den Ausstoß von Wasser aus seinen Hörnern. Der hohe Körperfettanteil lässt diese „Flutenvariante“ auf dem Wasser treiben.
 ZKN_VIOLET_0129_000	Die urzeitlichen Vorfahren dieses Pokémon waren etwas stärker als ihre heutigen, kümmerlichen Nachkommen.
 ZKN_VIOLET_0130_000	Es taucht aus dem Nichts auf, wenn die Welt sich im Konflikt befindet, und brennt jeden Ort nieder, den es passiert.
 ZKN_VIOLET_0130_001	
-ZKN_VIOLET_0131_000	
+ZKN_VIOLET_0131_000	Dieses intelligente Pokémon versteht die Sprache der Menschen und liebt es, mit ihnen auf dem Rücken über das Meer zu schwimmen.
 ZKN_VIOLET_0131_999	
 ZKN_VIOLET_0132_000	Es kann seine eigene Zellstruktur frei zusammensetzen und sich in jede andere Lebensform verwandeln.
 ZKN_VIOLET_0133_000	Das Erbmaterial von Evoli ist anomal. Die Strahlung von besonderen Steinen lässt es mutieren.
@@ -35716,7 +35872,7 @@ ZKN_VIOLET_0133_999
 ZKN_VIOLET_0134_000	Seine Zellstruktur ist der von Wassermolekülen ähnlich. Daher kann es mit Wasser verschmelzen und so unsichtbar werden.
 ZKN_VIOLET_0135_000	Bringt man es aus der Ruhe, verwendet es Elektrizität, um sein Fell aufzustellen und Teile davon abzufeuern.
 ZKN_VIOLET_0136_000	Es plustert das Fell um seinen Hals auf, um seine Körpertemperatur zu senken, die bis auf 900 ℃ steigen kann.
-ZKN_VIOLET_0137_000	
+ZKN_VIOLET_0137_000	Dieses künstliche Pokémon wurde mithilfe neuester Technologien erschaffen. Es kann durch den Cyberspace reisen.
 ZKN_VIOLET_0138_000	
 ZKN_VIOLET_0139_000	
 ZKN_VIOLET_0140_000	
@@ -35738,15 +35894,15 @@ ZKN_VIOLET_0150_000
 ZKN_VIOLET_0150_001	
 ZKN_VIOLET_0150_002	
 ZKN_VIOLET_0151_000	
-ZKN_VIOLET_0152_000	
-ZKN_VIOLET_0153_000	
-ZKN_VIOLET_0154_000	
-ZKN_VIOLET_0155_000	
-ZKN_VIOLET_0156_000	
-ZKN_VIOLET_0157_000	
-ZKN_VIOLET_0158_000	
-ZKN_VIOLET_0159_000	
-ZKN_VIOLET_0160_000	
+ZKN_VIOLET_0152_000	Mit seinem aromatischen Blatt ist es in der Lage, die Temperatur und die Luftfeuchtigkeit seiner Umgebung zu messen.
+ZKN_VIOLET_0153_000	Der Duft der Blätter um seinen Hals setzt bei jedem, der ihn riecht, neue Energien frei.
+ZKN_VIOLET_0154_000	Seinem Atem wohnt eine Kraft inne, durch die es abgestorbene Pflanzen und Blumen mit einem Hauch zu neuem Leben erwecken kann.
+ZKN_VIOLET_0155_000	Die Flammen auf seinem Rücken lodern am stärksten, wenn es zornig ist. Dadurch schüchtert es seine Feinde ein.
+ZKN_VIOLET_0156_000	Das Fell dieses Pokémon ist nicht entflammbar. Feuer-Angriffe jeglicher Art machen ihm nichts aus.
+ZKN_VIOLET_0157_000	Wenn sein Zorn das Maximum erreicht, wird es so heiß, dass alles, was es berührt, augenblicklich in Flammen aufgeht.
+ZKN_VIOLET_0158_000	Dieser kleine Rabauke beißt alles, was sich vor ihm bewegt. Man sollte ihm nie den Rücken zudrehen.
+ZKN_VIOLET_0159_000	Zum Angriff reißt es seinen großen Kiefer auf. Verliert es beim Zubeißen Zähne, wachsen sie einer nach dem anderen wieder nach.
+ZKN_VIOLET_0160_000	Trotz seines massigen Körpers kann es mit den kräftigen Hinterbeinen auch an Land sehr schnell laufen.
 ZKN_VIOLET_0161_000	Trifft es auf Feinde, stellt es sich auf seinen Schweif, um größer zu erscheinen und sie so einzuschüchtern.
 ZKN_VIOLET_0162_000	Es ist flink und sehr geschmeidig. Selbst wenn man es gefangen hat, kann es einem leicht wieder aus den Armen schlüpfen.
 ZKN_VIOLET_0163_000	Da es die Uhrzeit präzise ansagt, gilt es in manchen Ländern als Gottheit der Weisheit, die mit den Regeln der Welt vertraut ist.
@@ -35756,8 +35912,8 @@ ZKN_VIOLET_0166_000
 ZKN_VIOLET_0167_000	Einige Fischer knüpfen sich aus seinem robusten Faden Netze, mit denen sie dann Fisch-Pokémon fangen.
 ZKN_VIOLET_0168_000	Anstatt sein Netz an einem festen Ort zu spinnen, wandert es nach Einbruch der Dunkelheit auf der Suche nach Beute umher.
 ZKN_VIOLET_0169_000	
-ZKN_VIOLET_0170_000	
-ZKN_VIOLET_0171_000	
+ZKN_VIOLET_0170_000	Über die Enden seiner Antennen setzt es positive und negative elektrische Ladung frei, um seine Gegner zu betäuben.
+ZKN_VIOLET_0171_000	Es blendet seine Beute mit einem grellen Licht. Während diese sich nicht rühren kann, verschlingt es sie in einem Stück.
 ZKN_VIOLET_0172_000	Pichu sind sehr niedlich, aber wer mit einem zusammenleben will, sollte sich besser auf regelmäßige Stromschläge gefasst machen.
 ZKN_VIOLET_0173_000	Da man Pii oft in Nächten sieht, an denen viele Sternschnuppen über den Himmel ziehen, sagt man, dass sie auf Sternen reitend hierherreisen.
 ZKN_VIOLET_0174_000	Es liebt das Singen, ist aber noch nicht sehr gut darin. Lobt man es regelmäßig, verbessern sich seine Gesangskünste jedoch nach und nach.
@@ -35769,7 +35925,7 @@ ZKN_VIOLET_0179_000	Sein Fell wächst ständig. Im Sommer wirft es sein ganzes F
 ZKN_VIOLET_0180_000	Die gummiartige Haut von Waaty leitet keinen Strom, aber seine Wolle kann viel Elektrizität speichern.
 ZKN_VIOLET_0181_000	Bei Dunkelheit sieht man das helle Licht an seinem Schwanz von Weitem über das Meer scheinen.
 ZKN_VIOLET_0181_001	
-ZKN_VIOLET_0182_000	
+ZKN_VIOLET_0182_000	Es verlässt den Wald, in dem es aufgewachsen ist, um sich mit anderen Blubella zusammenzutun. Ist es aufgeregt, fängt es an zu tanzen.
 ZKN_VIOLET_0183_000	Sein ölgefüllter Schweif dient ihm als Rettungsboje, die es vor der Strömung reißender Flüsse schützt.
 ZKN_VIOLET_0184_000	Verhält es sich regungslos und lauscht, so kann es hören, was sich in reißenden Flüssen verbirgt.
 ZKN_VIOLET_0185_000	Um nicht angegriffen zu werden, gibt es vor, ein Baum zu sein. Es hasst jedoch Wasser und flieht vor Regen.
@@ -35788,7 +35944,7 @@ ZKN_VIOLET_0196_000	Mit den feinen Haaren, die seinen ganzen Körper bedecken, n
 ZKN_VIOLET_0197_000	Die ringförmigen Muster auf seinem Körper beginnen bei Einbruch der Nacht zu leuchten, um all jene zu verängstigen, die sich ihm nähern.
 ZKN_VIOLET_0198_000	Entdeckt man ein Kramurx und folgt ihm leichtsinnig, lockt es einen auf Bergpfade und bringt einen dazu, sich zu verlaufen.
 ZKN_VIOLET_0199_000	Sein scharfer Intellekt und sein feines Gespür zeichnen es aus. Es bleibt in jeder Situation gelassen und besonnen.
-ZKN_VIOLET_0199_001	
+ZKN_VIOLET_0199_001	Es mischt seinen Mageninhalt mit flüssigen Toxinen, um Arznei herzustellen. Deren Wirkung kennt es allerdings selbst nicht.
 ZKN_VIOLET_0200_000	Es zieht Leute gerne von hinten an den Haaren oder beißt sich plötzlich in ihren Schopf fest, um sich an der verdutzten Reaktion zu erfreuen.
 ZKN_VIOLET_0201_000	
 ZKN_VIOLET_0201_001	
@@ -35826,8 +35982,8 @@ ZKN_VIOLET_0206_000	Wird es entdeckt, gräbt es sich mit seinem Schwanz ins Erdr
 ZKN_VIOLET_0207_000	Es fliegt gleitend heran und erschreckt seine Opfer, indem es sich an ihr Gesicht klammert. Dann greift es sie mit seinem Giftstachel an.
 ZKN_VIOLET_0208_000	
 ZKN_VIOLET_0208_001	
-ZKN_VIOLET_0209_000	
-ZKN_VIOLET_0210_000	
+ZKN_VIOLET_0209_000	Snubbulls Knurren jagt Gegnern Angst ein. Normalerweise geht es die Dinge gemütlich an und schläft den halben Tag.
+ZKN_VIOLET_0210_000	Wenn es sein großes Maul öffnet und seine dicken Fangzähne zeigt, nimmt fast jedes Pokémon Reißaus.
 ZKN_VIOLET_0211_000	Angelveteranen zufolge sollte man Baldorfish unmittelbar nach Abschuss seiner Giftstacheln versuchen zu fangen, weil es dann wehrlos ist.
 ZKN_VIOLET_0212_000	Es erhebt seine mit Augenmustern versehenen Scheren, um Gegner einzuschüchtern. Dabei sieht es aus, als habe es drei Köpfe.
 ZKN_VIOLET_0212_001	
@@ -35847,21 +36003,21 @@ ZKN_VIOLET_0223_000
 ZKN_VIOLET_0224_000	
 ZKN_VIOLET_0225_000	Es trägt immer Nahrung bei sich. Wird es attackiert, wirft es diese nach dem Angreifer, um sich zu schützen.
 ZKN_VIOLET_0226_000	
-ZKN_VIOLET_0227_000	
+ZKN_VIOLET_0227_000	Seine ausgefallenen Federn sind dünn und scharf. Es heißt, dass sie einst auch als Schwerter benutzt wurden.
 ZKN_VIOLET_0228_000	Sein Ruf bei der Beutejagd unterscheidet sich von dem Ruf, den es zum Kommunizieren mit Artgenossen verwendet.
 ZKN_VIOLET_0229_000	Wenn andere Pokémon sein gruseliges Geheul hören, erschaudern sie und eilen Hals über Kopf zurück in ihren Unterschlupf.
 ZKN_VIOLET_0229_001	
-ZKN_VIOLET_0230_000	
+ZKN_VIOLET_0230_000	Dieses Pokémon soll Kraft sammeln, indem es in Meerestiefen schläft, in die kein anderes Lebewesen vordringen kann.
 ZKN_VIOLET_0231_000	Es ist viel stärker, als es aussieht. Wenn es seinen Rüssel umherschwingt und einen dabei am Arm erwischt, ist dieser wahrscheinlich gebrochen.
 ZKN_VIOLET_0232_000	Für gewöhnlich ist es von ruhigem Gemüt. Reizt man es jedoch, rollt es sich ein und donnert auf einen zu.
-ZKN_VIOLET_0233_000	
+ZKN_VIOLET_0233_000	Diese verbesserte Version von Porygon wurde für die Erschließung anderer Planeten gebaut, jedoch kann sie noch nicht einmal fliegen.
 ZKN_VIOLET_0234_000	Vor langer Zeit, als es zahlreiche natürliche Feinde hatte, soll es stärker gewesen sein und sich aus eigener Kraft entwickelt haben.
-ZKN_VIOLET_0235_000	
-ZKN_VIOLET_0236_000	
-ZKN_VIOLET_0237_000	
+ZKN_VIOLET_0235_000	Die Farbe des mysteriösen Sekrets, das aus ihrer Schweifspitze austritt, variiert je nach Farbeagle.
+ZKN_VIOLET_0236_000	Um immer stärker zu werden, stählt es seinen Körper wie besessen und fordert absolut jeden zum Kampf heraus, der ihm über den Weg läuft.
+ZKN_VIOLET_0237_000	Es dreht sich auf seinem Horn um die eigene Achse und teilt dabei elegante Tritte aus. Das Horn wächst sein ganzes Leben lang weiter.
 ZKN_VIOLET_0238_000	
-ZKN_VIOLET_0239_000	
-ZKN_VIOLET_0240_000	
+ZKN_VIOLET_0239_000	Es lässt seine Arme kreisen, um Elektrizität zu generieren, doch da es schnell müde wird, erzeugt es nur eine kleine Menge.
+ZKN_VIOLET_0240_000	Durch seinen Körper fließt magmaartiges Blut, welches seine Körpertemperatur auf ganze 600 ℃ steigen lassen kann.
 ZKN_VIOLET_0241_000	
 ZKN_VIOLET_0242_000	Eier, die es legt, stecken voller Fröhlichkeit. Schon ein Bissen erzeugt ein breites Lächeln.
 ZKN_VIOLET_0243_000	
@@ -35874,17 +36030,17 @@ ZKN_VIOLET_0248_001
 ZKN_VIOLET_0249_000	
 ZKN_VIOLET_0250_000	
 ZKN_VIOLET_0251_000	
-ZKN_VIOLET_0252_000	
-ZKN_VIOLET_0253_000	
-ZKN_VIOLET_0254_000	
+ZKN_VIOLET_0252_000	Es kann selbst Wände blitzschnell emporklettern. Mit seinem Schwanz misst es die Luftfeuchtigkeit, um das Wetter des nächsten Tages vorherzusagen.
+ZKN_VIOLET_0253_000	Es verfügt über eine erstaunliche Sprungkraft und bewegt sich auf hohen Bäumen mit Leichtigkeit von Ast zu Ast fort.
+ZKN_VIOLET_0254_000	Die Blätter an seinen Armen sind so scharf wie Schwerter. Es hüpft mühelos von Ast zu Ast und stürzt sich dann auf seine Feinde.
 ZKN_VIOLET_0254_001	
-ZKN_VIOLET_0255_000	
-ZKN_VIOLET_0256_000	
-ZKN_VIOLET_0257_000	
+ZKN_VIOLET_0255_000	Flemmli trägt einen Flammensack in seinem Bauch. Daher fühlt es sich so warm wie eine Wärmflasche an, wenn man es im Arm hält.
+ZKN_VIOLET_0256_000	Im Kampf lodert das Feuer in seinem Körper auf. Seine Tritte besitzen eine außergewöhnliche Zerstörungskraft.
+ZKN_VIOLET_0257_000	Es kann über 30-stöckige Häuser springen. Seine feurigen Schläge lassen seine Gegner in Flammen aufgehen.
 ZKN_VIOLET_0257_001	
-ZKN_VIOLET_0258_000	
-ZKN_VIOLET_0259_000	
-ZKN_VIOLET_0260_000	
+ZKN_VIOLET_0258_000	Wenn es seine große Schwanzflosse einsetzt, kann es im Wasser schnell beschleunigen. Es ist überraschend stark für seine geringe Größe.
+ZKN_VIOLET_0259_000	Auf instabilem, schlammigem Untergrund kann es sein wahres Potenzial entfalten. Feststeckende Gegner überwältigt es im Handumdrehen.
+ZKN_VIOLET_0260_000	Seine Arme sind steinhart. Mit nur einem Schlag kann es Gegner zu Boden strecken. Es baut sein Nest an pittoresken Stränden.
 ZKN_VIOLET_0260_001	
 ZKN_VIOLET_0261_000	Es jagt Beute im Rudel nach. Ist diese erschöpft, bringt es sie zur Strecke. Stößt Fiffyen jedoch auf Widerstand, ergreift es auch mal die Flucht.
 ZKN_VIOLET_0262_000	Sobald es Beute in großer Entfernung wittert, setzt sich das gesamte Rudel auf Befehl des Anführers hin sofort in Bewegung.
@@ -35944,8 +36100,8 @@ ZKN_VIOLET_0308_001
 ZKN_VIOLET_0309_000	
 ZKN_VIOLET_0310_000	
 ZKN_VIOLET_0310_001	
-ZKN_VIOLET_0311_000	
-ZKN_VIOLET_0312_000	
+ZKN_VIOLET_0311_000	Es saugt Elektrizität aus Strommasten. Erzeugt es mit dem im Körper gespeicherten Strom einen Kurzschluss, erklingt ein Geräusch.
+ZKN_VIOLET_0312_000	Da es Wasser verabscheut, versteckt es sich bei Regen unter Dachvorsprüngen. Es setzt Pompons aus Funken zum Anfeuern ein.
 ZKN_VIOLET_0313_000	Volbeat kommuniziert mit seinen Artgenossen, indem es mit dem Licht an seinem Hinterteil blinkt. Es liebt den süßen Duft von Illumise.
 ZKN_VIOLET_0314_000	Es veranlasst Volbeat dazu, Zeichen in den Nachthimmel zu malen. Manche Forscher untersuchen die Bedeutung dieser Muster.
 ZKN_VIOLET_0315_000	
@@ -35963,9 +36119,9 @@ ZKN_VIOLET_0324_000	Kohle ist die Quelle seiner Energie. Es lebt daher meist in 
 ZKN_VIOLET_0325_000	Es nutzt seinen Schweif als Sprungfeder, um sein Herz am Pumpen zu halten. Hört es auf zu springen, stirbt es.
 ZKN_VIOLET_0326_000	Mit schwarzen Perlen verstärkt es seine Psycho- Kräfte. Es kontrolliert seine Gegner mit seltsamen Tanzschritten.
 ZKN_VIOLET_0327_000	
-ZKN_VIOLET_0328_000	
-ZKN_VIOLET_0329_000	
-ZKN_VIOLET_0330_000	
+ZKN_VIOLET_0328_000	Es gräbt im Sand und zermalmt dabei mit seinem großen Kiefer störende Felsen. Sein Bau hat die Form eines Trichters.
+ZKN_VIOLET_0329_000	Durch gewaltiges Schlagen seiner Flügel entstehen Ultraschallwellen. Ohnmächtig gewordene Beute löst es mittels Säure auf.
+ZKN_VIOLET_0330_000	Mit den Flügeln erzeugt es Töne, die wie Gesang klingen. Wer so in seinen Bann gerät, wird von einem Sandsturm umgeben und zu seiner Beute.
 ZKN_VIOLET_0331_000	Dieses Pokémon lebt an trockenen Orten mit wenig Niederschlag. Seine gelbe Blume blüht ein Mal im Jahr.
 ZKN_VIOLET_0332_000	Es lebt in der Wüste. Nachts wird es aktiv und jagt nach Beute, die von der Hitze, die tagsüber herrscht, erschöpft ist.
 ZKN_VIOLET_0333_000	Es kann nicht entspannen, solange es selbst oder seine Umgebung dreckig sind. Wenn es Schmutz bemerkt, wischt es diesen mit seinen Flügeln weg.
@@ -36017,9 +36173,9 @@ ZKN_VIOLET_0371_000	Es liegt wohl an den Erbinformationen in seinen Genen, dass 
 ZKN_VIOLET_0372_000	Von ihm prallen jegliche Angriffe ab. Sein Körper ist allerdings derart solide und schwer, dass seine Bewegungen dadurch etwas träge werden.
 ZKN_VIOLET_0373_000	Wenn es wütend ist, gerät es außer Kontrolle. Es zerstört alles mit seinen Klauen und mit Feuer.
 ZKN_VIOLET_0373_001	
-ZKN_VIOLET_0374_000	
-ZKN_VIOLET_0375_000	
-ZKN_VIOLET_0376_000	
+ZKN_VIOLET_0374_000	Seine Zellen sind magnetisch geladen. Es setzt magnetische Impulse frei, um mit Artgenossen zu kommunizieren.
+ZKN_VIOLET_0375_000	Es liebt Mineralien, die Magnetfelder erzeugen, weshalb es Nasgnet mit einem Tempo von 100 km/h hinterherjagt.
+ZKN_VIOLET_0376_000	Mit seinen vier Beinkrallen und dem massigen Körper drückt es seine Beute zu Boden und zerkaut sie dann mit seinen Zähnen am Bauch.
 ZKN_VIOLET_0376_001	
 ZKN_VIOLET_0377_000	
 ZKN_VIOLET_0378_000	
@@ -36039,15 +36195,15 @@ ZKN_VIOLET_0386_000
 ZKN_VIOLET_0386_001	
 ZKN_VIOLET_0386_002	
 ZKN_VIOLET_0386_003	
-ZKN_VIOLET_0387_000	
-ZKN_VIOLET_0388_000	
-ZKN_VIOLET_0389_000	
-ZKN_VIOLET_0390_000	
-ZKN_VIOLET_0391_000	
-ZKN_VIOLET_0392_000	
-ZKN_VIOLET_0393_000	
-ZKN_VIOLET_0394_000	
-ZKN_VIOLET_0395_000	
+ZKN_VIOLET_0387_000	Es badet im Sonnenlicht und betreibt dabei mit dem ganzen Körper Fotosynthese. Sein Panzer besteht aus hartem Lehm.
+ZKN_VIOLET_0388_000	Es weiß, wo es reinstes Quellwasser finden kann. Pokémon, mit denen es sich angefreundet hat, trägt es auf seinem Rücken dorthin.
+ZKN_VIOLET_0389_000	Manche Pokémon werden auf dem Rücken eines Chelterrar geboren und verbringen ihr ganzes Leben dort.
+ZKN_VIOLET_0390_000	An seinem Hinterteil verbrennt es Gase, die im Bauch produziert werden. Geht es Panflam schlecht, leuchtet seine Flamme weniger hell.
+ZKN_VIOLET_0391_000	Je intensiver das Blau seiner Gesichtszeichnung und je größer das Feuer an seinem Schweif, desto höher ist sein Rang in der Gruppe.
+ZKN_VIOLET_0392_000	Es nutzt einzigartige Kampftechniken, bei denen es seine Hände und Füße in Flammen hüllt, und stellt sich damit jedem Gegner.
+ZKN_VIOLET_0393_000	Plinfa hasst es, wenn man sich um es kümmert. Es ist schwer, Vertrauen zu ihm aufzubauen, da es den Befehlen seines Trainers nicht gehorcht.
+ZKN_VIOLET_0394_000	Jedes Pliprin geht davon aus, dass es das wichtigste ist. Daher können sie keine Gruppen bilden.
+ZKN_VIOLET_0395_000	Es vermeidet unnötige Kämpfe. Ist jedoch die Sicherheit seiner Gruppe in Gefahr, zeigt es sich unerbittlich.
 ZKN_VIOLET_0396_000	Einzeln sind sie schwach, daher bilden sie Schwärme. Werden diese jedoch zu groß, zanken sie sich.
 ZKN_VIOLET_0397_000	Es neigt dazu, sich in großen Schwärmen zu bewegen. Zwischen diesen kommt es zu heftigen Kämpfen.
 ZKN_VIOLET_0398_000	Selbst mit einer Verletzung greift es immer weiter an. Es legt großen Wert auf das Aussehen seines Kamms.
@@ -36060,10 +36216,10 @@ ZKN_VIOLET_0404_000	Verbindet es seinen Schweif mit dem eines Artgenossen, könn
 ZKN_VIOLET_0405_000	Beim Aufspüren von Gefahren ist Luxtras Röntgenblick äußerst hilfreich.
 ZKN_VIOLET_0406_000	
 ZKN_VIOLET_0407_000	
-ZKN_VIOLET_0408_000	
-ZKN_VIOLET_0409_000	
-ZKN_VIOLET_0410_000	
-ZKN_VIOLET_0411_000	
+ZKN_VIOLET_0408_000	Indem sie ihre robusten Schädel aufeinander- prallen lassen, machen Koknodon sie noch härter.
+ZKN_VIOLET_0409_000	Selbst wenn sie mit den Köpfen heftig zusammenstoßen, verhindern ihre 30 cm dicken Schädel, dass sie ohnmächtig werden.
+ZKN_VIOLET_0410_000	Man nimmt an, dass es dank seines gepanzerten Gesichts kaum Feinde hatte. Es lebte vor Urzeiten im Dschungel.
+ZKN_VIOLET_0411_000	Wird ihre Herde attackiert, stellen sich Bollterus Seite an Seite auf, um mit ihren harten Gesichtern die Angriffe des Feindes abzuwehren.
 ZKN_VIOLET_0412_000	
 ZKN_VIOLET_0412_001	
 ZKN_VIOLET_0412_002	
@@ -36129,17 +36285,17 @@ ZKN_VIOLET_0460_001
 ZKN_VIOLET_0461_000	Sie sind immer zu viert oder fünft unterwegs. Bei der Jagd arbeiten sie zusammen, indem sie Zeichen in Felsen und Bäume ritzen.
 ZKN_VIOLET_0462_000	Ein besonderes Magnetfeld ordnete Magnetons Moleküle neu und es entwickelte sich zu Magnezone.
 ZKN_VIOLET_0463_000	
-ZKN_VIOLET_0464_000	
+ZKN_VIOLET_0464_000	Sein Gehirn mag zwar noch kleiner sein als das von Rizeros, aber dafür investiert es umso mehr Energie in den Kampf. Deshalb ist es sehr stark.
 ZKN_VIOLET_0465_000	
-ZKN_VIOLET_0466_000	
-ZKN_VIOLET_0467_000	
+ZKN_VIOLET_0466_000	Es berührt Gegner mit seinen Schweifspitzen, um dann augenblicklich Starkstrom mit einer Spannung von über 20 000 V zu entladen.
+ZKN_VIOLET_0467_000	Es lebt in Vulkankratern. Angeblich gibt es pro Vulkan immer nur ein Magbrant-Paar.
 ZKN_VIOLET_0468_000	
 ZKN_VIOLET_0469_000	Die Kraft seines Kiefers ist unglaublich. Es kann Gegner zerbeißen, während es mit hoher Geschwindigkeit an ihnen vorbeifliegt.
 ZKN_VIOLET_0470_000	Je jünger sie sind, desto stärker riechen sie nach frischem Gras. Wenn sie älter werden, verströmen sie den Geruch von herabgefallenem Laub.
 ZKN_VIOLET_0471_000	Wenn es seine Körpertemperatur senkt, erstarren die Haare seines Fells zu Eis und dienen ihm als nadelartige Geschosse.
 ZKN_VIOLET_0472_000	Skorgro fliegt lautlos durch die Luft. Beute fängt es mit seinem langen Schwanz, ehe es mit seinen Fangzähnen ihre Schwachstelle attackiert.
 ZKN_VIOLET_0473_000	Ein gefrorenes Exemplar wurde aus 10 000 Jahre altem Erdreich ausgegraben. Dass es obendrein erwachte, erregte viel Aufsehen.
-ZKN_VIOLET_0474_000	
+ZKN_VIOLET_0474_000	Es wurde umprogrammiert, um auch in anderen Dimensionen einsatzfähig zu sein. Dies verlief jedoch nicht so wie geplant.
 ZKN_VIOLET_0475_000	Da es selbst die leisesten Gedanken seines Gegners lesen kann, kann es immer zuerst angreifen.
 ZKN_VIOLET_0475_001	
 ZKN_VIOLET_0476_000	Es strahlt eine starke magnetische Kraft aus, weshalb Elektrogeräte in seiner Nähe unbrauchbar werden.
@@ -36185,15 +36341,15 @@ ZKN_VIOLET_0493_015
 ZKN_VIOLET_0493_016	
 ZKN_VIOLET_0493_017	
 ZKN_VIOLET_0494_000	
-ZKN_VIOLET_0495_000	
-ZKN_VIOLET_0496_000	
-ZKN_VIOLET_0497_000	
-ZKN_VIOLET_0498_000	
-ZKN_VIOLET_0499_000	
-ZKN_VIOLET_0500_000	
-ZKN_VIOLET_0501_000	
-ZKN_VIOLET_0502_000	
-ZKN_VIOLET_0503_000	
+ZKN_VIOLET_0495_000	Es schließt sich nicht gern zu Gruppen zusammen. Statt seiner kurzen Arme nutzt es im Alltag seine Ranken, die es geschickt kontrollieren kann.
+ZKN_VIOLET_0496_000	Sein übermäßiger Stolz ist sein einziger Makel. Es braucht Zeit, bis es mit anderen Pokémon zusammenarbeiten kann.
+ZKN_VIOLET_0497_000	Dank seines würdevollen Aussehens und seines stechenden Blicks, der andere erstarren lässt, nennt man es auch den „Herrscher des Waldes“.
+ZKN_VIOLET_0498_000	Dieser gierige Nimmersatt spürt Nahrung mit seinem ausgezeichneten Geruchssinn auf und röstet diese, bevor er sie verspeist.
+ZKN_VIOLET_0499_000	Es hat die Kraft, jedem noch so starken Gegner entgegenzutreten, um seine Freunde zu schützen. Doch gegen seinen leeren Magen ist es machtlos.
+ZKN_VIOLET_0500_000	Je größer die Gefahr, desto mehr Spaß scheint es zu haben. Die Flammen an seinem Hals lodern dann auf und es wird stärker sowie schneller.
+ZKN_VIOLET_0501_000	Angeblich fing es an, seine Muschel mit Steinen aus Flüssen in Stand zu halten, nachdem es sah, wie Menschen Wetzsteine nutzen.
+ZKN_VIOLET_0502_000	Es ist fleißig und diszipliniert. Durch regelmäßiges sowie hingebungsvolles Training hat es sich die Handhabung seiner Muscheln zu eigen gemacht.
+ZKN_VIOLET_0503_000	Es ist ein strenger Anführer. Wer die Regeln der Gruppe nicht befolgt, wird erbarmungslos niedergeschlagen.
 ZKN_VIOLET_0504_000	
 ZKN_VIOLET_0505_000	
 ZKN_VIOLET_0506_000	
@@ -36213,15 +36369,15 @@ ZKN_VIOLET_0519_000
 ZKN_VIOLET_0520_000	
 ZKN_VIOLET_0521_000	
 ZKN_VIOLET_0521_001	
-ZKN_VIOLET_0522_000	
-ZKN_VIOLET_0523_000	
+ZKN_VIOLET_0522_000	Es bevorzugt Gebiete, in denen häufig Blitze einschlagen. Diese fängt es mit seiner Mähne, um ihre Energie in seinem Körper zu horten.
+ZKN_VIOLET_0523_000	Hören sie Donnergrollen, jagen sie in der Herde den Gewitterwolken hinterher, damit die Elezeba in ihren Reihen daraus Strom tanken können.
 ZKN_VIOLET_0524_000	
 ZKN_VIOLET_0525_000	
 ZKN_VIOLET_0526_000	
 ZKN_VIOLET_0527_000	
 ZKN_VIOLET_0528_000	
-ZKN_VIOLET_0529_000	
-ZKN_VIOLET_0530_000	
+ZKN_VIOLET_0529_000	Es führt seine beiden Klauen zusammen, dreht sich rasend schnell um die eigene Achse und gräbt sich ratzfatz durch das Erdreich.
+ZKN_VIOLET_0530_000	Seine zu Stahl weiterentwickelten Bohrer sind kräftig genug, um Eisenplatten zu durchbohren. Beim Tunnelbau ist es sehr hilfreich.
 ZKN_VIOLET_0531_000	
 ZKN_VIOLET_0531_001	
 ZKN_VIOLET_0532_000	Es kämpft, indem es einen Holzbalken schwingt. Fällt es ihm leicht, den schweren Balken zu tragen, ist seine Entwicklung nah.
@@ -36238,8 +36394,8 @@ ZKN_VIOLET_0542_000	Matrifol schneidert Kleidung aus Blättern. Es ist friedfert
 ZKN_VIOLET_0543_000	
 ZKN_VIOLET_0544_000	
 ZKN_VIOLET_0545_000	
-ZKN_VIOLET_0546_000	
-ZKN_VIOLET_0547_000	
+ZKN_VIOLET_0546_000	Wird es angegriffen, verstreut es zur Täuschung Watte. Es flieht, während der Gegner nach dem wahren Waumboll sucht.
+ZKN_VIOLET_0547_000	Über Luftzüge dringt es in Häuser ein, verstreut in allen Zimmern Watte und macht sich dann lächelnd davon.
 ZKN_VIOLET_0548_000	Wenn man ab und zu seine Blätter schneidet, wächst sein Körper rund und prächtig heran.
 ZKN_VIOLET_0549_000	Egal, wie viel Mühe und Geld investiert wird, sein Blumenschmuck ist wild gewachsen immer schöner als von Menschenhand gezüchtet.
 ZKN_VIOLET_0550_000	Es ist so brutal, dass man es „Rowdy des Flusses“ nennt. Dennoch wird es bisweilen von Pokémon wie Heerashai und Adebom als Beute gejagt.
@@ -36257,8 +36413,8 @@ ZKN_VIOLET_0555_003
 ZKN_VIOLET_0556_000	
 ZKN_VIOLET_0557_000	
 ZKN_VIOLET_0558_000	
-ZKN_VIOLET_0559_000	
-ZKN_VIOLET_0560_000	
+ZKN_VIOLET_0559_000	Es hat einen dicken Schädel und versetzt jedem, mit dem sich sein Blick kreuzt, unvermittelt eine Kopfnuss.
+ZKN_VIOLET_0560_000	Dieses Pokémon ist ungestüm, doch sein Rudel, seine Familie und sein Revier liegen ihm sehr am Herzen.
 ZKN_VIOLET_0561_000	
 ZKN_VIOLET_0562_000	
 ZKN_VIOLET_0562_001	
@@ -36272,14 +36428,14 @@ ZKN_VIOLET_0569_000
 ZKN_VIOLET_0569_999	
 ZKN_VIOLET_0570_000	Es schützt sich vor Gefahren, indem es seine wahre Gestalt geheim hält und sich in Menschen oder andere Pokémon verwandelt.
 ZKN_VIOLET_0571_000	Es kann auf einen Schlag große Massen von Menschen täuschen und kreiert Illusionen, um sein Revier zu schützen.
-ZKN_VIOLET_0572_000	
-ZKN_VIOLET_0573_000	
+ZKN_VIOLET_0572_000	Dieses Pokémon hat einen Putzfimmel. Es benutzt seinen Schweif als Staubwedel und fegt seinen Bau, bis alles picobello ist.
+ZKN_VIOLET_0573_000	Aus seinem Körper tritt besonders schmieriges Öl aus, das für Menschen, die unter trockener Haut leiden, von großem Nutzen ist.
 ZKN_VIOLET_0574_000	Die schleifenförmigen Fühler, mit denen es seine Psycho-Kräfte kontrolliert, sollte man nicht berühren, da es sonst heftig zu weinen beginnt.
 ZKN_VIOLET_0575_000	Mit seinen Psycho-Kräften ordnet es Kieselsteine zu Sternbildern an. Manche Menschen glauben, es sei aus dem Weltall gekommen.
 ZKN_VIOLET_0576_000	Es betrachtet die Sterne, um in die Zukunft zu blicken. Da es das Ende aller Dinge kennt, verhält es sich etwas distanziert.
-ZKN_VIOLET_0577_000	
-ZKN_VIOLET_0578_000	
-ZKN_VIOLET_0579_000	
+ZKN_VIOLET_0577_000	Es wehrt Angreifer ab, indem es Psycho-Kräfte freisetzt. Mit Artgenossen kommuniziert es telepathisch.
+ZKN_VIOLET_0578_000	Kommen beide Hälften seines gespaltenen Denkapparates auf dieselbe Idee, entfesselt sich seine volle Kraft.
+ZKN_VIOLET_0579_000	Fassen sich Zytomega bei den Händen, verbinden sich ihre Denkapparate zu einem Netzwerk und ihre Psycho-Kräfte werden verstärkt.
 ZKN_VIOLET_0580_000	Auf der Suche nach Torfmoos, seiner Nahrung, schwimmt es tief unten in Teichen umher und stählt so seinen Körper.
 ZKN_VIOLET_0581_000	Der bezaubernde Tanz, den dieses Pokémon bei Dämmerung aufführt, soll schon vielen Künstlern als Inspiration gedient haben.
 ZKN_VIOLET_0582_000	
@@ -36303,8 +36459,8 @@ ZKN_VIOLET_0592_001
 ZKN_VIOLET_0593_000	
 ZKN_VIOLET_0593_001	
 ZKN_VIOLET_0594_000	Es treibt durch den Ozean. Um Mamolida versammeln sich stets viele Wasser-Pokémon.
-ZKN_VIOLET_0595_000	
-ZKN_VIOLET_0596_000	
+ZKN_VIOLET_0595_000	Da es selbst keinen Strom erzeugen kann, heftet es sich an größere Pokémon, um ihnen statische Elektrizität abzusaugen.
+ZKN_VIOLET_0596_000	Wird es angegriffen, spuckt es mit vielen elektrisch geladenen Fäden um sich und baut sich eine Elektrobarriere.
 ZKN_VIOLET_0597_000	
 ZKN_VIOLET_0598_000	
 ZKN_VIOLET_0599_000	
@@ -36331,8 +36487,8 @@ ZKN_VIOLET_0618_001
 ZKN_VIOLET_0619_000	Mit seiner Gruppe zieht es sich tief in die Berge zurück, um dort zu trainieren. Jede der Gruppen entwickelt eigene Schlag- und Tritt-Techniken.
 ZKN_VIOLET_0620_000	Niemand kann es aufhalten, wenn es das Fell an seinen Armen geschickt wie Peitschen einsetzt, um eine Angriffsserie zu starten.
 ZKN_VIOLET_0621_000	
-ZKN_VIOLET_0622_000	
-ZKN_VIOLET_0623_000	
+ZKN_VIOLET_0622_000	Es wird seit uralten Zeiten durch eine Energie rätselhaften Ursprungs angetrieben. Manche gehen davon aus, dass diese bald erschöpft ist.
+ZKN_VIOLET_0623_000	Ein uraltes Volk erschuf es als Hüter von Pokémon und Menschen. Es wird durch eine rätselhafte Energie angetrieben.
 ZKN_VIOLET_0624_000	Nach jedem Kampf pflegt es seine Klingen sorgfältig mit seinem Lieblingswetzstein. Schartige Klingen könnten seinen Tod bedeuten.
 ZKN_VIOLET_0625_000	Mit den scharfen Klingen an seinem Körper hackt es Gegner gnadenlos in Stücke. Um den Sieg zu erringen, ist ihm jedes Mittel recht.
 ZKN_VIOLET_0626_000	
@@ -36370,15 +36526,15 @@ ZKN_VIOLET_0649_001
 ZKN_VIOLET_0649_002	
 ZKN_VIOLET_0649_003	
 ZKN_VIOLET_0649_004	
-ZKN_VIOLET_0650_000	
-ZKN_VIOLET_0651_000	
-ZKN_VIOLET_0652_000	
-ZKN_VIOLET_0653_000	
-ZKN_VIOLET_0654_000	
-ZKN_VIOLET_0655_000	
-ZKN_VIOLET_0656_000	
-ZKN_VIOLET_0657_000	
-ZKN_VIOLET_0658_000	
+ZKN_VIOLET_0650_000	Wenn es viele Beeren frisst, wird die Baumrinde, die seinen Kopf und Körper bedeckt, dadurch robuster.
+ZKN_VIOLET_0651_000	Selbst ein starker Zusammenprall macht ihm nichts aus, da es schmerzunempfindlich ist. Es kann mit nur einem Stoß Fahrzeuganhänger wegschleudern.
+ZKN_VIOLET_0652_000	Dieses friedliche Pokémon geht Streit aus dem Weg, doch wenn es sein muss, schlägt es Gegner mit seinen stacheligen Fäusten nieder.
+ZKN_VIOLET_0653_000	Zweige sind ein Snack für Fynx. Wenn es auf ihnen herumkaut, fasst es den Mut, sich starken Gegnern entgegenzustellen.
+ZKN_VIOLET_0654_000	Es entzündet seinen Zweig beim Herausziehen aus dem Schweif und nutzt diese Flamme, um mächtige Attacken zu befeuern.
+ZKN_VIOLET_0655_000	Es kontrolliert Flammen mithilfe von Telekinese und hüllt Gegner in 3000 ℃ heiße Wirbel aus Feuer, die sie zu Asche verbrennen.
+ZKN_VIOLET_0656_000	Es nutzt seine herausragende Sprungkraft, um elastische Blasen über den Köpfen seiner Gegner abzuwerfen und diese so zum Narren zu halten.
+ZKN_VIOLET_0657_000	Mit den Finger- und Zehenspitzen kann es sich an Wände heften und so selbst hohe Gebäude in Windeseile emporklettern.
+ZKN_VIOLET_0658_000	Aus dem Schleim, der aus seinen Oberschenkeln dringt, formt es Wurfsterne, die selbst Stahldraht mit Leichtigkeit durchtrennen können.
 ZKN_VIOLET_0658_001	
 ZKN_VIOLET_0658_002	
 ZKN_VIOLET_0659_000	
@@ -36478,9 +36634,9 @@ ZKN_VIOLET_0676_006
 ZKN_VIOLET_0676_007	
 ZKN_VIOLET_0676_008	
 ZKN_VIOLET_0676_009	
-ZKN_VIOLET_0677_000	
-ZKN_VIOLET_0678_000	
-ZKN_VIOLET_0678_001	
+ZKN_VIOLET_0677_000	Sein Gesicht ist ausdruckslos, aber innerlich bringt es enorme Anstrengung auf, um seine Psycho-Kräfte unter Kontrolle zu halten.
+ZKN_VIOLET_0678_000	Lässt es seinen starken Psycho-Kräften für längere Zeit freien Lauf, fügen diese auch seinem eigenen Körper Schaden zu.
+ZKN_VIOLET_0678_001	Wenn es Gefahr wittert, setzt es die maximale Ladung seiner Psycho-Kräfte frei. Auf Gegner nimmt es keine Rücksicht.
 ZKN_VIOLET_0679_000	
 ZKN_VIOLET_0680_000	
 ZKN_VIOLET_0681_000	
@@ -36489,8 +36645,8 @@ ZKN_VIOLET_0682_000
 ZKN_VIOLET_0683_000	
 ZKN_VIOLET_0684_000	
 ZKN_VIOLET_0685_000	
-ZKN_VIOLET_0686_000	
-ZKN_VIOLET_0687_000	
+ZKN_VIOLET_0686_000	Steht es kopf, wird seine Blutzirkulation angeregt und sein Verstand geschärft, was die Stärke seiner Psycho-Attacken deutlich ansteigen lässt.
+ZKN_VIOLET_0687_000	Es lässt das Muster auf seinem Körper blinken, um seine Gegner zu hypnotisieren und sie so nach Belieben kontrollieren zu können.
 ZKN_VIOLET_0688_000	
 ZKN_VIOLET_0689_000	
 ZKN_VIOLET_0690_000	Es ist ein miserabler Schwimmer. Gerät es in einen heftigen Sturm und wird weit weggespült, kann es mitunter nicht mehr nach Hause zurückkehren.
@@ -36538,18 +36694,18 @@ ZKN_VIOLET_0719_001
 ZKN_VIOLET_0720_000	
 ZKN_VIOLET_0720_001	
 ZKN_VIOLET_0721_000	
-ZKN_VIOLET_0722_000	
-ZKN_VIOLET_0723_000	
-ZKN_VIOLET_0724_000	
-ZKN_VIOLET_0725_000	
-ZKN_VIOLET_0726_000	
-ZKN_VIOLET_0727_000	
-ZKN_VIOLET_0728_000	
-ZKN_VIOLET_0729_000	
-ZKN_VIOLET_0730_000	
-ZKN_VIOLET_0731_000	
-ZKN_VIOLET_0732_000	
-ZKN_VIOLET_0733_000	
+ZKN_VIOLET_0722_000	An engen, dunklen Orten fühlt es sich wohl. Manchmal schlüpft es in die Jacke oder den Beutel des Trainers und nutzt diese als Nest.
+ZKN_VIOLET_0723_000	Es wirft „Flügelklingen“ genannte messerscharfe Federn nach Feind und Beute. Dabei erreicht es eine nahezu hundertprozentige Trefferquote.
+ZKN_VIOLET_0724_000	Es legt seine Federpfeile an, um sie auf Gegner zu schießen. Muss ein Schuss sitzen, zieht es zur Fokussierung an den Ranken an seinem Hals.
+ZKN_VIOLET_0725_000	Es speit Feuer, indem es die Haare verbrennt, die sich bei der Fellpflege in seinem Bauch anhäufen. Die Flammen variieren je nach Art des Speiens.
+ZKN_VIOLET_0726_000	Zutrauliche Miezunder schmiegen sich zwar an ihren Trainer an, da sie aber stark und ihre Krallen scharf sind, erleidet dieser überall Kratzwunden.
+ZKN_VIOLET_0727_000	Nach einer Reihe heftiger Schläge und Tritte schießt es Feuer aus seinem Bauchnabel, um dem Gegner den Garaus zu machen.
+ZKN_VIOLET_0728_000	Dank seines täglichen Trainings gelingt es ihm, mit seiner Nase immer größere Blasen zu erzeugen.
+ZKN_VIOLET_0729_000	Das Wohlergehen seiner Freunde ist ihm sehr wichtig. Wenn sein Trainer schlechte Laune hat, versucht es, ihn mit einem Tänzchen aufzuheitern.
+ZKN_VIOLET_0730_000	Der Anblick, wenn es in mondhellen Nächten singt und seine Kolonie anführt, ist magisch. Es wird auch Primadonna genannt.
+ZKN_VIOLET_0731_000	Selbst wenn sein Kopf heftig durchgerüttelt wird, schadet ihm das dank seiner starken Halsmuskeln überhaupt nicht.
+ZKN_VIOLET_0732_000	Trifft es auf Feinde, feuert es eine Salve Samen, die es in seinem Schnabel angesammelt hat, auf sie ab.
+ZKN_VIOLET_0733_000	Tukanon-Pärchen erhöhen die Temperatur ihrer Schnäbel, um sich gegenseitig zu wärmen. Daher gelten sie als Symbol für Harmonie.
 ZKN_VIOLET_0734_000	Wenn es nicht gerade schläft, ist es ständig auf der Suche nach Nahrung. Hat es Hunger, nimmt seine Grausamkeit zu.
 ZKN_VIOLET_0735_000	Spuren potenzieller Beute beharrlich zu folgen, ist seine Spezialität. Es jagt aber ungern Raffel, da sie ihm keine Herausforderung bieten.
 ZKN_VIOLET_0735_001	
@@ -36577,8 +36733,8 @@ ZKN_VIOLET_0747_000	Es hat beeindruckende regenerative Kräfte. Von ihm abgefall
 ZKN_VIOLET_0748_000	Aggrostella kämpft mit Knirfish erbittert um Gebiete mit warmer Meeresströmung, doch es ist meist im Nachteil.
 ZKN_VIOLET_0749_000	Es bewegt sich zwar langsam, ist aber sehr kräftig. Sein Gang ändert sich auch dann nicht, wenn es das Fünfzigfache seines eigenen Gewichts trägt.
 ZKN_VIOLET_0750_000	Durch Schlamm werden seine Beine härter als Stein. Mit einem einzigen Tritt kann es selbst große Lastwagen verschrotten.
-ZKN_VIOLET_0751_000	
-ZKN_VIOLET_0752_000	
+ZKN_VIOLET_0751_000	Araqua stützt die Wasserblase, die seinen Kopf einhüllt, mit dreien seiner Beine. Manchmal wechselt es diese heimlich.
+ZKN_VIOLET_0752_000	Es verschießt klebrige Wasserblasen, um Feinde darin einzuschließen. Werden diese bewusstlos, zerlegt es sie mit seinem großen Mundwerkzeug.
 ZKN_VIOLET_0752_001	
 ZKN_VIOLET_0753_000	Viele Trainer geben Imantis einen eigenen Blumentopf, damit es ungestört sonnenbaden kann.
 ZKN_VIOLET_0754_000	Es ist äußerst zeitaufwendig, seine strahlende Blütenfarbe aufrechtzuerhalten. Dieses Pokémon erfordert daher viel Hingabe von seinem Trainer.
@@ -36593,7 +36749,7 @@ ZKN_VIOLET_0760_000
 ZKN_VIOLET_0761_000	Sein süßer Duft lockt oft Schlaraffel an, die Frubberl dann zusammen mit Beeren in ihren Schweif packen und forttragen.
 ZKN_VIOLET_0762_000	Es hüpft fröhlich durch den Wald. Zerreibt man die von ihm abgefallene Schale, kann man daraus Medizin gewinnen, die Bauchschmerzen lindert.
 ZKN_VIOLET_0763_000	Mit seinen langen Beinen verteilt es anmutige, doch zugleich auch unerbittliche Tritte. Zwischen ihm und Bailonda herrscht große Rivalität.
-ZKN_VIOLET_0764_000	
+ZKN_VIOLET_0764_000	Wenn es Blüten an sich trägt, ist es glücklich und strahlt mit diesen eine heilsame Wirkung aus. Es bevorzugt Gebiete mit vielen Blumen.
 ZKN_VIOLET_0765_000	Es lebt friedlich in den Tiefen des Waldes. Sein lilafarbenes, umhangähnliches Fell wird immer länger, je älter das Pokémon wird.
 ZKN_VIOLET_0766_000	Der Anführer wählt zehn Gruppenmitglieder aus, die auf die Jagd gehen und danach ihre Beute gerecht mit dem Rest der Gruppe teilen.
 ZKN_VIOLET_0767_000	
@@ -36620,20 +36776,20 @@ ZKN_VIOLET_0773_014
 ZKN_VIOLET_0773_015	
 ZKN_VIOLET_0773_016	
 ZKN_VIOLET_0773_017	
-ZKN_VIOLET_0774_000	
-ZKN_VIOLET_0774_001	
-ZKN_VIOLET_0774_002	
-ZKN_VIOLET_0774_003	
-ZKN_VIOLET_0774_004	
-ZKN_VIOLET_0774_005	
-ZKN_VIOLET_0774_006	
-ZKN_VIOLET_0774_007	
-ZKN_VIOLET_0774_008	
-ZKN_VIOLET_0774_009	
-ZKN_VIOLET_0774_010	
-ZKN_VIOLET_0774_011	
-ZKN_VIOLET_0774_012	
-ZKN_VIOLET_0774_013	
+ZKN_VIOLET_0774_000	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_001	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_002	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_003	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_004	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_005	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_006	Es scheint darauf zu reagieren, wenn es berührt oder angesprochen wird, aber man weiß nicht, ob es dies bewusst tut.
+ZKN_VIOLET_0774_007	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
+ZKN_VIOLET_0774_008	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
+ZKN_VIOLET_0774_009	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
+ZKN_VIOLET_0774_010	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
+ZKN_VIOLET_0774_011	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
+ZKN_VIOLET_0774_012	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
+ZKN_VIOLET_0774_013	Partikel in der Atmosphäre sind seine Nahrung. Man sagt, die Farbe seines Kerns hänge von den Inhaltsstoffen dieser Partikel ab.
 ZKN_VIOLET_0775_000	Verdünnt man Koalelus Speichel, so erhält man ein starkes Betäubungsmittel, das früher bei chirurgischen Eingriffen verwendet wurde.
 ZKN_VIOLET_0776_000	
 ZKN_VIOLET_0777_000	
@@ -36679,17 +36835,17 @@ ZKN_VIOLET_0807_000
 ZKN_VIOLET_0808_000	
 ZKN_VIOLET_0809_000	
 ZKN_VIOLET_0809_999	
-ZKN_VIOLET_0810_000	
-ZKN_VIOLET_0811_000	
-ZKN_VIOLET_0812_000	
+ZKN_VIOLET_0810_000	Wenn es mit seinem Schlägel auf allerhand Dinge eintrommelt, lässt es sich immer mehr mitreißen und sein Rhythmus wird immer schwungvoller.
+ZKN_VIOLET_0811_000	Verliert es sich in seinem wilden Beat, so kann es vorkommen, dass es die Befehle seines Trainers nicht mehr wahrnimmt.
+ZKN_VIOLET_0812_000	Wenn ein Gortrom den Anführer einer Gruppe herausfordert, entbrennt ein Trommelwettkampf. Der Gewinner führt ab dann die Gruppe an.
 ZKN_VIOLET_0812_999	
-ZKN_VIOLET_0813_000	
-ZKN_VIOLET_0814_000	
-ZKN_VIOLET_0815_000	
+ZKN_VIOLET_0813_000	Die Ballen an seinen Läufen werden aufgrund der Feuer-Energie, die sich dort sammelt, sehr heiß und können Gegnern großen Schaden zufügen.
+ZKN_VIOLET_0814_000	Vielfältige Tritt-Attacken sind sein ganzer Stolz, aber ein Stoß mit seiner Stirn, die durch sein Feuer erhitzt wurde, hat es ebenfalls in sich.
+ZKN_VIOLET_0815_000	Es erschafft einen Ball aus Flammen, mit dem es seine Gegner blendet und in Schach hält.
 ZKN_VIOLET_0815_999	
-ZKN_VIOLET_0816_000	
-ZKN_VIOLET_0817_000	
-ZKN_VIOLET_0818_000	
+ZKN_VIOLET_0816_000	Es ist extrem vorsichtig. Wenn sich ein Kampf nicht vermeiden lässt, greift es erst an, nachdem es sich getarnt hat.
+ZKN_VIOLET_0817_000	Es ist hochintelligent, aber zugleich lustlos und faul. Daher verteidigt es sein Revier, indem es Fallen aufstellt.
+ZKN_VIOLET_0818_000	Es präsentiert sich gern gesittet, aber im Herzen ist und bleibt es ein Faulpelz. Lässt sein Trainer es aus den Augen, gönnt es sich eine Auszeit.
 ZKN_VIOLET_0818_999	
 ZKN_VIOLET_0819_000	Egal, wie sehr es sich auch vollstopft, es lebt in ständiger Sorge vor dem nächsten Hungeranfall und hortet daher Beeren in Schweif und Backen.
 ZKN_VIOLET_0820_000	Sein Schweif ist etwa doppelt so lang wie sein Körper. Es umwickelt damit von Bäumen gefallene Beeren und trägt sie mit sich fort.
@@ -36756,16 +36912,16 @@ ZKN_VIOLET_0864_000
 ZKN_VIOLET_0865_000	
 ZKN_VIOLET_0866_000	
 ZKN_VIOLET_0867_000	
-ZKN_VIOLET_0868_000	
-ZKN_VIOLET_0869_000	
-ZKN_VIOLET_0869_001	
-ZKN_VIOLET_0869_002	
-ZKN_VIOLET_0869_003	
-ZKN_VIOLET_0869_004	
-ZKN_VIOLET_0869_005	
-ZKN_VIOLET_0869_006	
-ZKN_VIOLET_0869_007	
-ZKN_VIOLET_0869_008	
+ZKN_VIOLET_0868_000	Wenn es angegriffen wird, stürzt es sich auf den Feind. Ist dieser blind vor lauter Sahne oder verblüfft vom leckeren Geschmack, flieht es.
+ZKN_VIOLET_0869_000	Pokusan, die gut behandelt werden, produzieren besonders leckere Sahne. Trainer kümmern sich daher immer sehr liebevoll um diese Pokémon.
+ZKN_VIOLET_0869_001	Es wehrt sich gegen Angreifer, indem es sie mit seiner süßsauer schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_002	Es wehrt sich gegen Angreifer, indem es sie mit seiner aromatisch schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_003	Es wehrt sich gegen Angreifer, indem es sie mit seiner erfrischend schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_004	Es wehrt sich gegen Angreifer, indem es sie mit seiner säuerlich schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_005	Es wehrt sich gegen Angreifer, indem es sie mit seiner salzig schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_006	Es wehrt sich gegen Angreifer, indem es sie mit seiner vielseitig schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_007	Es wehrt sich gegen Angreifer, indem es sie mit seiner bitter schmeckenden Sahne bewirft.
+ZKN_VIOLET_0869_008	Es wehrt sich gegen Angreifer, indem es sie mit seiner komplex schmeckenden Sahne bewirft.
 ZKN_VIOLET_0869_999	
 ZKN_VIOLET_0870_000	Mit seinem ausfahrbaren Horn gibt der Anführer Befehle zur Formationsänderung.
 ZKN_VIOLET_0871_000	Es ist so furchtsam, dass es schon durch die bloße Berührung mit einer Alge vor Schreck Strom entlädt. Seine Lippen leiten keine Elektrizität.
@@ -36785,7 +36941,7 @@ ZKN_VIOLET_0880_000
 ZKN_VIOLET_0881_000	
 ZKN_VIOLET_0882_000	
 ZKN_VIOLET_0883_000	
-ZKN_VIOLET_0884_000	
+ZKN_VIOLET_0884_000	Sein metallener Körper ist robust, aber heizt sich schnell auf. Um einen Hitzestau zu verhindern, leitet es Wärme durch Schlitze im Schwanz ab.
 ZKN_VIOLET_0884_999	
 ZKN_VIOLET_0885_000	Es beißt sich oft an Scampisto fest, ohne dieses zu fressen. Das hält man für eine Angewohnheit aus einer Zeit, als Grolldra noch am Leben war.
 ZKN_VIOLET_0886_000	In der Lunge sammelt es Energie, die es dann abschießt. Es kümmert sich so lange um Grolldra, bis dieses ausgewachsen ist.
@@ -36928,8 +37084,8 @@ ZKN_VIOLET_1007_000	Es ähnelt Mopex, ist aber deutlich kräftiger und brutaler.
 ZKN_VIOLET_1007_001	
 ZKN_VIOLET_1008_000	Offenbar ist dies das Objekt Eisenschlange, das in einer alten Schrift erwähnt wurde. Es soll das Land mit Blitzen zu Asche verwandelt haben.
 ZKN_VIOLET_1008_001	
-ZKN_VIOLET_1009_000	Lebensweise wird untersucht.
-ZKN_VIOLET_1010_000	Lebensweise wird analysiert.
+ZKN_VIOLET_1009_000	Es ähnelt einer Illustration aus einer esoterischen Zeitschrift, die ein urzeitliches Suicune abbildet.
+ZKN_VIOLET_1010_000	Einigen wenigen Augenzeugenberichten zufolge hat dieses Pokémon mit seinen leuchtenden Schwertern riesige Bäume und Felsen zerkleinert.
 ZKN_VIOLET_0901_001	Dieses besondere Ursaluna schützt seinen Körper mit Schlamm, der mit der Zeit stahlhart wurde. Sein linkes Auge kann selbst im Dunkeln sehen.
 ZKN_VIOLET_1011_000	Im Apfel leben die sich gegenseitig helfenden „Kopfel“ und „Schwanzel“. Beim Ersten ragt der Kopf heraus, beim Zweiten der Schwanz.
 ZKN_VIOLET_1012_000	Es sieht aus wie eine Regionalform von Fatalitee, doch vor Kurzem fand man heraus, dass zwischen den beiden Pokémon keine Verbindung besteht.
@@ -36943,6 +37099,18 @@ ZKN_VIOLET_1017_000	Es liebt Streiche und steckt voller Neugier. Zum Kämpfen nu
 ZKN_VIOLET_1017_001	In dieser Form macht es sich die Kraft des Wassers zunutze. Mit Tritten und Rankenschlägen teilt es ohne Unterlass hart aus.
 ZKN_VIOLET_1017_002	In dieser Form macht es sich die Kraft des Feuers zunutze. Es verwendet seine dornige Ranke wie einen Speer, um Feinde zu durchbohren.
 ZKN_VIOLET_1017_003	In dieser Form macht es sich die Kraft des Gesteins zunutze. Mit seinem soliden Steinkörper schützt es sich vor Angriffen aller Art.
+ZKN_VIOLET_1018_000	Auf der Suche nach Futter gräbt es in den Bergen Löcher. Es ist so robust, dass es ihm auch nichts ausmacht, wenn diese über ihm einstürzen.
+ZKN_VIOLET_1019_000	Es entfaltet seine wahre Stärke, wenn sich die zusammenlebende launische Gruppe sogenannter „Schlangel“ ausnahmsweise mal einig ist.
+ZKN_VIOLET_1020_000	Es ähnelt einem fragwürdigen Pokémon, das von einer esoterischen Zeitschrift als ein aus einem Fossil wiedererwecktes Entei bezeichnet wurde.
+ZKN_VIOLET_1021_000	Es ähnelt einem Vorfahren von Raikou, der kurz Gesprächsthema Nummer eins war, nachdem eine esoterische Zeitschrift über ihn berichtet hatte.
+ZKN_VIOLET_1022_000	Es scheint einen Körper aus Metall zu haben. Seinen Namen erhielt es in Anlehnung an ein rätselhaftes Objekt aus einem alten Buch.
+ZKN_VIOLET_1023_000	Angeblich hat es mit den leuchtenden Klingen, die es abfeuert, seine Umgebung komplett verwüstet, aber mehr ist nicht über es bekannt.
+ZKN_VIOLET_1024_000	Es lebte im urzeitlichen Paldea, fiel jedoch den tektonischen Plattenbewegungen zum Opfer und galt als ausgestorben.
+ZKN_VIOLET_1024_001	Wird sein Terakristall-Panzer von einer gegnerischen Attacke getroffen, absorbiert es deren Energie und macht sie sich zu eigen.
+ZKN_VIOLET_1024_002	In einem alten Expeditionsbericht wird diese tief im Boden vergrabene Form mit einem im Weltall schwebenden Planeten verglichen.
+ZKN_VIOLET_0900_000	Dieses grobe, ungehobelte und aggressive Pokémon wirbelt wild mit seinen wuchtigen Äxten aus Stein, um Beute niederzustrecken.
+ZKN_VIOLET_0904_000	Es ist ungestüm und brutal. Die Spitzen seiner Giftstacheln sind gezackt, wodurch sie sich nach einem Stich nur schwer entfernen lassen.
+ZKN_VIOLET_0211_001	Es absorbiert die Toxine in seiner Nahrung. Seine auffällig lilafarbenen Stacheln sind ein Zeichen dafür, dass es voll von gefährlichem Gift steckt.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_x_deu.msbt
