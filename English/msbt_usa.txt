@@ -895,6 +895,11 @@ MONSNAME_890	Eternatus
 MONSNAME_891	Kubfu
 MONSNAME_892	Urshifu
 MONSNAME_893	Zarude
+MONSNAME_894	Regieleki
+MONSNAME_895	Regidrago
+MONSNAME_896	Glastrier
+MONSNAME_897	Spectrier
+MONSNAME_898	Calyrex
 
 ~~~~~~~~~~~~~~~
 Text File : place_name_spe_usa.msbt
@@ -1865,6 +1870,8 @@ sp_api_400_10309	You're already on the Premium Plan.
 sp_api_403_10310	Your purchase is being processed on the Nintendo Switch version of Pokémon HOME. Please complete your transaction there first.
 sp_api_403_10311	Your purchase is being processed on the mobile device version of Pokémon HOME on iOS. Please complete your transaction there first.
 sp_api_403_10312	Your purchase is being processed on the mobile device version of Pokémon HOME on Android. Please complete your transaction there first.
+sp_api_400_10320	The Premium Plan you have been using is currently paused. Please choose "Manage plan renewal" to check your account status.
+sp_api_400_10320_other	The Premium Plan you have been using for the mobile device version of Pokémon HOME on a different platform is currently paused. Please check your plan's status on that platform. Note: You can check your plan's status from "Manage plan renewal."
 sp_api_404_40407	Unable to find the Friend. Please check your Friend List.
 sp_api_500_10501	An error has occurred. Please wait a while and try again.
 sp_api_500_10504	Unable to find the trade room. Ending the trade...
@@ -1903,7 +1910,7 @@ sp_contentinfo_0001	Featured
 sp_contentinfo_0002	There's nothing being featured right now.
 sp_contentinfo_category_00	All
 sp_contentinfo_category_01	Video Games
-sp_contentinfo_category_02	Apps
+sp_contentinfo_category_02	Mobile Apps
 sp_contentinfo_category_03	Goods
 sp_contentinfo_category_04	Trading Card Game
 sp_contentinfo_category_05	Pokémon Centers
@@ -1911,19 +1918,6 @@ sp_contentinfo_category_06	Official Store
 sp_contentinfo_category_07	Pokémon TV
 sp_contentinfo_category_08	Events
 sp_contentinfo_category_09	Special Promotions
-sp_contentinfo_00001	
-sp_contentinfo_00002	
-sp_contentinfo_00003	
-sp_contentinfo_00004	
-sp_contentinfo_00005	
-sp_contentinfo_00006	
-sp_contentinfo_00007	
-sp_contentinfo_00008	
-sp_contentinfo_00009	
-sp_contentinfo_00010	
-sp_contentinfo_00011	
-sp_contentinfo_00012	
-sp_contentinfo_00013	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_country_usa.msbt
@@ -2215,6 +2209,12 @@ sp_option_country	Region
 sp_option_change_country	Since you've changed your region, you'll need to start this application again from the title screen.
 sp_option_transition_smartphone	Device Transfer
 sp_option_change	Change
+sp_option_filter_0001_vgo	Search Pokémon Boxes
+sp_option_filter_0002_vgo	Save Search Settings
+sp_option_filter_0003_vgo	The currently saved search settings for your Pokémon Boxes will be reset. Do you want to continue?
+sp_option_sort_0001_vgo	Sort Pokémon Boxes
+sp_option_sort_0002_vgo	Save Sorting Settings
+sp_option_sort_0003_vgo	The currently saved settings for sorting your Pokémon Boxes will be reset. Do you want to continue?
 sp_option_notice_00001	Receive notifications
 sp_option_notice_00005	Other
 sp_option_notice_00006	Notifications
@@ -2244,6 +2244,9 @@ sp_option_account_00023	Changing Nintendo Account...
 sp_option_account_00024	You can change which Nintendo Account your Pokémon HOME account is associated with.
 sp_option_account_00025	Change Nintendo Account
 sp_option_account_00026	You have changed your associated Nintendo Account. You'll be returned to the title screen.
+sp_option_account_00027_vgo	Please be aware that should you change your associated Nintendo Account, you will be unable to relink the original Nintendo Account.
+sp_option_account_00028_vgo	Once you switch the currently linked Nintendo Account to another Nintendo Account, you will be unable to use Pokémon HOME with the original Nintendo Account.  Are you sure you want to switch Nintendo Accounts?
+sp_option_account_00029_vgo	You can change to a Nintendo Account that has never been linked to Pokémon HOME before.
 sp_option_MONSNAME_722	Bulbasaur
 sp_option_MONSNAME_725	Charmander
 sp_option_MONSNAME_728	Squirtle
@@ -2304,11 +2307,9 @@ sp_option_nalink_0043_v2	Would you like to link the Nintendo Switch version of P
 sp_option_nalink_0044_v2	We were able to verify that the mobile device version of Pokémon HOME is being used on this Nintendo Account.
 sp_option_nalink_0045_v2	Please make sure the <u><b>Support ID displayed on the</b></u> <u><b>title screen</b></u> of the mobile device version of Pokémon HOME you've been using matches the ID displayed below.
 sp_option_nalink_0046_v2	Would you like to carry over your usage of the mobile device version of Pokémon HOME to this device and begin?
-sp_option_holohlo_0001_vgo	
-sp_option_holohlo_0002_vgo	
-sp_option_holohlo_0003_vgo	
-sp_option_holohlo_0004_vgo	
-sp_option_holohlo_0005_vgo	
+sp_option_holohlo_0001_vgo	Pokémon GO Link
+sp_option_holohlo_0004_vgo	Receive
+sp_option_holohlo_0005_vgo	Receive
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -2349,6 +2350,7 @@ sp_plan_android_pp	■ Disabling plan autorenewal Autorenewal can be disabled fr
 sp_plan_30_explanation_android_v2	Automatically renews every month (if applicable).
 sp_plan_90_explanation_android_v2	Automatically renews every three months (if applicable).
 sp_plan_365_explanation_android_v2	Automatically renews every 12 months (if applicable).
+sp_plan_recovered_notice_vgo	Plan renewal has been restored. You can check your plan by going to "Options," then "Check plan."
 
 ~~~~~~~~~~~~~~~
 Text File : sp_playerlog_usa.msbt
@@ -2391,7 +2393,8 @@ sp_playerlog_00036	Received as a first login reward
 sp_playerlog_00037	Pokémon chosen first
 sp_playerlog_00038	Earned Pokémon HOME Point(s)
 sp_playerlog_00039	Spent Pokémon HOME Point(s)
-sp_playerlog_00040_vgo	
+sp_playerlog_00040_vgo	Received from Pokémon GO
+sp_playerlog_00041_vgo	Number of transferred Pokémon
 sp_playerlog_empty_list	There is no information that can be displayed
 sp_playerlog_filter_category	Category
 sp_playerlog_sort_pokemon_leave	Deposited
@@ -2431,6 +2434,11 @@ sp_trade_00004	Wonder Box Rare Pokémon traded
 sp_trade_00006	Popular
 sp_trade_00007	Ranking rapidly increasing
 sp_trade_00008	Collecting information...
+sp_trade_00009_vgo	GTS
+sp_trade_00010_vgo	Popular Pokémon (excluding special Pokémon)
+sp_trade_00011_vgo	Popular Pokémon
+sp_trade_00012_vgo	Frequently traded Pokémon
+sp_trade_00013_vgo	Rare Pokémon traded
 sp_trade_01001	What do you want to do with [VAR_PKNAME]?
 sp_trade_01002	Summary
 sp_trade_01003	This Pokémon can't be selected, because it's deposited in the GTS.
@@ -2776,6 +2784,7 @@ sp_ui_operation	Operations
 sp_ui_delivery_receive	Mystery Gifts
 sp_ui_pokemon_out_in	Sync with game
 sp_ui_pokesmile	Pokémon HOME Points
+sp_ui_go	Pokémon GO Link
 sp_ui_date	Date
 sp_ui_deposit	Deposit
 sp_ui_withdrawal	Take out
@@ -2928,6 +2937,7 @@ sp_ui_report_10	Pokémon registered in Pokédex:
 sp_ui_report_11	Moves registered:
 sp_ui_report_12	Abilities registered:
 sp_ui_report_13	Stickers collected:
+sp_ui_report_14	Pokémon transferred from Pokémon GO:
 sp_ui_notice_tab_1	All
 sp_ui_notice_tab_2	Application
 sp_ui_notice_tab_3	Event
@@ -2957,23 +2967,30 @@ sp_ui_app_desc_0010_v3	Pokémon: Let’s Go, Pikachu! and Pokémon: Let’s Go, 
 sp_ui_app_desc_0011_v3	Only Pokémon that were caught in Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee! can be transferred to Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee!
 sp_ui_app_desc_0012_v3	Pokémon you've befriended in previous games in the Pokémon series can be sent to the Nintendo Switch version or mobile device version of Pokémon HOME by using Pokémon Bank.
 sp_ui_app_desc_0013_v3	You must have the Premium Plan (paid service) to transfer Pokémon from Pokémon Bank to Pokémon HOME. Pokémon Bank has a separate annual charge for usage.
-sp_ui_app_desc_0014_v3	
-sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0014_v3	Linking with Pokémon GO
+sp_ui_app_desc_0015_v3	Pokémon you've caught in Pokémon GO can be transferred to the Nintendo Switch version and mobile device version of Pokémon HOME.
 sp_ui_app_desc_0016_v3	Linking with Pokémon Sword and Pokémon Shield
 sp_ui_app_desc_0017_v3	Linking with Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee!
 sp_ui_app_desc_0018_v3	Once a Pokémon from Pokémon Bank is moved into Pokémon HOME, it cannot be moved back to Pokémon Bank.
 sp_ui_app_desc_0019_v3	Poké Miles from Pokémon Bank cannot be carried over into Pokémon HOME.
-sp_ui_link_go_0001_vgo	
-sp_ui_link_go_0002_vgo	
-sp_ui_transfer_accepting_head_vgo	
-sp_ui_transfer_complete_head_vgo	
-sp_ui_go_complete_body_vgo	
-sp_ui_go_info_vgo	
-sp_ui_go_over_capacity_bank_vgo	
-sp_ui_go_over_capacity_title_vgo	
-sp_ui_go_over_capacity_freebox_vgo	
-sp_ui_go_pokemon_list_vgo	
-sp_ui_transfer_pokemon_detail_vgo	
+sp_ui_app_desc_0020_vgo	In order to transfer Pokémon to Pokémon HOME from Pokémon GO, you must have both apps linked to the same Nintendo Account.
+sp_ui_app_desc_0021_vgo	You can't transfer Pokémon from Pokémon HOME to Pokémon GO.
+sp_ui_app_desc_0022_vgo	Some Pokémon in Pokémon GO can't be transferred to Pokémon HOME.
+sp_ui_app_desc_0023_vgo	The following games can take in Pokémon transferred from Pokémon GO to Pokémon HOME. - Pokémon Sword and Pokémon Shield
+sp_ui_app_desc_0024_vgo	In order to bring certain Pokémon that were caught in Pokémon GO and transferred to Pokémon HOME into another linked game, you must either have the Pokémon registered to your Pokédex in that linked game or have obtained the Pokémon at some point in that game.
+sp_ui_app_desc_0025_vgo	If you link Pokémon HOME with compatible games and services, you can bring your Pokémon friends from the main series of Pokémon games as well as Pokémon GO together in Pokémon HOME, and you can transfer your Pokémon from Pokémon HOME to certain other games. You can also trade Pokémon with Trainers around the world.
+sp_ui_link_go_0001_vgo	Pokémon GO Link
+sp_ui_link_go_0002_vgo	One or more Pokémon have been transferred from Pokémon GO.  Would you like to receive them?
+sp_ui_transfer_accept_vgo	Receive Pokémon
+sp_ui_transfer_accept_confirm_vgo	View transferred Pokémon
+sp_ui_transfer_complete_head_vgo	Pokémon received
+sp_ui_go_complete_body_vgo	You received the Pokémon from Pokémon GO!
+sp_ui_go_info_vgo	You can receive Pokémon transferred from Pokémon GO.
+sp_ui_go_over_capacity_bank_vgo	You don't have room for any more Pokémon in Pokémon HOME. Please make some space in your Boxes and try again.
+sp_ui_go_over_capacity_title_vgo	Not enough space
+sp_ui_go_pokemon_list_vgo	To Boxes
+sp_ui_transfer_failure_vgo	The attempt to receive the Pokémon failed. Please try again. Tap OK to return to the title screen.
+sp_ui_holoholo_trainer_name_vgo	Pokémon GO Trainer name
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt
@@ -3247,6 +3264,13 @@ TOKUSEIINFO_257	Protects the Pokémon and its ally Pokémon from being poisoned.
 TOKUSEIINFO_258	The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn.
 TOKUSEIINFO_259	Enables the Pokémon to move first occasionally.
 TOKUSEIINFO_260	If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself.
+TOKUSEIINFO_261	When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies.
+TOKUSEIINFO_262	Powers up Electric-type moves.
+TOKUSEIINFO_263	Powers up Dragon-type moves.
+TOKUSEIINFO_264	When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat.
+TOKUSEIINFO_265	When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat.
+TOKUSEIINFO_266	This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability.
+TOKUSEIINFO_267	This Ability combines the effects of both Calyrex's Unnerve Ability and Spectrier's Grim Neigh Ability.
 
 ~~~~~~~~~~~~~~~
 Text File : tokusei_usa.msbt
@@ -3512,6 +3536,13 @@ TOKUSEI_257	Pastel Veil
 TOKUSEI_258	Hunger Switch
 TOKUSEI_259	Quick Draw
 TOKUSEI_260	Unseen Fist
+TOKUSEI_261	Curious Medicine
+TOKUSEI_262	Transistor
+TOKUSEI_263	Dragon's Maw
+TOKUSEI_264	Chilling Neigh
+TOKUSEI_265	Grim Neigh
+TOKUSEI_266	As One
+TOKUSEI_267	As One
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_usa.msbt
@@ -4424,6 +4455,14 @@ WAZAINFO_815	The user throws scorching sand at the target to attack. This may al
 WAZAINFO_816	The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pokémon in battle.
 WAZAINFO_817	The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit.
 WAZAINFO_818	The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This attack always results in a critical hit.
+WAZAINFO_819	The user traps the target in a cage of sparking electricity for four to five turns.
+WAZAINFO_820	Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power.
+WAZAINFO_821	The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.
+WAZAINFO_822	The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.
+WAZAINFO_823	The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target's Defense stat.
+WAZAINFO_824	The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
+WAZAINFO_825	The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+WAZAINFO_826	The user attacks with its tremendous psychic power. This also removes 3 PP from the target's last move.
 
 ~~~~~~~~~~~~~~~
 Text File : wazaname_usa.msbt
@@ -5247,6 +5286,14 @@ WAZANAME_815	Scorching Sands
 WAZANAME_816	Jungle Healing
 WAZANAME_817	Wicked Blow
 WAZANAME_818	Surging Strikes
+WAZANAME_819	Thunder Cage
+WAZANAME_820	Dragon Energy
+WAZANAME_821	Freezing Glare
+WAZANAME_822	Fiery Wrath
+WAZANAME_823	Thunderous Kick
+WAZANAME_824	Glacial Lance
+WAZANAME_825	Astral Barrage
+WAZANAME_826	Eerie Spell
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_form_usa.msbt
@@ -6145,6 +6192,11 @@ ZKN_FORM_890_000
 ZKN_FORM_891_000	
 ZKN_FORM_892_000	Single Strike Style
 ZKN_FORM_893_000	
+ZKN_FORM_894_000	
+ZKN_FORM_895_000	
+ZKN_FORM_896_000	
+ZKN_FORM_897_000	
+ZKN_FORM_898_000	
 ZKN_FORM_003_001	Mega Venusaur
 ZKN_FORM_003_999	Gigantamax
 ZKN_FORM_006_001	Mega Charizard X
@@ -6208,9 +6260,13 @@ ZKN_FORM_133_001
 ZKN_FORM_133_999	Gigantamax
 ZKN_FORM_142_001	Mega Aerodactyl
 ZKN_FORM_143_999	Gigantamax
+ZKN_FORM_144_001	Galarian Form
+ZKN_FORM_145_001	Galarian Form
+ZKN_FORM_146_001	Galarian Form
 ZKN_FORM_150_001	Mega Mewtwo X
 ZKN_FORM_150_002	Mega Mewtwo Y
 ZKN_FORM_181_001	Mega Ampharos
+ZKN_FORM_199_001	Galarian Form
 ZKN_FORM_201_001	One form
 ZKN_FORM_201_002	One form
 ZKN_FORM_201_003	One form
@@ -6531,6 +6587,8 @@ ZKN_FORM_892_001	Rapid Strike Style
 ZKN_FORM_892_999	Gigantamax
 ZKN_FORM_892_998	Gigantamax
 ZKN_FORM_893_001	Dada
+ZKN_FORM_898_001	Ice Rider
+ZKN_FORM_898_002	Shadow Rider
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_usa.msbt
@@ -7429,6 +7487,11 @@ ZKN_HEIGHT_890_000	65'7"
 ZKN_HEIGHT_891_000	2'
 ZKN_HEIGHT_892_000	6'3"
 ZKN_HEIGHT_893_000	5'11"
+ZKN_HEIGHT_894_000	3'11"
+ZKN_HEIGHT_895_000	6'11"
+ZKN_HEIGHT_896_000	7'3"
+ZKN_HEIGHT_897_000	6'7"
+ZKN_HEIGHT_898_000	3'7"
 ZKN_HEIGHT_003_001	7'10"
 ZKN_HEIGHT_003_999	78'9"+
 ZKN_HEIGHT_006_001	5'7"
@@ -7492,9 +7555,13 @@ ZKN_HEIGHT_133_001
 ZKN_HEIGHT_133_999	59'1"+
 ZKN_HEIGHT_142_001	6'11"
 ZKN_HEIGHT_143_999	114'10"+
+ZKN_HEIGHT_144_001	5'7"
+ZKN_HEIGHT_145_001	5'3"
+ZKN_HEIGHT_146_001	6'7"
 ZKN_HEIGHT_150_001	7'7"
 ZKN_HEIGHT_150_002	4'11"
 ZKN_HEIGHT_181_001	4'7"
+ZKN_HEIGHT_199_001	5'11"
 ZKN_HEIGHT_201_001	1'8"
 ZKN_HEIGHT_201_002	1'8"
 ZKN_HEIGHT_201_003	1'8"
@@ -7815,6 +7882,8 @@ ZKN_HEIGHT_892_001	6'3"
 ZKN_HEIGHT_892_999	95'2"+
 ZKN_HEIGHT_892_998	85'4"+
 ZKN_HEIGHT_893_001	5'11"
+ZKN_HEIGHT_898_001	7'10"
+ZKN_HEIGHT_898_002	7'10"
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_usa.msbt
@@ -8713,11 +8782,22 @@ ZKN_TYPE_890	Gigantic Pokémon
 ZKN_TYPE_891	Wushu Pokémon
 ZKN_TYPE_892	Wushu Pokémon
 ZKN_TYPE_893	Rogue Monkey Pokémon
+ZKN_TYPE_894	Electron Pokémon
+ZKN_TYPE_895	Dragon Orb Pokémon
+ZKN_TYPE_896	Wild Horse Pokémon
+ZKN_TYPE_897	Swift Horse Pokémon
+ZKN_TYPE_898	King Pokémon
 ZKN_TYPE_077_001	Unique Horn Pokémon
 ZKN_TYPE_078_001	Unique Horn Pokémon
 ZKN_TYPE_122_001	Dancing Pokémon
+ZKN_TYPE_144_001	Cruel Pokémon
+ZKN_TYPE_145_001	Strong Legs Pokémon
+ZKN_TYPE_146_001	Malevolent Pokémon
+ZKN_TYPE_199_001	Hexpert Pokémon
 ZKN_TYPE_555_002	Zen Charm Pokémon
 ZKN_TYPE_720_001	Djinn Pokémon
+ZKN_TYPE_898_001	High King Pokémon
+ZKN_TYPE_898_002	High King Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_usa.msbt
@@ -9616,6 +9696,11 @@ ZKN_WEIGHT_890_000	2094.4 lbs.
 ZKN_WEIGHT_891_000	26.5 lbs.
 ZKN_WEIGHT_892_000	231.5 lbs.
 ZKN_WEIGHT_893_000	154.3 lbs.
+ZKN_WEIGHT_894_000	319.7 lbs.
+ZKN_WEIGHT_895_000	440.9 lbs.
+ZKN_WEIGHT_896_000	1763.7 lbs.
+ZKN_WEIGHT_897_000	98.1 lbs.
+ZKN_WEIGHT_898_000	17 lbs.
 ZKN_WEIGHT_003_001	342.8 lbs.
 ZKN_WEIGHT_003_999	????.? lbs.
 ZKN_WEIGHT_006_001	243.6 lbs.
@@ -9679,9 +9764,13 @@ ZKN_WEIGHT_133_001
 ZKN_WEIGHT_133_999	????.? lbs.
 ZKN_WEIGHT_142_001	174.2 lbs.
 ZKN_WEIGHT_143_999	????.? lbs.
+ZKN_WEIGHT_144_001	112.2 lbs.
+ZKN_WEIGHT_145_001	128.3 lbs.
+ZKN_WEIGHT_146_001	145.5 lbs.
 ZKN_WEIGHT_150_001	280 lbs.
 ZKN_WEIGHT_150_002	72.8 lbs.
 ZKN_WEIGHT_181_001	135.6 lbs.
+ZKN_WEIGHT_199_001	175.3 lbs.
 ZKN_WEIGHT_201_001	11 lbs.
 ZKN_WEIGHT_201_002	11 lbs.
 ZKN_WEIGHT_201_003	11 lbs.
@@ -10002,6 +10091,8 @@ ZKN_WEIGHT_892_001	231.5 lbs.
 ZKN_WEIGHT_892_999	????.? lbs.
 ZKN_WEIGHT_892_998	????.? lbs.
 ZKN_WEIGHT_893_001	154.3 lbs.
+ZKN_WEIGHT_898_001	1783.8 lbs.
+ZKN_WEIGHT_898_002	118.2 lbs.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_usa.msbt
@@ -14049,20 +14140,20 @@ ZKN_SHIELD_025_000	When Pikachu meet, they'll touch their tails together and exc
 ZKN_SHIELD_026_000	If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.
 ZKN_SHIELD_027_000	It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.
 ZKN_SHIELD_028_000	It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.
-ZKN_SHIELD_029_000	
-ZKN_SHIELD_030_000	
-ZKN_SHIELD_031_000	
-ZKN_SHIELD_032_000	
-ZKN_SHIELD_033_000	
-ZKN_SHIELD_034_000	
+ZKN_SHIELD_029_000	It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran's horn is a bit more rounded than the tip of a male's horn.
+ZKN_SHIELD_030_000	If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.
+ZKN_SHIELD_031_000	It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.
+ZKN_SHIELD_032_000	Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it's friendly with.
+ZKN_SHIELD_033_000	It's nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.
+ZKN_SHIELD_034_000	Nidoking prides itself on its strength. It's forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.
 ZKN_SHIELD_035_000	Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.
 ZKN_SHIELD_036_000	Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.
 ZKN_SHIELD_037_000	As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.
 ZKN_SHIELD_038_000	Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.
 ZKN_SHIELD_039_000	By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.
 ZKN_SHIELD_040_000	It's proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that's perfectly heavenly.
-ZKN_SHIELD_041_000	
-ZKN_SHIELD_042_000	
+ZKN_SHIELD_041_000	Zubat live in caves, down where the sun's light won't reach. In the morning, they gather together to keep each other warm as they sleep.
+ZKN_SHIELD_042_000	Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.
 ZKN_SHIELD_043_000	During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.
 ZKN_SHIELD_044_000	What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.
 ZKN_SHIELD_045_000	The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.
@@ -14144,9 +14235,9 @@ ZKN_SHIELD_120_000	Fish Pokémon nibble at it, but Staryu isn't bothered. Its bo
 ZKN_SHIELD_121_000	Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.
 ZKN_SHIELD_122_000	It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.
 ZKN_SHIELD_123_000	If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.
-ZKN_SHIELD_124_000	
-ZKN_SHIELD_125_000	
-ZKN_SHIELD_126_000	
+ZKN_SHIELD_124_000	The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base.
+ZKN_SHIELD_125_000	With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike.
+ZKN_SHIELD_126_000	These Pokémon's bodies are constantly burning. Magmar are feared as one of the causes behind fires.
 ZKN_SHIELD_127_000	This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.
 ZKN_SHIELD_128_000	The Tauros of the Galar region are volatile in nature, and they won't allow people to ride on their backs.
 ZKN_SHIELD_129_000	This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.
@@ -14158,20 +14249,20 @@ ZKN_SHIELD_134_000	Its body's cellular structure is similar to the molecular com
 ZKN_SHIELD_135_000	It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.
 ZKN_SHIELD_136_000	It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.
 ZKN_SHIELD_137_000	In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.
-ZKN_SHIELD_138_000	
-ZKN_SHIELD_139_000	
-ZKN_SHIELD_140_000	
-ZKN_SHIELD_141_000	
-ZKN_SHIELD_142_000	
+ZKN_SHIELD_138_000	This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it's just drifting along.
+ZKN_SHIELD_139_000	Omastar's sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.
+ZKN_SHIELD_140_000	While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.
+ZKN_SHIELD_141_000	The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.
+ZKN_SHIELD_142_000	Aerodactyl's sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.
 ZKN_SHIELD_143_000	This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.
-ZKN_SHIELD_144_000	
-ZKN_SHIELD_145_000	
-ZKN_SHIELD_146_000	
-ZKN_SHIELD_147_000	
-ZKN_SHIELD_148_000	
-ZKN_SHIELD_149_000	
-ZKN_SHIELD_150_000	
-ZKN_SHIELD_151_000	
+ZKN_SHIELD_144_000	This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.
+ZKN_SHIELD_145_000	Zapdos is a legendary bird Pokémon. It's said that when Zapdos rubs its feathers together, lightning will fall immediately after.
+ZKN_SHIELD_146_000	There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.
+ZKN_SHIELD_147_000	This Pokémon was long considered to be no more than a myth. The small lump on a Dratini's forehead is actually a horn that's still coming in.
+ZKN_SHIELD_148_000	This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.
+ZKN_SHIELD_149_000	This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.
+ZKN_SHIELD_150_000	The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.
+ZKN_SHIELD_151_000	This mythical Pokémon is said to be extinct, but sightings of it are still being reported to this day.
 ZKN_SHIELD_152_000	
 ZKN_SHIELD_153_000	
 ZKN_SHIELD_154_000	
@@ -14189,7 +14280,7 @@ ZKN_SHIELD_165_000
 ZKN_SHIELD_166_000	
 ZKN_SHIELD_167_000	
 ZKN_SHIELD_168_000	
-ZKN_SHIELD_169_000	
+ZKN_SHIELD_169_000	This Pokémon flaps its four wings skillfully. Crobat can fly through cramped caves without needing to slow down.
 ZKN_SHIELD_170_000	On the dark ocean floor, its only means of communication is its constantly flashing lights.
 ZKN_SHIELD_171_000	This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.
 ZKN_SHIELD_172_000	The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.
@@ -14258,9 +14349,9 @@ ZKN_SHIELD_234_000
 ZKN_SHIELD_235_000	
 ZKN_SHIELD_236_000	Even though it is small, it can't be ignored because it will slug any handy target without warning.
 ZKN_SHIELD_237_000	After doing a handstand to throw off the opponent's timing, it presents its fancy kick moves.
-ZKN_SHIELD_238_000	
-ZKN_SHIELD_239_000	
-ZKN_SHIELD_240_000	
+ZKN_SHIELD_238_000	This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.
+ZKN_SHIELD_239_000	It's not good at storing electricity yet. This Pokémon sneaks into people's homes, looking for electrical outlets to eat electricity from.
+ZKN_SHIELD_240_000	This Pokémon makes its home near volcanoes. At the end of the day, Magby soaks in magma, resting and recovering from the day's fatigue.
 ZKN_SHIELD_241_000	This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
 ZKN_SHIELD_242_000	Blissey lays mysterious eggs that are filled with happiness. It's said that anyone who eats a Blissey egg will start acting kindly to all others.
 ZKN_SHIELD_243_000	
@@ -14271,7 +14362,7 @@ ZKN_SHIELD_247_000	It will not stay still, even while it's a pupa. It already ha
 ZKN_SHIELD_248_000	The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.
 ZKN_SHIELD_249_000	
 ZKN_SHIELD_250_000	
-ZKN_SHIELD_251_000	
+ZKN_SHIELD_251_000	This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.
 ZKN_SHIELD_252_000	
 ZKN_SHIELD_253_000	
 ZKN_SHIELD_254_000	
@@ -14324,9 +14415,9 @@ ZKN_SHIELD_300_000
 ZKN_SHIELD_301_000	
 ZKN_SHIELD_302_000	It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.
 ZKN_SHIELD_303_000	It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.
-ZKN_SHIELD_304_000	
-ZKN_SHIELD_305_000	
-ZKN_SHIELD_306_000	
+ZKN_SHIELD_304_000	When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron's shed armor and make good use of it in their daily lives.
+ZKN_SHIELD_305_000	During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents.
+ZKN_SHIELD_306_000	Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon's strength.
 ZKN_SHIELD_307_000	
 ZKN_SHIELD_308_000	
 ZKN_SHIELD_309_000	It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.
@@ -14353,8 +14444,8 @@ ZKN_SHIELD_329_000	To help make its wings grow, it dissolves quantities of prey 
 ZKN_SHIELD_330_000	It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.
 ZKN_SHIELD_331_000	
 ZKN_SHIELD_332_000	
-ZKN_SHIELD_333_000	
-ZKN_SHIELD_334_000	
+ZKN_SHIELD_333_000	Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.
+ZKN_SHIELD_334_000	This Pokémon has a kind disposition, but if it's provoked, it will threaten opponents with shrill cries before attacking them without mercy.
 ZKN_SHIELD_335_000	
 ZKN_SHIELD_336_000	
 ZKN_SHIELD_337_000	It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.
@@ -14365,10 +14456,10 @@ ZKN_SHIELD_341_000	It was originally a Pokémon from afar that escaped to the wi
 ZKN_SHIELD_342_000	A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.
 ZKN_SHIELD_343_000	It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.
 ZKN_SHIELD_344_000	It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.
-ZKN_SHIELD_345_000	
-ZKN_SHIELD_346_000	
-ZKN_SHIELD_347_000	
-ZKN_SHIELD_348_000	
+ZKN_SHIELD_345_000	Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.
+ZKN_SHIELD_346_000	Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.
+ZKN_SHIELD_347_000	Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.
+ZKN_SHIELD_348_000	Though it lives on land, it's also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.
 ZKN_SHIELD_349_000	It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.
 ZKN_SHIELD_350_000	It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.
 ZKN_SHIELD_351_000	
@@ -14379,33 +14470,33 @@ ZKN_SHIELD_355_000	Making itself invisible, it silently sneaks up to prey. It ha
 ZKN_SHIELD_356_000	It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.
 ZKN_SHIELD_357_000	
 ZKN_SHIELD_358_000	
-ZKN_SHIELD_359_000	
+ZKN_SHIELD_359_000	Because of this Pokémon's ability to detect danger, people mistook Absol as a bringer of doom.
 ZKN_SHIELD_360_000	It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.
 ZKN_SHIELD_361_000	It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.
 ZKN_SHIELD_362_000	It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
-ZKN_SHIELD_363_000	
-ZKN_SHIELD_364_000	
-ZKN_SHIELD_365_000	
+ZKN_SHIELD_363_000	As it drifts among the waves, Spheal probes the sea. As soon as it spots prey, it informs the Walrein in its herd.
+ZKN_SHIELD_364_000	This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.
+ZKN_SHIELD_365_000	Walrein's tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.
 ZKN_SHIELD_366_000	
 ZKN_SHIELD_367_000	
 ZKN_SHIELD_368_000	
-ZKN_SHIELD_369_000	
+ZKN_SHIELD_369_000	This Pokémon was discovered during deep-sea exploration. Its appearance hasn't changed in 100,000,000 years, so it's called a living fossil.
 ZKN_SHIELD_370_000	
-ZKN_SHIELD_371_000	
-ZKN_SHIELD_372_000	
-ZKN_SHIELD_373_000	
-ZKN_SHIELD_374_000	
-ZKN_SHIELD_375_000	
-ZKN_SHIELD_376_000	
-ZKN_SHIELD_377_000	
-ZKN_SHIELD_378_000	
-ZKN_SHIELD_379_000	
+ZKN_SHIELD_371_000	Bagon is a solitary Pokémon that doesn't form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike.
+ZKN_SHIELD_372_000	Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.
+ZKN_SHIELD_373_000	While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it.
+ZKN_SHIELD_374_000	The cells in this Pokémon's body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum's body.
+ZKN_SHIELD_375_000	Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.
+ZKN_SHIELD_376_000	Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain.
+ZKN_SHIELD_377_000	Cutting-edge technology was used to study the internals of this Pokémon's rock body, but nothing was found—not even a brain or a heart.
+ZKN_SHIELD_378_000	This Pokémon's body is made of solid ice. It's said that Regice was born beneath thick ice in the ice age.
+ZKN_SHIELD_379_000	It's rumored that this Pokémon was born deep underground in the planet's mantle and that it emerged onto the surface 10,000 years ago.
 ZKN_SHIELD_380_000	
 ZKN_SHIELD_381_000	
 ZKN_SHIELD_382_000	
 ZKN_SHIELD_383_000	
 ZKN_SHIELD_384_000	
-ZKN_SHIELD_385_000	
+ZKN_SHIELD_385_000	It's believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.
 ZKN_SHIELD_386_000	
 ZKN_SHIELD_387_000	
 ZKN_SHIELD_388_000	
@@ -14462,10 +14553,10 @@ ZKN_SHIELD_438_000	This Pokémon lives in dry, rocky areas. As its green spheres
 ZKN_SHIELD_439_000	It looks for a Mr. Rime that's a good dancer and carefully copies the Mr. Rime's steps like an apprentice.
 ZKN_SHIELD_440_000	Happiny's willing to lend its precious round stone to those it's friendly with, but if the stone isn't returned, Happiny will cry and throw a tantrum.
 ZKN_SHIELD_441_000	
-ZKN_SHIELD_442_000	
-ZKN_SHIELD_443_000	
-ZKN_SHIELD_444_000	
-ZKN_SHIELD_445_000	
+ZKN_SHIELD_442_000	All Spiritomb's mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.
+ZKN_SHIELD_443_000	Gible attacks anything that moves, and it drags whatever it catches into the crevice that is its lair. Despite the big mouth, Gible's stomach is small.
+ZKN_SHIELD_444_000	Jewels are buried in the caves these Pokémon nest in, but you'll be torn apart by claws and fangs the moment you enter one of these caves.
+ZKN_SHIELD_445_000	Garchomp is fast both underground and above. It can bring down prey and return to its den before its body has chilled from being outside.
 ZKN_SHIELD_446_000	It stores food beneath its fur. It might share just one bite, but only if it really trusts you.
 ZKN_SHIELD_447_000	It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.
 ZKN_SHIELD_448_000	It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon's trust.
@@ -14486,8 +14577,8 @@ ZKN_SHIELD_462_000	It's thought that a special magnetic field changed the molecu
 ZKN_SHIELD_463_000	Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky's use of its fingers is clumsy.
 ZKN_SHIELD_464_000	It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.
 ZKN_SHIELD_465_000	Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.
-ZKN_SHIELD_466_000	
-ZKN_SHIELD_467_000	
+ZKN_SHIELD_466_000	In terms of electrical-energy output, Electivire is one of the best among all Electric Pokémon. It discharges high-voltage currents from its tails.
+ZKN_SHIELD_467_000	Living in the crater of a volcano has caused this Pokémon's body to resemble its environment— it has an organ similar to a magma chamber.
 ZKN_SHIELD_468_000	Known as a bringer of blessings, it's been depicted on good-luck charms since ancient times.
 ZKN_SHIELD_469_000	
 ZKN_SHIELD_470_000	This Pokémon's tail is blade sharp, with a fantastic cutting edge that can slice right though large trees.
@@ -14551,7 +14642,7 @@ ZKN_SHIELD_527_000	It emits ultrasonic waves as it flutters about, searching for
 ZKN_SHIELD_528_000	The auspicious shape of this Pokémon's nose apparently led some regions to consider Swoobat a symbol of good luck.
 ZKN_SHIELD_529_000	It's a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.
 ZKN_SHIELD_530_000	Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.
-ZKN_SHIELD_531_000	
+ZKN_SHIELD_531_000	This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures' feelings and physical conditions.
 ZKN_SHIELD_532_000	Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.
 ZKN_SHIELD_533_000	Gurdurr excels at demolition—construction is not its forte. In any case, there's skill in the way this Pokémon wields its metal beam.
 ZKN_SHIELD_534_000	When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.
@@ -14584,10 +14675,10 @@ ZKN_SHIELD_560_000	While mostly known for having the temperament of an aggressiv
 ZKN_SHIELD_561_000	A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.
 ZKN_SHIELD_562_000	The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.
 ZKN_SHIELD_563_000	There are many depictions of Cofagrigus decorating ancient tombs. They're symbols of the wealth that kings of bygone eras had.
-ZKN_SHIELD_564_000	
-ZKN_SHIELD_565_000	
-ZKN_SHIELD_566_000	
-ZKN_SHIELD_567_000	
+ZKN_SHIELD_564_000	Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.
+ZKN_SHIELD_565_000	This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.
+ZKN_SHIELD_566_000	Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.
+ZKN_SHIELD_567_000	Though capable of flight, Archeops was apparently better at hunting on the ground.
 ZKN_SHIELD_568_000	This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.
 ZKN_SHIELD_569_000	The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.
 ZKN_SHIELD_570_000	Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.
@@ -14635,7 +14726,7 @@ ZKN_SHIELD_611_000	Its skin is as hard as a suit of armor. Fraxure's favorite st
 ZKN_SHIELD_612_000	While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.
 ZKN_SHIELD_613_000	It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.
 ZKN_SHIELD_614_000	It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.
-ZKN_SHIELD_615_000	
+ZKN_SHIELD_615_000	When the weather gets hot, these Pokémon turn into water vapor. Cryogonal are almost never seen during summer.
 ZKN_SHIELD_616_000	It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.
 ZKN_SHIELD_617_000	Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.
 ZKN_SHIELD_618_000	For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.
@@ -14658,16 +14749,16 @@ ZKN_SHIELD_634_000	Their two heads will fight each other over a single piece of 
 ZKN_SHIELD_635_000	The three heads take turns sinking their teeth into the opponent. Their attacks won't slow until their target goes down.
 ZKN_SHIELD_636_000	Larvesta's body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.
 ZKN_SHIELD_637_000	This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.
-ZKN_SHIELD_638_000	
-ZKN_SHIELD_639_000	
-ZKN_SHIELD_640_000	
+ZKN_SHIELD_638_000	From the moment it's born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes.
+ZKN_SHIELD_639_000	In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon.
+ZKN_SHIELD_640_000	It darts around opponents with a flurry of quick movements, slicing them up with its horns.
 ZKN_SHIELD_641_000	
 ZKN_SHIELD_642_000	
-ZKN_SHIELD_643_000	
-ZKN_SHIELD_644_000	
+ZKN_SHIELD_643_000	According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.
+ZKN_SHIELD_644_000	Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom's lightning.
 ZKN_SHIELD_645_000	
-ZKN_SHIELD_646_000	
-ZKN_SHIELD_647_000	
+ZKN_SHIELD_646_000	It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.
+ZKN_SHIELD_647_000	They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon's true power will awaken.
 ZKN_SHIELD_648_000	
 ZKN_SHIELD_649_000	
 ZKN_SHIELD_650_000	
@@ -14716,14 +14807,14 @@ ZKN_SHIELD_692_000	By detonating gas that accumulates in its right claw, this Po
 ZKN_SHIELD_693_000	Clawitzer's right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer's cannon arm can sink a tanker.
 ZKN_SHIELD_694_000	The sun powers this Pokémon's electricity generation. Interruption of that process stresses Helioptile to the point of weakness.
 ZKN_SHIELD_695_000	One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.
-ZKN_SHIELD_696_000	
-ZKN_SHIELD_697_000	
-ZKN_SHIELD_698_000	
-ZKN_SHIELD_699_000	
+ZKN_SHIELD_696_000	This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around.
+ZKN_SHIELD_697_000	A single bite of Tyrantrum's massive jaws will demolish a car. This Pokémon was the king of the ancient world.
+ZKN_SHIELD_698_000	Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice.
+ZKN_SHIELD_699_000	When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice.
 ZKN_SHIELD_700_000	There's a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.
 ZKN_SHIELD_701_000	It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack.
 ZKN_SHIELD_702_000	Since Dedenne can't generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.
-ZKN_SHIELD_703_000	
+ZKN_SHIELD_703_000	It's said that somewhere in the world, there's a mineral vein housing a large pack of slumbering Carbink. It's also said that this pack has a queen.
 ZKN_SHIELD_704_000	Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they've survived.
 ZKN_SHIELD_705_000	The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.
 ZKN_SHIELD_706_000	Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.
@@ -14742,15 +14833,15 @@ ZKN_SHIELD_718_000
 ZKN_SHIELD_719_000	
 ZKN_SHIELD_720_000	
 ZKN_SHIELD_721_000	
-ZKN_SHIELD_722_000	
-ZKN_SHIELD_723_000	
-ZKN_SHIELD_724_000	
-ZKN_SHIELD_725_000	
-ZKN_SHIELD_726_000	
-ZKN_SHIELD_727_000	
-ZKN_SHIELD_728_000	
-ZKN_SHIELD_729_000	
-ZKN_SHIELD_730_000	
+ZKN_SHIELD_722_000	During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.
+ZKN_SHIELD_723_000	It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.
+ZKN_SHIELD_724_000	In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent's weak point before they notice what's happening.
+ZKN_SHIELD_725_000	Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful.
+ZKN_SHIELD_726_000	When facing a powerful enemy, Torracat's fighting spirit gets pumped up, and its fire bell blazes hotter.
+ZKN_SHIELD_727_000	Incineroar's rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.
+ZKN_SHIELD_728_000	If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.
+ZKN_SHIELD_729_000	On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them.
+ZKN_SHIELD_730_000	For Primarina, every battle's a stage. Its singing and the dancing of its balloons will mesmerize the audience.
 ZKN_SHIELD_731_000	
 ZKN_SHIELD_732_000	
 ZKN_SHIELD_733_000	
@@ -14809,10 +14900,10 @@ ZKN_SHIELD_785_000
 ZKN_SHIELD_786_000	
 ZKN_SHIELD_787_000	
 ZKN_SHIELD_788_000	
-ZKN_SHIELD_789_000	
-ZKN_SHIELD_790_000	
-ZKN_SHIELD_791_000	
-ZKN_SHIELD_792_000	
+ZKN_SHIELD_789_000	Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.
+ZKN_SHIELD_790_000	It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.
+ZKN_SHIELD_791_000	Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.
+ZKN_SHIELD_792_000	It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.
 ZKN_SHIELD_793_000	
 ZKN_SHIELD_794_000	
 ZKN_SHIELD_795_000	
@@ -14820,16 +14911,16 @@ ZKN_SHIELD_796_000
 ZKN_SHIELD_797_000	
 ZKN_SHIELD_798_000	
 ZKN_SHIELD_799_000	
-ZKN_SHIELD_800_000	
+ZKN_SHIELD_800_000	It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.
 ZKN_SHIELD_801_000	
-ZKN_SHIELD_802_000	
+ZKN_SHIELD_802_000	This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time.
 ZKN_SHIELD_803_000	
 ZKN_SHIELD_804_000	
 ZKN_SHIELD_805_000	
 ZKN_SHIELD_806_000	
-ZKN_SHIELD_807_000	
-ZKN_SHIELD_808_000	
-ZKN_SHIELD_809_000	
+ZKN_SHIELD_807_000	Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes.
+ZKN_SHIELD_808_000	They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.
+ZKN_SHIELD_809_000	Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.
 ZKN_SHIELD_810_000	It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.
 ZKN_SHIELD_811_000	When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.
 ZKN_SHIELD_812_000	The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.
@@ -14914,6 +15005,11 @@ ZKN_SHIELD_890_000	It was inside a meteorite that fell 20,000 years ago. There s
 ZKN_SHIELD_891_000	If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.
 ZKN_SHIELD_892_000	Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.
 ZKN_SHIELD_893_000	Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow.
+ZKN_SHIELD_894_000	Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar's electricity.
+ZKN_SHIELD_895_000	Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.
+ZKN_SHIELD_896_000	Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.
+ZKN_SHIELD_897_000	As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.
+ZKN_SHIELD_898_000	Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.
 ZKN_SHIELD_003_001	
 ZKN_SHIELD_003_999	Huge amounts of pollen burst from it with the force of a volcanic eruption. Breathing in too much of the pollen can cause fainting.
 ZKN_SHIELD_006_001	
@@ -14977,9 +15073,13 @@ ZKN_SHIELD_133_001
 ZKN_SHIELD_133_999	Having gotten even friendlier and more innocent, Eevee tries to play with anyone around, only to end up crushing them with its immense body.
 ZKN_SHIELD_142_001	
 ZKN_SHIELD_143_999	Terrifyingly strong, this Pokémon is the size of a mountain—and moves about as much as one as well.
+ZKN_SHIELD_144_001	Known as Articuno, this Pokémon fires beams that can immobilize opponents as if they had been frozen solid.
+ZKN_SHIELD_145_001	One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph.
+ZKN_SHIELD_146_001	The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres.
 ZKN_SHIELD_150_001	
 ZKN_SHIELD_150_002	
 ZKN_SHIELD_181_001	
+ZKN_SHIELD_199_001	While chanting strange spells, this Pokémon combines its internal toxins with what it's eaten, creating strange potions.
 ZKN_SHIELD_201_001	
 ZKN_SHIELD_201_002	
 ZKN_SHIELD_201_003	
@@ -15102,9 +15202,9 @@ ZKN_SHIELD_618_001	Its conspicuous lips lure prey in as it lies in wait in the m
 ZKN_SHIELD_641_001	
 ZKN_SHIELD_642_001	
 ZKN_SHIELD_645_001	
-ZKN_SHIELD_646_001	
-ZKN_SHIELD_646_002	
-ZKN_SHIELD_647_001	
+ZKN_SHIELD_646_001	It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future.
+ZKN_SHIELD_646_002	The sameness of Zekrom's and Kyurem's genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.
+ZKN_SHIELD_647_001	The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything.
 ZKN_SHIELD_648_001	
 ZKN_SHIELD_649_001	
 ZKN_SHIELD_649_002	
@@ -15254,11 +15354,11 @@ ZKN_SHIELD_778_001	Its disguise made from an old rag allowed it to avoid an atta
 ZKN_SHIELD_778_002	
 ZKN_SHIELD_778_003	
 ZKN_SHIELD_784_001	
-ZKN_SHIELD_800_001	
-ZKN_SHIELD_800_002	
+ZKN_SHIELD_800_001	Necrozma has attached itself to Solgaleo. It siphons away its host's limitless energy, exploiting that energy to fuel a rampage.
+ZKN_SHIELD_800_002	When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.
 ZKN_SHIELD_800_003	
 ZKN_SHIELD_801_001	
-ZKN_SHIELD_809_999	
+ZKN_SHIELD_809_999	It can send electric beams streaking out from the hole in its belly. The beams' tremendous energy can vaporize an opponent in one shot.
 ZKN_SHIELD_812_999	Rillaboom has become one with its forest of drums and continues to lay down beats that shake all of Galar.
 ZKN_SHIELD_815_999	Gigantamax energy can sometimes cause the diameter of this Pokémon's fireball to exceed 300 feet.
 ZKN_SHIELD_818_999	It has excellent sniping skills. Shooting a berry rolling along over nine miles away is a piece of cake for this Pokémon.
@@ -15300,6 +15400,8 @@ ZKN_SHIELD_892_001	This form of Urshifu is a strong believer in defeating foes b
 ZKN_SHIELD_892_999	The energy released by this Pokémon's fists forms shock waves that can blow away Dynamax Pokémon in just one hit.
 ZKN_SHIELD_892_998	All it takes is a glare from this Pokémon to take the lives of those with evil in their hearts—or so they say.
 ZKN_SHIELD_893_001	This Zarude's special strength stems from its love and care for an orphaned human child that the Pokémon has raised since the child's infancy.
+ZKN_SHIELD_898_001	It's said that this Pokémon once moved a large forest—and all the Pokémon living there—to a new location overnight.
+ZKN_SHIELD_898_002	Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_sun_usa.msbt
@@ -16400,20 +16502,20 @@ ZKN_SWORD_025_000	Pikachu that can generate powerful electricity have cheek sacs
 ZKN_SWORD_026_000	Its long tail serves as a ground to protect itself from its own high-voltage power.
 ZKN_SWORD_027_000	It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.
 ZKN_SWORD_028_000	The drier the area Sandslash lives in, the harder and smoother the Pokémon's spikes will feel when touched.
-ZKN_SWORD_029_000	
-ZKN_SWORD_030_000	
-ZKN_SWORD_031_000	
-ZKN_SWORD_032_000	
-ZKN_SWORD_033_000	
-ZKN_SWORD_034_000	
+ZKN_SWORD_029_000	Females are more sensitive to smells than males. While foraging, they'll use their whiskers to check wind direction and stay downwind of predators.
+ZKN_SWORD_030_000	The horn on its head has atrophied. It's thought that this happens so Nidorina's children won't get poked while their mother is feeding them.
+ZKN_SWORD_031_000	Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.
+ZKN_SWORD_032_000	The horn on a male Nidoran's forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.
+ZKN_SWORD_033_000	With a horn that's harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.
+ZKN_SWORD_034_000	When it goes on a rampage, it's impossible to control. But in the presence of a Nidoqueen it's lived with for a long time, Nidoking calms down.
 ZKN_SWORD_035_000	It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
 ZKN_SWORD_036_000	A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.
 ZKN_SWORD_037_000	While young, it has six gorgeous tails. When it grows, several new tails are sprouted.
 ZKN_SWORD_038_000	It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.
 ZKN_SWORD_039_000	Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won't stop singing its lullabies until its foes fall asleep.
 ZKN_SWORD_040_000	The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.
-ZKN_SWORD_041_000	
-ZKN_SWORD_042_000	
+ZKN_SWORD_041_000	It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.
+ZKN_SWORD_042_000	It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.
 ZKN_SWORD_043_000	If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.
 ZKN_SWORD_044_000	Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
 ZKN_SWORD_045_000	It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
@@ -16495,9 +16597,9 @@ ZKN_SWORD_120_000	If you visit a beach at the end of summer, you'll be able to s
 ZKN_SWORD_121_000	This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.
 ZKN_SWORD_122_000	The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.
 ZKN_SWORD_123_000	As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.
-ZKN_SWORD_124_000	
-ZKN_SWORD_125_000	
-ZKN_SWORD_126_000	
+ZKN_SWORD_124_000	In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.
+ZKN_SWORD_125_000	Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.
+ZKN_SWORD_126_000	Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.
 ZKN_SWORD_127_000	These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.
 ZKN_SWORD_128_000	When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.
 ZKN_SWORD_129_000	It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.
@@ -16509,20 +16611,20 @@ ZKN_SWORD_134_000	When Vaporeon's fins begin to vibrate, it is a sign that rain 
 ZKN_SWORD_135_000	If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.
 ZKN_SWORD_136_000	Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1,700 degrees Fahrenheit.
 ZKN_SWORD_137_000	State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
-ZKN_SWORD_138_000	
-ZKN_SWORD_139_000	
-ZKN_SWORD_140_000	
-ZKN_SWORD_141_000	
-ZKN_SWORD_142_000	
+ZKN_SWORD_138_000	Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.
+ZKN_SWORD_139_000	Weighed down by a large and heavy shell, Omastar couldn't move very fast. Some say it went extinct because it was unable to catch food.
+ZKN_SWORD_140_000	This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.
+ZKN_SWORD_141_000	Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.
+ZKN_SWORD_142_000	This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.
 ZKN_SWORD_143_000	It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.
-ZKN_SWORD_144_000	
-ZKN_SWORD_145_000	
-ZKN_SWORD_146_000	
-ZKN_SWORD_147_000	
-ZKN_SWORD_148_000	
-ZKN_SWORD_149_000	
-ZKN_SWORD_150_000	
-ZKN_SWORD_151_000	
+ZKN_SWORD_144_000	It's said that this Pokémon's beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.
+ZKN_SWORD_145_000	This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.
+ZKN_SWORD_146_000	It's one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.
+ZKN_SWORD_147_000	Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.
+ZKN_SWORD_148_000	This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.
+ZKN_SWORD_149_000	It's a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.
+ZKN_SWORD_150_000	Created from the DNA of Mew, this Pokémon is a dangerous combination of overwhelming power and a savage heart.
+ZKN_SWORD_151_000	It's very intelligent and can use an incredible variety of moves. Many believe that all other Pokémon are descendants of this one.
 ZKN_SWORD_152_000	
 ZKN_SWORD_153_000	
 ZKN_SWORD_154_000	
@@ -16540,7 +16642,7 @@ ZKN_SWORD_165_000
 ZKN_SWORD_166_000	
 ZKN_SWORD_167_000	
 ZKN_SWORD_168_000	
-ZKN_SWORD_169_000	
+ZKN_SWORD_169_000	Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target's neck.
 ZKN_SWORD_170_000	Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.
 ZKN_SWORD_171_000	The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.
 ZKN_SWORD_172_000	Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.
@@ -16609,9 +16711,9 @@ ZKN_SWORD_234_000
 ZKN_SWORD_235_000	
 ZKN_SWORD_236_000	It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.
 ZKN_SWORD_237_000	It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.
-ZKN_SWORD_238_000	
-ZKN_SWORD_239_000	
-ZKN_SWORD_240_000	
+ZKN_SWORD_238_000	If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn't really seem to care.
+ZKN_SWORD_239_000	When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy.
+ZKN_SWORD_240_000	This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose.
 ZKN_SWORD_241_000	Miltank produces highly nutritious milk, so it's been supporting the lives of people and other Pokémon since ancient times.
 ZKN_SWORD_242_000	Whenever a Blissey finds a weakened Pokémon, it will share its egg and offer its care until the other Pokémon is all better.
 ZKN_SWORD_243_000	
@@ -16622,7 +16724,7 @@ ZKN_SWORD_247_000	Even sealed in its shell, it can move freely. Hard and fast, i
 ZKN_SWORD_248_000	Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.
 ZKN_SWORD_249_000	
 ZKN_SWORD_250_000	
-ZKN_SWORD_251_000	
+ZKN_SWORD_251_000	This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.
 ZKN_SWORD_252_000	
 ZKN_SWORD_253_000	
 ZKN_SWORD_254_000	
@@ -16675,9 +16777,9 @@ ZKN_SWORD_300_000
 ZKN_SWORD_301_000	
 ZKN_SWORD_302_000	This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it's believed that Sableye will steal people's spirits away.
 ZKN_SWORD_303_000	It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.
-ZKN_SWORD_304_000	
-ZKN_SWORD_305_000	
-ZKN_SWORD_306_000	
+ZKN_SWORD_304_000	It eats iron ore—and sometimes railroad tracks— to build up the steel armor that protects its body.
+ZKN_SWORD_305_000	Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.
+ZKN_SWORD_306_000	Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.
 ZKN_SWORD_307_000	
 ZKN_SWORD_308_000	
 ZKN_SWORD_309_000	It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.
@@ -16704,8 +16806,8 @@ ZKN_SWORD_329_000	The ultrasonic waves it generates by rubbing its two wings tog
 ZKN_SWORD_330_000	This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.
 ZKN_SWORD_331_000	
 ZKN_SWORD_332_000	
-ZKN_SWORD_333_000	
-ZKN_SWORD_334_000	
+ZKN_SWORD_333_000	Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.
+ZKN_SWORD_334_000	As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.
 ZKN_SWORD_335_000	
 ZKN_SWORD_336_000	
 ZKN_SWORD_337_000	The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.
@@ -16716,10 +16818,10 @@ ZKN_SWORD_341_000	No matter how dirty the water in the river, it will adapt and 
 ZKN_SWORD_342_000	A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.
 ZKN_SWORD_343_000	It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.
 ZKN_SWORD_344_000	This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.
-ZKN_SWORD_345_000	
-ZKN_SWORD_346_000	
-ZKN_SWORD_347_000	
-ZKN_SWORD_348_000	
+ZKN_SWORD_345_000	This Pokémon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.
+ZKN_SWORD_346_000	It has short legs and can't walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.
+ZKN_SWORD_347_000	This Pokémon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.
+ZKN_SWORD_348_000	After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.
 ZKN_SWORD_349_000	Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.
 ZKN_SWORD_350_000	Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.
 ZKN_SWORD_351_000	
@@ -16730,33 +16832,33 @@ ZKN_SWORD_355_000	If it finds bad children who won't listen to their parents, it
 ZKN_SWORD_356_000	Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.
 ZKN_SWORD_357_000	
 ZKN_SWORD_358_000	
-ZKN_SWORD_359_000	
+ZKN_SWORD_359_000	Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.
 ZKN_SWORD_360_000	It tends to move in a pack. Individuals squash against one another to toughen their spirits.
 ZKN_SWORD_361_000	It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.
 ZKN_SWORD_362_000	It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.
-ZKN_SWORD_363_000	
-ZKN_SWORD_364_000	
-ZKN_SWORD_365_000	
+ZKN_SWORD_363_000	This Pokémon's body is covered in blubber and impressively round. It's faster for Spheal to roll around than walk.
+ZKN_SWORD_364_000	Sealeo live on top of drift ice. They go swimming when they're on the hunt, seeking out their prey by scent.
+ZKN_SWORD_365_000	Walrein form herds of 20 to 30 individuals. When a threat appears, the herd's leader will protect the group with its life.
 ZKN_SWORD_366_000	
 ZKN_SWORD_367_000	
 ZKN_SWORD_368_000	
-ZKN_SWORD_369_000	
+ZKN_SWORD_369_000	Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.
 ZKN_SWORD_370_000	
-ZKN_SWORD_371_000	
-ZKN_SWORD_372_000	
-ZKN_SWORD_373_000	
-ZKN_SWORD_374_000	
-ZKN_SWORD_375_000	
-ZKN_SWORD_376_000	
-ZKN_SWORD_377_000	
-ZKN_SWORD_378_000	
-ZKN_SWORD_379_000	
+ZKN_SWORD_371_000	Bagon jumps off cliffs every day, trying to grow stronger so that someday it will be able to fly.
+ZKN_SWORD_372_000	This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.
+ZKN_SWORD_373_000	Salamence is an unusual Pokémon in that it was able to evolve a body with wings just by constantly wishing to be able to fly.
+ZKN_SWORD_374_000	From its rear, Beldum emits a magnetic force that rapidly pulls opponents in. They get skewered on Beldum's sharp claws.
+ZKN_SWORD_375_000	Two Beldum have become stuck together via their own magnetic forces. With two brains, the resulting Metang has doubled psychic powers.
+ZKN_SWORD_376_000	Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy.
+ZKN_SWORD_377_000	Every bit of Regirock's body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what's been lost.
+ZKN_SWORD_378_000	With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.
+ZKN_SWORD_379_000	Registeel's body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal.
 ZKN_SWORD_380_000	
 ZKN_SWORD_381_000	
 ZKN_SWORD_382_000	
 ZKN_SWORD_383_000	
 ZKN_SWORD_384_000	
-ZKN_SWORD_385_000	
+ZKN_SWORD_385_000	Once every 1,000 years, the singing of a pure voice will rouse this Pokémon from its near- perpetual slumber. It wakes for only seven days.
 ZKN_SWORD_386_000	
 ZKN_SWORD_387_000	
 ZKN_SWORD_388_000	
@@ -16813,10 +16915,10 @@ ZKN_SWORD_438_000	It expels both sweat and tears from its eyes. The sweat is a l
 ZKN_SWORD_439_000	It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.
 ZKN_SWORD_440_000	Mimicking Chansey, Happiny will place an egg- shaped stone in its belly pouch. Happiny will treasure this stone.
 ZKN_SWORD_441_000	
-ZKN_SWORD_442_000	
-ZKN_SWORD_443_000	
-ZKN_SWORD_444_000	
-ZKN_SWORD_445_000	
+ZKN_SWORD_442_000	Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.
+ZKN_SWORD_443_000	Gible prefers to stay in narrow holes in the sides of caves heated by geothermal energy. This way, Gible can stay warm even during a blizzard.
+ZKN_SWORD_444_000	This Pokémon emits ultrasonic waves from a protrusion on either side of its head to probe pitch-dark caves.
+ZKN_SWORD_445_000	Garchomp makes its home in volcanic mountains. It flies through the sky as fast as a jet airplane, hunting down as much prey as it can.
 ZKN_SWORD_446_000	Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless—it does not care.
 ZKN_SWORD_447_000	It's exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.
 ZKN_SWORD_448_000	It controls waves known as auras, which are powerful enough to pulverize huge rocks. It uses these waves to take down its prey.
@@ -16837,8 +16939,8 @@ ZKN_SWORD_462_000	Some say that Magnezone receives signals from space via the an
 ZKN_SWORD_463_000	Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.
 ZKN_SWORD_464_000	It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.
 ZKN_SWORD_465_000	Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.
-ZKN_SWORD_466_000	
-ZKN_SWORD_467_000	
+ZKN_SWORD_466_000	The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.
+ZKN_SWORD_467_000	When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.
 ZKN_SWORD_468_000	These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they've hardly been seen at all.
 ZKN_SWORD_469_000	
 ZKN_SWORD_470_000	Galarians favor the distinctive aroma that drifts from this Pokémon's leaves. There's a popular perfume made using that scent.
@@ -16902,7 +17004,7 @@ ZKN_SWORD_527_000	While inside a cave, if you look up and see lots of heart-shap
 ZKN_SWORD_528_000	Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.
 ZKN_SWORD_529_000	It brings its claws together and whirls around at high speed before rushing toward its prey.
 ZKN_SWORD_530_000	It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.
-ZKN_SWORD_531_000	
+ZKN_SWORD_531_000	Audino's sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino's ears.
 ZKN_SWORD_532_000	It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.
 ZKN_SWORD_533_000	It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.
 ZKN_SWORD_534_000	Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.
@@ -16935,10 +17037,10 @@ ZKN_SWORD_560_000	As halfhearted as this Pokémon's kicks may seem, they pack en
 ZKN_SWORD_561_000	Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.
 ZKN_SWORD_562_000	It wanders through ruins by night, carrying a mask that's said to have been the face it had when it was still human.
 ZKN_SWORD_563_000	This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human.
-ZKN_SWORD_564_000	
-ZKN_SWORD_565_000	
-ZKN_SWORD_566_000	
-ZKN_SWORD_567_000	
+ZKN_SWORD_564_000	This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.
+ZKN_SWORD_565_000	Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta's own shell grows thick and sturdy.
+ZKN_SWORD_566_000	This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it's very good at jumping.
+ZKN_SWORD_567_000	It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.
 ZKN_SWORD_568_000	Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.
 ZKN_SWORD_569_000	This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.
 ZKN_SWORD_570_000	Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.
@@ -16986,7 +17088,7 @@ ZKN_SWORD_611_000	After battle, this Pokémon carefully sharpens its tusks on ri
 ZKN_SWORD_612_000	Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.
 ZKN_SWORD_613_000	When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.
 ZKN_SWORD_614_000	It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.
-ZKN_SWORD_615_000	
+ZKN_SWORD_615_000	With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown.
 ZKN_SWORD_616_000	When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.
 ZKN_SWORD_617_000	It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.
 ZKN_SWORD_618_000	Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.
@@ -17009,16 +17111,16 @@ ZKN_SWORD_634_000	While hunting for prey, Zweilous wanders its territory, its tw
 ZKN_SWORD_635_000	There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.
 ZKN_SWORD_636_000	The people of ancient times believed that Larvesta fell from the sun.
 ZKN_SWORD_637_000	Volcarona scatters burning scales. Some say it does this to start fires. Others say it's trying to rescue those that suffer in the cold.
-ZKN_SWORD_638_000	
-ZKN_SWORD_639_000	
-ZKN_SWORD_640_000	
+ZKN_SWORD_638_000	This Pokémon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region's Pokémon.
+ZKN_SWORD_639_000	It has phenomenal power. It will mercilessly crush anyone or anything that bullies small Pokémon.
+ZKN_SWORD_640_000	A legend tells of this Pokémon working together with Cobalion and Terrakion to protect the Pokémon of the Unova region.
 ZKN_SWORD_641_000	
 ZKN_SWORD_642_000	
-ZKN_SWORD_643_000	
-ZKN_SWORD_644_000	
+ZKN_SWORD_643_000	Flames spew from its tail as it flies through the sky like a jet airplane. It's said that this Pokémon will scorch the world.
+ZKN_SWORD_644_000	When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.
 ZKN_SWORD_645_000	
-ZKN_SWORD_646_000	
-ZKN_SWORD_647_000	
+ZKN_SWORD_646_000	Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.
+ZKN_SWORD_647_000	Cobalion, Terrakion, and Virizion taught this Pokémon how to fight. It dashes across the world, seeking more opportunities to further its training.
 ZKN_SWORD_648_000	
 ZKN_SWORD_649_000	
 ZKN_SWORD_650_000	
@@ -17067,14 +17169,14 @@ ZKN_SWORD_692_000	Clauncher's claws can fall off during battle, but they'll rege
 ZKN_SWORD_693_000	After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.
 ZKN_SWORD_694_000	When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.
 ZKN_SWORD_695_000	A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.
-ZKN_SWORD_696_000	
-ZKN_SWORD_697_000	
-ZKN_SWORD_698_000	
-ZKN_SWORD_699_000	
+ZKN_SWORD_696_000	This is an ancient Pokémon, revived in modern times. It has a violent disposition, and it'll tear apart anything it gets between its hefty jaws.
+ZKN_SWORD_697_000	This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.
+ZKN_SWORD_698_000	This Pokémon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.
+ZKN_SWORD_699_000	Aurorus was restored from a fossil. It's said that when this Pokémon howls, auroras appear in the night sky.
 ZKN_SWORD_700_000	By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.
 ZKN_SWORD_701_000	It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.
 ZKN_SWORD_702_000	A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.
-ZKN_SWORD_703_000	
+ZKN_SWORD_703_000	When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.
 ZKN_SWORD_704_000	Because most of its body is water, it will dry up if the weather becomes too arid. It's considered the weakest dragon Pokémon.
 ZKN_SWORD_705_000	Although this Pokémon isn't very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.
 ZKN_SWORD_706_000	Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.
@@ -17093,15 +17195,15 @@ ZKN_SWORD_718_000
 ZKN_SWORD_719_000	
 ZKN_SWORD_720_000	
 ZKN_SWORD_721_000	
-ZKN_SWORD_722_000	
-ZKN_SWORD_723_000	
-ZKN_SWORD_724_000	
-ZKN_SWORD_725_000	
-ZKN_SWORD_726_000	
-ZKN_SWORD_727_000	
-ZKN_SWORD_728_000	
-ZKN_SWORD_729_000	
-ZKN_SWORD_730_000	
+ZKN_SWORD_722_000	At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.
+ZKN_SWORD_723_000	It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.
+ZKN_SWORD_724_000	As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.
+ZKN_SWORD_725_000	It spends even the smallest amount of downtime grooming its fur with its tongue. Loose fur gathers in its stomach and serves as fuel for fiery moves.
+ZKN_SWORD_726_000	In the midst of battle, the fire pouch on Torracat's neck rings like a bell and produces stronger flames than usual.
+ZKN_SWORD_727_000	It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.
+ZKN_SWORD_728_000	It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage.
+ZKN_SWORD_729_000	As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes.
+ZKN_SWORD_730_000	With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.
 ZKN_SWORD_731_000	
 ZKN_SWORD_732_000	
 ZKN_SWORD_733_000	
@@ -17160,10 +17262,10 @@ ZKN_SWORD_785_000
 ZKN_SWORD_786_000	
 ZKN_SWORD_787_000	
 ZKN_SWORD_788_000	
-ZKN_SWORD_789_000	
-ZKN_SWORD_790_000	
-ZKN_SWORD_791_000	
-ZKN_SWORD_792_000	
+ZKN_SWORD_789_000	This Pokémon came from another universe. Its gaseous body is so light that even a gentle breeze can blow it away.
+ZKN_SWORD_790_000	The absorption of starlight fuels this Pokémon's growth. The shell that encases it is harder than any known material.
+ZKN_SWORD_791_000	When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world.
+ZKN_SWORD_792_000	Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy.
 ZKN_SWORD_793_000	
 ZKN_SWORD_794_000	
 ZKN_SWORD_795_000	
@@ -17171,16 +17273,16 @@ ZKN_SWORD_796_000
 ZKN_SWORD_797_000	
 ZKN_SWORD_798_000	
 ZKN_SWORD_799_000	
-ZKN_SWORD_800_000	
+ZKN_SWORD_800_000	It survives by absorbing light. After a long time spent slumbering underground, impurities accumulated within it, causing its body to darken.
 ZKN_SWORD_801_000	
-ZKN_SWORD_802_000	
+ZKN_SWORD_802_000	By slipping into the shadow of a martial arts master and copying their movements, this Pokémon learned the ultimate techniques.
 ZKN_SWORD_803_000	
 ZKN_SWORD_804_000	
 ZKN_SWORD_805_000	
 ZKN_SWORD_806_000	
-ZKN_SWORD_807_000	
-ZKN_SWORD_808_000	
-ZKN_SWORD_809_000	
+ZKN_SWORD_807_000	It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.
+ZKN_SWORD_808_000	It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.
+ZKN_SWORD_809_000	At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.
 ZKN_SWORD_810_000	When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.
 ZKN_SWORD_811_000	The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.
 ZKN_SWORD_812_000	By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.
@@ -17265,6 +17367,11 @@ ZKN_SWORD_890_000	The core on its chest absorbs energy emanating from the lands 
 ZKN_SWORD_891_000	Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.
 ZKN_SWORD_892_000	This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
 ZKN_SWORD_893_000	Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.
+ZKN_SWORD_894_000	This Pokémon is a cluster of electrical energy. It's said that removing the rings on Regieleki's body will unleash the Pokémon's latent power.
+ZKN_SWORD_895_000	An academic theory proposes that Regidrago's arms were once the head of an ancient dragon Pokémon. The theory remains unproven.
+ZKN_SWORD_896_000	Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon—anything it wants, it takes by force.
+ZKN_SWORD_897_000	It probes its surroundings with all its senses save one—it doesn't use its sense of sight. Spectrier's kicks are said to separate soul from body.
+ZKN_SWORD_898_000	Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.
 ZKN_SWORD_003_001	
 ZKN_SWORD_003_999	In battle, this Pokémon swings around two thick vines. If these vines slammed into a 10-story building, they could easily topple it.
 ZKN_SWORD_006_001	
@@ -17328,9 +17435,13 @@ ZKN_SWORD_133_001
 ZKN_SWORD_133_999	Gigantamax energy upped the fluffiness of the fur around Eevee's neck. The fur will envelop a foe, capturing its body and captivating its mind.
 ZKN_SWORD_142_001	
 ZKN_SWORD_143_999	Gigantamax energy has affected stray seeds and even pebbles that got stuck to Snorlax, making them grow to a huge size.
+ZKN_SWORD_144_001	Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper.
+ZKN_SWORD_145_001	When its feathers rub together, they produce a crackling sound like the zapping of electricity. That's why this Pokémon is called Zapdos.
+ZKN_SWORD_146_001	This Pokémon's sinister, flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
 ZKN_SWORD_150_001	
 ZKN_SWORD_150_002	
 ZKN_SWORD_181_001	
+ZKN_SWORD_199_001	A combination of toxins and the shock of evolving has increased Shellder's intelligence to the point that Shellder now controls Slowking.
 ZKN_SWORD_201_001	
 ZKN_SWORD_201_002	
 ZKN_SWORD_201_003	
@@ -17453,9 +17564,9 @@ ZKN_SWORD_618_001	Living in mud with a high iron content has given it a strong s
 ZKN_SWORD_641_001	
 ZKN_SWORD_642_001	
 ZKN_SWORD_645_001	
-ZKN_SWORD_646_001	
-ZKN_SWORD_646_002	
-ZKN_SWORD_647_001	
+ZKN_SWORD_646_001	The sameness of Reshiram's and Kyurem's genes allowed Kyurem to absorb Reshiram. Kyurem can now use the power of both fire and ice.
+ZKN_SWORD_646_002	It's said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon.
+ZKN_SWORD_647_001	Keldeo has strengthened its resolve for battle, filling its body with power and changing its form.
 ZKN_SWORD_648_001	
 ZKN_SWORD_649_001	
 ZKN_SWORD_649_002	
@@ -17605,11 +17716,11 @@ ZKN_SWORD_778_001	There will be no forgiveness for any who reveal that it was pr
 ZKN_SWORD_778_002	
 ZKN_SWORD_778_003	
 ZKN_SWORD_784_001	
-ZKN_SWORD_800_001	
-ZKN_SWORD_800_002	
+ZKN_SWORD_800_001	When it dominates Solgaleo, it takes on this form. It's a vicious Pokémon, mangling prey with its many claws—including those on its back.
+ZKN_SWORD_800_002	Necrozma has subjugated Lunala entirely, forcing the unfortunate Pokémon to emit its light energy for Necrozma to consume.
 ZKN_SWORD_800_003	
 ZKN_SWORD_801_001	
-ZKN_SWORD_809_999	
+ZKN_SWORD_809_999	In a distant land, there are legends about a cyclopean giant. In fact, the giant was a Melmetal that was flooded with Gigantamax energy.
 ZKN_SWORD_812_999	Gigantamax energy has caused Rillaboom's stump to grow into a drum set that resembles a forest.
 ZKN_SWORD_815_999	Infused with Cinderace's fighting spirit, the gigantic Pyro Ball never misses its targets and completely roasts opponents.
 ZKN_SWORD_818_999	Gigantamax Inteleon's Water Gun move fires at Mach 7. As the Pokémon takes aim, it uses the crest on its head to gauge wind and temperature.
@@ -17651,6 +17762,8 @@ ZKN_SWORD_892_001	It's believed that this Pokémon modeled its fighting style on
 ZKN_SWORD_892_999	People call it the embodiment of rage. It's said that this Pokémon's terrifying expression and shout will rid the world of malevolence.
 ZKN_SWORD_892_998	As it waits for the right moment to unleash its Gigantamax power, this Pokémon maintains a perfect one-legged stance. It won't even twitch.
 ZKN_SWORD_893_001	This Zarude left its pack to raise a human child. The cloth Zarude would wrap the child with has a comforting scent that calmed the child's crying.
+ZKN_SWORD_898_001	According to lore, this Pokémon showed no mercy to those who got in its way, yet it would heal its opponents' wounds after battle.
+ZKN_SWORD_898_002	It's said that Calyrex and a Pokémon that had bonded with it ran all across the Galar region to bring green to the wastelands.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_ultramoon_usa.msbt

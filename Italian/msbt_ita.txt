@@ -895,6 +895,11 @@ MONSNAME_890	Eternatus
 MONSNAME_891	Kubfu
 MONSNAME_892	Urshifu
 MONSNAME_893	Zarude
+MONSNAME_894	Regieleki
+MONSNAME_895	Regidrago
+MONSNAME_896	Glastrier
+MONSNAME_897	Spectrier
+MONSNAME_898	Calyrex
 
 ~~~~~~~~~~~~~~~
 Text File : place_name_spe_ita.msbt
@@ -1865,6 +1870,8 @@ sp_api_400_10309	Hai già un servizio premium.
 sp_api_403_10310	C'è un acquisto in corso in Pokémon HOME per Nintendo Switch. Completa prima quella transazione.
 sp_api_403_10311	C'è un acquisto in corso in Pokémon HOME per dispositivi mobili iOS. Completa prima quella transazione.
 sp_api_403_10312	C'è un acquisto in corso in Pokémon HOME per dispositivi mobili Android. Completa prima quella transazione.
+sp_api_400_10320	Il servizio premium attualmente in uso è stato messo in pausa. Puoi controllare lo stato del servizio selezionando "Gestisci rinnovo servizio".
+sp_api_400_10320_other	Il servizio premium di Pokémon HOME per dispositivi mobili in uso in un altro dispositivo è stato messo in pausa. Controlla lo stato del servizio su quel dispositivo. Nota: puoi vedere i dettagli selezionando "Gestisci rinnovo servizio".
 sp_api_404_40407	Non è stato trovato alcun amico. Controlla la lista degli amici.
 sp_api_500_10501	Si è verificato un errore. Riprova più tardi.
 sp_api_500_10504	Non è stato trovato alcun gruppo. Lo scambio verrà annullato.
@@ -1911,19 +1918,6 @@ sp_contentinfo_category_06	Negozio online ufficiale
 sp_contentinfo_category_07	Film e TV
 sp_contentinfo_category_08	Eventi
 sp_contentinfo_category_09	Offerte
-sp_contentinfo_00001	
-sp_contentinfo_00002	
-sp_contentinfo_00003	
-sp_contentinfo_00004	
-sp_contentinfo_00005	
-sp_contentinfo_00006	
-sp_contentinfo_00007	
-sp_contentinfo_00008	
-sp_contentinfo_00009	
-sp_contentinfo_00010	
-sp_contentinfo_00011	
-sp_contentinfo_00012	
-sp_contentinfo_00013	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_country_ita.msbt
@@ -2215,6 +2209,12 @@ sp_option_country	Paese/regione
 sp_option_change_country	Hai cambiato il tuo paese o la tua regione. Tornerai allo schermo del titolo.
 sp_option_transition_smartphone	Trasferisci su un altro dispositivo
 sp_option_change	Modifica
+sp_option_filter_0001_vgo	Ricerca nei Box Pokémon
+sp_option_filter_0002_vgo	Ricorda i criteri di ricerca
+sp_option_filter_0003_vgo	I criteri di ricerca nei Box Pokémon verranno ripristinati. Vuoi continuare?
+sp_option_sort_0001_vgo	Organizzazione dei Box Pokémon
+sp_option_sort_0002_vgo	Ricorda i criteri di organizzazione
+sp_option_sort_0003_vgo	I criteri di organizzazione dei Box Pokémon verranno ripristinati. Vuoi continuare?
 sp_option_notice_00001	Ricevi notifiche
 sp_option_notice_00005	Altro
 sp_option_notice_00006	Notifiche
@@ -2244,6 +2244,9 @@ sp_option_account_00023	L'account Nintendo verrà cambiato.
 sp_option_account_00024	È possibile utilizzare un account Nintendo diverso da quello corrente.
 sp_option_account_00025	Cambia l'account Nintendo
 sp_option_account_00026	L'account Nintendo è stato cambiato. Tornerai allo schermo del titolo.
+sp_option_account_00027_vgo	Attenzione: se cambi l'account Nintendo collegato non ti sarà più possibile ricollegare l'account Nintendo precedente.
+sp_option_account_00028_vgo	Se sostituisci l'account Nintendo attualmente collegato con uno diverso, non potrai più usare Pokémon HOME con l'account Nintendo originario.  Vuoi davvero cambiare l'account Nintendo?
+sp_option_account_00029_vgo	Potrai sostituire l'account Nintendo con uno che non è mai stato collegato a Pokémon HOME.
 sp_option_MONSNAME_722	Bulbasaur
 sp_option_MONSNAME_725	Charmander
 sp_option_MONSNAME_728	Squirtle
@@ -2304,11 +2307,9 @@ sp_option_nalink_0043_v2	Vuoi collegare Pokémon HOME per Nintendo Switch a Pok�
 sp_option_nalink_0044_v2	Abbiamo potuto verificare che stai usando Pokémon HOME per dispositivi mobili con questo account Nintendo.
 sp_option_nalink_0045_v2	Verifica che l'<u><b>ID cliente nello schermo del titolo</b></u> della versione di Pokémon HOME per dispositivi mobili utilizzata finora corrisponda a quello visualizzato qui sotto.
 sp_option_nalink_0046_v2	Vuoi trasferire i dati esistenti di Pokémon HOME per dispositivi mobili su questo dispositivo?
-sp_option_holohlo_0001_vgo	
-sp_option_holohlo_0002_vgo	
-sp_option_holohlo_0003_vgo	
-sp_option_holohlo_0004_vgo	
-sp_option_holohlo_0005_vgo	
+sp_option_holohlo_0001_vgo	Collegamento a Pokémon GO
+sp_option_holohlo_0004_vgo	Ricevi Pokémon
+sp_option_holohlo_0005_vgo	Ricevi Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_ita.msbt
@@ -2349,6 +2350,7 @@ sp_plan_android_pp	■ Disattivazione del rinnovo automatico Il rinnovo automati
 sp_plan_30_explanation_android_v2	Con rinnovo mensile automatico (se applicabile).
 sp_plan_90_explanation_android_v2	Con rinnovo trimestrale automatico (se applicabile).
 sp_plan_365_explanation_android_v2	Con rinnovo annuale automatico (se applicabile).
+sp_plan_recovered_notice_vgo	Il rinnovo del servizio è stato ripristinato. Puoi controllare il servizio di cui disponi dalle Opzioni selezionando "Dettagli sul servizio".
 
 ~~~~~~~~~~~~~~~
 Text File : sp_playerlog_ita.msbt
@@ -2391,7 +2393,8 @@ sp_playerlog_00036	Hai ricevuto un regalo di benvenuto.
 sp_playerlog_00037	Hai ricevuto il tuo primo Pokémon.
 sp_playerlog_00038	Hai ottenuto dei punti Pokémon HOME.
 sp_playerlog_00039	Hai utilizzato dei punti Pokémon HOME.
-sp_playerlog_00040_vgo	
+sp_playerlog_00040_vgo	Hai ricevuto dei Pokémon da Pokémon GO.
+sp_playerlog_00041_vgo	Pokémon trasferiti
 sp_playerlog_empty_list	Nessuna informazione disponibile.
 sp_playerlog_filter_category	Categoria
 sp_playerlog_sort_pokemon_leave	Depositati
@@ -2431,6 +2434,11 @@ sp_trade_00004	Pokémon rari scambiati tramite Box prodigioso
 sp_trade_00006	Sotto i riflettori
 sp_trade_00007	In rapida ascesa in classifica
 sp_trade_00008	Caricamento dei dati...
+sp_trade_00009_vgo	GTS
+sp_trade_00010_vgo	Pokémon più richiesti (Pokémon speciali esclusi)
+sp_trade_00011_vgo	Pokémon più richiesti
+sp_trade_00012_vgo	Pokémon più scambiati
+sp_trade_00013_vgo	Pokémon rari scambiati
 sp_trade_01001	Hai selezionato [VAR_PKNAME].
 sp_trade_01002	Info
 sp_trade_01003	Non puoi selezionare un Pokémon depositato nel GTS.
@@ -2776,6 +2784,7 @@ sp_ui_operation	Comandi
 sp_ui_delivery_receive	Doni Segreti
 sp_ui_pokemon_out_in	Software collegati
 sp_ui_pokesmile	Punti Pokémon HOME
+sp_ui_go	Collegamenti a Pokémon GO
 sp_ui_date	Data
 sp_ui_deposit	Deposita
 sp_ui_withdrawal	Ritira
@@ -2928,6 +2937,7 @@ sp_ui_report_10	Pokémon registrati nel Pokédex
 sp_ui_report_11	Mosse registrate
 sp_ui_report_12	Abilità registrate
 sp_ui_report_13	Adesivi raccolti
+sp_ui_report_14	Pokémon trasferiti da Pokémon GO
 sp_ui_notice_tab_1	Tutte
 sp_ui_notice_tab_2	Sistema
 sp_ui_notice_tab_3	Eventi
@@ -2957,23 +2967,30 @@ sp_ui_app_desc_0010_v3	Pokémon: Let's Go, Pikachu! e Pokémon: Let's Go, Eevee!
 sp_ui_app_desc_0011_v3	Nota: puoi trasferire in Pokémon: Let's Go, Pikachu! e Pokémon: Let's Go, Eevee! solo Pokémon che hai catturato in questi giochi!
 sp_ui_app_desc_0012_v3	I Pokémon incontrati in giochi della serie precedenti possono essere trasferiti in Pokémon HOME per Nintendo Switch o per dispositivi mobili tramite la Banca Pokémon.
 sp_ui_app_desc_0013_v3	Nota: puoi trasferire Pokémon dalla Banca Pokémon a Pokémon HOME solo con il servizio premium (a pagamento). L'utilizzo della Banca Pokémon richiede il pagamento di una tariffa annuale a parte.
-sp_ui_app_desc_0014_v3	
-sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0014_v3	Collegamento a Pokémon GO
+sp_ui_app_desc_0015_v3	I Pokémon catturati in Pokémon GO possono essere trasferiti nella versione di Pokémon HOME per Nintendo Switch e in quella per dispositivi mobili.
 sp_ui_app_desc_0016_v3	Collegamento a Pokémon Spada e Pokémon Scudo
 sp_ui_app_desc_0017_v3	Collegamento a Pokémon: Let's Go, Pikachu! e Pokémon: Let's Go, Eevee!
 sp_ui_app_desc_0018_v3	Nota: un Pokémon trasferito dalla Banca Pokémon a Pokémon HOME non potrà più tornare nella Banca Pokémon.
 sp_ui_app_desc_0019_v3	Nota: le Pokémiglia non possono essere trasferite dalla Banca Pokémon a Pokémon HOME.
-sp_ui_link_go_0001_vgo	
-sp_ui_link_go_0002_vgo	
-sp_ui_transfer_accepting_head_vgo	
-sp_ui_transfer_complete_head_vgo	
-sp_ui_go_complete_body_vgo	
-sp_ui_go_info_vgo	
-sp_ui_go_over_capacity_bank_vgo	
-sp_ui_go_over_capacity_title_vgo	
-sp_ui_go_over_capacity_freebox_vgo	
-sp_ui_go_pokemon_list_vgo	
-sp_ui_transfer_pokemon_detail_vgo	
+sp_ui_app_desc_0020_vgo	Per trasferire Pokémon da Pokémon GO a Pokémon HOME, entrambe le applicazioni devono essere collegate allo stesso account Nintendo.
+sp_ui_app_desc_0021_vgo	Non puoi trasferire Pokémon da Pokémon HOME a Pokémon GO.
+sp_ui_app_desc_0022_vgo	Alcuni Pokémon di Pokémon GO non possono essere trasferiti in Pokémon HOME.
+sp_ui_app_desc_0023_vgo	I Pokémon trasferiti da Pokémon GO a Pokémon HOME possono essere in seguito trasferiti nei seguenti giochi: - Pokémon Spada e Pokémon Scudo
+sp_ui_app_desc_0024_vgo	Per trasferire in un altro gioco collegato dei Pokémon catturati in Pokémon GO e trasferiti in Pokémon HOME è necessario che quei Pokémon siano già registrati nel Pokédex di tale gioco collegato, oppure che siano stati ottenuti a un certo punto in tale gioco.
+sp_ui_app_desc_0025_vgo	Se colleghi Pokémon HOME a giochi e servizi compatibili, potrai trasferire in Pokémon HOME i Pokémon ottenuti nei giochi della serie principale o in Pokémon GO, e trasferirli poi da Pokémon HOME a determinati altri giochi. Potrai anche scambiare Pokémon con Allenatori di tutto il mondo.
+sp_ui_link_go_0001_vgo	Collegamento a Pokémon GO
+sp_ui_link_go_0002_vgo	Sono stati trasferiti dei Pokémon da Pokémon GO.  Vuoi riceverli?
+sp_ui_transfer_accept_vgo	Ricevi Pokémon
+sp_ui_transfer_accept_confirm_vgo	Vedi Pokémon trasferiti
+sp_ui_transfer_complete_head_vgo	Pokémon ricevuti
+sp_ui_go_complete_body_vgo	Hai ricevuto dei Pokémon da Pokémon GO.
+sp_ui_go_info_vgo	Puoi ricevere Pokémon trasferiti da Pokémon GO.
+sp_ui_go_over_capacity_bank_vgo	Non hai abbastanza spazio in Pokémon HOME per ricevere altri Pokémon. Fai un po' di spazio nei Box e riprova.
+sp_ui_go_over_capacity_title_vgo	Spazio insufficiente
+sp_ui_go_pokemon_list_vgo	Vai ai Box
+sp_ui_transfer_failure_vgo	Ricezione Pokémon non riuscita. Riprova. Tornerai allo schermo del titolo.
+sp_ui_holoholo_trainer_name_vgo	Nome Allenatore di Pokémon GO
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt
@@ -3247,6 +3264,13 @@ TOKUSEIINFO_257	Protegge il Pokémon e gli alleati dai problemi di stato causati
 TOKUSEIINFO_258	Alla fine di ogni turno cambia forma, alternando tra Motivo Panciapiena e Motivo Panciavuota.
 TOKUSEIINFO_259	A volte permette al Pokémon di agire per primo.
 TOKUSEIINFO_260	Quando il Pokémon utilizza un attacco diretto, gli effetti di mosse protettive vengono ignorati.
+TOKUSEIINFO_261	Quando il Pokémon entra in campo, sparge un farmaco dalla conchiglia che annulla le modifiche alle statistiche degli alleati.
+TOKUSEIINFO_262	Potenzia le mosse di tipo Elettro.
+TOKUSEIINFO_263	Potenzia le mosse di tipo Drago.
+TOKUSEIINFO_264	Quando manda KO il nemico, emette un nitrito agghiacciante, aumentando il proprio Attacco.
+TOKUSEIINFO_265	Quando manda KO il nemico, emette un nitrito terrificante, aumentando il proprio Attacco Speciale.
+TOKUSEIINFO_266	Il Pokémon ha una doppia abilità: Agitazione di Calyrex e Nitrito Bianco di Glastrier.
+TOKUSEIINFO_267	Il Pokémon ha una doppia abilità: Agitazione di Calyrex e Nitrito Nero di Spectrier.
 
 ~~~~~~~~~~~~~~~
 Text File : tokusei_ita.msbt
@@ -3512,6 +3536,13 @@ TOKUSEI_257	Pastelvelo
 TOKUSEI_258	Pancialterna
 TOKUSEI_259	Colpolesto
 TOKUSEI_260	Pugni Invisibili
+TOKUSEI_261	Stranofarmaco
+TOKUSEI_262	Transistor
+TOKUSEI_263	Dragomascelle
+TOKUSEI_264	Nitrito Bianco
+TOKUSEI_265	Nitrito Nero
+TOKUSEI_266	Sintonia Equina
+TOKUSEI_267	Sintonia Equina
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_ita.msbt
@@ -4424,6 +4455,14 @@ WAZAINFO_815	Chi la usa attacca il bersaglio scagliandogli addosso della sabbia 
 WAZAINFO_816	Il Pokémon diventa tutt'uno con la giungla, ripristinando i PS e curando i problemi di stato per sé e per l'alleato in campo.
 WAZAINFO_817	Il Pokémon sferra un singolo colpo potentissimo, massima espressione dello stile di tipo Buio. Brutto colpo assicurato.
 WAZAINFO_818	Il Pokémon sferra una fluida serie di tre attacchi, massima espressione dello stile di tipo Acqua. Brutto colpo assicurato.
+WAZAINFO_819	Il Pokémon attacca il bersaglio imprigionandolo in una gabbia di elettricità, che sprigiona corrente per quattro o cinque turni.
+WAZAINFO_820	Il Pokémon attacca i nemici convertendo la propria forza vitale in energia. La potenza della mossa cala man mano che i PS diminuiscono.
+WAZAINFO_821	Il Pokémon attacca rilasciando energia psichica dagli occhi. Può congelare il bersaglio.
+WAZAINFO_822	Il Pokémon attacca trasformando la sua rabbia in un'aura simile a fiamme. Può anche far tentennare i nemici.
+WAZAINFO_823	Il Pokémon sferra calci al bersaglio dopo averlo distratto con movimenti fulminei, riducendone la Difesa.
+WAZAINFO_824	Il Pokémon attacca i nemici scagliando una lancia di ghiaccio accompagnata da una tormenta di neve.
+WAZAINFO_825	Il Pokémon attacca i nemici scatenandogli contro una miriade di piccoli spettri.
+WAZAINFO_826	Il Pokémon attacca con i suoi potenti poteri psichici. Sottrae tre PP all'ultima mossa usata dal nemico.
 
 ~~~~~~~~~~~~~~~
 Text File : wazaname_ita.msbt
@@ -5247,6 +5286,14 @@ WAZANAME_815	Sabbiardente
 WAZANAME_816	Giunglacura
 WAZANAME_817	Pugnotenebra
 WAZANAME_818	Idroraffica
+WAZANAME_819	Elettrogabbia
+WAZANAME_820	Dragoenergia
+WAZANAME_821	Sguardo Gelido
+WAZANAME_822	Furia Ardente
+WAZANAME_823	Calcio Tonante
+WAZANAME_824	Lancia Glaciale
+WAZANAME_825	Schegge Astrali
+WAZANAME_826	Inquietantesimo
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_form_ita.msbt
@@ -6145,6 +6192,11 @@ ZKN_FORM_890_000
 ZKN_FORM_891_000	
 ZKN_FORM_892_000	Stile Singolcolpo
 ZKN_FORM_893_000	
+ZKN_FORM_894_000	
+ZKN_FORM_895_000	
+ZKN_FORM_896_000	
+ZKN_FORM_897_000	
+ZKN_FORM_898_000	
 ZKN_FORM_003_001	MegaVenusaur
 ZKN_FORM_003_999	Gigamax
 ZKN_FORM_006_001	MegaCharizard X
@@ -6208,9 +6260,13 @@ ZKN_FORM_133_001
 ZKN_FORM_133_999	Gigamax
 ZKN_FORM_142_001	MegaAerodactyl
 ZKN_FORM_143_999	Gigamax
+ZKN_FORM_144_001	Forma di Galar
+ZKN_FORM_145_001	Forma di Galar
+ZKN_FORM_146_001	Forma di Galar
 ZKN_FORM_150_001	MegaMewtwo X
 ZKN_FORM_150_002	MegaMewtwo Y
 ZKN_FORM_181_001	MegaAmpharos
+ZKN_FORM_199_001	Forma di Galar
 ZKN_FORM_201_001	Forma Vaga
 ZKN_FORM_201_002	Forma Vaga
 ZKN_FORM_201_003	Forma Vaga
@@ -6531,6 +6587,8 @@ ZKN_FORM_892_001	Stile Pluricolpo
 ZKN_FORM_892_999	Gigamax
 ZKN_FORM_892_998	Gigamax
 ZKN_FORM_893_001	Papà
+ZKN_FORM_898_001	Cavaliere Glaciale
+ZKN_FORM_898_002	Cavaliere Spettrale
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_ita.msbt
@@ -7429,6 +7487,11 @@ ZKN_HEIGHT_890_000	20,0 m
 ZKN_HEIGHT_891_000	0,6 m
 ZKN_HEIGHT_892_000	1,9 m
 ZKN_HEIGHT_893_000	1,8 m
+ZKN_HEIGHT_894_000	1,2 m
+ZKN_HEIGHT_895_000	2,1 m
+ZKN_HEIGHT_896_000	2,2 m
+ZKN_HEIGHT_897_000	2,0 m
+ZKN_HEIGHT_898_000	1,1 m
 ZKN_HEIGHT_003_001	2,4 m
 ZKN_HEIGHT_003_999	> 24,0 m
 ZKN_HEIGHT_006_001	1,7 m
@@ -7492,9 +7555,13 @@ ZKN_HEIGHT_133_001
 ZKN_HEIGHT_133_999	> 18,0 m
 ZKN_HEIGHT_142_001	2,1 m
 ZKN_HEIGHT_143_999	> 35,0 m
+ZKN_HEIGHT_144_001	1,7 m
+ZKN_HEIGHT_145_001	1,6 m
+ZKN_HEIGHT_146_001	2,0 m
 ZKN_HEIGHT_150_001	2,3 m
 ZKN_HEIGHT_150_002	1,5 m
 ZKN_HEIGHT_181_001	1,4 m
+ZKN_HEIGHT_199_001	1,8 m
 ZKN_HEIGHT_201_001	0,5 m
 ZKN_HEIGHT_201_002	0,5 m
 ZKN_HEIGHT_201_003	0,5 m
@@ -7815,6 +7882,8 @@ ZKN_HEIGHT_892_001	1,9 m
 ZKN_HEIGHT_892_999	> 29,0 m
 ZKN_HEIGHT_892_998	> 26,0 m
 ZKN_HEIGHT_893_001	1,8 m
+ZKN_HEIGHT_898_001	2,4 m
+ZKN_HEIGHT_898_002	2,4 m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_ita.msbt
@@ -8713,11 +8782,22 @@ ZKN_TYPE_890	Pokémon Gigante
 ZKN_TYPE_891	Pokémon Kung Fu
 ZKN_TYPE_892	Pokémon Kung Fu
 ZKN_TYPE_893	Pokémon Scimmialigna
+ZKN_TYPE_894	Pokémon Elettrone
+ZKN_TYPE_895	Pokémon Dracosfera
+ZKN_TYPE_896	Pokémon Furiequino
+ZKN_TYPE_897	Pokémon Sveltequino
+ZKN_TYPE_898	Pokémon Re
 ZKN_TYPE_077_001	Pokémon Singolcorno
 ZKN_TYPE_078_001	Pokémon Singolcorno
 ZKN_TYPE_122_001	Pokémon Danza
+ZKN_TYPE_144_001	Pokémon Sanguefreddo
+ZKN_TYPE_145_001	Pokémon Zampeforti
+ZKN_TYPE_146_001	Pokémon Malvagità
+ZKN_TYPE_199_001	Pokémon Stregone
 ZKN_TYPE_555_002	Pokémon Daruma
 ZKN_TYPE_720_001	Pokémon Genio
+ZKN_TYPE_898_001	Pokémon Imperatore
+ZKN_TYPE_898_002	Pokémon Imperatore
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_ita.msbt
@@ -9616,6 +9696,11 @@ ZKN_WEIGHT_890_000	950,0 kg
 ZKN_WEIGHT_891_000	12,0 kg
 ZKN_WEIGHT_892_000	105,0 kg
 ZKN_WEIGHT_893_000	70,0 kg
+ZKN_WEIGHT_894_000	145,0 kg
+ZKN_WEIGHT_895_000	200,0 kg
+ZKN_WEIGHT_896_000	800,0 kg
+ZKN_WEIGHT_897_000	44,5 kg
+ZKN_WEIGHT_898_000	7,7 kg
 ZKN_WEIGHT_003_001	155,5 kg
 ZKN_WEIGHT_003_999	???,? kg
 ZKN_WEIGHT_006_001	110,5 kg
@@ -9679,9 +9764,13 @@ ZKN_WEIGHT_133_001
 ZKN_WEIGHT_133_999	???,? kg
 ZKN_WEIGHT_142_001	79,0 kg
 ZKN_WEIGHT_143_999	???,? kg
+ZKN_WEIGHT_144_001	50,9 kg
+ZKN_WEIGHT_145_001	58,2 kg
+ZKN_WEIGHT_146_001	66,0 kg
 ZKN_WEIGHT_150_001	127,0 kg
 ZKN_WEIGHT_150_002	33,0 kg
 ZKN_WEIGHT_181_001	61,5 kg
+ZKN_WEIGHT_199_001	79,5 kg
 ZKN_WEIGHT_201_001	5,0 kg
 ZKN_WEIGHT_201_002	5,0 kg
 ZKN_WEIGHT_201_003	5,0 kg
@@ -10002,6 +10091,8 @@ ZKN_WEIGHT_892_001	105,0 kg
 ZKN_WEIGHT_892_999	???,? kg
 ZKN_WEIGHT_892_998	???,? kg
 ZKN_WEIGHT_893_001	70,0 kg
+ZKN_WEIGHT_898_001	809,1 kg
+ZKN_WEIGHT_898_002	53,6 kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_ita.msbt
@@ -14049,20 +14140,20 @@ ZKN_SHIELD_025_000	I Pikachu si salutano fra loro unendo le code e facendovi pas
 ZKN_SHIELD_026_000	Quando le sacche elettriche sono scariche, rizza la coda per raccogliere elettricità dall'atmosfera.
 ZKN_SHIELD_027_000	Scava nel terreno per costruire la sua tana, frantumando anche le rocce più dure con i suoi artigli affilati.
 ZKN_SHIELD_028_000	Si arrampica sugli alberi utilizzando i suoi artigli affilati per poi condividere le bacche che trova con i Sandshrew, che aspettano sotto.
-ZKN_SHIELD_029_000	
-ZKN_SHIELD_030_000	
-ZKN_SHIELD_031_000	
-ZKN_SHIELD_032_000	
-ZKN_SHIELD_033_000	
-ZKN_SHIELD_034_000	
+ZKN_SHIELD_029_000	Mangia le bacche frantumandole con i robusti incisivi. La punta del corno è leggermente più arrotondata rispetto a quella del maschio.
+ZKN_SHIELD_030_000	Quando il branco è minacciato da un pericolo, i suoi membri uniscono le forze e dispiegano un coro di ultrasuoni.
+ZKN_SHIELD_031_000	Coccola i cuccioli mettendoseli sulla schiena negli spazi fra gli aculei, che in quei momenti smettono di secernere veleno.
+ZKN_SHIELD_032_000	Impavido nonostante la corporatura minuta, lotta con coraggio per proteggere la femmina a cui è affezionato, anche a costo della vita.
+ZKN_SHIELD_033_000	È irritabile e sempre pronto a battersi. Quando il livello di adrenalina nel suo corpo si alza, aumenta anche la concentrazione di tossine.
+ZKN_SHIELD_034_000	Si dà vanto della propria forza e lotta con vigore sfruttando la coda robusta e il corno in grado di frantumare il diamante.
 ZKN_SHIELD_035_000	Il suo verso e le sue movenze graziose rendono questo adorabile Pokémon molto popolare. Sfortunatamente, però, è molto raro.
 ZKN_SHIELD_036_000	Il loro udito è così acuto che sentono un ago cadere a 1 km di distanza. Per questo di solito vivono in luoghi molto silenziosi.
 ZKN_SHIELD_037_000	Man mano che cresce, le sue sei code diventano sempre più belle. La pelliccia di cui sono ricoperte è calda al tatto.
 ZKN_SHIELD_038_000	Molto intelligente e vendicativo. Chi gli afferra una coda rischia una maledizione millenaria.
 ZKN_SHIELD_039_000	Modulando a piacere la lunghezza d'onda della sua voce, canta una melodia misteriosa che fa addormentare immancabilmente chi la ascolta.
 ZKN_SHIELD_040_000	Va molto fiero del suo manto soffice. Il ricciolo sulla fronte, in particolare, suscita una sensazione sublime al tatto.
-ZKN_SHIELD_041_000	
-ZKN_SHIELD_042_000	
+ZKN_SHIELD_041_000	Vive in grotte mai rischiarate dalla luce del sole. Quando si fa giorno, si raggruppa con i suoi simili per scaldarsi mentre dorme.
+ZKN_SHIELD_042_000	Cammina agilmente con i piccoli piedi. Si avvicina di soppiatto alle prede addormentate per azzannarle e berne il sangue.
 ZKN_SHIELD_043_000	Di giorno vive nel freddo sottosuolo, per evitare la luce del sole. Cresce assorbendo la luce lunare.
 ZKN_SHIELD_044_000	Ciò che sembra bava è in realtà dolce nettare. È molto viscoso: si appiccica appena lo si sfiora.
 ZKN_SHIELD_045_000	Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa, però, diventa molto pesante e fa fatica a sostenerla.
@@ -14113,7 +14204,7 @@ ZKN_SHIELD_089_000
 ZKN_SHIELD_090_000	La sua conchiglia dura respinge ogni tipo di attacco. È vulnerabile solo quando apre le valve.
 ZKN_SHIELD_091_000	Quando richiude il guscio nessuno può aprirlo, neppure chi è dotato di una forza straordinaria.
 ZKN_SHIELD_092_000	Il suo corpo gassoso può infilarsi ovunque, ma un colpo di vento lo può spazzare via.
-ZKN_SHIELD_093_000	Si nasconde nell'ombra. Pare che nei luoghi in cui Gengar si cela, la temperatura si abbassi di 5 ºC.
+ZKN_SHIELD_093_000	Se da soli, al buio, si ha l'impressione di essere osservati da qualcuno, si tratta di Haunter.
 ZKN_SHIELD_094_000	Si dice che emerga dall'oscurità per sottrarre la vita di chi si è perso tra le montagne.
 ZKN_SHIELD_095_000	Scava nel terreno a una velocità di 80 km/h contorcendo e agitando il corpo grande e possente.
 ZKN_SHIELD_096_000	
@@ -14144,9 +14235,9 @@ ZKN_SHIELD_120_000	Viene mangiucchiato dai Pokémon acquatici, ma non ci dà pes
 ZKN_SHIELD_121_000	Risucchia il plancton mentre nuota nel mare facendo ruotare il suo corpo ad alta velocità.
 ZKN_SHIELD_122_000	È un ottimo mimo. Con le onde che emette dalle dita può creare una barriera che lo protegge da molti attacchi.
 ZKN_SHIELD_123_000	Se ci si imbatte in una zona della foresta con molti alberi abbattuti, si tratta del territorio di uno Scyther.
-ZKN_SHIELD_124_000	
-ZKN_SHIELD_125_000	
-ZKN_SHIELD_126_000	
+ZKN_SHIELD_124_000	La maggior parte dei Jynx di Galar hanno una voce talmente incantevole e delicata da avere addirittura dei fan.
+ZKN_SHIELD_125_000	All'arrivo di un temporale questi Pokémon si raggruppano intorno agli alberi alti, aspettando immobili che cada un fulmine.
+ZKN_SHIELD_126_000	Il suo corpo è perennemente in fiamme. Viene considerato una delle cause degli incendi, e per questo è temuto.
 ZKN_SHIELD_127_000	Afferra le prede con le corna e le trancia in due, oppure le lancia via con violenza.
 ZKN_SHIELD_128_000	I Tauros che vivono a Galar hanno un'indole violenta e non tollerano che gli esseri umani salgano loro in groppa.
 ZKN_SHIELD_129_000	Un Pokémon debole e patetico: non fa che lasciarsi trascinare dove lo porta la corrente.
@@ -14158,20 +14249,20 @@ ZKN_SHIELD_134_000	La sua composizione cellulare è simile a quella delle moleco
 ZKN_SHIELD_135_000	Accumula gli ioni negativi presenti nell'atmosfera per lanciare scariche elettriche da 10.000 volt.
 ZKN_SHIELD_136_000	Parte dell'aria che inala finisce in una sacca interna, dove brucia raggiungendo una temperatura di 1.700 ºC.
 ZKN_SHIELD_137_000	Negli ultimi anni ha assunto un ruolo di rilevanza nel cyberspazio, in cui si aggira per assicurarsi che non ci siano dati sospetti.
-ZKN_SHIELD_138_000	
-ZKN_SHIELD_139_000	
-ZKN_SHIELD_140_000	
-ZKN_SHIELD_141_000	
-ZKN_SHIELD_142_000	
+ZKN_SHIELD_138_000	È un antico Pokémon ormai estinto. Quando nuota usando i suoi dieci tentacoli sembra fluttuare nell'acqua.
+ZKN_SHIELD_139_000	Le sue zanne affilate possono frantumare anche le pietre, ma può attaccare solo le prede a portata di tentacolo.
+ZKN_SHIELD_140_000	Si dice che si sia estinto, ma pare che in certe zone si possa avvistare con una certa facilità.
+ZKN_SHIELD_141_000	Questo feroce Pokémon dell'antichità viveva nei mari caldi. Le cause della sua estinzione sono ignote.
+ZKN_SHIELD_142_000	Le sue zanne simili a lame sono in grado di fare a brandelli persino la pelle dei Pokémon di tipo Acciaio.
 ZKN_SHIELD_143_000	Ha uno stomaco così resistente che può ingerire anche cibo ammuffito o avariato.
-ZKN_SHIELD_144_000	
-ZKN_SHIELD_145_000	
-ZKN_SHIELD_146_000	
-ZKN_SHIELD_147_000	
-ZKN_SHIELD_148_000	
-ZKN_SHIELD_149_000	
-ZKN_SHIELD_150_000	
-ZKN_SHIELD_151_000	
+ZKN_SHIELD_144_000	È in grado di controllare il ghiaccio a suo piacimento. Si dice che viva sulle montagne innevate nelle aree coperte da permafrost.
+ZKN_SHIELD_145_000	Si dice che quando questo leggendario Pokémon alato sfrega le ali fra loro, cada istantaneamente un fulmine.
+ZKN_SHIELD_146_000	Si narra che abbia aiutato dei viandanti che si erano persi illuminando i sentieri montuosi con le splendide ali infuocate.
+ZKN_SHIELD_147_000	È stato a lungo considerato un miraggio. La piccola protuberanza sulla fronte è un corno in fase di crescita.
+ZKN_SHIELD_148_000	Accumula energia nelle sfere che ha sulla coda e controlla le condizioni atmosferiche. Avvolto dalla sua aura ha un aspetto misterioso.
+ZKN_SHIELD_149_000	Viene chiamato "Incarnazione del mare". Molte navi hanno una statua di Dragonite sulla prua.
+ZKN_SHIELD_150_000	È stato creato da uno scienziato dopo lunghe ricerche. La sua potenza emerge specialmente nella lotta.
+ZKN_SHIELD_151_000	Pokémon misterioso che si credeva estinto, ma di cui sono stati riportati innumerevoli avvistamenti.
 ZKN_SHIELD_152_000	
 ZKN_SHIELD_153_000	
 ZKN_SHIELD_154_000	
@@ -14189,7 +14280,7 @@ ZKN_SHIELD_165_000
 ZKN_SHIELD_166_000	
 ZKN_SHIELD_167_000	
 ZKN_SHIELD_168_000	
-ZKN_SHIELD_169_000	
+ZKN_SHIELD_169_000	Vola controllando indipendentemente le sue quattro ali. Non riduce la velocità nemmeno nelle caverne più anguste.
 ZKN_SHIELD_170_000	Il suo unico mezzo di comunicazione negli oscuri fondali oceanici sono le luci delle sue antenne, che lampeggiano costantemente.
 ZKN_SHIELD_171_000	Acceca la preda con una luce intensa per poi attaccarla immediatamente con una scossa elettrica.
 ZKN_SHIELD_172_000	Le sacche elettriche sulle sue guance sono molto piccole e, se fuoriesce anche solo un po' di elettricità, resta fulminato.
@@ -14258,9 +14349,9 @@ ZKN_SHIELD_234_000
 ZKN_SHIELD_235_000	
 ZKN_SHIELD_236_000	Anche se è piccolo, non bisogna abbassare la guardia: quando trova un avversario che fa al caso suo, inizia subito a tempestarlo di colpi.
 ZKN_SHIELD_237_000	Prima esegue una verticale per spiazzare il nemico, poi parte con i suoi calci spettacolari.
-ZKN_SHIELD_238_000	
-ZKN_SHIELD_239_000	
-ZKN_SHIELD_240_000	
+ZKN_SHIELD_238_000	È un Pokémon traboccante di curiosità. Stabilisce cosa gli piace e cosa no appoggiandovi le labbra.
+ZKN_SHIELD_239_000	Non è ancora abile nell'immagazzinare elettricità. Si intrufola nelle abitazioni in cerca di prese di corrente, che sfrutta per nutrirsi.
+ZKN_SHIELD_240_000	Vive nei pressi dei vulcani. Dopo una faticosa giornata, si gode un rilassante bagno nel magma.
 ZKN_SHIELD_241_000	Se non viene munto ogni giorno, la sua salute ne risente. Il sapore del suo latte può variare in base alla stagione.
 ZKN_SHIELD_242_000	Le sue uova sono un magico concentrato di felicità. Si dice che rendano gentile chiunque le mangia.
 ZKN_SHIELD_243_000	
@@ -14271,7 +14362,7 @@ ZKN_SHIELD_247_000	È una crisalide ma non sta mai fermo. Gli arti sono già for
 ZKN_SHIELD_248_000	Può camminare a passi così pesanti da far crollare perfino le montagne più grosse, trasformando così il paesaggio circostante.
 ZKN_SHIELD_249_000	
 ZKN_SHIELD_250_000	
-ZKN_SHIELD_251_000	
+ZKN_SHIELD_251_000	È giunto dal futuro, viaggiando nel tempo. Cura le ferite e dona vigore alla vegetazione.
 ZKN_SHIELD_252_000	
 ZKN_SHIELD_253_000	
 ZKN_SHIELD_254_000	
@@ -14324,9 +14415,9 @@ ZKN_SHIELD_300_000
 ZKN_SHIELD_301_000	
 ZKN_SHIELD_302_000	Si nutre di gemme. Nell'oscurità i suoi occhi brillano come gioielli.
 ZKN_SHIELD_303_000	Le sue corna d'acciaio si sono trasformate in enormi mascelle, con cui morde i nemici.
-ZKN_SHIELD_304_000	
-ZKN_SHIELD_305_000	
-ZKN_SHIELD_306_000	
+ZKN_SHIELD_304_000	Quando si evolve, l'armatura d'acciaio si stacca. In passato, gli esseri umani la raccoglievano per utilizzarla in attività quotidiane.
+ZKN_SHIELD_305_000	I Lairon lottano per il territorio scagliandosi l'uno contro l'altro. A un'osservazione attenta, la loro armatura d'acciaio mostra graffi e ammaccature.
+ZKN_SHIELD_306_000	In tempi antichi ci fu un re che, aspirando alla forza di Aggron, indossava un elmo ispirato alla testa di questo Pokémon.
 ZKN_SHIELD_307_000	
 ZKN_SHIELD_308_000	
 ZKN_SHIELD_309_000	Accumula elettricità statica nella pelliccia. Nella stagione secca, il suo corpo sprizza scintille.
@@ -14353,8 +14444,8 @@ ZKN_SHIELD_329_000	Per far sviluppare le ali, si nutre ogni giorno di una grande
 ZKN_SHIELD_330_000	Viene chiamato anche "spirito del deserto", poiché il suono del suo battito d'ali ricorda un bellissimo canto di donna.
 ZKN_SHIELD_331_000	
 ZKN_SHIELD_332_000	
-ZKN_SHIELD_333_000	
-ZKN_SHIELD_334_000	
+ZKN_SHIELD_333_000	Poiché sembra una nuvola, è difficile che i nemici lo individuino. Si dice che le ali siano diventate bianche con il passare delle generazioni.
+ZKN_SHIELD_334_000	Ha un carattere gentile, ma se lo si fa arrabbiare emette un verso minaccioso, per poi attaccare senza pietà.
 ZKN_SHIELD_335_000	
 ZKN_SHIELD_336_000	
 ZKN_SHIELD_337_000	Fu scoperto 40 anni fa nella zona d'impatto di un meteorite. Può addormentare il nemico con il solo sguardo.
@@ -14365,10 +14456,10 @@ ZKN_SHIELD_341_000	Importato dall'estero, si è successivamente rinselvatichito.
 ZKN_SHIELD_342_000	Ama la lotta. Il malcapitato che si avvicina alla sua tana verrà brutalmente malmenato.
 ZKN_SHIELD_343_000	Scoperto in antiche rovine. Si sposta girando su se stesso e rimane bilanciato sull'estremità inferiore del suo corpo anche quando dorme.
 ZKN_SHIELD_344_000	Pare che sia nato da un'antica bambola di argilla. Si sposta levitando a mezz'aria grazie alla telecinesi.
-ZKN_SHIELD_345_000	
-ZKN_SHIELD_346_000	
-ZKN_SHIELD_347_000	
-ZKN_SHIELD_348_000	
+ZKN_SHIELD_345_000	Si attacca alle rocce dei fondali marini e usa i tentacoli simili a petali per catturare le prede che si avvicinano.
+ZKN_SHIELD_346_000	Cattura le prede con i tentacoli e le scioglie con un fluido digestivo, assorbendone così le sostanze nutritive.
+ZKN_SHIELD_347_000	Nuota rapidamente utilizzando le sue otto ali come fossero remi di una barca. È uno degli antenati dei Pokémon di tipo Coleottero.
+ZKN_SHIELD_348_000	Vive sulla terraferma, ma è un abile nuotatore. Si tuffa in mare alla ricerca di prede, che abbatte con i suoi artigli affilati.
 ZKN_SHIELD_349_000	È un Pokémon dall'aspetto brutto e misero. Tuttavia, è molto resistente e può sopravvivere anche in pochissima acqua.
 ZKN_SHIELD_350_000	Si dice che la sua bellezza sia in grado di alleviare qualsiasi dolore nel cuore di chi lo ammira.
 ZKN_SHIELD_351_000	
@@ -14379,33 +14470,33 @@ ZKN_SHIELD_355_000	Si avvicina alla preda rendendosi invisibile. Ha la capacità
 ZKN_SHIELD_356_000	Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.
 ZKN_SHIELD_357_000	
 ZKN_SHIELD_358_000	
-ZKN_SHIELD_359_000	
+ZKN_SHIELD_359_000	A causa della sua capacità di percepire i disastri è stato considerato erroneamente un Pokémon portatore di disgrazie.
 ZKN_SHIELD_360_000	Hanno l'abitudine di spostarsi in gruppo. Quando è ora di dormire, si radunano in una grotta e riposano stretti l'uno all'altro.
 ZKN_SHIELD_361_000	Sopravvive solo nelle regioni fredde. Si trova perfettamente a suo agio anche a una temperatura di -100 ºC.
 ZKN_SHIELD_362_000	È capace di ghiacciare istantaneamente l'umidità dell'atmosfera. Sfrutta questo potere per congelare la preda.
-ZKN_SHIELD_363_000	
-ZKN_SHIELD_364_000	
-ZKN_SHIELD_365_000	
+ZKN_SHIELD_363_000	Fluttua tra le onde ispezionando il mare. Quando individua una preda, avverte i Walrein del suo gruppo.
+ZKN_SHIELD_364_000	È solito giocare facendo ruotare sulla punta del naso qualsiasi cosa rotonda gli capiti a tiro, compresi Spheal e Poké Ball.
+ZKN_SHIELD_365_000	Le sue zanne continuano a crescere per tutta la vita. Se si spezzano mentre lotta, tornano forti e robuste nell'arco di un anno.
 ZKN_SHIELD_366_000	
 ZKN_SHIELD_367_000	
 ZKN_SHIELD_368_000	
-ZKN_SHIELD_369_000	
+ZKN_SHIELD_369_000	Scoperto durante una perlustrazione degli abissi marini, viene chiamato "fossile vivente" per via del suo aspetto, immutato da 100 milioni di anni.
 ZKN_SHIELD_370_000	
-ZKN_SHIELD_371_000	
-ZKN_SHIELD_372_000	
-ZKN_SHIELD_373_000	
-ZKN_SHIELD_374_000	
-ZKN_SHIELD_375_000	
-ZKN_SHIELD_376_000	
-ZKN_SHIELD_377_000	
-ZKN_SHIELD_378_000	
-ZKN_SHIELD_379_000	
+ZKN_SHIELD_371_000	Vive in solitudine senza formare branchi. È dotato di una testa così dura da poter spaccare in due rocce granitiche con un solo colpo.
+ZKN_SHIELD_372_000	Resta a digiuno, sopportando la fame. Sembra che l'evoluzione si inneschi quando esaurisce l'energia accumulata.
+ZKN_SHIELD_373_000	È generalmente di buon umore e traboccante di gioia per essere riuscito a volare, ma se si arrabbia diventa una furia incontrollabile.
+ZKN_SHIELD_374_000	Nel suo corpo, le cui cellule sono composte da calamite, scorre forza magnetica al posto del sangue.
+ZKN_SHIELD_375_000	Levita sfruttando la forza magnetica. Si fa strada fra i picchi scoscesi volando a grande velocità mentre insegue le prede.
+ZKN_SHIELD_376_000	È il risultato della fusione di due Metang. Per sconfiggere i nemici si serve del suo cervello, equiparabile a un supercomputer.
+ZKN_SHIELD_377_000	Il suo corpo roccioso è stato analizzato usando le più moderne tecnologie, ma non si è trovata traccia di organi come cervello o cuore.
+ZKN_SHIELD_378_000	Il suo corpo è interamente costituito da ghiaccio. Si narra che nacque sotto un massiccio strato di ghiaccio durante l'era glaciale.
+ZKN_SHIELD_379_000	Si dice che sia nato nel mantello terrestre e che sia salito in superficie circa 10.000 anni fa.
 ZKN_SHIELD_380_000	
 ZKN_SHIELD_381_000	
 ZKN_SHIELD_382_000	
 ZKN_SHIELD_383_000	
 ZKN_SHIELD_384_000	
-ZKN_SHIELD_385_000	
+ZKN_SHIELD_385_000	Si dice che, al risveglio dal suo sonno millenario, realizzi i desideri scritti sui bigliettini attaccati alla sua testa.
 ZKN_SHIELD_386_000	
 ZKN_SHIELD_387_000	
 ZKN_SHIELD_388_000	
@@ -14462,10 +14553,10 @@ ZKN_SHIELD_438_000	Vive in ambienti aridi e pietrosi. Quando sono secche, le sue
 ZKN_SHIELD_439_000	Considera Mr. Rime il proprio maestro per le sue doti di ballerino, e ne imita diligentemente i passi di danza.
 ZKN_SHIELD_440_000	Dà in prestito il suo amato sasso a chi considera suo amico, ma se non gli viene restituito piange e si scatena.
 ZKN_SHIELD_441_000	
-ZKN_SHIELD_442_000	
-ZKN_SHIELD_443_000	
-ZKN_SHIELD_444_000	
-ZKN_SHIELD_445_000	
+ZKN_SHIELD_442_000	A causa del suo comportamento molesto, è stato imprigionato in una Roccianima da un viandante tramite un incantesimo misterioso.
+ZKN_SHIELD_443_000	Attacca indiscriminatamente qualunque cosa si muova, per poi trascinarla nella tana. La bocca ha dimensioni notevoli ma lo stomaco è piccolo.
+ZKN_SHIELD_444_000	Accumula pietre preziose nella grotta in cui vive. Fa a pezzi con gli artigli e le zanne chiunque vi si intrufoli.
+ZKN_SHIELD_445_000	È veloce anche a terra. È in grado di abbattere le prede tra le montagne innevate e tornare nella sua tana prima di congelarsi.
 ZKN_SHIELD_446_000	Conserva il cibo sotto la pelliccia e talvolta ne condivide un boccone con chi si è guadagnato la sua piena fiducia.
 ZKN_SHIELD_447_000	Percepisce non solo le emozioni degli altri, ma anche le condizioni dell'ambiente naturale sotto forma di onde definite "aura".
 ZKN_SHIELD_448_000	È in grado di comprendere anche i pensieri degli esseri umani. Per questo, si affeziona solo agli Allenatori dall'animo onesto.
@@ -14486,8 +14577,8 @@ ZKN_SHIELD_462_000	Si pensa che la sua struttura molecolare sia mutata in seguit
 ZKN_SHIELD_463_000	Può fare qualsiasi cosa con la sua lingua, agile quanto le mani di un essere umano. In compenso, è maldestro nell'uso delle dita.
 ZKN_SHIELD_464_000	Respinge gli attacchi con la sua Copertura e approfitta del momento di esitazione dell'avversario per perforarlo con il suo trapano.
 ZKN_SHIELD_465_000	Più il territorio in cui vive è caldo, più le sue liane crescono velocemente. Quando si allungano troppo, le taglia per accorciarle.
-ZKN_SHIELD_466_000	
-ZKN_SHIELD_467_000	
+ZKN_SHIELD_466_000	È uno dei Pokémon di tipo Elettro che producono più elettricità. Rilascia scariche ad alto voltaggio dalla punta delle code.
+ZKN_SHIELD_467_000	Vivendo nei crateri il suo corpo è diventato simile a un vulcano, sviluppando un organo analogo a una camera magmatica.
 ZKN_SHIELD_468_000	Si dice che doni prosperità, e per questo viene rappresentato nei portafortuna fin dall'antichità.
 ZKN_SHIELD_469_000	
 ZKN_SHIELD_470_000	Va molto fiero della sua coda affilata come una lama, con cui può tranciare in due persino un grosso albero.
@@ -14551,7 +14642,7 @@ ZKN_SHIELD_527_000	Svolazza emettendo ultrasuoni in cerca di Pokémon di tipo Co
 ZKN_SHIELD_528_000	Si dice che in alcune regioni venga venerato per via della forma del suo naso, ritenuta di buon auspicio.
 ZKN_SHIELD_529_000	Non è ben visto dagli agricoltori per la sua abitudine di scavare cunicoli sottoterra con le unghie, rovinando gli ortaggi.
 ZKN_SHIELD_530_000	Conosciuto anche come "re delle trivelle", questo Pokémon è capace di scavare sottoterra a una velocità di 150 km/h.
-ZKN_SHIELD_531_000	
+ZKN_SHIELD_531_000	Questo Pokémon dal cuore tenero è in grado di percepire le condizioni fisiche e mentali di chi tocca con le antenne.
 ZKN_SHIELD_532_000	Quando diventa capace di reggere travi di legno tre volte più grandi di lui, l'evoluzione è vicina.
 ZKN_SHIELD_533_000	Manovra con abilità la sua trave d'acciaio. È particolarmente esperto nelle demolizioni, mentre costruire non è il suo forte.
 ZKN_SHIELD_534_000	Quando decide di fare sul serio, si sbarazza dei pilastri di cemento e si lancia sul nemico armato solo dei suoi pugni.
@@ -14584,10 +14675,10 @@ ZKN_SHIELD_560_000	Ha un'indole estremamente aggressiva, ma se si tratta della s
 ZKN_SHIELD_561_000	Nella zona desertica sorvolata da questi Pokémon sono stati disseppelliti i resti di un'antica città.
 ZKN_SHIELD_562_000	Spirito di un uomo dell'antichità divenuto Pokémon. Vaga tra le rovine in cerca di qualcuno che riconosca il suo volto.
 ZKN_SHIELD_563_000	Viene spesso raffigurato sulle pareti di antichi sepolcri come simbolo dell'opulenza dei re.
-ZKN_SHIELD_564_000	
-ZKN_SHIELD_565_000	
-ZKN_SHIELD_566_000	
-ZKN_SHIELD_567_000	
+ZKN_SHIELD_564_000	Si ritiene sia l'antenato di molti Pokémon con carapace. È stato rigenerato da un fossile.
+ZKN_SHIELD_565_000	Quando va in cerca di prede sale anche sulla terraferma, nonostante i suoi movimenti siano più impacciati rispetto a quando è in acqua.
+ZKN_SHIELD_566_000	Si dice sia l'antenato dei Pokémon alati. Viveva sugli alberi, nutrendosi di bacche e Pokémon di tipo Coleottero.
+ZKN_SHIELD_567_000	Si sa che questo Pokémon era in grado di volare, ma pare che fosse molto più abile nel cacciare le prede a terra.
 ZKN_SHIELD_568_000	È nato da un sacchetto pieno di spazzatura. I Weezing di Galar sono ghiotti del gas tossico che esala.
 ZKN_SHIELD_569_000	Il veleno che spruzza dall'arto destro è talmente tossico da risultare istantaneamente letale per le creature già debilitate.
 ZKN_SHIELD_570_000	Quando è in cerca di cibo, capita persino che appaia in città assumendo sembianze umane. Si trasforma principalmente in bambini.
@@ -14635,7 +14726,7 @@ ZKN_SHIELD_611_000	La sua pelle è dura quanto una corazza. La sua specialità �
 ZKN_SHIELD_612_000	È di natura mite, ma se si arrabbia sono guai. Le zanne, di cui va fiero, possono fare a pezzi anche il cemento armato.
 ZKN_SHIELD_613_000	Prima di sferrare una mossa, tira su con il naso. Il freddo intenso contenuto nel suo muco è alla base delle sue mosse di tipo Ghiaccio.
 ZKN_SHIELD_614_000	Nuota tranquillo nelle acque gelide del mare. Se è stanco, congela l'acqua con il suo soffio glaciale creando una piattaforma su cui riposare.
-ZKN_SHIELD_615_000	
+ZKN_SHIELD_615_000	Quando fa caldo si dissolve in una nuvola di vapore acqueo. Per questo è molto raro vederlo in estate.
 ZKN_SHIELD_616_000	Il suo corpo reagisce misteriosamente all'energia elettrica. Pare che si evolva se si trova in presenza di Karrablast.
 ZKN_SHIELD_617_000	Si è liberato della conchiglia, diventando più leggero. Le membrane a forma di fasce che ricoprono il suo corpo evitano che si secchi.
 ZKN_SHIELD_618_000	Per qualche strano motivo accenna sempre un sorriso quando rilascia una forte scarica elettrica dai motivi gialli sul suo corpo.
@@ -14658,16 +14749,16 @@ ZKN_SHIELD_634_000	Le due teste si rubano il cibo a vicenda. È sempre ricoperto
 ZKN_SHIELD_635_000	Le sue tre teste si alternano nel mordere e non cessa i suoi attacchi fino a quando l'avversario non ha più energie.
 ZKN_SHIELD_636_000	Il suo corpo è molto caldo. Lancia fiamme dalle corna per intimidire i nemici e le prede.
 ZKN_SHIELD_637_000	È nato da un bozzolo infuocato. Nelle pitture rupestri dell'antichità viene raffigurato come una divinità delle fiamme.
-ZKN_SHIELD_638_000	
-ZKN_SHIELD_639_000	
-ZKN_SHIELD_640_000	
+ZKN_SHIELD_638_000	È un leader nato. Al suo cospetto anche i Pokémon più feroci assumono un atteggiamento reverenziale.
+ZKN_SHIELD_639_000	Le leggende della regione di Unima narrano delle sue lotte contro gli esseri umani per proteggere i Pokémon.
+ZKN_SHIELD_640_000	Si abbatte sui nemici rapido come un turbine e li fa a pezzi senza pietà con le sue corna affilate.
 ZKN_SHIELD_641_000	
 ZKN_SHIELD_642_000	
-ZKN_SHIELD_643_000	
-ZKN_SHIELD_644_000	
+ZKN_SHIELD_643_000	Secondo le leggende, può incenerire un intero paese se i suoi abitanti oltraggiano la verità e sono accecati dalla cupidigia.
+ZKN_SHIELD_644_000	Secondo le leggende, può radere al suolo un intero paese con fulmini terribili se i suoi abitanti hanno perso il senso della giustizia.
 ZKN_SHIELD_645_000	
-ZKN_SHIELD_646_000	
-ZKN_SHIELD_647_000	
+ZKN_SHIELD_646_000	Sembra che abbia finito con il congelarsi producendo un soffio gelido al fine di stabilizzare la sua struttura cellulare.
+ZKN_SHIELD_647_000	Si dice che quando supera difficili battaglie il corno sulla sua fronte si rafforzi e solo allora si risvegli la sua vera forza.
 ZKN_SHIELD_648_000	
 ZKN_SHIELD_649_000	
 ZKN_SHIELD_650_000	
@@ -14716,14 +14807,14 @@ ZKN_SHIELD_692_000	Sconfigge i nemici con proiettili d'acqua che spara facendo e
 ZKN_SHIELD_693_000	L'arto destro è una sorta di cannone da cui spara proiettili d'acqua marina tanto potenti da affondare una petroliera.
 ZKN_SHIELD_694_000	Possiede un organo con cui genera energia elettrica fotovoltaica. Se viene disturbato mentre la produce, si stressa e si indebolisce.
 ZKN_SHIELD_695_000	L'energia prodotta da un Heliolisk quando apre il suo collare in un luogo soleggiato è sufficiente a soddisfare il fabbisogno di una metropoli.
-ZKN_SHIELD_696_000	
-ZKN_SHIELD_697_000	
-ZKN_SHIELD_698_000	
-ZKN_SHIELD_699_000	
+ZKN_SHIELD_696_000	È capriccioso e ama farsi coccolare. Quando gioca con il suo Allenatore, rischia di ferirlo gravemente.
+ZKN_SHIELD_697_000	Grazie alla sua mandibola può ridurre in frantumi un'auto con un morso solo. Regnava incontrastato nell'era preistorica.
+ZKN_SHIELD_698_000	Pokémon dell'antichità ormai estinto. A volte ne vengono scoperti esemplari conservatisi all'interno di blocchi di ghiaccio.
+ZKN_SHIELD_699_000	Quando è in preda all'ira emette un getto violento di aria gelida che congela tutto ciò che lo circonda.
 ZKN_SHIELD_700_000	Una favola di Galar narra di un Sylveon di rara bellezza che sconfisse uno spaventoso Pokémon di tipo Drago.
 ZKN_SHIELD_701_000	Assume sempre una posa speciale prima di sferrare il colpo finale. A volte i nemici approfittano di questo istante per contrattaccare.
 ZKN_SHIELD_702_000	Non riuscendo a produrre molta elettricità, la ruba dalle prese di corrente o da altri Pokémon di tipo Elettro.
-ZKN_SHIELD_703_000	
+ZKN_SHIELD_703_000	Si dice che da qualche parte nel mondo c'è una miniera in cui i Carbink dormono assieme alla loro regina.
 ZKN_SHIELD_704_000	I suoi corni sono degli straordinari organi sensoriali. Riesce a sopravvivere nascondendosi non appena percepisce la presenza del nemico.
 ZKN_SHIELD_705_000	Nella protuberanza che ha sulla schiena si trova un piccolo cervello. Pensa solo a mangiare e a scappare dai nemici.
 ZKN_SHIELD_706_000	Distende i suoi lunghi corni e si lancia all'attacco con una potenza 100 volte superiore al pugno di un peso massimo.
@@ -14742,15 +14833,15 @@ ZKN_SHIELD_718_000
 ZKN_SHIELD_719_000	
 ZKN_SHIELD_720_000	
 ZKN_SHIELD_721_000	
-ZKN_SHIELD_722_000	
-ZKN_SHIELD_723_000	
-ZKN_SHIELD_724_000	
-ZKN_SHIELD_725_000	
-ZKN_SHIELD_726_000	
-ZKN_SHIELD_727_000	
-ZKN_SHIELD_728_000	
-ZKN_SHIELD_729_000	
-ZKN_SHIELD_730_000	
+ZKN_SHIELD_722_000	Accumula energia durante il giorno grazie alla fotosintesi e di notte vola senza fare alcun rumore in cerca di prede.
+ZKN_SHIELD_723_000	Non trascura mai la cura delle proprie ali, non solo perché tiene al proprio aspetto, ma anche per mantenere affilate le sue piume.
+ZKN_SHIELD_724_000	Può preparare e scoccare una delle sue piume affilate in 0,1 secondi. Trafigge l'avversario nei suoi punti vitali prima che se ne accorga.
+ZKN_SHIELD_725_000	Chi cerca di fargli le coccole prima di essersi guadagnato la sua fiducia si ritroverà addosso i suoi artigli affilati.
+ZKN_SHIELD_726_000	Quando affronta un nemico molto forte il suo spirito combattivo e l'energia termica prodotta dal sonaglio infuocato aumentano.
+ZKN_SHIELD_727_000	Manifesta di solito un comportamento violento, ma possiede un lato gentile che emerge quando aiuta i Pokémon più piccoli.
+ZKN_SHIELD_728_000	Si allena con impegno tutti i giorni fino a quando non è in grado di produrre palloncini d'acqua abbastanza grandi e utili ai suoi scopi.
+ZKN_SHIELD_729_000	Nelle notti in cui il mare è tranquillo si uniscono al canto del Primarina a capo del gruppo e danzano tutti insieme.
+ZKN_SHIELD_730_000	Brilla nella lotta come su un palcoscenico. Ammalia gli spettatori con il suo canto e con un turbinio di palloncini.
 ZKN_SHIELD_731_000	
 ZKN_SHIELD_732_000	
 ZKN_SHIELD_733_000	
@@ -14809,10 +14900,10 @@ ZKN_SHIELD_785_000
 ZKN_SHIELD_786_000	
 ZKN_SHIELD_787_000	
 ZKN_SHIELD_788_000	
-ZKN_SHIELD_789_000	
-ZKN_SHIELD_790_000	
-ZKN_SHIELD_791_000	
-ZKN_SHIELD_792_000	
+ZKN_SHIELD_789_000	Dotato di un'indole ingenua e curiosa, si caccia spesso nei guai. Quando le cose si mettono male, scappa teletrasportandosi.
+ZKN_SHIELD_790_000	Aspira con forza il pulviscolo dell'atmosfera e produce alacremente l'energia necessaria alla propria evoluzione nel suo nucleo.
+ZKN_SHIELD_791_000	Un tempo veniva chiamato "la creatura che si nutre di sole". Emana dal corpo un'energia luminosa inesauribile.
+ZKN_SHIELD_792_000	Assorbe tutta la luce che lo circonda per assumere la forma di una splendente luna piena che illumina l'oscurità notturna.
 ZKN_SHIELD_793_000	
 ZKN_SHIELD_794_000	
 ZKN_SHIELD_795_000	
@@ -14820,16 +14911,16 @@ ZKN_SHIELD_796_000
 ZKN_SHIELD_797_000	
 ZKN_SHIELD_798_000	
 ZKN_SHIELD_799_000	
-ZKN_SHIELD_800_000	
+ZKN_SHIELD_800_000	Cerca con furia la luce di cui si nutre, distruggendo ogni cosa al suo passaggio con i suoi micidiali raggi laser.
 ZKN_SHIELD_801_000	
-ZKN_SHIELD_802_000	
+ZKN_SHIELD_802_000	A causa della sua capacità di infiltrarsi in qualunque ombra, per lungo tempo nessuno è riuscito ad avvistarlo.
 ZKN_SHIELD_803_000	
 ZKN_SHIELD_804_000	
 ZKN_SHIELD_805_000	
 ZKN_SHIELD_806_000	
-ZKN_SHIELD_807_000	
-ZKN_SHIELD_808_000	
-ZKN_SHIELD_809_000	
+ZKN_SHIELD_807_000	Emette scariche elettriche dai cuscinetti delle zampe. Sfreccia a tutta velocità accompagnato da saette e rombi di tuono.
+ZKN_SHIELD_808_000	Vive in gruppo, ma quando giunge il momento l'esemplare più forte ingloba i compagni e si evolve.
+ZKN_SHIELD_809_000	Sferra pugni con i suoi dadi metallici sfruttando la forza centrifuga. Si dice che nessun altro Pokémon sia capace di sferrarne di altrettanto potenti.
 ZKN_SHIELD_810_000	Attacca percuotendo il nemico con la sua bacchetta, con un entusiasmo che cresce all'aumentare del ritmo sfrenato con cui colpisce.
 ZKN_SHIELD_811_000	Durante la lotta si concentra così tanto nel tenere un ritmo febbrile che non si accorge nemmeno se il nemico va KO.
 ZKN_SHIELD_812_000	Colui che ha una migliore tecnica di percussione diventa il capo. Ha un carattere tranquillo e dà molta importanza all'armonia del gruppo.
@@ -14914,6 +15005,11 @@ ZKN_SHIELD_890_000	È giunto dallo spazio dentro un meteorite caduto 20.000 anni
 ZKN_SHIELD_891_000	Tira i lunghi ciuffi di pelo bianco che ha sulla testa per incrementare il suo spirito combattivo, facendo sgorgare energia dal ventre.
 ZKN_SHIELD_892_000	Vive nelle zone montuose di una regione lontana. Corre sulle pareti dei dirupi, allenando gli arti inferiori e perfezionando le sue mosse.
 ZKN_SHIELD_893_000	Se si staccano, le liane del suo corpo diventano nutrimento per il suolo, favorendo lo sviluppo delle piante della foresta.
+ZKN_SHIELD_894_000	Il suo corpo è costituito interamente da un organo che produce energia elettrica. Fornisce corrente all'intera regione di Galar.
+ZKN_SHIELD_895_000	Il suo corpo è formato da energia Drago cristallizzata. Pare che possieda i poteri di tutti i Pokémon di tipo Drago.
+ZKN_SHIELD_896_000	È dotato di una forza incommensurabile. La maschera di ghiaccio che gli ricopre il muso è cento volte più dura del diamante.
+ZKN_SHIELD_897_000	Galoppa nelle notti buie assorbendo l'energia vitale delle creature addormentate. Ama la solitudine e la quiete.
+ZKN_SHIELD_898_000	Il re delle leggende che dominò su Galar in un lontano passato. È in grado di calmare gli animi e far germogliare la vegetazione.
 ZKN_SHIELD_003_001	
 ZKN_SHIELD_003_999	Sparge enormi quantità di polline con la violenza di un vulcano in eruzione. Se inalato in grandi quantità, questo polline fa perdere i sensi.
 ZKN_SHIELD_006_001	
@@ -14977,9 +15073,13 @@ ZKN_SHIELD_133_001
 ZKN_SHIELD_133_999	La sua ingenuità è cresciuta a dismisura assieme a lui. Gioca con chiunque gli capiti davanti, ma finisce con lo schiacciare i malcapitati.
 ZKN_SHIELD_142_001	
 ZKN_SHIELD_143_999	Possiede una forza fisica spaventosa. L'imponenza di questa forma e la sua scarsa mobilità lo rendono simile a una montagna.
+ZKN_SHIELD_144_001	È conosciuto con il nome di Articuno. Emette un raggio che limita i movimenti del bersaglio, come se lo congelasse.
+ZKN_SHIELD_145_001	Ha zampe così possenti da riuscire a ridurre in frantumi con un calcio un camion ribaltabile. Si dice che sfrecci fra le montagne a 300 km/h.
+ZKN_SHIELD_146_001	È conosciuto con il nome di Moltres. È avvolto da un'aura maligna che arde come il fuoco.
 ZKN_SHIELD_150_001	
 ZKN_SHIELD_150_002	
 ZKN_SHIELD_181_001	
+ZKN_SHIELD_199_001	Produce un misterioso farmaco miscelando ciò che ingerisce con le tossine nel suo corpo mentre recita un sinistro sortilegio.
 ZKN_SHIELD_201_001	
 ZKN_SHIELD_201_002	
 ZKN_SHIELD_201_003	
@@ -15102,9 +15202,9 @@ ZKN_SHIELD_618_001	Si nasconde nel fango e si serve delle labbra appariscenti pe
 ZKN_SHIELD_641_001	
 ZKN_SHIELD_642_001	
 ZKN_SHIELD_645_001	
-ZKN_SHIELD_646_001	
-ZKN_SHIELD_646_002	
-ZKN_SHIELD_647_001	
+ZKN_SHIELD_646_001	Ha profetizzato l'avvento di un mondo di verità per Pokémon ed esseri umani ed è deciso a fare di tutto perché ciò si avveri.
+ZKN_SHIELD_646_002	Assorbendo Zekrom, che possiede il suo stesso DNA, ha acquisito la capacità di usare l'energia dell'elettricità e del ghiaccio.
+ZKN_SHIELD_647_001	L'energia sopita dentro di lui ha pervaso il suo corno trasformandolo in una spada in grado di tagliare qualunque cosa.
 ZKN_SHIELD_648_001	
 ZKN_SHIELD_649_001	
 ZKN_SHIELD_649_002	
@@ -15254,11 +15354,11 @@ ZKN_SHIELD_778_001	Ha evitato l'attacco nemico grazie al potere del panno, ma il
 ZKN_SHIELD_778_002	
 ZKN_SHIELD_778_003	
 ZKN_SHIELD_784_001	
-ZKN_SHIELD_800_001	
-ZKN_SHIELD_800_002	
+ZKN_SHIELD_800_001	Si impossessa di Solgaleo e assorbe la sua inesauribile energia con la forza, seminando ovunque caos e distruzione.
+ZKN_SHIELD_800_002	Assume questa forma quando si impossessa di Lunala. Si scatena considerando chiunque come suo nemico e incenerendolo con i raggi laser.
 ZKN_SHIELD_800_003	
 ZKN_SHIELD_801_001	
-ZKN_SHIELD_809_999	
+ZKN_SHIELD_809_999	Dall'apertura nell'addome spara raggi elettrici ad alto voltaggio che fanno evaporare il nemico all'istante.
 ZKN_SHIELD_812_999	Rillaboom diventa tutt'uno con la sua foresta di tamburi, scandendo un ritmo che scuote l'intera Galar.
 ZKN_SHIELD_815_999	Grazie al potere del Gigamax, la sua palla infuocata può superare i 100 m di diametro.
 ZKN_SHIELD_818_999	La sua abilità di tiratore è ineguagliabile. Centra in pieno una bacca a 15 km di distanza come se nulla fosse.
@@ -15300,6 +15400,8 @@ ZKN_SHIELD_892_001	Il suo credo è sconfiggere l'avversario a suon di colpi. Sfe
 ZKN_SHIELD_892_999	L'energia rilasciata dai suoi pugni si tramuta in un'onda d'urto in grado di spazzare via in un colpo solo i Pokémon dynamaxizzati.
 ZKN_SHIELD_892_998	Si narra che basti un suo solo sguardo colmo d'ira per privare della vita chi possiede un animo malvagio.
 ZKN_SHIELD_893_001	Ha cresciuto un piccolo orfano umano fin da quando era un bebè. L'affetto che nutre per lui gli dona una forza speciale.
+ZKN_SHIELD_898_001	Si racconta che in una sola notte abbia trasferito altrove un'immensa foresta e tutte le creature che ci vivevano.
+ZKN_SHIELD_898_002	Si dice che grazie alla sua capacità di vedere ogni avvenimento passato e futuro abbia salvato da un meteorite le creature di un'intera foresta.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_sun_ita.msbt
@@ -16400,20 +16502,20 @@ ZKN_SWORD_025_000	Più potente è l'energia elettrica prodotta dal Pokémon, pi�
 ZKN_SWORD_026_000	La sua lunga coda serve da messa a terra per proteggerlo dalla sua stessa alta tensione.
 ZKN_SWORD_027_000	Ama rotolarsi nella sabbia delle zone desertiche, per rimuovere ogni traccia di sporcizia e umidità dal suo corpo.
 ZKN_SWORD_028_000	Più secco è il territorio dove Sandslash vive, più i suoi aculei dorsali diventano lisci e duri.
-ZKN_SWORD_029_000	
-ZKN_SWORD_030_000	
-ZKN_SWORD_031_000	
-ZKN_SWORD_032_000	
-ZKN_SWORD_033_000	
-ZKN_SWORD_034_000	
+ZKN_SWORD_029_000	È più sensibile agli odori rispetto ai maschi. Capta le correnti d'aria con le vibrisse e si posiziona sottovento per cercare le prede.
+ZKN_SWORD_030_000	Si pensa che il corno sulla fronte si sia atrofizzato per evitare che Nidorina punga i suoi cuccioli quando li nutre.
+ZKN_SWORD_031_000	Più abile nella difesa che nell'attacco, protegge i cuccioli da qualunque attacco grazie alla corazza di squame.
+ZKN_SWORD_032_000	Il corno sulla fronte è estremamente velenoso. Di indole circospetta, rizza costantemente le sue grandi orecchie.
+ZKN_SWORD_033_000	Vaga alla ricerca di una Pietralunare frantumando rocce con il suo corno più duro del diamante.
+ZKN_SWORD_034_000	Quando si scatena non c'è modo di fermarlo, ma davanti a Nidoqueen, la sua compagna di lunga data, ritrova la calma.
 ZKN_SWORD_035_000	Si dice che vedere un gruppo di Clefairy ballare con la luna piena sia di ottimo auspicio.
 ZKN_SWORD_036_000	Timido Pokémon Fata, molto raro a vedersi. Scappa e si nasconde non appena avverte la presenza delle persone.
 ZKN_SWORD_037_000	Quando è giovane ha sei meravigliose code, che si moltiplicano durante la sua crescita.
 ZKN_SWORD_038_000	Dicono che viva un millennio. Ognuna delle sue code è dotata di un potere magico.
 ZKN_SWORD_039_000	Dotato di una capacità polmonare fra le migliori nel mondo Pokémon, canta una ninnananna finché il suo avversario non s'addormenta.
 ZKN_SWORD_040_000	Più aria inala, più il suo corpo si gonfia. Se è di cattivo umore, si gonfia per intimidire l'avversario.
-ZKN_SWORD_041_000	
-ZKN_SWORD_042_000	
+ZKN_SWORD_041_000	Sonda l'ambiente circostante emettendo ultrasuoni dalla bocca. In questo modo riesce a volteggiare agilmente anche in caverne strette.
+ZKN_SWORD_042_000	Va matto per il sangue di altre creature. Si dice che a volte lo condivida con i compagni affamati.
 ZKN_SWORD_043_000	Inizia a muoversi quando è illuminato dalla luce lunare. Di notte se ne va in giro a spargere semi.
 ZKN_SWORD_044_000	I pistilli emanano un puzzo orribile, capace di far svenire chiunque nel raggio di 2 km.
 ZKN_SWORD_045_000	Ha i petali più grandi del mondo. Ad ogni suo passo, i petali liberano fitte nubi di polline tossico.
@@ -16495,9 +16597,9 @@ ZKN_SWORD_120_000	Alla fine dell'estate, sui litorali è possibile osservare gru
 ZKN_SWORD_121_000	Quando scatena i suoi poteri psichici, l'organo centrale, detto nucleo, brilla di sette colori diversi.
 ZKN_SWORD_122_000	Molti studiosi ritengono che abbia sviluppato mani così grandi perché gli sono utili per la mimica.
 ZKN_SWORD_123_000	Ad ogni lotta che affronta le sue falci diventano più affilate. Può tranciare in due grossi tronchi con un solo colpo.
-ZKN_SWORD_124_000	
-ZKN_SWORD_125_000	
-ZKN_SWORD_126_000	
+ZKN_SWORD_124_000	In una certa zona di Galar, Jynx era temuto e venerato dagli abitanti, che lo chiamavano "Regina dei ghiacci".
+ZKN_SWORD_125_000	Molte centrali elettriche utilizzano Pokémon di tipo Terra per difendersi dagli Electabuzz a caccia di elettricità.
+ZKN_SWORD_126_000	Abbatte le sue prede con le fiamme, ma finisce per carbonizzarle accidentalmente, con suo grande rammarico.
 ZKN_SWORD_127_000	I Pinsir si giudicano a vicenda in base alle corna. Quelli con corna grosse e imponenti hanno più successo con gli esemplari dell'altro sesso.
 ZKN_SWORD_128_000	Quando comincia a frustarsi con le sue stesse code è pericoloso, in quanto è segno che sta per partire alla carica a tutta velocità.
 ZKN_SWORD_129_000	La sua forza e velocità sono praticamente nulle. Si può tranquillamente definire il più debole e patetico Pokémon del mondo.
@@ -16509,20 +16611,20 @@ ZKN_SWORD_134_000	Se le pinne di Vaporeon iniziano a vibrare, vuol dire che piov
 ZKN_SWORD_135_000	Se si arrabbia o è sorpreso, tutti i peli del corpo gli si rizzano trasformandosi in aghi che infilzano il nemico.
 ZKN_SWORD_136_000	Quando immagazzina abbastanza calore, la sua temperatura corporea può salire fino a 900 ºC.
 ZKN_SWORD_137_000	È il primo Pokémon della storia a essere stato creato tramite programmi, grazie all'impiego di tecnologie all'avanguardia.
-ZKN_SWORD_138_000	
-ZKN_SWORD_139_000	
-ZKN_SWORD_140_000	
-ZKN_SWORD_141_000	
-ZKN_SWORD_142_000	
+ZKN_SWORD_138_000	Questo Pokémon si sta rivelando un problema perché a volte fugge o viene liberato dopo essere stato rigenerato.
+ZKN_SWORD_139_000	Si dice si sia estinto per via della conchiglia grossa e pesante che, rendendo i suoi movimenti impacciati, gli impediva di catturare le prede.
+ZKN_SWORD_140_000	È un Pokémon sull'orlo dell'estinzione. Fa la muta ogni tre giorni indurendo gradualmente il carapace.
+ZKN_SWORD_141_000	Lacera le prede e ne succhia i fluidi corporei. I resti diventano poi cibo per altri Pokémon.
+ZKN_SWORD_142_000	È un feroce Pokémon dell'antichità. Pare che con la tecnologia odierna non sia possibile rigenerarlo perfettamente.
 ZKN_SWORD_143_000	Dopo aver trangugiato i suoi immancabili 400 kg di cibo quotidiani, cade in un sonno profondo.
-ZKN_SWORD_144_000	
-ZKN_SWORD_145_000	
-ZKN_SWORD_146_000	
-ZKN_SWORD_147_000	
-ZKN_SWORD_148_000	
-ZKN_SWORD_149_000	
-ZKN_SWORD_150_000	
-ZKN_SWORD_151_000	
+ZKN_SWORD_144_000	Si dice che le sue splendide ali azzurre siano composte di ghiaccio. Vola fra le montagne innevate facendo ondeggiare la sua lunga coda.
+ZKN_SWORD_145_000	È in grado di controllare l'elettricità a suo piacimento. Secondo le leggende, fa il nido fra nere nubi temporalesche.
+ZKN_SWORD_146_000	Uno dei leggendari Pokémon alati. Quando sbatte le ali, le fiamme che le circondano brillano di uno splendido rosso acceso.
+ZKN_SWORD_147_000	Vive vicino a correnti d'acqua impetuose, come cascate e simili. Cresce di dimensioni facendo più volte la muta.
+ZKN_SWORD_148_000	Vive in mari e laghi dalle acque limpide. Grazie alla sua capacità di controllare il clima, sfrutta il vento per spiccare il volo.
+ZKN_SWORD_149_000	È un Pokémon dal cuore gentile. Se vede persone o Pokémon che stanno affogando, non può fare a meno di salvarli.
+ZKN_SWORD_150_000	Un Pokémon creato usando i geni di Mew. Ha un'indole feroce ed è dotato di una potenza impressionante.
+ZKN_SWORD_151_000	Si ritiene che sia l'antenato di tutti i Pokémon. È dotato di grande intelligenza ed è in grado di usare qualsiasi mossa.
 ZKN_SWORD_152_000	
 ZKN_SWORD_153_000	
 ZKN_SWORD_154_000	
@@ -16540,7 +16642,7 @@ ZKN_SWORD_165_000
 ZKN_SWORD_166_000	
 ZKN_SWORD_167_000	
 ZKN_SWORD_168_000	
-ZKN_SWORD_169_000	
+ZKN_SWORD_169_000	Le due zampe si sono mutate in ali. Vola verso la preda ad alta velocità senza fare alcun rumore e le affonda le zanne nella nuca.
 ZKN_SWORD_170_000	Le sue antenne, evoluzione di pinne primitive, sono attraversate da energia elettrica, positiva in una e negativa nell'altra.
 ZKN_SWORD_171_000	Emette una luce così intensa da illuminare la superficie del mare da oltre 5 km di profondità.
 ZKN_SWORD_172_000	Nonostante sia minuto, può folgorare anche una persona adulta... ma quando lo fa, si sorprende da solo.
@@ -16609,9 +16711,9 @@ ZKN_SWORD_234_000
 ZKN_SWORD_235_000	
 ZKN_SWORD_236_000	Sempre traboccante di energia. Per rinforzarsi continua a sfidare il suo avversario anche dopo essere stato ripetutamente sconfitto.
 ZKN_SWORD_237_000	Gira su se stesso tirando calci. Se gira molto velocemente può scavare una fossa nel terreno.
-ZKN_SWORD_238_000	
-ZKN_SWORD_239_000	
-ZKN_SWORD_240_000	
+ZKN_SWORD_238_000	Si sciacqua il volto alla minima traccia di sporcizia. Pare non presti la stessa attenzione al resto del corpo.
+ZKN_SWORD_239_000	Quando si sta per scatenare una tempesta perde il controllo. Si fa prendere dall'agitazione se sente il rombo dei tuoni.
+ZKN_SWORD_240_000	È ancora piccolo e si intimorisce facilmente. Quando si emoziona o si spaventa, emette fuoco dalla bocca o dal naso.
 ZKN_SWORD_241_000	Il suo latte altamente nutriente contribuisce al sostentamento di persone e Pokémon da tempo immemore.
 ZKN_SWORD_242_000	Quando incontra un Pokémon indebolito, condivide con lui il proprio uovo e lo accudisce fino alla completa guarigione.
 ZKN_SWORD_243_000	
@@ -16622,7 +16724,7 @@ ZKN_SWORD_247_000	Può muoversi liberamente anche se è chiuso nel guscio. Resis
 ZKN_SWORD_248_000	Il suo corpo non è scalfito da alcun attacco, perciò sfida un avversario dietro l'altro senza esitazione.
 ZKN_SWORD_249_000	
 ZKN_SWORD_250_000	
-ZKN_SWORD_251_000	
+ZKN_SWORD_251_000	Ha il potere di viaggiare nel tempo. Documenti di epoche diverse lo descrivono come divinità delle foreste.
 ZKN_SWORD_252_000	
 ZKN_SWORD_253_000	
 ZKN_SWORD_254_000	
@@ -16675,9 +16777,9 @@ ZKN_SWORD_300_000
 ZKN_SWORD_301_000	
 ZKN_SWORD_302_000	È molto temuto perché si dice che rubi lo spirito degli esseri umani con lo sguardo sinistro dei suoi occhi opalescenti.
 ZKN_SWORD_303_000	Distrae i nemici con la sua faccia innocente, per poi azzannarli con le sue possenti mascelle. Non molla la presa a nessun costo.
-ZKN_SWORD_304_000	
-ZKN_SWORD_305_000	
-ZKN_SWORD_306_000	
+ZKN_SWORD_304_000	Si ciba di minerali ferrosi e talvolta di rotaie, che vanno poi a costituire l'armatura d'acciaio che protegge il suo corpo.
+ZKN_SWORD_305_000	I monti in cui vive sono ricchi di minerali ferrosi e sorgenti d'acqua. Per questo, spesso in passato questo Pokémon si scontrava con gli esseri umani.
+ZKN_SWORD_306_000	Abbatte i nemici caricandoli e speronandoli con le sue corna, talmente affilate da perforare spesse lastre di metallo.
 ZKN_SWORD_307_000	
 ZKN_SWORD_308_000	
 ZKN_SWORD_309_000	Accumula elettricità statica nella pelliccia e poi la rilascia. Se si avvicina una tempesta, emette scintille.
@@ -16704,8 +16806,8 @@ ZKN_SWORD_329_000	Fa vibrare velocemente le ali generando onde ultrasoniche che 
 ZKN_SWORD_330_000	Si nasconde nelle tempeste di sabbia che genera sbattendo le ali. Raramente gli esseri umani riescono a vederlo.
 ZKN_SWORD_331_000	
 ZKN_SWORD_332_000	
-ZKN_SWORD_333_000	
-ZKN_SWORD_334_000	
+ZKN_SWORD_333_000	Si prende meticolosamente cura delle sue ali simili a batuffoli di cotone. Ha l'abitudine di gonfiarle rendendole soffici al tatto.
+ZKN_SWORD_334_000	Mentre si libra elegante in cielo, intona un canto soave che ammalia chi lo sente.
 ZKN_SWORD_335_000	
 ZKN_SWORD_336_000	
 ZKN_SWORD_337_000	La sua forza sembra aumentare o diminuire a seconda delle fasi lunari. È più attivo nelle notti di luna piena.
@@ -16716,10 +16818,10 @@ ZKN_SWORD_341_000	La sua grande vitalità gli permette di adattarsi e proliferar
 ZKN_SWORD_342_000	Pokémon violento che flagella il nemico con le sue chele affilate. Sembra che sia molto difficile allenarlo.
 ZKN_SWORD_343_000	Si sposta piroettando sull'estremità inferiore del proprio corpo. Alcuni Baltoy sono stati visti piroettare a testa in giù.
 ZKN_SWORD_344_000	Un Pokémon enigmatico nato da una statuetta d'argilla costruita dagli antichi 20.000 anni or sono.
-ZKN_SWORD_345_000	
-ZKN_SWORD_346_000	
-ZKN_SWORD_347_000	
-ZKN_SWORD_348_000	
+ZKN_SWORD_345_000	Questo Pokémon è stato rigenerato da un fossile. Viveva nei mari caldi circa 100 milioni di anni fa.
+ZKN_SWORD_346_000	Il suo passo è lento a causa delle corte zampe, ma può triplicare la lunghezza del collo e dei tentacoli per catturare le prede.
+ZKN_SWORD_347_000	Questo Pokémon è stato rigenerato da un fossile. Viveva nei mari circa 100 milioni di anni fa e usava i suoi due artigli per cacciare.
+ZKN_SWORD_348_000	Dopo l'evoluzione, è salito sulla terraferma. La parte inferiore del corpo si è rafforzata, rendendo i colpi della sua coda devastanti.
 ZKN_SWORD_349_000	È un Pokémon poco popolare per via del suo misero aspetto. Tuttavia, la sua prodigiosa vitalità ha attirato l'interesse dei ricercatori.
 ZKN_SWORD_350_000	È considerato il Pokémon più bello del mondo ed è fonte d'ispirazione per tantissimi artisti.
 ZKN_SWORD_351_000	
@@ -16730,33 +16832,33 @@ ZKN_SWORD_355_000	Si racconta che questo Pokémon porti via nella notte i bambin
 ZKN_SWORD_356_000	L'interno del suo corpo è completamente vuoto. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.
 ZKN_SWORD_357_000	
 ZKN_SWORD_358_000	
-ZKN_SWORD_359_000	
+ZKN_SWORD_359_000	Corre veloce come il vento attraverso colline e campi. Il suo corno ricurvo è in grado di prevedere con precisione le calamità naturali.
 ZKN_SWORD_360_000	I Wynaut fanno tutto in gruppo. Giocando a darsi spintoni, si tengono sempre allenati.
 ZKN_SWORD_361_000	Si dice che provochi forti nevicate se appare nel cuore della notte. Si nutre di neve e ghiaccio.
 ZKN_SWORD_362_000	Neppure il fuoco riesce a sciogliere il suo corpo di ghiaccio. Può congelare istantaneamente l'umidità dell'atmosfera.
-ZKN_SWORD_363_000	
-ZKN_SWORD_364_000	
-ZKN_SWORD_365_000	
+ZKN_SWORD_363_000	Il suo corpo, avvolto in uno spesso strato lipidico, è perfettamente rotondo. Si sposta più velocemente rotolando che camminando.
+ZKN_SWORD_364_000	Vive su banchi di ghiaccio alla deriva. Individua le prede fiutandone l'odore mentre nuota.
+ZKN_SWORD_365_000	Vive in branchi di 20-30 esemplari. In caso di attacco nemico, il capo protegge il gruppo a costo della vita.
 ZKN_SWORD_366_000	
 ZKN_SWORD_367_000	
 ZKN_SWORD_368_000	
-ZKN_SWORD_369_000	
+ZKN_SWORD_369_000	Riesce a sopportare la pressione degli abissi marini grazie alle sue scaglie dure come la roccia e alle vesciche natatorie piene di grasso.
 ZKN_SWORD_370_000	
-ZKN_SWORD_371_000	
-ZKN_SWORD_372_000	
-ZKN_SWORD_373_000	
-ZKN_SWORD_374_000	
-ZKN_SWORD_375_000	
-ZKN_SWORD_376_000	
-ZKN_SWORD_377_000	
-ZKN_SWORD_378_000	
-ZKN_SWORD_379_000	
+ZKN_SWORD_371_000	Tempra il suo corpo ogni giorno gettandosi in un precipizio, nella speranza di riuscire a volare, prima o poi.
+ZKN_SWORD_372_000	Il suo corpo è protetto da una dura corazza composta di materiale osseo. Accumula energia per poi evolversi.
+ZKN_SWORD_373_000	Questo insolito Pokémon è riuscito a evolversi in una creatura dotata di ali in seguito al suo intenso desiderio di librarsi nel cielo.
+ZKN_SWORD_374_000	Attira vigorosamente i nemici grazie alla potente forza magnetica generata dal didietro e li trafigge con gli artigli affilati.
+ZKN_SWORD_375_000	Due Beldum si sono uniti tramite l'attrazione magnetica, raddoppiando i loro poteri psichici grazie ai due cervelli.
+ZKN_SWORD_376_000	I Metagross che vivono sui monti innevati sono molto vivaci, perché la loro forza magnetica aumenta quando la temperatura va sottozero.
+ZKN_SWORD_377_000	Le varie parti del suo corpo sono costituite da rocce. Nel caso in cui si sgretoli, può ricomporre il suo organismo con nuove pietre.
+ZKN_SWORD_378_000	Utilizza aria gelida fino a -200 ºC per congelare all'istante chiunque gli si avvicini.
+ZKN_SWORD_379_000	È composto da un materiale misterioso più resistente di qualsiasi metallo, ma al contempo abbastanza morbido da essere elastico.
 ZKN_SWORD_380_000	
 ZKN_SWORD_381_000	
 ZKN_SWORD_382_000	
 ZKN_SWORD_383_000	
 ZKN_SWORD_384_000	
-ZKN_SWORD_385_000	
+ZKN_SWORD_385_000	Una volta ogni mille anni, si sveglia per sette giorni al canto di una voce pura e cristallina.
 ZKN_SWORD_386_000	
 ZKN_SWORD_387_000	
 ZKN_SWORD_388_000	
@@ -16813,10 +16915,10 @@ ZKN_SWORD_438_000	Dagli occhi espelle sudore e lacrime. Il primo ha un gusto lie
 ZKN_SWORD_439_000	Imita chiunque veda. Si esercita con costanza imitando gli splendidi passi di danza di Mr. Rime.
 ZKN_SWORD_440_000	Imita Chansey trasportando con cura nella tasca ventrale un sasso rotondo identico a un uovo.
 ZKN_SWORD_441_000	
-ZKN_SWORD_442_000	
-ZKN_SWORD_443_000	
-ZKN_SWORD_444_000	
-ZKN_SWORD_445_000	
+ZKN_SWORD_442_000	108 spiriti si sono riuniti dando vita a questo Pokémon, e pare che fra questi ce ne fossero di malvagi.
+ZKN_SWORD_443_000	Ama le strette nicchie nelle pareti delle grotte scaldate dal calore geotermico. Non ha freddo neanche se all'esterno ci sono tormente di neve.
+ZKN_SWORD_444_000	Emette ultrasuoni dalle protuberanze sulla testa per esaminare le grotte anche nel buio più fitto.
+ZKN_SWORD_445_000	Vive in montagne di origine vulcanica. Caccia le prede solcando i cieli alla velocità di un jet.
 ZKN_SWORD_446_000	Mangiare in quantità è la sua preoccupazione principale. Non bada al gusto e non si fa problemi se il cibo è andato a male.
 ZKN_SWORD_447_000	Ha una grande resistenza e una gran vitalità, tanto che può correre anche per una notte intera. Durante le passeggiate non è facile stargli dietro.
 ZKN_SWORD_448_000	Caccia le prede usando un potere chiamato aura, in grado di ridurre in frantumi anche grossi macigni.
@@ -16837,8 +16939,8 @@ ZKN_SWORD_462_000	Si dice che venga controllato tramite onde elettromagnetiche p
 ZKN_SWORD_463_000	La sua lingua può misteriosamente allungarsi fino a molte volte la lunghezza del corpo. Ancora non si è capito come faccia.
 ZKN_SWORD_464_000	Inserisce delle rocce o dei Roggenrola nelle cavità dei suoi palmi e poi li lancia. Può caricarne fino a tre per braccio.
 ZKN_SWORD_465_000	Può estendere le braccia a piacimento. In seguito a recenti ricerche si è scoperto che sono in realtà fasci di liane.
-ZKN_SWORD_466_000	
-ZKN_SWORD_467_000	
+ZKN_SWORD_466_000	Produce una quantità di elettricità direttamente proporzionale alla sua frequenza cardiaca. Durante la lotta il voltaggio si alza all'istante.
+ZKN_SWORD_467_000	Quando respira profondamente, le fiamme all'interno del suo ventre aumentano d'intensità, raggiungendo i 2.000 ºC.
 ZKN_SWORD_468_000	Non appare dove è in corso un conflitto o un litigio. Di recente non si vede quasi mai.
 ZKN_SWORD_469_000	
 ZKN_SWORD_470_000	La singolare fragranza emanata dalle sue foglie è molto apprezzata a Galar e i profumi che se ne ricavano sono molto popolari.
@@ -16902,7 +17004,7 @@ ZKN_SWORD_527_000	Se alzando lo sguardo in una grotta si vedono impronte a forma
 ZKN_SWORD_528_000	Dopo aver emesso delle potentissime onde sonore è così stanco da non poter volare per un po'.
 ZKN_SWORD_529_000	Congiunge le unghie e si avvita su se stesso a gran velocità per poi lanciarsi sulla preda.
 ZKN_SWORD_530_000	Si dice che le grotte all'apparenza naturali siano in realtà spesso il risultato degli scavi forsennati effettuati da Excadrill.
-ZKN_SWORD_531_000	
+ZKN_SWORD_531_000	Possiede un udito eccellente, grazie al quale riesce a cogliere anche il suono di un sasso che rotola a 2 km di distanza.
 ZKN_SWORD_532_000	Gli piace dare una mano nei lavori edili, e quando vengono interrotti per la pioggia, si sfoga facendo roteare la sua trave.
 ZKN_SWORD_533_000	Sfoggia i suoi muscoli facendo a gara con i suoi simili e con Machoke. Chi perde sparisce dalla circolazione per un po'.
 ZKN_SWORD_534_000	Il cemento preparato da Conkeldurr è molto più duro e resistente della media, anche se la sua composizione non ha nulla di diverso.
@@ -16935,10 +17037,10 @@ ZKN_SWORD_560_000	Pur se tirati con aria svogliata, i suoi calci sono così dist
 ZKN_SWORD_561_000	Vola grazie ai suoi poteri psichici. Si dice che fosse lo spirito custode di un'antica città o il suo messaggero.
 ZKN_SWORD_562_000	Si aggira tra i ruderi ogni notte. Si dice che la maschera che indossa sia il volto che aveva quando era umano.
 ZKN_SWORD_563_000	È ricoperto di oro scintillante. Si dice che ormai non ricordi più di essere stato un essere umano.
-ZKN_SWORD_564_000	
-ZKN_SWORD_565_000	
-ZKN_SWORD_566_000	
-ZKN_SWORD_567_000	
+ZKN_SWORD_564_000	Nell'antichità viveva nei mari. Pur essendo solo in grado di strisciare, sale anche sulla terraferma in cerca di prede.
+ZKN_SWORD_565_000	Consuma le sue prede senza lasciare nemmeno ossa e gusci, favorendo così la formazione di un carapace duro e spesso.
+ZKN_SWORD_566_000	È stato rigenerato da un fossile. Come mostrato dalle ricerche, non può volare, ma è molto abile nei salti.
+ZKN_SWORD_567_000	Prende la rincorsa per volare, percorrendo circa 4 km a una velocità di 40 km/h.
 ZKN_SWORD_568_000	Predilige luoghi insalubri. Sbuca fuori nelle case dove è stata lasciata spazzatura in giro e vi si stabilisce.
 ZKN_SWORD_569_000	Mangia spazzatura e la trasforma in un veleno la cui composizione cambia a seconda di cosa ha ingurgitato.
 ZKN_SWORD_570_000	Pare che abbia sviluppato l'abilità di alterare le sue sembianze per via della sua natura timorosa.
@@ -16986,7 +17088,7 @@ ZKN_SWORD_611_000	Se le sue zanne si spezzano, non ricrescono più. Finita la lo
 ZKN_SWORD_612_000	Va fiero delle sue zanne grandi e robuste, e assorbe i minerali necessari a mantenerle in ottime condizioni leccando la terra.
 ZKN_SWORD_613_000	Se è in buona salute, la viscosità della goccia che gli fuoriesce dal naso aumenta. Se qualcuno non gli va a genio, lo imbratta con il suo muco.
 ZKN_SWORD_614_000	Le zanne che crea congelando il suo respiro sono più dure dell'acciaio. Nuota nelle acque gelide del mare in cerca di cibo.
-ZKN_SWORD_615_000	
+ZKN_SWORD_615_000	Maneggia una catena di ghiaccio, con cui congela e trascina via chiunque incontri.
 ZKN_SWORD_616_000	Quando viene attaccato, si rinchiude nella conchiglia sigillando la visiera per proteggersi. Solo Karrablast riesce a superare queste difese.
 ZKN_SWORD_617_000	Lotta spruzzando veleno con rapidi movimenti. È protagonista di fumetti e film che riscuotono un grandissimo successo.
 ZKN_SWORD_618_000	Abita i fondali che emergono durante la bassa marea. Ha sviluppato un organo che produce elettricità grazie a un batterio che vive nel fango.
@@ -17009,16 +17111,16 @@ ZKN_SWORD_634_000	Perlustra il suo territorio in cerca di cibo. Le due teste si 
 ZKN_SWORD_635_000	Azzanna tutto ciò che si muove. Sono molte le storie che narrano di villaggi rasi al suolo da questo Pokémon.
 ZKN_SWORD_636_000	Anticamente si credeva che Larvesta fosse caduto dal sole.
 ZKN_SWORD_637_000	Si dice che le scaglie infuocate sparse da Volcarona a volte causino incendi e altre volte salvino chi soffre il freddo.
-ZKN_SWORD_638_000	
-ZKN_SWORD_639_000	
-ZKN_SWORD_640_000	
+ZKN_SWORD_638_000	La leggenda narra che abbia lottato assieme a Terrakion e Virizion contro gli esseri umani per proteggere i Pokémon di Unima.
+ZKN_SWORD_639_000	Possiede una forza straordinaria. Non ha alcuna pietà per quelli che se la prendono con i Pokémon più piccoli di loro.
+ZKN_SWORD_640_000	Secondo la leggenda, ha lottato fino all'ultimo assieme a Cobalion e Terrakion per proteggere i Pokémon di Unima.
 ZKN_SWORD_641_000	
 ZKN_SWORD_642_000	
-ZKN_SWORD_643_000	
-ZKN_SWORD_644_000	
+ZKN_SWORD_643_000	Solca i cieli come un jet emettendo fiamme dalla coda. Si dice che abbia la capacità di ridurre in cenere il mondo intero.
+ZKN_SWORD_644_000	Quando l'interno della sua coda inizia a girare come una turbina, emette lampi e saette che squarciano l'aria tutta intorno.
 ZKN_SWORD_645_000	
-ZKN_SWORD_646_000	
-ZKN_SWORD_647_000	
+ZKN_SWORD_646_000	La sua forza supera quella di Reshiram e Zekrom, ma è sigillata dalla temperatura glaciale del suo corpo.
+ZKN_SWORD_647_000	Ha imparato a lottare da Cobalion, Terrakion e Virizion. Ora continua i suoi allenamenti in giro per il mondo.
 ZKN_SWORD_648_000	
 ZKN_SWORD_649_000	
 ZKN_SWORD_650_000	
@@ -17067,14 +17169,14 @@ ZKN_SWORD_692_000	Se le sue chele si staccano durante la lotta, ricrescono. La p
 ZKN_SWORD_693_000	Individua la preda con le antenne della sua enorme chela e la attacca sparando proiettili d'acqua.
 ZKN_SWORD_694_000	Distende le pieghe sulla testa per raccogliere la luce solare e produrre energia elettrica che usa per sferrare potenti mosse di tipo Elettro.
 ZKN_SWORD_695_000	Un tempo era tenuto in grande considerazione in un paese desertico ormai scomparso. È giunto a Galar in casse contenenti tesori.
-ZKN_SWORD_696_000	
-ZKN_SWORD_697_000	
-ZKN_SWORD_698_000	
-ZKN_SWORD_699_000	
+ZKN_SWORD_696_000	Un antico Pokémon rigenerato da un fossile. Ha un'indole violenta ed egoista. Con la sua enorme mandibola fa a pezzi qualsiasi cosa.
+ZKN_SWORD_697_000	Questo Pokémon è esistito 100 milioni d'anni fa. È molto feroce, ma il suo atteggiamento solenne rivela una personalità degna di un re.
+ZKN_SWORD_698_000	È stato rigenerato da un fossile. Viveva in gruppo in regioni fredde, dove i predatori scarseggiavano.
+ZKN_SWORD_699_000	È stato rigenerato da un fossile. Si dice che quando Aurorus ulula, nel cielo notturno compaia l'aurora boreale.
 ZKN_SWORD_700_000	Fa cessare le lotte grazie alle antenne simili a fiocchetti, che emettono onde in grado di placare le ostilità.
 ZKN_SWORD_701_000	Sfrutta la sua agilità per indebolire l'avversario, e conclude la lotta dandogli il colpo di grazia con una mossa grandiosa.
 ZKN_SWORD_702_000	Usa i baffi per captare le onde radio emesse dai suoi simili. Così condivide informazioni su dove trovare cibo ed elettricità.
-ZKN_SWORD_703_000	
+ZKN_SWORD_703_000	Le gemme incastonate nel suo corpo emettono potenti raggi energetici con cui spazza via i nemici che lo attaccano.
 ZKN_SWORD_704_000	Il suo corpo è composto quasi esclusivamente di acqua. Se si secca, avvizzisce. È il più debole dei Pokémon di tipo Drago.
 ZKN_SWORD_705_000	È un Pokémon debole. Ha evitato l'estinzione grazie al suo muco corrosivo.
 ZKN_SWORD_706_000	A volte non capisce gli ordini del suo Allenatore e rimane immobile con un'aria stupita. Molti lo trovano adorabile proprio per questo.
@@ -17093,15 +17195,15 @@ ZKN_SWORD_718_000
 ZKN_SWORD_719_000	
 ZKN_SWORD_720_000	
 ZKN_SWORD_721_000	
-ZKN_SWORD_722_000	
-ZKN_SWORD_723_000	
-ZKN_SWORD_724_000	
-ZKN_SWORD_725_000	
-ZKN_SWORD_726_000	
-ZKN_SWORD_727_000	
-ZKN_SWORD_728_000	
-ZKN_SWORD_729_000	
-ZKN_SWORD_730_000	
+ZKN_SWORD_722_000	In volo attacca lanciando piume affilate come lame, mentre a distanza ravvicinata tira poderosi calci con le zampe robuste.
+ZKN_SWORD_723_000	Bersaglia i nemici con le sue piume affilate come coltelli, colpendo con precisione i loro punti deboli.
+ZKN_SWORD_724_000	Scocca piume dalle sue ali come fossero frecce lanciate da un arco. Una volta presa la mira, non manca mai il bersaglio.
+ZKN_SWORD_725_000	Si liscia il pelo con la lingua ogni volta che può. Incendia le palle di pelo accumulate nella pancia per lanciare mosse di tipo Fuoco.
+ZKN_SWORD_726_000	Durante la lotta, la sacca alla base del collo aumenta la produzione di energia termica ed emette un tintinnio simile a un sonaglio.
+ZKN_SWORD_727_000	Le fiamme che fuoriescono dal suo ombelico superano i 2.000 ºC. Dà il meglio nelle lotte furiose e senza regole.
+ZKN_SWORD_728_000	Produce dei palloncini speciali dalla superficie elastica, che esplodendo feriscono l'avversario.
+ZKN_SWORD_729_000	Evita le mosse del nemico con agili passi di danza per poi attaccarlo ripetutamente con una raffica di palloncini.
+ZKN_SWORD_730_000	Controlla i palloncini d'acqua grazie alle onde sonore che emette dalla bocca e che risuonano come un canto celestiale.
 ZKN_SWORD_731_000	
 ZKN_SWORD_732_000	
 ZKN_SWORD_733_000	
@@ -17160,10 +17262,10 @@ ZKN_SWORD_785_000
 ZKN_SWORD_786_000	
 ZKN_SWORD_787_000	
 ZKN_SWORD_788_000	
-ZKN_SWORD_789_000	
-ZKN_SWORD_790_000	
-ZKN_SWORD_791_000	
-ZKN_SWORD_792_000	
+ZKN_SWORD_789_000	Proviene da un altro universo. Il suo corpo fatto di gas è talmente leggero che può volar via al minimo soffio di vento.
+ZKN_SWORD_790_000	Il suo esoscheletro è più duro di qualunque cosa che gli esseri umani conoscano. Cresce assorbendo la luce delle stelle.
+ZKN_SWORD_791_000	Il suo corpo emette una luce abbagliante che, al pari del sole, è in grado di spazzare via le tenebre e illuminare il mondo.
+ZKN_SWORD_792_000	Viene chiamato "la creatura che evoca la luna". Converte qualsiasi tipo di luce in energia per sostentarsi.
 ZKN_SWORD_793_000	
 ZKN_SWORD_794_000	
 ZKN_SWORD_795_000	
@@ -17171,16 +17273,16 @@ ZKN_SWORD_796_000
 ZKN_SWORD_797_000	
 ZKN_SWORD_798_000	
 ZKN_SWORD_799_000	
-ZKN_SWORD_800_000	
+ZKN_SWORD_800_000	La luce è la sua fonte d'energia. Deve il colore nero del corpo alle impurità accumulatesi al suo interno mentre giaceva addormentato sottoterra.
 ZKN_SWORD_801_000	
-ZKN_SWORD_802_000	
+ZKN_SWORD_802_000	Si è infiltrato nell'ombra di un maestro di arti marziali e ne ha copiato i movimenti, carpendo così tutti i segreti.
 ZKN_SWORD_803_000	
 ZKN_SWORD_804_000	
 ZKN_SWORD_805_000	
 ZKN_SWORD_806_000	
-ZKN_SWORD_807_000	
-ZKN_SWORD_808_000	
-ZKN_SWORD_809_000	
+ZKN_SWORD_807_000	Dotato di una velocità fulminea, fa a pezzi l'avversario con i suoi artigli carichi di elettricità ad alta tensione.
+ZKN_SWORD_808_000	Fonde il metallo per cibarsene, e lo fa circolare nel suo corpo per produrre energia.
+ZKN_SWORD_809_000	Alla fine della sua esistenza, si arrugginisce e cade a pezzi. Dopo un po' di tempo, i resti del suo corpo tornano in vita sotto forma di Meltan.
 ZKN_SWORD_810_000	Segnando il ritmo con la sua bacchetta speciale diffonde onde sonore che hanno il potere di rinvigorire fiori e piante.
 ZKN_SWORD_811_000	I Thwackey più rispettati dai propri simili sono quelli in grado di produrre un ritmo forsennato con le due bacchette.
 ZKN_SWORD_812_000	Controlla il potere del suo ceppo speciale usandolo come un tamburo e lotta servendosi delle radici.
@@ -17265,6 +17367,11 @@ ZKN_SWORD_890_000	Si alimenta attraverso il nucleo sul suo petto, con cui assorb
 ZKN_SWORD_891_000	Affina le sue mosse sottoponendosi a duri allenamenti. La forma assunta dopo l'evoluzione cambia a seconda delle mosse padroneggiate.
 ZKN_SWORD_892_000	Il suo credo è sconfiggere l'avversario con un colpo solo. Si lancia sul nemico e lo colpisce con un pugno potenziato al massimo dall'allenamento.
 ZKN_SWORD_893_000	Vive in branco nella giungla. È temuto dagli altri Pokémon della foresta perché estremamente aggressivo.
+ZKN_SWORD_894_000	È un agglomerato di energia elettrica. Si dice che rimuovere gli anelli che ha attorno al corpo liberi la sua potenza latente.
+ZKN_SWORD_895_000	Si ipotizza che le sue braccia abbiano la forma della testa di un antico Pokémon di tipo Drago, ma non esistono prove certe.
+ZKN_SWORD_896_000	Rilascia una potente aria gelida dagli zoccoli. È impetuoso e prende con la forza tutto ciò che vuole.
+ZKN_SWORD_897_000	Sonda l'area circostante con tutti i suoi sensi, esclusa la vista. Si narra che chi subisce i suoi calci venga privato dell'anima.
+ZKN_SWORD_898_000	Portatore di rigogliosità e dotato di poteri curativi, questo Pokémon compassionevole regnò su Galar in tempi antichi.
 ZKN_SWORD_003_001	
 ZKN_SWORD_003_999	Lotta agitando due spesse liane. È così forte da abbattere con facilità un edificio di 10 piani.
 ZKN_SWORD_006_001	
@@ -17328,9 +17435,13 @@ ZKN_SWORD_133_001
 ZKN_SWORD_133_999	Intrappola il nemico usando la pelliccia intorno al collo, che è diventata ancora più vaporosa grazie all'energia del fenomeno Gigamax.
 ZKN_SWORD_142_001	
 ZKN_SWORD_143_999	L'energia del fenomeno Gigamax ha ingigantito perfino i semi avanzati dai suoi pasti e le pietruzze rimaste impigliate sulla sua pancia.
+ZKN_SWORD_144_001	Le lame a forma di piuma che crea con i suoi poteri psichici sono in grado di trinciare spesse lastre di metallo come se fossero di carta.
+ZKN_SWORD_145_001	Viene chiamato Zapdos per via del crepitio elettrico generato dallo sfregamento delle sue piume.
+ZKN_SWORD_146_001	Chi viene in contatto con la sua aura maligna, simile a fuoco ardente, perde ogni energia vitale, sbiancando.
 ZKN_SWORD_150_001	
 ZKN_SWORD_150_002	
 ZKN_SWORD_181_001	
+ZKN_SWORD_199_001	Lo shock dell'evoluzione e le tossine hanno favorito lo sviluppo dell'intelletto di Shellder, che ora è in grado di manipolare Slowking.
 ZKN_SWORD_201_001	
 ZKN_SWORD_201_002	
 ZKN_SWORD_201_003	
@@ -17453,9 +17564,9 @@ ZKN_SWORD_618_001	Ha sviluppato un corpo di solido acciaio vivendo in luoghi fan
 ZKN_SWORD_641_001	
 ZKN_SWORD_642_001	
 ZKN_SWORD_645_001	
-ZKN_SWORD_646_001	
-ZKN_SWORD_646_002	
-ZKN_SWORD_647_001	
+ZKN_SWORD_646_001	Assorbendo Reshiram, che possiede il suo stesso DNA, ha acquisito la capacità di usare l'energia del fuoco e del ghiaccio.
+ZKN_SWORD_646_002	Si dice che lotti per la futura realizzazione di un mondo ideale per Pokémon ed esseri umani.
+ZKN_SWORD_647_001	La sua determinazione nella lotta ha infuso nel suo corpo un immenso vigore che ha determinato un cambiamento di forma.
 ZKN_SWORD_648_001	
 ZKN_SWORD_649_001	
 ZKN_SWORD_649_002	
@@ -17605,11 +17716,11 @@ ZKN_SWORD_778_001	Non perdona chi smaschera il suo travestimento da Pikachu e lo
 ZKN_SWORD_778_002	
 ZKN_SWORD_778_003	
 ZKN_SWORD_784_001	
-ZKN_SWORD_800_001	
-ZKN_SWORD_800_002	
+ZKN_SWORD_800_001	Assume questa forma quando controlla Solgaleo. Molto feroce, fa a brandelli le prede con gli artigli che ha sulla schiena e sulle zampe.
+ZKN_SWORD_800_002	Controlla totalmente Lunala e lo costringe a rilasciare energia luminosa per assorbirla.
 ZKN_SWORD_800_003	
 ZKN_SWORD_801_001	
-ZKN_SWORD_809_999	
+ZKN_SWORD_809_999	I ciclopi di cui si parla nella mitologia di una regione lontana altro non erano che dei Melmetal Gigamax.
 ZKN_SWORD_812_999	Grazie al potere del Gigamax, il ceppo che usa come batteria è cresciuto a tal punto da diventare una foresta.
 ZKN_SWORD_815_999	La gigantesca palla infuocata, infusa dell'ardente spirito combattivo di Cinderace, incenerisce l'avversario senza lasciargli scampo.
 ZKN_SWORD_818_999	Il suo getto d'acqua raggiunge la velocità di Mach 7. Aggiusta la mira sfruttando la cresta per rilevare il vento e la temperatura.
@@ -17651,6 +17762,8 @@ ZKN_SWORD_892_001	Si dice che abbia ideato il suo stile di lotta ispirandosi all
 ZKN_SWORD_892_999	Viene chiamato "Incarnazione dell'ira". Si dice che spazzi via dal mondo la malvagità con il suo aspetto e le sue urla terrificanti.
 ZKN_SWORD_892_998	Senza muoversi di un millimetro, aspetta in posa su una gamba sola il momento per far esplodere il potere del Gigamax.
 ZKN_SWORD_893_001	Si è allontanato dai suoi simili per allevare un piccolo umano. Il panno con cui si avvolge ha un odore che calma il pianto del bambino.
+ZKN_SWORD_898_001	Si racconta che non mostrava alcuna pietà per chi ostacolava il suo cammino, ma che dopo la lotta guariva le ferite dei suoi avversari.
+ZKN_SWORD_898_002	Si narra che abbia percorso l'intera Galar insieme a un Pokémon a cui era profondamente legato per rendere fertili le terre sterili della regione.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_ultramoon_ita.msbt

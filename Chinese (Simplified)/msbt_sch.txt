@@ -234,7 +234,7 @@ MONSNAME_229	黑鲁加
 MONSNAME_230	刺龙王
 MONSNAME_231	小小象
 MONSNAME_232	顿甲
-MONSNAME_233	多边兽Ⅱ
+MONSNAME_233	多边兽２型
 MONSNAME_234	惊角鹿
 MONSNAME_235	图图犬
 MONSNAME_236	无畏小子
@@ -475,7 +475,7 @@ MONSNAME_470	叶伊布
 MONSNAME_471	冰伊布
 MONSNAME_472	天蝎王
 MONSNAME_473	象牙猪
-MONSNAME_474	多边兽Ｚ
+MONSNAME_474	多边兽乙型
 MONSNAME_475	艾路雷朵
 MONSNAME_476	大朝北鼻
 MONSNAME_477	黑夜魔灵
@@ -564,7 +564,7 @@ MONSNAME_559	滑滑小子
 MONSNAME_560	头巾混混
 MONSNAME_561	象征鸟
 MONSNAME_562	哭哭面具
-MONSNAME_563	死神棺
+MONSNAME_563	迭失棺
 MONSNAME_564	原盖海龟
 MONSNAME_565	肋骨海龟
 MONSNAME_566	始祖小鸟
@@ -676,7 +676,7 @@ MONSNAME_671	花洁夫人
 MONSNAME_672	坐骑小羊
 MONSNAME_673	坐骑山羊
 MONSNAME_674	顽皮熊猫
-MONSNAME_675	流氓熊猫
+MONSNAME_675	霸道熊猫
 MONSNAME_676	多丽米亚
 MONSNAME_677	妙喵
 MONSNAME_678	超能妙喵
@@ -779,7 +779,7 @@ MONSNAME_774	小陨星
 MONSNAME_775	树枕尾熊
 MONSNAME_776	爆焰龟兽
 MONSNAME_777	托戈德玛尔
-MONSNAME_778	谜拟Ｑ
+MONSNAME_778	谜拟丘
 MONSNAME_779	磨牙彩皮鱼
 MONSNAME_780	老翁龙
 MONSNAME_781	破破舵轮
@@ -828,8 +828,8 @@ MONSNAME_823	钢铠鸦
 MONSNAME_824	索侦虫
 MONSNAME_825	天罩虫
 MONSNAME_826	以欧路普
-MONSNAME_827	偷儿狐
-MONSNAME_828	狐大盗
+MONSNAME_827	狡小狐
+MONSNAME_828	猾大狐
 MONSNAME_829	幼棉棉
 MONSNAME_830	白蓬蓬
 MONSNAME_831	毛辫羊
@@ -849,7 +849,7 @@ MONSNAME_844	沙螺蟒
 MONSNAME_845	古月鸟
 MONSNAME_846	刺梭鱼
 MONSNAME_847	戽斗尖梭
-MONSNAME_848	毒电婴
+MONSNAME_848	电音婴
 MONSNAME_849	颤弦蝾螈
 MONSNAME_850	烧火蚣
 MONSNAME_851	焚焰蚣
@@ -868,7 +868,7 @@ MONSNAME_863	喵头目
 MONSNAME_864	魔灵珊瑚
 MONSNAME_865	葱游兵
 MONSNAME_866	踏冰人偶
-MONSNAME_867	死神板
+MONSNAME_867	迭失板
 MONSNAME_868	小仙奶
 MONSNAME_869	霜奶仙
 MONSNAME_870	列阵兵
@@ -895,6 +895,11 @@ MONSNAME_890	无极汰那
 MONSNAME_891	熊徒弟
 MONSNAME_892	武道熊师
 MONSNAME_893	萨戮德
+MONSNAME_894	雷吉艾勒奇
+MONSNAME_895	雷吉铎拉戈
+MONSNAME_896	雪暴马
+MONSNAME_897	灵幽马
+MONSNAME_898	蕾冠王
 
 ~~~~~~~~~~~~~~~
 Text File : place_name_spe_sch.msbt
@@ -1577,7 +1582,7 @@ sp_achstep_trd_s_0005	已交换打击鬼和投摔鬼！
 sp_achstep_trd_s_0006	已交换盾甲龙和头盖龙！
 sp_achstep_trd_s_0007	已交换尼多后和尼多王！
 sp_achstep_trd_s_0008	已交换超能妙喵（雄性的样子） 和超能妙喵（雌性的样子）！
-sp_achstep_trd_s_0009	已交换皮卡丘和谜拟Ｑ！
+sp_achstep_trd_s_0009	已交换皮卡丘和谜拟丘！
 sp_achstep_trd_s_0010	已交换正电拍拍和负电拍拍！
 sp_achstep_trd_s_0011	已交换凯罗斯和赫拉克罗斯！
 sp_achstep_trd_s_0012	已交换呆呆兽和大舌贝！
@@ -1649,7 +1654,7 @@ sp_ach_trd_s_0005	已交换打击鬼和投摔鬼！
 sp_ach_trd_s_0006	已交换盾甲龙和头盖龙！
 sp_ach_trd_s_0007	已交换尼多后和尼多王！
 sp_ach_trd_s_0008	已交换超能妙喵（雄性的样子） 和超能妙喵（雌性的样子）！
-sp_ach_trd_s_0009	已交换皮卡丘和谜拟Ｑ！
+sp_ach_trd_s_0009	已交换皮卡丘和谜拟丘！
 sp_ach_trd_s_0010	已交换正电拍拍和负电拍拍！
 sp_ach_trd_s_0011	已交换凯罗斯和赫拉克罗斯！
 sp_ach_trd_s_0012	已交换呆呆兽和大舌贝！
@@ -1865,6 +1870,8 @@ sp_api_400_10309	目前已是进阶方案。
 sp_api_403_10310	Nintendo Switch版Pokémon HOME 正在进行购买处理。 请先完成那边的处理。
 sp_api_403_10311	智能手机（iOS）版Pokémon HOME 正在进行购买处理。 请先完成那边的处理。
 sp_api_403_10312	智能手机（Android）版Pokémon HOME 正在进行购买处理。 请先完成那边的处理。
+sp_api_400_10320	现在使用中的进阶方案 处于暂停使用状态。 请在“管理定期购买” 确认目前方案的状态。
+sp_api_400_10320_other	其他平台上的 智能手机版Pokémon HOME 现在使用中的进阶方案 处于暂停使用状态。 请确认其目前方案的状态。 ※可在“管理定期购买”中确认。
 sp_api_404_40407	没有找到好友。 请确认好友列表。
 sp_api_500_10501	发生错误， 请过一段时间后再试一次。
 sp_api_500_10504	没有找到群组。 即将结束交换。
@@ -1911,19 +1918,6 @@ sp_contentinfo_category_06	官方商店
 sp_contentinfo_category_07	电视动画系列／电影
 sp_contentinfo_category_08	活动
 sp_contentinfo_category_09	特别活动
-sp_contentinfo_00001	
-sp_contentinfo_00002	
-sp_contentinfo_00003	
-sp_contentinfo_00004	
-sp_contentinfo_00005	
-sp_contentinfo_00006	
-sp_contentinfo_00007	
-sp_contentinfo_00008	
-sp_contentinfo_00009	
-sp_contentinfo_00010	
-sp_contentinfo_00011	
-sp_contentinfo_00012	
-sp_contentinfo_00013	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_country_sch.msbt
@@ -2215,6 +2209,12 @@ sp_option_country	居住国家/地区
 sp_option_change_country	已更改国家/地区， 即将返回标题画面。
 sp_option_transition_smartphone	继承至其他设备
 sp_option_change	更改
+sp_option_filter_0001_vgo	宝可梦盒的搜索
+sp_option_filter_0002_vgo	保存搜索设置
+sp_option_filter_0003_vgo	当前保存的宝可梦盒的 搜索设置将会重置。 确定要继续吗？
+sp_option_sort_0001_vgo	宝可梦盒的排列顺序
+sp_option_sort_0002_vgo	保存排列顺序设置
+sp_option_sort_0003_vgo	当前保存的宝可梦盒的 搜索设置将会重置。 确定要继续吗？
 sp_option_notice_00001	接收通知
 sp_option_notice_00005	其他
 sp_option_notice_00006	通知
@@ -2244,6 +2244,9 @@ sp_option_account_00023	更改Nintendo Account。
 sp_option_account_00024	可更改为其他Nintendo Account。
 sp_option_account_00025	更改Nintendo Account。
 sp_option_account_00026	Nintendo Account已更改， 即将返回标题画面。
+sp_option_account_00027_vgo	若更改Nintendo Account， 将无法关联回原来的Nintendo Account， 敬请注意。
+sp_option_account_00028_vgo	若将现在所关连的Nintendo Account 更改为其他Nintendo Account， 原本的Nintendo Account将无法 使用《Pokémon HOME》。  确定要更改Nintendo Account吗？
+sp_option_account_00029_vgo	可更改为从未关联过Pokémon HOME 的其他Nintendo Account。
 sp_option_MONSNAME_722	妙蛙种子
 sp_option_MONSNAME_725	小火龙
 sp_option_MONSNAME_728	杰尼龟
@@ -2304,11 +2307,9 @@ sp_option_nalink_0043_v2	要开始关联Nintendo Switch版Pokémon HOME 与智�
 sp_option_nalink_0044_v2	在已关联的Nintendo Account内 确认到了智能手机版 Pokémon HOME的使用记录。
 sp_option_nalink_0045_v2	请确认至今为止所使用的 智能手机版Pokémon HOME <u><b>标题画面所显示的客服编码</b></u> 是否与下方编码一致。
 sp_option_nalink_0046_v2	要继承智能手机版Pokémon HOME的 数据并开始吗？
-sp_option_holohlo_0001_vgo	
-sp_option_holohlo_0002_vgo	
-sp_option_holohlo_0003_vgo	
-sp_option_holohlo_0004_vgo	
-sp_option_holohlo_0005_vgo	
+sp_option_holohlo_0001_vgo	关联Pokémon GO
+sp_option_holohlo_0004_vgo	接收
+sp_option_holohlo_0005_vgo	接收
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -2349,6 +2350,7 @@ sp_plan_android_pp	■关于解除自动更新 要解除自动更新， 请从�
 sp_plan_30_explanation_android_v2	每个月都会自动更新。
 sp_plan_90_explanation_android_v2	每过３个月会自动更新。
 sp_plan_365_explanation_android_v2	每过12个月会自动更新。
+sp_plan_recovered_notice_vgo	已恢复定期购买。 可在“设置”⇒“确认方案”处确认方案。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_playerlog_sch.msbt
@@ -2391,7 +2393,8 @@ sp_playerlog_00036	已通过初次特典获得。
 sp_playerlog_00037	最初选择的宝可梦
 sp_playerlog_00038	获得Pokémon HOME点数
 sp_playerlog_00039	已使用Pokémon HOME点数。
-sp_playerlog_00040_vgo	
+sp_playerlog_00040_vgo	已从Pokémon GO接收。
+sp_playerlog_00041_vgo	已被传送的宝可梦数量
 sp_playerlog_empty_list	没有可以显示的信息。
 sp_playerlog_filter_category	分类
 sp_playerlog_sort_pokemon_leave	已寄放
@@ -2431,6 +2434,11 @@ sp_trade_00004	奇迹盒子 交换成功的珍奇宝可梦
 sp_trade_00006	热点
 sp_trade_00007	排名迅速上升中
 sp_trade_00008	正在统计信息……
+sp_trade_00009_vgo	GTS
+sp_trade_00010_vgo	很受欢迎的宝可梦 （不含特别的宝可梦的排行榜）
+sp_trade_00011_vgo	很受欢迎的宝可梦
+sp_trade_00012_vgo	经常被交换的宝可梦
+sp_trade_00013_vgo	交换成功的珍奇宝可梦
 sp_trade_01001	要拿[VAR_PKNAME]怎么办？
 sp_trade_01002	查看能力
 sp_trade_01003	无法选择这只寄放在 GTS里的宝可梦。
@@ -2776,6 +2784,7 @@ sp_ui_operation	操作
 sp_ui_delivery_receive	神秘礼物
 sp_ui_pokemon_out_in	软件连动
 sp_ui_pokesmile	Pokémon HOME点数
+sp_ui_go	关联Pokémon GO
 sp_ui_date	日期
 sp_ui_deposit	寄放
 sp_ui_withdrawal	领取
@@ -2928,6 +2937,7 @@ sp_ui_report_10	已添加到图鉴的宝可梦
 sp_ui_report_11	已添加的招式
 sp_ui_report_12	已添加的特性
 sp_ui_report_13	已收集的贴纸数量
+sp_ui_report_14	从Pokémon GO传送过来的 宝可梦的数量
 sp_ui_notice_tab_1	全部
 sp_ui_notice_tab_2	系统
 sp_ui_notice_tab_3	活动
@@ -2957,23 +2967,30 @@ sp_ui_app_desc_0010_v3	Nintendo Switch版《Pokémon HOME》 能够关联《精�
 sp_ui_app_desc_0011_v3	只有在《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》里捉到的宝可梦 才能被带到《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》去。
 sp_ui_app_desc_0012_v3	《宝可梦》系列中成为伙伴的 宝可梦们能够通过 《宝可梦虚拟银行》移动到 Nintendo Switch版和智能手机版 《Pokémon HOME》。
 sp_ui_app_desc_0013_v3	将宝可梦从《宝可梦虚拟银行》 移动到《Pokémon HOME》 需加入进阶方案（收费）。 使用《宝可梦虚拟银行》需另行收费。
-sp_ui_app_desc_0014_v3	
-sp_ui_app_desc_0015_v3	
+sp_ui_app_desc_0014_v3	关联《Pokémon GO》
+sp_ui_app_desc_0015_v3	可将《Pokémon GO》中成为伙伴的宝可梦 传送到Nintendo Switch版 和智能手机版《Pokémon HOME》里。
 sp_ui_app_desc_0016_v3	关联《宝可梦 剑／盾》
 sp_ui_app_desc_0017_v3	关联《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》
 sp_ui_app_desc_0018_v3	无法将《Pokémon HOME》里的 宝可梦送回《宝可梦虚拟银行》。
 sp_ui_app_desc_0019_v3	无法将《宝可梦虚拟银行》里的 “宝可里程点数”继承至《Pokémon HOME》。
-sp_ui_link_go_0001_vgo	
-sp_ui_link_go_0002_vgo	
-sp_ui_transfer_accepting_head_vgo	
-sp_ui_transfer_complete_head_vgo	
-sp_ui_go_complete_body_vgo	
-sp_ui_go_info_vgo	
-sp_ui_go_over_capacity_bank_vgo	
-sp_ui_go_over_capacity_title_vgo	
-sp_ui_go_over_capacity_freebox_vgo	
-sp_ui_go_pokemon_list_vgo	
-sp_ui_transfer_pokemon_detail_vgo	
+sp_ui_app_desc_0020_vgo	要将宝可梦从《Pokémon GO》传送到 《Pokémon HOME》，两者需关联 同一个“Nintendo Account”。
+sp_ui_app_desc_0021_vgo	无法从《Pokémon HOME》向 《Pokémon GO》传送宝可梦。
+sp_ui_app_desc_0022_vgo	部分《Pokémon GO》的宝可梦 无法传送到《Pokémon HOME》去。
+sp_ui_app_desc_0023_vgo	《Pokémon GO》的宝可梦传送到 《Pokémon HOME》后，可移动到以下软件去。 ・《宝可梦 剑／盾》
+sp_ui_app_desc_0024_vgo	在《Pokémon GO》里捉到的宝可梦 传送到《Pokémon HOME》后， 部分宝可梦需满足以下条件 才可将其带到各个软件去。 要带过去的软件的宝可梦图鉴登录有目标宝可梦， 或在此软件内获得过一次该宝可梦。
+sp_ui_app_desc_0025_vgo	通过关联软件与服务， 你可以寄放《宝可梦》系列游戏及《Pokémon GO》中 成为伙伴的宝可梦， 还可以将《Pokémon HOME》里的宝可梦 送到部分软件里去， 并且能和全世界的人交换宝可梦。
+sp_ui_link_go_0001_vgo	关联Pokémon GO
+sp_ui_link_go_0002_vgo	有宝可梦从《Pokémon GO》 被传送了过来。  要接收吗？
+sp_ui_transfer_accept_vgo	接收宝可梦
+sp_ui_transfer_accept_confirm_vgo	查看被传送过来的宝可梦
+sp_ui_transfer_complete_head_vgo	已接收
+sp_ui_go_complete_body_vgo	已接收从《Pokémon GO》 传送过来的宝可梦！
+sp_ui_go_info_vgo	可接收从《Pokémon GO》 传送过来的宝可梦。
+sp_ui_go_over_capacity_bank_vgo	《Pokémon HOME》的宝可梦已满。 请整理盒子，然后再接收一次。
+sp_ui_go_over_capacity_title_vgo	空位不足
+sp_ui_go_pokemon_list_vgo	前往盒子
+sp_ui_transfer_failure_vgo	未正常接收从《Pokémon GO》 传送过来的宝可梦。 请再接收一次。 即将返回标题画面。
+sp_ui_holoholo_trainer_name_vgo	Pokémon GO的训练家名
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt
@@ -3247,6 +3264,13 @@ TOKUSEIINFO_257	自己和同伴都不会 陷入中毒的异常状态。
 TOKUSEIINFO_258	每回合结束时会在 满腹花纹与空腹花纹之间 交替改变样子。
 TOKUSEIINFO_259	有时能比对手先一步行动。
 TOKUSEIINFO_260	如果使出的是接触到对手的招式， 就可以无视守护效果进行攻击。
+TOKUSEIINFO_261	出场时会从贝壳撒药， 将我方的能力变化复原。
+TOKUSEIINFO_262	电属性的招式威力会提高。
+TOKUSEIINFO_263	龙属性的招式威力会提高。
+TOKUSEIINFO_264	打倒对手时 会用冰冷的声音嘶鸣 并提高攻击。
+TOKUSEIINFO_265	打倒对手时 会用恐怖的声音嘶鸣 并提高特攻。
+TOKUSEIINFO_266	兼备蕾冠王的紧张感和 雪暴马的苍白嘶鸣这两种特性。
+TOKUSEIINFO_267	兼备蕾冠王的紧张感和 灵幽马的漆黑嘶鸣这两种特性。
 
 ~~~~~~~~~~~~~~~
 Text File : tokusei_sch.msbt
@@ -3512,6 +3536,13 @@ TOKUSEI_257	粉彩护幕
 TOKUSEI_258	饱了又饿
 TOKUSEI_259	速击
 TOKUSEI_260	无形拳
+TOKUSEI_261	怪药
+TOKUSEI_262	电晶体
+TOKUSEI_263	龙颚
+TOKUSEI_264	苍白嘶鸣
+TOKUSEI_265	漆黑嘶鸣
+TOKUSEI_266	人马一体
+TOKUSEI_267	人马一体
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_sch.msbt
@@ -4331,7 +4362,7 @@ WAZAINFO_722	用光柱来进行攻击。 比较自己的攻击和特攻， 用�
 WAZAINFO_723	奈克洛兹玛会无视对手的特性效果， 在攻击和特攻之间， 用数值相对较高的一项给予对方伤害。
 WAZAINFO_724	得到Ｚ力量的索尔迦雷欧 将全力进行攻击。 可以无视对手的特性效果。
 WAZAINFO_725	得到Ｚ力量的露奈雅拉 将全力进行攻击。 可以无视对手的特性效果。
-WAZAINFO_726	得到Ｚ力量的谜拟Ｑ 将全力进行乱揍攻击。
+WAZAINFO_726	得到Ｚ力量的谜拟丘 将全力进行乱揍攻击。
 WAZAINFO_727	得到Ｚ力量的鬃岩狼人 将全力进行攻击。 而且会消除场地状态。
 WAZAINFO_728	得到Ｚ力量的杖尾鳞甲龙 将全力攻击对手。 并且自己的能力会提高。
 WAZAINFO_729	迅猛无比的电击。 必定能够先制攻击， 击中对方的要害。
@@ -4424,6 +4455,14 @@ WAZAINFO_815	将滚烫的沙子砸向对手进行攻击。 有时会让对手陷
 WAZAINFO_816	与丛林融为一体， 回复自己和场上同伴的ＨＰ和状态。
 WAZAINFO_817	将恶之流派修炼至大成的 猛烈一击。 必定会击中要害。
 WAZAINFO_818	将水之流派修炼至大成的 仿若行云流水般的３次连击。 必定会击中要害。
+WAZAINFO_819	将对手困在 电流四溅的囚笼中， 在４～５回合内进行攻击。
+WAZAINFO_820	把生命力转换为力量攻击对手。 自己的ＨＰ越少，招式的威力越小。
+WAZAINFO_821	从双眼发射精神力量进行攻击。 有时会让对手陷入冰冻状态。
+WAZAINFO_822	将愤怒转化为火焰般的气场进行攻击。 有时会使对手畏缩。
+WAZAINFO_823	以雷电般的动作 戏耍对手的同时使出脚踢。 可降低对手的防御。
+WAZAINFO_824	向对手投掷 掀起暴风雪的冰矛进行攻击。
+WAZAINFO_825	用大量的小灵体向 对手发起攻击。
+WAZAINFO_826	用强大的精神力量攻击。 让对手最后使用的招式 减少３ＰＰ。
 
 ~~~~~~~~~~~~~~~
 Text File : wazaname_sch.msbt
@@ -5247,6 +5286,14 @@ WAZANAME_815	热沙大地
 WAZANAME_816	丛林治疗
 WAZANAME_817	暗冥强击
 WAZANAME_818	水流连打
+WAZANAME_819	雷电囚笼
+WAZANAME_820	巨龙威能
+WAZANAME_821	冰冷视线
+WAZANAME_822	怒火中烧
+WAZANAME_823	雷鸣蹴击
+WAZANAME_824	雪矛
+WAZANAME_825	星碎
+WAZANAME_826	诡异咒语
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_form_sch.msbt
@@ -6145,6 +6192,11 @@ ZKN_FORM_890_000
 ZKN_FORM_891_000	
 ZKN_FORM_892_000	一击流
 ZKN_FORM_893_000	
+ZKN_FORM_894_000	
+ZKN_FORM_895_000	
+ZKN_FORM_896_000	
+ZKN_FORM_897_000	
+ZKN_FORM_898_000	
 ZKN_FORM_003_001	超级妙蛙花
 ZKN_FORM_003_999	超极巨化
 ZKN_FORM_006_001	超级喷火龙Ｘ
@@ -6208,9 +6260,13 @@ ZKN_FORM_133_001
 ZKN_FORM_133_999	超极巨化
 ZKN_FORM_142_001	超级化石翼龙
 ZKN_FORM_143_999	超极巨化
+ZKN_FORM_144_001	伽勒尔的样子
+ZKN_FORM_145_001	伽勒尔的样子
+ZKN_FORM_146_001	伽勒尔的样子
 ZKN_FORM_150_001	超级超梦Ｘ
 ZKN_FORM_150_002	超级超梦Ｙ
 ZKN_FORM_181_001	超级电龙
+ZKN_FORM_199_001	伽勒尔的样子
 ZKN_FORM_201_001	某种样子
 ZKN_FORM_201_002	某种样子
 ZKN_FORM_201_003	某种样子
@@ -6531,6 +6587,8 @@ ZKN_FORM_892_001	连击流
 ZKN_FORM_892_999	超极巨化
 ZKN_FORM_892_998	超极巨化
 ZKN_FORM_893_001	阿爸
+ZKN_FORM_898_001	骑白马的样子
+ZKN_FORM_898_002	骑黑马的样子
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_sch.msbt
@@ -7429,6 +7487,11 @@ ZKN_HEIGHT_890_000	20.0m
 ZKN_HEIGHT_891_000	0.6m
 ZKN_HEIGHT_892_000	1.9m
 ZKN_HEIGHT_893_000	1.8m
+ZKN_HEIGHT_894_000	1.2m
+ZKN_HEIGHT_895_000	2.1m
+ZKN_HEIGHT_896_000	2.2m
+ZKN_HEIGHT_897_000	2.0m
+ZKN_HEIGHT_898_000	1.1m
 ZKN_HEIGHT_003_001	2.4m
 ZKN_HEIGHT_003_999	24.0m~
 ZKN_HEIGHT_006_001	1.7m
@@ -7492,9 +7555,13 @@ ZKN_HEIGHT_133_001
 ZKN_HEIGHT_133_999	18.0m~
 ZKN_HEIGHT_142_001	2.1m
 ZKN_HEIGHT_143_999	35.0m~
+ZKN_HEIGHT_144_001	1.7m
+ZKN_HEIGHT_145_001	1.6m
+ZKN_HEIGHT_146_001	2.0m
 ZKN_HEIGHT_150_001	2.3m
 ZKN_HEIGHT_150_002	1.5m
 ZKN_HEIGHT_181_001	1.4m
+ZKN_HEIGHT_199_001	1.8m
 ZKN_HEIGHT_201_001	0.5m
 ZKN_HEIGHT_201_002	0.5m
 ZKN_HEIGHT_201_003	0.5m
@@ -7815,6 +7882,8 @@ ZKN_HEIGHT_892_001	1.9m
 ZKN_HEIGHT_892_999	29.0m~
 ZKN_HEIGHT_892_998	26.0m~
 ZKN_HEIGHT_893_001	1.8m
+ZKN_HEIGHT_898_001	2.4m
+ZKN_HEIGHT_898_002	2.4m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_sch.msbt
@@ -8713,11 +8782,22 @@ ZKN_TYPE_890	超极巨宝可梦
 ZKN_TYPE_891	拳法宝可梦
 ZKN_TYPE_892	拳法宝可梦
 ZKN_TYPE_893	恶猿宝可梦
+ZKN_TYPE_894	电子宝可梦
+ZKN_TYPE_895	龙玉宝可梦
+ZKN_TYPE_896	烈马宝可梦
+ZKN_TYPE_897	骏马宝可梦
+ZKN_TYPE_898	国王宝可梦
 ZKN_TYPE_077_001	一角宝可梦
 ZKN_TYPE_078_001	一角宝可梦
 ZKN_TYPE_122_001	舞蹈宝可梦
+ZKN_TYPE_144_001	冷酷宝可梦
+ZKN_TYPE_145_001	健脚宝可梦
+ZKN_TYPE_146_001	邪恶宝可梦
+ZKN_TYPE_199_001	诅咒师宝可梦
 ZKN_TYPE_555_002	不倒翁宝可梦
 ZKN_TYPE_720_001	魔神宝可梦
+ZKN_TYPE_898_001	帝皇宝可梦
+ZKN_TYPE_898_002	帝皇宝可梦
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_sch.msbt
@@ -9616,6 +9696,11 @@ ZKN_WEIGHT_890_000	950.0kg
 ZKN_WEIGHT_891_000	12.0kg
 ZKN_WEIGHT_892_000	105.0kg
 ZKN_WEIGHT_893_000	70.0kg
+ZKN_WEIGHT_894_000	145.0kg
+ZKN_WEIGHT_895_000	200.0kg
+ZKN_WEIGHT_896_000	800.0kg
+ZKN_WEIGHT_897_000	44.5kg
+ZKN_WEIGHT_898_000	7.7kg
 ZKN_WEIGHT_003_001	155.5kg
 ZKN_WEIGHT_003_999	???.?kg
 ZKN_WEIGHT_006_001	110.5kg
@@ -9679,9 +9764,13 @@ ZKN_WEIGHT_133_001
 ZKN_WEIGHT_133_999	???.?kg
 ZKN_WEIGHT_142_001	79.0kg
 ZKN_WEIGHT_143_999	???.?kg
+ZKN_WEIGHT_144_001	50.9kg
+ZKN_WEIGHT_145_001	58.2kg
+ZKN_WEIGHT_146_001	66.0kg
 ZKN_WEIGHT_150_001	127.0kg
 ZKN_WEIGHT_150_002	33.0kg
 ZKN_WEIGHT_181_001	61.5kg
+ZKN_WEIGHT_199_001	79.5kg
 ZKN_WEIGHT_201_001	5.0kg
 ZKN_WEIGHT_201_002	5.0kg
 ZKN_WEIGHT_201_003	5.0kg
@@ -10002,6 +10091,8 @@ ZKN_WEIGHT_892_001	105.0kg
 ZKN_WEIGHT_892_999	???.?kg
 ZKN_WEIGHT_892_998	???.?kg
 ZKN_WEIGHT_893_001	70.0kg
+ZKN_WEIGHT_898_001	809.1kg
+ZKN_WEIGHT_898_002	53.6kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_sch.msbt
@@ -10999,7 +11090,7 @@ ZKN_LETSGO_078_000	总之就是喜欢跑步。如果 发现有谁跑得比自己
 ZKN_LETSGO_079_000	非常呆，动作也很缓慢。 从不在意时间的流逝， 过着悠闲的生活。
 ZKN_LETSGO_080_000	在海边悠闲地生活。如果 尾巴上的大舌贝脱落了， 它就会变回呆呆兽。
 ZKN_LETSGO_081_000	天生就拥有遮断重力 的能力，可以一边发出 电磁波一边在空中移动。
-ZKN_LETSGO_082_000	在它发射出神秘电波后， 方圆１千米以内的 气温会上升２度。
+ZKN_LETSGO_082_000	一直在发射神秘的电波， 半径１公里内的气温会升高２度。
 ZKN_LETSGO_083_000	居住在茎状植物生长的地方。 由于这种植物极为稀少而罕见， 大葱鸭的数量似乎也在减少。
 ZKN_LETSGO_084_000	羽毛较短所以不擅长飞行， 但是拥有发达的双脚， 能够以很快的速度奔跑。
 ZKN_LETSGO_085_000	由嘟嘟的某个头分裂 出的变种。以６０千米的 时速在草原上奔跑。
@@ -12371,7 +12462,7 @@ ZKN_MOON_325_000
 ZKN_MOON_326_000	
 ZKN_MOON_327_000	每一只身上的斑点花纹都不同。 听说也有爱好者以这细微的 斑点位置的不同为乐。
 ZKN_MOON_328_000	一边用大大的颚把挡道的 岩石咬碎，一边挖沙子。 巢穴的形状是捣蒜钵那样的。
-ZKN_MOON_329_000	为了让翅膀成长， 每天要吸食大量 用消化液溶化的猎物。
+ZKN_MOON_329_000	为了让翅膀成长， 每天要用消化液溶化 并吸食大量的猎物。
 ZKN_MOON_330_000	因为位于自己卷起的沙暴中心， 所以是很少现身于人前的宝可梦。
 ZKN_MOON_331_000	
 ZKN_MOON_332_000	
@@ -12403,7 +12494,7 @@ ZKN_MOON_357_000
 ZKN_MOON_358_000	
 ZKN_MOON_359_000	被认为会带来灾祸， 而实际上性格很温和。 会向人传递灾害危机的信息。
 ZKN_MOON_360_000	
-ZKN_MOON_361_000	只能在寒冷的土地上生存。 即使在零下１００度的环境下 也能充满活力地到处蹦蹦跳跳哦。
+ZKN_MOON_361_000	只能在寒冷的土地上生存。 即使在零下１００度的环境下 也能充满活力地到处蹦蹦跳跳。
 ZKN_MOON_362_000	从大大的嘴巴里喷出冷气， 把猎物瞬间冻得硬邦邦的。 就这么嘎嘣嘎嘣地享用食物。
 ZKN_MOON_363_000	
 ZKN_MOON_364_000	
@@ -14049,20 +14140,20 @@ ZKN_SHIELD_025_000	皮卡丘们把尾巴 贴在一起交换电流， 其实是�
 ZKN_SHIELD_026_000	如果电囊空了， 它就会直直地竖起尾巴， 收集空气中的电流。
 ZKN_SHIELD_027_000	会在地上挖洞建造巢穴。 挖洞时，即便遇到地里的坚硬岩石， 也能用尖锐的爪子弄碎后继续挖进。
 ZKN_SHIELD_028_000	会将锐利的爪子钩在树上爬树。 这是为了设法使树果掉落， 分给等在树下的穿山鼠们。
-ZKN_SHIELD_029_000	
-ZKN_SHIELD_030_000	
-ZKN_SHIELD_031_000	
-ZKN_SHIELD_032_000	
-ZKN_SHIELD_033_000	
-ZKN_SHIELD_034_000	
+ZKN_SHIELD_029_000	用坚硬的门牙咬碎 树果吃。和雄性相比， 角的尖端稍圆一些。
+ZKN_SHIELD_030_000	如果族群遇到了危险， 会和伙伴们团结起来， 施展出超音波大合唱。
+ZKN_SHIELD_031_000	把孩子放在背上刺与刺的 空隙里来哄它们。在这时 绝对不会释放毒素。
+ZKN_SHIELD_032_000	身材虽小，却性格勇敢。 为了保护相好的雌性， 会不顾生命果敢地战斗。
+ZKN_SHIELD_033_000	神经敏感，动不动就打架。 体内的肾上腺素一增加， 毒素的浓度也会提高。
+ZKN_SHIELD_034_000	以力量为傲的宝可梦。 用自己的粗尾巴和连钻石 都能击碎的角，豪爽地战斗。
 ZKN_SHIELD_035_000	因可爱的举止和叫声 而广受欢迎的宝可梦。 不过很少被人发现。
 ZKN_SHIELD_036_000	听觉灵敏，连１公里以外 针落地的声音都听得见， 因此平时会待在安静的地方。
 ZKN_SHIELD_037_000	随着身体的成长， ６根尾巴的毛发也会变得更漂亮。 紧紧抱着它时能感到微微的温暖。
 ZKN_SHIELD_038_000	聪明伶俐，但爱记仇。 据说如果敢乱抓它的尾巴， 它就会缠着你作祟１０００年。
 ZKN_SHIELD_039_000	能够随意改变声音的波长， 唱出听了绝对会 犯困的神奇旋律。
 ZKN_SHIELD_040_000	以自己细腻的体毛为傲。 尤其是额头上的卷毛， 更是有着天堂般的极致触感。
-ZKN_SHIELD_041_000	
-ZKN_SHIELD_042_000	
+ZKN_SHIELD_041_000	栖息在晒不到阳光的洞窟里。 到了早晨便会和同伴聚集起来， 一边互相取暖一边睡觉。
+ZKN_SHIELD_042_000	用小而灵活的脚走路。 会悄悄接近正在睡觉的猎物， 用尖牙咬住对方吸取血液。
 ZKN_SHIELD_043_000	白天会为躲避太阳 而钻入凉爽的地下。 会通过沐浴月光成长。
 ZKN_SHIELD_044_000	看似口水的东西其实是 甜甜的蜜。非常黏稠， 只要碰到就会一直黏住。
 ZKN_SHIELD_045_000	虽然花瓣越大， 就能放出越多的花粉， 但这样脑袋会变沉，容易疲倦。
@@ -14144,9 +14235,9 @@ ZKN_SHIELD_120_000	虽然会遭到鱼宝可梦的啄食， 但身体即使被咬
 ZKN_SHIELD_121_000	会高速旋转着身体 一边游泳一边吸收 微小的浮游生物。
 ZKN_SHIELD_122_000	擅长表演默剧。 用手指放出的波动制造墙壁， 保护自己免于大多数攻击。
 ZKN_SHIELD_123_000	如果在森林中发现某个地方 有大量树木被砍倒，就说明 那里是飞天螳螂的领地。
-ZKN_SHIELD_124_000	
-ZKN_SHIELD_125_000	
-ZKN_SHIELD_126_000	
+ZKN_SHIELD_124_000	伽勒尔的迷唇姐外表靓丽， 拥有纤细叫声的也不在少数， 甚至有为其着迷的粉丝。
+ZKN_SHIELD_125_000	暴风雨来临时，它们就会 集结在高高的大树周围， 耐心地等待落雷。
+ZKN_SHIELD_126_000	全身时刻都在燃烧。 大家认为它是引发火灾的 原因之一，非常惧怕它。
 ZKN_SHIELD_127_000	用角夹住猎物后， 不是直接把对方切成两半， 就是强行把对方扔飞。
 ZKN_SHIELD_128_000	栖息在伽勒尔的肯泰罗 性格暴躁，决不允许 人类骑在自己的背上。
 ZKN_SHIELD_129_000	又弱又可怜的宝可梦。 在水流比较快的地方 只能任凭自己被水冲走。
@@ -14158,20 +14249,20 @@ ZKN_SHIELD_134_000	身体细胞的结构与水分子相似。 它能和水融为
 ZKN_SHIELD_135_000	能够吸入空气中的负离子， 有时会吐出大约有 １００００伏特的高压电。
 ZKN_SHIELD_136_000	会将吸入的空气的一部分 传送到自己体内的火囊里， 制造出１７００度的火焰。
 ZKN_SHIELD_137_000	近年来十分活跃于 电脑空间。到处检查 有没有可疑的数据。
-ZKN_SHIELD_138_000	
-ZKN_SHIELD_139_000	
-ZKN_SHIELD_140_000	
-ZKN_SHIELD_141_000	
-ZKN_SHIELD_142_000	
+ZKN_SHIELD_138_000	已经灭绝的古代宝可梦。 依靠１０只脚来划水， 在水中轻盈地游曳。
+ZKN_SHIELD_139_000	拥有足以咬碎岩石的锋利牙齿， 但是能够袭击的猎物仅限 触手可以伸展的范围之内。
+ZKN_SHIELD_140_000	虽然存在已经灭绝的说法， 但据说在一部分地区 还是经常能见到它的身影。
+ZKN_SHIELD_141_000	灭绝的原因尚不明确。 曾经栖息在温暖的大海， 是性格残暴的古代宝可梦。
+ZKN_SHIELD_142_000	长着锯子般的牙齿。 甚至连钢属性宝可梦的皮肤 都会被它的牙齿撕成碎片。
 ZKN_SHIELD_143_000	拥有一个结实的胃， 即使吃了发霉腐烂的东西， 也完全不会吃坏肚子。
-ZKN_SHIELD_144_000	
-ZKN_SHIELD_145_000	
-ZKN_SHIELD_146_000	
-ZKN_SHIELD_147_000	
-ZKN_SHIELD_148_000	
-ZKN_SHIELD_149_000	
-ZKN_SHIELD_150_000	
-ZKN_SHIELD_151_000	
+ZKN_SHIELD_144_000	拥有能够自由操纵冰 的能力。据说它栖息在 永久冻土的雪山。
+ZKN_SHIELD_145_000	传说的鸟宝可梦。 据说只要它一摩擦翅膀， 就会立刻发生落雷。
+ZKN_SHIELD_146_000	相传它会用燃烧着的 美丽翅膀照亮山道， 救助在此遇险的人。
+ZKN_SHIELD_147_000	长久以来被认为只存在于 幻想之中。额头小小的突起 是正在发育的角。
+ZKN_SHIELD_148_000	把力量集中在尾巴的 珠子上操纵天气。 散发气场的样子非常神秘。
+ZKN_SHIELD_149_000	被称为大海的化身。 很多船都会把快龙的 雕像设置在船头。
+ZKN_SHIELD_150_000	某位科学家的研究 造就了超梦的诞生。 它的力量专为战斗而存在。
+ZKN_SHIELD_151_000	虽然被人们视为已经灭绝， 目击到这只幻之宝可梦 的传闻依然接连不断。
 ZKN_SHIELD_152_000	
 ZKN_SHIELD_153_000	
 ZKN_SHIELD_154_000	
@@ -14189,7 +14280,7 @@ ZKN_SHIELD_165_000
 ZKN_SHIELD_166_000	
 ZKN_SHIELD_167_000	
 ZKN_SHIELD_168_000	
-ZKN_SHIELD_169_000	
+ZKN_SHIELD_169_000	可以自由地控制４根翅膀 振翅而飞。即使在狭窄的 洞窟内也能保持速度飞来飞去。
 ZKN_SHIELD_170_000	在黑暗的海底， 触手上不断闪烁着的光 是它们唯一的通信手段。
 ZKN_SHIELD_171_000	发出强光蒙住猎物的眼睛。 抓住那一瞬间的空档， 使其遭受电的攻击。
 ZKN_SHIELD_172_000	脸颊上的电囊还很小， 如果囊里的电太多了， 就会漏出来电到自己。
@@ -14253,14 +14344,14 @@ ZKN_SHIELD_229_000
 ZKN_SHIELD_230_000	身上掉下的鳞片闪耀着 高雅而有深度的光泽， 甚至会被拿去进献给王族。
 ZKN_SHIELD_231_000	
 ZKN_SHIELD_232_000	
-ZKN_SHIELD_233_000	在装载了ＡＩ功能后， 多边兽Ⅱ便开始用只有彼此 能懂的神秘语言互相交流了。
+ZKN_SHIELD_233_000	在装载了ＡＩ功能后， 多边兽２型便开始用只有彼此 能懂的神秘语言互相交流了。
 ZKN_SHIELD_234_000	
 ZKN_SHIELD_235_000	
 ZKN_SHIELD_236_000	体型偏小却不可轻视， 因为它只要发现合适的对手 便会马上扑上去大打出手。
 ZKN_SHIELD_237_000	会通过倒立来扰乱 对方的节奏，然后 趁隙施展华丽的踢击。
-ZKN_SHIELD_238_000	
-ZKN_SHIELD_239_000	
-ZKN_SHIELD_240_000	
+ZKN_SHIELD_238_000	好奇心旺盛的宝可梦。 不管是什么都会试着用 嘴唇去触碰，确认是否喜欢。
+ZKN_SHIELD_239_000	储存电力的本领还不到家。 为了吸取电力，会偷偷 潜入民宅寻找插座。
+ZKN_SHIELD_240_000	栖息在火山地带。 会浸泡在岩浆中， 疗愈一整天的疲劳。
 ZKN_SHIELD_241_000	如果不每天帮它挤鲜奶， 它的身体就会不舒服。 鲜奶的味道会随季节改变。
 ZKN_SHIELD_242_000	会生下装满幸福的奇妙之蛋。 据说，吃下它的蛋的人， 能够对所有人都温柔相待。
 ZKN_SHIELD_243_000	
@@ -14271,7 +14362,7 @@ ZKN_SHIELD_247_000	虽然是蛹却不会呆着不动。 在坚硬的甲壳之下
 ZKN_SHIELD_248_000	当它带着巨大轰鸣声迈开脚步， 就连大山都会为之崩裂， 周围的地形也会因此改变。
 ZKN_SHIELD_249_000	
 ZKN_SHIELD_250_000	
-ZKN_SHIELD_251_000	
+ZKN_SHIELD_251_000	从未来穿越时光而来。 能够治愈伤痛， 也会把自己的力量分给草木。
 ZKN_SHIELD_252_000	
 ZKN_SHIELD_253_000	
 ZKN_SHIELD_254_000	
@@ -14324,9 +14415,9 @@ ZKN_SHIELD_300_000
 ZKN_SHIELD_301_000	
 ZKN_SHIELD_302_000	会去吃宝石的结晶。 双眼在漆黑一片的地方 会发出宝石的光芒。
 ZKN_SHIELD_303_000	大嘴娃能用自己那由钢角 变化而成的巨大颚部 将对手一口紧紧咬住。
-ZKN_SHIELD_304_000	
-ZKN_SHIELD_305_000	
-ZKN_SHIELD_306_000	
+ZKN_SHIELD_304_000	进化的时候，钢铁盔甲会 全部脱落。人们曾经 将其捡来活用于生活。
+ZKN_SHIELD_305_000	会用钢铁之躯互相撞击 来争夺地盘。仔细看会发现 钢铁盔甲上有伤痕和凹陷。
+ZKN_SHIELD_306_000	很久以前，有位国王由于希望 像波士可多拉一样强大而戴上了 模仿它的头部制成的头盔。
 ZKN_SHIELD_307_000	
 ZKN_SHIELD_308_000	
 ZKN_SHIELD_309_000	会在体毛中储存静电。 在空气干燥的季节 会从全身散发出火花。
@@ -14353,8 +14444,8 @@ ZKN_SHIELD_329_000	为了让翅膀成长， 每天要用消化液溶化 并吸�
 ZKN_SHIELD_330_000	由于它挥动翅膀的声音 好似女性优美的歌声， 因此被称为沙漠精灵。
 ZKN_SHIELD_331_000	
 ZKN_SHIELD_332_000	
-ZKN_SHIELD_333_000	
-ZKN_SHIELD_334_000	
+ZKN_SHIELD_333_000	看起来像是一团棉花云，因此 不易被敌人发现。据说翅膀是 随着世代演进逐渐变白的。
+ZKN_SHIELD_334_000	虽然性情温顺，但如果被惹怒， 就会用尖锐的叫声威吓对方， 并且毫不留情地发动进攻。
 ZKN_SHIELD_335_000	
 ZKN_SHIELD_336_000	
 ZKN_SHIELD_337_000	第一次发现它是在 ４０年前陨石坠落的地方。 只要注视敌人就能使其入睡。
@@ -14365,10 +14456,10 @@ ZKN_SHIELD_341_000	来自于外国的宝可梦， 现在已经回归了野生环
 ZKN_SHIELD_342_000	有着热爱战斗的性格。 当遇到靠近自己领地的对手， 会毫不留情地将之打倒。
 ZKN_SHIELD_343_000	在古代遗迹被发现。 会一边旋转一边移动。 晚上睡觉的时候也是单脚站着。
 ZKN_SHIELD_344_000	似乎是从古代人做的 泥偶诞生而来的宝可梦。 能靠念力浮在空中移动。
-ZKN_SHIELD_345_000	
-ZKN_SHIELD_346_000	
-ZKN_SHIELD_347_000	
-ZKN_SHIELD_348_000	
+ZKN_SHIELD_345_000	会吸附在海底岩石上， 用花瓣一样的触手 缠住接近自己的猎物。
+ZKN_SHIELD_346_000	用触手将猎物缠住后， 会用消化液将其溶化， 然后吸收其中的养分。
+ZKN_SHIELD_347_000	会把８根翅膀当做船桨划水， 并且游泳的速度相当快。 是虫宝可梦的一种祖先。
+ZKN_SHIELD_348_000	栖息在陆地，但也擅长游泳。 会潜入大海寻找猎物， 用锋利的爪子给予致命一击。
 ZKN_SHIELD_349_000	虽然外表丑陋， 但拥有顽强的生命力， 只要少量的水就能存活。
 ZKN_SHIELD_350_000	据说目睹了美纳斯美丽 身姿的人，心中一切的 愤恨都能得到抚慰。
 ZKN_SHIELD_351_000	
@@ -14379,33 +14470,33 @@ ZKN_SHIELD_355_000	会让身体变透明， 然后偷偷地靠近猎物。 拥�
 ZKN_SHIELD_356_000	寻找游走的灵魂，吸入自己 空洞的身体里。没人知道 被吸入后会发生什么事。
 ZKN_SHIELD_357_000	
 ZKN_SHIELD_358_000	
-ZKN_SHIELD_359_000	
+ZKN_SHIELD_359_000	由于拥有感知危险的能力， 因此它被人们误解为是 会招来灾祸的宝可梦。
 ZKN_SHIELD_360_000	具有集体行动的习性。 睡觉的时候会聚集在洞窟中， 和伙伴们把身体挨在一起。
 ZKN_SHIELD_361_000	只能在寒冷的土地上生存。 即使在零下１００度的环境下 也能充满活力地到处蹦蹦跳跳。
 ZKN_SHIELD_362_000	用令空气中的水分 瞬间冻结的力量， 将猎物冰冻起来。
-ZKN_SHIELD_363_000	
-ZKN_SHIELD_364_000	
-ZKN_SHIELD_365_000	
+ZKN_SHIELD_363_000	会漂浮在波浪当中观察 大海的状况。一旦发现猎物， 就会通知群体里的帝牙海狮。
+ZKN_SHIELD_364_000	不管是海豹球还是精灵球， 只要是圆的物体都会 顶在鼻子上转来转去。
+ZKN_SHIELD_365_000	它的獠牙一生都会持续生长。 即使在战斗中被折断也能逐渐恢复， 只需要１年的时间便能完好如初。
 ZKN_SHIELD_366_000	
 ZKN_SHIELD_367_000	
 ZKN_SHIELD_368_000	
-ZKN_SHIELD_369_000	
+ZKN_SHIELD_369_000	在深海调查中被发现的宝可梦。 样子在１亿年间都没有任何变化， 被人们称为活化石。
 ZKN_SHIELD_370_000	
-ZKN_SHIELD_371_000	
-ZKN_SHIELD_372_000	
-ZKN_SHIELD_373_000	
-ZKN_SHIELD_374_000	
-ZKN_SHIELD_375_000	
-ZKN_SHIELD_376_000	
-ZKN_SHIELD_377_000	
-ZKN_SHIELD_378_000	
-ZKN_SHIELD_379_000	
+ZKN_SHIELD_371_000	不会成群结队，喜欢单独生活。 脑袋很硬，只要猛地一撞， 就能把坚硬的岩石一分为二。
+ZKN_SHIELD_372_000	可以不吃食物忍受饥饿。 据说当它用尽积蓄的能量后， 就会开始进化。
+ZKN_SHIELD_373_000	虽然在空中翱翔能够让它 乐在其中，但是一旦被惹怒， 就会大闹一番，不可收拾。
+ZKN_SHIELD_374_000	身体的细胞由磁铁构成。 循环于全身的不是血液， 而是磁力。
+ZKN_SHIELD_375_000	依靠磁力飞行。能够在空中 以高速穿过险峻的山岳， 让追捕的猎物无处可逃。
+ZKN_SHIELD_376_000	２只金属怪组合起来的样子。 运用堪比超级计算机的 头脑打败敌人。
+ZKN_SHIELD_377_000	人们通过最新的科学技术 对它的岩石身体做了调查， 但是并未发现大脑和心脏。
+ZKN_SHIELD_378_000	拥有一副由冰构成的身体。 据说是诞生于冰河时期 冻得厚厚实实的冰块之下。
+ZKN_SHIELD_379_000	据说诞生于地幔之中， 在距今约１万年前 现身于地面之上。
 ZKN_SHIELD_380_000	
 ZKN_SHIELD_381_000	
 ZKN_SHIELD_382_000	
 ZKN_SHIELD_383_000	
 ZKN_SHIELD_384_000	
-ZKN_SHIELD_385_000	
+ZKN_SHIELD_385_000	传说当它从１０００年的 沉睡中醒来时，会实现 写在它头部许愿笺上的愿望。
 ZKN_SHIELD_386_000	
 ZKN_SHIELD_387_000	
 ZKN_SHIELD_388_000	
@@ -14462,10 +14553,10 @@ ZKN_SHIELD_438_000	栖息在空气干燥岩石裸露的地方。 空气越是干
 ZKN_SHIELD_439_000	像徒弟一样跟随着 擅长跳舞的踏冰人偶， 拼命模仿它的舞步。
 ZKN_SHIELD_440_000	会把自己珍贵的浑圆石头 借给关系变得很要好的对象。 如果不还给它，它便会大哭大闹。
 ZKN_SHIELD_441_000	
-ZKN_SHIELD_442_000	
-ZKN_SHIELD_443_000	
-ZKN_SHIELD_444_000	
-ZKN_SHIELD_445_000	
+ZKN_SHIELD_442_000	总是作恶多端， 于是被使用神奇法术的 旅人绑缚在楔石里。
+ZKN_SHIELD_443_000	遇到会动的东西就会扑上去 将其拉回到自己住的横洞内。 虽然嘴很大，但胃口却比较小。
+ZKN_SHIELD_444_000	会把宝石埋藏在栖息的洞窟内。 入侵者闯入洞窟后，会立刻 被它用爪子和牙齿撕碎。
+ZKN_SHIELD_445_000	身手在陆地上也很矫捷， 在雪山上会赶在身体冻僵前 干掉猎物并返回住处。
 ZKN_SHIELD_446_000	在体毛下面储存食物。 如果是自己信赖的对象， 也会把食物分给对方一口。
 ZKN_SHIELD_447_000	除了能读懂对手的感情， 也能以“波导”这种形式的波 来观察大自然的样子。
 ZKN_SHIELD_448_000	他能理解人类的想法， 因此只会去亲近 内心端正的训练家。
@@ -14486,8 +14577,8 @@ ZKN_SHIELD_462_000	人们认为，它是因为受到特殊 磁场的影响，身
 ZKN_SHIELD_463_000	舌头的灵巧程度甚至不输给 人手，没有它做不到的事。 相反，手指却相当笨拙，
 ZKN_SHIELD_464_000	用护具弹开敌人的攻击， 在对手畏缩时用自己 引以为傲的钻头贯穿对方。
 ZKN_SHIELD_465_000	栖息的地域越是温暖，藤蔓 生长得就越快。藤蔓变长后， 它会亲手将其扯断使其变短。
-ZKN_SHIELD_466_000	
-ZKN_SHIELD_467_000	
+ZKN_SHIELD_466_000	发电量在电气宝可梦当中 属于最高级别。可以从 尾巴尖端释放高压电流。
+ZKN_SHIELD_467_000	由于栖息在火山口，因此 身体逐渐变得像火山一样， 还长着类似岩浆库的器官。
 ZKN_SHIELD_468_000	被称为会带来恩惠的宝可梦， 从很久很久以前开始， 人们就视它为吉祥之物。
 ZKN_SHIELD_469_000	
 ZKN_SHIELD_470_000	尾巴好似锐利的刀刃， 锋利得无与伦比， 连大树都能一斩为二。
@@ -14530,7 +14621,7 @@ ZKN_SHIELD_506_000	比普通的小孩子还要 聪明许多。对于得到的关
 ZKN_SHIELD_507_000	覆盖在身上的黑色体毛 既厚又有弹性，甚至能 把尖锐的牙齿也反弹回去。
 ZKN_SHIELD_508_000	以自己气派的胡须为傲。 据说，每只个体在族群中的地位， 就是根据胡须长度来决定的。
 ZKN_SHIELD_509_000	会用可爱的动作让对手放下戒心， 趁对方靠过来时冷不防地用爪子 猛抓，然后得意地大笑。
-ZKN_SHIELD_510_000	和狐大盗争抢地盘。 能够悄无声息地 从背后偷偷靠近猎物。
+ZKN_SHIELD_510_000	和猾大狐争抢地盘。 能够悄无声息地 从背后偷偷靠近猎物。
 ZKN_SHIELD_511_000	
 ZKN_SHIELD_512_000	
 ZKN_SHIELD_513_000	
@@ -14551,7 +14642,7 @@ ZKN_SHIELD_527_000	一边发出超音波，一边 飞来飞去寻找虫宝可梦
 ZKN_SHIELD_528_000	据说有些地区的人觉得 它鼻子的形状很吉利， 而把它当成幸福的象征来祭拜。
 ZKN_SHIELD_529_000	会用爪子在地底挖掘前进。 一些农民因为担心它会 因此糟蹋蔬菜而讨厌它。
 ZKN_SHIELD_530_000	别名钻头王。在地底下 挖掘前进的速度 达到了每小时１５０公里。
-ZKN_SHIELD_531_000	
+ZKN_SHIELD_531_000	心地善良的宝可梦。 通过触角接触，就能了解 对方的心情和身体状况。
 ZKN_SHIELD_532_000	如果搬运小匠可以搬起 自己体重３倍左右的方材， 就代表它进化的日子要到了。
 ZKN_SHIELD_533_000	能够灵巧地操纵工字钢。 虽然对拆除得心应手， 但却不太擅长组装。
 ZKN_SHIELD_534_000	要是认真起来就会 扔掉手中的混凝土柱， 赤手空拳地扑向敌人。
@@ -14583,11 +14674,11 @@ ZKN_SHIELD_559_000	用结实的皮保护身体。 据说在皮伸展到极限时
 ZKN_SHIELD_560_000	虽然性格非常粗鲁， 但也有重视家族、 伙伴和领地的另一面。
 ZKN_SHIELD_561_000	人们在象征鸟飞过的沙漠 的地下调查，结果在那里 发现了疑似古代都市的遗迹。
 ZKN_SHIELD_562_000	古代人的灵魂变成了宝可梦。 为了寻找认得自己长相的人 而在遗迹里徘徊。
-ZKN_SHIELD_563_000	死神棺象征着国王的财富， 因此许多古墓里 都有它的壁画。
-ZKN_SHIELD_564_000	
-ZKN_SHIELD_565_000	
-ZKN_SHIELD_566_000	
-ZKN_SHIELD_567_000	
+ZKN_SHIELD_563_000	迭失棺象征着国王的财富， 因此许多古墓里 都有它的壁画。
+ZKN_SHIELD_564_000	由化石复活的宝可梦。 人们认为它是很多 龟宝可梦的祖先。
+ZKN_SHIELD_565_000	虽然和在水中相比动作 会变得迟缓，但是为了寻找 猎物也会登上陆地活动。
+ZKN_SHIELD_566_000	被称为鸟宝可梦的祖先。 栖息在树上，以树果和 虫宝可梦为食。
+ZKN_SHIELD_567_000	虽然也会飞行， 但是似乎更擅长在 地面上捕捉猎物。
 ZKN_SHIELD_568_000	诞生于塞满垃圾的垃圾袋里。 它嘴里喷出的毒气 是伽勒尔双弹瓦斯的最爱。
 ZKN_SHIELD_569_000	从右臂喷出的毒液十分危险， 虚弱的生物只要一沾到， 立刻就会丢掉性命。
 ZKN_SHIELD_570_000	为了寻找食物，有时甚至会 幻化成人类出现在城镇里。 多数情况下会幻化成小孩。
@@ -14635,7 +14726,7 @@ ZKN_SHIELD_611_000	皮肤像盔甲一样坚硬。 非常擅长在撞击的同时
 ZKN_SHIELD_612_000	性格温和，但生起气来非常恐怖。 会用自己那引以为傲，可以 削铁如泥的牙齿攻击敌人。
 ZKN_SHIELD_613_000	使出招式前会先倒吸鼻涕。 鼻涕里所含有的强烈冷气 是冰属性招式的能量来源。
 ZKN_SHIELD_614_000	在冰冷的大海里精力十足地游泳。 感到疲劳的时候会吐出气息 冻结海水，在冰面上休息。
-ZKN_SHIELD_615_000	
+ZKN_SHIELD_615_000	天气一热就会化为水蒸气。 到了夏天几乎到处都 看不到它的踪影。
 ZKN_SHIELD_616_000	有着会对电能产生反应 的奇异体质。不知为何， 和盖盖虫待在一起就会进化。
 ZKN_SHIELD_617_000	脱壳后变得更轻巧了。 为了防止干燥，会将 带状的粘膜裹在身上。
 ZKN_SHIELD_618_000	当从身上的黄色斑纹 里释放出强大电流时， 它会莫名地露出微笑。
@@ -14658,16 +14749,16 @@ ZKN_SHIELD_634_000	２个头会争抢同一个食物。 明明没有去和别人
 ZKN_SHIELD_635_000	３个头会轮流去咬敌人。 在对方倒下之前， 绝对不会停止攻击。
 ZKN_SHIELD_636_000	全身都相当温暖。 会从角的尖端喷出火焰， 借此威吓天敌或猎物。
 ZKN_SHIELD_637_000	从熊熊燃烧的火焰之茧中 诞生。在古代的壁画上 被描绘为火之神。
-ZKN_SHIELD_638_000	
-ZKN_SHIELD_639_000	
-ZKN_SHIELD_640_000	
+ZKN_SHIELD_638_000	生来就具有领导风范。 即使是性格狂暴的宝可梦， 在勾帕路翁面前也会变得温顺。
+ZKN_SHIELD_639_000	代拉基翁为保护宝可梦 而与人类作战的传说 在合众地区广为流传。
+ZKN_SHIELD_640_000	以敏捷的身手像旋风一般将敌人 玩弄于股掌之中，会用锋利的角 毫不留情地切斩对手。
 ZKN_SHIELD_641_000	
 ZKN_SHIELD_642_000	
-ZKN_SHIELD_643_000	
-ZKN_SHIELD_644_000	
+ZKN_SHIELD_643_000	在神话的叙述里，如果人类 蔑视真实、放纵欲望，它就会 用火焰烧尽他们的王国。
+ZKN_SHIELD_644_000	在神话的描述里，如果人类 失去了正义之心，它就会用 狂暴的雷电毁灭他们的王国。
 ZKN_SHIELD_645_000	
-ZKN_SHIELD_646_000	
-ZKN_SHIELD_647_000	
+ZKN_SHIELD_646_000	为了稳定细胞组织， 它似乎用自己制造出 的冷气冰冻着身体。
+ZKN_SHIELD_647_000	据说当它挺过了艰难的战斗， 额头上的角就能得到锻炼， 从而激发出自己真正的力量。
 ZKN_SHIELD_648_000	
 ZKN_SHIELD_649_000	
 ZKN_SHIELD_650_000	
@@ -14716,14 +14807,14 @@ ZKN_SHIELD_692_000	通过引爆积蓄在右臂钳子中的 气体，像发射子
 ZKN_SHIELD_693_000	右臂是能够喷射 海水炮弹的大炮。 威力大到足以击沉油轮。
 ZKN_SHIELD_694_000	拥有太阳能发电的结构。 如果有人打扰它发电， 它就会因心理压力而衰弱。
 ZKN_SHIELD_695_000	如果展开颈伞沐浴阳光， 单凭１只光电伞蜥就能 制造出大城市所需的电力。
-ZKN_SHIELD_696_000	
-ZKN_SHIELD_697_000	
-ZKN_SHIELD_698_000	
-ZKN_SHIELD_699_000	
+ZKN_SHIELD_696_000	又任性又爱撒娇。 即使它只是闹着玩， 也会让训练家受重伤。
+ZKN_SHIELD_697_000	如果被它的大颚咬到， 连汽车都会变得粉碎。 是古代世界的王者。
+ZKN_SHIELD_698_000	已经灭绝的古代宝可梦。 有时候它还会以冰封的 状态被发现喔。
+ZKN_SHIELD_699_000	当它被激怒时， 就会喷出猛烈的冷气， 把周围都冰封起来。
 ZKN_SHIELD_700_000	伽勒尔地区的童话中有着 美丽的仙子伊布击退了 可怕的龙宝可梦的故事。
 ZKN_SHIELD_701_000	在使出致命的绝招之前 一定要先摆出华丽的姿势。 有时也会在这一刻遭到反击。
 ZKN_SHIELD_702_000	由于发电的能力弱， 会从插座或其他的 电气宝可梦那里偷电。
-ZKN_SHIELD_703_000	
+ZKN_SHIELD_703_000	据说在世界上的某处，有个 沉睡着许多小碎钻的矿脉， 它们的女王也在那里。
 ZKN_SHIELD_704_000	它的触角是优秀的感觉器官。 只要感觉到有敌人就会立刻 藏起来，以此存活到了现在。
 ZKN_SHIELD_705_000	背上的突起物里装着它 小小的脑子，里面只想着 吃饭和逃离敌人这两件事。
 ZKN_SHIELD_706_000	用伸长角产生的力道来 攻击对手，产生的威力比 重量级拳击手的拳击还强１００倍。
@@ -14742,15 +14833,15 @@ ZKN_SHIELD_718_000
 ZKN_SHIELD_719_000	
 ZKN_SHIELD_720_000	
 ZKN_SHIELD_721_000	
-ZKN_SHIELD_722_000	
-ZKN_SHIELD_723_000	
-ZKN_SHIELD_724_000	
-ZKN_SHIELD_725_000	
-ZKN_SHIELD_726_000	
-ZKN_SHIELD_727_000	
-ZKN_SHIELD_728_000	
-ZKN_SHIELD_729_000	
-ZKN_SHIELD_730_000	
+ZKN_SHIELD_722_000	白天利用光合作用积蓄力量， 到了晚上则会悄无声息地 在空中飞翔，寻找猎物。
+ZKN_SHIELD_723_000	对整理翅膀丝毫不会怠慢。 这不单是因为它注重形象， 也是为了让刃羽保持锐利。
+ZKN_SHIELD_724_000	只要０.１秒就可以在翅膀的 藤蔓上搭好箭羽、射向敌人， 并在敌人发现前贯穿其要害。
+ZKN_SHIELD_725_000	如果在得到火斑喵的 信任前就想抚摸它的话， 要小心它用尖锐的爪子抓你。
+ZKN_SHIELD_726_000	如果敌人实力强劲， 它便会更有战斗的欲望， 火焰铃铛的火力也会随之上升。
+ZKN_SHIELD_727_000	虽然行为举止十分粗野， 却也有着会去帮助 弱小宝可梦的温柔一面。
+ZKN_SHIELD_728_000	每天拼命地练习， 才终于能够制造出 又大又好用的气球。
+ZKN_SHIELD_729_000	到了风平浪静的夜晚， 会配合领队西狮海壬的歌声 和伙伴们一起跳舞。
+ZKN_SHIELD_730_000	对战就是西狮海壬的舞台。 它那歌声和舞动气球的样子 使观战的人们为之倾倒。
 ZKN_SHIELD_731_000	
 ZKN_SHIELD_732_000	
 ZKN_SHIELD_733_000	
@@ -14809,10 +14900,10 @@ ZKN_SHIELD_785_000
 ZKN_SHIELD_786_000	
 ZKN_SHIELD_787_000	
 ZKN_SHIELD_788_000	
-ZKN_SHIELD_789_000	
-ZKN_SHIELD_790_000	
-ZKN_SHIELD_791_000	
-ZKN_SHIELD_792_000	
+ZKN_SHIELD_789_000	没有警戒心且好奇心强， 所以经常会遇到麻烦。 危急时会用瞬间移动来逃跑。
+ZKN_SHIELD_790_000	以惊人的气势吸入 大气中的尘埃，努力用 内核制造着进化的能源。
+ZKN_SHIELD_791_000	曾经被称为 吞食太阳之兽。 能释放出无尽的光能。
+ZKN_SHIELD_792_000	夺走四周所有的光， 自己则变身为满月的模样， 在黑夜中散发出光芒。
 ZKN_SHIELD_793_000	
 ZKN_SHIELD_794_000	
 ZKN_SHIELD_795_000	
@@ -14820,16 +14911,16 @@ ZKN_SHIELD_796_000
 ZKN_SHIELD_797_000	
 ZKN_SHIELD_798_000	
 ZKN_SHIELD_799_000	
-ZKN_SHIELD_800_000	
+ZKN_SHIELD_800_000	为生存而发狂般地寻找着光。 会发射出激光， 将所有东西切成碎片。
 ZKN_SHIELD_801_000	
-ZKN_SHIELD_802_000	
+ZKN_SHIELD_802_000	拥有潜入一切影子里的能力， 所以在很长一段时间里 都没有任何人发现它。
 ZKN_SHIELD_803_000	
 ZKN_SHIELD_804_000	
 ZKN_SHIELD_805_000	
 ZKN_SHIELD_806_000	
-ZKN_SHIELD_807_000	
-ZKN_SHIELD_808_000	
-ZKN_SHIELD_809_000	
+ZKN_SHIELD_807_000	从手脚的肉球放电。 当捷拉奥拉奔驰而过时， 周围将充斥着电闪雷鸣，
+ZKN_SHIELD_808_000	美录坦们虽然聚在一起生活， 但当时机到来，会由最强的那１只 吸收其他的伙伴来进化。
+ZKN_SHIELD_809_000	美录梅塔利用离心力带动 沉重的螺帽挥出的拳击 被认为是宝可梦界之最。
 ZKN_SHIELD_810_000	会用木棒连续击打来攻击。 在以飞快的速度击打的同时， 情绪也会变得越来越高涨。
 ZKN_SHIELD_811_000	打着激烈的节拍战斗时， 由于过于忘我，甚至不会 意识到自己已经把对手打昏了。
 ZKN_SHIELD_812_000	打鼓技巧最高超的那一只 会成为首领。性情温和， 重视族群的和谐相处。
@@ -14914,6 +15005,11 @@ ZKN_SHIELD_890_000	来自于２万年前坠落 到地上的陨石之中。 似�
 ZKN_SHIELD_891_000	拉紧头上又白又长的体毛， 就会变得气势高昂， 并从丹田涌出力量。
 ZKN_SHIELD_892_000	生活在遥远地区的山岳地带。 通过在断崖绝壁上奔跑 来锻炼腰腿，磨炼招式。
 ZKN_SHIELD_893_000	长在身上的藤蔓断掉之后 会变成土壤的养分， 帮助森林中的植物成长。
+ZKN_SHIELD_894_000	整个身体是制造电能的 器官。可以制造出 伽勒尔全域所需的电力。
+ZKN_SHIELD_895_000	整个身体是龙之能量的 结晶。据说它拥有 所有龙宝可梦的能力。
+ZKN_SHIELD_896_000	拥有十分惊人的怪力。 戴在脸上的冰之面罩 硬度是钻石的１００倍
+ZKN_SHIELD_897_000	在黑暗的夜晚中奔跑，吸取 正在睡觉的生物的生命能量。 喜欢孤独和静寂。
+ZKN_SHIELD_898_000	曾经在很久以前统治着 伽勒尔的传说之王。拥有 治愈心灵和让草木发芽的能力。
 ZKN_SHIELD_003_001	
 ZKN_SHIELD_003_999	会用火山喷发般的气势 播撒大量的花粉。如果吸入 过多花粉，可是会昏倒的。
 ZKN_SHIELD_006_001	
@@ -14977,9 +15073,13 @@ ZKN_SHIELD_133_001
 ZKN_SHIELD_133_999	性格变得更加天真无邪。 不管遇到谁都会扑上去玩耍， 但巨大的身体往往会把对方压垮。
 ZKN_SHIELD_142_001	
 ZKN_SHIELD_143_999	拥有骇人的力量。 体型像山一样巨大， 而且不动如山。
+ZKN_SHIELD_144_001	拥有急冻鸟之名的宝可梦。 发射出的光束能让对方的 身体像结冰一样失去自由。
+ZKN_SHIELD_145_001	脚力强劲，仅凭一脚就能 把翻斗车踢得粉碎。据说能以 ３００公里的时速在山中奔驰。
+ZKN_SHIELD_146_001	能像燃起烈火一般燃起 邪恶的气场。因为这样的 外表而被命名为火焰鸟。
 ZKN_SHIELD_150_001	
 ZKN_SHIELD_150_002	
 ZKN_SHIELD_181_001	
+ZKN_SHIELD_199_001	会一边咏唱诡异的咒语， 一边混合吃掉的东西和 体内的毒素来制造可疑的药。
 ZKN_SHIELD_201_001	
 ZKN_SHIELD_201_002	
 ZKN_SHIELD_201_003	
@@ -15102,9 +15202,9 @@ ZKN_SHIELD_618_001	会藏在泥巴里，用显眼的嘴唇 吸引猎物接近自
 ZKN_SHIELD_641_001	
 ZKN_SHIELD_642_001	
 ZKN_SHIELD_645_001	
-ZKN_SHIELD_646_001	
-ZKN_SHIELD_646_002	
-ZKN_SHIELD_647_001	
+ZKN_SHIELD_646_001	已经看出宝可梦和人类 之间的真实世界将会到来， 它试图去保护这样的未来。
+ZKN_SHIELD_646_002	吸收了与自己拥有 相同基因的捷克罗姆， 因此能使用电与冰的能量。
+ZKN_SHIELD_647_001	沉睡在身体深处的力量 包裹住了它额头上的角， 形成了能撕裂一切的剑。
 ZKN_SHIELD_648_001	
 ZKN_SHIELD_649_001	
 ZKN_SHIELD_649_002	
@@ -15254,11 +15354,11 @@ ZKN_SHIELD_778_001	虽然能用破布抵挡住 敌人的攻击，但折断的 �
 ZKN_SHIELD_778_002	
 ZKN_SHIELD_778_003	
 ZKN_SHIELD_784_001	
-ZKN_SHIELD_800_001	
-ZKN_SHIELD_800_002	
+ZKN_SHIELD_800_001	附在索尔迦雷欧身上， 强行吸取它无限涌出的 能量，四处造成破坏。
+ZKN_SHIELD_800_002	附在露奈雅拉身上的样子。 变得更加凶暴，将万物视为 敌人，会用激光烧尽一切。
 ZKN_SHIELD_800_003	
 ZKN_SHIELD_801_001	
-ZKN_SHIELD_809_999	
+ZKN_SHIELD_809_999	会从腹部的孔洞里发出 电力强大的光束，只需 一击就能让对手蒸发。
 ZKN_SHIELD_812_999	轰擂金刚猩会与森林之鼓 合而为一，不断击打出能 撼动伽勒尔全境的节拍。
 ZKN_SHIELD_815_999	因着超极巨化的力量， 火焰球的直径有时 甚至会超过１００米。
 ZKN_SHIELD_818_999	狙击技巧超群。打穿掉落在 １５公里以外地面上的树果 对它来说也是小菜一碟。
@@ -15300,6 +15400,8 @@ ZKN_SHIELD_892_001	把多击制胜作为自己的信条。 会像水流一样毫
 ZKN_SHIELD_892_999	从拳头放出的能量 变成了冲击波，能一击 打飞极巨化的宝可梦。
 ZKN_SHIELD_892_998	据说内心邪恶的家伙 只是被它暗藏愤怒的 眼睛瞪着就会一命呜呼。
 ZKN_SHIELD_893_001	对于由自己捡来并抚养长大的 人类小孩怀有深厚的感情。 这份感情带给它一种特别的力量。
+ZKN_SHIELD_898_001	据说它用一个晚上把广阔的 森林和栖息在其中的生物 转移到了其他的地方。
+ZKN_SHIELD_898_002	据说它用能够看透过去与未来 所有事件的能力从陨石掉落的 危机中拯救了森林中的生物。
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_sun_sch.msbt
@@ -15501,7 +15603,7 @@ ZKN_SUN_193_000
 ZKN_SUN_194_000	
 ZKN_SUN_195_000	
 ZKN_SUN_196_000	利用又细又短的体毛， 从空气的流动中，连对手的行动 也能一瞬间就察觉。
-ZKN_SUN_197_000	发怒的时候会从全身的毛孔里 喷出混合了毒素的汗液， 袭击对手的眼睛。
+ZKN_SUN_197_000	发怒的时候会从全身的毛孔 喷出混合了毒素的汗液， 袭击对手的眼睛。
 ZKN_SUN_198_000	日落时醒来，夜晚飞行。 也有俗话说，黑暗鸦出窝， 赶紧要回家。
 ZKN_SUN_199_000	受被咬到的毒素影响， 拥有天才的头脑。 能自由自在地操纵精神力量。
 ZKN_SUN_200_000	千方百计地吓唬人类， 吸取生命的能量。 吓人的练习一天也不落。
@@ -15978,8 +16080,8 @@ ZKN_SUN_670_000
 ZKN_SUN_671_000	
 ZKN_SUN_672_000	
 ZKN_SUN_673_000	
-ZKN_SUN_674_000	模仿像头领那样敬仰着的 流氓熊猫的举止， 渐渐变得独当一面。
-ZKN_SUN_675_000	以腕力为傲，很豪迈。 想要成为流氓熊猫的训练家的话， 只能用拳头来和它磋商。
+ZKN_SUN_674_000	模仿像头领那样敬仰着的 霸道熊猫的举止， 渐渐变得独当一面。
+ZKN_SUN_675_000	以腕力为傲，很豪迈。 想要成为霸道熊猫的训练家的话， 只能用拳头来和它磋商。
 ZKN_SUN_676_000	
 ZKN_SUN_677_000	
 ZKN_SUN_678_000	
@@ -16400,20 +16502,20 @@ ZKN_SWORD_025_000	越是能制造出强大电流的 皮卡丘，脸颊上的囊�
 ZKN_SWORD_026_000	长长的尾巴能够像接地线 一样保护自己，因此即使 是高压电也不会让它麻痹。
 ZKN_SWORD_027_000	喜欢在干燥的沙地上 滚来滚去，借此去掉 身上的脏东西和水分。
 ZKN_SWORD_028_000	越是在湿度低的地方生活的 穿山王，背上的尖刺摸起来 就越是坚硬光滑。
-ZKN_SWORD_029_000	
-ZKN_SWORD_030_000	
-ZKN_SWORD_031_000	
-ZKN_SWORD_032_000	
-ZKN_SWORD_033_000	
-ZKN_SWORD_034_000	
+ZKN_SWORD_029_000	对于气味比雄性更敏感。 会一边用胡须确认风向， 一边在下风处寻找食物。
+ZKN_SWORD_030_000	人们认为它额头上的角 是为了防止给孩子喂食时 刺到它们而退化的。
+ZKN_SWORD_031_000	比起进攻更擅长防守。 会用铠甲般的鳞片保护 孩子免受任何攻击的伤害。
+ZKN_SWORD_032_000	额头上的角含有剧毒。 警戒心强，无论何时都 竖着自己大大的耳朵。
+ZKN_SWORD_033_000	见着岩石，就会用自己比 钻石还硬的角将其弄碎。 它这么做是为了寻找月之石。
+ZKN_SWORD_034_000	虽然一旦大闹起来便会令人 束手无措，但在长年一起生活 的尼多后面前却会露出温和的一面。
 ZKN_SWORD_035_000	据说在满月的夜晚， 如果能看到皮皮们聚在一起跳舞， 就能得到幸福。
 ZKN_SWORD_036_000	妖精的一种，极少出现在人前。 察觉到有人存在后， 好像就会立刻逃走。
 ZKN_SWORD_037_000	虽然还是幼崽， 却有着６根美丽的尾巴。 长大后，尾巴会变得更多。
 ZKN_SWORD_038_000	每一根尾巴里都蕴含着 神通力。据说它的寿命 长达１０００年。
 ZKN_SWORD_039_000	肺活量之大，在整个宝可梦界 数一数二。会一直哼唱摇篮曲 直到对方睡着。
 ZKN_SWORD_040_000	吸越多气，身体就会胀得越大。 要是心情不好了，就会 把身体胀大来威吓对方。
-ZKN_SWORD_041_000	
-ZKN_SWORD_042_000	
+ZKN_SWORD_041_000	通过嘴里发出的超音波 来探查周围的情况。就算在 狭窄的洞窟里也能灵活地飞行。
+ZKN_SWORD_042_000	喜欢吸食生物的血液。 据说也会把自己吸到的血 分给肚子饿扁了的伙伴。
 ZKN_SWORD_043_000	沐浴月光就会开始活动。 为了四处散播种子 会在夜晚到处走动。
 ZKN_SWORD_044_000	雌蕊会散发一种 极其强烈的恶臭， 能让２公里远的人昏倒。
 ZKN_SWORD_045_000	它有着世界上最大的花瓣。 每走一步，花瓣都会跟着摇动， 同时撒出大量的毒花粉。
@@ -16495,9 +16597,9 @@ ZKN_SWORD_120_000	夏季快结束时去海边， 就能看到以有规律的节�
 ZKN_SWORD_121_000	当它释放强烈的精神力量时， 被称为核心的器官就会 发出七彩的光芒，
 ZKN_SWORD_122_000	有很多学者认为， 它大大的手掌是因为要 表演默剧而发达起来的。
 ZKN_SWORD_123_000	战斗的次数越多，镰刀 就变得越锋利。就算是 大树也能一刀劈成两段。
-ZKN_SWORD_124_000	
-ZKN_SWORD_125_000	
-ZKN_SWORD_126_000	
+ZKN_SWORD_124_000	在伽勒尔的某些地方， 迷唇姐被称作冰之女王， 受到人们的畏惧与崇拜。
+ZKN_SWORD_125_000	很多发电站为了防止 电击兽来偷电，会放一些 地面属性的宝可梦对付它们。
+ZKN_SWORD_126_000	会用火焰终结猎物的性命。不过 经常掌握不好火候，一不小心就 把猎物烧得焦黑，让自己后悔莫及。
 ZKN_SWORD_127_000	同类之间以角的成色划分等级。 一只凯罗斯的角越粗越结实， 它就越受异性欢迎。
 ZKN_SWORD_128_000	如果它开始用尾巴拍打 自己的身体，那就危险了。 它会以极快的速度猛撞过来。
 ZKN_SWORD_129_000	力量和速度几乎都不行。 是世界上最弱最可怜的宝可梦。
@@ -16509,20 +16611,20 @@ ZKN_SWORD_134_000	当水伊布开始微微颤动 它全身上下的鳍，就表�
 ZKN_SWORD_135_000	当雷伊布生气或是吃惊时， 它全身的体毛会像针一样 竖起来刺穿对手。
 ZKN_SWORD_136_000	当火焰在体内积蓄时， 火伊布的体温也会随之 上升到最高９００度。
 ZKN_SWORD_137_000	它是世界上第一个 由程序编成的人工宝可梦。 运用最先进的科技制成。
-ZKN_SWORD_138_000	
-ZKN_SWORD_139_000	
-ZKN_SWORD_140_000	
-ZKN_SWORD_141_000	
-ZKN_SWORD_142_000	
+ZKN_SWORD_138_000	从化石被复原后有些逃了出去， 有些则被人放走。这些散逸在外 的菊石兽越来越成问题了。
+ZKN_SWORD_139_000	据说它是因为背上的壳又大又重， 导致行动迟缓，无法捕捉到猎物， 因此才会灭绝的。
+ZKN_SWORD_140_000	几乎已灭绝的宝可梦。 每３天会脱一次皮，使自己 的壳变得越来越坚硬。
+ZKN_SWORD_141_000	会将猎物撕裂并吸取体液。 被它丢弃的残骸会成为 其他宝可梦的食物。
+ZKN_SWORD_142_000	它是一种古代的凶猛宝可梦。 据说，就算运用当今最先进的 科技，也无法将其完美复原。
 ZKN_SWORD_143_000	每天不吃上４００公斤的食物 心里就不畅快。 吃饱了就会开始睡觉。
-ZKN_SWORD_144_000	
-ZKN_SWORD_145_000	
-ZKN_SWORD_146_000	
-ZKN_SWORD_147_000	
-ZKN_SWORD_148_000	
-ZKN_SWORD_149_000	
-ZKN_SWORD_150_000	
-ZKN_SWORD_151_000	
+ZKN_SWORD_144_000	据说它那蓝色的美丽羽毛 是由冰构成的。会飘曳着 长尾巴飞过茫茫雪山。
+ZKN_SWORD_145_000	能够随心所欲地操纵雷电。 据传说，它的巢穴 处在漆黑的雷云中。
+ZKN_SWORD_146_000	只要拍动翅膀，羽毛就会 闪现出红色的火焰，非常美丽。 传说的鸟宝可梦中的１只。
+ZKN_SWORD_147_000	栖息在瀑布潭之类 水流湍急的水边。 通过反复蜕皮不断成长。
+ZKN_SWORD_148_000	栖息在美丽的大海或湖泊。 可以通过操纵天气的力量 驾风升上天空。
+ZKN_SWORD_149_000	只要发现溺水的人和宝可梦， 就忍不住要去救助。 是心地善良的宝可梦。
+ZKN_SWORD_150_000	通过梦幻的基因制造出来的 宝可梦。拥有无与伦比的量 和凶暴的心灵。
+ZKN_SWORD_151_000	许多人认为它是所有宝可梦 的祖先。有着很高的智力， 能够使用一切的招式。
 ZKN_SWORD_152_000	
 ZKN_SWORD_153_000	
 ZKN_SWORD_154_000	
@@ -16540,7 +16642,7 @@ ZKN_SWORD_165_000
 ZKN_SWORD_166_000	
 ZKN_SWORD_167_000	
 ZKN_SWORD_168_000	
-ZKN_SWORD_169_000	
+ZKN_SWORD_169_000	双脚变成了翅膀。 可以悄无声息地高速飞行， 亮出牙齿咬向猎物的后颈。
 ZKN_SWORD_170_000	从鳍变化而来的触手 之中，分别流通着 正电以及负电。
 ZKN_SWORD_171_000	电灯怪发出的光有着极高的 亮度，甚至可以从５０００米 深的水底照亮水面。
 ZKN_SWORD_172_000	身体小巧，却能够释放出 足以让成年人麻痹的电击， 但是连它自己也会吓一跳。
@@ -16609,9 +16711,9 @@ ZKN_SWORD_234_000
 ZKN_SWORD_235_000	
 ZKN_SWORD_236_000	永远都是精力充沛的样子。 为了变强，就算输了一次又一次， 也会不断地站起来迎战对手。
 ZKN_SWORD_237_000	会旋转身体使出踢击。 当它高速旋转身体时， 会直接钻进地底下。
-ZKN_SWORD_238_000	
-ZKN_SWORD_239_000	
-ZKN_SWORD_240_000	
+ZKN_SWORD_238_000	只要稍微弄脏了脸 就会立刻去洗干净。 身上脏了倒是不太在意。
+ZKN_SWORD_239_000	一旦暴风雨将至 就会变得非常浮躁。 听到雷鸣便会难掩兴奋。
+ZKN_SWORD_240_000	不但身材很小，而且还很胆小。 每次感到兴奋或是吃惊的时候， 都会从嘴巴和鼻子里冒出火花。
 ZKN_SWORD_241_000	能挤出营养十足的鲜奶， 因此从很久以前开始就一直 支持着人类和宝可梦的生活。
 ZKN_SWORD_242_000	发现虚弱的宝可梦时 就会把自己的蛋分给它， 并一直精心照顾它直到痊愈。
 ZKN_SWORD_243_000	
@@ -16622,7 +16724,7 @@ ZKN_SWORD_247_000	被外壳覆盖，但能自由自在地 跳来跳去。兼具�
 ZKN_SWORD_248_000	拥有无论遭到任何攻击 都能毫发无伤的身体， 因此会不断向对手挑战。
 ZKN_SWORD_249_000	
 ZKN_SWORD_250_000	
-ZKN_SWORD_251_000	
+ZKN_SWORD_251_000	拥有能够穿越时光的力量。 在许多时代都留下了 将它视为森林之神的记录。
 ZKN_SWORD_252_000	
 ZKN_SWORD_253_000	
 ZKN_SWORD_254_000	
@@ -16675,9 +16777,9 @@ ZKN_SWORD_300_000
 ZKN_SWORD_301_000	
 ZKN_SWORD_302_000	宝石的眼睛发出诡异光芒时， 就会摄取人的魂魄。 是令人恐惧的宝可梦。
 ZKN_SWORD_303_000	会用温顺的长相让对手大意， 然后再用大颚一口咬住对手。 咬住后就绝不会松口。
-ZKN_SWORD_304_000	
-ZKN_SWORD_305_000	
-ZKN_SWORD_306_000	
+ZKN_SWORD_304_000	食用铁矿石，偶尔也会吃 铁路的轨道，从而打造出 保护身体的钢铁盔甲。
+ZKN_SWORD_305_000	由于可多拉所栖息的山上 有着丰富的泉水和铁矿石， 因此经常会与人类发生争端。
+ZKN_SWORD_306_000	会用能够刺穿铁板的 锐利尖角在撞击敌人的 同时攻击对方。
 ZKN_SWORD_307_000	
 ZKN_SWORD_308_000	
 ZKN_SWORD_309_000	会将静电储存在体毛中进行放电。 暴风雨临近时，会从全身散发出火花。
@@ -16704,8 +16806,8 @@ ZKN_SWORD_329_000	２根翅膀高速振动产生的 超音波会引起剧烈的�
 ZKN_SWORD_330_000	因为位于自己卷起的沙暴中心， 所以是很少现身于人前的宝可梦。
 ZKN_SWORD_331_000	
 ZKN_SWORD_332_000	
-ZKN_SWORD_333_000	
-ZKN_SWORD_334_000	
+ZKN_SWORD_333_000	像丝绵一样的翅膀中含有 空气，触感蓬松。绝不会 忽视对翅膀精细地保养。
+ZKN_SWORD_334_000	一边舒适地在天空中飞翔， 一边发出优美的哼唱， 让听到之人都为之沉醉。
 ZKN_SWORD_335_000	
 ZKN_SWORD_336_000	
 ZKN_SWORD_337_000	月亮的盈缺似乎会 影响它力量的增减。 每到满月之夜就会变得活跃。
@@ -16716,10 +16818,10 @@ ZKN_SWORD_341_000	有着顽强生命力的宝可梦。 不管河里的水有多�
 ZKN_SWORD_342_000	不停挥舞自己巨大的钳子， 是个性格粗暴的家伙。 被认为是很难培育的宝可梦。
 ZKN_SWORD_343_000	会用单脚旋转着移动。 也能看到颠倒过来旋转的天秤偶。
 ZKN_SWORD_344_000	似乎是由２万年前的 古代人制作的泥偶 蜕变而来的谜之宝可梦。
-ZKN_SWORD_345_000	
-ZKN_SWORD_346_000	
-ZKN_SWORD_347_000	
-ZKN_SWORD_348_000	
+ZKN_SWORD_345_000	从化石复原而来的宝可梦。 曾经生活在大约１亿年 以前温暖的大海里。
+ZKN_SWORD_346_000	虽然脚很短走得慢， 但脖子和触手能伸长３倍， 因此能捉到远处的猎物。
+ZKN_SWORD_347_000	从化石复原而来的宝可梦。 曾经生活在大约１亿年前的 大海，用２只爪子捕捉猎物。
+ZKN_SWORD_348_000	进化之后登上了陆地。 下半身得到了强化， 尾巴的攻击破坏力极强。
 ZKN_SWORD_349_000	外表丑陋，所以不受欢迎。 拥有惊人的生命力， 因而成为了研究对象。
 ZKN_SWORD_350_000	也被称为最美的宝可梦， 一直给予许多艺术家灵感。
 ZKN_SWORD_351_000	
@@ -16730,33 +16832,33 @@ ZKN_SWORD_355_000	据说，一旦发现不听话的孩子， 就会在深夜将�
 ZKN_SWORD_356_000	身体内部是空的。 只要一张开嘴就会像 黑洞一样吸入所有东西
 ZKN_SWORD_357_000	
 ZKN_SWORD_358_000	
-ZKN_SWORD_359_000	
+ZKN_SWORD_359_000	如风一般在山野中奔跑。 能用它像弓一样的角 来感知自然灾害的预兆。
 ZKN_SWORD_360_000	和大群伙伴一起行动， 通过和伙伴彼此推挤 来锻炼自己的忍耐力。
 ZKN_SWORD_361_000	据说半夜出现的 雪童子会带来大雪。 靠吃雪和冰为生。
 ZKN_SWORD_362_000	拥有火焰也无法融化的 冰之躯体。能让空气中的 水分在一瞬间冻结。
-ZKN_SWORD_363_000	
-ZKN_SWORD_364_000	
-ZKN_SWORD_365_000	
+ZKN_SWORD_363_000	圆溜溜的身体 被厚厚的脂肪包裹着， 滚起来比走路要快。
+ZKN_SWORD_364_000	在浮冰上生活。能一边游泳 一边分辨猎物的味道，找到 对方的位置并将其捕获。
+ZKN_SWORD_365_000	２、３０只一起群居。 受到敌人袭击时， 首领会拼命保护族群。
 ZKN_SWORD_366_000	
 ZKN_SWORD_367_000	
 ZKN_SWORD_368_000	
-ZKN_SWORD_369_000	
+ZKN_SWORD_369_000	如岩石般坚硬的鳞片 和富含脂肪的浮囊使它 能够耐得住深海的水压。
 ZKN_SWORD_370_000	
-ZKN_SWORD_371_000	
-ZKN_SWORD_372_000	
-ZKN_SWORD_373_000	
-ZKN_SWORD_374_000	
-ZKN_SWORD_375_000	
-ZKN_SWORD_376_000	
-ZKN_SWORD_377_000	
-ZKN_SWORD_378_000	
-ZKN_SWORD_379_000	
+ZKN_SWORD_371_000	为了有一天能翱翔天空， 每天都从悬崖上跳下来， 坚持训练锻炼身体。
+ZKN_SWORD_372_000	覆盖着身体的硬壳 成分和骨头相同。 正在储备进化的能量。
+ZKN_SWORD_373_000	一直渴望能飞上天空， 进化后身体上终于长出了 翅膀的珍奇宝可梦。
+ZKN_SWORD_374_000	从臀部发出磁力，猛地 将敌人吸过来，然后用 锐利的爪子把对方刺穿。
+ZKN_SWORD_375_000	２只铁哑铃因磁力结合 起来了。因为有了２个大脑， 精神力量也强化到了２倍。
+ZKN_SWORD_376_000	由于当气温下降至０度 以下时磁力会增强，栖息在 雪山上的巨金怪特别有活力。
+ZKN_SWORD_377_000	身上任何一个部分都由 岩石构成。即使身体磨损了 也会自己用岩石去修补。
+ZKN_SWORD_378_000	会操控冰冷至零下２００度 的冷气，将接近自己的 家伙一下子冰镇起来。
+ZKN_SWORD_379_000	虽然也拥有能伸能缩的柔软性， 但它其实是由比任何金属 都要结实的神秘物质构成的。
 ZKN_SWORD_380_000	
 ZKN_SWORD_381_000	
 ZKN_SWORD_382_000	
 ZKN_SWORD_383_000	
 ZKN_SWORD_384_000	
-ZKN_SWORD_385_000	
+ZKN_SWORD_385_000	每１０００年让它听一次 清澈的歌声，就能让它 维持７天的清醒。
 ZKN_SWORD_386_000	
 ZKN_SWORD_387_000	
 ZKN_SWORD_388_000	
@@ -16813,10 +16915,10 @@ ZKN_SWORD_438_000	会从眼睛里排出汗和泪水。 它的汗水有一点点�
 ZKN_SWORD_439_000	会模仿一切进入眼帘的事物。 一心一意模仿踏冰人偶 华丽的舞步，不停地练习。
 ZKN_SWORD_440_000	模仿吉利蛋，把很像蛋的 浑圆石头放入腹部的 袋子中用心保管着。
 ZKN_SWORD_441_000	
-ZKN_SWORD_442_000	
-ZKN_SWORD_443_000	
-ZKN_SWORD_444_000	
-ZKN_SWORD_445_000	
+ZKN_SWORD_442_000	由１０８个灵魂聚在一起 变成了宝可梦，但似乎有 性格恶劣的灵魂混在里面。
+ZKN_SWORD_443_000	喜欢因地热而温暖的 狭窄横洞，这样一来就算 外面刮暴风雪也不会冻着了。
+ZKN_SWORD_444_000	会从头部左右两边的 突起物发出超音波， 观察漆黑洞窟中的状况。
+ZKN_SWORD_445_000	在火山区的山上栖息。 会以不输给喷气式飞机的 速度飞到天空中寻找猎物。
 ZKN_SWORD_446_000	总之全神贯注地大吃大喝， 完全不去讲究食物的味道， 就算是腐烂的东西也照吃不误。
 ZKN_SWORD_447_000	精力充沛，可以奔跑一整夜。 由于它十分活泼， 带它散步的人非常辛苦。
 ZKN_SWORD_448_000	操纵一种被称为波导的力量 来进行狩猎。这种力量就连 巨大的岩石也能击得粉碎。
@@ -16837,8 +16939,8 @@ ZKN_SWORD_462_000	据说它通过头部的天线 接收来自宇宙的电波， 
 ZKN_SWORD_463_000	拥有不可思议的舌头， 全伸出来能有身体的数倍之长。 其不可思议之谜至今仍未解开。
 ZKN_SWORD_464_000	会在手掌的洞里塞进岩石和 石丸子发射出去，每只手里 可以装填３个。
 ZKN_SWORD_465_000	最近的研究表明，它那 能够自由伸长的２个手臂 其实是由藤蔓聚集而成的。
-ZKN_SWORD_466_000	
-ZKN_SWORD_467_000	
+ZKN_SWORD_466_000	发电量和心率成比例。 一到战斗的时候， 电压就会急速上升。
+ZKN_SWORD_467_000	大口吸气之后腹中的 火焰就会烧得更旺， 达到摄氏２０００度。
 ZKN_SWORD_468_000	不会出现在发生 争端和纷乱的地方。 近来几乎见不到它的身影。
 ZKN_SWORD_469_000	
 ZKN_SWORD_470_000	伽勒尔人对它叶片散发出的 独特香气情有独钟。用这种 香气加工出的香水非常受欢迎。
@@ -16880,7 +16982,7 @@ ZKN_SWORD_505_000
 ZKN_SWORD_506_000	勇敢而慎重。 用覆盖着脸部的软毛 来获取周围的信息。
 ZKN_SWORD_507_000	十分聪明，容易亲近。 也有人认为它是第一种 成为人类同伴的宝可梦。
 ZKN_SWORD_508_000	似乎喜欢和人类一起生活。 就算是野生的长毛狗，捕捉后 只要过个三天就能和人亲近。
-ZKN_SWORD_509_000	为了要看见人们困扰的样子 而去偷盗他们的物品。 和偷儿狐是竞争对手。
+ZKN_SWORD_509_000	为了要看见人们困扰的样子 而去偷盗他们的物品。 和狡小狐是竞争对手。
 ZKN_SWORD_510_000	虽然人们容易被它美丽的 毛发和身姿所迷惑，但它其实 是一种善变而凶暴的宝可梦。
 ZKN_SWORD_511_000	
 ZKN_SWORD_512_000	
@@ -16902,7 +17004,7 @@ ZKN_SWORD_527_000	在洞窟中，如果抬头看到 墙壁上留着心形的痕�
 ZKN_SWORD_528_000	在发出极其强力的 音波后会陷入疲劳， 暂时无法飞行。
 ZKN_SWORD_529_000	会将双掌上的爪子并拢， 并让身体高速旋转， 瞄准猎物冲过去。
 ZKN_SWORD_530_000	有许多看似自然形成的 洞窟其实都是龙头地鼠 一阵乱钻之后留下来的。
-ZKN_SWORD_531_000	
+ZKN_SWORD_531_000	拥有敏锐的听觉。 连２公里以外小石头 滚动的声音都能听到。
 ZKN_SWORD_532_000	喜欢帮忙做建筑的工作。 因为下雨而停工时， 会乱挥木材大闹一番。
 ZKN_SWORD_533_000	与其他的伙伴还有豪力 一起比拼肌肉。输掉的 那一方会暂时躲起来。
 ZKN_SWORD_534_000	即使成分相同， 修建老匠搅拌的混凝土 格外地坚硬结实。
@@ -16935,10 +17037,10 @@ ZKN_SWORD_560_000	它看似无精打采的踢击 其实拥有足以击碎修建�
 ZKN_SWORD_561_000	利用精神力量在空中飞翔， 被称为古代都市的守护神。 也有人认为它是守护神的使者。
 ZKN_SWORD_562_000	每天夜里都在遗迹中徘徊。 据说它拿着的面具 是它还是人类时的脸。
 ZKN_SWORD_563_000	拥有闪亮亮的黄金之躯。 据说它已再也无法记起 自己曾是人类。
-ZKN_SWORD_564_000	
-ZKN_SWORD_565_000	
-ZKN_SWORD_566_000	
-ZKN_SWORD_567_000	
+ZKN_SWORD_564_000	曾经栖息于古代的海洋。 虽然只会爬着走，但为了 寻找猎物也会到陆地上来。
+ZKN_SWORD_565_000	连猎物的壳和骨头也都会 干干净净地吃得一丝不剩， 所以甲壳成长得又厚又坚硬。
+ZKN_SWORD_566_000	从化石中成功复原。 正如研究所说，它虽然不会飞， 但却是擅长跳跃的宝可梦。
+ZKN_SWORD_567_000	会为了飞翔而助跑。 助跑的距离大约为４公里， 跑步的速度为每小时４０公里。
 ZKN_SWORD_568_000	喜欢不卫生的地方。 如果不及时清理家里的垃圾， 破破袋就会过来居住。
 ZKN_SWORD_569_000	吃掉的垃圾会在体内 转化为毒素。毒素的成分 会随着吃掉的垃圾而不同。
 ZKN_SWORD_570_000	之所以学会了幻化成 其他东西的能力，似乎是 因为它的性格比较胆小。
@@ -16986,7 +17088,7 @@ ZKN_SWORD_611_000	牙齿一旦折断就不会再次生长。 战斗结束之后�
 ZKN_SWORD_612_000	坚固的大牙是它的骄傲。 为了保持牙齿的强度， 会舔泥土来补充矿物质。
 ZKN_SWORD_613_000	健康时鼻涕的粘度会变强。 只要遇到自己讨厌的对手， 就会把鼻涕擦到对方身上。
 ZKN_SWORD_614_000	吐出的气息冻结而成的冰牙 比钢铁还硬。为了寻找食物， 会在寒冷的海里游动徘徊。
-ZKN_SWORD_615_000	
+ZKN_SWORD_615_000	操控用冰制成的锁， 冻住遇到的猎物， 并把它带去某个地方。
 ZKN_SWORD_616_000	一旦被敌人袭击， 便会关上壳盖保护自己。 不过盖盖虫能打得开。
 ZKN_SWORD_617_000	行动迅速，会喷出毒液来战斗。 敏捷虫担任主角的电影 和漫画拥有极高的人气。
 ZKN_SWORD_618_000	潮间带便是它的巢穴。 制造电的器官由于 泥里的细菌而发达起来。
@@ -17009,16 +17111,16 @@ ZKN_SWORD_634_000	在自己的领地走来走去， 寻找食物。２个头时�
 ZKN_SWORD_635_000	会咬住一切会动的物体。 有不少传说里都提到了 三首恶龙毁灭村庄的故事。
 ZKN_SWORD_636_000	很久很久以前， 人们相信燃烧虫是 从太阳上落下来的。
 ZKN_SWORD_637_000	据说它会挥撒自己的火焰鳞粉， 造成火灾。也有说法说它会 拯救遭受寒冷之苦的生灵。
-ZKN_SWORD_638_000	
-ZKN_SWORD_639_000	
-ZKN_SWORD_640_000	
+ZKN_SWORD_638_000	传说它曾经与代拉基翁和 毕力吉翁一起，为了保护 合众地区的宝可梦而与人类作战。
+ZKN_SWORD_639_000	拥有异常强大的力量。 会把欺负弱小宝可梦的 对手打得再也站不起来。
+ZKN_SWORD_640_000	与勾帕路翁和代拉基翁 并肩保护合众地区宝可梦 的传说一直流传至今。
 ZKN_SWORD_641_000	
 ZKN_SWORD_642_000	
-ZKN_SWORD_643_000	
-ZKN_SWORD_644_000	
+ZKN_SWORD_643_000	从尾部喷出火焰， 像喷气式飞机那样飞翔。 据说它能让世界燃烧殆尽。
+ZKN_SWORD_644_000	当尾巴的内部像马达那样 旋转起来，就能制造出 好几道闪电，穿透周围的一切。
 ZKN_SWORD_645_000	
-ZKN_SWORD_646_000	
-ZKN_SWORD_647_000	
+ZKN_SWORD_646_000	虽然拥有凌驾于莱希拉姆和 捷克罗姆之上的力量，但是那 力量已被极低温冷气封印住了。
+ZKN_SWORD_647_000	从勾帕路翁、代拉基翁和 毕力吉翁那里学会了战斗。 驰骋全世界，不断修行。
 ZKN_SWORD_648_000	
 ZKN_SWORD_649_000	
 ZKN_SWORD_650_000	
@@ -17045,7 +17147,7 @@ ZKN_SWORD_670_000
 ZKN_SWORD_671_000	
 ZKN_SWORD_672_000	
 ZKN_SWORD_673_000	
-ZKN_SWORD_674_000	会模仿自己敬为头头的 流氓熊猫，向它学习战斗 及捕捉猎物的方法。
+ZKN_SWORD_674_000	会模仿自己敬为头头的 霸道熊猫，向它学习战斗 及捕捉猎物的方法。
 ZKN_SWORD_675_000	性格暴躁，靠力气解决问题。 为与堵拦熊一对一比拼 而燃烧自己的斗志。
 ZKN_SWORD_676_000	
 ZKN_SWORD_677_000	虽然一直都面无表情， 但是那其实是因为它在努力 不让自己强力的精神力量漏出。
@@ -17067,14 +17169,14 @@ ZKN_SWORD_692_000	钳子就算在战斗中掉落 也还会再长出来。钳子�
 ZKN_SWORD_693_000	通过巨大钳子的触角 感知猎物的位置， 然后对其发射水炮弹。
 ZKN_SWORD_694_000	当它张开头部的褶边 用太阳光发电，就能使出 威力强大的电属性招式。
 ZKN_SWORD_695_000	在如今已灭亡的沙漠之国 曾经是人们珍视的对象。 和财宝一起来到了伽勒尔地区。
-ZKN_SWORD_696_000	
-ZKN_SWORD_697_000	
-ZKN_SWORD_698_000	
-ZKN_SWORD_699_000	
+ZKN_SWORD_696_000	复活而来的古代宝可梦。 性格既粗野又任性， 能用大颚咬碎任何东西。
+ZKN_SWORD_697_000	大约１亿年前的宝可梦。 虽然凶暴，堂堂正正的 举止却略显王者之风。
+ZKN_SWORD_698_000	从化石中成功复原。 曾经在没什么天敌的 寒冷地区群居。
+ZKN_SWORD_699_000	从化石复原而来。 据说当冰雪巨龙吼叫时， 夜空中就会出现极光。
 ZKN_SWORD_700_000	会从蝴蝶结般的触角里 释放能够消除敌意的波动， 借此平息纷争。
 ZKN_SWORD_701_000	利用发挥轻盈体型优势的战法， 在消耗了对手的体力之后 使用华丽的绝招分出胜负。
 ZKN_SWORD_702_000	用胡子来感知伙伴发出 的电波。它们通过这种方式 告诉彼此哪里有食物和电。
-ZKN_SWORD_703_000	
+ZKN_SWORD_703_000	从体内埋藏的宝石中发射出 高能量的光线，将所有 来袭的敌人都一扫而尽。
 ZKN_SWORD_704_000	身体几乎都是水分。 只要环境干燥身体就会变干， 是最弱的龙宝可梦。
 ZKN_SWORD_705_000	虽然弱小，但它拥有可以 融化一切的粘液来保护自己， 因此未被捕食并得以存活至今。
 ZKN_SWORD_706_000	有时会因为无法理解 训练家的指令而目瞪口呆。 那可爱的举止让它深受欢迎。
@@ -17093,15 +17195,15 @@ ZKN_SWORD_718_000
 ZKN_SWORD_719_000	
 ZKN_SWORD_720_000	
 ZKN_SWORD_721_000	
-ZKN_SWORD_722_000	
-ZKN_SWORD_723_000	
-ZKN_SWORD_724_000	
-ZKN_SWORD_725_000	
-ZKN_SWORD_726_000	
-ZKN_SWORD_727_000	
-ZKN_SWORD_728_000	
-ZKN_SWORD_729_000	
-ZKN_SWORD_730_000	
+ZKN_SWORD_722_000	一边飞行一边射出 刀刃般锐利的羽毛， 距离近时会使出猛烈的踢击。
+ZKN_SWORD_723_000	连续投出被称为是 刃羽的刀般锐利羽毛， 能精准地贯穿敌人要害。
+ZKN_SWORD_724_000	会像射箭那样射出 藏在自己翅膀里的箭羽。 只要瞄准目标就绝不会射偏。
+ZKN_SWORD_725_000	一有时间就会去舔身体 整理毛发。会燃烧积在腹中 的落毛来使出火属性招式。
+ZKN_SWORD_726_000	脖子根部的火囊在进入战斗 状态后火力就会上升， 并发出铃铛般的声音。
+ZKN_SWORD_727_000	会从自己的肚脐喷出 摄氏２０００度以上的火焰。 擅长没有规则限制的粗暴战斗。
+ZKN_SWORD_728_000	能吹出特别的气球。 靠富有弹力的气球破裂时 产生的冲击力来痛击对手。
+ZKN_SWORD_729_000	一边利用舞步躲避敌人的攻击， 一边连续制作出气球， 接连不断地攻击对方。
+ZKN_SWORD_730_000	利用口中发出的音波 来操纵水气球。这种音波 听起来就像清澈的歌声。
 ZKN_SWORD_731_000	
 ZKN_SWORD_732_000	
 ZKN_SWORD_733_000	
@@ -17160,10 +17262,10 @@ ZKN_SWORD_785_000
 ZKN_SWORD_786_000	
 ZKN_SWORD_787_000	
 ZKN_SWORD_788_000	
-ZKN_SWORD_789_000	
-ZKN_SWORD_790_000	
-ZKN_SWORD_791_000	
-ZKN_SWORD_792_000	
+ZKN_SWORD_789_000	来自其他的宇宙。 气体构成的身体十分轻盈， 连微风都能把它吹走。
+ZKN_SWORD_790_000	将它包裹起来的外壳拥有 超越人类认知范围的硬度。 通过沐浴星光而成长。
+ZKN_SWORD_791_000	当它全身放出猛烈的光芒， 变成如同太阳一般的身姿时， 便会抹去黑暗，照亮世界。
+ZKN_SWORD_792_000	被称为邀引月亮之兽。 通过将一切的光转化为 能量来维持生命。
 ZKN_SWORD_793_000	
 ZKN_SWORD_794_000	
 ZKN_SWORD_795_000	
@@ -17171,16 +17273,16 @@ ZKN_SWORD_796_000
 ZKN_SWORD_797_000	
 ZKN_SWORD_798_000	
 ZKN_SWORD_799_000	
-ZKN_SWORD_800_000	
+ZKN_SWORD_800_000	光芒是它维持生命的能量。 由于一直沉睡于地下，身体 因积存在体内的杂质而发黑。
 ZKN_SWORD_801_000	
-ZKN_SWORD_802_000	
+ZKN_SWORD_802_000	潜入拳法高手的影子里 复制对方的动作， 最后习得了究极的奥义。
 ZKN_SWORD_803_000	
 ZKN_SWORD_804_000	
 ZKN_SWORD_805_000	
 ZKN_SWORD_806_000	
-ZKN_SWORD_807_000	
-ZKN_SWORD_808_000	
-ZKN_SWORD_809_000	
+ZKN_SWORD_807_000	以媲美闪电的速度奔跑， 用能释放高压电的爪子 将敌人撕得粉碎。
+ZKN_SWORD_808_000	会溶解金属然后吃掉。 通过让液态金属在体内 循环来制造能量。
+ZKN_SWORD_809_000	寿命快到尽头的时候， 身体就会生锈解体。到最后 细小的碎片会复活为美录坦。
 ZKN_SWORD_810_000	当它用特别的木棒敲奏时， 能够给予花草活力的力量 就会变成音波扩散开来。
 ZKN_SWORD_811_000	越是能用２根木棒敲奏出 激烈节拍的啪咚猴， 越是能获得伙伴们的尊敬。
 ZKN_SWORD_812_000	能够通过打鼓来控制 特别的树桩中的力量， 操纵树根进行战斗。
@@ -17265,6 +17367,11 @@ ZKN_SWORD_890_000	会用胸部的核心吸收 伽勒尔地区涌出的能量， 
 ZKN_SWORD_891_000	日积月累地进行艰苦锻炼， 认真钻研招式。进化后的样子 会根据所习得的招式不同而改变。
 ZKN_SWORD_892_000	一击必杀是它的信条。 飞冲到对方的怀中，用自己 经过千锤百炼的拳头一拳击入。
 ZKN_SWORD_893_000	成群结队地在密林中生活。 攻击性很强，森林中栖息的 宝可梦都很怕它。
+ZKN_SWORD_894_000	由电能聚集而成。 据说在解开身上的圆环后 会释放出隐藏的力量。
+ZKN_SWORD_895_000	有一种未经证实的学术说法 认为它手臂的形状 是古代龙宝可梦的头。
+ZKN_SWORD_896_000	会从蹄子释放出强力的冷气。 性格粗暴，只要是自己想要的 东西，就会竭尽全力去抢夺。
+ZKN_SWORD_897_000	使用视觉以外的五感探索 周围的情况。据说如果 被它踢到，就会灵魂出窍。
+ZKN_SWORD_898_000	拥有治愈与恩泽之力， 满腹慈爱之心的宝可梦。 在很久以前曾统治伽勒尔。
 ZKN_SWORD_003_001	
 ZKN_SWORD_003_999	通过挥舞２根粗壮的藤蔓来战斗。 其力量强到就连１０层高的 大楼都能轻易撂倒。
 ZKN_SWORD_006_001	
@@ -17328,9 +17435,13 @@ ZKN_SWORD_133_001
 ZKN_SWORD_133_999	超极巨化之力使得颈部的绒毛 变得更加地毛茸茸。会用绒毛 包住敌人，同时掳获它的心。
 ZKN_SWORD_142_001	
 ZKN_SWORD_143_999	在超极巨化之力的影响下， 吃东西时掉在肚子上的种子和 黏在身上的小石子也一起变大了。
+ZKN_SWORD_144_001	用精神力量制作出的 羽毛形刀刃能像裁纸般 轻松地劈开厚厚的铁板。
+ZKN_SWORD_145_001	羽毛相互摩擦时会发出 像电一样的噼噼啪啪声， 因此得到了闪电鸟这个名字。
+ZKN_SWORD_146_001	如果有谁接触到了它那 如烈火般邪恶的气场，便会 灵魂枯竭，烧得只剩白色灰烬。
 ZKN_SWORD_150_001	
 ZKN_SWORD_150_002	
 ZKN_SWORD_181_001	
+ZKN_SWORD_199_001	受到进化的冲击和毒素的影响， 大舌贝的智力飙升到了 可以控制呆呆王的程度。
 ZKN_SWORD_201_001	
 ZKN_SWORD_201_002	
 ZKN_SWORD_201_003	
@@ -17453,9 +17564,9 @@ ZKN_SWORD_618_001	栖息于富含铁质的 泥巴里，因此获得了 结实坚
 ZKN_SWORD_641_001	
 ZKN_SWORD_642_001	
 ZKN_SWORD_645_001	
-ZKN_SWORD_646_001	
-ZKN_SWORD_646_002	
-ZKN_SWORD_647_001	
+ZKN_SWORD_646_001	吸收了与自己拥有 相同基因的莱希拉姆， 因此能使用火与冰的能量。
+ZKN_SWORD_646_002	传说它是为了保护宝可梦 与人类之间那将在未来实现 的理想世界而战斗。
+ZKN_SWORD_647_001	通过下定战斗的决心， 让自己全身充满力量， 并改变了自己的样子。
 ZKN_SWORD_648_001	
 ZKN_SWORD_649_001	
 ZKN_SWORD_649_002	
@@ -17605,11 +17716,11 @@ ZKN_SWORD_778_001	绝不会原谅揭穿自己化形成 皮卡丘这件事的家�
 ZKN_SWORD_778_002	
 ZKN_SWORD_778_003	
 ZKN_SWORD_784_001	
-ZKN_SWORD_800_001	
-ZKN_SWORD_800_002	
+ZKN_SWORD_800_001	支配着索尔迦雷欧的样子。 性格残暴，会用背部与四肢的 爪子将猎物大卸八块。
+ZKN_SWORD_800_002	将露奈雅拉完全支配， 强行让它释放出光能， 并把光能吸收。
 ZKN_SWORD_800_003	
 ZKN_SWORD_801_001	
-ZKN_SWORD_809_999	
+ZKN_SWORD_809_999	遥远地区的神话中所描述的 独眼巨人其实就是美录梅塔 超极巨化之后的样子。
 ZKN_SWORD_812_999	超极巨化之力使它的 树桩急速成长，变成了 仿佛森林一样的鼓。
 ZKN_SWORD_815_999	闪焰王牌熊熊燃烧的斗志 转移到了超极巨火焰球上， 使其能够百发百中地将敌人烧焦。
 ZKN_SWORD_818_999	水枪的速度达到了７马赫。 能够一边通过头上的冠感知 风和气温，一边锁定目标。
@@ -17651,6 +17762,8 @@ ZKN_SWORD_892_001	据说，它是以时而湍急 时而平稳的河水为灵感�
 ZKN_SWORD_892_999	被称为愤怒的化身。 据说它会用自己可怕的外表 和吼声祛除世上的邪气。
 ZKN_SWORD_892_998	单脚站立，纹丝不动， 等待着让超极巨化之力 爆发的那一刻。
 ZKN_SWORD_893_001	离开族群去抚养人类的孩子。 身上披着的布散发着 能让孩子停止哭泣的气味。
+ZKN_SWORD_898_001	据说它虽然对挡路之徒手下 毫不留情，但在战斗结束后 却会不计前嫌地帮敌人疗伤。
+ZKN_SWORD_898_002	据说它曾为了让不毛之地重现 绿意，与牵绊深厚的宝可梦 一起驰骋于伽勒尔大地。
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_ultramoon_sch.msbt
@@ -19451,7 +19564,7 @@ ZKN_ULSUN_670_000	会培育花朵当作自己的武器来用。 越是开得美�
 ZKN_ULSUN_671_000	会操纵自己培育的花。 花洁夫人释放的落英缤纷， 其美貌和力量都是压倒性的。
 ZKN_ULSUN_672_000	
 ZKN_ULSUN_673_000	
-ZKN_ULSUN_674_000	像跟班那样跟在流氓熊猫后头。 如果犯了重大错误， 叶子就会被拿走。
+ZKN_ULSUN_674_000	像跟班那样跟在霸道熊猫后头。 如果犯了重大错误， 叶子就会被拿走。
 ZKN_ULSUN_675_000	以腕力为傲的野性的宝可梦。 性格豪爽， 因此迷恋它的训练家也很多。
 ZKN_ULSUN_676_000	曾有过一个时代， 贵族之间会比赛 如何把它的体毛修剪得美丽。
 ZKN_ULSUN_677_000	
@@ -19922,7 +20035,7 @@ ZKN_X_019_000	只要是有食物的地方， 不管哪里都可以生存。 整�
 ZKN_X_020_000	为了磨平不断生长的门牙， 它有着啃咬硬物的习性。 连水泥围墙也能咬坏。
 ZKN_X_021_000	为了保护自己的领地， 会拍打着短短的翅膀， 忙碌地飞来飞去。
 ZKN_X_022_000	可以用大大的翅膀 持续地在空中翱翔。 就算一直不降落也没问题。
-ZKN_X_023_000	身体会越长越长。 另外，它晚上会将身体 一圈圈地缠绕在树枝上睡觉。
+ZKN_X_023_000	身体会随着年龄增长不断变长。 每到夜里，它会一圈圈地 将身体缠绕在树枝上休息。
 ZKN_X_024_000	腹部的花纹看起来像一张可怕的脸。 弱小的敌人只要看到 这个花纹就会被吓跑。
 ZKN_X_025_000	竖起尾巴探察周围的情况时， 偶尔会有雷电落到它的尾巴上。
 ZKN_X_026_000	如果储存的电力过多， 肌肉就会受到刺激， 它也会变得比平时更具攻击性。
@@ -19956,7 +20069,7 @@ ZKN_X_053_000	有着漂亮的毛色， 很多人想把它当宠物养， 但它�
 ZKN_X_054_000	一直受到头痛的困扰。 在头痛欲裂时， 就会开始使用神奇的力量。
 ZKN_X_055_000	黄昏时会在水边出没。 据说额头奇异地发光时， 它就能自如地使用神通力。
 ZKN_X_056_000	无缘无故发火暴怒后， 甚至会变得敌我不分， 这时靠近它会非常危险。
-ZKN_X_057_000	只有周围谁都不在时， 它才会停止发火。 但这种情形很难见到。
+ZKN_X_057_000	只有在谁都不在身边的 时候才不生气，但几乎 没有人目击过这种情况。
 ZKN_X_058_000	性格诚实，容易和人亲近。 对于敌人，它会吼叫追咬， 并试着把其赶跑。
 ZKN_X_059_000	从古时候起就是俘获了 众多人心的美丽宝可梦。 能像飞一样轻巧地奔跑。
 ZKN_X_060_000	滑溜溜的黑色皮肤又薄又湿。 透过皮肤可以看到 部分内脏呈漩涡状。
@@ -19994,7 +20107,7 @@ ZKN_X_091_000	刺甲贝栖息在激流涌动的海里， 它壳上的刺又大�
 ZKN_X_092_000	不管对手的体型多大， 由气体构成的轻盈身体都可以 将其裹住并结束它的性命。
 ZKN_X_093_000	如果黑暗中空空如也， 但你却感觉被什么盯上了， 那么鬼斯通一定就在那里。
 ZKN_X_094_000	会隐藏在物体的阴影里。 据说躲着耿鬼的房间 温度会下降５度。
-ZKN_X_095_000	会在地下以惊人的势头挖洞前进 寻找食物。通过后留下的 洞穴会成为地鼠的巢穴。
+ZKN_X_095_000	以惊人之势钻地觅食。在它 通过之后形成的洞穴会 被地鼠们当作自己的住处。
 ZKN_X_096_000	会让对方睡着然后去吃梦， 但如果吃的全是恶梦， 好像就会吃坏肚子。
 ZKN_X_097_000	会拿着像钟摆一样的东西走动。 曾经发生过它使用催眠术 把孩子带走的事件。
 ZKN_X_098_000	如果危险逼近， 就会从嘴里吐出泡沫包裹全身， 让身体看起来更大。
@@ -20817,7 +20930,7 @@ ZKN_Y_003_000	雨后第二天， 它背上花朵的香味会愈加浓郁。 宝�
 ZKN_Y_004_000	生下来的时候， 尾巴上就有火焰在燃烧。 火焰熄灭时，它的生命也会结束。
 ZKN_Y_005_000	如果挥舞燃烧着的尾巴， 就能令周围温度不断上升， 从而让对手陷入痛苦。
 ZKN_Y_006_000	能用翅膀飞到距地面 １４００米的高度。 会吐出高温火焰。
-ZKN_Y_007_000	会从水面上喷水来猎取食物。 遇到危险时，会将手脚 缩进甲壳来保护自己。
+ZKN_Y_007_000	通过从水面喷水来捕食。 在危急时刻会将四肢 缩入龟壳里保护自己。
 ZKN_Y_008_000	据说它有着１万年的寿命。 蓬松的尾巴是长寿的象征， 深受人们的喜爱。
 ZKN_Y_009_000	甲壳上有喷射口， 是个会以火箭般气势 冲向对手的厉害家伙。
 ZKN_Y_010_000	足尖是能吸附在任何地方的吸盘。 会拼命地爬上树去吃叶子。
@@ -20856,7 +20969,7 @@ ZKN_Y_042_000	一旦开始吸血， 在吸饱之前是不会停下来的。 会�
 ZKN_Y_043_000	别名谜行草。 据说到了晚上，会用２条根 走上长达３００米的距离。
 ZKN_Y_044_000	从嘴里流出来的蜜有着 就算在２公里外也能把 鼻子熏歪的强烈臭味。
 ZKN_Y_045_000	它有着世界上最大的花瓣。 每走一步，花瓣都会跟着摇动， 同时撒出大量的毒花粉。
-ZKN_Y_046_000	会挖洞从树根处获取营养， 不过其中的绝大部分 都会被背上的蘑菇夺走。
+ZKN_Y_046_000	它会通过挖洞来从树根里 吸取营养，但大部分营养 都会被背上的蘑菇抢走。
 ZKN_Y_047_000	背上的蘑菇长得越大， 播撒出来的蘑菇孢子的效果就越强。
 ZKN_Y_048_000	它好像住在大树下， 会吃虫子之类的东西。 晚上会到有光的地方去。
 ZKN_Y_049_000	翅膀上附着着鳞粉， 每次翩翩扇动翅膀， 就会播撒剧毒的粉末。
@@ -20870,7 +20983,7 @@ ZKN_Y_056_000	在树上生活。 如果群体中有１只发起火来， 整个�
 ZKN_Y_057_000	它一直都在激烈地发怒， 即便是你逃到天涯海角， 它也会追上来。
 ZKN_Y_058_000	能毫无畏惧地去对抗 比自己更强更大的对手。 性格勇敢非常可靠。
 ZKN_Y_059_000	威风凛凛的叫声充满威严， 不管是谁听到后， 都会不由自主地跪倒下去。
-ZKN_Y_060_000	漩涡的转向好像会因 出生的地区而不同。 比起走路来，更擅长游泳。
+ZKN_Y_060_000	漩涡的旋转方向好像会 因出生地区而不同。 比起走路，它更擅长游泳。
 ZKN_Y_061_000	２条腿很发达， 虽然可以在地上生活， 但不知为何更喜欢生活在水里。
 ZKN_Y_062_000	因为很擅长自由泳和蝶泳， 所以即使是奥林匹克选手， 它也能很快地超过。
 ZKN_Y_063_000	能察觉攻击的苗头， 在受到袭击前便会迅速地 使用瞬间移动离开原地。
@@ -20951,7 +21064,7 @@ ZKN_Y_137_000	身体由程序构成。 有着能在电子空间 自由移动的�
 ZKN_Y_138_000	从古代化石中复活而来。 靠着壳里储存的空气在水中沉浮。
 ZKN_Y_139_000	一旦缠上就绝不会松开。 会用锋利的牙齿 撕碎并吃掉猎物。
 ZKN_Y_140_000	从古代生物的化石中再生的宝可梦。 一直在用坚硬的壳保护自己。
-ZKN_Y_141_000	会用纤细的身体快速游动。 好像会用镰刀撕裂 捉到的猎物吸取体液。
+ZKN_Y_141_000	用纤细的身体快速 游动。似乎会用镰刀 撕裂猎物吸取体液。
 ZKN_Y_142_000	据说是会一边高亢地大叫， 一边翱翔于古代广袤 天空的凶狠宝可梦。
 ZKN_Y_143_000	就算发霉腐烂了也没关系。 卡比兽的胃能消化任何东西。
 ZKN_Y_144_000	据说在雪山中冷得快要冻死时， 就会出现在眼前的传说的宝可梦。
