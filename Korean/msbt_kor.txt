@@ -892,6 +892,9 @@ MONSNAME_887	드래펄트
 MONSNAME_888	자시안
 MONSNAME_889	자마젠타
 MONSNAME_890	무한다이노
+MONSNAME_891	치고마
+MONSNAME_892	우라오스
+MONSNAME_893	자루도
 
 ~~~~~~~~~~~~~~~
 Text File : place_name_spe_kor.msbt
@@ -1839,6 +1842,8 @@ sp_api_400_8809	닌텐도 어카운트에 로그인하지 못했습니다  닌�
 sp_api_400_8810	이 닌텐도 어카운트는 이미 Pokémon HOME을 이용 중입니다
 sp_api_400_8813	프리미엄 플랜인 경우 닌텐도 어카운트를 변경할 수 없습니다
 sp_api_400_8816	다른 스마트폰에서 데이터를 이어받았습니다 타이틀 화면으로 돌아갑니다
+sp_api_500_9010	다른 단말기에서 로그인하여 타이틀 화면으로 돌아갑니다
+sp_api_500_9011	장시간에 걸쳐 조작하지 않아 타이틀 화면으로 돌아갑니다
 sp_api_405_9014	"Pokémon HOME"의 새로운 버전이 공개되었습니다  버전을 업데이트해 주십시오
 sp_api_400_9090	이 단어는 사용할 수 없습니다
 sp_api_400_9091	이 입력 내용은 등록할 수 없습니다 다시 한번 시도해 주십시오
@@ -1857,6 +1862,9 @@ sp_api_500_10208	사용 중인 닌텐도 어카운트는 닌텐도 네트워크 
 sp_api_500_10209	프리미엄 플랜이 아니므로 현재 조작은 할 수 없습니다
 sp_api_500_10211	사용 중인 닌텐도 어카운트와 연동 중인 닌텐도 네트워크 ID에서 유효한 "포켓몬 뱅크"를 찾지 못했습니다
 sp_api_400_10309	이미 프리미엄 플랜입니다
+sp_api_403_10310	Nintendo Switch 버전 Pokémon HOME에서 구입 처리 중입니다 해당 기기에서 구입 처리를 완료해 주십시오
+sp_api_403_10311	스마트폰(iOS) 버전 Pokémon HOME에서 구입 처리 중입니다 해당 기기에서 구입 처리를 완료해 주십시오
+sp_api_403_10312	스마트폰(Android) 버전 Pokémon HOME에서 구입 처리 중입니다 해당 기기에서 구입 처리를 완료해 주십시오
 sp_api_404_40407	친구를 찾지 못했습니다 친구 리스트를 확인해 주십시오
 sp_api_500_10501	에러가 발생했습니다 잠시 시간을 두고 다시 시도해 주십시오
 sp_api_500_10504	그룹을 찾지 못했습니다 교환을 종료합니다
@@ -1872,6 +1880,7 @@ sp_api_500_10604	상대의 친구 수가 가득 차서 친구 승인을 하지 �
 sp_api_500_10607	친구 코드가 틀립니다 다시 한번 입력해 주십시오
 sp_api_800_100001	통신 환경이 좋은 장소에서 다시 시도해 주십시오
 sp_api_400_11500	이 포켓몬은 내보낼 수 없습니다
+sp_api_400_11502	원하는 포켓몬에 대한 조건에 문제가 있습니다 다시 선택해 주십시오
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_kor.msbt
@@ -1930,14 +1939,6 @@ sp_country_499	기타
 sp_country_500	중동
 
 ~~~~~~~~~~~~~~~
-Text File : sp_forminfo_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
-Text File : sp_form_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
 Text File : sp_friend_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_friend_00001	+ 친구 추가
@@ -1970,14 +1971,6 @@ sp_friend_dialogmsg_01	친구 리스트 갱신
 sp_friend_empty_list	표시할 수 있는 친구가 없습니다 친구를 추가해 주십시오
 
 ~~~~~~~~~~~~~~~
-Text File : sp_gtslevelrange_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
-Text File : sp_kata_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
 Text File : sp_labelcolor_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_labelcolor_01	빨강
@@ -1989,19 +1982,15 @@ sp_labelcolor_06	옥색
 sp_labelcolor_07	파랑
 sp_labelcolor_08	보라
 sp_labelcolor_09	담홍
-sp_labelcolor_10_v2	
-sp_labelcolor_11_v2	
-sp_labelcolor_12_v2	
-sp_labelcolor_13_v2	
-sp_labelcolor_14_v2	
-sp_labelcolor_15_v2	
-sp_labelcolor_16_v2	
-sp_labelcolor_17_v2	
-sp_labelcolor_18_v2	
-
-~~~~~~~~~~~~~~~
-Text File : sp_labelicon_kor.msbt
-~~~~~~~~~~~~~~~
+sp_labelcolor_10_v2	라벨(빨강)
+sp_labelcolor_11_v2	라벨(주황)
+sp_labelcolor_12_v2	라벨(노랑)
+sp_labelcolor_13_v2	라벨(연두)
+sp_labelcolor_14_v2	라벨(초록)
+sp_labelcolor_15_v2	라벨(옥색)
+sp_labelcolor_16_v2	라벨(파랑)
+sp_labelcolor_17_v2	라벨(보라)
+sp_labelcolor_18_v2	라벨(담홍)
 
 ~~~~~~~~~~~~~~~
 Text File : sp_languageconfirm_kor.msbt
@@ -2240,43 +2229,57 @@ sp_option_terms_5	동의한다
 sp_option_terms_6	동의하지 않는다
 sp_option_addsdk_1	정보 이용에 대해서
 sp_option_terms_00012_v1	이용 약관과 개인정보 처리방침 갱신
-sp_option_nalink_0001_v2	
-sp_option_nalink_0002_v2	
-sp_option_nalink_0003_v2	
-sp_option_nalink_0004_v2	
-sp_option_nalink_0005_v2	
-sp_option_nalink_0006_v2	
-sp_option_nalink_0007_v2	
-sp_option_nalink_0008_v2	
-sp_option_nalink_0009_v2	
-sp_option_nalink_0010_v2	
-sp_option_nalink_0011_v2	
-sp_option_nalink_0012_v2	
-sp_option_nalink_0013_v2	
-sp_option_nalink_0014_v2	
-sp_option_nalink_0015_v2	
-sp_option_nalink_0016_v2	
-sp_option_nalink_0017_v2	
-sp_option_nalink_0018_v2	
-sp_option_nalink_0019_v2	
-sp_option_nalink_0020_v2	
-sp_option_nalink_0021_v2	
-sp_option_nalink_0022_v2	
-sp_option_nalink_0023_v2	
-sp_option_nalink_0024_v2	
-sp_option_nalink_0025_v2	
-sp_option_nalink_0026_v2	
-sp_option_nalink_0027_v2	
-sp_option_nalink_0028_v2	
-sp_option_nalink_0029_v2	
-sp_option_nalink_0030_v2	
-sp_option_nalink_0031_v2	
-sp_option_nalink_0032_v2	
-sp_option_nalink_0033_v2	
-sp_option_nalink_0034_v2	
-sp_option_nalink_0035_v2	
-sp_option_nalink_0036_v2	
-sp_option_nalink_0037_v2	
+sp_option_nalink_0001_v2	Pokémon HOME은 닌텐도 어카운트와 연동하면 다음과 같은 기능을 이용할 수 있습니다
+sp_option_nalink_0002_v2	닌텐도 어카운트와 연동하면 할 수 있는 것
+sp_option_nalink_0003_v2	・ 
+sp_option_nalink_0004_v2	이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 연동해 주십시오
+sp_option_nalink_0005_v2	<b>지금 연동하지 않으면 이후에도 연동할 수 없습니다</b>
+sp_option_nalink_0006_v2	닌텐도 어카운트와 연동하고 시작한다
+sp_option_nalink_0007_v2	사용할 닌텐도 어카운트를 확인한 다음 닌텐도 어카운트 연동을 진행해 주십시오
+sp_option_nalink_0008_v2	※연동할 닌텐도 어카운트를 모를 경우 아래 링크를 통해 확인해 주십시오
+sp_option_nalink_0009_v2	Nintendo Switch에서 확인
+sp_option_nalink_0010_v2	닌텐도 어카운트 등록 정보 확인
+sp_option_nalink_0011_v2	연동할 닌텐도 어카운트를 확인했습니까?
+sp_option_nalink_0012_v2	네, 확인했으며 연동하겠습니다
+sp_option_nalink_0013_v2	아니요, 게스트 어카운트로 시작하겠습니다
+sp_option_nalink_0014_v2	<u><b>닌텐도 어카운트를 잘못 연동하면</b></u> <u><b>다음 기능을 이용할 수 없습니다</b></u>
+sp_option_nalink_0015_v2	잘못된 닌텐도 어카운트와 연동하지 않도록 주의해 주십시오
+sp_option_nalink_0016_v2	이미 Nintendo Switch 버전 Pokémon HOME을 이용 중이거나 추후 이용 예정인 경우 반드시 지금 연동해 주십시오 
+sp_option_nalink_0017_v2	게스트 어카운트로 시작할 경우 아래 기능을 이용할 수 없사오니 주의해 주십시오
+sp_option_nalink_0018_v2	게스트 어카운트로 할 수 없는 것
+sp_option_nalink_0019_v2	게스트 어카운트로 시작한다
+sp_option_nalink_0020_v2	게스트 어카운트로 시작하겠습니까?
+sp_option_nalink_0021_v2	게스트 어카운트로는 아래 기능을 이용할 수 없습니다
+sp_option_nalink_0022_v2	정말 게스트 어카운트로 시작하겠습니까?
+sp_option_nalink_0023_v2	Pokémon HOME과 연동하고 시작한다
+sp_option_nalink_0024_v2	연동한 닌텐도 어카운트에서 Nintendo Switch 버전 Pokémon HOME 이용을 확인했습니다
+sp_option_nalink_0025_v2	Nintendo Switch 버전 Pokémon HOME과 스마트폰 버전 Pokémon HOME을 연동할 경우 Nintendo Switch 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
+sp_option_nalink_0026_v2	Nintendo Switch 버전 Pokémon HOME과 스마트폰 버전 Pokémon HOME의 연동을 시작하겠습니까?
+sp_option_nalink_0027_v2	Pokémon HOME을 처음 이용한다
+sp_option_nalink_0028_v2	연동한 닌텐도 어카운트에서 Nintendo Switch 버전 Pokémon HOME 이용을 확인하지 못했습니다
+sp_option_nalink_0029_v2	처음 이용하는 것으로 하여 스마트폰 버전 Pokémon HOME을 새로 닌텐도 어카운트와 연동하겠습니까?
+sp_option_nalink_0030_v2	※이미 Nintendo Switch 버전 Pokémon HOME을 이용 중임에도 현재 화면이 표시된 경우 닌텐도 어카운트를 잘못 연동한 것이오니 "아니요 3를 눌러 이전 화면으로 돌아간 다음 다른 닌텐도 어카운트로 시도해주시기 바랍니다
+sp_option_nalink_0031_v2	게스트로 시작한다
+sp_option_nalink_0032_v2	Nintendo Switch 버전 Pokémon HOME 및 게임 소프트웨어와 연동
+sp_option_nalink_0033_v2	"포켓몬 뱅크"에서 포켓몬 이사
+sp_option_nalink_0034_v2	기종 변경 시 데이터 이어받기
+sp_option_nalink_0035_v2	연동하지 않는다
+sp_option_nalink_0036_v2	게스트 어카운트로 시작 전 최종 확인
+sp_option_nalink_0037_v2	※[아니요]를 누르면 닌텐도 어카운트 연동 확인 화면으로 돌아갑니다
+sp_option_nalink_0038_v2	"포켓몬스터소드・실드"에서 참가한 "인터넷 대회(공식 대회･동료 대회)"와 "랭크배틀"의 개인 전적 확인
+sp_option_nalink_0039_v2	"포켓몬스터소드・실드"의 개인 전적 확인
+sp_option_nalink_0040_v2	서포트 TOP 페이지
+sp_option_nalink_0041_v2	연동한 닌텐도 어카운트에서 Nintendo Switch 버전 Pokémon HOME과 스마트폰 버전 Pokémon HOME의 이용을 확인했습니다
+sp_option_nalink_0042_v2	지금까지 이용 중이던 Nintendo Switch 버전 Pokémon HOME 또는 스마트폰 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
+sp_option_nalink_0043_v2	Nintendo Switch 버전 Pokémon HOME과 스마트폰 버전 Pokémon HOME의 연동을 시작하겠습니까?
+sp_option_nalink_0044_v2	연동한 닌텐도 어카운트에서 스마트폰 버전 Pokémon HOME의 이용을 확인했습니다
+sp_option_nalink_0045_v2	지금까지 이용 중이던 스마트폰 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
+sp_option_nalink_0046_v2	스마트폰 버전 Pokémon HOME을 이어서 시작하겠습니까?
+sp_option_holohlo_0001_v3	Pokémon GO 연동
+sp_option_holohlo_0002_v3	전송된 포켓몬이 없습니다
+sp_option_holohlo_0003_v3	포켓몬이 전송되었습니다
+sp_option_holohlo_0004_v3	받는다
+sp_option_holohlo_0005_v3	연동한다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -2310,6 +2313,13 @@ sp_plan_help_detail_button	■프리미엄 플랜에 대하여 프리미엄 플�
 sp_plan_help_title	구독에 대하여
 sp_plan_help_text	■프리미엄 플랜으로 할 수 있는 것 ・"포켓몬 뱅크"에서 이사 기능을 사용할 수 있습니다. ・포켓몬을 6000마리까지 맡길 수 있게 됩니다. ・미라클 박스에 동시에 10마리까지 포켓몬을 맡길 수 있습니다. ・GTS에 동시에 3마리까지 포켓몬을 맡길 수 있습니다. ・그룹 교환에서 그룹을 작성할 수 있습니다. ・심판 기능을 사용할 수 있습니다.
 sp_plan_control_link_button	정기 구입 관리
+sp_plan_name_30_android_v2	<b>1개월 플랜</b>
+sp_plan_name_90_android_v2	<b>3개월 플랜</b>
+sp_plan_name_365_android_v2	<b>12개월 플랜</b>
+sp_plan_android_pp	■자동 갱신 해약에 대하여 자동 갱신 해약은 상기 "정기 구입 관리"에서 진행할 수 있습니다
+sp_plan_30_explanation_android_v2	매월 자동으로 갱신됩니다
+sp_plan_90_explanation_android_v2	3개월마다 자동으로 갱신됩니다
+sp_plan_365_explanation_android_v2	12개월마다 자동으로 갱신됩니다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_playerlog_kor.msbt
@@ -2371,18 +2381,6 @@ sp_sealcategory_001	벽지
 sp_sealcategory_002	장식
 
 ~~~~~~~~~~~~~~~
-Text File : sp_sealmaterial_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
-Text File : sp_sealsize_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
-Text File : sp_seal_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
 Text File : sp_softwarename_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_softwarename_000	포켓몬 뱅크
@@ -2392,14 +2390,6 @@ sp_softwarename_043	포켓몬스터 레츠고! 이브이
 sp_softwarename_044	포켓몬스터소드
 sp_softwarename_045	포켓몬스터실드
 sp_softwarename_046	Pokémon HOME
-
-~~~~~~~~~~~~~~~
-Text File : sp_tamagogname_kor.msbt
-~~~~~~~~~~~~~~~
-
-~~~~~~~~~~~~~~~
-Text File : sp_tamagogtext_kor.msbt
-~~~~~~~~~~~~~~~
 
 ~~~~~~~~~~~~~~~
 Text File : sp_trade_kor.msbt
@@ -2663,9 +2653,9 @@ sp_ui_title_menu_05_dialog_done	캐시 삭제를 완료했습니다
 sp_ui_title_menu_support_id	서포트 ID
 sp_ui_title_menu_06_v1	서포트 ID를 복사
 sp_ui_title_menu_06_dialog_text_v1	클립보드에 복사되었습니다
-sp_ui_title_nalink_v2	
-sp_ui_title_nalink_complete_v2	
-sp_ui_title_nalink_error_v2	
+sp_ui_title_nalink_v2	닌텐도 어카운트의 정보가 변경되었습니다 닌텐도 어카운트로 다시 로그인해 주십시오  사용 중인 닌텐도 어카운트와 다른 닌텐도 어카운트로는 로그인할 수 없습니다
+sp_ui_title_nalink_complete_v2	닌텐도 어카운트로 로그인했습니다
+sp_ui_title_nalink_error_v2	연동 중인 닌텐도 어카운트와 로그인한 닌텐도 어카운트가 일치하지 않습니다
 sp_ui_downlod_0001	기동 중입니다
 sp_ui_downlod_0002	마스터 데이터 다운로드 중
 sp_ui_downlod_0003	마스터 데이터 다운로드 완료
@@ -2687,7 +2677,7 @@ sp_ui_keyword_dictionary	포켓몬 이름
 sp_ui_keyword_bank	포켓몬 이름
 sp_ui_keyword_waza	기술 이름
 sp_ui_keyword_tokusei	특성 이름
-sp_ui_keyword_label_v2	
+sp_ui_keyword_label_v2	라벨 이름
 sp_ui_waza_category	분류
 sp_ui_filter_all_clear	모두 해제
 sp_ui_input_please	입력해 주십시오...
@@ -2749,13 +2739,13 @@ sp_ui_pokesmile	Pokémon HOME 포인트
 sp_ui_date	날짜
 sp_ui_deposit	맡긴다
 sp_ui_withdrawal	찾는다
-sp_ui_label_type_v2	
-sp_ui_label_filer_exist_v2	
-sp_ui_label_filter_empty_v2	
-sp_ui_label_filter_all_v2	
-sp_ui_label_filter_box_v2	
-sp_ui_label_sort_index_v2	
-sp_ui_label_pokemon_count_v2	
+sp_ui_label_type_v2	라벨 종류
+sp_ui_label_filter_exist_v2	1마리 이상
+sp_ui_label_filter_empty_v2	0마리
+sp_ui_label_filter_all_v2	라벨(모든 색)
+sp_ui_label_filter_box_v2	박스
+sp_ui_label_sort_index_v2	작성 시기
+sp_ui_label_pokemon_count_v2	포켓몬의 수
 sp_ui_library_search	도감 검색
 sp_ui_pokemon_search	포켓몬 검색
 sp_ui_type_compatibility	타입 상성
@@ -2856,7 +2846,7 @@ sp_ui_gift_00010	받았습니다
 sp_ui_gift_00011	GPS를 켜지 못했습니다
 sp_ui_gift_00012	탭해서 시리얼 코드를 입력
 sp_ui_gift_seal	씰
-sp_ui_gift_0013_v1	
+sp_ui_gift_0013_v1	없음
 sp_ui_gift_01001	이 에리어에서 받을 수 있는 것
 sp_ui_gift_01002	선물 박스에서 받아주세요!
 sp_ui_gift_01003	선물 박스
@@ -2911,6 +2901,17 @@ sp_ui_voice_input	음성 인식 중...
 sp_ui_voice_input_error	에러가 발생했습니다  마이크 아이콘을 탭하고 다시 시도해 주십시오
 sp_ui_recognizer_limit_error	음성 인식의 1일 사용 횟수가 한계에 도달했습니다
 sp_ui_myroom_point_number	[VAR_YEAR]p
+sp_ui_link_go_0001_v3	
+sp_ui_link_go_0002_v3	
+sp_ui_transfer_accepting_head_v3	
+sp_ui_transfer_complete_head_v3	
+sp_ui_go_complete_body_v3	
+sp_ui_go_info_v3	
+sp_ui_go_over_capacity_bank_v3	
+sp_ui_go_over_capacity_title_v3	
+sp_ui_go_over_capacity_freebox_v3	
+sp_ui_go_pokemon_list_v3	
+sp_ui_transfer_pokemon_detail_v3	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt
@@ -3182,6 +3183,8 @@ TOKUSEIINFO_255	공격이 올라가지만 처음에 선택한 기술 외에는 �
 TOKUSEIINFO_256	화학변화가스를 가진 포켓몬이 배틀에 나와 있으면 모든 포켓몬이 가진 특성의 효과가 사라지거나 발동하지 않게 된다.
 TOKUSEIINFO_257	자신과 같은 편이 독의 상태 이상 효과를 받지 않게 된다.
 TOKUSEIINFO_258	턴이 끝날 때마다 배부른 모양, 배고픈 모양, 배부른 모양...으로 번갈아서 모습을 바꾼다.
+TOKUSEIINFO_259	상대보다 먼저 행동할 수도 있다.
+TOKUSEIINFO_260	상대에게 접촉하는 기술을 사용하면 방어의 효과를 무시하고 공격할 수 있다.
 
 ~~~~~~~~~~~~~~~
 Text File : tokusei_kor.msbt
@@ -3445,6 +3448,8 @@ TOKUSEI_255	무아지경
 TOKUSEI_256	화학변화가스
 TOKUSEI_257	파스텔베일
 TOKUSEI_258	꼬르륵스위치
+TOKUSEI_259	퀵드로
+TOKUSEI_260	보이지않는주먹
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_kor.msbt
@@ -4335,6 +4340,28 @@ WAZAINFO_793	고개를 숙이는 척하면서 흐트러진 머리카락으로 �
 WAZAINFO_794	굵은 줄기를 휘둘러서 공격한다. 단 자신도 비틀거리기 때문에 다음 턴은 움직일 수 없다.
 WAZAINFO_795	본래의 모습이 된 무한다이노 최대의 공격. 다음 턴은 움직일 수 없다.
 WAZAINFO_796	전신에서 끌어모은 강철을 빔으로 바꿔 세차게 발사한다. 자신도 데미지를 받는다.
+WAZAINFO_797	사이코 파워로 상대를 공격한다. 사이코필드일 때는 위력이 오르며 모든 상대에게 데미지를 준다.
+WAZAINFO_798	필드를 파괴하면서 공격한다. 필드가 어떤 상태로든 변해 있지 않은 경우 기술은 실패한다.
+WAZAINFO_799	비늘을 쏘아서 공격한다. 2-5회 동안 연속으로 쓴다. 스피드가 올라가지만 방어가 떨어진다.
+WAZAINFO_800	1턴째에 우주의 힘을 모아서 특수공격을 올리고 2턴째에 상대를 공격한다.
+WAZAINFO_801	물리와 특수 중 더 많은 데미지를 줄 수 있는 능력으로 공격한다. 독 상태로 만들 때가 있다.
+WAZAINFO_802	자신의 주위에 있는 모두를 공격하지만 사용하면 기절한다. 미스트필드일 때 위력이 올라간다.
+WAZAINFO_803	지면에 미끄러지듯 상대를 공격한다. 그래스필드일 때 반드시 선제공격할 수 있다.
+WAZAINFO_804	지면에서 올라오는 전격으로 공격한다. 상대가 일렉트릭필드 위에 있을 때 기술의 위력이 2배가 된다.
+WAZAINFO_805	필드의 힘을 빌려서 공격한다. 사용했을 때의 필드 상태에 따라서 기술 타입과 위력이 바뀐다.
+WAZAINFO_806	배후에서 엄습해서 공격한다. 상대의 특수공격을 떨어뜨린다.
+WAZAINFO_807	질투의 에너지로 상대를 공격한다. 그 턴에 능력이 올라간 포켓몬을 화상 상태로 만든다.
+WAZAINFO_808	상대에 대한 울분이 담긴 공격을 한다. 그 턴에 능력이 떨어져 있으면 기술의 위력이 2배가 된다.
+WAZAINFO_809	상대의 지닌 물건을 조종해서 공격한다. 상대가 도구를 지니고 있지 않으면 실패한다.
+WAZAINFO_810	주위에 있는 모든 것을 강력한 산성 가스로 뒤덮어서 지니고 있는 도구를 녹여버린다.
+WAZAINFO_811	적절한 지도를 통해서 같은 편 전원의 공격과 방어를 올린다.
+WAZAINFO_812	공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다.
+WAZAINFO_813	3회 연속으로 킥을 날려 공격한다. 기술이 맞을 때마다 위력이 올라간다.
+WAZAINFO_814	날개를 상대에게 부딪쳐서 공격한다. 2회 연속으로 데미지를 준다.
+WAZAINFO_815	뜨겁게 달궈진 모래를 상대에게 부딪쳐서 공격한다. 화상 상태로 만들 때가 있다.
+WAZAINFO_816	정글과 하나가 되어 자신과 배틀에 나와 있는 같은 편의 HP와 모든 상태를 회복한다.
+WAZAINFO_817	악의 태세가 극에 달하여 강렬한 일격을 날린다. 반드시 급소에 맞는다.
+WAZAINFO_818	물의 태세가 극에 달하여 물 흐르듯 3회의 연격을 날린다. 반드시 급소에 맞는다.
 
 ~~~~~~~~~~~~~~~
 Text File : wazaname_kor.msbt
@@ -5136,6 +5163,28 @@ WAZANAME_793	사죄의찌르기
 WAZANAME_794	스타어설트
 WAZANAME_795	무한다이빔
 WAZANAME_796	철제광선
+WAZANAME_797	와이드포스
+WAZANAME_798	아이언롤러
+WAZANAME_799	스케일샷
+WAZANAME_800	메테오빔
+WAZANAME_801	셸암즈
+WAZANAME_802	미스트버스트
+WAZANAME_803	그래스슬라이더
+WAZANAME_804	라이징볼트
+WAZANAME_805	대지의파동
+WAZANAME_806	엄습하는일격
+WAZANAME_807	질투의불꽃
+WAZANAME_808	분풀이
+WAZANAME_809	폴터가이스트
+WAZANAME_810	부식가스
+WAZANAME_811	코칭
+WAZANAME_812	퀵턴
+WAZANAME_813	트리플악셀
+WAZANAME_814	더블윙
+WAZANAME_815	열사의대지
+WAZANAME_816	정글힐
+WAZANAME_817	암흑강타
+WAZANAME_818	수류연타
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_form_kor.msbt
@@ -6031,11 +6080,16 @@ ZKN_FORM_887_000
 ZKN_FORM_888_000	역전의 용사
 ZKN_FORM_889_000	역전의 용사
 ZKN_FORM_890_000	
+ZKN_FORM_891_000	
+ZKN_FORM_892_000	일격의 태세
+ZKN_FORM_893_000	
 ZKN_FORM_003_001	메가이상해꽃
+ZKN_FORM_003_999	거다이맥스
 ZKN_FORM_006_001	메가리자몽X
 ZKN_FORM_006_002	메가리자몽Y
 ZKN_FORM_006_999	거다이맥스
 ZKN_FORM_009_001	메가거북왕
+ZKN_FORM_009_999	거다이맥스
 ZKN_FORM_012_999	거다이맥스
 ZKN_FORM_015_001	메가독침붕
 ZKN_FORM_018_001	메가피죤투
@@ -6050,6 +6104,7 @@ ZKN_FORM_025_005	칼로스캡
 ZKN_FORM_025_006	알로라캡
 ZKN_FORM_025_007	너로정했다캡
 ZKN_FORM_025_008	
+ZKN_FORM_025_009	월드캡
 ZKN_FORM_025_999	거다이맥스
 ZKN_FORM_026_001	알로라의 모습
 ZKN_FORM_027_001	알로라의 모습
@@ -6071,6 +6126,7 @@ ZKN_FORM_077_001	가라르의 모습
 ZKN_FORM_078_001	가라르의 모습
 ZKN_FORM_079_001	가라르의 모습
 ZKN_FORM_080_001	메가야도란
+ZKN_FORM_080_002	가라르의 모습
 ZKN_FORM_083_001	가라르의 모습
 ZKN_FORM_088_001	알로라의 모습
 ZKN_FORM_089_001	알로라의 모습
@@ -6372,6 +6428,9 @@ ZKN_FORM_800_002	새벽의 날개
 ZKN_FORM_800_003	울트라네크로즈마
 ZKN_FORM_801_001	500년 전의 색
 ZKN_FORM_809_999	거다이맥스
+ZKN_FORM_812_999	거다이맥스
+ZKN_FORM_815_999	거다이맥스
+ZKN_FORM_818_999	거다이맥스
 ZKN_FORM_823_999	거다이맥스
 ZKN_FORM_826_999	거다이맥스
 ZKN_FORM_834_999	거다이맥스
@@ -6406,6 +6465,10 @@ ZKN_FORM_888_001	검왕
 ZKN_FORM_889_001	방패왕
 ZKN_FORM_890_001	무한다이맥스
 ZKN_FORM_890_999	무한다이맥스
+ZKN_FORM_892_001	연격의 태세
+ZKN_FORM_892_999	거다이맥스
+ZKN_FORM_892_998	거다이맥스
+ZKN_FORM_893_001	아빠
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_kor.msbt
@@ -7301,11 +7364,16 @@ ZKN_HEIGHT_887_000	3.0m
 ZKN_HEIGHT_888_000	2.8m
 ZKN_HEIGHT_889_000	2.9m
 ZKN_HEIGHT_890_000	20.0m
+ZKN_HEIGHT_891_000	0.6m
+ZKN_HEIGHT_892_000	1.9m
+ZKN_HEIGHT_893_000	1.8m
 ZKN_HEIGHT_003_001	2.4m
+ZKN_HEIGHT_003_999	24.0m~
 ZKN_HEIGHT_006_001	1.7m
 ZKN_HEIGHT_006_002	1.7m
 ZKN_HEIGHT_006_999	28.0m~
 ZKN_HEIGHT_009_001	1.6m
+ZKN_HEIGHT_009_999	25.0m~
 ZKN_HEIGHT_012_999	17.0m~
 ZKN_HEIGHT_015_001	1.4m
 ZKN_HEIGHT_018_001	2.2m
@@ -7320,6 +7388,7 @@ ZKN_HEIGHT_025_005	0.4m
 ZKN_HEIGHT_025_006	0.4m
 ZKN_HEIGHT_025_007	0.4m
 ZKN_HEIGHT_025_008	
+ZKN_HEIGHT_025_009	0.4m
 ZKN_HEIGHT_025_999	21.0m~
 ZKN_HEIGHT_026_001	0.7m
 ZKN_HEIGHT_027_001	0.7m
@@ -7341,6 +7410,7 @@ ZKN_HEIGHT_077_001	0.8m
 ZKN_HEIGHT_078_001	1.7m
 ZKN_HEIGHT_079_001	1.2m
 ZKN_HEIGHT_080_001	2.0m
+ZKN_HEIGHT_080_002	1.6m
 ZKN_HEIGHT_083_001	0.8m
 ZKN_HEIGHT_088_001	0.7m
 ZKN_HEIGHT_089_001	1.0m
@@ -7643,6 +7713,9 @@ ZKN_HEIGHT_800_003	7.5m
 ZKN_HEIGHT_801_001	1.0m
 ZKN_HEIGHT_809_999	25.0m~
 ZKN_HEIGHT_823_999	14.0m~
+ZKN_HEIGHT_812_999	28.0m~
+ZKN_HEIGHT_815_999	27.0m~
+ZKN_HEIGHT_818_999	40.0m~
 ZKN_HEIGHT_826_999	14.0m~
 ZKN_HEIGHT_834_999	24.0m~
 ZKN_HEIGHT_839_999	42.0m~
@@ -7676,6 +7749,10 @@ ZKN_HEIGHT_888_001	2.8m
 ZKN_HEIGHT_889_001	2.9m
 ZKN_HEIGHT_890_001	100.0m
 ZKN_HEIGHT_890_999	100.0m
+ZKN_HEIGHT_892_001	1.9m
+ZKN_HEIGHT_892_999	29.0m~
+ZKN_HEIGHT_892_998	26.0m~
+ZKN_HEIGHT_893_001	1.8m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_kor.msbt
@@ -7763,7 +7840,7 @@ ZKN_TYPE_079	얼간이포켓몬
 ZKN_TYPE_080	기생포켓몬
 ZKN_TYPE_081	자석포켓몬
 ZKN_TYPE_082	자석포켓몬
-ZKN_TYPE_083	천둥오리포켓몬
+ZKN_TYPE_083	청둥오리포켓몬
 ZKN_TYPE_084	쌍둥이새포켓몬
 ZKN_TYPE_085	세쌍둥이새포켓몬
 ZKN_TYPE_086	강치포켓몬
@@ -8545,7 +8622,7 @@ ZKN_TYPE_861	벌크업포켓몬
 ZKN_TYPE_862	정지포켓몬
 ZKN_TYPE_863	바이킹포켓몬
 ZKN_TYPE_864	산호포켓몬
-ZKN_TYPE_865	천둥오리포켓몬
+ZKN_TYPE_865	청둥오리포켓몬
 ZKN_TYPE_866	코미디언포켓몬
 ZKN_TYPE_867	원념포켓몬
 ZKN_TYPE_868	크림포켓몬
@@ -8571,6 +8648,9 @@ ZKN_TYPE_887	스텔스포켓몬
 ZKN_TYPE_888	강자포켓몬
 ZKN_TYPE_889	강자포켓몬
 ZKN_TYPE_890	거대포켓몬
+ZKN_TYPE_891	권법포켓몬
+ZKN_TYPE_892	권법포켓몬
+ZKN_TYPE_893	나쁜원숭이포켓몬
 ZKN_TYPE_077_001	일각포켓몬
 ZKN_TYPE_078_001	일각포켓몬
 ZKN_TYPE_122_001	댄스포켓몬
@@ -9471,11 +9551,16 @@ ZKN_WEIGHT_887_000	50.0kg
 ZKN_WEIGHT_888_000	110.0kg
 ZKN_WEIGHT_889_000	210.0kg
 ZKN_WEIGHT_890_000	950.0kg
+ZKN_WEIGHT_891_000	12.0kg
+ZKN_WEIGHT_892_000	105.0kg
+ZKN_WEIGHT_893_000	70.0kg
 ZKN_WEIGHT_003_001	155.5kg
+ZKN_WEIGHT_003_999	???.?kg
 ZKN_WEIGHT_006_001	110.5kg
 ZKN_WEIGHT_006_002	100.5kg
 ZKN_WEIGHT_006_999	???.?kg
 ZKN_WEIGHT_009_001	101.1kg
+ZKN_WEIGHT_009_999	???.?kg
 ZKN_WEIGHT_012_999	???.?kg
 ZKN_WEIGHT_015_001	40.5kg
 ZKN_WEIGHT_018_001	50.5kg
@@ -9490,6 +9575,7 @@ ZKN_WEIGHT_025_005	6.0kg
 ZKN_WEIGHT_025_006	6.0kg
 ZKN_WEIGHT_025_007	6.0kg
 ZKN_WEIGHT_025_008	
+ZKN_WEIGHT_025_009	6.0kg
 ZKN_WEIGHT_025_999	???.?kg
 ZKN_WEIGHT_026_001	21.0kg
 ZKN_WEIGHT_027_001	40.0kg
@@ -9511,6 +9597,7 @@ ZKN_WEIGHT_077_001	24.0kg
 ZKN_WEIGHT_078_001	80.0kg
 ZKN_WEIGHT_079_001	36.0kg
 ZKN_WEIGHT_080_001	120.0kg
+ZKN_WEIGHT_080_002	70.5kg
 ZKN_WEIGHT_083_001	42.0kg
 ZKN_WEIGHT_088_001	42.0kg
 ZKN_WEIGHT_089_001	52.0kg
@@ -9812,6 +9899,9 @@ ZKN_WEIGHT_800_002	350.0kg
 ZKN_WEIGHT_800_003	230.0kg
 ZKN_WEIGHT_801_001	80.5kg
 ZKN_WEIGHT_809_999	???.?kg
+ZKN_WEIGHT_812_999	???.?kg
+ZKN_WEIGHT_815_999	???.?kg
+ZKN_WEIGHT_818_999	???.?kg
 ZKN_WEIGHT_823_999	???.?kg
 ZKN_WEIGHT_826_999	???.?kg
 ZKN_WEIGHT_834_999	???.?kg
@@ -9846,6 +9936,10 @@ ZKN_WEIGHT_888_001	355.0kg
 ZKN_WEIGHT_889_001	785.0kg
 ZKN_WEIGHT_890_001	???.?kg
 ZKN_WEIGHT_890_999	???.?kg
+ZKN_WEIGHT_892_001	105.0kg
+ZKN_WEIGHT_892_999	???.?kg
+ZKN_WEIGHT_892_998	???.?kg
+ZKN_WEIGHT_893_001	70.0kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_kor.msbt
@@ -13865,15 +13959,15 @@ ZKN_OMEGA_720_001	진정한 모습일 때는 거대한 힘을 가지고 있다. 
 Text File : zukan_comment_shield_kor.msbt
 ~~~~~~~~~~~~~~~
 ZKN_SHIELD_000_000	
-ZKN_SHIELD_001_000	
-ZKN_SHIELD_002_000	
-ZKN_SHIELD_003_000	
+ZKN_SHIELD_001_000	태어나서 얼마 동안 등의 씨앗에 담긴 영양을 섭취하며 자란다.
+ZKN_SHIELD_002_000	햇빛을 받을수록 몸에 힘이 솟아나 등의 꽃봉오리가 자라난다.
+ZKN_SHIELD_003_000	꽃에서 황홀한 향기가 퍼져 나와 싸우는 자의 기분을 달래준다.
 ZKN_SHIELD_004_000	태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다.
 ZKN_SHIELD_005_000	싸움으로 기분이 고조되면 작열하는 불꽃을 뿜으며 주변을 태워버린다.
 ZKN_SHIELD_006_000	지상 1400m까지 날개를 사용해 날 수 있다. 고열의 불꽃을 내뿜는다.
-ZKN_SHIELD_007_000	
-ZKN_SHIELD_008_000	
-ZKN_SHIELD_009_000	
+ZKN_SHIELD_007_000	위험해지면 등껍질에 손발을 감추고 몸을 지키면서 입에서 물을 내뿜는다.
+ZKN_SHIELD_008_000	탐스러운 귀와 꼬리를 능숙하게 다뤄서 수중에서의 밸런스를 유지한다.
+ZKN_SHIELD_009_000	등껍질의 로켓포에서 뿜어져 나오는 제트 수류는 두꺼운 철판도 뚫는다.
 ZKN_SHIELD_010_000	다리는 짧지만 빨판으로 되어 있어 비탈길이나 벽에서도 지치지 않고 나아간다.
 ZKN_SHIELD_011_000	단단한 껍질로 둘러싸여 있지만 안은 부드럽기 때문에 강한 공격에는 버티지 못한다.
 ZKN_SHIELD_012_000	매일 꿀을 모으러 다닌다. 다리의 솜털에 꿀을 발라 둥지로 가지고 가는 습성이 있다.
@@ -13891,8 +13985,8 @@ ZKN_SHIELD_023_000
 ZKN_SHIELD_024_000	
 ZKN_SHIELD_025_000	서로의 꼬리를 붙여서 전기를 흐르게 하는 게 피카츄 사이의 인사법이다.
 ZKN_SHIELD_026_000	전기 주머니가 텅 비면 꼬리를 똑바로 세워서 공기 중의 전기를 모은다.
-ZKN_SHIELD_027_000	
-ZKN_SHIELD_028_000	
+ZKN_SHIELD_027_000	땅을 파서 굴을 만든다. 땅속의 단단한 바위도 날카로운 발톱으로 부수며 파고들어 간다.
+ZKN_SHIELD_028_000	날카로운 발톱으로 찍으며 나무에 오른다. 아래에서 기다리는 모래두지들에게 나무열매를 떨어뜨려 나눠준다.
 ZKN_SHIELD_029_000	
 ZKN_SHIELD_030_000	
 ZKN_SHIELD_031_000	
@@ -13903,8 +13997,8 @@ ZKN_SHIELD_035_000	애교 있는 몸동작과 울음소리로 귀엽다고 많�
 ZKN_SHIELD_036_000	1km 앞에 떨어진 바늘 소리가 들릴 정도로 귀가 좋아 평소에는 조용한 곳에서 지낸다.
 ZKN_SHIELD_037_000	6개의 꼬리는 자라면서 털의 결이 좋아지며 아름다워진다. 안으면 살짝 따듯하다.
 ZKN_SHIELD_038_000	머리가 좋고 집념이 강하다. 장난으로 꼬리를 잡으면 1000년 동안 화를 입는다고 한다.
-ZKN_SHIELD_039_000	
-ZKN_SHIELD_040_000	
+ZKN_SHIELD_039_000	목소리 파장을 자유자재로 바꾸어 들으면 반드시 잠드는 신비한 멜로디를 노래한다.
+ZKN_SHIELD_040_000	얇고 고운 털을 가졌다. 특히 이마에 동그랗게 말린 털은 하늘을 날 듯한 최고의 감촉을 지녔다.
 ZKN_SHIELD_041_000	
 ZKN_SHIELD_042_000	
 ZKN_SHIELD_043_000	낮에는 태양을 피하기 위해 차가운 땅속에 들어가 있다. 달빛을 쬐어 성장한다.
@@ -13918,35 +14012,35 @@ ZKN_SHIELD_050_000	얕은 땅속을 이동한다. 굴을 파며 다닌 곳은 �
 ZKN_SHIELD_051_000	지하 100km까지 파고들 수 있는 파워를 간직한 세쌍둥이 디그다. 땅 밑은 아무도 모른다.
 ZKN_SHIELD_052_000	이마의 금화가 더러워지지 않도록 바지런히 얼굴을 씻는다. 가라르의 나옹과는 사이가 나쁘다.
 ZKN_SHIELD_053_000	움직임은 우아하고 품위 있다. 야만스러운 나이킹과는 잘 맞지 않아 서로를 멸시한다.
-ZKN_SHIELD_054_000	
-ZKN_SHIELD_055_000	
+ZKN_SHIELD_054_000	스트레스가 쌓이면 두통이 심해진다. 강력한 염동력으로 주위를 압도한다.
+ZKN_SHIELD_055_000	강을 더럽힌 사람을 물속으로 끌어들여 데려간다는 옛날이야기가 전해져 오고 있다.
 ZKN_SHIELD_056_000	
 ZKN_SHIELD_057_000	
 ZKN_SHIELD_058_000	충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다.
 ZKN_SHIELD_059_000	옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 마치 나는 것처럼 경쾌하게 달린다.
-ZKN_SHIELD_060_000	
-ZKN_SHIELD_061_000	
-ZKN_SHIELD_062_000	
-ZKN_SHIELD_063_000	
-ZKN_SHIELD_064_000	
-ZKN_SHIELD_065_000	
+ZKN_SHIELD_060_000	유속이 빠른 강에서는 두꺼운 입술을 흡반처럼 사용해 바위에 달라붙는다.
+ZKN_SHIELD_061_000	미끈미끈한 점액 형태의 땀을 흘린다. 적에게 붙잡혀도 스르륵 빠져나와 도망친다.
+ZKN_SHIELD_062_000	헤엄뿐만 아니라 격투기도 특기다. 단련한 팔로 호쾌하게 펀치를 날린다.
+ZKN_SHIELD_063_000	잠이 든 상태에서 순간이동이 가능하다. 깊이 잠들수록 먼 곳으로 이동한다고 한다.
+ZKN_SHIELD_064_000	염동력의 위력은 절대적이다. 진화에 대비하여 이마에 있는 별에 사이코 파워를 비축하고 있다.
+ZKN_SHIELD_065_000	강력한 초능력을 구사한다. 양손에 든 숟가락은 그 힘으로 만들어낸 것이라고 한다.
 ZKN_SHIELD_066_000	언제나 파워풀하다. 체력이 남아돌기 때문에 심심풀이로 바위를 들어 올리며 더 강해진다.
 ZKN_SHIELD_067_000	지치지 않는 강인한 육체를 가졌다. 무거운 물건을 옮기는 등의 일을 돕는다.
 ZKN_SHIELD_068_000	4개의 팔은 생각하는 것보다 빠르게 반사적으로 움직이며 여러 발의 펀치를 날린다.
 ZKN_SHIELD_069_000	
 ZKN_SHIELD_070_000	
 ZKN_SHIELD_071_000	
-ZKN_SHIELD_072_000	
-ZKN_SHIELD_073_000	
+ZKN_SHIELD_072_000	몸의 대부분이 수분이어서 바닷속에서는 물과 동화되어 매우 구분하기 힘들다.
+ZKN_SHIELD_073_000	80개의 촉수는 자유롭게 늘어났다가 줄어든다. 그물처럼 펼쳐서 먹이를 잡고 독바늘로 찌른다.
 ZKN_SHIELD_074_000	
 ZKN_SHIELD_075_000	
 ZKN_SHIELD_076_000	
 ZKN_SHIELD_077_000	포니타에게 인정받으면 타오르는 갈기를 만져도 뜨거움을 느끼지 않게 된다.
 ZKN_SHIELD_078_000	가장 발이 빠른 날쌩마가 리더가 되어 무리가 갈 장소나 달리는 속도를 정한다.
-ZKN_SHIELD_079_000	
-ZKN_SHIELD_080_000	
-ZKN_SHIELD_081_000	
-ZKN_SHIELD_082_000	
+ZKN_SHIELD_079_000	꼬리를 물에 담가두면 단맛이 배어 나오기 때문에 이를 미끼로 포켓몬을 유인해서 낚는다.
+ZKN_SHIELD_080_000	셀러에게 물린 충격으로 두 발로 걸을 수 있게 되었다. 셀러가 떨어지면 야돈으로 돌아간다고 한다.
+ZKN_SHIELD_081_000	전기를 먹으며 살아간다. 좌우의 유닛에서 전기자석파를 방사하며 하늘을 난다.
+ZKN_SHIELD_082_000	강한 자력을 끊임없이 발산한다. 레어코일이 접근하면 대부분의 컴퓨터에 이상 현상이 발생한다.
 ZKN_SHIELD_083_000	식물의 줄기로 싸운다. 줄기를 휘두르는 방식에 따라 몇 종류의 유파가 있는 듯하다.
 ZKN_SHIELD_084_000	
 ZKN_SHIELD_085_000	
@@ -13966,33 +14060,33 @@ ZKN_SHIELD_098_000	위험이 닥치면 입에서 뿜어내는 거품으로 전�
 ZKN_SHIELD_099_000	큰 집게는 뛰어난 파괴력을 지녔지만 너무 무거워서 싸우지 않을 때는 거추장스럽다.
 ZKN_SHIELD_100_000	
 ZKN_SHIELD_101_000	
-ZKN_SHIELD_102_000	
-ZKN_SHIELD_103_000	
-ZKN_SHIELD_104_000	
-ZKN_SHIELD_105_000	
+ZKN_SHIELD_102_000	6마리가 아니면 진정하지 못한다. 1마리라도 없어지면 바로 도망태세가 된다.
+ZKN_SHIELD_103_000	3개의 머리가 똘똘 뭉쳐서 쏘는 사이코 파워는 강력하다. 날씨가 흐리면 움직임이 둔하다.
+ZKN_SHIELD_104_000	죽은 어미의 뼈를 머리에 쓰고 있다. 어미의 꿈을 꾸고 울기도 하지만 눈물을 흘릴 때마다 강해진다.
+ZKN_SHIELD_105_000	진화로 인해 쓰고 있던 어미의 뼈는 일체화되었고 성격은 더욱 난폭해졌다.
 ZKN_SHIELD_106_000	다리를 자유자재로 늘이고 줄인다. 상대가 멀리 떨어져 있어도 다리를 늘여서 차올릴 수 있다.
 ZKN_SHIELD_107_000	공기마저 베어 가르는 펀치. 하지만 3분간 공격하면 잠시 쉬고 싶어하는 것 같다.
-ZKN_SHIELD_108_000	
+ZKN_SHIELD_108_000	벌레포켓몬이 주된 먹이다. 긴 혀로 상대를 핥아 마비시킨 후 통째로 삼킨다.
 ZKN_SHIELD_109_000	오염된 공기를 좋아한다. 옛날 가라르지방에는 지금보다 많은 또가스가 있었다고 한다.
 ZKN_SHIELD_110_000	가라르의 또도가스보다 공기를 흡입하는 힘은 조금 약하지만 내뿜는 독소는 강력하다.
 ZKN_SHIELD_111_000	한 가지만 기억할 수 있다. 돌진하기 시작하면 이유가 무엇이었든 금방 잊어버린다.
 ZKN_SHIELD_112_000	전신을 갑옷 같은 피부로 보호하고 있다. 2000도의 마그마 속에서도 살 수 있다.
-ZKN_SHIELD_113_000	
-ZKN_SHIELD_114_000	
-ZKN_SHIELD_115_000	
-ZKN_SHIELD_116_000	
-ZKN_SHIELD_117_000	
+ZKN_SHIELD_113_000	원래 움직임이 둔했지만 알을 노리는 자들로부터 지켜내기 위해 도주 속도가 빨라졌다.
+ZKN_SHIELD_114_000	덩굴은 독특한 향이 난다. 가라르 일부 지역에서는 허브로 사용되고 있다.
+ZKN_SHIELD_115_000	새끼가 없는 캥카가 조난한 사람의 아이를 길렀다는 기록이 있다.
+ZKN_SHIELD_116_000	물속에서 춤추듯이 헤엄쳐 소용돌이를 만든다. 동료와 소용돌이의 크기를 겨루며 논다.
+ZKN_SHIELD_117_000	입은 가늘지만 흡인력은 강하다. 입보다 큰 먹이도 순식간에 빨아들여 먹는다.
 ZKN_SHIELD_118_000	등지느러미와 가슴지느러미가 근육처럼 발달하여 물속을 5노트의 속도로 헤엄친다.
 ZKN_SHIELD_119_000	뿔로 강바닥의 바위를 파헤쳐 둥지를 만드는 이유는 낳은 알이 떠내려가지 않도록 하기 위함이다.
-ZKN_SHIELD_120_000	
-ZKN_SHIELD_121_000	
+ZKN_SHIELD_120_000	물고기포켓몬에게 물리곤 하지만 몸이 찢겨도 금방 재생되기 때문에 신경 쓰지 않는다.
+ZKN_SHIELD_121_000	몸을 고속으로 회전시켜 바다를 헤엄치며 작은 플랑크톤을 흡수한다.
 ZKN_SHIELD_122_000	팬터마임이 특기다. 손가락에서 내보내는 파동으로 벽을 만들어 갖은 공격으로부터 몸을 지킨다.
-ZKN_SHIELD_123_000	
+ZKN_SHIELD_123_000	숲속에서 많은 나무가 베인 채 쓰러져 있는 장소를 발견했다면 그곳은 스라크의 영역이다.
 ZKN_SHIELD_124_000	
 ZKN_SHIELD_125_000	
 ZKN_SHIELD_126_000	
-ZKN_SHIELD_127_000	
-ZKN_SHIELD_128_000	
+ZKN_SHIELD_127_000	뿔로 먹이를 찔러 넣어 그대로 두 동강으로 만들거나 강제로 던져버린다.
+ZKN_SHIELD_128_000	가라르에 서식하는 켄타로스는 기질이 거칠어서 사람이 등에 올라타는 것을 허용하지 않는다.
 ZKN_SHIELD_129_000	유속이 빠른 곳에서는 그저 떠내려갈 뿐인 약하고 한심한 포켓몬이다.
 ZKN_SHIELD_130_000	한번 난동부리기 시작한 갸라도스는 태풍이 사납게 휘몰아쳐도 모든 것을 다 태워버린다.
 ZKN_SHIELD_131_000	추위에 강해서 얼음 바다에서도 끄떡없다. 피부는 매끈매끈하고 조금 차갑다.
@@ -14001,7 +14095,7 @@ ZKN_SHIELD_133_000	불안정한 유전자 덕분에 여러 가지 진화의 가�
 ZKN_SHIELD_134_000	몸의 세포 구조가 물 분자와 닮았다. 물에 녹으면 보이지 않는다.
 ZKN_SHIELD_135_000	공기 중의 마이너스 이온을 빨아들여 약 10000볼트의 전기를 내뱉을 수 있다.
 ZKN_SHIELD_136_000	들이마신 공기 중 일부는 체내의 불꽃 주머니로 보내져 1700도의 불꽃이 된다.
-ZKN_SHIELD_137_000	
+ZKN_SHIELD_137_000	근래에는 컴퓨터 공간에서 대활약한다. 수상한 데이터가 없는지 체크하며 돌아다닌다.
 ZKN_SHIELD_138_000	
 ZKN_SHIELD_139_000	
 ZKN_SHIELD_140_000	
@@ -14038,7 +14132,7 @@ ZKN_SHIELD_170_000	어두운 해저에서는 항상 깜빡거리는 촉수의 �
 ZKN_SHIELD_171_000	강한 빛을 발산해 먹이의 눈을 멀게 한다. 허점을 보이면 전격을 먹인다.
 ZKN_SHIELD_172_000	볼의 전기 주머니가 작아서 조금이라도 전기가 넘치게 되면 자기 자신이 감전되어 버린다.
 ZKN_SHIELD_173_000	실루엣이 별 모양이다. 그 때문에 별똥별을 타고 온다고 여겨진다.
-ZKN_SHIELD_174_000	
+ZKN_SHIELD_174_000	부드러운 몸으로 통통 튀며 움직인다. 체온이 오르면 몸은 짙은 핑크색이 된다.
 ZKN_SHIELD_175_000	행운의 상징이다. 껍질 안에는 행복이 가득 담겨 있다고 한다.
 ZKN_SHIELD_176_000	상냥한 사람 곁에 있지 않으면 기운을 내지 못한다. 날개를 움직이지 않고도 공중에 뜰 수 있다.
 ZKN_SHIELD_177_000	날개가 아직 잘 발달하지 못해서 점프하듯 이동한다. 항상 뭔가를 바라보고 있다.
@@ -14047,10 +14141,10 @@ ZKN_SHIELD_179_000
 ZKN_SHIELD_180_000	
 ZKN_SHIELD_181_000	
 ZKN_SHIELD_182_000	가끔 아르코가 모여서 춤을 추는 듯한 동작을 한다. 태양을 부르는 의식이라 전해진다.
-ZKN_SHIELD_183_000	
-ZKN_SHIELD_184_000	
+ZKN_SHIELD_183_000	물을 잘 튕겨내는 털은 차가운 바다에 있다가 나와도 금방 말라서 춥지 않다.
+ZKN_SHIELD_184_000	공기로 가득 찬 거품을 만든다. 루리리가 강에서 놀 때는 이 거품으로 감싸준다.
 ZKN_SHIELD_185_000	습격당하지 않도록 나무 흉내를 낸다. 물에 약하기 때문에 비가 내리면 어느 틈에 모습을 감춰버린다.
-ZKN_SHIELD_186_000	
+ZKN_SHIELD_186_000	수컷의 울음소리가 더 크다. 나지막하고 위협적인 목소리로 우는 왕구리가 암컷에게 인기다.
 ZKN_SHIELD_187_000	
 ZKN_SHIELD_188_000	
 ZKN_SHIELD_189_000	
@@ -14063,22 +14157,22 @@ ZKN_SHIELD_195_000	몸은 항상 미끄럽다. 헤엄칠 때마다 강바닥에 
 ZKN_SHIELD_196_000	이마의 구슬에서 사이코 파워를 방사해서 싸운다. 파워가 다하면 구슬의 색이 흐려진다.
 ZKN_SHIELD_197_000	보름달이 뜬 밤이나 흥분했을 때 전신의 고리 무늬가 노랗게 빛난다.
 ZKN_SHIELD_198_000	
-ZKN_SHIELD_199_000	
+ZKN_SHIELD_199_000	아무리 어려운 문제를 물어봐도 모두 해결해주지만 그 누구도 야도킹의 말을 이해하지 못한다.
 ZKN_SHIELD_200_000	
 ZKN_SHIELD_201_000	
 ZKN_SHIELD_202_000	새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다.
 ZKN_SHIELD_203_000	
 ZKN_SHIELD_204_000	
 ZKN_SHIELD_205_000	
-ZKN_SHIELD_206_000	
+ZKN_SHIELD_206_000	미로 같은 굴에 산다. 흙냄새로 자신이 있는 곳을 알 수 있어 절대 길을 잃지 않는다.
 ZKN_SHIELD_207_000	
 ZKN_SHIELD_208_000	흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다.
 ZKN_SHIELD_209_000	
 ZKN_SHIELD_210_000	
 ZKN_SHIELD_211_000	전신의 작은 바늘은 비늘이 변화한 것이다. 찔리면 독 때문에 정신을 잃게 된다.
-ZKN_SHIELD_212_000	
+ZKN_SHIELD_212_000	몸은 가늘지만 공격력은 무시무시하다. 몸의 근육도 금속으로 되어 있다.
 ZKN_SHIELD_213_000	항아리 같은 등껍질 속에 모은 나무열매는 어느샌가 걸쭉한 주스로 변한다.
-ZKN_SHIELD_214_000	
+ZKN_SHIELD_214_000	자신 몸무게의 100배에 달하는 무게도 거뜬히 들어 올리는 괴력을 자랑하는 포켓몬이다.
 ZKN_SHIELD_215_000	교활하고 사나운 성질을 가졌다. 부모가 없는 틈에 둥지로 침입해서 알을 훔친다.
 ZKN_SHIELD_216_000	
 ZKN_SHIELD_217_000	
@@ -14091,13 +14185,13 @@ ZKN_SHIELD_223_000	빨판처럼 변화한 등지느러미로 만타인에게 달
 ZKN_SHIELD_224_000	머리가 돌처럼 단단하다. 빨판이 붙어 있는 다리를 휘감아 끊임없이 머리로 세게 때린다.
 ZKN_SHIELD_225_000	자신의 먹이를 사람이나 포켓몬에게 나눠주는 습성이 있어 언제나 먹이를 찾아다닌다.
 ZKN_SHIELD_226_000	여유롭게 바다를 헤엄친다. 먹다 남은 음식을 노린 총어가 달라붙어 있어도 신경 쓰지 않는다.
-ZKN_SHIELD_227_000	
+ZKN_SHIELD_227_000	빠진 깃털로 검을 만들 수 있어서 문장 도안으로 인기가 많다.
 ZKN_SHIELD_228_000	
 ZKN_SHIELD_229_000	
-ZKN_SHIELD_230_000	
+ZKN_SHIELD_230_000	떨어진 비늘은 왕족에게 헌상될 정도의 최상품으로 심오한 빛을 띤다.
 ZKN_SHIELD_231_000	
 ZKN_SHIELD_232_000	
-ZKN_SHIELD_233_000	
+ZKN_SHIELD_233_000	AI 기능을 탑재한 결과 폴리곤2끼리만 통하는 수수께끼의 언어로 말하기 시작했다.
 ZKN_SHIELD_234_000	
 ZKN_SHIELD_235_000	
 ZKN_SHIELD_236_000	만만한 상대를 발견하면 바로 공격해오기 때문에 몸집이 작아도 방심은 할 수 없다.
@@ -14105,8 +14199,8 @@ ZKN_SHIELD_237_000	물구나무를 서서 상대의 타이밍을 흐트러뜨리
 ZKN_SHIELD_238_000	
 ZKN_SHIELD_239_000	
 ZKN_SHIELD_240_000	
-ZKN_SHIELD_241_000	
-ZKN_SHIELD_242_000	
+ZKN_SHIELD_241_000	매일 우유를 짜지 않으면 컨디션이 나빠진다. 우유의 맛은 계절에 따라 다르다.
+ZKN_SHIELD_242_000	행복이 가득 찬 신비한 알을 낳는다. 먹은 사람은 누구에게나 친절해진다고 한다.
 ZKN_SHIELD_243_000	
 ZKN_SHIELD_244_000	
 ZKN_SHIELD_245_000	
@@ -14157,12 +14251,12 @@ ZKN_SHIELD_289_000
 ZKN_SHIELD_290_000	10년 이상 땅속에서 지내는 경우도 있다. 수목의 뿌리에서 영양을 흡수한다.
 ZKN_SHIELD_291_000	어떤 공격이든 피할 수 있다고 이야기될 정도로 빠른 포켓몬이다. 달콤한 수액을 매우 좋아한다.
 ZKN_SHIELD_292_000	날개를 움직이지 않고 날아다닌다. 몸속이 텅 비어 있고 숨을 쉬지 않는 이상한 포켓몬이다.
-ZKN_SHIELD_293_000	
-ZKN_SHIELD_294_000	
-ZKN_SHIELD_295_000	
+ZKN_SHIELD_293_000	울음이 터지면 자신의 목소리에 놀라 더 격렬하게 운다. 울다 지치면 잠들어 버린다.
+ZKN_SHIELD_294_000	큰 목소리는 청각뿐만 아니라 공기의 압력마저 변화시켜 상대를 날려버리고 데미지를 준다.
+ZKN_SHIELD_295_000	큰 목소리만 가진 것이 아니다. 몸의 구멍에서 다양한 소리를 내어 동료와 의사소통을 한다.
 ZKN_SHIELD_296_000	
 ZKN_SHIELD_297_000	
-ZKN_SHIELD_298_000	
+ZKN_SHIELD_298_000	얌전한 포켓몬이지만 화가 나면 꼬리의 큰 공을 붕붕 휘두르다 세차게 내리친다.
 ZKN_SHIELD_299_000	
 ZKN_SHIELD_300_000	
 ZKN_SHIELD_301_000	
@@ -14182,8 +14276,8 @@ ZKN_SHIELD_314_000
 ZKN_SHIELD_315_000	오른손과 왼손으로 2종류의 독을 구별하여 공격한다. 향기가 강할수록 기운이 넘친다.
 ZKN_SHIELD_316_000	
 ZKN_SHIELD_317_000	
-ZKN_SHIELD_318_000	
-ZKN_SHIELD_319_000	
+ZKN_SHIELD_318_000	날카로운 이빨과 튼튼한 턱을 갖고 있다. 선원들은 샤프니아 거처에 결코 가까이 가지 않는다.
+ZKN_SHIELD_319_000	바다의 건달로 불리며 서식하는 해역에 들어간 배는 모조리 공격당한다.
 ZKN_SHIELD_320_000	바닷물을 많이 마시면 몸이 공처럼 튄다. 매일 1톤의 먹이를 먹는다.
 ZKN_SHIELD_321_000	엄청나게 거대해서 인기가 있다. 고래왕 워칭은 각지에서 인기 있는 관광 코스다.
 ZKN_SHIELD_322_000	
@@ -14267,9 +14361,9 @@ ZKN_SHIELD_399_000
 ZKN_SHIELD_400_000	
 ZKN_SHIELD_401_000	
 ZKN_SHIELD_402_000	
-ZKN_SHIELD_403_000	
-ZKN_SHIELD_404_000	
-ZKN_SHIELD_405_000	
+ZKN_SHIELD_403_000	털이 전기로 빛난다. 밝게 빛나는 꼬리 끝을 흔들어 동료에게 신호를 보낸다.
+ZKN_SHIELD_404_000	적을 만나면 100만 볼트의 위력을 가진 발톱을 드러내어 싸움에 대비한다.
+ZKN_SHIELD_405_000	투시는 전기 에너지를 매우 많이 소모하기 때문에 오랜 시간 수면을 취해서 에너지를 비축한다.
 ZKN_SHIELD_406_000	기온 변화에 민감하다. 봉오리가 피기 시작하면 곧 봄이 온다.
 ZKN_SHIELD_407_000	오른손의 독은 즉효성이고 왼손의 독은 지효성을 띠고 있다. 양쪽 모두 생명에 지장을 준다.
 ZKN_SHIELD_408_000	
@@ -14291,8 +14385,8 @@ ZKN_SHIELD_423_000	흐물흐물한 몸이지만 제법 튼튼하다. 부드러�
 ZKN_SHIELD_424_000	
 ZKN_SHIELD_425_000	영혼들이 모여 탄생했다. 습기가 많은 계절에는 대량으로 나타나기도 한다.
 ZKN_SHIELD_426_000	사람과 포켓몬을 붙잡아 그대로 어딘가로 운반한다. 행선지는 아무도 모른다.
-ZKN_SHIELD_427_000	
-ZKN_SHIELD_428_000	
+ZKN_SHIELD_427_000	말고 있던 귀를 뻗는 힘으로 공격하는 기술은 트레이닝을 할수록 위력이 커진다.
+ZKN_SHIELD_428_000	더운 계절이 끝나면 공기를 많이 머금은 털로 털갈이를 하여 추위에 대비한다.
 ZKN_SHIELD_429_000	
 ZKN_SHIELD_430_000	
 ZKN_SHIELD_431_000	
@@ -14304,7 +14398,7 @@ ZKN_SHIELD_436_000	닦으면 빛이 나며 진실을 비춘다고 전해지지�
 ZKN_SHIELD_437_000	몸의 무늬 때문에 본래 가라르에는 없던 포켓몬이라고 생각하는 학자도 많다.
 ZKN_SHIELD_438_000	건조한 바위 밭에 산다. 초록색 구슬은 마를수록 반들반들 희미하게 빛난다.
 ZKN_SHIELD_439_000	춤을 잘 추는 마임꽁꽁의 제자인 것마냥 따라다니며 스텝을 열심히 흉내 낸다.
-ZKN_SHIELD_440_000	
+ZKN_SHIELD_440_000	친해진 상대에게는 소중하게 여기는 둥근 돌을 빌려준다. 돌려주지 않으면 울고불고하다가 난폭해진다.
 ZKN_SHIELD_441_000	
 ZKN_SHIELD_442_000	
 ZKN_SHIELD_443_000	
@@ -14326,10 +14420,10 @@ ZKN_SHIELD_458_000	총어 무리에 섞여서 헤엄친다. 적에게 습격당�
 ZKN_SHIELD_459_000	배에 열리는 아이스크림 같은 나무열매는 가라르에 사는 달막화들이 매우 좋아한다.
 ZKN_SHIELD_460_000	블리자드를 일으키는 포켓몬이다. 커다란 몸을 흔들면 부근 일대는 금세 새하얗게 된다.
 ZKN_SHIELD_461_000	발톱으로 사인을 그려 동료와 연락한다. 사인의 종류는 500가지가 넘는다고 한다.
-ZKN_SHIELD_462_000	
-ZKN_SHIELD_463_000	
+ZKN_SHIELD_462_000	특수한 자기장의 영향으로 몸의 분자 구조가 변화해 진화했다고 여겨지고 있다.
+ZKN_SHIELD_463_000	사람의 팔과 견줄 수 있을 정도의 활용도 높은 혀로 뭐든지 한다. 반대로 손은 무디다.
 ZKN_SHIELD_464_000	프로텍터로 공격을 튕겨내고 상대가 풀이 죽으면 특징적인 드릴로 관통한다.
-ZKN_SHIELD_465_000	
+ZKN_SHIELD_465_000	따듯한 땅에서 살수록 덩굴의 성장이 빠르다. 길어지면 스스로 잘라내어 짧게 만든다.
 ZKN_SHIELD_466_000	
 ZKN_SHIELD_467_000	
 ZKN_SHIELD_468_000	은총을 베푸는 존재로 전해지고 있으며 먼 옛날부터 길조로 묘사되어 왔다.
@@ -14338,7 +14432,7 @@ ZKN_SHIELD_470_000	꼬리는 날카로운 칼날 같다. 큰 나무도 두 동�
 ZKN_SHIELD_471_000	글레이시아가 발산하는 냉기는 가루눈을 만들어 내기 때문에 스키장에서 인기가 높다.
 ZKN_SHIELD_472_000	
 ZKN_SHIELD_473_000	생긴 것처럼 힘이 장사다. 얼음으로 된 엄니는 추울수록 굵고 길어지면서 늠름해진다.
-ZKN_SHIELD_474_000	
+ZKN_SHIELD_474_000	추가 프로그램으로 진화했다고 전해지지만 정말 진화인 건지 학회에서도 의견이 나뉜다.
 ZKN_SHIELD_475_000	도움을 구하는 감정을 민감하게 캐치해서 상대가 있는 곳으로 급히 달려가 가세한다.
 ZKN_SHIELD_476_000	
 ZKN_SHIELD_477_000	노린 상대를 배의 입으로 통째로 삼킨다. 영혼만 먹은 뒤 육체는 뱉어내고 떠난다.
@@ -14370,9 +14464,9 @@ ZKN_SHIELD_502_000
 ZKN_SHIELD_503_000	
 ZKN_SHIELD_504_000	
 ZKN_SHIELD_505_000	
-ZKN_SHIELD_506_000	
-ZKN_SHIELD_507_000	
-ZKN_SHIELD_508_000	
+ZKN_SHIELD_506_000	또래의 아이보다 훨씬 영리하다. 사랑받은 것도 혼난 것도 잊지 않는다.
+ZKN_SHIELD_507_000	몸을 뒤덮은 검은 털은 두껍고 탄력이 있다. 날카로운 이빨도 튕겨낸다.
+ZKN_SHIELD_508_000	훌륭한 수염이 특징인 포켓몬이다. 그 길이로 동료들과 우열을 가린다고 한다.
 ZKN_SHIELD_509_000	귀여운 동작으로 방심시키고 상대가 다가오면 갑자기 발톱으로 할퀴고는 웃는다.
 ZKN_SHIELD_510_000	폭슬라이와 영역을 두고 다툰다. 소리를 전혀 내지 않고 먹이의 배후에 접근한다.
 ZKN_SHIELD_511_000	
@@ -14407,17 +14501,17 @@ ZKN_SHIELD_539_000	단련하고 단련한 타격귀가 사용하는 필살 태�
 ZKN_SHIELD_540_000	
 ZKN_SHIELD_541_000	
 ZKN_SHIELD_542_000	
-ZKN_SHIELD_543_000	
-ZKN_SHIELD_544_000	
-ZKN_SHIELD_545_000	
+ZKN_SHIELD_543_000	이빨에 맹독을 지녔다. 먹을 수 있는 먹이를 발견하면 앞뒤를 가리지 않고 덤벼든다.
+ZKN_SHIELD_544_000	단단한 껍질과 독가시로 몸을 보호하면서 진화에 필요한 에너지를 비축하고 있다.
+ZKN_SHIELD_545_000	영역을 두고 다태우지네와 격렬하게 다툰다. 패배한 쪽이 그대로 먹이가 된다.
 ZKN_SHIELD_546_000	소미안과 백솜모카의 솜을 섞어 짠 천은 아름다워서 고급 브랜드에 사용된다.
 ZKN_SHIELD_547_000	햇빛을 받을수록 솜이 부풀어 오른다. 너무 부풀면 찢어져 주위로 흩어진다.
-ZKN_SHIELD_548_000	
-ZKN_SHIELD_549_000	
+ZKN_SHIELD_548_000	잎사귀의 색이 짙을수록 건강하다. 잘 정돈된 밭이나 화단에 자리잡고 살기도 한다.
+ZKN_SHIELD_549_000	꽃으로 만든 정유는 최고의 향을 내지만 눈이 튀어나올 정도로 비싸다.
 ZKN_SHIELD_550_000	옛날에는 식탁에 올랐다. 적색근 배쓰나이의 살코기는 기름이 많아 젊은 층이 좋아한다.
-ZKN_SHIELD_551_000	
-ZKN_SHIELD_552_000	
-ZKN_SHIELD_553_000	
+ZKN_SHIELD_551_000	작지만 하체의 힘은 세다. 모래를 헤치며 사막을 헤엄치듯 이동한다.
+ZKN_SHIELD_552_000	어둠 속에서도 볼 수 있는 특수한 눈을 가졌지만 사막의 밤은 춥기 때문에 잘 움직이지 않는다.
+ZKN_SHIELD_553_000	난폭하지만 먹이를 잡기 위해 모래 속에서 며칠이든 기다리는 강한 인내력도 갖고 있다.
 ZKN_SHIELD_554_000	자고 있을 때는 밀어도 당겨도 절대 쓰러지지 않는다. 길조의 모티브로 인기가 높다.
 ZKN_SHIELD_555_000	체내의 불꽃이 타오를수록 파워가 올라간다. 그 온도는 1400도를 넘기도 한다.
 ZKN_SHIELD_556_000	일 년에 한 번 씨를 뿌린다. 꽃의 씨는 영양이 매우 풍부해 사막의 귀중한 식량이다.
@@ -14434,8 +14528,8 @@ ZKN_SHIELD_566_000
 ZKN_SHIELD_567_000	
 ZKN_SHIELD_568_000	쓰레기가 가득 담긴 쓰레기봉투에서 태어났다. 내뿜는 독가스는 가라르의 또도가스가 매우 좋아한다.
 ZKN_SHIELD_569_000	오른팔에서 내보내는 독액은 약한 생물이 맞으면 즉사할 정도로 위험하다.
-ZKN_SHIELD_570_000	
-ZKN_SHIELD_571_000	
+ZKN_SHIELD_570_000	먹이를 찾아 사람으로 둔갑하여 마을에 나타나기도 한다. 주로 아이로 둔갑한다.
+ZKN_SHIELD_571_000	고독한 트레이너는 조로아크에게 환상을 보여주도록 명령하여 혼자만의 외로움을 달랜다.
 ZKN_SHIELD_572_000	꼬리로 쓰다듬으며 서로 인사한다. 꼬리 털이 많은 쪽이 조금 으스댄다.
 ZKN_SHIELD_573_000	특별한 기름이 스며든 털은 공격을 받아넘긴다. 기름은 높은 가격에 거래되고 있다.
 ZKN_SHIELD_574_000	아무도 없는데 나직이 운다. 고디탱에게만 보이는 뭔가와 이야기하는 듯하다.
@@ -14451,11 +14545,11 @@ ZKN_SHIELD_583_000	마이너스 100도의 냉기로 적을 얼리지만 목숨�
 ZKN_SHIELD_584_000	체온은 마이너스 6도 전후이다. 2마리의 바닐리치가 붙어서 태어났다고 한다.
 ZKN_SHIELD_585_000	
 ZKN_SHIELD_586_000	
-ZKN_SHIELD_587_000	
+ZKN_SHIELD_587_000	달콤한 나무열매를 매우 좋아한다. 볼주머니에 먹이를 너무 많이 넣어 잘 날지 못할 때도 있다.
 ZKN_SHIELD_588_000	입에서 내뿜는 액체로 쪼마리의 껍질을 녹여서 내용물만 먹어 치운다.
 ZKN_SHIELD_589_000	창을 겨누고 적에게 돌격한다. 창파나이트와의 결투를 그린 그림이 유명하다.
-ZKN_SHIELD_590_000	
-ZKN_SHIELD_591_000	
+ZKN_SHIELD_590_000	양손에서 내뿜는 포자는 맹독이지만 잘 말리면 복통약이 된다고 한다.
+ZKN_SHIELD_591_000	평상시에는 잘 움직이지 않는다. 떨어져 있는 몬스터볼 옆에서 그저 가만히 대기할 뿐이다.
 ZKN_SHIELD_592_000	해저에 가라앉은 고대 도시의 주민이 포켓몬이 되었다는 전설이 남아 있다.
 ZKN_SHIELD_593_000	보름달이 뜨면 무리를 거느리고 해수면에 모습을 드러낸다. 먹이가 오기를 기다리는 것이다.
 ZKN_SHIELD_594_000	
@@ -14483,14 +14577,14 @@ ZKN_SHIELD_615_000
 ZKN_SHIELD_616_000	전기 에너지에 반응하는 신비한 체질을 지녔다. 딱정곤과 함께 있으면 무슨 이유인지 진화한다.
 ZKN_SHIELD_617_000	껍질을 벗어 몸이 가벼워졌다. 띠 형태의 점막을 몸에 둘러 건조해지는 것을 방지한다.
 ZKN_SHIELD_618_000	몸의 노란 무늬에서 강한 전기를 발산할 때 무슨 이유인지 살짝 웃고 있다.
-ZKN_SHIELD_619_000	
-ZKN_SHIELD_620_000	
-ZKN_SHIELD_621_000	
+ZKN_SHIELD_619_000	작아도 기질은 거칠다. 방심하고 다가간 상대에게 화려한 연타를 먹인다.
+ZKN_SHIELD_620_000	눈에 보이지 않을 정도의 스피드로 구사하는 발차기는 거대한 바위도 산산이 조각낸다.
+ZKN_SHIELD_621_000	난폭하고 교활하다. 다른 포켓몬이 파낸 굴을 빼앗아 거처로 삼는다.
 ZKN_SHIELD_622_000	점토로 만들어진 포켓몬이다. 수천 년 전 주인의 명령을 지금도 따르고 있다.
 ZKN_SHIELD_623_000	체내에 에너지를 생성하는 영구 기관이 있다고 하지만 아직도 밝혀지지 않았다.
 ZKN_SHIELD_624_000	절각참을 보스로 둔 무리를 만든다. 무리를 이끄는 날을 꿈꾸며 날마다 단련을 계속한다.
 ZKN_SHIELD_625_000	칼날을 가는 돌의 장소를 두고 액슨도와 격렬하게 싸움을 벌인다.
-ZKN_SHIELD_626_000	
+ZKN_SHIELD_626_000	20마리 정도가 무리 지어 산다. 무리를 배신한 버프론은 어째서인지 머리털이 빠진다.
 ZKN_SHIELD_627_000	딱딱한 나무열매도 산산조각 내는 악력을 가졌다. 쉽게 다투고 아무에게나 승부를 건다.
 ZKN_SHIELD_628_000	혈기왕성하고 거칠어서 가라르의 배달부 자리는 아머까오에게 뺏겼다.
 ZKN_SHIELD_629_000	금방 크게 성장하므로 엉덩이의 해골은 둥지 안에서 대물림되어 계속 사용된다.
@@ -14500,8 +14594,8 @@ ZKN_SHIELD_632_000	큰 턱은 암석도 깨물어 부순다. 사다이사로부�
 ZKN_SHIELD_633_000	눈이 보이지 않아 닥치는 대로 물면서 본인 주위의 상황을 파악한다.
 ZKN_SHIELD_634_000	1개의 먹이를 2개의 머리가 서로 뺏는다. 누구랑 싸운 것도 아닌데 언제나 상처투성이다.
 ZKN_SHIELD_635_000	3개의 머리로 번갈아 가며 물어뜯는다. 상대가 쓰러질 때까지 공격을 멈추지 않는다.
-ZKN_SHIELD_636_000	
-ZKN_SHIELD_637_000	
+ZKN_SHIELD_636_000	전신이 제법 따뜻하다. 뿔 끝에서 불꽃을 뿜어 천적이나 먹이를 위협한다.
+ZKN_SHIELD_637_000	활활 타오르는 불의 고치에서 태어났다. 고대의 벽화에 불꽃의 신으로 그려져 있다.
 ZKN_SHIELD_638_000	
 ZKN_SHIELD_639_000	
 ZKN_SHIELD_640_000	
@@ -14525,9 +14619,9 @@ ZKN_SHIELD_657_000
 ZKN_SHIELD_658_000	
 ZKN_SHIELD_659_000	위험에 민감하다. 아머까오의 날갯소리를 들으면 눈 깜짝할 사이에 구멍을 파고 땅으로 숨어든다.
 ZKN_SHIELD_660_000	배의 털은 보온성이 뛰어나다. 옛날 사람들은 파르토의 몸에서 빠진 털로 방한복을 만들었다.
-ZKN_SHIELD_661_000	
-ZKN_SHIELD_662_000	
-ZKN_SHIELD_663_000	
+ZKN_SHIELD_661_000	흥분하면 체온이 확 오른다. 맨손으로 만지면 화상을 입기도 할 정도다.
+ZKN_SHIELD_662_000	영역에 대한 개념이 매우 강하고 호전적이다. 먹이 먹는 장소를 두고 불화살빈끼리 싸운다.
+ZKN_SHIELD_663_000	시속 500km로 돌격한다. 먹이가 도망칠 틈을 주지 않고 강렬한 발차기로 꼼짝 못 하게 한다.
 ZKN_SHIELD_664_000	
 ZKN_SHIELD_665_000	
 ZKN_SHIELD_666_000	
@@ -14554,10 +14648,10 @@ ZKN_SHIELD_686_000	상대를 향해 발광체를 깜빡여서 전의를 상실�
 ZKN_SHIELD_687_000	역사를 바꿀 정도의 큰 사건은 칼라마네로의 최면 능력과 관련이 있다고 전해진다.
 ZKN_SHIELD_688_000	2마리의 호흡이 맞지 않으면 공격과 방어 어느 쪽도 변변치 않게 되어 살아남지 못한다.
 ZKN_SHIELD_689_000	손바닥의 눈동자가 전후좌우를 감시한다. 위기에 처하면 손발이 멋대로 움직여 적을 쓰러뜨린다.
-ZKN_SHIELD_690_000	
-ZKN_SHIELD_691_000	
-ZKN_SHIELD_692_000	
-ZKN_SHIELD_693_000	
+ZKN_SHIELD_690_000	썩은 해초를 닮아서 바다를 떠도는 해초 더미 안에 숨어 적의 눈을 속인다.
+ZKN_SHIELD_691_000	머리의 갓을 해면 위로 내밀고 태양 빛을 받아 드래곤 에너지를 만든다.
+ZKN_SHIELD_692_000	오른팔의 집게 안에 담긴 가스를 폭발시켜 탄환처럼 물을 발사해서 상대를 쓰러뜨린다.
+ZKN_SHIELD_693_000	오른팔은 해수 포탄을 발사하는 대포다. 유조선을 가라앉게 할 정도의 위력이다.
 ZKN_SHIELD_694_000	태양광 발전 구조를 가졌다. 발전을 방해하면 스트레스를 받아서 약해진다.
 ZKN_SHIELD_695_000	깃을 펼쳐 태양광을 받으면 대도시에서 사용할 수 있는 전기를 혼자서 발전한다.
 ZKN_SHIELD_696_000	
@@ -14566,12 +14660,12 @@ ZKN_SHIELD_698_000
 ZKN_SHIELD_699_000	
 ZKN_SHIELD_700_000	무서운 드래곤포켓몬을 아름다운 님피아가 퇴치하는 동화가 가라르지방에 남아 있다.
 ZKN_SHIELD_701_000	끝을 내는 결정적인 기술을 쓰기 전에 반드시 포즈를 취한다. 그 틈에 반격당하기도 한다.
-ZKN_SHIELD_702_000	
+ZKN_SHIELD_702_000	전기를 만들어내는 힘이 약해서 콘센트나 다른 전류포켓몬에게 훔친다.
 ZKN_SHIELD_703_000	
 ZKN_SHIELD_704_000	뿔은 뛰어난 감각 기관이다. 적의 기척을 느끼면 바로 숨어들어 살아남아 왔다.
 ZKN_SHIELD_705_000	등의 돌기 안에 작은 뇌가 있다. 먹이에 대한 생각과 적으로부터 도망치는 생각만 한다.
 ZKN_SHIELD_706_000	긴 뿔을 기세 좋게 늘여서 공격한다. 위력은 헤비급 복서 펀치의 100배다.
-ZKN_SHIELD_707_000	
+ZKN_SHIELD_707_000	머리끝으로 금속 이온을 흡수한다. 열쇠를 너무 좋아한 나머지 흉내를 내서 열쇠를 닮은 모습이 되었다고 한다.
 ZKN_SHIELD_708_000	인간의 어린이를 닮은 목소리로 울어 어른을 숲속으로 유인하여 길을 잃게 한다.
 ZKN_SHIELD_709_000	발끝에서 가느다란 뿌리를 뻗고 숲의 나무들과 결속하여 자유자재로 조종하는 힘을 가졌다.
 ZKN_SHIELD_710_000	호박의 구멍에서 나오는 빛을 본 사람과 포켓몬을 최면상태로 만들어 조종한다.
@@ -14608,8 +14702,8 @@ ZKN_SHIELD_740_000
 ZKN_SHIELD_741_000	
 ZKN_SHIELD_742_000	상대가 내뿜는 오라로 다음 행동을 예측한다. 공격을 가볍게 피하고 반격한다.
 ZKN_SHIELD_743_000	비에 젖는 것을 매우 싫어한다. 흐린 날이 많은 가라르지방에서는 모습을 좀처럼 보기 힘들다.
-ZKN_SHIELD_744_000	
-ZKN_SHIELD_745_000	
+ZKN_SHIELD_744_000	목의 바위를 땅에 세게 부딪쳐서 상대를 위협한다. 풀이 죽은 순간에 덮친다.
+ZKN_SHIELD_745_000	빠른 움직임으로 먹이를 차츰차츰 궁지에 몰아넣는다. 이빨은 항상 급소를 노리고 있다.
 ZKN_SHIELD_746_000	위험을 느끼면 눈물을 글썽인다. 눈물의 빛은 그들만의 신호로 신호를 받고 많은 동료가 모인다.
 ZKN_SHIELD_747_000	알로라지방의 시마사리와 달리 가라르의 시마사리는 코산호의 가지의 맛을 아직 모른다.
 ZKN_SHIELD_748_000	고래왕도 사흘 밤낮 괴로워할 정도의 맹독을 체내 독주머니에 듬뿍 비축하고 있다.
@@ -14617,8 +14711,8 @@ ZKN_SHIELD_749_000	흙을 먹어서 만든 진흙을 다리에 바르면 험한 
 ZKN_SHIELD_750_000	10톤이 넘는 짐을 끌고 자지도 쉬지도 않고 가라르지방을 종단할 수 있는 지구력이 있다.
 ZKN_SHIELD_751_000	평소에는 물속에서 생활하지만 먹이를 찾으러 육지로 올라올 때는 수포를 뒤집어쓴다.
 ZKN_SHIELD_752_000	머리의 수포 안에 물거미를 넣어 남은 먹이를 먹이면서 돌봐준다.
-ZKN_SHIELD_753_000	
-ZKN_SHIELD_754_000	
+ZKN_SHIELD_753_000	낮에는 햇빛을 받으며 새근새근 잔다. 한밤중에 잠에서 깨어 활동을 시작한다.
+ZKN_SHIELD_754_000	양팔의 꽃잎은 얇고 예리하다. 빛을 모아 빔을 쏘기도 한다.
 ZKN_SHIELD_755_000	낮에도 어두운 숲에서 생활한다. 점멸하면서 빛나는 포자를 흩뿌려 적을 잠들게 한다.
 ZKN_SHIELD_756_000	한밤중에 숲속에서 빛을 발견하더라도 다가가면 안 된다. 마셰이드가 잠들어 버리게 한다.
 ZKN_SHIELD_757_000	먹이의 뒤로 숨어들어서 눈치채기 전에 독가스를 퍼부어 움직이지 못하게 한다.
@@ -14628,13 +14722,13 @@ ZKN_SHIELD_760_000	격투가가 무색할 정도의 기술로 먹이를 잡아 �
 ZKN_SHIELD_761_000	습격당할 때 흘리는 땀은 달콤하고 맛있다. 그 향기가 적을 더 늘리고 만다.
 ZKN_SHIELD_762_000	쪼아대는 파크로우를 머리의 꼭지로 후려치고 예리한 발차기를 먹인다.
 ZKN_SHIELD_763_000	단단하고 뾰족한 발끝으로 킥을 먹여서 상대의 몸과 마음에 지워지지 않는 상처를 남긴다.
-ZKN_SHIELD_764_000	
+ZKN_SHIELD_764_000	매우 좋은 향기가 나는 포켓몬이다. 몸에 붙이는 꽃이 달라서 큐아링마다 향이 다르다
 ZKN_SHIELD_765_000	숲 구석구석까지 파악하고 있어 상처 입은 포켓몬이 있으면 약초를 찾아 치료한다.
 ZKN_SHIELD_766_000	20마리 정도가 무리 지어 생활한다. 정해진 역할을 해내면서 혹독한 자연에서 꿋꿋하게 살아남았다.
 ZKN_SHIELD_767_000	무리가 모여 다니며 항상 주위를 경계한다. 적의 기척을 느끼면 뿔뿔이 흩어져 도망간다.
 ZKN_SHIELD_768_000	해저의 굴이나 침몰선이 거처다. 케오퍼스와 싸워서 진 쪽이 먹이가 된다.
-ZKN_SHIELD_769_000	
-ZKN_SHIELD_770_000	
+ZKN_SHIELD_769_000	주로 모래사장에 산다. 입안에 손을 넣은 상대를 조종하여 자신을 크게 만든다.
+ZKN_SHIELD_770_000	해변에 살지만 물을 싫어한다. 세찬 비를 맞으면 성의 형태를 유지하지 못한다.
 ZKN_SHIELD_771_000	보습 효과가 뛰어난 점액이 피부를 감싸고 있어 며칠을 육지에 있어도 마르지 않는다.
 ZKN_SHIELD_772_000	신화 속 포켓몬을 모델로 만들었지만 힘이 폭주하는 것을 억제하는 마스크를 쓰고 있다.
 ZKN_SHIELD_773_000	본래의 힘을 해방하게 하는 마지막 요소는 신뢰하는 트레이너와의 유대였다.
@@ -14755,11 +14849,16 @@ ZKN_SHIELD_887_000	뿔에 들어간 드라꼰은 마하의 속도로 날려지�
 ZKN_SHIELD_888_000	오랜 세월 잠들어 있던 자마젠타의 형제자매 또는 라이벌로 불리는 포켓몬이다.
 ZKN_SHIELD_889_000	석상 같은 모습으로 잊혀질 정도의 세월 동안 잠들어 있던 포켓몬이다.
 ZKN_SHIELD_890_000	2만 년 전에 떨어진 운석 안에 있었다. 다이맥스의 수수께끼와 관련이 있는 듯하다.
+ZKN_SHIELD_891_000	머리의 하얗고 긴 털을 잡아당기면 기세가 고조되어 단전에서 파워가 끓어오른다.
+ZKN_SHIELD_892_000	먼 지방의 산악지대에 산다. 낭떠러지 절벽을 달리며 하체를 단련하고 기술을 연마한다.
+ZKN_SHIELD_893_000	몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.
 ZKN_SHIELD_003_001	
+ZKN_SHIELD_003_999	산이 분화하는 듯한 기세로 흩뿌리는 대량의 꽃가루를 많이 들이마시면 정신을 잃는다.
 ZKN_SHIELD_006_001	
 ZKN_SHIELD_006_002	
 ZKN_SHIELD_006_999	섭씨 2000도의 불꽃이 체내에서 소용돌이친다. 울부짖으면 화력이 더 올라간다.
 ZKN_SHIELD_009_001	
+ZKN_SHIELD_009_999	중앙의 주포에서 쏘는 물대포는 산을 관통해서 구멍을 낼 정도의 파괴력이다.
 ZKN_SHIELD_012_999	10톤 트럭도 날려버리는 회오리에 소용돌이치게 하여 맹독의 인분으로 숨통을 끊는다.
 ZKN_SHIELD_015_001	
 ZKN_SHIELD_018_001	
@@ -14774,10 +14873,11 @@ ZKN_SHIELD_025_005	파트너의 모자를 쓰고 있다. 칼로스지방을 함�
 ZKN_SHIELD_025_006	파트너의 모자를 쓰고 있다. 알로라지방을 함께 모험한 증표다.
 ZKN_SHIELD_025_007	파트너의 모자를 쓰고 있다. 운명적인 만남의 소중한 증표다.
 ZKN_SHIELD_025_008	
+ZKN_SHIELD_025_009	파트너의 모자를 쓰고 있다. 여러 세계를 함께 여행하는 소중한 증표다.
 ZKN_SHIELD_025_999	번개 꼬리를 세차게 내려치면 낙뢰에 필적하는 전압과 전류가 상대를 관통한다.
 ZKN_SHIELD_026_001	꼬리를 타고 사이코 파워로 떠올라서 별 모양으로 만든 10만볼트로 공격한다.
-ZKN_SHIELD_027_001	
-ZKN_SHIELD_028_001	
+ZKN_SHIELD_027_001	남쪽 섬의 설산에 산다. 눈보라가 칠 때는 눈 속에 웅크려 휩쓸리지 않도록 가만히 버틴다.
+ZKN_SHIELD_028_001	얼음 가시가 아침 햇살을 받으며 빛나는 모습을 보고자 설산을 오르는 사람이 많다.
 ZKN_SHIELD_037_001	현미경으로 머리나 꼬리의 곱슬한 털을 관찰하면 얼음 알맹이가 생성되는 모습을 알 수 있다.
 ZKN_SHIELD_038_001	설산의 조난자를 산기슭으로 인도해 구해주지만 산을 황폐케 하는 못된 자들은 용서하지 않는다.
 ZKN_SHIELD_050_001	3개의 수염은 감정에 따라 형태를 바꿀 수 있어 동료 사이의 커뮤니케이션에 도움이 된다.
@@ -14795,14 +14895,15 @@ ZKN_SHIELD_077_001	눈동자를 들여다보고 마음을 읽는다. 비뚤어�
 ZKN_SHIELD_078_001	용맹하고 과감하며 자긍심이 높다. 발끝의 털에 사이코 파워를 모아 경쾌하게 숲을 달린다.
 ZKN_SHIELD_079_001	가라르지방에서만 자라는 식물의 씨를 먹은 탓에 꼬리가 매콤한 맛이 되었다.
 ZKN_SHIELD_080_001	
+ZKN_SHIELD_080_002	물고 있는 셀러의 혀를 꼭 쥐면 고둥의 끝부분에서 맹독을 띠는 액체가 분사된다.
 ZKN_SHIELD_083_001	굵고 긴 가라르의 파를 자유자재로 구사하는 과정에서 독자적인 모습으로 변화한 파오리.
 ZKN_SHIELD_088_001	
 ZKN_SHIELD_089_001	
 ZKN_SHIELD_094_001	
 ZKN_SHIELD_094_999	생명을 노리고 함정을 판다. 입 앞에 서면 소중한 사람이 부르는 소리가 들린다.
 ZKN_SHIELD_099_999	강알칼리성의 거품을 내뿜는다. 거품에 닿은 상대의 몸은 순식간에 녹아버린다.
-ZKN_SHIELD_103_001	
-ZKN_SHIELD_105_001	
+ZKN_SHIELD_103_001	에스퍼 능력은 약해졌다. 꼬리의 머리가 미약한 텔레파시로 주위를 살핀다.
+ZKN_SHIELD_105_001	뼈에서 불타고 있는 저주의 불꽃은 영원히 치유되지 않는 아픔을 몸과 마음에 남긴다고 한다.
 ZKN_SHIELD_105_002	
 ZKN_SHIELD_110_001	공장이 모여 있어 공기가 오염되었던 과거에 무슨 이유에서인지 이 모습으로 변했다.
 ZKN_SHIELD_115_001	
@@ -15049,9 +15150,9 @@ ZKN_SHIELD_741_001
 ZKN_SHIELD_741_002	
 ZKN_SHIELD_741_003	
 ZKN_SHIELD_743_001	
-ZKN_SHIELD_744_001	
-ZKN_SHIELD_745_001	
-ZKN_SHIELD_745_002	
+ZKN_SHIELD_744_001	목의 바위를 땅에 세게 부딪쳐서 상대를 위협한다. 풀이 죽은 순간에 덮친다.
+ZKN_SHIELD_745_001	적이 강할수록 피가 끓어오른다. 필살기인 박치기는 거대한 바위도 산산조각으로 부숴버린다.
+ZKN_SHIELD_745_002	냉정하고 사나운 기질을 가졌다. 성미가 까다롭기 때문에 키우기 어려운 포켓몬 중 하나다.
 ZKN_SHIELD_746_001	진형을 만들어 강한 적에 맞선다. 싸움에서 상처를 입으면 뿔뿔이 흩어져 1마리로 돌아간다.
 ZKN_SHIELD_752_001	
 ZKN_SHIELD_754_001	
@@ -15096,6 +15197,9 @@ ZKN_SHIELD_800_002
 ZKN_SHIELD_800_003	
 ZKN_SHIELD_801_001	
 ZKN_SHIELD_809_999	
+ZKN_SHIELD_812_999	고릴타는 숲의 드럼과 하나가 되어 가라르 전 지역을 뒤흔드는 드럼 비트를 만들어 낸다.
+ZKN_SHIELD_815_999	거다이맥스 파워로 인해 화염 볼의 직경은 100m 이상이 되기도 한다.
+ZKN_SHIELD_818_999	저격 실력이 굉장하다. 15km 떨어진 곳에 굴러다니는 나무열매를 관통하는 것도 누워서 떡 먹기다.
 ZKN_SHIELD_823_999	블레이드 버드로 불리는 등에 있는 8장의 날개는 본체와 떨어져 단독으로 적을 습격한다.
 ZKN_SHIELD_826_999	파워를 최대한으로 쥐어짜면 주위에 있는 모두의 마음을 조종할 수 있다.
 ZKN_SHIELD_834_999	먼 옛날 바위산을 깨물어 부숴 홍수를 막은 일이 가라르지방에 전해 내려오고 있다.
@@ -15130,6 +15234,10 @@ ZKN_SHIELD_888_001	온갖 것을 베어버리는 모습에서 요정왕의 검�
 ZKN_SHIELD_889_001	다이맥스 포켓몬의 일격도 매우 쉽게 막아내는 완전무장한 모습이다.
 ZKN_SHIELD_890_001	거대해진 코어에서 무한한 파워가 방출되기 때문에 주위 시공을 일그러뜨린다.
 ZKN_SHIELD_890_999	거대해진 코어에서 무한한 파워가 방출되기 때문에 주위 시공을 일그러뜨린다.
+ZKN_SHIELD_892_001	많은 타격으로 반드시 쓰러뜨리는 것이 신조다. 물 흐르듯 끊임없이 타격 기술을 상대에게 날린다.
+ZKN_SHIELD_892_999	주먹에서 발산되는 에너지가 충격파가 되어 다이맥스한 포켓몬을 일격에 날려버린다.
+ZKN_SHIELD_892_998	분노의 눈빛으로 노려보기만 해도 마음이 부정한 자는 생명을 빼앗긴다고 한다.
+ZKN_SHIELD_893_001	아기 때부터 길러 온 고아를 생각하는 마음이 특별한 힘을 만들어낸다.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_sun_kor.msbt
@@ -15228,7 +15336,7 @@ ZKN_SUN_090_000	껍질의 강도는 다이아몬드보다 높다. 옛날 사람�
 ZKN_SUN_091_000	단단한 껍질은 폭탄이라도 깨지지 않는다. 껍질 속의 정체는 아직 밝혀지지 않았다.
 ZKN_SUN_092_000	폐허가 된 건물에 수상한 빛이 비친다면 그곳에 고오스가 살고 있다.
 ZKN_SUN_093_000	어둠 속에서 인간을 노린다. 차가운 혀로 핥으면 날이 갈수록 약해져 죽음에 이른다.
-ZKN_SUN_094_000	갑자기 졸음이 쏟아진다면 팬텀이 노리고 있다는 증거다. 도망갈 방법은 없으니 포기하자.
+ZKN_SUN_094_000	갑자기 한기가 느껴진다면 팬텀이 노리고 있다는 증거다. 도망갈 방법은 없으니 포기하자.
 ZKN_SUN_095_000	
 ZKN_SUN_096_000	꿈을 먹으며 살아가는 포켓몬이다. 몽나나 몽얌나와 선조가 같다고 여겨지고 있다.
 ZKN_SUN_097_000	상당히 위험한 포켓몬이지만 편안한 잠을 원하는 사람들에게는 구세주로 불리고 있다.
@@ -16202,15 +16310,15 @@ ZKN_SUN_801_001	500년 전 국왕의 딸에게 진상된 당시의 아름다운 
 Text File : zukan_comment_sword_kor.msbt
 ~~~~~~~~~~~~~~~
 ZKN_SWORD_000_000	
-ZKN_SWORD_001_000	
-ZKN_SWORD_002_000	
-ZKN_SWORD_003_000	
+ZKN_SWORD_001_000	태어났을 때부터 등에 식물의 씨앗이 있으며 조금씩 크게 자란다.
+ZKN_SWORD_002_000	등에 있는 봉오리가 크게 자라면 두 다리로 설 수 없게 되는 듯하다.
+ZKN_SWORD_003_000	태양에너지를 양분으로 큰 꽃을 피운다. 양지를 향해 이끌려가듯이 이동한다.
 ZKN_SWORD_004_000	뜨거운 것을 좋아하는 성격이다. 비에 젖으면 꼬리 끝에서 연기가 난다고 한다.
 ZKN_SWORD_005_000	불타는 꼬리를 휘두르며 날카로운 발톱으로 상대를 베어 가르는 몹시 거친 성격이다.
 ZKN_SWORD_006_000	암석도 태워버릴 정도로 작열하는 화염을 뿜어 산불을 일으킬 때가 있다.
-ZKN_SWORD_007_000	
-ZKN_SWORD_008_000	
-ZKN_SWORD_009_000	
+ZKN_SWORD_007_000	기다란 목을 등껍질 속에 감춘 다음 기세 좋게 물대포를 발사한다.
+ZKN_SWORD_008_000	장수의 상징으로 여겨진다. 등껍질에 이끼가 붙어 있는 것은 특히 장수한 어니부기다.
+ZKN_SWORD_009_000	무거운 몸으로 상대를 덮쳐서 기절시킨다. 위기에 처하면 등껍질에 숨는다.
 ZKN_SWORD_010_000	머리의 더듬이로부터 강렬한 냄새를 내어 적을 물리치고 몸을 보호한다.
 ZKN_SWORD_011_000	진화를 기다리고 있는 상태다. 단단해지는 것밖에 할 수 없어서 공격받지 않도록 꿈쩍 않고 있다.
 ZKN_SWORD_012_000	매우 빠르게 날갯짓하면 맹독성의 인분이 바람을 타고 날아간다.
@@ -16228,8 +16336,8 @@ ZKN_SWORD_023_000
 ZKN_SWORD_024_000	
 ZKN_SWORD_025_000	만들어 내는 전기가 강력한 피카츄일수록 볼의 주머니가 부드럽고 잘 늘어난다.
 ZKN_SWORD_026_000	긴 꼬리가 어스가 되어 몸을 지키기 때문에 자신은 고전압에도 마비되지 않는다.
-ZKN_SWORD_027_000	
-ZKN_SWORD_028_000	
+ZKN_SWORD_027_000	건조한 모래땅에서 모래를 끼얹는 것을 좋아한다. 몸에 붙은 지저분한 것들을 떨어뜨리고 물기를 없애는 것이다.
+ZKN_SWORD_028_000	습도가 낮은 땅에서 사는 고지일수록 등에 난 가시의 감촉은 단단하고 매끄럽다.
 ZKN_SWORD_029_000	
 ZKN_SWORD_030_000	
 ZKN_SWORD_031_000	
@@ -16240,8 +16348,8 @@ ZKN_SWORD_035_000	보름달 밤에 삐삐가 모여 춤을 추는 모습을 보�
 ZKN_SWORD_036_000	요정의 동료로 좀처럼 사람 앞에 나타나지 않는다. 기척을 느끼면 바로 도망가는 듯하다.
 ZKN_SWORD_037_000	어리지만 6개의 꼬리가 아름답다. 성장하면 한층 꼬리 수가 늘어난다.
 ZKN_SWORD_038_000	꼬리 하나하나에 신통력이 담겨 있다. 1000년을 산다고 한다.
-ZKN_SWORD_039_000	
-ZKN_SWORD_040_000	
+ZKN_SWORD_039_000	폐활량은 포켓몬 중에서도 톱클래스다. 상대가 잠들 때까지 자장가를 계속 부른다.
+ZKN_SWORD_040_000	숨을 들이쉬면 쉴수록 몸이 부푼다. 기분이 나빠지면 몸을 커다랗게 부풀려 상대에게 위압을 가한다.
 ZKN_SWORD_041_000	
 ZKN_SWORD_042_000	
 ZKN_SWORD_043_000	달빛을 받아 움직인다. 밤중에 씨앗을 여기저기 뿌리기 위해 돌아다닌다.
@@ -16255,35 +16363,35 @@ ZKN_SWORD_050_000	디그다가 지나간 뒤의 대지는 알맞게 땅이 일�
 ZKN_SWORD_051_000	팀워크가 뛰어난 세쌍둥이 디그다. 지하 100km까지 파고들어 지진을 일으킬 때도 있다.
 ZKN_SWORD_052_000	빛나는 물건을 모으는 것을 좋아한다. 기분이 좋을 때는 트레이너에게도 컬렉션을 보여준다.
 ZKN_SWORD_053_000	자존심이 세서 길들이기 힘들다. 마음에 들지 않는 일이 있으면 바로 발톱을 세운다.
-ZKN_SWORD_054_000	
-ZKN_SWORD_055_000	
+ZKN_SWORD_054_000	언제나 두통에 시달린다. 신비한 힘을 폭발시키면 잠시 통증이 진정되는 듯하다.
+ZKN_SWORD_055_000	잔잔히 흐르는 강에 산다. 긴 팔다리로 물을 헤치며 우아하게 헤엄친다.
 ZKN_SWORD_056_000	
 ZKN_SWORD_057_000	
 ZKN_SWORD_058_000	자신보다 강하고 큰 상대라도 겁 없이 맞서는 용감하고 믿음직스런 성격이다.
 ZKN_SWORD_059_000	하루 만에 10000km의 거리를 달리는 모습은 많은 사람을 매료시켜 왔다.
-ZKN_SWORD_060_000	
-ZKN_SWORD_061_000	
-ZKN_SWORD_062_000	
-ZKN_SWORD_063_000	
-ZKN_SWORD_064_000	
-ZKN_SWORD_065_000	
+ZKN_SWORD_060_000	걷기보다 헤엄치기가 특기다. 배의 소용돌이 모양은 내장의 일부가 비쳐 보이는 것이다.
+ZKN_SWORD_061_000	배의 소용돌이를 계속 보다 보면 잠이 온다. 자장가 대용으로 아이를 재울 때도 사용한다.
+ZKN_SWORD_062_000	전신이 근육 덩어리다. 추운 바다에서도 늠름한 팔로 유빙을 부수며 힘차게 나아간다.
+ZKN_SWORD_063_000	자면서 초능력을 구사한다. 꿈의 내용이 사용하는 힘에 영향을 준다.
+ZKN_SWORD_064_000	사이코 파워로 공중에 떠서 잠든다. 탄력이 뛰어난 꼬리를 베개 대신으로 사용한다.
+ZKN_SWORD_065_000	매우 높은 지능을 지녔다. 태어나서 죽을 때까지 일어나는 일을 모두 기억한다고 한다.
 ZKN_SWORD_066_000	몸집은 어린아이만 하지만 온몸이 근육으로 되어 있어서 어른 100명은 날려 버릴 수 있다.
 ZKN_SWORD_067_000	엄청나게 강한 육체를 지녔기 때문에 파워 세이브 벨트를 차서 힘을 제어하고 있다.
 ZKN_SWORD_068_000	4개의 팔을 재빠르게 움직여서 모든 각도에서 쉬지 않고 펀치와 당수를 날린다.
 ZKN_SWORD_069_000	
 ZKN_SWORD_070_000	
 ZKN_SWORD_071_000	
-ZKN_SWORD_072_000	
-ZKN_SWORD_073_000	
+ZKN_SWORD_072_000	헤엄치는 힘은 강하지 않다. 얕은 바다 수면을 떠다니면서 먹이를 찾는다.
+ZKN_SWORD_073_000	머리의 빨간 구슬이 밝게 빛나면 주의가 필요하다. 초음파를 발산하려는 전조다.
 ZKN_SWORD_074_000	
 ZKN_SWORD_075_000	
 ZKN_SWORD_076_000	
 ZKN_SWORD_077_000	갓 태어났을 때는 달리는 것이 서툴다. 동료와 달리기 경주를 하는 사이에 하반신이 튼튼하게 성장한다.
 ZKN_SWORD_078_000	불타는 갈기를 휘날리며 시속 240km의 속도로 넓은 초원을 달려나간다.
-ZKN_SWORD_079_000	
-ZKN_SWORD_080_000	
-ZKN_SWORD_081_000	
-ZKN_SWORD_082_000	
+ZKN_SWORD_079_000	멍청하고 둔감하다. 꼬리를 먹혀도 아픔을 느끼지 못하고 꼬리가 다시 자라도 눈치채지 못한다.
+ZKN_SWORD_080_000	셀러에게 꼬리를 물려서 진화했다. 셀러는 꼬리에서 배어 나오는 단맛에 황홀한 기분이다.
+ZKN_SWORD_081_000	체내의 전기가 끊겨 땅에서 뒹굴기도 한다. 전지를 주면 움직이기 시작한다.
+ZKN_SWORD_082_000	3마리의 코일이 연결되었다. 강력한 전파를 발산해 주위의 상황을 관측한다.
 ZKN_SWORD_083_000	날개로 쥐고 있는 파 줄기를 칼처럼 휘둘러 상대를 베어버린다. 몹시 허기질 때는 먹기도 한다.
 ZKN_SWORD_084_000	
 ZKN_SWORD_085_000	
@@ -16303,33 +16411,33 @@ ZKN_SWORD_098_000	바다 근처에서 발견된다. 커다란 집게는 뜯겨�
 ZKN_SWORD_099_000	단단한 집게는 1만 마력의 파워를 지녔지만 너무 커서 움직임이 둔하다.
 ZKN_SWORD_100_000	
 ZKN_SWORD_101_000	
-ZKN_SWORD_102_000	
-ZKN_SWORD_103_000	
-ZKN_SWORD_104_000	
-ZKN_SWORD_105_000	
+ZKN_SWORD_102_000	알처럼 보이지만 엄연한 포켓몬이다. 텔레파시로 동료와 교신하는 듯하다.
+ZKN_SWORD_103_000	3개의 머리는 서로 다른 생각을 하고 있다. 자신 외에는 별로 흥미가 없는 듯하다.
+ZKN_SWORD_104_000	죽은 어머니를 떠올리며 울면 머리에 쓴 뼈 안에서 울음소리가 구슬프게 퍼진다.
+ZKN_SWORD_105_000	슬픔을 극복하고 늠름하게 진화했다. 뼈를 무기 삼아 용감하게 적과 맞서 싸운다.
 ZKN_SWORD_106_000	훌륭한 밸런스 감각으로 어떤 자세라도 연속 킥을 날리는 대단한 녀석이다.
 ZKN_SWORD_107_000	주변의 공기를 가르는 펀치. 스치기만 해도 화상을 입을 정도로 펀치 스피드가 매우 빠르다.
-ZKN_SWORD_108_000	
+ZKN_SWORD_108_000	끈적끈적한 타액에 접촉한 후 그대로 방치하면 굉장히 가렵고 급기야 멈출 수 없게 된다.
 ZKN_SWORD_109_000	독가스로 몸 안이 가득 차 있다. 음식물 쓰레기의 악취에 이끌려 쓰레기장을 찾아간다.
 ZKN_SWORD_110_000	2개의 몸에서 가스를 섞는다. 과거의 가라르에서는 흔하게 볼 수 있었다고 한다.
 ZKN_SWORD_111_000	머리는 나쁘지만 힘이 세서 고층 빌딩도 몸통박치기로 산산조각 낸다.
 ZKN_SWORD_112_000	진화하여 뒷다리만으로 서게 되었다. 뿔로 찌르면 암석에도 구멍이 뚫리고 만다.
-ZKN_SWORD_113_000	
-ZKN_SWORD_114_000	
-ZKN_SWORD_115_000	
-ZKN_SWORD_116_000	
-ZKN_SWORD_117_000	
+ZKN_SWORD_113_000	알은 영양 만점에 맛도 뛰어나다. 고급 식재료로 취급된다.
+ZKN_SWORD_114_000	잘려도 잘려도 무한으로 늘어나는 덩굴 속의 정체는 아직 밝혀지지 않았다.
+ZKN_SWORD_115_000	배의 주머니에 새끼가 있지만 발놀림은 매우 가볍다. 재빠른 잽으로 상대를 위협한다.
+ZKN_SWORD_116_000	잔잔하게 흐르는 고요한 바다에 산다. 습격당하면 새까만 먹물을 내뿜고 그 틈에 도망친다.
+ZKN_SWORD_117_000	수컷이 새끼를 기른다. 새끼를 기르는 동안 등에 난 가시의 독소는 강해지고 짙어진다.
 ZKN_SWORD_118_000	등, 가슴, 꼬리지느러미가 우아하게 나부끼기 때문에 물의 무희라고 불린다.
 ZKN_SWORD_119_000	가을이 되면 짝짓기를 위해 몸에 윤기가 돌게 되며 매우 아름다운 색으로 변화한다.
-ZKN_SWORD_120_000	
-ZKN_SWORD_121_000	
+ZKN_SWORD_120_000	늦여름 해변에 가면 규칙적인 리듬으로 빛나는 별가사리의 무리를 볼 수 있다.
+ZKN_SWORD_121_000	강렬한 사이코 파워를 발산할 때 코어라고 불리는 기관이 일곱 색깔로 빛난다.
 ZKN_SWORD_122_000	커다란 손바닥은 팬터마임을 하기 위해 발달했다고 생각하는 학자도 많다.
-ZKN_SWORD_123_000	
+ZKN_SWORD_123_000	싸움을 거듭하면서 낫은 점점 더 날카로워진다. 거목도 일도양단으로 베어 가른다.
 ZKN_SWORD_124_000	
 ZKN_SWORD_125_000	
 ZKN_SWORD_126_000	
-ZKN_SWORD_127_000	
-ZKN_SWORD_128_000	
+ZKN_SWORD_127_000	뿔로 서로의 등급을 매긴다. 굵고 훌륭한 뿔을 가진 쁘사이저일수록 이성에게 인기다.
+ZKN_SWORD_128_000	꼬리로 자신의 몸을 때리기 시작하면 위험하다. 맹렬한 스피드로 덤벼든다.
 ZKN_SWORD_129_000	힘도 스피드도 거의 없다. 세상에서 가장 약하고 한심한 포켓몬이다.
 ZKN_SWORD_130_000	성격이 매우 흉포하다. 입에서 나오는 파괴광선은 모든 것을 태워버린다.
 ZKN_SWORD_131_000	영리하고 마음 착한 포켓몬. 아름다운 소리로 노래 부르며 바다 위를 헤엄친다.
@@ -16338,7 +16446,7 @@ ZKN_SWORD_133_000	주위의 환경에 맞춰서 몸의 구조를 바꿔나가는
 ZKN_SWORD_134_000	샤미드의 모든 지느러미가 조금씩 떨리기 시작했다면 몇 시간 뒤에 비가 내린다는 표시다.
 ZKN_SWORD_135_000	화가 나거나 놀라면 전신의 털이 바늘처럼 곤두서서 상대를 꿰뚫는다.
 ZKN_SWORD_136_000	체내에 불꽃이 쌓이면 부스터의 체온도 최고 900도까지 오른다.
-ZKN_SWORD_137_000	
+ZKN_SWORD_137_000	최고의 과학 기술을 사용해 세계에서 처음으로 프로그래밍되어 만들어진 인공 포켓몬이다.
 ZKN_SWORD_138_000	
 ZKN_SWORD_139_000	
 ZKN_SWORD_140_000	
@@ -16375,7 +16483,7 @@ ZKN_SWORD_170_000	지느러미가 변해서 만들어진 촉수는 각각 플러
 ZKN_SWORD_171_000	랜턴이 내는 빛은 5000m의 깊이에서도 수면까지 전해질 정도로 밝다.
 ZKN_SWORD_172_000	작아도 어른을 찌릿찌릿 감전시킬 정도의 전기를 낸다. 단, 자신도 놀라 어찌할 줄 모른다.
 ZKN_SWORD_173_000	삐가 자주 보이는 장소는 별똥별이 떨어진 장소라고 그 고장에서 소문이 돈다.
-ZKN_SWORD_174_000	
+ZKN_SWORD_174_000	노래 부르기를 굉장히 좋아한다. 마시멜로 같은 몸에서는 은은하게 달콤한 냄새가 난다.
 ZKN_SWORD_175_000	껍질 안에 행복이 가득 차 있어서 상냥하게 대해준 사람에게 행운을 나누어 준다고 한다.
 ZKN_SWORD_176_000	마음 착한 사람에게 행복을 가져다주기 위해 모습을 드러낸다고 전해진다.
 ZKN_SWORD_177_000	능숙하게 나무줄기를 타고 올라간다. 가지 끝에 새로 자란 나무순을 즐겨 먹는다.
@@ -16384,10 +16492,10 @@ ZKN_SWORD_179_000
 ZKN_SWORD_180_000	
 ZKN_SWORD_181_000	
 ZKN_SWORD_182_000	남국에 널리 분포하여 서식하고 있다. 춤출 때 꽃잎끼리 서로 부딪혀서 기분 좋은 소리가 울려 퍼진다.
-ZKN_SWORD_183_000	
-ZKN_SWORD_184_000	
+ZKN_SWORD_183_000	둥근 꼬리는 튜브 대용이다. 그 안에는 영양으로 가득 찬 기름이 들어 있다.
+ZKN_SWORD_184_000	하루의 대부분을 물속에서 지낸다. 맑은 날에는 수면으로 올라와서 햇볕을 쬔다.
 ZKN_SWORD_185_000	바람도 불지 않는데 흔들리는 나무를 발견했다면 그게 바로 꼬지모다. 비가 오는 날에는 모습을 감춘다고 한다.
-ZKN_SWORD_186_000	
+ZKN_SWORD_186_000	밤이 되면 연못 근처에 나타난다. 고함치는 듯한 울음소리로 영역을 알린다.
 ZKN_SWORD_187_000	
 ZKN_SWORD_188_000	
 ZKN_SWORD_189_000	
@@ -16400,22 +16508,22 @@ ZKN_SWORD_195_000	배의 밑바닥이나 물가의 바위에 머리를 부딪쳐
 ZKN_SWORD_196_000	공기의 흐름을 읽어내서 앞으로의 날씨와 상대의 움직임 등을 모두 맞혀버린다.
 ZKN_SWORD_197_000	화가 나면 전신의 모공으로부터 독소가 섞인 땀을 뿜어내어 상대의 눈을 노린다.
 ZKN_SWORD_198_000	
-ZKN_SWORD_199_000	
+ZKN_SWORD_199_000	셀러의 독소가 야돈의 뇌를 돌아다니면서 숨겨진 지능을 기적적으로 각성시켰다.
 ZKN_SWORD_200_000	
 ZKN_SWORD_201_000	
 ZKN_SWORD_202_000	빛과 쇼크를 싫어한다. 공격받으면 몸이 부풀어올라 반격이 강력해진다.
 ZKN_SWORD_203_000	
 ZKN_SWORD_204_000	
 ZKN_SWORD_205_000	
-ZKN_SWORD_206_000	
+ZKN_SWORD_206_000	작은 날개를 갖고 있어서 먼 옛날에는 하늘을 날았다고 주장하는 학자도 있다.
 ZKN_SWORD_207_000	
 ZKN_SWORD_208_000	롱스톤이 100년 이상 살면 몸의 성분이 다이아몬드처럼 변한다고 전해진다.
 ZKN_SWORD_209_000	
 ZKN_SWORD_210_000	
 ZKN_SWORD_211_000	상대가 크면 클수록 몸이 터지기 직전까지 물을 들이마셔서 몸을 부풀린다.
-ZKN_SWORD_212_000	
+ZKN_SWORD_212_000	커다란 집게의 무게는 체중의 3분의 1이다. 내리치면 암석도 일격에 산산조각이 난다.
 ZKN_SWORD_213_000	껍질 속에 열매가 비축되어 있다. 공격받지 않도록 바위 밑에 틀어박혀 꼼짝하지 않는다.
-ZKN_SWORD_214_000	
+ZKN_SWORD_214_000	달콤한 수액을 매우 좋아한다. 2개의 더듬이로 냄새를 따라 숲을 찾아다닌다.
 ZKN_SWORD_215_000	예리한 손톱을 손가락 안에 감추고 있다. 갑자기 뻗어서 습격해온 상대를 풀죽게 만든다.
 ZKN_SWORD_216_000	
 ZKN_SWORD_217_000	
@@ -16428,13 +16536,13 @@ ZKN_SWORD_223_000	입에서 뿜어내는 수류는 100m 앞에서 움직이는 �
 ZKN_SWORD_224_000	구멍에 들어가고 싶어하는 성질이 있어 다른 포켓몬이 만든 굴을 빼앗고 그곳에서 잠을 잔다.
 ZKN_SWORD_225_000	온종일 먹이를 운반한다. 조난당한 사람이 딜리버드의 먹이로 살아났다는 이야기도 있다.
 ZKN_SWORD_226_000	헤엄쳐서 스피드가 빨라지면 파도 위로 뛰어올라 그대로 100m나 활공한다.
-ZKN_SWORD_227_000	
+ZKN_SWORD_227_000	날카로운 날개는 검보다 예리하다. 영역을 두고 아머까오와 격렬하게 싸운다.
 ZKN_SWORD_228_000	
 ZKN_SWORD_229_000	
-ZKN_SWORD_230_000	
+ZKN_SWORD_230_000	폭풍우가 휘몰아치면 해수면에 모습을 드러낸다. 망나뇽과 맞닥뜨리면 격렬한 싸움이 시작된다.
 ZKN_SWORD_231_000	
 ZKN_SWORD_232_000	
-ZKN_SWORD_233_000	
+ZKN_SWORD_233_000	폴리곤을 특별한 데이터로 업데이트했다. 다양한 것을 스스로 배우고 성장한다.
 ZKN_SWORD_234_000	
 ZKN_SWORD_235_000	
 ZKN_SWORD_236_000	항상 기운이 넘친다. 강해지기 위해 지고 또 져도 계속 상대에게 맞선다.
@@ -16442,8 +16550,8 @@ ZKN_SWORD_237_000	빙글빙글 돌며 킥을 날린다. 고속으로 돌다 보�
 ZKN_SWORD_238_000	
 ZKN_SWORD_239_000	
 ZKN_SWORD_240_000	
-ZKN_SWORD_241_000	
-ZKN_SWORD_242_000	
+ZKN_SWORD_241_000	영양 만점의 우유를 만들어내서 옛날부터 사람과 포켓몬의 삶을 지탱해왔다.
+ZKN_SWORD_242_000	약해진 포켓몬을 발견하면 자신의 알을 나눠주고 치료될 때까지 병간호한다.
 ZKN_SWORD_243_000	
 ZKN_SWORD_244_000	
 ZKN_SWORD_245_000	
@@ -16494,12 +16602,12 @@ ZKN_SWORD_289_000
 ZKN_SWORD_290_000	긴 시간 동안 땅속에서 살았기 때문에 눈이 거의 보이지 않는다. 더듬이로 주변 상황을 살핀다.
 ZKN_SWORD_291_000	울음소리를 계속 들으면 두통이 낫지 않게 된다. 안 보일 정도의 스피드로 움직인다.
 ZKN_SWORD_292_000	토중몬이 진화할 때 어느샌가 몬스터볼에 들어와 있는 신기한 포켓몬이다.
-ZKN_SWORD_293_000	
-ZKN_SWORD_294_000	
-ZKN_SWORD_295_000	
+ZKN_SWORD_293_000	울음소리는 100데시벨을 넘는 음량이다. 가까이에서 울면 온종일 두통에 시달린다.
+ZKN_SWORD_294_000	귀는 스피커 역할을 한다. 집 한 채를 날려버릴 위력의 음파를 귀에서 내뿜는다.
+ZKN_SWORD_295_000	옛날 사람은 멀리 떨어진 마을끼리 연락하는 방법으로 폭음룡의 큰 목소리를 사용했다.
 ZKN_SWORD_296_000	
 ZKN_SWORD_297_000	
-ZKN_SWORD_298_000	
+ZKN_SWORD_298_000	고무공처럼 튀는 꼬리의 구슬에는 성장에 필요한 영양분이 가득 들어 있다.
 ZKN_SWORD_299_000	
 ZKN_SWORD_300_000	
 ZKN_SWORD_301_000	
@@ -16519,8 +16627,8 @@ ZKN_SWORD_314_000
 ZKN_SWORD_315_000	꽃향기를 맡으면 기분이 편안해진다. 향이 강하면 건강한 로젤리아라는 뜻이다.
 ZKN_SWORD_316_000	
 ZKN_SWORD_317_000	
-ZKN_SWORD_318_000	
-ZKN_SWORD_319_000	
+ZKN_SWORD_318_000	먹이를 발견해도 혼자일 때는 공격하지 않는다. 동료가 오는 것을 기다린 다음 집단으로 공격한다.
+ZKN_SWORD_319_000	먹이의 냄새를 맡으면 엉덩이로 바닷물을 내뿜어서 시속 120km의 속도로 습격한다.
 ZKN_SWORD_320_000	들이마신 바닷물을 눈 위의 콧구멍으로 뿜어내어 어필한다. 매일 1톤의 약어리를 먹는다.
 ZKN_SWORD_321_000	커다란 몸으로 파도 위에서 점프해서 그 충격으로 상대를 기절시킬 때가 있다.
 ZKN_SWORD_322_000	
@@ -16604,9 +16712,9 @@ ZKN_SWORD_399_000
 ZKN_SWORD_400_000	
 ZKN_SWORD_401_000	
 ZKN_SWORD_402_000	
-ZKN_SWORD_403_000	
-ZKN_SWORD_404_000	
-ZKN_SWORD_405_000	
+ZKN_SWORD_403_000	근육을 수축해서 전기를 만든다. 몸을 떠는 것은 격렬하게 전기를 발생시키고 있다는 증거다.
+ZKN_SWORD_404_000	꼬리를 이어서 동료로부터 전기 에너지를 나눠 받으면 보다 강한 전격을 내보낼 수 있다.
+ZKN_SWORD_405_000	투시 능력을 가진 포켓몬. 두꺼운 벽 반대편에 숨어 있는 먹이를 순식간에 찾아낸다.
 ZKN_SWORD_406_000	독을 품고 있는 꽃가루를 뿌린다. 맑은 물을 줘서 키울수록 독성은 더욱 강해진다.
 ZKN_SWORD_407_000	향긋한 꽃향기로 상대를 혼란스럽게 한 다음 가시 채찍으로 세차게 때린다.
 ZKN_SWORD_408_000	
@@ -16628,8 +16736,8 @@ ZKN_SWORD_423_000	먹이를 찾아 육지에도 올라온다. 트리토돈이 �
 ZKN_SWORD_424_000	
 ZKN_SWORD_425_000	동료가 필요한지 아이에게 다가가지만 거칠게 다뤄져서 도망가 버리는 경우도 적지 않다.
 ZKN_SWORD_426_000	억울하게 죽은 영혼이 모인 모습으로도 일컬어진다. 땅거미가 질 무렵 소리 없이 떠돈다.
-ZKN_SWORD_427_000	
-ZKN_SWORD_428_000	
+ZKN_SWORD_427_000	양쪽 귀를 말고 있을 때는 몸이나 마음이 좋지 않다는 뜻이므로 관리가 필요하다.
+ZKN_SWORD_428_000	주위 상황을 항상 신경 쓰고 있으며 위험이 닥치면 무시무시한 파괴력을 가진 킥을 날린다.
 ZKN_SWORD_429_000	
 ZKN_SWORD_430_000	
 ZKN_SWORD_431_000	
@@ -16641,7 +16749,7 @@ ZKN_SWORD_436_000	오래된 유적에 나타난다. 몸의 무늬는 가라르�
 ZKN_SWORD_437_000	비구름을 부르는 신이라 불린다. 화나게 하면 종소리를 닮은 불길한 소리로 위협한다.
 ZKN_SWORD_438_000	땀과 눈물이 모두 눈에서 나온다. 땀은 약간 짠맛이고 눈물은 살짝 씁쓸한 맛이다.
 ZKN_SWORD_439_000	보이는 모든 것을 흉내 낸다. 마임꽁꽁의 화려한 스텝을 끊임없이 흉내 내며 연습한다.
-ZKN_SWORD_440_000	
+ZKN_SWORD_440_000	럭키를 흉내 내어 알처럼 생긴 둥근 돌을 배의 주머니에 넣고 소중히 보관한다.
 ZKN_SWORD_441_000	
 ZKN_SWORD_442_000	
 ZKN_SWORD_443_000	
@@ -16663,10 +16771,10 @@ ZKN_SWORD_458_000	바다의 수온이 낮기 때문인지 가라르지방에 사
 ZKN_SWORD_459_000	눈이 많이 쌓인 산에 산다. 눈에 다리를 찔러 넣어 수분과 냉기를 흡수한다.
 ZKN_SWORD_460_000	거대한 팔을 해머처럼 내리쳐서 눈쓰개를 노리는 달막화 무리를 내쫓는다.
 ZKN_SWORD_461_000	무리를 지어 먹이를 공격한다. 팀플레이로 맘모꾸리 같은 큰 상대도 손쉽게 처리한다.
-ZKN_SWORD_462_000	
-ZKN_SWORD_463_000	
+ZKN_SWORD_462_000	머리의 안테나로 누군가가 보낸 전파를 우주로부터 수신하여 조종당하고 있다고 전해진다.
+ZKN_SWORD_463_000	몸의 몇 배의 길이로 늘어나는 신비한 혀를 가졌다. 그 비밀은 아직 밝혀지지 않았다.
 ZKN_SWORD_464_000	손에 난 구멍에 바위나 단굴을 끼운 뒤 발사한다. 장전할 수 있는 수는 한쪽 팔당 3개씩이다.
-ZKN_SWORD_465_000	
+ZKN_SWORD_465_000	자유자재로 늘어나는 2개의 팔은 덩굴이 뭉쳐진 것이었다는 사실이 최근 연구로 밝혀졌다.
 ZKN_SWORD_466_000	
 ZKN_SWORD_467_000	
 ZKN_SWORD_468_000	분쟁이나 다툼이 일어나는 장소에는 모습을 드러내지 않는다. 최근에는 거의 보이지 않는다.
@@ -16675,7 +16783,7 @@ ZKN_SWORD_470_000	잎사귀에서 나는 독특한 향기는 가라르인들의 
 ZKN_SWORD_471_000	다이아몬드더스트를 내리게 한다. 그 아름다움에 현혹된 먹이는 눈치채기도 전에 얼어붙어 버린다.
 ZKN_SWORD_472_000	
 ZKN_SWORD_473_000	1만 년 전의 벽화에도 그려져 있다. 멸종되었다고 여겨지던 시기도 있었다.
-ZKN_SWORD_474_000	
+ZKN_SWORD_474_000	다른 공간에 드나들 수 있는 프로그램을 추가한 결과 움직임이 불안정해졌다.
 ZKN_SWORD_475_000	무사라 불리는 포켓몬. 무언가를 지킬 때가 아니면 팔꿈치의 칼날을 사용하지 않는다.
 ZKN_SWORD_476_000	
 ZKN_SWORD_477_000	의지가 있는 것인지 알 수 없다. 영계로부터의 전파에 따라 사람이나 포켓몬을 데리고 간다.
@@ -16707,9 +16815,9 @@ ZKN_SWORD_502_000
 ZKN_SWORD_503_000	
 ZKN_SWORD_504_000	
 ZKN_SWORD_505_000	
-ZKN_SWORD_506_000	
-ZKN_SWORD_507_000	
-ZKN_SWORD_508_000	
+ZKN_SWORD_506_000	용감하고 신중하다. 얼굴을 덮고 있는 부드러운 털로 주변의 정보를 캐치한다.
+ZKN_SWORD_507_000	매우 영리하고 금방 친해진다. 인간의 파트너가 된 첫 포켓몬이라는 설도 있다.
+ZKN_SWORD_508_000	사람과 사는 것을 좋아하는 듯하다. 야생에서 잡아도 3일만 지나면 사람을 따르게 된다.
 ZKN_SWORD_509_000	곤란해하는 모습을 보기 위해 사람의 물건을 훔친다. 훔처우와는 라이벌 관계다.
 ZKN_SWORD_510_000	아름다운 털과 스타일에 쉽게 매료되지만 변덕스럽고 흉포한 포켓몬이다.
 ZKN_SWORD_511_000	
@@ -16744,17 +16852,17 @@ ZKN_SWORD_539_000	한결같이 강해지기를 추구한다. 산에서 수행 �
 ZKN_SWORD_540_000	
 ZKN_SWORD_541_000	
 ZKN_SWORD_542_000	
-ZKN_SWORD_543_000	
-ZKN_SWORD_544_000	
-ZKN_SWORD_545_000	
+ZKN_SWORD_543_000	태우지네와는 종류가 다른 동료지만 서로 만나면 큰 싸움이 된다.
+ZKN_SWORD_544_000	고속으로 회전해 상대에게 돌격한다. 최고 시속은 약 100km에 달한다.
+ZKN_SWORD_545_000	목의 가시로 먹이를 잡은 채 그대로 땅으로 내동댕이쳐서 독가시를 꽂는다.
 ZKN_SWORD_546_000	솜을 날려 몸을 지킨다. 태풍의 바람에 휩쓸려 지구 반대편까지 갈 때도 있다.
 ZKN_SWORD_547_000	솜을 흩뿌리며 장난을 친다. 물을 끼얹으면 무거워져서 움직일 수 없게 되어 포기한다.
-ZKN_SWORD_548_000	
-ZKN_SWORD_549_000	
+ZKN_SWORD_548_000	깨끗한 물가에 나타난다. 머리의 잎을 우려낸 즙은 벌레를 쫓는 데 사용하기도 한다.
+ZKN_SWORD_549_000	일류 원예가라 하더라도 머리의 꽃을 피우는 일은 매우 어렵다고 전해진다.
 ZKN_SWORD_550_000	힘이 세기 때문에 낚시꾼들에게 인기가 많다. 무단으로 연못에 놓아줘서 점점 개체 수가 늘어나고 있다.
-ZKN_SWORD_551_000	
-ZKN_SWORD_552_000	
-ZKN_SWORD_553_000	
+ZKN_SWORD_551_000	사막의 밤은 기온이 낮기 때문에 모래 깊숙이 파고들어 해가 뜰 때까지 잠을 자면서 생활한다.
+ZKN_SWORD_552_000	어둠 속에서도 볼 수 있는 특수한 두 눈 덕분에 한밤중에도 거침없이 사냥할 수 있다.
+ZKN_SWORD_553_000	모래의 건달이라고도 불린다. 강력한 턱으로 두꺼운 철판도 쉽게 물어뜯는다.
 ZKN_SWORD_554_000	몸 안에서 타오르는 불꽃이 힘의 원천이다. 불꽃이 작아지면 금세 잠들어 버린다.
 ZKN_SWORD_555_000	혈기왕성한 포켓몬. 굵직한 팔에서 날리는 펀치는 덤프트럭도 가루로 만들어버린다.
 ZKN_SWORD_556_000	마라카스 같은 소리를 낸다. 리듬이 경쾌해서 새포켓몬은 깜짝 놀라 허둥지둥 날아가버린다.
@@ -16771,8 +16879,8 @@ ZKN_SWORD_566_000
 ZKN_SWORD_567_000	
 ZKN_SWORD_568_000	비위생적인 장소를 좋아한다. 쓰레기를 어질러놓은 채 내버려 두면 방에 나타나 그대로 눌러앉는다.
 ZKN_SWORD_569_000	먹은 쓰레기가 체내에서 독으로 변화한다. 먹은 쓰레기에 따라 독의 주성분도 바뀐다.
-ZKN_SWORD_570_000	
-ZKN_SWORD_571_000	
+ZKN_SWORD_570_000	무언가로 둔갑하는 능력을 익힌 것은 겁이 많은 성질의 영향인 듯하다.
+ZKN_SWORD_571_000	동료애가 깊은 포켓몬이다. 무서운 환상을 보게 만들어서 거처나 무리를 지킨다.
 ZKN_SWORD_572_000	꼬리로 더러운 것을 떨어낸다. 청소를 할 때는 도움이 되지만 결벽증이 있어서 힘들기도 하다.
 ZKN_SWORD_573_000	먼지 한 톨도 용납하지 않는 결벽증. 몸에서 나오는 기름을 둥지에 발라서 코팅한다.
 ZKN_SWORD_574_000	아직 아기지만 리본을 닮은 더듬이에 모아둔 사이코 파워로 싸울 때도 있다.
@@ -16788,11 +16896,11 @@ ZKN_SWORD_583_000	깨끗한 물을 마셔서 얼음으로 된 몸을 크게 만�
 ZKN_SWORD_584_000	분노가 정점에 달하면 눈보라를 불게 하여 적도 아군도 꽁꽁 얼려버린다.
 ZKN_SWORD_585_000	
 ZKN_SWORD_586_000	
-ZKN_SWORD_587_000	
+ZKN_SWORD_587_000	전기를 내뿜으며 하늘을 춤추듯이 난다. 귀엽지만 성가시다.
 ZKN_SWORD_588_000	전기 에너지에 반응하는 이상한 체질을 지녔다. 쪼마리와 함께 있으면 진화한다.
 ZKN_SWORD_589_000	쪼마리의 껍질을 빼앗아 완전히 무장했다. 가라르지방에서는 매우 인기가 높다.
-ZKN_SWORD_590_000	
-ZKN_SWORD_591_000	
+ZKN_SWORD_590_000	몬스터볼을 많이 닮았는데 그 의미와 이유는 아직 아무도 모른다.
+ZKN_SWORD_591_000	독 포자를 내뿜는다. 빨리 씻어내지 않으면 그곳에 버섯이 자라난다.
 ZKN_SWORD_592_000	베일과도 같은 손발로 먹이를 끌어안아 8000m 아래의 심해로 끌고 들어간다.
 ZKN_SWORD_593_000	몸의 대부분이 바닷물과 같은 성분으로 이루어져 있다. 침몰선을 거처로 삼는다.
 ZKN_SWORD_594_000	
@@ -16820,14 +16928,14 @@ ZKN_SWORD_615_000
 ZKN_SWORD_616_000	상대에게 공격받으면 껍질의 뚜껑을 꽉 닫아서 몸을 지킨다. 단, 딱정곤에게는 열리고 만다.
 ZKN_SWORD_617_000	재빠른 움직임으로 독을 날려서 싸운다. 어지리더가 주인공인 영화나 만화는 인기가 많다.
 ZKN_SWORD_618_000	갯벌이 보금자리다. 진흙 속에 사는 세균에 의해 전기를 만드는 기관이 발달했다.
-ZKN_SWORD_619_000	
-ZKN_SWORD_620_000	
-ZKN_SWORD_621_000	
+ZKN_SWORD_619_000	잘 단련된 비조푸는 1분에 100회 이상 촙 공격을 할 수 있다.
+ZKN_SWORD_620_000	진정한 강적과 만나면 몸을 가볍게 하기 위해 양손의 털을 물어뜯어 버린다.
+ZKN_SWORD_621_000	토굴에 산다. 몸이 차가워지면 움직이지 못하기 때문에 일광욕을 거르지 않는다.
 ZKN_SWORD_622_000	점토에서 만들어진 고대의 포켓몬. 어째선지 큰 바위를 늘어놓기만 하는 녀석도 있다.
 ZKN_SWORD_623_000	고대인의 성벽에는 골루그가 빔을 쏘기 위한 포대와 같은 대좌가 있다.
 ZKN_SWORD_624_000	예리한 칼날을 다루어 상대를 몰아넣는다. 강가에 있는 돌로 몸에 있는 칼날을 손질한다.
 ZKN_SWORD_625_000	많은 수의 자망칼을 거느리고 있다. 부하들이 배신하지 못하도록 항상 눈에 불을 켜고 있다.
-ZKN_SWORD_626_000	
+ZKN_SWORD_626_000	박치기만으로 자동차를 부순다. 머리의 털이 풍성할수록 무리에서 지위가 올라간다.
 ZKN_SWORD_627_000	강해 보이는 포켓몬을 발견하면 싸움을 걸지 않고는 못 배긴다. 지면 큰 소리로 울어댄다.
 ZKN_SWORD_628_000	용맹하고 긍지 높은 포켓몬. 그 용감한 모습 때문에 엠블럼의 모티브로 인기가 많다.
 ZKN_SWORD_629_000	해골을 입어서 엉덩이를 보호한다. 착용감이 편안한 해골을 두고 동료끼리 옥신각신한다.
@@ -16837,8 +16945,8 @@ ZKN_SWORD_632_000	굴속 깊은 곳에 알을 낳는다. 앤티골에게 공격�
 ZKN_SWORD_633_000	무엇이든 일단 물고 보는 습성을 가졌다. 맛있었던 것은 냄새를 확실히 기억한다고 한다.
 ZKN_SWORD_634_000	영역을 돌아다니며 먹이를 찾는다. 2개의 머리는 어느 쪽으로 갈지로 자주 다툰다.
 ZKN_SWORD_635_000	움직이는 모든 것을 먹어 치운다. 삼삼드래에게 마을이 파괴되었다는 이야기는 많이 전해 내려온다.
-ZKN_SWORD_636_000	
-ZKN_SWORD_637_000	
+ZKN_SWORD_636_000	먼 옛날 사람들은 활화르바가 태양에서 떨어진 것이라고 믿었다.
+ZKN_SWORD_637_000	불꽃의 인분을 흩뿌려 화재를 일으킴으로써 추위에 고통받는 자들을 돕는다고도 한다.
 ZKN_SWORD_638_000	
 ZKN_SWORD_639_000	
 ZKN_SWORD_640_000	
@@ -16862,9 +16970,9 @@ ZKN_SWORD_657_000
 ZKN_SWORD_658_000	
 ZKN_SWORD_659_000	귀로 구멍을 파는 것이 특기다. 지하 10m에 달하는 굴을 하룻밤 만에 만들어버린다.
 ZKN_SWORD_660_000	굴착기에 뒤지지 않는 파워로 단단한 암반도 파고 들어간다. 터널 공사에서 크게 활약한다.
-ZKN_SWORD_661_000	
-ZKN_SWORD_662_000	
-ZKN_SWORD_663_000	
+ZKN_SWORD_661_000	아름답게 지저귀는 소리는 위협하고 있다는 뜻이다. 영역에 들어온 자는 용서 없이 콕콕 쪼아버린다.
+ZKN_SWORD_662_000	굴 속에 불똥을 쏜 다음 놀라서 빠져나온 먹이를 날카로운 발톱으로 잡는다.
+ZKN_SWORD_663_000	새포켓몬이 주요 먹이다. 깃털 사이로 불똥을 뿜어내며 상대를 위협한다.
 ZKN_SWORD_664_000	
 ZKN_SWORD_665_000	
 ZKN_SWORD_666_000	
@@ -16891,10 +16999,10 @@ ZKN_SWORD_686_000	회전하면서 발광체를 깜빡인다. 빛의 패턴으로
 ZKN_SWORD_687_000	발광체의 빛을 보면 순식간에 최면 상태가 되어 칼라마네로에게 조종당한다.
 ZKN_SWORD_688_000	2마리가 해변가의 적당한 바위에 달라붙어서 지낸다. 만조가 되면 협력해서 먹이를 모은다.
 ZKN_SWORD_689_000	7마리의 거북손손이 1마리의 몸을 이루고 있다. 머리가 손발에 명령하는 구조다.
-ZKN_SWORD_690_000	
-ZKN_SWORD_691_000	
-ZKN_SWORD_692_000	
-ZKN_SWORD_693_000	
+ZKN_SWORD_690_000	수초 찌꺼기 틈에서 바다를 떠다니다가 해초를 먹으러 온 포켓몬을 꼼짝 못 하게 한 후 잡아먹는다.
+ZKN_SWORD_691_000	금속을 녹슬게 하는 독액으로 영역에 들어온 유조선을 바다의 부스러기로 만들어 버린다.
+ZKN_SWORD_692_000	집게발은 싸우다가 떨어져도 재생된다. 집게 살은 가라르에서 진미로 통하며 인기가 높다.
+ZKN_SWORD_693_000	거대한 집게의 더듬이로 먹이가 있는 곳을 감지해 물 폭탄을 발사한다.
 ZKN_SWORD_694_000	머리에 있는 주름을 펼쳐서 태양의 빛으로 발전하면 파워풀한 전기 기술을 쓸 수 있게 된다.
 ZKN_SWORD_695_000	과거에 멸망한 사막 나라에서 소중하게 여겼었다. 보물과 함께 가라르지방에 오게 됐다.
 ZKN_SWORD_696_000	
@@ -16903,12 +17011,12 @@ ZKN_SWORD_698_000
 ZKN_SWORD_699_000	
 ZKN_SWORD_700_000	리본 모양의 더듬이로부터 적의를 없애는 파동을 내보내 싸움을 그만두게 한다.
 ZKN_SWORD_701_000	경쾌한 몸놀림을 활용한 전법으로 상대의 체력을 빼앗은 뒤 화려한 큰 기술을 먹인다.
-ZKN_SWORD_702_000	
+ZKN_SWORD_702_000	동료가 내뿜는 전파를 수염으로 감지한다. 먹이나 전기의 위치를 모두와 함께 공유한다.
 ZKN_SWORD_703_000	
 ZKN_SWORD_704_000	몸의 대부분이 수분이다. 건조해지면 바싹 말라버리는 가장 약한 드래곤포켓몬.
 ZKN_SWORD_705_000	무엇이든 녹여버리는 점액으로 몸을 보호하기 때문에 약하지만 먹히지 않고 살아남을 수 있었다.
 ZKN_SWORD_706_000	트레이너의 지시를 이해하지 못하고 어리둥절해하는 경우가 가끔 있으며 그 모습이 귀여워서 인기가 많다.
-ZKN_SWORD_707_000	
+ZKN_SWORD_707_000	열쇠를 계속 모으는 포켓몬이다. 소중한 열쇠를 맡기면 무슨 일이 있어도 지켜준다.
 ZKN_SWORD_708_000	숲속을 헤매다 목숨을 잃은 아이의 영혼이 나무 그루터기에 씌어 포켓몬으로 다시 태어났다.
 ZKN_SWORD_709_000	숲에서 나무를 베는 인간을 잡아먹는다는 공포의 대상이지만 숲속에 사는 포켓몬들에게는 상냥하다.
 ZKN_SWORD_710_000	이승을 떠도는 영혼은 호바귀의 몸속에 들어간 뒤 저승으로 떠난다.
@@ -16945,8 +17053,8 @@ ZKN_SWORD_740_000
 ZKN_SWORD_741_000	
 ZKN_SWORD_742_000	꽃가루와 꿀을 아주 좋아한다. 꼬모카의 꽃가루를 노리고 에블리가 주변을 날아다닌다.
 ZKN_SWORD_743_000	꽃가루와 꿀을 섞어서 경단을 만든다. 조합하는 종류와 양에 따라 효과가 달라진다.
-ZKN_SWORD_744_000	
-ZKN_SWORD_745_000	
+ZKN_SWORD_744_000	잘 따르지만 무는 버릇이 있어 계속 기르기에는 상당한 노력이 필요하다.
+ZKN_SWORD_745_000	냉정하며 신중하다. 갈기의 바위는 잘 드는 면도날처럼 날카롭다.
 ZKN_SWORD_746_000	1마리로는 너무나도 허약해서 무리를 지어 상대에게 맞서는 능력을 습득했다.
 ZKN_SWORD_747_000	가시에 찔리면 먼저 저리기 시작하며 이윽고 마구 긁고 싶을 정도의 가려움에 고통받는다.
 ZKN_SWORD_748_000	가라르지방의 차가운 수온을 견디기 위해 다리로 돔을 만든 뒤 체온으로 내부를 덥힌다.
@@ -16954,8 +17062,8 @@ ZKN_SWORD_749_000	체중의 50배에 달하는 짐을 가볍게 운반할 정도
 ZKN_SWORD_750_000	진흙으로 굳힌 다리는 바위보다도 단단해져서 일격에 트럭을 파괴할 정도의 위력을 보인다.
 ZKN_SWORD_751_000	엉덩이로 수포를 부풀려서 머리를 감싼다. 동료끼리 수포의 크기를 비교한다.
 ZKN_SWORD_752_000	다리로 수포를 날려서 먹이를 감싼 다음 익사시킨다. 그리고는 시간을 들여 천천히 음미한다.
-ZKN_SWORD_753_000	
-ZKN_SWORD_754_000	
+ZKN_SWORD_753_000	태양 빛을 받으면 달콤하고 좋은 향기가 나서 벌레포켓몬들이 모여든다.
+ZKN_SWORD_754_000	아름다운 꽃 포켓몬이다. 잘 자란 라란티스는 훌륭하고 선명한 빛을 띤다.
 ZKN_SWORD_755_000	머리의 갓은 매우 맛있다. 숲속의 포켓몬들에게 먹히지만 하룻밤 만에 재생한다.
 ZKN_SWORD_756_000	깜빡이는 포자의 빛으로 먹이를 유인해서 잠들게 한다. 손끝으로 생기를 흡수한다.
 ZKN_SWORD_757_000	독주머니에서 만든 체액을 꼬리의 불꽃으로 가열해서 독가스를 발생시키는 구조로 되어 있다.
@@ -16965,13 +17073,13 @@ ZKN_SWORD_760_000	동료로 인정하면 애정을 표현하기 위해 껴안으
 ZKN_SWORD_761_000	몸에서 나는 열매의 달콤한 향기가 새포켓몬의 식욕을 강하게 자극한다.
 ZKN_SWORD_762_000	춤추듯이 회전해서 달콤한 향기를 흩날린다. 그 향기를 맡으면 행복한 기분이 든다.
 ZKN_SWORD_763_000	늘씬하게 뻗은 다리와 잔인한 마음씨를 가진 공포의 대상. 상대를 사정없이 짓밟는다.
-ZKN_SWORD_764_000	
+ZKN_SWORD_764_000	덩굴을 사용해 꽃을 따서 자신을 꾸민다. 몸에 붙은 꽃은 무슨 이유에서인지 시들지 않는다.
 ZKN_SWORD_765_000	잎사귀와 털로 만든 부채를 휘둘러 포켓몬들을 마음대로 조종할 수 있다.
 ZKN_SWORD_766_000	보스의 지시를 따라 훌륭한 팀플레이로 좋아하는 나무열매를 찾기 위해 동료와 협동한다.
 ZKN_SWORD_767_000	상한 것이든 쓰레기든 닥치는 대로 먹어 치우는 자연의 청소부. 둥지 주변은 언제나 깨끗하다.
 ZKN_SWORD_768_000	이기기 위해서는 수단을 가리지 않는다. 상대의 빈틈을 찌른 뒤 앞발의 작은 발톱으로 마무리한다.
-ZKN_SWORD_769_000	
-ZKN_SWORD_770_000	
+ZKN_SWORD_769_000	모래산에 죽은 자의 원념이 깃들어 포켓몬이 되었다. 머리의 삽을 마음에 들어 한다.
+ZKN_SWORD_770_000	해변의 악몽이라고도 불린다. 모래를 조종하여 먹이를 가라앉힌 뒤 영혼을 흡수한다.
 ZKN_SWORD_771_000	따뜻하고 얕은 여울에 산다. 상대와 마주치면 체내 기관을 입으로 뿜어서 때려눕힌다.
 ZKN_SWORD_772_000	극비였던 연구 자료가 도난당한 뒤 가라르지방에서 새로 만들어졌다는 소문이 있다.
 ZKN_SWORD_773_000	파트너와의 강한 유대에 의해 숨겨진 능력을 각성했다. 자유자재로 타입을 바꿀 수 있다.
@@ -17092,11 +17200,16 @@ ZKN_SWORD_887_000	뿔에 있는 구멍에 드라꼰을 넣고 지낸다. 싸움�
 ZKN_SWORD_888_000	전설의 영웅이라고 불리는 포켓몬. 금속을 흡수한 뒤 무기로 변화시켜서 싸운다.
 ZKN_SWORD_889_000	인간의 왕과 힘을 합쳐 가라르를 구한 포켓몬. 금속을 흡수해서 싸운다.
 ZKN_SWORD_890_000	가슴의 코어가 가라르지방의 대지에서 솟아나는 에너지를 흡수해서 활동한다.
+ZKN_SWORD_891_000	혹독한 수련을 거듭하며 기술을 갈고닦는다. 체득한 기술에 따라 진화했을 때의 모습이 달라진다.
+ZKN_SWORD_892_000	일격필살이 신조다. 상대의 품으로 파고들어 단련된 주먹을 질러 넣는다.
+ZKN_SWORD_893_000	무리 지어 밀림에 산다. 매우 공격적이라 숲에 사는 포켓몬들에게는 두려움의 대상이다.
 ZKN_SWORD_003_001	
+ZKN_SWORD_003_999	2개의 굵은 덩굴을 휘둘러서 싸운다. 10층 빌딩을 가볍게 넘어뜨릴 정도로 파워풀하다.
 ZKN_SWORD_006_001	
 ZKN_SWORD_006_002	
 ZKN_SWORD_006_999	거다이맥스의 파워에 의해 불꽃의 날개를 가진 거대한 리자몽의 모습이 만들어졌다.
 ZKN_SWORD_009_001	
+ZKN_SWORD_009_999	정밀하게 사격하지는 못한다. 31개의 대포에서 포탄을 연달아 쏘아대는 스타일로 공격한다.
 ZKN_SWORD_012_999	거다이맥스의 파워가 결정이 되어 눈부시게 빛나는 맹독성의 인분을 갖게 되었다.
 ZKN_SWORD_015_001	
 ZKN_SWORD_018_001	
@@ -17111,10 +17224,11 @@ ZKN_SWORD_025_005	쓰고 있는 것은 파트너의 모자다. 칼로스를 여�
 ZKN_SWORD_025_006	쓰고 있는 것은 파트너의 모자다. 알로라를 여행했을 때의 추억이 가득 담겨 있다.
 ZKN_SWORD_025_007	쓰고 있는 것은 파트너의 모자다. 만났을 당시의 추억이 가득 담겨 있다.
 ZKN_SWORD_025_008	
+ZKN_SWORD_025_009	쓰고 있는 것은 파트너의 모자다. 세계 여러 곳을 여행한 추억이 가득 담겨 있다.
 ZKN_SWORD_025_999	팽창한 거다이맥스의 파워에 의해 몸이 부풀어서 꼬리가 하늘까지 닿게 되었다.
 ZKN_SWORD_026_001	알로라지방의 기후와 풍토 그리고 먹이가 이런 모습으로 진화하게 된 원인으로 여겨지고 있다.
-ZKN_SWORD_027_001	
-ZKN_SWORD_028_001	
+ZKN_SWORD_027_001	눈으로 봉쇄된 산악 지대에 사는 동안 얼음으로 된 강철처럼 단단한 몸을 갖게 되었다.
+ZKN_SWORD_028_001	커다란 갈고리발톱으로 높이 쌓인 눈을 헤치며 달린다. 설산에서는 어떤 포켓몬보다 빠르다.
 ZKN_SWORD_037_001	알로라지방의 만년설이 쌓인 산에서 오랫동안 살면서 얼음의 능력을 손에 넣었다.
 ZKN_SWORD_038_001	눈으로 폐쇄된 신이 사는 산에 살았기 때문에 과거에는 신의 화신으로 숭상받아왔다.
 ZKN_SWORD_050_001	금속 성분이 많이 포함된 지질의 영향으로 강철 수염이 머리에 났다.
@@ -17132,14 +17246,15 @@ ZKN_SWORD_077_001	작은 뿔에 치유의 힘을 숨기고 있다. 작은 상처
 ZKN_SWORD_078_001	뿔에서 나오는 사이코커터는 강력하다. 두꺼운 철판에 구멍을 낼 정도의 파괴력을 가졌다.
 ZKN_SWORD_079_001	항상 멍하니 있지만 가끔 찌릿 하고 인상을 쓴다. 먹고 있는 먹이가 원인이라는 듯하다.
 ZKN_SWORD_080_001	
+ZKN_SWORD_080_002	셀러에게 물렸을 때의 자극과 체내의 향신료가 화학 반응을 일으켜 독타입이 되었다.
 ZKN_SWORD_083_001	가라르에 사는 파오리의 모습. 굵고 튼튼한 파를 휘두르며 용감하게 싸우는 전사다.
 ZKN_SWORD_088_001	
 ZKN_SWORD_089_001	
 ZKN_SWORD_094_001	
 ZKN_SWORD_094_999	저주의 에너지로 넘치고 있다. 거대한 입의 저편은 저세상과 이어져 있다고 한다.
 ZKN_SWORD_099_999	거다이맥스의 파워에 의해 거대해진 왼쪽 집게는 무엇이든 산산이 부숴버린다.
-ZKN_SWORD_103_001	
-ZKN_SWORD_105_001	
+ZKN_SWORD_103_001	쨍쨍 내리쬐는 태양 빛을 받은 결과 본래의 모습과 능력이 각성되었다.
+ZKN_SWORD_105_001	손에 든 뼈에 불을 붙여 동료를 추모하는 춤을 밤새도록 춘다.
 ZKN_SWORD_105_002	
 ZKN_SWORD_110_001	대기 중의 오염된 성분을 흡수하고 배설물 대신 깨끗한 공기를 내보낸다.
 ZKN_SWORD_115_001	
@@ -17386,9 +17501,9 @@ ZKN_SWORD_741_001
 ZKN_SWORD_741_002	
 ZKN_SWORD_741_003	
 ZKN_SWORD_743_001	
-ZKN_SWORD_744_001	
-ZKN_SWORD_745_001	
-ZKN_SWORD_745_002	
+ZKN_SWORD_744_001	잘 따르지만 무는 버릇이 있어 계속 기르기에는 상당한 노력이 필요하다.
+ZKN_SWORD_745_001	무모한 성질을 지녔다. 자신이 상처 입는 것도 전혀 신경 쓰지 않고 상대를 향해 덤벼든다.
+ZKN_SWORD_745_002	평소에는 침착하고 냉정하다. 한번 싸움이 나면 격렬한 투지를 보여준다.
 ZKN_SWORD_746_001	1마리는 아주 약하지만 다 같이 힘을 합치면 바다의 마물이라 불리는 존재가 된다.
 ZKN_SWORD_752_001	
 ZKN_SWORD_754_001	
@@ -17433,6 +17548,9 @@ ZKN_SWORD_800_002
 ZKN_SWORD_800_003	
 ZKN_SWORD_801_001	
 ZKN_SWORD_809_999	
+ZKN_SWORD_812_999	거다이맥스의 파워에 의해 그루터기가 성장하여 삼림과도 같은 드럼이 되었다.
+ZKN_SWORD_815_999	에이스번의 타오르는 투지가 담긴 거대 화염볼은 상대를 놓치지 않고 불살라버린다.
+ZKN_SWORD_818_999	물대포의 속도는 마하7이다. 머리의 볏으로 바람과 기온을 감지하면서 조준을 맞춘다.
 ZKN_SWORD_823_999	거다이맥스의 파워로 날갯짓하면 허리케인을 능가하는 강풍이 모든 것을 날려버린다.
 ZKN_SWORD_826_999	뇌를 중심으로 거대화했다. 압도적인 지능과 방대한 사이코 에너지를 지니고 있다.
 ZKN_SWORD_834_999	거다이맥스의 파워에 의해 뒷발로 일어서게 됐다. 상대를 짓누른 뒤 큰 턱으로 마무리한다.
@@ -17467,6 +17585,10 @@ ZKN_SWORD_888_001	과거의 무기로 무장했다. 거다이맥스 포켓몬도
 ZKN_SWORD_889_001	어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었다.
 ZKN_SWORD_890_001	로즈의 소행으로 인해 가라르 전역의 에너지를 흡수해서 과부하된 모습.
 ZKN_SWORD_890_999	로즈의 소행으로 인해 가라르 전역의 에너지를 흡수해서 과부하된 모습.
+ZKN_SWORD_892_001	때로는 격렬하고 때로는 잔잔한 강물의 흐름에서 격투 기술의 태세를 고안해냈다고 전해진다.
+ZKN_SWORD_892_999	분노의 화신이라 불린다. 무시무시한 형상과 우렁찬 소리로 세상의 악한 기운을 물리친다고 한다.
+ZKN_SWORD_892_998	외발로 선 채로 꿈쩍하지 않고 거다이맥스 파워를 폭발시킬 때를 가만히 기다리고 있다.
+ZKN_SWORD_893_001	무리를 떠나 사람의 아이를 기른다. 아이의 울음을 그치게 하는 냄새가 나는 천을 두르고 있다.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_ultramoon_kor.msbt
