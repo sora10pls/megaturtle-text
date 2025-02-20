@@ -2317,7 +2317,7 @@ Text File : sp_sample_kor.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_kor.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	씰
+sp_sealcategory_000	포켓몬
 sp_sealcategory_001	벽지
 sp_sealcategory_002	장식
 
@@ -2572,7 +2572,7 @@ sp_ui_library_number	도감 번호
 sp_ui_latest_achievement_date	최근 달성일
 sp_ui_hozon	저장
 sp_ui_all_erase	모두 삭제
-sp_ui_seal	씰
+sp_ui_seal	편집
 sp_ui_preview	미리 보기
 sp_ui_notice	알림
 sp_ui_account	어카운트

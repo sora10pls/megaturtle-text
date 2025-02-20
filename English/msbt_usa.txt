@@ -2317,7 +2317,7 @@ Text File : sp_sample_usa.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_usa.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	Stickers
+sp_sealcategory_000	Pokémon
 sp_sealcategory_001	Wallpapers
 sp_sealcategory_002	Decorations
 
@@ -2571,7 +2571,7 @@ sp_ui_date_of_leave	Date it moved in
 sp_ui_library_number	Pokédex Number
 sp_ui_latest_achievement_date	Most Recent
 sp_ui_hozon	Save
-sp_ui_all_erase	Erase all
+sp_ui_all_erase	Remove All
 sp_ui_seal	Stickers
 sp_ui_preview	Preview
 sp_ui_notice	Notifications
@@ -2677,11 +2677,11 @@ sp_ui_form	Form
 sp_ui_appear_software	Featured Games
 sp_ui_appear_region	Featured Regions
 sp_ui_kind	Varieties
-sp_ui_seal_unused	Stickers unused
-sp_ui_seal_used	Stickers used
-sp_ui_seal_kind	Sticker types
+sp_ui_seal_unused	Unused stickers
+sp_ui_seal_used	Used stickers
+sp_ui_seal_kind	Sticker type
 sp_ui_seal_basic	Default
-sp_ui_seal_size	Sticker sizes
+sp_ui_seal_size	Sticker size
 sp_ui_category	Grade
 sp_ui_clear_not_cleared	Cleared / Not yet cleared
 sp_ui_operation	Operations
@@ -2760,7 +2760,7 @@ sp_ui_delete	Delete
 sp_ui_delete_confirm	Are you sure you want to delete this label?
 sp_ui_disable_select_label	There are no labels to select.
 sp_ui_cant_change	Can't be changed
-sp_ui_seal_00001	Sticker list
+sp_ui_seal_00001	Sticker List
 sp_ui_seal_00002	Save confirmation
 sp_ui_seal_00003	Would you like to save your changes?
 sp_ui_seal_00004	Changes saved
@@ -2771,7 +2771,7 @@ sp_ui_seal_00008	Binder settings
 sp_ui_seal_00009	Would you like to use this wallpaper?
 sp_ui_seal_00010	Remove stickers
 sp_ui_seal_00011	Would you like to return this sticker to your list?
-sp_ui_seal_00012	You can't use any more [VAR] stickers.
+sp_ui_seal_00012	You can't use any more [VAR].
 sp_ui_seal_00013	You've made changes. Would you like to save them?
 sp_ui_seal_00014	All stickers will be removed. Would you like to continue?
 sp_ui_seal_filter_01_01	Stickers you can use

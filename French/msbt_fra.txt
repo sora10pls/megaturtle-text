@@ -1782,7 +1782,7 @@ sp_ach_box_s_0068	Avoir déposé Zacian de la région de Galar
 sp_ach_box_s_0069	Avoir déposé Zamazenta de la région de Galar
 sp_ach_box_s_0070	Avoir déposé un Métalosse chromatique
 sp_ach_box_s_0071	Avoir déposé Rayquaza de la région de Hoenn
-sp_ach_box_s_0072	Avoir déposé Diancie  de la région de Kalos
+sp_ach_box_s_0072	Avoir déposé Diancie de la région de Kalos
 sp_ach_box_s_0073	Avoir déposé un Ronflex pouvant utiliser Gare au Ronflex
 sp_ach_box_s_0074	Avoir déposé un Funécire de la région d'Unys
 sp_ach_box_s_0075	Avoir déposé un Évoli de la région d'Unys
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR_PLAYER] a fait un dépôt ([VAR]).
 sp_playerlog_00014	[VAR_PLAYER] a fait un retrait ([VAR]).
 sp_playerlog_00015	Relâché
 sp_playerlog_00016	Vous avez reçu un Cadeau Mystère.
-sp_playerlog_00017	Vous avez transféré [VAR] Pokémon.
+sp_playerlog_00017	Vous avez transféré [VAR_YEAR]Ā Pokémon.
 sp_playerlog_00018	[VAR_PLAYER] de [VAR_PLAYER]
 sp_playerlog_00019	Pokémon envoyé
 sp_playerlog_00020	Pokémon reçu
@@ -2572,7 +2572,7 @@ sp_ui_library_number	Numéro de Pokédex
 sp_ui_latest_achievement_date	Du plus récent au plus ancien
 sp_ui_hozon	Sauvegarder
 sp_ui_all_erase	Tout effacer
-sp_ui_seal	Autocollant
+sp_ui_seal	Modifier
 sp_ui_preview	Aperçu
 sp_ui_notice	Notifications
 sp_ui_account	Compte

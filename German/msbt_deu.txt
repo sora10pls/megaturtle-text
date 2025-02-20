@@ -2572,7 +2572,7 @@ sp_ui_library_number	Pokédex-Nummer
 sp_ui_latest_achievement_date	Letzter Erfolg
 sp_ui_hozon	Speichern
 sp_ui_all_erase	Alles löschen
-sp_ui_seal	Sticker
+sp_ui_seal	Bearbeiten
 sp_ui_preview	Vorschau
 sp_ui_notice	Mitteilungen
 sp_ui_account	Konto

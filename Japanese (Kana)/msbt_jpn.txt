@@ -2317,7 +2317,7 @@ Text File : sp_sample_jpn.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_jpn.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	シール
+sp_sealcategory_000	ポケモン
 sp_sealcategory_001	かべがみ
 sp_sealcategory_002	かざり
 
@@ -2760,7 +2760,7 @@ sp_ui_delete	さくじょ
 sp_ui_delete_confirm	ほんとうに　さくじょしますか？
 sp_ui_disable_select_label	せんたくできる　ラベルが　ありません
 sp_ui_cant_change	へんこうできません
-sp_ui_seal_00001	バインダー
+sp_ui_seal_00001	シールリスト
 sp_ui_seal_00002	ほぞんのかくにん
 sp_ui_seal_00003	へんこうないようを　ほぞんしますか？
 sp_ui_seal_00004	ほぞんしました

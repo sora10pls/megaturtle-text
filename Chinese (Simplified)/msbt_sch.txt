@@ -2317,7 +2317,7 @@ Text File : sp_sample_sch.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_sch.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	贴纸
+sp_sealcategory_000	宝可梦
 sp_sealcategory_001	壁纸
 sp_sealcategory_002	装饰
 
@@ -2572,7 +2572,7 @@ sp_ui_library_number	图鉴编号
 sp_ui_latest_achievement_date	最新完成日期
 sp_ui_hozon	保存
 sp_ui_all_erase	全部清除
-sp_ui_seal	贴纸
+sp_ui_seal	编辑
 sp_ui_preview	预览
 sp_ui_notice	通知
 sp_ui_account	账号

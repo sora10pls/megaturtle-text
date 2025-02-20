@@ -1384,7 +1384,7 @@ sp_achstep_box_s_0056	Trae a Reshiram desde Teselia.
 sp_achstep_box_s_0057	Trae a Zekrom desde Teselia.
 sp_achstep_box_s_0058	Trae a Zekrom y Kyurem desde Teselia.
 sp_achstep_box_s_0059	Trae a Reshiram y Kyurem desde Teselia.
-sp_achstep_box_s_0060	Trae a Xerneas desde Kalos
+sp_achstep_box_s_0060	Trae a Xerneas desde Kalos.
 sp_achstep_box_s_0061	Trae a Yveltal desde Kalos.
 sp_achstep_box_s_0062	Trae a Groudon desde Hoenn.
 sp_achstep_box_s_0063	Trae a Kyogre desde Hoenn.
@@ -1394,13 +1394,13 @@ sp_achstep_box_s_0066	Trae a Solgaleo y Necrozma desde Alola.
 sp_achstep_box_s_0067	Trae a Lunala y Necrozma desde Alola.
 sp_achstep_box_s_0068	Trae a Zacian desde Galar.
 sp_achstep_box_s_0069	Trae a Zamazenta desde Galar.
-sp_achstep_box_s_0070	Trae a un Metagross variocolor.
+sp_achstep_box_s_0070	Trae un Metagross variocolor.
 sp_achstep_box_s_0071	Trae a Rayquaza desde Hoenn.
 sp_achstep_box_s_0072	Trae a Diancie desde Kalos.
 sp_achstep_box_s_0073	Trae un Snorlax con mucho arrojo.
 sp_achstep_box_s_0074	Trae a Litwick desde Teselia.
 sp_achstep_box_s_0075	Trae a Eevee desde Teselia.
-sp_achstep_box_s_0076	Registra a Meloetta.
+sp_achstep_box_s_0076	Trae a Meloetta.
 sp_achstep_box_s_0077	Trae un Genesect variocolor.
 sp_achstep_lib_000101	Registra 5 Pokémon de tipo Siniestro.
 sp_achstep_lib_000102	Registra 20 Pokémon de tipo Siniestro.
@@ -1786,7 +1786,7 @@ sp_ach_box_s_0072	¡Trae a Diancie desde Kalos!
 sp_ach_box_s_0073	¡Trae un Snorlax con mucho arrojo!
 sp_ach_box_s_0074	¡Trae a Litwick desde Teselia!
 sp_ach_box_s_0075	¡Trae a Eevee desde Teselia!
-sp_ach_box_s_0076	¡Registra a Meloetta!
+sp_ach_box_s_0076	¡Trae a Meloetta!
 sp_ach_box_s_0077	¡Trae un Genesect variocolor!
 sp_ach_box_0001	¡Deposita Pokémon variocolor!
 sp_ach_box_0002	¡Deposita Pokémon metidos en Poké Balls!
@@ -2101,7 +2101,7 @@ sp_oak_00010	No te preocupes, que no dejaré que afrontes semejante tarea sin ay
 sp_oak_00011	Verás, he implementado en Pokémon HOME algunas funciones que te resultarán utilísimas a la hora de conseguir Pokémon.
 sp_oak_00012	Por un lado, están las funciones de intercambio. Gracias a ellas, podrás intercambiar Pokémon con Entrenadores de todo el mundo. Impresionante, ¿a que sí?
 sp_oak_00013	Y, por otro, tenemos la función de regalo misterioso, con la que podrás recibir Pokémon, entre otras cosas.
-sp_oak_00014	Y, por último, he añadido una función mediante la cual podrás ver la clasificación mundial de Entrenadores Pokémon. Ya sabes, por si te pica la curiosidad.
+sp_oak_00014	Además, hasta he añadido una función mediante la cual podrás ver la clasificación mundial de Entrenadores Pokémon. Ya sabes, por si te pica la curiosidad.
 sp_oak_00015	Je, je... ¡Parece que estas funciones tan maravillosas te han dejado sin palabras! Bueno, no es para menos, al fin y al cabo las he desarrollado yo.
 sp_oak_00016	¿Cómo? ¿Que no tienes ningún Pokémon? ¡Pero qué me dices! Bueno, no pasa nada. Solo por esta vez, te voy a dar yo uno de regalo.
 sp_oak_00017	¡Y hasta te dejo elegir! Venga, ¿cuál te gusta más?
@@ -2572,7 +2572,7 @@ sp_ui_library_number	Número de la Pokédex
 sp_ui_latest_achievement_date	Más recientes
 sp_ui_hozon	Guardar
 sp_ui_all_erase	Quitar todo
-sp_ui_seal	Pegatinas
+sp_ui_seal	Editar
 sp_ui_preview	Vista previa
 sp_ui_notice	Notif.
 sp_ui_account	Cuenta
@@ -2677,7 +2677,7 @@ sp_ui_form	Forma
 sp_ui_appear_software	Juegos donde aparece
 sp_ui_appear_region	Regiones donde aparece
 sp_ui_kind	Especie
-sp_ui_seal_unused	Pegatinas sin usar
+sp_ui_seal_unused	Sin usar
 sp_ui_seal_used	Pegatinas usadas
 sp_ui_seal_kind	Tipo de pegatina
 sp_ui_seal_basic	Básicas
@@ -2771,7 +2771,7 @@ sp_ui_seal_00008	Portada
 sp_ui_seal_00009	¿Quieres utilizar este fondo?
 sp_ui_seal_00010	Quitar pegatinas
 sp_ui_seal_00011	¿Quieres quitar esta pegatina de la portada?
-sp_ui_seal_00012	No puedes pegar más pegatinas [VAR].
+sp_ui_seal_00012	No puedes pegar más pegatinas del tipo [VAR].
 sp_ui_seal_00013	Has hecho algunos cambios. ¿Quieres guardarlos?
 sp_ui_seal_00014	Se quitarán todas las pegatinas. ¿Quieres continuar?
 sp_ui_seal_filter_01_01	Pegatinas disponibles

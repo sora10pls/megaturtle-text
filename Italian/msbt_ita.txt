@@ -2317,9 +2317,9 @@ Text File : sp_sample_ita.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_ita.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	Adesivi
+sp_sealcategory_000	Pokémon
 sp_sealcategory_001	Sfondi
-sp_sealcategory_002	Decorazioni
+sp_sealcategory_002	Simboli
 
 ~~~~~~~~~~~~~~~
 Text File : sp_sealmaterial_ita.msbt
@@ -2572,7 +2572,7 @@ sp_ui_library_number	Numero di Pokédex
 sp_ui_latest_achievement_date	Ordine cronologico
 sp_ui_hozon	Salva
 sp_ui_all_erase	Togli tutto
-sp_ui_seal	Adesivi
+sp_ui_seal	Personalizza
 sp_ui_preview	Anteprima
 sp_ui_notice	Notifiche
 sp_ui_account	Account
@@ -2771,7 +2771,7 @@ sp_ui_seal_00008	Modifica copertina
 sp_ui_seal_00009	Vuoi impostare questo sfondo?
 sp_ui_seal_00010	Togli adesivo
 sp_ui_seal_00011	Vuoi rimettere l'adesivo nella lista?
-sp_ui_seal_00012	Hai raggiunto il numero massimo di [VAR].
+sp_ui_seal_00012	Hai raggiunto il limite per la categoria [VAR].
 sp_ui_seal_00013	Hai fatto delle modifiche. Vuoi salvarle?
 sp_ui_seal_00014	Tutti gli adesivi verranno tolti. Vuoi continuare?
 sp_ui_seal_filter_01_01	Adesivi che puoi usare
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	Ordine alfabetico
 sp_ui_achieve_empty_list	La lista è vuota.
 sp_ui_achieve_join_ok	Hai raggiunto un obiettivo!
 sp_ui_achieve_join_ng	Non ci sono obiettivi disponibili.
-sp_ui_report_01	[VAR_YEAR]Ā
-sp_ui_report_02	[VAR_YEAR]Ā
+sp_ui_report_01	[VAR_YEAR]̀
+sp_ui_report_02	[VAR_YEAR]̀
 sp_ui_report_03	Pokémon depositati
 sp_ui_report_04	Pokémon ritirati
 sp_ui_report_05	Totale punti guadagnati
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	Non ci sono notifiche.
 sp_ui_voice_input	Verifica audio microfono in corso...
 sp_ui_voice_input_error	Si è verificato un errore.  Tocca l'icona del microfono per riprovare.
 sp_ui_recognizer_limit_error	Hai raggiunto il limite giornaliero dell'utilizzo del riconoscimento vocale.
-sp_ui_myroom_point_number	[VAR_YEAR]Ā
+sp_ui_myroom_point_number	[VAR_YEAR]̀
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt

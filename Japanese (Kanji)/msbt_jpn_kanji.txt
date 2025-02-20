@@ -2317,7 +2317,7 @@ Text File : sp_sample_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	シール
+sp_sealcategory_000	ポケモン
 sp_sealcategory_001	壁紙
 sp_sealcategory_002	飾り
 
@@ -2760,7 +2760,7 @@ sp_ui_delete	削除
 sp_ui_delete_confirm	本当に　削除しますか？
 sp_ui_disable_select_label	選択できる　ラベルが　ありません
 sp_ui_cant_change	変更できません
-sp_ui_seal_00001	バインダー
+sp_ui_seal_00001	シールリスト
 sp_ui_seal_00002	保存の確認
 sp_ui_seal_00003	変更内容を　保存しますか？
 sp_ui_seal_00004	保存しました
