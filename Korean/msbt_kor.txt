@@ -2028,7 +2028,7 @@ sp_migration_04002	준비 OK!
 sp_migration_05001	이사 패스워드는 <B>3분</B> 동안만 사용할 수 있습니다 시간 안에 "포켓몬 뱅크"에 입력해 주십시오
 sp_migration_05002	이사 패스워드를 표시하면 <B>3분간</B> 이전 화면으로 돌아갈 수 없게 됩니다!
 sp_migration_05003	이사 패스워드를 표시한다!
-sp_migration_06001	<B>[VAR]마리</B>의 포켓몬을 받을 공간이 부족합니다!
+sp_migration_06001	<B>[VAR_YEAR]마리</B>의 포켓몬을 받을 공간이 부족합니다!
 sp_migration_06002	포켓몬을 정리하여 충분한 공간을 마련해 주십시오
 sp_migration_06003	이사를 중지합니다
 sp_migration_07001	현재 사용 중인 닌텐도 어카운트는 닌텐도 네트워크 ID와 연동 중이지 않습니다
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	GTS에서 교환했습니다
 sp_playerlog_00003	그룹 교환을 했습니다
 sp_playerlog_00004	미라클 박스로 교환했습니다
 sp_playerlog_00005	이상한 소포에서 받았습니다
-sp_playerlog_00006	[VAR]포인트를 사용했습니다
-sp_playerlog_00007	[VAR]포인트를 손에 넣었습니다
-sp_playerlog_00008	[VAR]포인트를 BP로 교환했습니다
+sp_playerlog_00006	[VAR_YEAR]포인트를 사용했습니다
+sp_playerlog_00007	[VAR_YEAR]포인트를 손에 넣었습니다
+sp_playerlog_00008	[VAR_YEAR]포인트를 BP로 교환했습니다
 sp_playerlog_00009	<b>친구 교환</b>을 했습니다
 sp_playerlog_00010	<b>GTS</b>에서 교환했습니다
 sp_playerlog_00011	<b>그룹 교환</b>을 했습니다
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR]에서 [VAR_PLAYER] 촃 맡겼습니다
 sp_playerlog_00014	[VAR]에서 [VAR_PLAYER] 촃 찾았습니다
 sp_playerlog_00015	놓아주었습니다
 sp_playerlog_00016	이상한 소포에서 받았습니다
-sp_playerlog_00017	[VAR]마리의 포켓몬을 전송했습니다
+sp_playerlog_00017	[VAR_YEAR]마리의 포켓몬을 전송했습니다
 sp_playerlog_00018	[VAR_PLAYER]의 [VAR_PLAYER]
 sp_playerlog_00019	보낸 포켓몬
 sp_playerlog_00020	받은 포켓몬
@@ -2317,7 +2317,7 @@ Text File : sp_sample_kor.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_kor.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	포켓몬
+sp_sealcategory_000	씰
 sp_sealcategory_001	벽지
 sp_sealcategory_002	장식
 
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	이름순
 sp_ui_achieve_empty_list	표시할 수 있는 업적이 없습니다
 sp_ui_achieve_join_ok	업적을 달성했습니다
 sp_ui_achieve_join_ng	달성할 수 있는 업적이 없습니다
-sp_ui_report_01	[VAR]마리
-sp_ui_report_02	[VAR]포인트
+sp_ui_report_01	[VAR_YEAR]마리
+sp_ui_report_02	[VAR_YEAR]포인트
 sp_ui_report_03	맡긴 포켓몬의 수
 sp_ui_report_04	찾은 포켓몬의 수
 sp_ui_report_05	누계 획득 포인트
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	표시할 수 있는 소식이 없습니다
 sp_ui_voice_input	음성 인식 중...
 sp_ui_voice_input_error	에러가 발생했습니다  마이크 아이콘을 탭하고 다시 시도해 주십시오
 sp_ui_recognizer_limit_error	음성 인식의 1일 사용 횟수가 한계에 도달했습니다
-sp_ui_myroom_point_number	[VAR]p
+sp_ui_myroom_point_number	[VAR_YEAR]p
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

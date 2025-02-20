@@ -2028,7 +2028,7 @@ sp_migration_04002	準備OK！
 sp_migration_05001	ひっこしパスワードは <B>３分</B>しか　使えません 時間内に　『ポケモンバンク』に 入力してください
 sp_migration_05002	ひっこしパスワードを　表示すると <B>３分間</B> 前の画面に　戻れなくなります！
 sp_migration_05003	ひっこしパスワードを 表示する！
-sp_migration_06001	ポケモンの　空きスペースが <B>[VAR]匹分</B>　足りません！
+sp_migration_06001	ポケモンの　空きスペースが <B>[VAR_YEAR]匹分</B>　足りません！
 sp_migration_06002	ポケモンを　整頓するなどして 十分な　空きを　用意してください
 sp_migration_06003	ひっこしを　中止します
 sp_migration_07001	現在　ご使用中の ニンテンドーアカウントは ニンテンドーネットワークIDと 連携していません
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	GTSで　交換しました
 sp_playerlog_00003	グループ交換　を行いました
 sp_playerlog_00004	ミラクルボックスで　交換しました
 sp_playerlog_00005	ふしぎなおくりもので　受け取りました
-sp_playerlog_00006	[VAR]ポイント　使いました
-sp_playerlog_00007	[VAR]ポイント　手に入れました
-sp_playerlog_00008	[VAR]ポイント　BPに引き換えました
+sp_playerlog_00006	[VAR_YEAR]ポイント　使いました
+sp_playerlog_00007	[VAR_YEAR]ポイント　手に入れました
+sp_playerlog_00008	[VAR_YEAR]ポイント　BPに引き換えました
 sp_playerlog_00009	 <b>フレンド交換</b>を　行いました
 sp_playerlog_00010	<b>GTS</b>で　交換しました
 sp_playerlog_00011	<b>グループ交換</b>を　行いました
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR]で　[VAR_PLAYER]が　預けました
 sp_playerlog_00014	[VAR]で　[VAR_PLAYER]が　引き出しました
 sp_playerlog_00015	逃がしました
 sp_playerlog_00016	ふしぎなおくりもので 受け取りました
-sp_playerlog_00017	[VAR]匹 ポケモン転送しました
+sp_playerlog_00017	[VAR_YEAR]匹 ポケモン転送しました
 sp_playerlog_00018	[VAR_PLAYER]の[VAR_PLAYER]
 sp_playerlog_00019	送ったポケモン
 sp_playerlog_00020	受け取ったポケモン
@@ -2317,7 +2317,7 @@ Text File : sp_sample_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	ポケモン
+sp_sealcategory_000	シール
 sp_sealcategory_001	壁紙
 sp_sealcategory_002	飾り
 
@@ -2572,7 +2572,7 @@ sp_ui_library_number	図鑑番号
 sp_ui_latest_achievement_date	最新達成日
 sp_ui_hozon	保存
 sp_ui_all_erase	全消し
-sp_ui_seal	シール
+sp_ui_seal	編集
 sp_ui_preview	プレビュー
 sp_ui_notice	通知
 sp_ui_account	アカウント
@@ -2760,7 +2760,7 @@ sp_ui_delete	削除
 sp_ui_delete_confirm	本当に　削除しますか？
 sp_ui_disable_select_label	選択できる　ラベルが　ありません
 sp_ui_cant_change	変更できません
-sp_ui_seal_00001	シールリスト
+sp_ui_seal_00001	バインダー
 sp_ui_seal_00002	保存の確認
 sp_ui_seal_00003	変更内容を　保存しますか？
 sp_ui_seal_00004	保存しました
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	名前順
 sp_ui_achieve_empty_list	表示できる実績はありません
 sp_ui_achieve_join_ok	実績を達成しました
 sp_ui_achieve_join_ng	達成できる実績はありません
-sp_ui_report_01	[VAR]ひき
-sp_ui_report_02	[VAR]ポイント
+sp_ui_report_01	[VAR_YEAR]ひき
+sp_ui_report_02	[VAR_YEAR]ポイント
 sp_ui_report_03	預けた　ポケモンのかず
 sp_ui_report_04	引き出した　ポケモンのかず
 sp_ui_report_05	獲得ポイントの　累計
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	表示できる　お知らせは　ありません
 sp_ui_voice_input	音声を　認識中…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もう一度　お試しください
 sp_ui_recognizer_limit_error	音声認識の　１日の使用回数が 限界に　達しました
-sp_ui_myroom_point_number	[VAR]p
+sp_ui_myroom_point_number	[VAR_YEAR]p
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn_kanji.msbt

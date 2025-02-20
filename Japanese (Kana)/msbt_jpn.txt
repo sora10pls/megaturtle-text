@@ -2028,7 +2028,7 @@ sp_migration_04002	じゅんびOK！
 sp_migration_05001	ひっこしパスワードは <B>３ふん</B>しか　つかえません じかんないに　『ポケモンバンク』に にゅうりょく　してください
 sp_migration_05002	ひっこしパスワードを　ひょうじすると <B>３ふんかん</B> まえのがめんに　もどれなくなります！
 sp_migration_05003	ひっこしパスワードを ひょうじする！
-sp_migration_06001	ポケモンの　あきスペースが <B>[VAR]ひきぶん</B>　たりません！
+sp_migration_06001	ポケモンの　あきスペースが <B>[VAR_YEAR]ひきぶん</B>　たりません！
 sp_migration_06002	ポケモンを　せいとんする　などして じゅうぶんな　あきを　よういしてください
 sp_migration_06003	ひっこしを　ちゅうしします
 sp_migration_07001	げんざい　ごしようちゅうの ニンテンドーアカウントは ニンテンドーネットワークIDと れんけいして　いません
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	GTSで　こうかんしました
 sp_playerlog_00003	グループこうかんを　おこないました
 sp_playerlog_00004	ミラクルボックスで　こうかんしました
 sp_playerlog_00005	ふしぎなおくりもので　うけとりました
-sp_playerlog_00006	[VAR]ポイント　つかいました
-sp_playerlog_00007	[VAR]ポイント　てにいれました
-sp_playerlog_00008	[VAR]ポイント　BPにひきかえました
+sp_playerlog_00006	[VAR_YEAR]ポイント　つかいました
+sp_playerlog_00007	[VAR_YEAR]ポイント　てにいれました
+sp_playerlog_00008	[VAR_YEAR]ポイント　BPにひきかえました
 sp_playerlog_00009	<b>フレンドこうかん</b>を　おこないました
 sp_playerlog_00010	<b>GTS</b>で　こうかんしました
 sp_playerlog_00011	<b>グループこうかん</b>を　おこないました
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR]で　[VAR_PLAYER]が　あずけました
 sp_playerlog_00014	[VAR]で　[VAR_PLAYER]が　ひきだしました
 sp_playerlog_00015	にがしました
 sp_playerlog_00016	ふしぎなおくりもので　うけとりました
-sp_playerlog_00017	[VAR]ひき ポケモンてんそうしました
+sp_playerlog_00017	[VAR_YEAR]ひき ポケモンてんそうしました
 sp_playerlog_00018	[VAR_PLAYER]の[VAR_PLAYER]
 sp_playerlog_00019	おくったポケモン
 sp_playerlog_00020	うけとったポケモン
@@ -2317,7 +2317,7 @@ Text File : sp_sample_jpn.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_jpn.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	ポケモン
+sp_sealcategory_000	シール
 sp_sealcategory_001	かべがみ
 sp_sealcategory_002	かざり
 
@@ -2572,7 +2572,7 @@ sp_ui_library_number	ずかんばんごう
 sp_ui_latest_achievement_date	さいしんたっせいび
 sp_ui_hozon	ほぞん
 sp_ui_all_erase	ぜんけし
-sp_ui_seal	シール
+sp_ui_seal	へんしゅう
 sp_ui_preview	プレビュー
 sp_ui_notice	つうち
 sp_ui_account	アカウント
@@ -2760,7 +2760,7 @@ sp_ui_delete	さくじょ
 sp_ui_delete_confirm	ほんとうに　さくじょしますか？
 sp_ui_disable_select_label	せんたくできる　ラベルが　ありません
 sp_ui_cant_change	へんこうできません
-sp_ui_seal_00001	シールリスト
+sp_ui_seal_00001	バインダー
 sp_ui_seal_00002	ほぞんのかくにん
 sp_ui_seal_00003	へんこうないようを　ほぞんしますか？
 sp_ui_seal_00004	ほぞんしました
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	なまえじゅん
 sp_ui_achieve_empty_list	ひょうじできる　じっせきはありません
 sp_ui_achieve_join_ok	じっせきを　たっせい　しました
 sp_ui_achieve_join_ng	たっせいできる　じっせきは　ありません
-sp_ui_report_01	[VAR]ひき
-sp_ui_report_02	[VAR]ポイント
+sp_ui_report_01	[VAR_YEAR]ひき
+sp_ui_report_02	[VAR_YEAR]ポイント
 sp_ui_report_03	あずけた　ポケモンのかず
 sp_ui_report_04	ひきだした　ポケモンのかず
 sp_ui_report_05	かくとくポイントの　るいけい
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	ひょうじできる　おしらせは　ありませ�
 sp_ui_voice_input	おんせいを　にんしきちゅう…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もういちど　おためしください
 sp_ui_recognizer_limit_error	おんせいにんしきの　１にちのしようかいすうが げんかいに　たっしました
-sp_ui_myroom_point_number	[VAR]p
+sp_ui_myroom_point_number	[VAR_YEAR]p
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn.msbt

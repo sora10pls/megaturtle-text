@@ -1325,15 +1325,15 @@ sp_achstep_box_002703	Déposer 30 Pokémon contenus dans une Niveau Ball
 sp_achstep_box_002801	Déposer 30 Pokémon
 sp_achstep_box_002802	Déposer 100 Pokémon
 sp_achstep_box_002803	Déposer 300 Pokémon
-sp_achstep_box_s_0001	Ramener un Arcko, un Poussifeu et un Gobou depuis la région de Hoenn
-sp_achstep_box_s_0002	Ramener un Arcko, un Massko et un Jungko depuis la région de Hoenn
-sp_achstep_box_s_0003	Ramener un Poussifeu, un Galifeu et un Braségali depuis la région de Hoenn
-sp_achstep_box_s_0004	Ramener un Gobou, un Flobio et un Laggron depuis la région de Hoenn
-sp_achstep_box_s_0005	Ramener Solgaleo, Lunala et Necrozma depuis la région d'Alola
-sp_achstep_box_s_0006	Ramener Groudon et Kyogre depuis la région de Hoenn
-sp_achstep_box_s_0007	Ramener Cosmog, Cosmovum, Solgaleo et Lunala depuis la région d'Alola
-sp_achstep_box_s_0008	Ramener un Tortipouss, un Ouisticram et un Tiplouf depuis la région de Sinnoh
-sp_achstep_box_s_0009	Ramener Dialga, Palkia et Giratina depuis la région de Sinnoh
+sp_achstep_box_s_0001	Avoir déposé un Arcko, un Poussifeu et un Gobou de la région de Hoenn
+sp_achstep_box_s_0002	Avoir déposé un Arcko, un Massko et un Jungko de la région de Hoenn
+sp_achstep_box_s_0003	Avoir déposé un Poussifeu, un Galifeu et un Braségali de la région de Hoenn
+sp_achstep_box_s_0004	Avoir déposé un Gobou, un Flobio et un Laggron de la région de Hoenn
+sp_achstep_box_s_0005	Avoir déposé Solgaleo, Lunala et Necrozma de la région d'Alola
+sp_achstep_box_s_0006	Avoir déposé Groudon et Kyogre de la région de Hoenn
+sp_achstep_box_s_0007	Avoir déposé Cosmog, Cosmovum, Solgaleo et Lunala de la région d'Alola
+sp_achstep_box_s_0008	Avoir déposé un Tortipouss, un Ouisticram et un Tiplouf de la région de Sinnoh
+sp_achstep_box_s_0009	Avoir déposé Dialga, Palkia et Giratina de la région de Sinnoh
 sp_achstep_box_s_0010	Déposer 10 Pokémon Solo de nature
 sp_achstep_box_s_0011	Déposer 10 Pokémon Rigides de nature
 sp_achstep_box_s_0012	Déposer 10 Pokémon Mauvais de nature
@@ -1361,47 +1361,47 @@ sp_achstep_box_s_0033	Déposer 10 Pokémon Bizarres de nature
 sp_achstep_box_s_0034	Déposer 10 Pokémon Sérieux de nature
 sp_achstep_box_s_0035	Déposer 30 Pikachu
 sp_achstep_box_s_0036	Déposer 30 Métamorph
-sp_achstep_box_s_0037	Enregistrer un Pikachu de la région de Kanto
-sp_achstep_box_s_0038	Enregistrer un Évoli de la région de Kanto
-sp_achstep_box_s_0039	Enregistrer un Dracaufeu de la bonne vieille région de Kanto
-sp_achstep_box_s_0040	Enregistrer un Florizarre de la bonne vieille région de Kanto
-sp_achstep_box_s_0041	Enregistrer un Tortank de la bonne vieille région de Kanto
-sp_achstep_box_s_0042	Enregistrer un Pikachu de la bonne vieille région de Kanto
-sp_achstep_box_s_0043	Enregistrer Ho-Oh de la bonne vieille région de Johto.
-sp_achstep_box_s_0044	Enregistrer Lugia de la bonne vieille région de Johto.
-sp_achstep_box_s_0045	Enregistrer Suicune de la bonne vieille région de Johto.
-sp_achstep_box_s_0046	Enregistrer un Dracaufeu de la région de Kanto
-sp_achstep_box_s_0047	Enregistrer un Florizarre de la région de Kanto
-sp_achstep_box_s_0048	Enregistrer Ho-Oh, de la région de Johto
-sp_achstep_box_s_0049	Enregistrer Lugia, de la région de Johto
-sp_achstep_box_s_0050	Enregistrer Groudon, de la bonne vieille région de Hoenn
-sp_achstep_box_s_0051	Enregistrer Kyogre, de la bonne vieille région de Hoenn
-sp_achstep_box_s_0052	Enregistrer Rayquaza, de la bonne vieille région de Hoenn
-sp_achstep_box_s_0053	Enregistrer Dialga, de la région de Sinnoh
-sp_achstep_box_s_0054	Enregistrer Palkia, de la région de Sinnoh
-sp_achstep_box_s_0055	Enregistrer Giratina, de la région de Sinnoh
-sp_achstep_box_s_0056	Enregistrer Reshiram, de la région d'Unys
-sp_achstep_box_s_0057	Enregistrer Zekrom, de la région d'Unys
-sp_achstep_box_s_0058	Enregistrer Zekrom et Kyurem, de la région d'Unys
-sp_achstep_box_s_0059	Enregistrer Reshiram et Kyurem, de la région d'Unys
-sp_achstep_box_s_0060	Enregistrer Xerneas, de la région de Kalos
-sp_achstep_box_s_0061	Enregistrer Yveltal, de la région de Kalos
-sp_achstep_box_s_0062	Enregistrer Groudon, de la région de Hoenn
-sp_achstep_box_s_0063	Enregistrer Kyogre, de la région de Hoenn
-sp_achstep_box_s_0064	Enregistrer Solgaleo, de la région d'Alola
-sp_achstep_box_s_0065	Enregistrer Lunala, de la région d'Alola
-sp_achstep_box_s_0066	Enregistrer Solgaleo et Necrozma, de la région d'Alola
-sp_achstep_box_s_0067	Enregistrer Lunala et Necrozma, de la région d'Alola
-sp_achstep_box_s_0068	Enregistrer Zacian, de la région de Galar
-sp_achstep_box_s_0069	Enregistrer Zamazenta, de la région de Galar
-sp_achstep_box_s_0070	Enregistrer un Métalosse chromatique
-sp_achstep_box_s_0071	Enregistrer Rayquaza, de la région de Hoenn
-sp_achstep_box_s_0072	Enregistrer Diancie, de la région de Kalos
-sp_achstep_box_s_0073	Enregistrer un Ronflex pouvant utiliser Gare au Ronflex
-sp_achstep_box_s_0074	Enregistrer un Funécire de la région d'Unys
-sp_achstep_box_s_0075	Enregistrer un Évoli de la région d'Unys
+sp_achstep_box_s_0037	Avoir déposé un Pikachu de la région de Kanto
+sp_achstep_box_s_0038	Avoir déposé un Évoli de la région de Kanto
+sp_achstep_box_s_0039	Avoir déposé un Dracaufeu de la bonne vieille région de Kanto
+sp_achstep_box_s_0040	Avoir déposé un Florizarre de la bonne vieille région de Kanto
+sp_achstep_box_s_0041	Avoir déposé un Tortank de la bonne vieille région de Kanto
+sp_achstep_box_s_0042	Avoir déposé un Pikachu de la bonne vieille région de Kanto
+sp_achstep_box_s_0043	Avoir déposé Ho-Oh de la bonne vieille région de Johto.
+sp_achstep_box_s_0044	Avoir déposé Lugia de la bonne vieille région de Johto.
+sp_achstep_box_s_0045	Avoir déposé Suicune de la bonne vieille région de Johto.
+sp_achstep_box_s_0046	Avoir déposé un Dracaufeu de la région de Kanto
+sp_achstep_box_s_0047	Avoir déposé un Florizarre de la région de Kanto
+sp_achstep_box_s_0048	Avoir déposé Ho-Oh de la région de Johto
+sp_achstep_box_s_0049	Avoir déposé Lugia de la région de Johto
+sp_achstep_box_s_0050	Avoir déposé Groudon de la bonne vieille région de Hoenn
+sp_achstep_box_s_0051	Avoir déposé Kyogre de la bonne vieille région de Hoenn
+sp_achstep_box_s_0052	Avoir déposé Rayquaza de la bonne vieille région de Hoenn
+sp_achstep_box_s_0053	Avoir déposé Dialga de la région de Sinnoh
+sp_achstep_box_s_0054	Avoir déposé Palkia de la région de Sinnoh
+sp_achstep_box_s_0055	Avoir déposé Giratina de la région de Sinnoh
+sp_achstep_box_s_0056	Avoir déposé Reshira de la région d'Unys
+sp_achstep_box_s_0057	Avoir déposé Zekrom de la région d'Unys
+sp_achstep_box_s_0058	Avoir déposé Zekrom et Kyurem de la région d'Unys
+sp_achstep_box_s_0059	Avoir déposé Reshiram et Kyurem de la région d'Unys
+sp_achstep_box_s_0060	Avoir déposé Xerneas de la région de Kalos
+sp_achstep_box_s_0061	Avoir déposé Yveltal de la région de Kalos
+sp_achstep_box_s_0062	Avoir déposé Groudon de la région de Hoenn
+sp_achstep_box_s_0063	Avoir déposé Kyogre de la région de Hoenn
+sp_achstep_box_s_0064	Avoir déposé Solgaleo de la région d'Alola
+sp_achstep_box_s_0065	Avoir déposé Lunala de la région d'Alola
+sp_achstep_box_s_0066	Avoir déposé Solgaleo et Necrozma de la région d'Alola
+sp_achstep_box_s_0067	Avoir déposé Lunala et Necrozma de la région d'Alola
+sp_achstep_box_s_0068	Avoir déposé Zacian de la région de Galar
+sp_achstep_box_s_0069	Avoir déposé Zamazenta de la région de Galar
+sp_achstep_box_s_0070	Avoir déposé un Métalosse chromatique
+sp_achstep_box_s_0071	Avoir déposé Rayquaza de la région de Hoenn
+sp_achstep_box_s_0072	Avoir déposé Diancie de la région de Kalos
+sp_achstep_box_s_0073	Avoir déposé un Ronflex pouvant utiliser Gare au Ronflex
+sp_achstep_box_s_0074	Avoir déposé un Funécire de la région d'Unys
+sp_achstep_box_s_0075	Avoir déposé un Évoli de la région d'Unys
 sp_achstep_box_s_0076	Enregistrer Meloetta
-sp_achstep_box_s_0077	Enregistrer un Genesect chromatique
+sp_achstep_box_s_0077	Avoir déposé un Genesect chromatique
 sp_achstep_lib_000101	Enregistrer 5 Pokémon de type Ténèbres
 sp_achstep_lib_000102	Enregistrer 20 Pokémon de type Ténèbres
 sp_achstep_lib_000103	Enregistrer 50 Pokémon de type Ténèbres
@@ -2028,7 +2028,7 @@ sp_migration_04002	Prêt pour le transfert !
 sp_migration_05001	Un code de transfert n'est valide que pendant <B>trois minutes</B>. Veuillez le saisir dans Banque Pokémon avant la fin du temps imparti.
 sp_migration_05002	Vous ne pourrez pas retourner à l'écran précédent pendant <B>les trois minutes</B> durant lesquelles le code de transfert est affiché.
 sp_migration_05003	Afficher le code de transfert
-sp_migration_06001	Il n'y a pas assez d'espace pour déposer tous vos Pokémon ! Il manque de l'espace pour <B>[VAR]</B> Pokémon.
+sp_migration_06001	Il n'y a pas assez d'espace pour déposer tous vos Pokémon ! Il manque de l'espace pour <B>[VAR_YEAR]Ā</B> Pokémon.
 sp_migration_06002	Veuillez trier vos Pokémon pour faire de la place.
 sp_migration_06003	Annulation du transfert.
 sp_migration_07001	Le compte Nintendo que vous utilisez actuellement n'a pas d'identifiant Nintendo Network associé.
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	Vous avez fait un échange sur le GTS.
 sp_playerlog_00003	Vous avez fait un échange en groupe.
 sp_playerlog_00004	Vous avez fait un échange avec la Boîte Miracle.
 sp_playerlog_00005	Vous avez reçu un Cadeau Mystère.
-sp_playerlog_00006	Vous avez utilisé [VAR] point [CHECK_PLURAL]s.
-sp_playerlog_00007	Vous avez obtenu [VAR] point [CHECK_PLURAL]s.
-sp_playerlog_00008	Vous avez converti [VAR] point [CHECK_PLURAL]s en PCo.
+sp_playerlog_00006	Vous avez utilisé [VAR_YEAR]Ā point [CHECK_PLURAL]s.
+sp_playerlog_00007	Vous avez obtenu [VAR_YEAR]Ā point [CHECK_PLURAL]s.
+sp_playerlog_00008	Vous avez converti [VAR_YEAR]Ā point [CHECK_PLURAL]s en PCo.
 sp_playerlog_00009	Vous avez fait un <b>échange entre amis</b>.
 sp_playerlog_00010	Vous avez fait un échange sur le <b>GTS</b>.
 sp_playerlog_00011	Vous avez fait un <b>échange en groupe</b>.
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	Ordre alphabétique
 sp_ui_achieve_empty_list	Aucun haut fait à afficher.
 sp_ui_achieve_join_ok	Vous avez accompli un haut fait !
 sp_ui_achieve_join_ng	Aucun haut fait à afficher.
-sp_ui_report_01	[VAR]
-sp_ui_report_02	[VAR]
+sp_ui_report_01	[VAR_YEAR]Ā
+sp_ui_report_02	[VAR_YEAR]Ā
 sp_ui_report_03	Pokémon déposés
 sp_ui_report_04	Pokémon retirés
 sp_ui_report_05	Total des points obtenus
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	Aucune annonce à afficher.
 sp_ui_voice_input	Vérification de l'entrée son...
 sp_ui_voice_input_error	Une erreur est survenue.  Veuillez toucher l'icône en forme de micro pour réessayer.
 sp_ui_recognizer_limit_error	Vous avez atteint la limite quotidienne d'utilisations de la reconnaissance vocale.
-sp_ui_myroom_point_number	[VAR] P
+sp_ui_myroom_point_number	[VAR_YEAR]Ā P
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_fra.msbt

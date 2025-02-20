@@ -2028,7 +2028,7 @@ sp_migration_04002	准备就绪！
 sp_migration_05001	转移密码的有效时间 只有<B>３分钟</B>。 请于有效时间内 在《宝可梦虚拟银行》完成输入。
 sp_migration_05002	转移密码显示之后， 在<B>３分钟</B>内 将无法回到上一个画面！
 sp_migration_05003	显示转移密码！
-sp_migration_06001	还需要<B>[VAR]只</B> 宝可梦的空间！
+sp_migration_06001	还需要<B>[VAR_YEAR]只</B> 宝可梦的空间！
 sp_migration_06002	请通过整理宝可梦等方法 预留出足够的空间。
 sp_migration_06003	中止转移。
 sp_migration_07001	现在所使用的Nintendo Account 没有关联Nintendo Network ID。
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	通过GTS进行了交换。
 sp_playerlog_00003	进行了群组交换。
 sp_playerlog_00004	通过奇迹盒子进行了交换。
 sp_playerlog_00005	已通过神秘礼物接收。
-sp_playerlog_00006	使用了[VAR]点数。
-sp_playerlog_00007	获得了[VAR]点数。
-sp_playerlog_00008	将[VAR]点数兑换为BP了。
+sp_playerlog_00006	使用了[VAR_YEAR]点数。
+sp_playerlog_00007	获得了[VAR_YEAR]点数。
+sp_playerlog_00008	将[VAR_YEAR]点数兑换为BP了。
 sp_playerlog_00009	进行了<b>好友交换</b>。
 sp_playerlog_00010	通过<b>GTS</b>进行了交换。
 sp_playerlog_00011	进行了<b>群组交换</b>。
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR_PLAYER]在[VAR]寄放了。
 sp_playerlog_00014	[VAR_PLAYER]在[VAR]领取了。
 sp_playerlog_00015	放生了。
 sp_playerlog_00016	已通过神秘礼物接收。
-sp_playerlog_00017	传送了[VAR]只宝可梦。
+sp_playerlog_00017	传送了[VAR_YEAR]只宝可梦。
 sp_playerlog_00018	[VAR_PLAYER]的[VAR_PLAYER]
 sp_playerlog_00019	传送的宝可梦
 sp_playerlog_00020	接收的宝可梦
@@ -2317,7 +2317,7 @@ Text File : sp_sample_sch.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_sch.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	宝可梦
+sp_sealcategory_000	贴纸
 sp_sealcategory_001	壁纸
 sp_sealcategory_002	装饰
 
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	名称排序
 sp_ui_achieve_empty_list	没有可显示的成就。
 sp_ui_achieve_join_ok	成就已完成。
 sp_ui_achieve_join_ng	没有可完成的成就。
-sp_ui_report_01	[VAR]只
-sp_ui_report_02	[VAR]点数
+sp_ui_report_01	[VAR_YEAR]只
+sp_ui_report_02	[VAR_YEAR]点数
 sp_ui_report_03	寄放过的宝可梦数量
 sp_ui_report_04	领取过的宝可梦数量
 sp_ui_report_05	累积获得点数
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	没有可以显示的公告。
 sp_ui_voice_input	正在识别语音……
 sp_ui_voice_input_error	发生错误。  请轻点麦克风图标，再试一次。
 sp_ui_recognizer_limit_error	１天内可使用的语音识别次数已达上限。
-sp_ui_myroom_point_number	[VAR]p
+sp_ui_myroom_point_number	[VAR_YEAR]p
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt

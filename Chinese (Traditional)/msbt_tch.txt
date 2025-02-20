@@ -2028,7 +2028,7 @@ sp_migration_04002	準備OK！
 sp_migration_05001	轉移密碼的有效時間 僅有<B>３分鐘</B>。 請於時間內在『寶可夢虛擬銀行』完成輸入。
 sp_migration_05002	轉移密碼顯示之後， <B>３分鐘</B>內將無法 回到上一個畫面！
 sp_migration_05003	顯示轉移密碼！
-sp_migration_06001	還需要<B>[VAR]隻</B> 寶可夢的空間！
+sp_migration_06001	還需要<B>[VAR_YEAR]隻</B> 寶可夢的空間！
 sp_migration_06002	請透過整理寶可夢等方法， 準備好充足的空間。
 sp_migration_06003	中止轉移
 sp_migration_07001	你現在使用的Nintendo Account 沒有連動到Nintendo Network ID。
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	透過GTS進行了交換
 sp_playerlog_00003	進行了群組交換
 sp_playerlog_00004	透過奇蹟盒子進行了交換
 sp_playerlog_00005	已透過神秘禮物接收
-sp_playerlog_00006	使用了[VAR]點數
-sp_playerlog_00007	獲得了[VAR]點數
-sp_playerlog_00008	已將[VAR]點數兌換為BP
+sp_playerlog_00006	使用了[VAR_YEAR]點數
+sp_playerlog_00007	獲得了[VAR_YEAR]點數
+sp_playerlog_00008	已將[VAR_YEAR]點數兌換為BP
 sp_playerlog_00009	進行了<b>朋友交換</b>
 sp_playerlog_00010	透過<b>GTS</b>進行了交換
 sp_playerlog_00011	進行了<b>群組交換</b>
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR_PLAYER]在[VAR]寄放了
 sp_playerlog_00014	[VAR_PLAYER]在[VAR]領取了
 sp_playerlog_00015	放生了
 sp_playerlog_00016	已透過神秘禮物接收
-sp_playerlog_00017	傳送了[VAR]隻寶可夢
+sp_playerlog_00017	傳送了[VAR_YEAR]隻寶可夢
 sp_playerlog_00018	[VAR_PLAYER]的[VAR_PLAYER]
 sp_playerlog_00019	傳送的寶可夢
 sp_playerlog_00020	接收的寶可夢
@@ -2317,7 +2317,7 @@ Text File : sp_sample_tch.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_tch.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	寶可夢
+sp_sealcategory_000	貼紙
 sp_sealcategory_001	壁紙
 sp_sealcategory_002	裝飾
 
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	按名稱排序
 sp_ui_achieve_empty_list	沒有可顯示的成就。
 sp_ui_achieve_join_ok	已達成成就。
 sp_ui_achieve_join_ng	沒有可達成的成就。
-sp_ui_report_01	[VAR]隻
-sp_ui_report_02	[VAR]點數
+sp_ui_report_01	[VAR_YEAR]隻
+sp_ui_report_02	[VAR_YEAR]點數
 sp_ui_report_03	寄放過的寶可夢數量
 sp_ui_report_04	領取出的寶可夢數量
 sp_ui_report_05	累計獲得點數
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	沒有可顯示的公告。
 sp_ui_voice_input	正在辨識語音……
 sp_ui_voice_input_error	發生錯誤。  請點一下麥克風的圖示， 再試一次。
 sp_ui_recognizer_limit_error	語音辨識的單日使用次數已達上限。
-sp_ui_myroom_point_number	[VAR]p
+sp_ui_myroom_point_number	[VAR_YEAR]p
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_tch.msbt

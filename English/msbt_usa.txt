@@ -2317,7 +2317,7 @@ Text File : sp_sample_usa.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_usa.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	Pokémon
+sp_sealcategory_000	Stickers
 sp_sealcategory_001	Wallpapers
 sp_sealcategory_002	Decorations
 

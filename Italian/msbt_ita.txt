@@ -2028,7 +2028,7 @@ sp_migration_04002	Tutto pronto!
 sp_migration_05001	Il codice trasferimento è valido solo per <B>tre minuti</B>. Inserisci il codice nella Banca Pokémon prima che scada.
 sp_migration_05002	Una volta che il codice trasferimento è attivo, non potrai tornare alla schermata precedente per <B>tre minuti</B>!
 sp_migration_05003	Visualizza il codice trasferimento
-sp_migration_06001	Non c'è abbastanza spazio per tutti i tuoi Pokémon! Fai spazio per <B>[VAR]</B> Pokémon!
+sp_migration_06001	Non c'è abbastanza spazio per tutti i tuoi Pokémon! Fai spazio per <B>[VAR_YEAR]Ā</B> Pokémon!
 sp_migration_06002	Riorganizza i tuoi Pokémon in modo da assicurare abbastanza spazio.
 sp_migration_06003	Il trasferimento verrà interrotto.
 sp_migration_07001	L'account Nintendo attualmente in uso non è collegato a un Nintendo Network ID.
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	Hai fatto uno scambio tramite GTS.
 sp_playerlog_00003	Hai fatto uno scambio di gruppo.
 sp_playerlog_00004	Hai fatto uno scambio tramite Box prodigioso.
 sp_playerlog_00005	Hai ricevuto un Dono Segreto.
-sp_playerlog_00006	Hai usato [VAR] punt [CHECK_PLURAL]oi.
-sp_playerlog_00007	Hai ottenuto [VAR] punt [CHECK_PLURAL]oi.
-sp_playerlog_00008	Hai convertito [VAR] punt [CHECK_PLURAL]oi in PL.
+sp_playerlog_00006	Hai usato [VAR_YEAR]Ā punt [CHECK_PLURAL]oi.
+sp_playerlog_00007	Hai ottenuto [VAR_YEAR]Ā punt [CHECK_PLURAL]oi.
+sp_playerlog_00008	Hai convertito [VAR_YEAR]Ā punt [CHECK_PLURAL]oi in PL.
 sp_playerlog_00009	Hai fatto uno <b>scambio con amici</b>.
 sp_playerlog_00010	Hai fatto uno scambio tramite <b>GTS</b>.
 sp_playerlog_00011	Hai fatto uno <b>scambio di gruppo</b>.
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	[VAR_PLAYER] ha depositato Pokémon in [VAR].
 sp_playerlog_00014	[VAR_PLAYER] ha ritirato Pokémon in [VAR].
 sp_playerlog_00015	Hai liberato dei Pokémon.
 sp_playerlog_00016	Hai ricevuto un Dono Segreto.
-sp_playerlog_00017	Hai trasferito [VAR] Pokémon.
+sp_playerlog_00017	Hai trasferito [VAR_YEAR]Ā Pokémon.
 sp_playerlog_00018	[VAR_PLAYER] di [VAR_PLAYER]
 sp_playerlog_00019	Pokémon inviato
 sp_playerlog_00020	Pokémon ricevuto
@@ -2317,7 +2317,7 @@ Text File : sp_sample_ita.msbt
 ~~~~~~~~~~~~~~~
 Text File : sp_sealcategory_ita.msbt
 ~~~~~~~~~~~~~~~
-sp_sealcategory_000	Pokémon
+sp_sealcategory_000	Adesivi
 sp_sealcategory_001	Sfondi
 sp_sealcategory_002	Decorazioni
 
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	Ordine alfabetico
 sp_ui_achieve_empty_list	La lista è vuota.
 sp_ui_achieve_join_ok	Hai raggiunto un obiettivo!
 sp_ui_achieve_join_ng	Non ci sono obiettivi disponibili.
-sp_ui_report_01	[VAR]
-sp_ui_report_02	[VAR]
+sp_ui_report_01	[VAR_YEAR]Ā
+sp_ui_report_02	[VAR_YEAR]Ā
 sp_ui_report_03	Pokémon depositati
 sp_ui_report_04	Pokémon ritirati
 sp_ui_report_05	Totale punti guadagnati
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	Non ci sono notifiche.
 sp_ui_voice_input	Verifica audio microfono in corso...
 sp_ui_voice_input_error	Si è verificato un errore.  Tocca l'icona del microfono per riprovare.
 sp_ui_recognizer_limit_error	Hai raggiunto il limite giornaliero dell'utilizzo del riconoscimento vocale.
-sp_ui_myroom_point_number	[VAR]
+sp_ui_myroom_point_number	[VAR_YEAR]Ā
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt

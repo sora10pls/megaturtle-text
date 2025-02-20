@@ -2028,7 +2028,7 @@ sp_migration_04002	Bereit!
 sp_migration_05001	Ein Transferpasswort ist nur <B>drei Minuten</B> lang gültig. Bitte gib das Passwort innerhalb der Gültigkeitsdauer in Pokémon Bank ein.
 sp_migration_05002	Sobald das Passwort angezeigt wird, kannst du <B>drei Minuten</B> lang nicht zum vorherigen Bildschirm zurückkehren.
 sp_migration_05003	Transferpasswort anzeigen
-sp_migration_06001	Es ist nicht genügend Platz für all deine Pokémon vorhanden! Du benötigst Platz für <B>[VAR]</B> weitere(s) Pokémon.
+sp_migration_06001	Es ist nicht genügend Platz für all deine Pokémon vorhanden! Du benötigst Platz für <B>[VAR_YEAR]Ԁ</B> weitere(s) Pokémon.
 sp_migration_06002	Bitte ordne deine Pokémon, um genügend Platz zu schaffen.
 sp_migration_06003	Der Transfer wird unterbrochen.
 sp_migration_07001	Der Nintendo-Account, den du zurzeit verwendest, wurde nicht mit einer Nintendo Network ID verknüpft.
@@ -2270,9 +2270,9 @@ sp_playerlog_00002	Einen GTS-Tausch durchgeführt
 sp_playerlog_00003	Einen Gruppentausch durchgeführt
 sp_playerlog_00004	Einen Tausch per Wunderbox durchgeführt
 sp_playerlog_00005	Per Geheimgeschenk erhalten
-sp_playerlog_00006	[VAR] P verwendet
-sp_playerlog_00007	[VAR] P erhalten
-sp_playerlog_00008	[VAR] P in GP umgetauscht
+sp_playerlog_00006	[VAR_YEAR]̀ P verwendet
+sp_playerlog_00007	[VAR_YEAR]̀ P erhalten
+sp_playerlog_00008	[VAR_YEAR]̀ P in GP umgetauscht
 sp_playerlog_00009	Einen <b>Freundestausch</b> durchgeführt
 sp_playerlog_00010	Einen <b>GTS-Tausch</b> durchgeführt
 sp_playerlog_00011	Einen <b>Gruppentausch</b> durchgeführt
@@ -2281,7 +2281,7 @@ sp_playerlog_00013	Von [VAR_PLAYER] in [VAR] gelagert
 sp_playerlog_00014	Von [VAR_PLAYER] aus [VAR] entnommen
 sp_playerlog_00015	Freigelassen
 sp_playerlog_00016	Per Geheimgeschenk erhalten
-sp_playerlog_00017	[VAR] Pokémon übertragen
+sp_playerlog_00017	[VAR_YEAR]Ԁ Pokémon übertragen
 sp_playerlog_00018	[VAR_PLAYER] von [VAR_PLAYER]
 sp_playerlog_00019	Gesendetes Pokémon
 sp_playerlog_00020	Empfangenes Pokémon
@@ -2812,8 +2812,8 @@ sp_ui_achieve_sort_title	Titel
 sp_ui_achieve_empty_list	Keine Erfolge vorhanden
 sp_ui_achieve_join_ok	Erfolg erzielt!
 sp_ui_achieve_join_ng	Es gibt keine Erfolge, die du erzielen kannst.
-sp_ui_report_01	[VAR]
-sp_ui_report_02	[VAR] P
+sp_ui_report_01	[VAR_YEAR]Ԁ
+sp_ui_report_02	[VAR_YEAR]̀ P
 sp_ui_report_03	Gelagerte Pokémon
 sp_ui_report_04	Entnommene Pokémon
 sp_ui_report_05	Erhaltene Punkte
@@ -2841,7 +2841,7 @@ sp_ui_notice_empty_list	Keine Neuigkeiten vorhanden
 sp_ui_voice_input	Mikrofon-Input wird überprüft...
 sp_ui_voice_input_error	Ein Fehler ist aufgetreten.  Berühre das Mikrofon-Symbol, um es erneut zu versuchen.
 sp_ui_recognizer_limit_error	Die tägliche maximale Anzahl für Nutzungen der Spracheingabe wurde erreicht.
-sp_ui_myroom_point_number	[VAR] P
+sp_ui_myroom_point_number	[VAR_YEAR]̀ P
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt
