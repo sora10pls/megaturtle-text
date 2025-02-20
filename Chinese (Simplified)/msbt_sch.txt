@@ -4879,10 +4879,26 @@ sp_ui_pgl_reference_sv_info
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	对战数据首页
 sp_ui_pgl_back	返回
+sp_ui_svbd_battledata	对战数据
+sp_ui_svbd_rankbattle	级别对战
+sp_ui_svbd_internet_tournament	官方大赛
+sp_ui_svbd_official_competition	官方大赛
+sp_ui_svbd_friendcompe	伙伴大赛
+sp_ui_svbd_pastdata	查看过去的成绩
+sp_ui_svbd_friendcompe_na_required	要确认伙伴大赛需关联 Nintendo Account。  请从“设置”处关联 正在游玩《宝可梦 朱／紫》的 Nintendo Account。
+sp_ui_svbd_in_preparation	此内容正在准备中。
+sp_ui_svbd_ok	ＯＫ
+sp_ui_svbd_terms_of_use	关联Nintendo Account
+sp_ui_svbd_reference_sv_info	关联Nintendo Account后 可确认在《宝可梦》系列参加过的 “互联网大赛”及“级别对战”的个人成绩。
+sp_ui_svbd_yes	已确认
+sp_ui_svbd_battledata_top	对战数据首页
+sp_ui_svbd_back	返回
 sp_ui_all_pokemon	所有宝可梦
 sp_ui_release	取消
 sp_ui_goodby	放生
 sp_ui_goodby_confirm	确定要放生吗？  ※无法放生已加入 “我的最爱”的宝可梦。
+sp_ui_goodby_singular	将[VAR_PKNAME]放生了。 再见了，[VAR_PKNAME]！
+sp_ui_goodby_plural	将[VAR_PKNAME]它们放生了。 再见了，大家！
 sp_ui_set_label_max	存在已贴满标签的宝可梦。
 sp_ui_lump_favorite	一并加入“我的最爱”
 sp_ui_lump_favorite_release	一并取消“我的最爱”
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	Nintendo Switch版《Pokémon HOME》 能够关联《宝�
 sp_ui_app_desc_0010_v3	Nintendo Switch版《Pokémon HOME》 能够关联《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》。 并且，从《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》移动到《Pokémon HOME》里的 宝可梦如果没被带去过其他软件，就能被带回 《精灵宝可梦 Let‘s Go！皮卡丘／ Let’s Go！伊布》。
 sp_ui_app_desc_0011_v3	只有在《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》里捉到的宝可梦 才能被带到《精灵宝可梦 Let's Go！皮卡丘／ Let's Go！伊布》去。
 sp_ui_app_desc_0012_v3	《宝可梦》系列中成为伙伴的 宝可梦们能够通过 《宝可梦虚拟银行》移动到 Nintendo Switch版和智能手机版 《Pokémon HOME》。
-sp_ui_app_desc_0013_v3	将宝可梦从《宝可梦虚拟银行》 移动到《Pokémon HOME》 需加入进阶方案（收费）。 使用《宝可梦虚拟银行》需另行收费。
+sp_ui_app_desc_0013_v3	将宝可梦从《宝可梦虚拟银行》 移动到《Pokémon HOME》 需加入进阶方案（收费）。
 sp_ui_app_desc_0014_v3	关联《Pokémon GO》
 sp_ui_app_desc_0015_v3	可将《Pokémon GO》中成为伙伴的宝可梦 传送到Nintendo Switch版 和智能手机版《Pokémon HOME》里。
 sp_ui_app_desc_0016_v3	关联《宝可梦 剑／盾》
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	以月为单位显示
 sp_ui_get_calendar_dialog_ymd_v9	以日为单位显示
 sp_ui_userdel_complete_body_v11	已完全删除账号的数据。 关闭此画面后， 将移动到创建新账号的画面。
 sp_ui_userdel_error_body_v11	上次关闭应用程序时， 账号的删除尚未完成。 将继续进行账号的删除。
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_sch.msbt

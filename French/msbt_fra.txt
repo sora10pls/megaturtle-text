@@ -4874,15 +4874,31 @@ sp_ui_pgl_mypage_confirm_v1	Pour consulter votre historique des combats, vous av
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_pgl_friendcompe	Tournois amicaux
-sp_ui_pgl_pastdata	Voir votre historique des combats
+sp_ui_pgl_pastdata	Voir l'historique des combats passés
 sp_ui_pgl_reference_sv_info	
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	Menu des infos combats
 sp_ui_pgl_back	Retour
+sp_ui_svbd_battledata	Infos combats
+sp_ui_svbd_rankbattle	Combats classés
+sp_ui_svbd_internet_tournament	Compétition officielle
+sp_ui_svbd_official_competition	Compétition officielle
+sp_ui_svbd_friendcompe	Tournois amicaux
+sp_ui_svbd_pastdata	Voir l'historique des combats passés
+sp_ui_svbd_friendcompe_na_required	Pour consulter les infos sur les tournois amicaux, vous avez besoin d'un compte Nintendo associé.  Veuillez vous rendre dans le menu Paramètres pour associer le compte Nintendo que vous utilisez pour jouer à Pokémon Écarlate ou Pokémon Violet.
+sp_ui_svbd_in_preparation	Cette fonctionnalité n'est pas encore disponible.
+sp_ui_svbd_ok	OK
+sp_ui_svbd_terms_of_use	Association de votre compte Nintendo
+sp_ui_svbd_reference_sv_info	Si vous avez un compte Nintendo associé, vous pouvez consulter l'historique des différents combats de la série principale Pokémon auxquels vous avez participé, tels que des compétitions Internet et des combats classés.
+sp_ui_svbd_yes	Je comprends
+sp_ui_svbd_battledata_top	Menu des infos combats
+sp_ui_svbd_back	Retour
 sp_ui_all_pokemon	Tous les Pokémon
 sp_ui_release	Annuler
 sp_ui_goodby	Relâcher
 sp_ui_goodby_confirm	Êtes-vous sûr de vouloir relâcher la sélection ?  Note : Vous ne pouvez pas relâcher de Pokémon marqués comme favoris.
+sp_ui_goodby_singular	Vous avez relâché [VAR_PKNAME]. Adieu, [VAR_PKNAME] !
+sp_ui_goodby_plural	Vous avez relâché les Pokémon sélectionnés. Adieu, les amis !
 sp_ui_set_label_max	Au moins l'un de vos Pokémon a déjà le maximum d'étiquettes.
 sp_ui_lump_favorite	Ajouter la sélection aux favoris
 sp_ui_lump_favorite_release	Retirer la sélection des favoris
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	Il est possible de synchroniser Pokémon Épée et Pokém
 sp_ui_app_desc_0010_v3	Il est possible de synchroniser Pokémon : Let's Go, Pikachu et Pokémon : Let's Go, Évoli avec la version Nintendo Switch de Pokémon HOME. Une fois cette synchronisation effectuée, vous pourrez transférer des Pokémon entre ces logiciels. Toutefois, une fois qu'un Pokémon issu de Pokémon : Let's Go, Pikachu ou Pokémon : Let's Go, Évoli a été transféré vers un autre jeu via Pokémon HOME, il ne pourra plus être renvoyé dans son jeu d'origine.
 sp_ui_app_desc_0011_v3	Seuls les Pokémon capturés dans Pokémon : Let's Go, Pikachu et Pokémon : Let's Go, Évoli peuvent être transférés vers ces jeux.
 sp_ui_app_desc_0012_v3	Les Pokémon que vous avez rencontrés dans d'anciens jeux de la série principale Pokémon peuvent être transférés vers la version Nintendo Switch ou la version pour appareils mobiles de Pokémon HOME via Banque Pokémon.
-sp_ui_app_desc_0013_v3	Vous devez avoir un compte premium (service payant) pour pouvoir transférer des Pokémon depuis Banque Pokémon vers Pokémon HOME. L'utilisation de Banque Pokémon a un coût annuel séparé.
+sp_ui_app_desc_0013_v3	Vous devez avoir un compte premium (service payant) pour pouvoir transférer des Pokémon depuis Banque Pokémon vers Pokémon HOME.
 sp_ui_app_desc_0014_v3	Transfert de Pokémon depuis Pokémon GO
 sp_ui_app_desc_0015_v3	Les Pokémon que vous avez capturés dans Pokémon GO peuvent être transférés vers la version Nintendo Switch et la version pour appareils mobiles de Pokémon HOME.
 sp_ui_app_desc_0016_v3	Synchronisation avec Pokémon Épée et Pokémon Bouclier
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	Afficher par mois
 sp_ui_get_calendar_dialog_ymd_v9	Afficher par jour
 sp_ui_userdel_complete_body_v11	Toutes les données de votre compte ont été supprimées. Fermer cette page vous redirigera vers l'écran de création de compte.
 sp_ui_userdel_error_body_v11	Votre compte n'a pas été totalement supprimé la dernière fois que vous avez fermé l'application. La suppression du compte va à présent se poursuivre.
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_fra.msbt

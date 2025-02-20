@@ -4874,15 +4874,31 @@ sp_ui_pgl_mypage_confirm_v1	Para poder consultar tus resultados, necesitas vincu
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_pgl_friendcompe	Torneos amistosos
-sp_ui_pgl_pastdata	Ver mis resultados
+sp_ui_pgl_pastdata	Ver mis resultados anteriores
 sp_ui_pgl_reference_sv_info	
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	Datos de combate
 sp_ui_pgl_back	Atrás
+sp_ui_svbd_battledata	Datos de combate
+sp_ui_svbd_rankbattle	Combates Clasificatorios
+sp_ui_svbd_internet_tournament	Torneos oficiales
+sp_ui_svbd_official_competition	Torneos oficiales
+sp_ui_svbd_friendcompe	Torneos amistosos
+sp_ui_svbd_pastdata	Ver mis resultados anteriores
+sp_ui_svbd_friendcompe_na_required	Para poder ver la información sobre torneos amistosos, necesitas vincular una cuenta Nintendo.  Vincula la cuenta Nintendo que utilizas para jugar a Pokémon Escarlata o Pokémon Púrpura desde el menú Opciones.
+sp_ui_svbd_in_preparation	Esta función aún no está disponible.
+sp_ui_svbd_ok	Aceptar
+sp_ui_svbd_terms_of_use	Vinculación de una cuenta Nintendo
+sp_ui_svbd_reference_sv_info	Si has vinculado una Cuenta Nintendo, puedes comprobar los resultados de los combates en los que hayas participado en los juegos de la serie principal de Pokémon, como los Torneos en Línea y los Combates Clasificatorios.
+sp_ui_svbd_yes	Entendido
+sp_ui_svbd_battledata_top	Datos de combate
+sp_ui_svbd_back	Atrás
 sp_ui_all_pokemon	Todos los Pokémon
 sp_ui_release	Desmarcar
 sp_ui_goodby	Liberar
 sp_ui_goodby_confirm	¿Seguro que quieres hacerlo?  No puedes liberar Pokémon marcados como favoritos.
+sp_ui_goodby_singular	Has liberado a [VAR_PKNAME]. ¡Adiós, [VAR_PKNAME]!
+sp_ui_goodby_plural	Has liberado a [VAR_PKNAME] y compañía. ¡Hasta siempre, amigos!
 sp_ui_set_label_max	Al menos un Pokémon ya tiene el máximo de etiquetas.
 sp_ui_lump_favorite	Añadir a favoritos
 sp_ui_lump_favorite_release	Quitar de favoritos
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	Pokémon Espada y Pokémon Escudo son compatibles con la 
 sp_ui_app_desc_0010_v3	Pokémon: Let's Go, Pikachu! y Pokémon: Let's Go, Eevee! son compatibles con la versión de Pokémon HOME para Nintendo Switch. Una vez conectados, se pueden transferir Pokémon de los juegos a Pokémon HOME o viceversa. Sin embargo, si un Pokémon procedente de Pokémon: Let's Go, Pikachu! o Pokémon: Let's Go, Eevee! se transfiere a otro juego distinto mediante Pokémon HOME, dicho Pokémon no podrá transferirse de vuelta a su juego original.
 sp_ui_app_desc_0011_v3	Solo los Pokémon procedentes de Pokémon: Let's Go, Pikachu! o Pokémon: Let's Go, Eevee! pueden transferirse a estos dos juegos.
 sp_ui_app_desc_0012_v3	El Banco de Pokémon te permite trasladar Pokémon obtenidos en títulos anteriores de la serie principal a la versión de Pokémon HOME para Nintendo Switch y la versión para dispositivos móviles.
-sp_ui_app_desc_0013_v3	Para poder trasladar Pokémon desde el Banco de Pokémon a Pokémon HOME, debes tener el plan prémium (de pago). El Banco de Pokémon tiene un coste anual por separado.
+sp_ui_app_desc_0013_v3	Para poder trasladar Pokémon desde el Banco de Pokémon a Pokémon HOME, debes tener el plan prémium (de pago).
 sp_ui_app_desc_0014_v3	Conectar Pokémon GO
 sp_ui_app_desc_0015_v3	Es posible transferir Pokémon obtenidos en Pokémon GO a la versión de Pokémon HOME para Nintendo Switch y la versión para dispositivos móviles.
 sp_ui_app_desc_0016_v3	Conectar Pokémon Espada y Pokémon Escudo
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	Vista mensual
 sp_ui_get_calendar_dialog_ymd_v9	Vista diaria
 sp_ui_userdel_complete_body_v11	Los datos de tu cuenta se han borrado por completo. Cuando cierres esta pantalla, se te redirigirá a la pantalla de creación de cuenta.
 sp_ui_userdel_error_body_v11	No se terminó de eliminar tu cuenta la última vez que cerraste la aplicación. A continuación se reanudará el proceso de eliminación.
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_esp.msbt

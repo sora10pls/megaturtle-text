@@ -4879,10 +4879,26 @@ sp_ui_pgl_reference_sv_info
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	Schermata lotte
 sp_ui_pgl_back	Indietro
+sp_ui_svbd_battledata	Lotte
+sp_ui_svbd_rankbattle	Lotte Competitive
+sp_ui_svbd_internet_tournament	Gare Ufficiali
+sp_ui_svbd_official_competition	Gara Ufficiale
+sp_ui_svbd_friendcompe	Gare Private
+sp_ui_svbd_pastdata	Risultati lotte passate
+sp_ui_svbd_friendcompe_na_required	Per visualizzare informazioni sulle Gare Private, devi collegare il tuo account Nintendo.  Puoi collegare l'account Nintendo che usi per giocare a Pokémon Scarlatto o Pokémon Violetto dalle "Opzioni".
+sp_ui_svbd_in_preparation	Questa funzione non è ancora pronta.
+sp_ui_svbd_ok	Ok
+sp_ui_svbd_terms_of_use	Collegamento account Nintendo
+sp_ui_svbd_reference_sv_info	Se hai collegato un account Nintendo, puoi controllare i risultati ottenuti nelle lotte a cui hai partecipato nella serie principale, come ad esempio le Gare Online e le Lotte Competitive.
+sp_ui_svbd_yes	Ho capito
+sp_ui_svbd_battledata_top	Schermata lotte
+sp_ui_svbd_back	Indietro
 sp_ui_all_pokemon	Tutti i Pokémon
 sp_ui_release	Deseleziona
 sp_ui_goodby	Libera
 sp_ui_goodby_confirm	Vuoi davvero procedere?  Non puoi liberare un Pokémon se è tra i tuoi preferiti.
+sp_ui_goodby_singular	Hai liberato [VAR_PKNAME]. Addio, [VAR_PKNAME]!
+sp_ui_goodby_plural	Hai liberato [VAR_PKNAME] e gli altri Pokémon selezionati. Addio, amici!
 sp_ui_set_label_max	C'è almeno un Pokémon che non può più ricevere etichette.
 sp_ui_lump_favorite	Aggiungi ai preferiti
 sp_ui_lump_favorite_release	Togli dai preferiti
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	Pokémon Spada e Pokémon Scudo possono essere collegati 
 sp_ui_app_desc_0010_v3	Pokémon: Let's Go, Pikachu! e Pokémon: Let's Go, Eevee! possono essere collegati a Pokémon HOME per Nintendo Switch. Potrai trasferire Pokémon da questi giochi a Pokémon HOME e viceversa, ma se trasferisci un Pokémon da Pokémon: Let's Go, Pikachu! o Pokémon: Let's Go, Eevee! a un altro gioco della serie tramite Pokémon HOME, non potrà più tornare nel suo gioco originale.
 sp_ui_app_desc_0011_v3	Nota: puoi trasferire in Pokémon: Let's Go, Pikachu! e Pokémon: Let's Go, Eevee! solo Pokémon che hai catturato in questi giochi!
 sp_ui_app_desc_0012_v3	I Pokémon incontrati in giochi della serie precedenti possono essere trasferiti in Pokémon HOME per Nintendo Switch o per dispositivi mobili tramite la Banca Pokémon.
-sp_ui_app_desc_0013_v3	Nota: puoi trasferire Pokémon dalla Banca Pokémon a Pokémon HOME solo con il servizio premium (a pagamento). L'utilizzo della Banca Pokémon richiede il pagamento di una tariffa annuale a parte.
+sp_ui_app_desc_0013_v3	Nota: puoi trasferire Pokémon dalla Banca Pokémon a Pokémon HOME solo con il servizio premium (a pagamento).
 sp_ui_app_desc_0014_v3	Collegamento a Pokémon GO
 sp_ui_app_desc_0015_v3	I Pokémon catturati in Pokémon GO possono essere trasferiti nella versione di Pokémon HOME per Nintendo Switch e in quella per dispositivi mobili.
 sp_ui_app_desc_0016_v3	Collegamento a Pokémon Spada e Pokémon Scudo
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	Visualizza per mese
 sp_ui_get_calendar_dialog_ymd_v9	Visualizza per giorno
 sp_ui_userdel_complete_body_v11	Tutti i dati del tuo account sono stati completamente cancellati. Tornerai alla schermata di creazione dell'account, una volta chiusa questa schermata.
 sp_ui_userdel_error_body_v11	Il tuo account non è stato eliminato completamente l'ultima volta che hai chiuso l'applicazione. Il processo di eliminazione riprenderà adesso.
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_ita.msbt

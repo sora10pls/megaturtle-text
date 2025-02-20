@@ -4879,10 +4879,26 @@ sp_ui_pgl_reference_sv_info
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	배틀 데이터 TOP
 sp_ui_pgl_back	돌아간다
+sp_ui_svbd_battledata	배틀 데이터
+sp_ui_svbd_rankbattle	랭크배틀
+sp_ui_svbd_internet_tournament	공식 대회
+sp_ui_svbd_official_competition	공식 대회
+sp_ui_svbd_friendcompe	동료 대회
+sp_ui_svbd_pastdata	과거 전적을 확인한다
+sp_ui_svbd_friendcompe_na_required	동료 대회를 확인하려면 닌텐도 어카운트와 연동해야 합니다  "설정"에서 "포켓몬스터스칼렛・바이올렛"을 플레이 중인 닌텐도 어카운트와 연동해 주십시오
+sp_ui_svbd_in_preparation	현재 준비 중입니다
+sp_ui_svbd_ok	OK
+sp_ui_svbd_terms_of_use	닌텐도 어카운트 연동
+sp_ui_svbd_reference_sv_info	닌텐도 어카운트와 연동하면 "포켓몬스터" 시리즈에서 참가했던 "인터넷 대회"나 "랭크배틀"의 개인 전적을 확인할 수 있습니다.
+sp_ui_svbd_yes	확인했습니다
+sp_ui_svbd_battledata_top	배틀 데이터 TOP
+sp_ui_svbd_back	돌아간다
 sp_ui_all_pokemon	모든 포켓몬
 sp_ui_release	해제
 sp_ui_goodby	놓아준다
 sp_ui_goodby_confirm	정말 놓아주겠습니까?  ※즐겨찾기한 포켓몬은 놓아줄 수 없습니다
+sp_ui_goodby_singular	[VAR_PKNAME] 촂 놓아주었다 바이바이, [VAR_PKNAME]!
+sp_ui_goodby_plural	포켓몬들을 놓아주었다 바이바이!
 sp_ui_set_label_max	라벨이 가득 찬 포켓몬이 있습니다
 sp_ui_lump_favorite	모두 즐겨찾기에 추가한다
 sp_ui_lump_favorite_release	모두 즐겨찾기를 해제한다
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	"포켓몬스터소드・실드"와 "Pokémon HOME"의 �
 sp_ui_app_desc_0010_v3	"포켓몬스터 레츠고! 피카츄・레츠고! 이브이"와 "Pokémon HOME"의 연동은 Nintendo Switch 버전에서 할 수 있습니다. 또, "포켓몬스터 레츠고! 피카츄・레츠고! 이브이"에서 "Pokémon HOME"을 경유해서 다른 소프트웨어로 데려가지 않는 한, "포켓몬스터 레츠고! 피카츄・레츠고! 이브이"에서 다시 찾을 수 있습니다.
 sp_ui_app_desc_0011_v3	"포켓몬스터 레츠고! 피카츄・레츠고! 이브이"에서 잡은 포켓몬에 한하여 "포켓몬스터 레츠고! 피카츄・레츠고! 이브이"로 데려갈 수 있습니다. 
 sp_ui_app_desc_0012_v3	"포켓몬스터" 시리즈에서 동료로 만든 포켓몬들을 "포켓몬 뱅크"를 통해 Nintendo Switch 버전과 스마트폰 버전 "Pokémon HOME"으로 보낼 수 있습니다.
-sp_ui_app_desc_0013_v3	포켓몬을 "포켓몬 뱅크"에서 "Pokémon HOME"으로 보내려면 프리미엄 플랜(유료)에 가입해야 합니다. "포켓몬 뱅크"를 이용하려면 별도 요금이 발생합니다.
+sp_ui_app_desc_0013_v3	포켓몬을 "포켓몬 뱅크"에서 "Pokémon HOME"으로 보내려면 프리미엄 플랜(유료)에 가입해야 합니다.
 sp_ui_app_desc_0014_v3	"Pokémon GO"와의 연동에 대하여
 sp_ui_app_desc_0015_v3	"Pokémon GO"에서 동료로 만든 포켓몬들을 Nintendo Switch 버전과 스마트폰 버전 "Pokémon HOME"으로 전송할 수 있습니다.
 sp_ui_app_desc_0016_v3	"포켓몬스터소드・실드"와의 연동에 대하여
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	월 단위로 표시한다
 sp_ui_get_calendar_dialog_ymd_v9	일 단위로 표시한다
 sp_ui_userdel_complete_body_v11	어카운트의 데이터를 완전히 삭제했습니다. 이 화면을 닫으면 신규 어카운트 작성 화면으로 이동합니다.
 sp_ui_userdel_error_body_v11	지난번에 앱을 종료했을 때 어카운트 삭제가 완료되지 않았습니다. 계속해서 어카운트 삭제를 진행합니다.
+sp_ui_gift_confirm_body_nalink_v12	"이상한 소포"를 이용하려면 닌텐도 어카운트와 연동 중이어야 합니다. "이상한 소포"의 각 선물은 하나의 닌텐도 어카운트에서 한 번만 받을 수 있습니다.
+sp_ui_gift_confirm_button_nalink_v12	확인했습니다
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_kor.msbt

@@ -4874,15 +4874,31 @@ sp_ui_pgl_mypage_confirm_v1	若要確認「我的成績」， 需與Nintendo Acc
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_pgl_friendcompe	夥伴大賽
-sp_ui_pgl_pastdata	觀看成績紀錄
+sp_ui_pgl_pastdata	查看過去的成績
 sp_ui_pgl_reference_sv_info	
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	對戰資料TOP
 sp_ui_pgl_back	返回
+sp_ui_svbd_battledata	對戰資料
+sp_ui_svbd_rankbattle	級別對戰
+sp_ui_svbd_internet_tournament	官方大賽
+sp_ui_svbd_official_competition	官方大賽
+sp_ui_svbd_friendcompe	夥伴大賽
+sp_ui_svbd_pastdata	查看過去的成績
+sp_ui_svbd_friendcompe_na_required	若要確認夥伴大賽， 需與Nintendo Account連結。  請從「設定」中進行操作， 與遊玩『寶可夢 朱／紫』的 Nintendo Account連結。
+sp_ui_svbd_in_preparation	此內容正在準備中。
+sp_ui_svbd_ok	ＯＫ
+sp_ui_svbd_terms_of_use	Nintendo Account連結
+sp_ui_svbd_reference_sv_info	連結NintendoAccount後， 即可確認在『寶可夢』系列中參加過的 「網路大賽」及「級別對戰」的個人成績。
+sp_ui_svbd_yes	已確認
+sp_ui_svbd_battledata_top	對戰資料TOP
+sp_ui_svbd_back	返回
 sp_ui_all_pokemon	所有寶可夢
 sp_ui_release	解除
 sp_ui_goodby	放生
 sp_ui_goodby_confirm	確定要放生嗎？  ※已加入「我的最愛」 的寶可夢無法放生。
+sp_ui_goodby_singular	已將[VAR_PKNAME]放生了。 再見了，[VAR_PKNAME]！
+sp_ui_goodby_plural	已將[VAR_PKNAME]牠們放生了。 再見了，大家！
 sp_ui_set_label_max	有寶可夢已貼滿了標籤。
 sp_ui_lump_favorite	一起加入「我的最愛」
 sp_ui_lump_favorite_release	一起解除「我的最愛」
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	『寶可夢 劍／盾』可與 Nintendo Switch版『Pok�
 sp_ui_app_desc_0010_v3	『精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布』 可與Nintendo Switch版『Pokémon HOME』連結。 此外，『精靈寶可夢 Let's Go！皮卡丘 ／Let's Go！伊布』的寶可夢只要沒有 透過『Pokémon HOME』帶到其他的軟體， 就能再帶回到『精靈寶可夢 Let's Go！皮卡丘 ／Let's Go！伊布』中。
 sp_ui_app_desc_0011_v3	僅限在『精靈寶可夢 Let's Go！皮卡丘／ Let's Go！伊布』中捉到的寶可夢可帶到 『精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布』中。
 sp_ui_app_desc_0012_v3	在『寶可夢』系列中成為夥伴的寶可夢們， 可透過『寶可夢虛擬銀行』移動到 Nintendo Switch版與智慧型手機版 『Pokémon HOME』。
-sp_ui_app_desc_0013_v3	要從『寶可夢虛擬銀行』移動 寶可夢到『Pokémon HOME』， 需加入進階方案（付費）。 使用『寶可夢虛擬銀行』需另行付費。
+sp_ui_app_desc_0013_v3	要從『寶可夢虛擬銀行』移動 寶可夢到『Pokémon HOME』， 需加入進階方案（付費）。
 sp_ui_app_desc_0014_v3	與『Pokémon GO』的連結
 sp_ui_app_desc_0015_v3	可將在『Pokémon GO』中成為夥伴的寶可夢們 傳送到Nintendo Switch版與智慧型手機版的 『Pokémon HOME』。
 sp_ui_app_desc_0016_v3	與『寶可夢 劍／盾』的連結
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	以月份為單位顯示
 sp_ui_get_calendar_dialog_ymd_v9	以日期為單位顯示
 sp_ui_userdel_complete_body_v11	已完全刪除帳號資料。 關閉此畫面後， 將轉移至建立新帳號的畫面。
 sp_ui_userdel_error_body_v11	上次結束應用程式時， 帳號的刪除尚未完成。 將繼續進行帳號的刪除。
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_tch.msbt

@@ -4879,10 +4879,26 @@ sp_ui_pgl_reference_sv_info	ポケットモンスター スカーレット・バ
 sp_ui_pgl_friendcompe_na_required	ニンテンドーアカウントと れんけいしていないと なかまたいかいの　せんせきを　かくにんできません
 sp_ui_pgl_battledata_top	バトルデータTOP
 sp_ui_pgl_back	もどる
+sp_ui_svbd_battledata	バトルデータ
+sp_ui_svbd_rankbattle	ランクバトル
+sp_ui_svbd_internet_tournament	こうしきたいかい
+sp_ui_svbd_official_competition	こうしきたいかい
+sp_ui_svbd_friendcompe	なかまたいかい
+sp_ui_svbd_pastdata	かこのせんせきをみる
+sp_ui_svbd_friendcompe_na_required	なかまたいかいを　かくにんするには ニンテンドーアカウントと れんけいする　ひつようが　あります  『ポケットモンスター スカーレット・バイオレット』 をプレイしている　ニンテンドーアカウントを 「せってい」から　れんけい　してください
+sp_ui_svbd_in_preparation	こちらは　げんざい　じゅんびちゅうです
+sp_ui_svbd_ok	ＯＫ
+sp_ui_svbd_terms_of_use	ニンテンドーアカウントのれんけい
+sp_ui_svbd_reference_sv_info	ニンテンドーアカウントの　れんけいを　おこなっていると 『ポケットモンスター』シリーズで　さんかした 「インターネットたいかい」や　「ランクバトル」の こじんせんせきを　かくにんすることが　できます。
+sp_ui_svbd_yes	かくにんしました
+sp_ui_svbd_battledata_top	バトルデータTOP
+sp_ui_svbd_back	もどる
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	かいじょ
 sp_ui_goodby	にがす 
 sp_ui_goodby_confirm	ほんとうに　にがしますか？  ※おきにいりのポケモンを にがすことは　できません
+sp_ui_goodby_singular	[VAR_PKNAME]を　にがしてあげた ばいばい　[VAR_PKNAME]！
+sp_ui_goodby_plural	[VAR_PKNAME]たちを　にがしてあげた ばいばい　みんな！
 sp_ui_set_label_max	ラベルがいっぱいの　ポケモンがいます
 sp_ui_lump_favorite	まとめて　おきにいりにする
 sp_ui_lump_favorite_release	まとめて　おきにいりかいじょする
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	『ポケモン ソード・シールド』と 『Pokémo
 sp_ui_app_desc_0010_v3	『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』と 『Pokémon HOME』の連携は、 Nintendo Switch版で行うことができます。 また、『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』から 『Pokémon HOME』経由で 他のソフトへ連れていかないかぎり、 『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』に引き出すこともできます。
 sp_ui_app_desc_0011_v3	『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』に連れていくことができるポケモンは 『ポケモン Let's Go! ピカチュウ・ Let's Go! イーブイ』で捕まえたポケモンに限ります。
 sp_ui_app_desc_0012_v3	『ポケットモンスター』シリーズで 仲間にしたポケモンたちを、 『ポケモンバンク』を通じて Nintendo Switch版とスマートフォン版の 『Pokémon HOME』へ送り出すことができます。
-sp_ui_app_desc_0013_v3	ポケモンを『ポケモンバンク』から 『Pokémon HOME』へ送り出すには、 プレミアムプラン（有料）への加入が必要となります。 『ポケモンバンク』のご利用は別途料金がかかります。
+sp_ui_app_desc_0013_v3	ポケモンを『ポケモンバンク』から 『Pokémon HOME』へ送り出すには、 プレミアムプラン（有料）への加入が必要となります。
 sp_ui_app_desc_0014_v3	『Pokémon GO』との連携について
 sp_ui_app_desc_0015_v3	『Pokémon GO』で仲間にしたポケモンたちを Nintendo Switch版とスマートフォン版の 『Pokémon HOME』へ転送することができます。
 sp_ui_app_desc_0016_v3	『ポケットモンスター ソード・シールド』 との連携について
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	つきたんいで　ひょうじする
 sp_ui_get_calendar_dialog_ymd_v9	ひたんい　ひょうじにする
 sp_ui_userdel_complete_body_v11	アカウントのデータを完全に削除しました。 この画面を閉じると、 新規アカウント作成の画面に遷移します。
 sp_ui_userdel_error_body_v11	前回アプリを終了した際に アカウントの削除が完了していません。 引き続きアカウントの削除を行います。
+sp_ui_gift_confirm_body_nalink_v12	「ふしぎなおくりもの」をご利用いただくには ニンテンドーアカウントとの連携が必要です。 「ふしぎなおくりもの」の各プレゼントの受け取りは １つのニンテンドーアカウントにつき１回のみとなります。
+sp_ui_gift_confirm_button_nalink_v12	確認しました
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_jpn.msbt

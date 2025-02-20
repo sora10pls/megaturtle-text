@@ -4879,10 +4879,26 @@ sp_ui_pgl_reference_sv_info
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	Kampfdaten-Startseite
 sp_ui_pgl_back	Zurück
+sp_ui_svbd_battledata	Kampfdaten
+sp_ui_svbd_rankbattle	Rangkämpfe
+sp_ui_svbd_internet_tournament	Offizielle Turniere
+sp_ui_svbd_official_competition	Offizielle Turniere
+sp_ui_svbd_friendcompe	Freundesturniere
+sp_ui_svbd_pastdata	Bisherige Kampfergebnisse
+sp_ui_svbd_friendcompe_na_required	Um Informationen zu Freundesturnieren ansehen zu können, benötigst du einen verknüpften Nintendo-Account.  Bitte begib dich in die Einstellungen, um den Nintendo-Account zu verknüpfen, mit dem du Pokémon Karmesin oder Pokémon Purpur spielst.
+sp_ui_svbd_in_preparation	Diese Funktion ist noch nicht verfügbar.
+sp_ui_svbd_ok	OK
+sp_ui_svbd_terms_of_use	Verknüpfung deines Nintendo-Accounts
+sp_ui_svbd_reference_sv_info	Wenn du einen verknüpften Nintendo-Account besitzt, kannst du deine Ergebnisse aus verschiedenen Kämpfen wie zum Beispiel Online-Turnieren und Rangkämpfen, an denen du teilgenommen hast, einsehen.
+sp_ui_svbd_yes	Ich bin einverstanden
+sp_ui_svbd_battledata_top	Kampfdaten-Startseite
+sp_ui_svbd_back	Zurück
 sp_ui_all_pokemon	Alle Pokémon
 sp_ui_release	Zurücksetzen
 sp_ui_goodby	Freilassen
 sp_ui_goodby_confirm	Möchtest du deine Auswahl wirklich freilassen?  Hinweis: Favoriten kannst du nicht freilassen.
+sp_ui_goodby_singular	Du hast [VAR_PKNAME] freigelassen. Mach’s gut, [VAR_PKNAME]!
+sp_ui_goodby_plural	Du hast die ausgewählten Pokémon freigelassen. Macht’s gut, Freunde!
 sp_ui_set_label_max	Einige Pokémon kannst du nicht mit weiteren Labels versehen.
 sp_ui_lump_favorite	Zu den Favoriten hinzufügen
 sp_ui_lump_favorite_release	Aus den Favoriten entfernen
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	Pokémon Schwert und Pokémon Schild können mit der Nint
 sp_ui_app_desc_0010_v3	Pokémon: Let’s Go, Pikachu! und Pokémon: Let’s Go, Evoli! können mit der Nintendo Switch-Version von Pokémon HOME verlinkt werden. Sobald sie verlinkt wurden, kannst du Pokémon in Pokémon HOME lagern oder sie zwischen diesen zwei Spielen hin- und zurückschicken. Sobald jedoch ein Pokémon aus Pokémon: Let’s Go, Pikachu! oder Pokémon: Let’s Go, Evoli! über Pokémon HOME auf ein anderes Spiel der Pokémon-Hauptreihe übertragen wurde, kann es nicht mehr in das ursprüngliche Spiel zurückkehren.
 sp_ui_app_desc_0011_v3	Nur Pokémon, die in Pokémon: Let’s Go, Pikachu! oder Pokémon: Let’s Go, Evoli! gefangen wurden, können auf diese beiden Spiele übertragen werden.
 sp_ui_app_desc_0012_v3	Pokémon, die sich dir in vergangenen Spielen der Pokémon-Hauptreihe angeschlossen haben, können mithilfe von Pokémon Bank auf die Nintendo Switch-Version oder die Mobilgerät-Version von Pokémon HOME transferiert werden.
-sp_ui_app_desc_0013_v3	Um Pokémon von Pokémon Bank auf Pokémon HOME transferieren zu können, wird der kostenpflichtige Premium-Service benötigt. Für Pokémon Bank fällt eine gesonderte jährliche Gebühr an.
+sp_ui_app_desc_0013_v3	Um Pokémon von Pokémon Bank auf Pokémon HOME transferieren zu können, wird der kostenpflichtige Premium-Service benötigt.
 sp_ui_app_desc_0014_v3	Verlinkung mit Pokémon GO
 sp_ui_app_desc_0015_v3	Pokémon, die du in Pokémon GO gefangen hast, können auf die Mobilgerät-Version und die Nintendo Switch-Version von Pokémon HOME übertragen werden.
 sp_ui_app_desc_0016_v3	Verlinkung mit Pokémon Schwert und Pokémon Schild
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	Monatsansicht
 sp_ui_get_calendar_dialog_ymd_v9	Tagesansicht
 sp_ui_userdel_complete_body_v11	All deine Kontodaten wurden vollständig gelöscht. Nach dem Schließen dieses Bildschirms kehrst du zum Bildschirm zur Kontoerstellung zurück.
 sp_ui_userdel_error_body_v11	Dein Konto war noch nicht vollständig gelöscht, als du die Anwendung zuletzt geschlossen hast. Der Löschvorgang wird jetzt fortgesetzt.
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_deu.msbt

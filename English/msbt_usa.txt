@@ -4874,15 +4874,31 @@ sp_ui_pgl_mypage_confirm_v1	In order to check your own Battle Records, you'll ne
 sp_ui_pgl_photo_permission_confirm_ios_v3	
 sp_ui_pgl_photo_permission_confirm_android_v3	
 sp_ui_pgl_friendcompe	Friendly Competitions
-sp_ui_pgl_pastdata	View Your Battle Records
+sp_ui_pgl_pastdata	View Past Battle Records
 sp_ui_pgl_reference_sv_info	
 sp_ui_pgl_friendcompe_na_required	
 sp_ui_pgl_battledata_top	Battle Data Home
 sp_ui_pgl_back	Back
+sp_ui_svbd_battledata	Battle Data
+sp_ui_svbd_rankbattle	Ranked Battles
+sp_ui_svbd_internet_tournament	Official Competitions
+sp_ui_svbd_official_competition	Official Competitions
+sp_ui_svbd_friendcompe	Friendly Competitions
+sp_ui_svbd_pastdata	View Past Battle Records
+sp_ui_svbd_friendcompe_na_required	In order to view Friendly Competition info, you must have a linked Nintendo Account.  Please go to the Options menu to link a Nintendo Account that's being used to play Pokémon Scarlet or Pokémon Violet.
+sp_ui_svbd_in_preparation	This feature is not ready yet.
+sp_ui_svbd_ok	OK
+sp_ui_svbd_terms_of_use	Linking Your Nintendo Account
+sp_ui_svbd_reference_sv_info	If you have a linked Nintendo Account, you can view your records from various battles you've joined in the Pokémon series, such as Online Competitions and Ranked Battles.
+sp_ui_svbd_yes	I understand
+sp_ui_svbd_battledata_top	Battle Data Home
+sp_ui_svbd_back	Back
 sp_ui_all_pokemon	All Pokémon
 sp_ui_release	Unselect all
 sp_ui_goodby	Release
 sp_ui_goodby_confirm	Are you sure you want to release your Pokémon?  You can't release a favorite Pokémon.
+sp_ui_goodby_singular	[VAR_PKNAME] was released! Bye, [VAR_PKNAME]!
+sp_ui_goodby_plural	Your Pokémon were released! Bye-bye!
 sp_ui_set_label_max	Some Pokémon can't have any more labels applied to them!
 sp_ui_lump_favorite	Favorite all selected Pokémon
 sp_ui_lump_favorite_release	Unfavorite all selected Pokémon
@@ -5056,7 +5072,7 @@ sp_ui_app_desc_0008_v3	Pokémon Sword and Pokémon Shield can link to the Ninten
 sp_ui_app_desc_0010_v3	Pokémon: Let’s Go, Pikachu! and Pokémon: Let’s Go, Eevee! can link to the Nintendo Switch version of Pokémon HOME. You can move Pokémon back and forth between these games and Pokémon HOME. However, once a Pokémon from Pokémon: Let’s Go, Pikachu! or Pokémon: Let’s Go, Eevee! is moved to any other game in the Pokémon series via Pokémon HOME, that Pokémon cannot be returned to its original game.
 sp_ui_app_desc_0011_v3	Only Pokémon that were caught in Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee! can be transferred to Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee!
 sp_ui_app_desc_0012_v3	Pokémon you've befriended in previous games in the Pokémon series can be sent to the Nintendo Switch version or mobile device version of Pokémon HOME by using Pokémon Bank.
-sp_ui_app_desc_0013_v3	You must have the Premium Plan (paid service) to transfer Pokémon from Pokémon Bank to Pokémon HOME. Pokémon Bank has a separate annual charge for usage.
+sp_ui_app_desc_0013_v3	You must have the Premium Plan (paid service) to transfer Pokémon from Pokémon Bank to Pokémon HOME.
 sp_ui_app_desc_0014_v3	Linking with Pokémon GO
 sp_ui_app_desc_0015_v3	Pokémon you've caught in Pokémon GO can be transferred to the Nintendo Switch version and mobile device version of Pokémon HOME.
 sp_ui_app_desc_0016_v3	Linking with Pokémon Sword and Pokémon Shield
@@ -5137,6 +5153,8 @@ sp_ui_get_calendar_dialog_ym_v9	Display by months
 sp_ui_get_calendar_dialog_ymd_v9	Display by days
 sp_ui_userdel_complete_body_v11	All of your account data has been completely deleted. You will be redirected to the account creation screen once you close this screen.
 sp_ui_userdel_error_body_v11	Your account wasn't completely deleted when you last closed the application. The deletion process will now resume.
+sp_ui_gift_confirm_body_nalink_v12	
+sp_ui_gift_confirm_button_nalink_v12	
 
 ~~~~~~~~~~~~~~~
 Text File : sp_wazacategory_usa.msbt
