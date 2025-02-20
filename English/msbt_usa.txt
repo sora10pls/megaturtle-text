@@ -2007,6 +2007,7 @@ MONSNAME_1021	Raging Bolt
 MONSNAME_1022	Iron Boulder
 MONSNAME_1023	Iron Crown
 MONSNAME_1024	Terapagos
+MONSNAME_1025	Pecharunt
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_out_usa.msbt
@@ -4511,10 +4512,13 @@ sp_achstep_lib_s_0042	Register 2 forms of Dudunsparce!
 sp_achstep_lib_s_0043	Register 4 different Ruinous Pokémon!
 sp_achstep_lib_s_0044	Register Scream Tail, Brute Bonnet, Flutter Mane, and Sandy Shocks!
 sp_achstep_lib_s_0045	Register Iron Bundle, Iron Hands, Iron Jugulis, and Iron Thorns!
+sp_achstep_lib_s_0046	Register Walking Wake, Gouging Fire, and Raging Bolt!
+sp_achstep_lib_s_0047	Register Iron Leaves, Iron Boulder, and Iron Crown!
 sp_achstep_lib_s_0048	Register Okidogi, Munkidori, and Fezandipiti!
 sp_achstep_lib_s_0049	Register Ogerpon!
 sp_achstep_lib_s_0050	Register Ursaluna and Bloodmoon Ursaluna!
 sp_achstep_lib_s_0051	Register Terapagos!
+sp_achstep_lib_s_0052	Register Pecharunt!
 sp_achstep_lib_s_0053	Register Applin and its 4 Evolutions!
 sp_achstep_oth_000101	Receive a present through Mystery Gift!
 sp_achstep_oth_000102	Receive 3 presents through Mystery Gift!
@@ -4704,10 +4708,13 @@ sp_ach_lib_s_0042	Register 2 forms of Dudunsparce!
 sp_ach_lib_s_0043	Register 4 different Ruinous Pokémon!
 sp_ach_lib_s_0044	Register Scream Tail, Brute Bonnet, Flutter Mane, and Sandy Shocks!
 sp_ach_lib_s_0045	Register Iron Bundle, Iron Hands, Iron Jugulis, and Iron Thorns!
+sp_ach_lib_s_0046	Register Walking Wake, Gouging Fire, and Raging Bolt!
+sp_ach_lib_s_0047	Register Iron Leaves, Iron Boulder, and Iron Crown!
 sp_ach_lib_s_0048	Register Okidogi, Munkidori, and Fezandipiti!
 sp_ach_lib_s_0049	Register Ogerpon!
 sp_ach_lib_s_0050	Register Ursaluna and Bloodmoon Ursaluna!
 sp_ach_lib_s_0051	Register Terapagos!
+sp_ach_lib_s_0052	Register Pecharunt!
 sp_ach_lib_s_0053	Register Applin and its 4 Evolutions!
 sp_ach_trd_s_0002	Deposit 10 Pokémon at once in the Wonder Box!
 sp_ach_trd_s_0003	Trade Zangoose and Seviper!
@@ -8359,6 +8366,7 @@ TOKUSEIINFO_SV_306	A sickly sweet scent spreads across the field the first time 
 TOKUSEIINFO_SV_307	When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.
 TOKUSEIINFO_SV_308	The Pokémon's shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.
 TOKUSEIINFO_SV_309	When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.
+TOKUSEIINFO_SV_310	Pokémon poisoned by Pecharunt's moves will also become confused.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_usa.msbt
@@ -9248,6 +9256,7 @@ TOKUSEI_306	Supersweet Syrup
 TOKUSEI_307	Tera Shift
 TOKUSEI_308	Tera Shell
 TOKUSEI_309	Teraform Zero
+TOKUSEI_310	Poison Puppeteer
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_usa.msbt
@@ -10605,6 +10614,7 @@ WAZAINFO_ALL_915	Spurred by desperation, the user attacks the target. This move'
 WAZAINFO_ALL_916	The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.
 WAZAINFO_ALL_917	The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.
 WAZAINFO_ALL_918	The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.
+WAZAINFO_ALL_919	The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.
 WAZAINFO_ALL_851_01	Inflicts damage with the user's Attack or Sp. Atk stat— whichever is higher. Super effective against Terastallized targets. This lowers the user's Attack and Sp. Atk stats.
 
 ~~~~~~~~~~~~~~~
@@ -13449,6 +13459,7 @@ WAZAINFO_SV_915	Spurred by desperation, the user attacks the target. This move's
 WAZAINFO_SV_916	The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.
 WAZAINFO_SV_917	The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.
 WAZAINFO_SV_918	The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.
+WAZAINFO_SV_919	The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.
 WAZAINFO_SV_851_01	Inflicts damage with the user's Attack or Sp. Atk stat— whichever is higher. Super effective against Terastallized targets. This lowers the user's Attack and Sp. Atk stats.
 
 ~~~~~~~~~~~~~~~
@@ -16109,6 +16120,7 @@ WAZANAME_915	Temper Flare
 WAZANAME_916	Supercell Slam
 WAZANAME_917	Psychic Noise
 WAZANAME_918	Upper Hand
+WAZANAME_919	Malignant Chain
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_out_usa.msbt
@@ -17860,6 +17872,7 @@ ZKN_FORM_1023_000
 ZKN_FORM_1024_000	Normal Form
 ZKN_FORM_1024_001	Terastal Form
 ZKN_FORM_1024_002	Stellar Form
+ZKN_FORM_1025_000	
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_usa.msbt
@@ -19337,6 +19350,7 @@ ZKN_HEIGHT_1023_000	5'3"
 ZKN_HEIGHT_1024_000	8"
 ZKN_HEIGHT_1024_001	1'
 ZKN_HEIGHT_1024_002	5'7"
+ZKN_HEIGHT_1025_000	1'
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_usa.msbt
@@ -20400,6 +20414,7 @@ ZKN_TYPE_1023	Paradox Pokémon
 ZKN_TYPE_1024	Tera Pokémon
 ZKN_TYPE_1024_001	Tera Pokémon
 ZKN_TYPE_1024_002	Tera Pokémon
+ZKN_TYPE_1025	Subjugation Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_usa.msbt
@@ -21877,6 +21892,7 @@ ZKN_WEIGHT_1023_000	343.9 lbs.
 ZKN_WEIGHT_1024_000	14.3 lbs.
 ZKN_WEIGHT_1024_001	35.3 lbs.
 ZKN_WEIGHT_1024_002	169.8 lbs.
+ZKN_WEIGHT_1025_000	.7 lbs.
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_usa.msbt
@@ -29199,6 +29215,7 @@ ZKN_SCARLET_1023_000	It resembles a mysterious object introduced in a paranormal
 ZKN_SCARLET_1024_000	Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.
 ZKN_SCARLET_1024_001	Upon sensing danger, it prepares itself for battle by creating a sturdy shell of crystallized Terastal energy.
 ZKN_SCARLET_1024_002	In this form, Terapagos resembles the world as the ancients saw it, and its Terastal energy is abnormally amplified.
+ZKN_SCARLET_1025_000	It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt's control, chained to its will.
 ZKN_SCARLET_0900_000	Parts of its body turned to stone when it evolved thanks to an extremely rare ore found in volcanic areas.
 ZKN_SCARLET_0904_000	Overqwil's poisonous spikes will reflexively react even while Overqwil sleeps, stabbing any moving thing that approaches.
 ZKN_SCARLET_0211_001	It lives just offshore in cold parts of the world. Its poisonous spikes are thicker and shorter than those of other regions' Qwilfish.
@@ -37108,6 +37125,7 @@ ZKN_VIOLET_1023_000	There was supposedly an incident in which it launched shinin
 ZKN_VIOLET_1024_000	It's thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct.
 ZKN_VIOLET_1024_001	The shell is made of crystallized Terastal energy. When struck by a move, this shell absorbs the move's energy and transfers it to Terapagos.
 ZKN_VIOLET_1024_002	An old expedition journal describes the sight of this Pokémon buried in the depths of the earth as resembling a planet floating in space.
+ZKN_VIOLET_1025_000	Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon.
 ZKN_VIOLET_0900_000	This Pokémon is a rough, crude, and violent sort. It swings around its large, heavy stone axes to finish off its prey.
 ZKN_VIOLET_0904_000	It's ferocious and has a short temper. The ends of its spikes are barbed, and they can't be easily removed once they've punctured something.
 ZKN_VIOLET_0211_001	It absorbs toxins from the food it eats. The distinct purple spikes on its body are evidence of its potent poison.

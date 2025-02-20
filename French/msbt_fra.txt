@@ -2007,6 +2007,7 @@ MONSNAME_1021	Ire-Foudre
 MONSNAME_1022	Roc-de-Fer
 MONSNAME_1023	Chef-de-Fer
 MONSNAME_1024	Terapagos
+MONSNAME_1025	Pêchaminus
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_fra.msbt
@@ -4511,10 +4512,13 @@ sp_achstep_lib_s_0042	Enregistrer les 2 formes de Deusolourdo
 sp_achstep_lib_s_0043	Enregistrer les 4 Pokémon Fléau
 sp_achstep_lib_s_0044	Enregistrer Hurle-Queue, Fongus-Furie, Flotte-Mèche et Pelage-Sablé
 sp_achstep_lib_s_0045	Enregistrer Hotte-de-Fer, Paume-de-Fer, Têtes-de-Fer et Épine-de-Fer
+sp_achstep_lib_s_0046	Enregistrer Serpente-Eau, Feu-Perçant et Ire-Foudre
+sp_achstep_lib_s_0047	Enregistrer Vert-de-Fer, Roc-de-Fer et Chef-de-Fer
 sp_achstep_lib_s_0048	Enregistrer Félicanis, Fortusimia et Favianos
 sp_achstep_lib_s_0049	Enregistrer Ogerpon
 sp_achstep_lib_s_0050	Enregistrer Ursaking et Ursaking « Lune Vermeille »
 sp_achstep_lib_s_0051	Enregistrer Terapagos
+sp_achstep_lib_s_0052	Enregistrer Pêchaminus
 sp_achstep_lib_s_0053	Enregistrer Verpom et ses 4 évolutions
 sp_achstep_oth_000101	Recevoir un Cadeau Mystère
 sp_achstep_oth_000102	Recevoir 3 Cadeaux Mystère
@@ -4704,10 +4708,13 @@ sp_ach_lib_s_0042	Enregistrer les 2 formes de Deusolourdo
 sp_ach_lib_s_0043	Enregistrer les 4 Pokémon Fléau
 sp_ach_lib_s_0044	Enregistrer Hurle-Queue, Fongus-Furie, Flotte-Mèche et Pelage-Sablé
 sp_ach_lib_s_0045	Enregistrer Hotte-de-Fer, Paume-de-Fer, Têtes-de-Fer et Épine-de-Fer
+sp_ach_lib_s_0046	Enregistrer Serpente-Eau, Feu-Perçant et Ire-Foudre
+sp_ach_lib_s_0047	Enregistrer Vert-de-Fer, Roc-de-Fer et Chef-de-Fer
 sp_ach_lib_s_0048	Enregistrer Félicanis, Fortusimia et Favianos
 sp_ach_lib_s_0049	Enregistrer Ogerpon
 sp_ach_lib_s_0050	Enregistrer Ursaking et Ursaking « Lune Vermeille »
 sp_ach_lib_s_0051	Enregistrer Terapagos
+sp_ach_lib_s_0052	Enregistrer Pêchaminus
 sp_ach_lib_s_0053	Enregistrer Verpom et ses 4 évolutions
 sp_ach_trd_s_0002	Déposer 10 Pokémon d'un coup dans la Boîte Miracle
 sp_ach_trd_s_0003	Échanger un Mangriff contre un Séviper ou vice-versa
@@ -8662,6 +8669,7 @@ TOKUSEIINFO_SV_306	La première fois que le Pokémon entre au combat, une odeur 
 TOKUSEIINFO_SV_307	Quand le Pokémon rejoint le combat, il absorbe l'énergie alentour et prend sa Forme Téracristal.
 TOKUSEIINFO_SV_308	Grâce à sa carapace qui renferme l'énergie de tous les types, les capacités subies par ce Pokémon quand ses PV sont au maximum ne sont pas très efficaces.
 TOKUSEIINFO_SV_309	Lorsque Terapagos prend sa Forme Stellaire, il utilise son pouvoir enfoui pour annuler les effets de la météo et des champs actifs.
+TOKUSEIINFO_SV_310	Lorsque Pêchaminus empoisonne un Pokémon grâce à l'une de ses capacités, ce dernier devient également confus.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_fra.msbt
@@ -9248,6 +9256,7 @@ TOKUSEI_306	Nectar Mielleux
 TOKUSEI_307	Téramorphose
 TOKUSEI_308	Téra-Carapace
 TOKUSEI_309	Téraformation 0
+TOKUSEI_310	Emprise Toxique
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_fra.msbt
@@ -10605,6 +10614,7 @@ WAZAINFO_ALL_915	Le lanceur utilise la force de son dépit pour attaquer. S'il a
 WAZAINFO_ALL_916	Le lanceur se charge en électricité et fond sur la cible. S'il échoue, le lanceur se blesse.
 WAZAINFO_ALL_917	Le lanceur attaque avec des ondes sonores dissonantes. Cela empêche la cible de récupérer des PV à l'aide de capacités, talents ou objets tenus pendant deux tours.
 WAZAINFO_ALL_918	Le lanceur réagit instinctivement au moindre mouvement et donne un coup de paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé une attaque prioritaire.
+WAZAINFO_ALL_919	Le lanceur ligote la cible avec une chaîne faite de poison et lui injecte un venin corrosif, ce qui peut aussi gravement l'empoisonner.
 WAZAINFO_ALL_851_01	Utilise l'Attaque ou l'Atq. Spé., selon ce qui infligera le plus de dégâts. Super efficace si la cible est téracristallisée. Baisse l'Attaque et l'Atq. Spé. du lanceur.
 
 ~~~~~~~~~~~~~~~
@@ -14354,6 +14364,7 @@ WAZAINFO_SV_915	Le lanceur utilise la force de son dépit pour attaquer. S'il a 
 WAZAINFO_SV_916	Le lanceur se charge en électricité et fond sur la cible. S'il échoue, le lanceur se blesse.
 WAZAINFO_SV_917	Le lanceur attaque avec des ondes sonores dissonantes. Cela empêche la cible de récupérer des PV à l'aide de capacités, talents ou objets tenus pendant deux tours.
 WAZAINFO_SV_918	Le lanceur réagit instinctivement au moindre mouvement et donne un coup de paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé une attaque prioritaire.
+WAZAINFO_SV_919	Le lanceur ligote la cible avec une chaîne faite de poison et lui injecte un venin corrosif, ce qui peut aussi gravement l'empoisonner.
 WAZAINFO_SV_851_01	Utilise l'Attaque ou l'Atq. Spé., selon ce qui infligera le plus de dégâts. Super efficace si la cible est téracristallisée. Baisse l'Attaque et l'Atq. Spé. du lanceur.
 
 ~~~~~~~~~~~~~~~
@@ -16109,6 +16120,7 @@ WAZANAME_915	Indignition
 WAZANAME_916	Volt Assaut
 WAZANAME_917	Dissonance Psy
 WAZANAME_918	Prio-Parade
+WAZANAME_919	Chaîne Malsaine
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_fra.msbt
@@ -17860,6 +17872,7 @@ ZKN_FORM_1023_000
 ZKN_FORM_1024_000	Forme Normale
 ZKN_FORM_1024_001	Forme Téracristal
 ZKN_FORM_1024_002	Forme Stellaire
+ZKN_FORM_1025_000	
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_fra.msbt
@@ -19337,6 +19350,7 @@ ZKN_HEIGHT_1023_000	1,6 m
 ZKN_HEIGHT_1024_000	0,2 m
 ZKN_HEIGHT_1024_001	0,3 m
 ZKN_HEIGHT_1024_002	1,7 m
+ZKN_HEIGHT_1025_000	0,3 m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_fra.msbt
@@ -20400,6 +20414,7 @@ ZKN_TYPE_1023	Pokémon Paradoxe
 ZKN_TYPE_1024	Pokémon Téracristal
 ZKN_TYPE_1024_001	Pokémon Téracristal
 ZKN_TYPE_1024_002	Pokémon Téracristal
+ZKN_TYPE_1025	Pokémon Emprise
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_fra.msbt
@@ -21877,6 +21892,7 @@ ZKN_WEIGHT_1023_000	156,0 kg
 ZKN_WEIGHT_1024_000	6,5 kg
 ZKN_WEIGHT_1024_001	16,0 kg
 ZKN_WEIGHT_1024_002	77,0 kg
+ZKN_WEIGHT_1025_000	0,3 kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_fra.msbt
@@ -29199,6 +29215,7 @@ ZKN_SCARLET_1023_000	Il ressemble à une entité mystérieuse qui, selon une rev
 ZKN_SCARLET_1024_000	Il se protège en transformant de l'énergie en cristal solide. Ce Pokémon est à l'origine du phénomène de Téracristallisation.
 ZKN_SCARLET_1024_001	Quand il perçoit un danger, il se prépare au combat en se fabriquant une carapace solide par Téracristallisation.
 ZKN_SCARLET_1024_002	Sous cette forme, son énergie Téracristal est décuplée et son apparence évoque le monde tel que les êtres humains le concevaient autrefois.
+ZKN_SCARLET_1025_000	Il fait manger à sa cible un mochi empoisonné qui éveille les désirs et révèle le potentiel. Il la contrôle ensuite grâce à ses chaînes.
 ZKN_SCARLET_0900_000	Il a évolué grâce à un minerai très rare que l'on trouve dans les zones volcaniques, et certaines parties de son corps se sont changées en pierre.
 ZKN_SCARLET_0904_000	Même quand il dort, ses épines empoisonnées réagissent par réflexe à tout ce qui bouge et transpercent quiconque s'approche de trop près.
 ZKN_SCARLET_0211_001	Il vit dans l'eau près des côtes froides. Ses épines empoisonnées sont plus épaisses et plus courtes que celles des Qwilfish des autres régions.
@@ -37108,6 +37125,7 @@ ZKN_VIOLET_1023_000	Outre le fait que ses lames lumineuses pourraient trancher t
 ZKN_VIOLET_1024_000	Il vivait à Paldea en des temps reculés. On le croyait disparu, emporté par un bouleversement tectonique.
 ZKN_VIOLET_1024_001	Sa carapace Téracristal lui permet d'absorber l'énergie des capacités qu'il subit et de se l'approprier.
 ZKN_VIOLET_1024_002	Selon un vieux récit d'exploration, lorsqu'il est enfoui profondément dans le sol, ce Pokémon ressemble à une planète flottant dans l'espace.
+ZKN_VIOLET_1025_000	Il conserve du poison dans sa carapace en forme de pêche. Il s'en sert pour préparer des mochis qu'il donne aux êtres humains et aux Pokémon.
 ZKN_VIOLET_0900_000	Ce Pokémon rustre et violent élimine ses proies en faisant furieusement tournoyer ses grandes et lourdes haches de pierre.
 ZKN_VIOLET_0904_000	Ce Pokémon est féroce et impulsif. Ses épines empoisonnées ont des extrémités dentelées. Une fois plantées, elles sont difficiles à retirer.
 ZKN_VIOLET_0211_001	Il absorbe les toxines de sa nourriture. La couleur violette distinctive de certaines de ses épines indique qu'elles contiennent un poison virulent.

@@ -2007,6 +2007,7 @@ MONSNAME_1021	Furiatonante
 MONSNAME_1022	Massoferreo
 MONSNAME_1023	Capoferreo
 MONSNAME_1024	Terapagos
+MONSNAME_1025	Pecharunt
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_ita.msbt
@@ -4511,10 +4512,13 @@ sp_achstep_lib_s_0042	Registra le 2 forme di Dudunsparce!
 sp_achstep_lib_s_0043	Registra i 4 Pokémon Disgrazia!
 sp_achstep_lib_s_0044	Registra Codaurlante, Fungofurioso, Crinealato e Peldisabbia!
 sp_achstep_lib_s_0045	Registra Saccoferreo, Manoferrea, Colloferreo e Spineferree!
+sp_achstep_lib_s_0046	Registra Acquecrespe, Vampeaguzze e Furiatonante!
+sp_achstep_lib_s_0047	Registra Fogliaferrea, Massoferreo e Capoferreo!
 sp_achstep_lib_s_0048	Registra Okidogi, Munkidori e Fezandipiti!
 sp_achstep_lib_s_0049	Registra Ogerpon!
 sp_achstep_lib_s_0050	Registra Ursaluna e Ursaluna Luna Cremisi!
 sp_achstep_lib_s_0051	Registra Terapagos!
+sp_achstep_lib_s_0052	Registra Pecharunt!
 sp_achstep_lib_s_0053	Registra Applin e le sue 4 evoluzioni!
 sp_achstep_oth_000101	Ricevi 1 Dono Segreto!
 sp_achstep_oth_000102	Ricevi 3 Doni Segreti!
@@ -4704,10 +4708,13 @@ sp_ach_lib_s_0042	Registra le 2 forme di Dudunsparce!
 sp_ach_lib_s_0043	Registra i 4 Pokémon Disgrazia!
 sp_ach_lib_s_0044	Registra Codaurlante, Fungofurioso, Crinealato e Peldisabbia!
 sp_ach_lib_s_0045	Registra Saccoferreo, Manoferrea, Colloferreo e Spineferree!
+sp_ach_lib_s_0046	Registra Acquecrespe, Vampeaguzze e Furiatonante!
+sp_ach_lib_s_0047	Registra Fogliaferrea, Massoferreo e Capoferreo!
 sp_ach_lib_s_0048	Registra Okidogi, Munkidori e Fezandipiti!
 sp_ach_lib_s_0049	Registra Ogerpon!
 sp_ach_lib_s_0050	Registra Ursaluna e Ursaluna Luna Cremisi!
 sp_ach_lib_s_0051	Registra Terapagos!
+sp_ach_lib_s_0052	Registra Pecharunt!
 sp_ach_lib_s_0053	Registra Applin e le sue 4 evoluzioni!
 sp_ach_trd_s_0002	Deposita 10 Pokémon nel Box prodigioso tutti in una volta!
 sp_ach_trd_s_0003	Scambia Seviper con Zangoose o viceversa!
@@ -8662,6 +8669,7 @@ TOKUSEIINFO_SV_306	La prima volta che il Pokémon entra in campo, spande un odor
 TOKUSEIINFO_SV_307	Quando il Pokémon entra in campo, assorbe l'energia circostante e assume la Forma Teracristal.
 TOKUSEIINFO_SV_308	Grazie al suo guscio che racchiude il potere di tutti i tipi, se il Pokémon ha tutti i PS, le mosse che subisce non saranno molto efficaci.
 TOKUSEIINFO_SV_309	Quando assume la Forma Astrale, Terapagos azzera tutti gli effetti delle condizioni atmosferiche e lo stato del terreno di lotta grazie al suo potere occulto.
+TOKUSEIINFO_SV_310	I Pokémon avvelenati dalle mosse di Pecharunt entreranno anche in stato di confusione.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_ita.msbt
@@ -9248,6 +9256,7 @@ TOKUSEI_306	Sciroppo Sublime
 TOKUSEI_307	Teramorfosi
 TOKUSEI_308	Teraguscio
 TOKUSEI_309	Zeroformazione
+TOKUSEI_310	Malia Tossica
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_ita.msbt
@@ -10605,6 +10614,7 @@ WAZAINFO_ALL_915	Il Pokémon attacca con l'impeto di chi è pronto a tutto. Se l
 WAZAINFO_ALL_916	Il Pokémon si schianta sul bersaglio dopo essersi elettrificato. Se la mossa fallisce, il Pokémon subisce dei danni.
 WAZAINFO_ALL_917	Il Pokémon investe il bersaglio con insopportabili onde sonore che gli impediscono di recuperare PS con mosse, abilità o strumenti che ha con sé per due turni.
 WAZAINFO_ALL_918	Il Pokémon reagisce al movimento del bersaglio e, colpendo con il palmo, lo fa tentennare. Se il bersaglio non sferra un attacco ad alta priorità, la mossa fallisce.
+WAZAINFO_ALL_919	Il Pokémon logora il bersaglio avvolgendolo con le sue catene fatte di veleno e iniettandogli delle tossine che possono anche iperavvelenarlo.
 WAZAINFO_ALL_851_01	Il Pokémon infligge danni in base al più alto tra Attacco o Attacco Speciale, ma entrambi diminuiscono. La mossa è superefficace se il bersaglio è teracristallizzato.
 
 ~~~~~~~~~~~~~~~
@@ -14354,6 +14364,7 @@ WAZAINFO_SV_915	Il Pokémon attacca con l'impeto di chi è pronto a tutto. Se la
 WAZAINFO_SV_916	Il Pokémon si schianta sul bersaglio dopo essersi elettrificato. Se la mossa fallisce, il Pokémon subisce dei danni.
 WAZAINFO_SV_917	Il Pokémon investe il bersaglio con insopportabili onde sonore che gli impediscono di recuperare PS con mosse, abilità o strumenti che ha con sé per due turni.
 WAZAINFO_SV_918	Il Pokémon reagisce al movimento del bersaglio e, colpendo con il palmo, lo fa tentennare. Se il bersaglio non sferra un attacco ad alta priorità, la mossa fallisce.
+WAZAINFO_SV_919	Il Pokémon logora il bersaglio avvolgendolo con le sue catene fatte di veleno e iniettandogli delle tossine che possono anche iperavvelenarlo.
 WAZAINFO_SV_851_01	Il Pokémon infligge danni in base al più alto tra Attacco o Attacco Speciale, ma entrambi diminuiscono. La mossa è superefficace se il bersaglio è teracristallizzato.
 
 ~~~~~~~~~~~~~~~
@@ -16109,6 +16120,7 @@ WAZANAME_915	Rabbia Bruciante
 WAZANAME_916	Elettrotuffo
 WAZANAME_917	Psicorumore
 WAZANAME_918	Colpo di Mano
+WAZANAME_919	Intossicatena
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_ita.msbt
@@ -17860,6 +17872,7 @@ ZKN_FORM_1023_000
 ZKN_FORM_1024_000	Forma Normale
 ZKN_FORM_1024_001	Forma Teracristal
 ZKN_FORM_1024_002	Forma Astrale
+ZKN_FORM_1025_000	
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_ita.msbt
@@ -19337,6 +19350,7 @@ ZKN_HEIGHT_1023_000	1,6 m
 ZKN_HEIGHT_1024_000	0,2 m
 ZKN_HEIGHT_1024_001	0,3 m
 ZKN_HEIGHT_1024_002	1,7 m
+ZKN_HEIGHT_1025_000	0,3 m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_ita.msbt
@@ -20400,6 +20414,7 @@ ZKN_TYPE_1023	Pokémon Paradosso
 ZKN_TYPE_1024	Pokémon Teracristal
 ZKN_TYPE_1024_001	Pokémon Teracristal
 ZKN_TYPE_1024_002	Pokémon Teracristal
+ZKN_TYPE_1025	Pokémon Dominio
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_ita.msbt
@@ -21877,6 +21892,7 @@ ZKN_WEIGHT_1023_000	156,0 kg
 ZKN_WEIGHT_1024_000	6,5 kg
 ZKN_WEIGHT_1024_001	16,0 kg
 ZKN_WEIGHT_1024_002	77,0 kg
+ZKN_WEIGHT_1025_000	0,3 kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_ita.msbt
@@ -29199,6 +29215,7 @@ ZKN_SCARLET_1023_000	Ricorda molto un misterioso oggetto descritto in una rivist
 ZKN_SCARLET_1024_000	Sfrutta la sua capacità di trasformare l'energia in duri cristalli per proteggersi. Questo Pokémon è all'origine della teracristallizzazione.
 ZKN_SCARLET_1024_001	Quando percepisce un pericolo, si prepara alla lotta creando un robusto carapace Teracristal.
 ZKN_SCARLET_1024_002	Forma assunta quando l'energia Teracristal aumenta oltremisura. Ricorda il mondo così come lo immaginavano i popoli antichi.
+ZKN_SCARLET_1025_000	Fa mangiare alle sue vittime dei mochi tossici che ne risvegliano il potenziale e i desideri, per poi controllarle con una catena.
 ZKN_SCARLET_0900_000	Si è evoluto grazie a un minerale molto raro che si trova in zone vulcaniche. Per questo, parte del suo corpo si è tramutata in pietra.
 ZKN_SCARLET_0904_000	Qualunque cosa gli si avvicini viene trafitta dai suoi aculei velenosi, che reagiscono per riflesso anche mentre dorme.
 ZKN_SCARLET_0211_001	Vive nelle acque di zone fredde, vicino alle sponde. I suoi aculei velenosi sono più corti e spessi di quelli dei Qwilfish di altre regioni.
@@ -37108,6 +37125,7 @@ ZKN_VIOLET_1023_000	Si dice che possa tranciare tutto ciò che ha intorno sparan
 ZKN_VIOLET_1024_000	Si riteneva che questo Pokémon dell'antica Paldea fosse oramai estinto, vittima dei movimenti tettonici.
 ZKN_VIOLET_1024_001	Quando il suo carapace Teracristal subisce una mossa, ne assorbe l'energia e la fa propria.
 ZKN_VIOLET_1024_002	In un vecchio diario di viaggio, questa forma sepolta nelle profondità della terra viene paragonata a un astro sospeso nello spazio.
+ZKN_VIOLET_1025_000	Nel guscio a forma di pesca conserva un potente veleno con cui prepara dei mochi tossici che offre a persone e Pokémon.
 ZKN_VIOLET_0900_000	Di indole violenta, rozza e brutale. Abbatte la preda mulinando le grosse e pesanti asce di pietra.
 ZKN_VIOLET_0904_000	Ha un carattere feroce e violento. Le punte seghettate dei suoi aculei velenosi rendono difficile estrarli una volta conficcati.
 ZKN_VIOLET_0211_001	Assorbe tossine dal cibo. Il marcato colore viola dei suoi aculei indica che sono ricolmi di un veleno letale.

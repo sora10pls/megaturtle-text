@@ -2007,6 +2007,7 @@ MONSNAME_1021	Electrofuria
 MONSNAME_1022	Ferromole
 MONSNAME_1023	Ferrotesta
 MONSNAME_1024	Terapagos
+MONSNAME_1025	Pecharunt
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_esp.msbt
@@ -4511,10 +4512,13 @@ sp_achstep_lib_s_0042	Registra las 2 formas de Dudunsparce.
 sp_achstep_lib_s_0043	Registra a los 4 Pokémon Debacle.
 sp_achstep_lib_s_0044	Registra a Colagrito, Furioseta, Melenaleteo y Pelarena.
 sp_achstep_lib_s_0045	Registra a Ferrosaco, Ferropalmas, Ferrocuello y Ferropúas.
+sp_achstep_lib_s_0046	Registra a Ondulagua, Flamariete y Electrofuria.
+sp_achstep_lib_s_0047	Registra a Ferroverdor, Ferromole y Ferrotesta.
 sp_achstep_lib_s_0048	Registra a Okidogi, Munkidori y Fezandipiti.
 sp_achstep_lib_s_0049	Registra a Ogerpon.
 sp_achstep_lib_s_0050	Registra a Ursaluna y Ursaluna Luna Carmesí.
 sp_achstep_lib_s_0051	Registra a Terapagos.
+sp_achstep_lib_s_0052	Registra a Pecharunt.
 sp_achstep_lib_s_0053	Registra a Applin y sus 4 evoluciones.
 sp_achstep_oth_000101	Recibe 1 regalo misterioso.
 sp_achstep_oth_000102	Recibe 3 regalos misteriosos.
@@ -4704,10 +4708,13 @@ sp_ach_lib_s_0042	¡Registra las 2 formas de Dudunsparce!
 sp_ach_lib_s_0043	¡Registra a los 4 Pokémon Debacle!
 sp_ach_lib_s_0044	¡Registra a Colagrito, Furioseta, Melenaleteo y Pelarena!
 sp_ach_lib_s_0045	¡Registra a Ferrosaco, Ferropalmas, Ferrocuello y Ferropúas!
+sp_ach_lib_s_0046	¡Registra a Ondulagua, Flamariete y Electrofuria!
+sp_ach_lib_s_0047	¡Registra a Ferroverdor, Ferromole y Ferrotesta!
 sp_ach_lib_s_0048	¡Registra a Okidogi, Munkidori y Fezandipiti!
 sp_ach_lib_s_0049	¡Registra a Ogerpon!
 sp_ach_lib_s_0050	¡Registra a Ursaluna y Ursaluna Luna Carmesí!
 sp_ach_lib_s_0051	¡Registra a Terapagos!
+sp_ach_lib_s_0052	¡Registra a Pecharunt!
 sp_ach_lib_s_0053	¡Registra a Applin y sus 4 evoluciones!
 sp_ach_trd_s_0002	¡Deposita 10 Pokémon a la vez en la caja prodigiosa!
 sp_ach_trd_s_0003	¡Intercambia a Zangoose y Seviper!
@@ -8662,6 +8669,7 @@ TOKUSEIINFO_SV_306	Al entrar en combate por primera vez, esparce un aroma dulzó
 TOKUSEIINFO_SV_307	Al entrar en combate, adopta la Forma Teracristal tras absorber la energía de su alrededor.
 TOKUSEIINFO_SV_308	Su caparazón encierra energía de todos los tipos. Gracias a ello, si sus PS están al máximo, el movimiento que lo alcance no será muy eficaz.
 TOKUSEIINFO_SV_309	Cuando Terapagos adopta la Forma Astral, anula todos los efectos del tiempo atmosférico y de los campos que haya en el terreno gracias a su poder oculto.
+TOKUSEIINFO_SV_310	Los rivales que Pecharunt envenene con sus movimientos también sufrirán confusión.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_esp.msbt
@@ -9248,6 +9256,7 @@ TOKUSEI_306	Néctar Dulce
 TOKUSEI_307	Teracambio
 TOKUSEI_308	Teracaparazón
 TOKUSEI_309	Teraformación 0
+TOKUSEI_310	Títere Tóxico
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_esp.msbt
@@ -10605,6 +10614,7 @@ WAZAINFO_ALL_915	Arremete contra el objetivo tras dejarse llevar por la ira. Su 
 WAZAINFO_ALL_916	El usuario electrifica su cuerpo y salta en plancha sobre el objetivo. Si falla, se hiere a sí mismo.
 WAZAINFO_ALL_917	Ataca emitiendo una onda sonora desagradable que impide al objetivo usar movimientos, habilidades y objetos equipados que recuperan PS durante dos turnos.
 WAZAINFO_ALL_918	Se anticipa al objetivo golpeándolo rápidamente con la palma y lo amedrenta. Falla si el objetivo no está preparando un movimiento de prioridad alta.
+WAZAINFO_ALL_919	Apresa al objetivo con una cadena hecha de ponzoña que le inocula toxinas para minarle las fuerzas. Puede envenenar gravemente.
 WAZAINFO_ALL_851_01	Inflige daño con el valor más alto entre Ataque y Ataque Especial, pero reduce ambas características del usuario. Si el objetivo se ha teracristalizado, es supereficaz.
 
 ~~~~~~~~~~~~~~~
@@ -14354,6 +14364,7 @@ WAZAINFO_SV_915	Arremete contra el objetivo tras dejarse llevar por la ira. Su p
 WAZAINFO_SV_916	El usuario electrifica su cuerpo y salta en plancha sobre el objetivo. Si falla, se hiere a sí mismo.
 WAZAINFO_SV_917	Ataca emitiendo una onda sonora desagradable que impide al objetivo usar movimientos, habilidades y objetos equipados que recuperan PS durante dos turnos.
 WAZAINFO_SV_918	Se anticipa al objetivo golpeándolo rápidamente con la palma y lo amedrenta. Falla si el objetivo no está preparando un movimiento de prioridad alta.
+WAZAINFO_SV_919	Apresa al objetivo con una cadena hecha de ponzoña que le inocula toxinas para minarle las fuerzas. Puede envenenar gravemente.
 WAZAINFO_SV_851_01	Inflige daño con el valor más alto entre Ataque y Ataque Especial, pero reduce ambas características del usuario. Si el objetivo se ha teracristalizado, es supereficaz.
 
 ~~~~~~~~~~~~~~~
@@ -16109,6 +16120,7 @@ WAZANAME_915	Cólera Ardiente
 WAZANAME_916	Plancha Voltaica
 WAZANAME_917	Psicorruido
 WAZANAME_918	Palma Rauda
+WAZANAME_919	Cadena Virulenta
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_esp.msbt
@@ -17860,6 +17872,7 @@ ZKN_FORM_1023_000
 ZKN_FORM_1024_000	Forma Normal
 ZKN_FORM_1024_001	Forma Teracristal
 ZKN_FORM_1024_002	Forma Astral
+ZKN_FORM_1025_000	
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_esp.msbt
@@ -19337,6 +19350,7 @@ ZKN_HEIGHT_1023_000	1,6 m
 ZKN_HEIGHT_1024_000	0,2 m
 ZKN_HEIGHT_1024_001	0,3 m
 ZKN_HEIGHT_1024_002	1,7 m
+ZKN_HEIGHT_1025_000	0,3 m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_esp.msbt
@@ -20400,6 +20414,7 @@ ZKN_TYPE_1023	Pokémon Paradoja
 ZKN_TYPE_1024	Pokémon Teracristal
 ZKN_TYPE_1024_001	Pokémon Teracristal
 ZKN_TYPE_1024_002	Pokémon Teracristal
+ZKN_TYPE_1025	Pokémon Controlador
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_esp.msbt
@@ -21877,6 +21892,7 @@ ZKN_WEIGHT_1023_000	156,0 kg
 ZKN_WEIGHT_1024_000	6,5 kg
 ZKN_WEIGHT_1024_001	16,0 kg
 ZKN_WEIGHT_1024_002	77,0 kg
+ZKN_WEIGHT_1025_000	0,3 kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_esp.msbt
@@ -29199,6 +29215,7 @@ ZKN_SCARLET_1023_000	Se asemeja a un extraño objeto descrito en una revista eso
 ZKN_SCARLET_1024_000	Se vale de su capacidad para transformar energía en duros cristales para protegerse. Este Pokémon dio origen a la teracristalización.
 ZKN_SCARLET_1024_001	Cuando presiente peligro, se prepara para combatir formando un caparazón de cristales muy resistente mediante la teracristalización.
 ZKN_SCARLET_1024_002	Adopta esta forma cuando su energía Teracristal se ve amplificada  descomunalmente. Se asemeja a la imagen del mundo que la gente tenía antaño.
+ZKN_SCARLET_1025_000	Hace comer a su objetivo un mochi tóxico que saca a relucir todo su potencial y su ambición, para después controlarlo con sus cadenas.
 ZKN_SCARLET_0900_000	Gracias a un mineral extremadamente escaso que se encuentra en zonas volcánicas, parte de su cuerpo se volvió pétreo al evolucionar.
 ZKN_SCARLET_0904_000	Sus púas tóxicas reaccionan como acto reflejo ante cualquier movimiento, por lo que ensartará todo lo que se acerque incluso mientras duerme.
 ZKN_SCARLET_0211_001	Vive en las aguas cercanas a tierras frías. Sus púas tóxicas son más gruesas y cortas que las de los Qwilfish de otras regiones.
@@ -37108,6 +37125,7 @@ ZKN_VIOLET_1023_000	Se dice que puede cortarlo todo a su alrededor lanzando afil
 ZKN_VIOLET_1024_000	Se creía que este Pokémon de la Paldea antigua se había extinguido, víctima de alteraciones en la corteza terrestre debidas a la actividad tectónica.
 ZKN_VIOLET_1024_001	Su caparazón Teracristal le permite absorber y apropiarse de la energía de los movimientos que recibe.
 ZKN_VIOLET_1024_002	Según un antiguo diario de exploración, cuando está enterrado en las profundidades de la tierra, se asemeja a un planeta que flota en el espacio.
+ZKN_VIOLET_1025_000	Su caparazón con forma de melocotón alberga un potente veneno con el que prepara un mochi tóxico que ofrece a humanos y Pokémon.
 ZKN_VIOLET_0900_000	Un Pokémon violento, tosco y rudo. Blande sus enormes y pesadas hachas de piedra para acabar con sus presas.
 ZKN_VIOLET_0904_000	Posee un carácter feroz y agresivo. Las puntas de sus púas venenosas son dentadas, por lo que no resulta fácil extraerlas una vez que se clavan.
 ZKN_VIOLET_0211_001	Absorbe toxinas de la comida que ingiere. El ostensible color morado de algunas de sus púas indica que contienen un veneno letal.

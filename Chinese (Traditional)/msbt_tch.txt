@@ -2007,6 +2007,7 @@ MONSNAME_1021	猛雷鼓
 MONSNAME_1022	鐵磐岩
 MONSNAME_1023	鐵頭殼
 MONSNAME_1024	太樂巴戈斯
+MONSNAME_1025	桃歹郎
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_out_tch.msbt
@@ -4511,10 +4512,13 @@ sp_achstep_lib_s_0042	登錄２種土龍節節。
 sp_achstep_lib_s_0043	登錄４種災厄寶可夢。
 sp_achstep_lib_s_0044	登錄吼叫尾、猛惡菇、振翼髮和沙鐵皮。
 sp_achstep_lib_s_0045	登錄鐵包袱、鐵臂膀、鐵脖頸和鐵荊棘。
+sp_achstep_lib_s_0046	登錄波盪水、破空焰和猛雷鼓。
+sp_achstep_lib_s_0047	登錄鐵斑葉、鐵磐岩和鐵頭殼。
 sp_achstep_lib_s_0048	登錄夠讚狗、願增猿和吉雉雞。
 sp_achstep_lib_s_0049	登錄厄鬼椪。
 sp_achstep_lib_s_0050	登錄月月熊和月月熊（赫月）。
 sp_achstep_lib_s_0051	登錄太樂巴戈斯。
+sp_achstep_lib_s_0052	登錄桃歹郎。
 sp_achstep_lib_s_0053	登錄５種啃果蟲和啃果蟲的進化形。
 sp_achstep_oth_000101	透過神秘禮物接收１次禮物。
 sp_achstep_oth_000102	透過神秘禮物接收３次禮物。
@@ -4704,10 +4708,13 @@ sp_ach_lib_s_0042	登錄２種土龍節節
 sp_ach_lib_s_0043	登錄４種災厄寶可夢
 sp_ach_lib_s_0044	登錄吼叫尾、猛惡菇、振翼髮和沙鐵皮
 sp_ach_lib_s_0045	登錄鐵包袱、鐵臂膀、鐵脖頸和鐵荊棘
+sp_ach_lib_s_0046	登錄波盪水、破空焰和猛雷鼓
+sp_ach_lib_s_0047	登錄鐵斑葉、鐵磐岩和鐵頭殼
 sp_ach_lib_s_0048	登錄夠讚狗、願增猿和吉雉雞
 sp_ach_lib_s_0049	登錄厄鬼椪
 sp_ach_lib_s_0050	登錄月月熊和月月熊（赫月）
 sp_ach_lib_s_0051	登錄太樂巴戈斯
+sp_ach_lib_s_0052	登錄桃歹郎
 sp_ach_lib_s_0053	登錄５種啃果蟲和啃果蟲的進化形
 sp_ach_trd_s_0002	同時寄放１０隻寶可夢到奇蹟盒子
 sp_ach_trd_s_0003	交換貓鼬斬和飯匙蛇
@@ -8359,6 +8366,7 @@ TOKUSEIINFO_SV_306	在對戰中首次出場時， 會四處散播甜膩的蜜香
 TOKUSEIINFO_SV_307	出場時，會吸收周圍的能量， 變為太晶形態。
 TOKUSEIINFO_SV_308	蘊藏著所有屬性力量的甲殼 會將自身ＨＰ全滿時受到的傷害 全都變為效果不好。
 TOKUSEIINFO_SV_309	太樂巴戈斯變為星晶形態時， 蘊藏其身的力量會將 天氣和場地的影響全部歸零。
+TOKUSEIINFO_SV_310	因為桃歹郎的招式 而陷入中毒狀態的對手 同時也會陷入混亂狀態。
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_tch.msbt
@@ -9248,6 +9256,7 @@ TOKUSEI_306	甘露之蜜
 TOKUSEI_307	太晶變形
 TOKUSEI_308	太晶甲殼
 TOKUSEI_309	歸零化境
+TOKUSEI_310	毒傀儡
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_tch.msbt
@@ -10605,6 +10614,7 @@ WAZAINFO_ALL_915	用自暴自棄的狠勁攻擊對手。 如果上一回合的�
 WAZAINFO_ALL_916	讓身體帶電然後壓向對手。 沒命中對手時自己會受到傷害。
 WAZAINFO_ALL_917	用令人不快的音波攻擊對手， 使對手在２回合內變得無法透過 招式、特性或攜帶的道具回復ＨＰ。
 WAZAINFO_ALL_918	察覺對手動作並以掌底攻擊來反應， 讓對手畏縮。若對手使用的招式 不是先制攻擊則會失敗。
+WAZAINFO_ALL_919	用毒素形成的鎖鏈纏住對手， 注入毒素加以侵蝕。 有時會讓對手陷入劇毒狀態。
 WAZAINFO_ALL_851_01	用攻擊和特攻中數值較高的一方攻擊。 對手處於太晶化時效果絕佳。 自己的攻擊和特攻會降低。
 
 ~~~~~~~~~~~~~~~
@@ -13449,6 +13459,7 @@ WAZAINFO_SV_915	用自暴自棄的狠勁攻擊對手。 如果上一回合的招
 WAZAINFO_SV_916	讓身體帶電然後壓向對手。 沒命中對手時自己會受到傷害。
 WAZAINFO_SV_917	用令人不快的音波攻擊對手， 使對手在２回合內變得無法透過 招式、特性或攜帶的道具回復ＨＰ。
 WAZAINFO_SV_918	察覺對手動作並以掌底攻擊來反應， 讓對手畏縮。若對手使用的招式 不是先制攻擊則會失敗。
+WAZAINFO_SV_919	用毒素形成的鎖鏈纏住對手， 注入毒素加以侵蝕。 有時會讓對手陷入劇毒狀態。
 WAZAINFO_SV_851_01	用攻擊和特攻中數值較高的一方攻擊。 對手處於太晶化時效果絕佳。 自己的攻擊和特攻會降低。
 
 ~~~~~~~~~~~~~~~
@@ -16109,6 +16120,7 @@ WAZANAME_915	豁出去
 WAZANAME_916	閃電強襲
 WAZANAME_917	精神噪音
 WAZANAME_918	快手還擊
+WAZANAME_919	邪毒鎖鏈
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_out_tch.msbt
@@ -17860,6 +17872,7 @@ ZKN_FORM_1023_000
 ZKN_FORM_1024_000	普通形態
 ZKN_FORM_1024_001	太晶形態
 ZKN_FORM_1024_002	星晶形態
+ZKN_FORM_1025_000	
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_tch.msbt
@@ -19337,6 +19350,7 @@ ZKN_HEIGHT_1023_000	1.6m
 ZKN_HEIGHT_1024_000	0.2m
 ZKN_HEIGHT_1024_001	0.3m
 ZKN_HEIGHT_1024_002	1.7m
+ZKN_HEIGHT_1025_000	0.3m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_tch.msbt
@@ -20400,6 +20414,7 @@ ZKN_TYPE_1023	悖謬寶可夢
 ZKN_TYPE_1024	太晶寶可夢
 ZKN_TYPE_1024_001	太晶寶可夢
 ZKN_TYPE_1024_002	太晶寶可夢
+ZKN_TYPE_1025	支配寶可夢
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_tch.msbt
@@ -21877,6 +21892,7 @@ ZKN_WEIGHT_1023_000	156.0kg
 ZKN_WEIGHT_1024_000	6.5kg
 ZKN_WEIGHT_1024_001	16.0kg
 ZKN_WEIGHT_1024_002	77.0kg
+ZKN_WEIGHT_1025_000	0.3kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_tch.msbt
@@ -29199,6 +29215,7 @@ ZKN_SCARLET_1023_000	與超自然雜誌裡介紹是 勾帕路翁型最新兵器�
 ZKN_SCARLET_1024_000	會用將能量變為堅硬 結晶的能力來保護自己。 是太晶之源的寶可夢。
 ZKN_SCARLET_1024_001	一旦察覺到危險， 就會用太晶的結晶製造出 堅固的甲殼來備戰。
 ZKN_SCARLET_1024_002	太晶能量異常增強後 變成的樣子。與古代人 所想的世界很相似。
+ZKN_SCARLET_1025_000	會讓對手吃下能激發 慾望與能力的毒素麻糬， 然後用鎖鏈來操控對手。
 ZKN_SCARLET_0900_000	在火山地帶能以極低機率 發現的礦石，使牠在進化時 身體的一部份變成了岩石。
 ZKN_SCARLET_0904_000	即使是在睡覺的時候， 只要有會動的東西靠近， 毒針就會反射性地刺向對方。
 ZKN_SCARLET_0211_001	棲息在寒冷之地的水邊。 比起其他地區的千針魚， 牠的毒針較為粗短。
@@ -37108,6 +37125,7 @@ ZKN_VIOLET_1023_000	據說牠曾射出發光的刀刃 劈開了周遭的一切�
 ZKN_VIOLET_1024_000	人們認為牠曾經棲息在 古代的帕底亞，但卻受到 地殼變動的影響而滅絕了。
 ZKN_VIOLET_1024_001	太晶的甲殼若受到對手的 招式攻擊，就會把該招式 的能量吸收來供自己使用。
 ZKN_VIOLET_1024_002	根據古老的探險記所記載， 牠被掩埋在地底下的樣子 就猶如懸浮在宇宙的星星。
+ZKN_VIOLET_1025_000	桃形的殼是劇毒的儲藏庫。 會製作帶毒的麻糬 送給人和寶可夢吃。
 ZKN_VIOLET_0900_000	野蠻粗魯又凶暴的寶可夢。 會揮舞巨大沉重的岩斧 給予獵物致命一擊。
 ZKN_VIOLET_0904_000	凶狠且性格粗暴。 毒針的前端呈鋸齒狀， 被刺中就無法輕易拔出來。
 ZKN_VIOLET_0211_001	會從食物攝取毒素。 紫色極為醒目的針 是牠滿身劇毒的證據。

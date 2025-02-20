@@ -2007,6 +2007,7 @@ MONSNAME_1021	Furienblitz
 MONSNAME_1022	Eisenfels
 MONSNAME_1023	Eisenhaupt
 MONSNAME_1024	Terapagos
+MONSNAME_1025	Infamomo
 
 ~~~~~~~~~~~~~~~
 Text File : ORAS_place_name_deu.msbt
@@ -4511,10 +4512,13 @@ sp_achstep_lib_s_0042	Registriere 2 Formen von Dummimisel!
 sp_achstep_lib_s_0043	Registriere 4 Unheils-Pokémon!
 sp_achstep_lib_s_0044	Registriere Brüllschweif, Wutpilz, Flatterhaar und Sandfell!
 sp_achstep_lib_s_0045	Registriere Eisenbündel, Eisenhand, Eisenhals und Eisendorn!
+sp_achstep_lib_s_0046	Registriere Windewoge, Keilflamme und Furienblitz!
+sp_achstep_lib_s_0047	Registriere Eisenblatt, Eisenfels und Eisenhaupt!
 sp_achstep_lib_s_0048	Registriere Boninu, Benesaru und Beatori!
 sp_achstep_lib_s_0049	Registriere Ogerpon!
 sp_achstep_lib_s_0050	Registriere Ursaluna und Ursaluna (Blutmond)!
 sp_achstep_lib_s_0051	Registriere Terapagos!
+sp_achstep_lib_s_0052	Registriere Infamomo!
 sp_achstep_lib_s_0053	Registriere Knapfel und seine 4 Entwicklungen!
 sp_achstep_oth_000101	Empfange 1-mal etwas per Geheimgeschenk!
 sp_achstep_oth_000102	Empfange 3-mal etwas per Geheimgeschenk!
@@ -4704,10 +4708,13 @@ sp_ach_lib_s_0042	Registriere 2 Formen von Dummimisel!
 sp_ach_lib_s_0043	Registriere 4 Unheils-Pokémon!
 sp_ach_lib_s_0044	Registriere Brüllschweif, Wutpilz, Flatterhaar und Sandfell!
 sp_ach_lib_s_0045	Registriere Eisenbündel, Eisenhand, Eisenhals und Eisendorn!
+sp_ach_lib_s_0046	Registriere Windewoge, Keilflamme und Furienblitz!
+sp_ach_lib_s_0047	Registriere Eisenblatt, Eisenfels und Eisenhaupt!
 sp_ach_lib_s_0048	Registriere Boninu, Benesaru und Beatori!
 sp_ach_lib_s_0049	Registriere Ogerpon!
 sp_ach_lib_s_0050	Registriere Ursaluna und Ursaluna (Blutmond)!
 sp_ach_lib_s_0051	Registriere Terapagos!
+sp_ach_lib_s_0052	Registriere Infamomo!
 sp_ach_lib_s_0053	Registriere Knapfel und seine 4 Entwicklungen!
 sp_ach_trd_s_0002	Lagere 10 Pokémon gleichzeitig in die Wunderbox!
 sp_ach_trd_s_0003	Tausche Sengo und Vipitis!
@@ -8662,6 +8669,7 @@ TOKUSEIINFO_SV_306	Beim ersten Kampfantritt verbreitet das Pokémon den Duft sü
 TOKUSEIINFO_SV_307	Bei Kampfantritt absorbiert das Pokémon Energie in seiner Umgebung und nimmt die Terakristall-Form an.
 TOKUSEIINFO_SV_308	Der Panzer des Pokémon birgt die Kraft aller Typen in sich. Alle Schaden verursachenden Attacken, die es bei vollen KP treffen, sind nicht sehr effektiv.
 TOKUSEIINFO_SV_309	Wenn Terapagos die Stellarform annimmt, eliminiert es dank seiner verborgenen Kräfte sämtliche Wettereffekte und Felder.
+TOKUSEIINFO_SV_310	Wenn Infamomo ein Ziel mit einer Attacke vergiftet, so wird dieses auch verwirrt.
 
 ~~~~~~~~~~~~~~~
 Text File : tokuseiinfo_SWSH_deu.msbt
@@ -9248,6 +9256,7 @@ TOKUSEI_306	Süßer Nektar
 TOKUSEI_307	Tera-Wandel
 TOKUSEI_308	Tera-Panzer
 TOKUSEI_309	Teraforming Null
+TOKUSEI_310	Giftpuppenspiel
 
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_deu.msbt
@@ -10605,6 +10614,7 @@ WAZAINFO_ALL_915	Der Anwender greift das Ziel voller Verzweiflung an. Wenn seine
 WAZAINFO_ALL_916	Der Anwender lädt seinen Körper mit elektrischer Energie auf und stürzt sich auf das Ziel. Bei Misserfolg verletzt sich der Anwender selbst.
 WAZAINFO_ALL_917	Der Anwender greift mit unerträglichen Schallwellen an, wodurch das Ziel zwei Runden lang nicht durch Attacken, Fähigkeiten oder getragene Items geheilt werden kann.
 WAZAINFO_ALL_918	Der Anwender reagiert auf Bewegungen des Zieles und lässt es durch einen Schlag zurückschrecken. Gelingt nur, wenn das Ziel gerade eine Erstschlag-Attacke vorbereitet.
+WAZAINFO_ALL_919	Der Anwender umwickelt das Ziel mit einer Kette aus Toxinen, die in dessen Körper eindringen und ihm schaden. Das Ziel wird eventuell schwer vergiftet.
 WAZAINFO_ALL_851_01	Verursacht Schaden mit Angriffs- oder Sp.-Ang.-Wert, je nachdem, welcher höher ist. Ang. und Sp.-Ang. des Anw. sinken. Sehr effektiv gegen terakristallisierte Ziele.
 
 ~~~~~~~~~~~~~~~
@@ -14354,6 +14364,7 @@ WAZAINFO_SV_915	Der Anwender greift das Ziel voller Verzweiflung an. Wenn seine 
 WAZAINFO_SV_916	Der Anwender lädt seinen Körper mit elektrischer Energie auf und stürzt sich auf das Ziel. Bei Misserfolg verletzt sich der Anwender selbst.
 WAZAINFO_SV_917	Der Anwender greift mit unerträglichen Schallwellen an, wodurch das Ziel zwei Runden lang nicht durch Attacken, Fähigkeiten oder getragene Items geheilt werden kann.
 WAZAINFO_SV_918	Der Anwender reagiert auf Bewegungen des Zieles und lässt es durch einen Schlag zurückschrecken. Gelingt nur, wenn das Ziel gerade eine Erstschlag-Attacke vorbereitet.
+WAZAINFO_SV_919	Der Anwender umwickelt das Ziel mit einer Kette aus Toxinen, die in dessen Körper eindringen und ihm schaden. Das Ziel wird eventuell schwer vergiftet.
 WAZAINFO_SV_851_01	Verursacht Schaden mit Angriffs- oder Sp.-Ang.-Wert, je nachdem, welcher höher ist. Ang. und Sp.-Ang. des Anw. sinken. Sehr effektiv gegen terakristallisierte Ziele.
 
 ~~~~~~~~~~~~~~~
@@ -16109,6 +16120,7 @@ WAZANAME_915	Frustflamme
 WAZANAME_916	Donnerstoß
 WAZANAME_917	Psycholärm
 WAZANAME_918	Schnellkonter
+WAZANAME_919	Giftkettung
 
 ~~~~~~~~~~~~~~~
 Text File : XY_place_name_deu.msbt
@@ -17860,6 +17872,7 @@ ZKN_FORM_1023_000
 ZKN_FORM_1024_000	Normalform
 ZKN_FORM_1024_001	Terakristall-Form
 ZKN_FORM_1024_002	Stellarform
+ZKN_FORM_1025_000	
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_height_deu.msbt
@@ -19337,6 +19350,7 @@ ZKN_HEIGHT_1023_000	1,6 m
 ZKN_HEIGHT_1024_000	0,2 m
 ZKN_HEIGHT_1024_001	0,3 m
 ZKN_HEIGHT_1024_002	1,7 m
+ZKN_HEIGHT_1025_000	0,3 m
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_type_deu.msbt
@@ -20400,6 +20414,7 @@ ZKN_TYPE_1023	Paradox-Pokémon
 ZKN_TYPE_1024	Terakristall-Pokémon
 ZKN_TYPE_1024_001	Terakristall-Pokémon
 ZKN_TYPE_1024_002	Terakristall-Pokémon
+ZKN_TYPE_1025	Knechtungs-Pokémon
 
 ~~~~~~~~~~~~~~~
 Text File : zkn_weight_deu.msbt
@@ -21877,6 +21892,7 @@ ZKN_WEIGHT_1023_000	156,0 kg
 ZKN_WEIGHT_1024_000	6,5 kg
 ZKN_WEIGHT_1024_001	16,0 kg
 ZKN_WEIGHT_1024_002	77,0 kg
+ZKN_WEIGHT_1025_000	0,3 kg
 
 ~~~~~~~~~~~~~~~
 Text File : zukan_comment_alpha_deu.msbt
@@ -29199,6 +29215,7 @@ ZKN_SCARLET_1023_000	Es ähnelt einem rätselhaften Objekt, das einer esoterisch
 ZKN_SCARLET_1024_000	Es schützt sich, indem es Energie in harten Kristall umwandelt. Dieses Pokémon ist der Ursprung der Terakristallisierung.
 ZKN_SCARLET_1024_001	Wenn es Gefahr wittert, bereitet es sich auf einen Kampf vor, indem es einen robusten Panzer aus Terakristallen erschafft.
 ZKN_SCARLET_1024_002	Diese Form verfügt über eine enorm verstärkte Terakristall-Energie. Ihr Aussehen ähnelt der Welt, wie uralte Völker sie sich vorgestellt haben.
+ZKN_SCARLET_1025_000	Es gibt anderen giftige Mochi zu essen, die Kräfte und Begierden wecken, kettet sie so an sich und kontrolliert sie.
 ZKN_SCARLET_0900_000	Ein extrem seltenes Erz, das in Vulkanregionen zu finden ist, löste seine Entwicklung aus, bei der Teile seines Körpers zu Stein wurden.
 ZKN_SCARLET_0904_000	Selbst im Schlaf reagieren Myriadors Giftstacheln von allein und spießen alles auf, was sich ihm nähert.
 ZKN_SCARLET_0211_001	Es lebt ufernah in Gewässern kalter Gefilde. Verglichen mit den Baldorfish anderer Regionen sind seine Giftstacheln dicker und kürzer.
@@ -37108,6 +37125,7 @@ ZKN_VIOLET_1023_000	Angeblich hat es mit den leuchtenden Klingen, die es abfeuer
 ZKN_VIOLET_1024_000	Es lebte im urzeitlichen Paldea, fiel jedoch den tektonischen Plattenbewegungen zum Opfer und galt als ausgestorben.
 ZKN_VIOLET_1024_001	Wird sein Terakristall-Panzer von einer gegnerischen Attacke getroffen, absorbiert es deren Energie und macht sie sich zu eigen.
 ZKN_VIOLET_1024_002	In einem alten Expeditionsbericht wird diese tief im Boden vergrabene Form mit einem im Weltall schwebenden Planeten verglichen.
+ZKN_VIOLET_1025_000	In der wie ein Pfirsich geformten Schale speichert es Gift und stellt daraus giftige Mochi her, die es Menschen und Pokémon anbietet.
 ZKN_VIOLET_0900_000	Dieses grobe, ungehobelte und aggressive Pokémon wirbelt wild mit seinen wuchtigen Äxten aus Stein, um Beute niederzustrecken.
 ZKN_VIOLET_0904_000	Es ist ungestüm und brutal. Die Spitzen seiner Giftstacheln sind gezackt, wodurch sie sich nach einem Stich nur schwer entfernen lassen.
 ZKN_VIOLET_0211_001	Es absorbiert die Toxine in seiner Nahrung. Seine auffällig lilafarbenen Stacheln sind ein Zeichen dafür, dass es voll von gefährlichem Gift steckt.
