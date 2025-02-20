@@ -4973,6 +4973,7 @@ sp_api_400_11650	Vous ne pouvez pas faire d'échanges depuis ce compte.
 sp_api_400_11651	Un ou plusieurs Pokémon ne peuvent pas être échangés.
 sp_api_500_10807	Ce cadeau a déjà été récupéré.
 sp_api_404_40409	Ce cadeau n'existe pas.
+sp_api_500_9994	La maintenance est terminée. L'accès à Pokémon HOME est actuellement limité afin de stabiliser la charge subie par les serveurs et redeviendra possible progressivement. Merci de votre patience.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_fra.msbt
@@ -5346,17 +5347,17 @@ sp_oak_00021	Sur ce, je te laisse. Je compte sur toi pour collectionner tout ple
 ~~~~~~~~~~~~~~~
 Text File : sp_option_fra.msbt
 ~~~~~~~~~~~~~~~
-sp_option_terms_00001	Conditions d'utilisation et avis sur la confidentialité
+sp_option_terms_00001	Conditions d'utilisation et Avis sur la confidentialité
 sp_option_terms_00002	Conditions d'utilisation
 sp_option_terms_00003	Avis sur la confidentialité
-sp_option_terms_00004	Acceptez-vous les conditions d'utilisation et l'avis sur la confidentialité ?
+sp_option_terms_00004	Acceptez-vous les Conditions d'utilisation et l'Avis sur la confidentialité ?
 sp_option_terms_00005	Je refuse
 sp_option_terms_00006	J'accepte
 sp_option_terms_00007	Utilisation de Pokémon HOME
-sp_option_terms_00008	Vous ne pouvez pas utiliser Pokémon HOME tant que vous n'avez pas accepté les conditions d'utilisation et l'avis sur la confidentialité.
-sp_option_terms_00009	Vous devez accepter les conditions d'utilisation et l'avis sur la confidentialité pour utiliser Pokémon HOME. Veuillez les sélectionner pour en lire le contenu.
-sp_option_terms_00010	Accepter les conditions d'utilisation
-sp_option_terms_00011	Accepter l'avis sur la confidentialité
+sp_option_terms_00008	Vous ne pouvez pas utiliser Pokémon HOME tant que vous n'avez pas accepté les Conditions d'utilisation et l'Avis sur la confidentialité.
+sp_option_terms_00009	Vous devez accepter les Conditions d'utilisation et l'Avis sur la confidentialité pour utiliser Pokémon HOME. Veuillez les sélectionner pour en lire le contenu.
+sp_option_terms_00010	Accepter les Conditions d'utilisation
+sp_option_terms_00011	Accepter l'Avis sur la confidentialité
 sp_option_language_title	Sélection de la langue
 sp_option_language_select	Quelle langue voulez-vous utiliser ?
 sp_option_language_select_please	Veuillez choisir une langue d'affichage.
@@ -5510,7 +5511,7 @@ sp_option_nalink_0001_v2	Voici ce que vous pourrez faire en associant votre comp
 sp_option_nalink_0002_v2	Actions possibles en associant son compte Nintendo
 sp_option_nalink_0003_v2	・ 
 sp_option_nalink_0004_v2	Si vous utilisez déjà la version Nintendo Switch de Pokémon HOME ou que vous comptez l'utiliser à l'avenir, veuillez vous assurer d'associer votre compte.
-sp_option_nalink_0005_v2	<b>Vous ne pourrez pas associer votre compte ultérieurement.</b>
+sp_option_nalink_0005_v2	<b>Vous ne pouvez pas associer votre compte ultérieurement.</b>
 sp_option_nalink_0006_v2	Associer un compte Nintendo et commencer
 sp_option_nalink_0007_v2	Avant d'associer un compte Nintendo, veuillez vérifier qu'il s'agit bien du compte que vous souhaitez associer.
 sp_option_nalink_0008_v2	Note : si vous ne savez pas quel compte Nintendo associer, veuillez vérifier en utilisant l'un des liens ci-dessous.
@@ -5947,7 +5948,9 @@ sp_ui_national_library	Pokédex national
 sp_ui_software_library_v10	Jeux
 sp_ui_other_library_v10	Autres
 sp_ui_waza	Capacités
-sp_ui_tokusei	Talents
+sp_ui_tokusei	Talent
+sp_ui_tokusei_plural	Talent(s)
+sp_ui_tokusei_other_library	Talents
 sp_ui_all	Tous
 sp_ui_compare	Comparaison
 sp_ui_delivery	Distribution
@@ -6021,7 +6024,7 @@ sp_ui_downlod_0003	Les données permanentes ont été téléchargées.
 sp_ui_downlod_0004	Le téléchargement a échoué.
 sp_ui_downlod_0005	Connexion en cours...
 sp_ui_downlod_0006	La connexion a échoué.
-sp_ui_downlod_0007	Téléchargement des ressources en cours...
+sp_ui_downlod_0007	Téléchargement des ressources en cours... 
 sp_ui_downlod_0008	Le téléchargement des ressources a échoué.
 sp_ui_webview_to_list	Liste
 sp_ui_evolution	Évolution
@@ -6277,7 +6280,7 @@ sp_ui_gift_select_title	Confirmer la sélection de Pokémon
 sp_ui_gift_select_confirm	Vous avez sélectionné [VAR_PKNAME]. Cela vous convient-il ?  Attention : vous ne pourrez pas modifier cette sélection plus tard.
 sp_ui_gift_select_reselect	Choisir un autre
 sp_ui_achieve_dialog_all_clear	Accompli
-sp_ui_achieve_dialog_header_title	Récompenses
+sp_ui_achieve_dialog_header_title	Récompense(s)
 sp_ui_achieve_sort_grade	Grade
 sp_ui_achieve_sort_title	Ordre alphabétique
 sp_ui_achieve_empty_list	Aucun haut fait à afficher.

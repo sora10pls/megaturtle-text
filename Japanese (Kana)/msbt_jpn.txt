@@ -4973,6 +4973,7 @@ sp_api_400_11650	このアカウントでは こうかんすることが　で�
 sp_api_400_11651	こうかんにだせない　ポケモンが ふくまれています
 sp_api_500_10807	プレゼントは　すでにうけとりずみです
 sp_api_404_40409	そんざいしないプレゼントです
+sp_api_500_9994	メンテナンスは終了しました。 現在アクセス負荷分散のため ログインを制限しています。 順次ログイン可能になりますので しばらくお待ちください。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_jpn.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	ソフトずかん
 sp_ui_other_library_v10	そのた
 sp_ui_waza	わざ
 sp_ui_tokusei	とくせい
+sp_ui_tokusei_plural	とくせい
+sp_ui_tokusei_other_library	とくせい
 sp_ui_all	ALL
 sp_ui_compare	ひかく
 sp_ui_delivery	はいしん

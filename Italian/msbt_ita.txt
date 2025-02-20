@@ -4973,6 +4973,7 @@ sp_api_400_11650	Non puoi effettuare scambi con questo account.
 sp_api_400_11651	Sono presenti uno o più Pokémon che non possono essere scambiati.
 sp_api_500_10807	Hai già ricevuto questo regalo.
 sp_api_404_40409	Questo regalo non esiste.
+sp_api_500_9994	Le operazioni di manutenzione sono terminate. Al momento gli accessi sono stati limitati per ridurre il carico sui server. Gli utenti potranno effettuare l'accesso in modo scaglionato. Ti preghiamo di attendere.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_ita.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	Pokédex giochi
 sp_ui_other_library_v10	Altro
 sp_ui_waza	Mosse
 sp_ui_tokusei	Abilità
+sp_ui_tokusei_plural	Abilità
+sp_ui_tokusei_other_library	Abilità
 sp_ui_all	Tutte
 sp_ui_compare	Confronto
 sp_ui_delivery	Distribuzione
@@ -6021,7 +6024,7 @@ sp_ui_downlod_0003	I dati permanenti sono stati scaricati.
 sp_ui_downlod_0004	Download dei dati permanenti non riuscito.
 sp_ui_downlod_0005	Accesso in corso...
 sp_ui_downlod_0006	Accesso non riuscito.
-sp_ui_downlod_0007	Download delle risorse in corso...
+sp_ui_downlod_0007	Download delle risorse in corso... 
 sp_ui_downlod_0008	Download delle risorse non riuscito.
 sp_ui_webview_to_list	Lista
 sp_ui_evolution	Evoluzione

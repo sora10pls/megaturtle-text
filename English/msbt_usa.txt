@@ -4973,6 +4973,7 @@ sp_api_400_11650	You can't trade Pokémon with this account.
 sp_api_400_11651	You've included one or more Pokémon that can't be traded.
 sp_api_500_10807	This present has already been claimed.
 sp_api_404_40409	This present does not exist.
+sp_api_500_9994	Maintenance has been completed. Log-ins are currently being limited to balance server load. Users will gradually become able to log in. Please wait a little while.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_usa.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	Games
 sp_ui_other_library_v10	Others
 sp_ui_waza	Moves
 sp_ui_tokusei	Ability
+sp_ui_tokusei_plural	Abilities
+sp_ui_tokusei_other_library	Abilities
 sp_ui_all	All
 sp_ui_compare	Comparison
 sp_ui_delivery	Transmit
@@ -6021,7 +6024,7 @@ sp_ui_downlod_0003	Master data downloading complete!
 sp_ui_downlod_0004	Master data downloading failed.
 sp_ui_downlod_0005	Logging in...
 sp_ui_downlod_0006	Logging in failed.
-sp_ui_downlod_0007	Downloading resources...
+sp_ui_downlod_0007	Downloading resources... 
 sp_ui_downlod_0008	Resource downloading failed.
 sp_ui_webview_to_list	To list
 sp_ui_evolution	Evolution

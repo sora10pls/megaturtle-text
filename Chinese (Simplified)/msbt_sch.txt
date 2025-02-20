@@ -4973,6 +4973,7 @@ sp_api_400_11650	此账号无法进行交换。
 sp_api_400_11651	包含无法用来交换的宝可梦。
 sp_api_500_10807	此礼物已接收。
 sp_api_404_40409	礼物不存在。
+sp_api_500_9994	系统维护已结束。 为分散访问负担， 当前正在限制登录。 用户将陆续变为可登录状态， 请稍等片刻。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_sch.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	软件图鉴
 sp_ui_other_library_v10	其他
 sp_ui_waza	招式
 sp_ui_tokusei	特性
+sp_ui_tokusei_plural	特性
+sp_ui_tokusei_other_library	特性
 sp_ui_all	全部
 sp_ui_compare	比较
 sp_ui_delivery	发布

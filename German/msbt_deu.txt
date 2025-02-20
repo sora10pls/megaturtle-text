@@ -4973,6 +4973,7 @@ sp_api_400_11650	Mit diesem Konto kannst du keine Pokémon tauschen.
 sp_api_400_11651	In deiner Auswahl befindet sich mindestens ein Pokémon, das nicht getauscht werden kann.
 sp_api_500_10807	Dieses Geschenk wurde bereits angenommen.
 sp_api_404_40409	Dieses Geschenk existiert nicht.
+sp_api_500_9994	Die Wartungsarbeiten wurden beendet. Anmeldungen werden derzeit eingeschränkt, um eine Serverüberlastung zu vermeiden. Nutzer werden sich nach und nach anmelden können. Bitte warte eine Weile.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_deu.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	Software
 sp_ui_other_library_v10	Sonstige
 sp_ui_waza	Attacken
 sp_ui_tokusei	Fähigkeit
+sp_ui_tokusei_plural	Fähigkeiten
+sp_ui_tokusei_other_library	Fähigkeiten
 sp_ui_all	Alle Pokémon
 sp_ui_compare	Vergleich
 sp_ui_delivery	Verteilung
@@ -6021,7 +6024,7 @@ sp_ui_downlod_0003	Stammdaten heruntergeladen!
 sp_ui_downlod_0004	Fehler beim Herunterladen der Stammdaten.
 sp_ui_downlod_0005	Anmeldung läuft...
 sp_ui_downlod_0006	Anmeldung fehlgeschlagen.
-sp_ui_downlod_0007	Ressourcen werden heruntergeladen...
+sp_ui_downlod_0007	Ressourcen werden heruntergeladen... 
 sp_ui_downlod_0008	Fehler beim Herunterladen der Ressourcen.
 sp_ui_webview_to_list	Zur Liste
 sp_ui_evolution	Entwicklung

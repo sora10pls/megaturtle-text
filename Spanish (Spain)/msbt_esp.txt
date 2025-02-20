@@ -4973,6 +4973,7 @@ sp_api_400_11650	No puedes realizar intercambios con esta cuenta.
 sp_api_400_11651	Al menos uno de los Pokémon incluidos no puede ser intercambiado.
 sp_api_500_10807	Ya has recibido este regalo.
 sp_api_404_40409	Ese regalo no existe.
+sp_api_500_9994	Han concluido las labores de mantenimiento. Para equilibrar el tráfico en los servidores, estamos limitando temporalmente el número de usuarios que pueden iniciar sesión de forma simultánea. Dicha limitación se irá retirando gradualmente. Espera y disculpa las molestias.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_esp.msbt
@@ -5367,7 +5368,7 @@ sp_option_country_select_00002	¿Seguro que quieres seleccionar esta región? <b
 sp_option_country_select_00003	¿Cuál es tu región de residencia?
 sp_option_country_select_00004	Confirmación de la región
 sp_option_country_reselect_title	Actualización de la configuración de región
-sp_option_country_reselect_body	Se ha actualizado la función de datos de combate. Ahora podrás ver los resultados de Torneos en Línea de Pokémon Escarlata y Pokémon Púrpura.  La lista de regiones de residencia que puedes elegir también se ha actualizado para concordar con las opciones en los Torneos en Línea de Pokémon Escarlata y Pokémon Púrpura.  Para poder seguir usando Pokémon HOME, tendrás que volver a seleccionar tu región de residencia.  Una vez hayas seleccionado una, se mostrarán las condiciones de uso y la política de privacidad de tu región. Asegúrate de leerlas.
+sp_option_country_reselect_body	Se ha actualizado la función de datos de combate. Ahora podrás ver los resultados de torneos en línea de Pokémon Escarlata y Pokémon Púrpura.  La lista de regiones de residencia que puedes elegir también se ha actualizado para concordar con las opciones en los torneos en línea de Pokémon Escarlata y Pokémon Púrpura.  Para poder seguir usando Pokémon HOME, tendrás que volver a seleccionar tu región de residencia.  Una vez hayas seleccionado una, se mostrarán las condiciones de uso y la política de privacidad de tu región. Asegúrate de leerlas.
 sp_option_birthday_select_00001	Fecha de nacimiento
 sp_option_birthday_select_00002	Introduce tu fecha de nacimiento para verificar tu edad.
 sp_option_birthday_select_00003	La fecha de nacimiento no es correcta.
@@ -5543,7 +5544,7 @@ sp_option_nalink_0034_v2	Transferir datos al cambiar de dispositivo.
 sp_option_nalink_0035_v2	No vincular
 sp_option_nalink_0036_v2	Confirmación final antes de usar una cuenta de invitado
 sp_option_nalink_0037_v2	Si seleccionas "No", volverás a la pantalla de confirmación de vinculación de una cuenta Nintendo.
-sp_option_nalink_0038_v2	Comprobar tus resultados en los Combates Clasificatorios y Torneos en Línea (tanto oficiales como amistosos) en los que hayas participado en los juegos de la serie principal de Pokémon.
+sp_option_nalink_0038_v2	Comprobar tus resultados en los Combates Clasificatorios y torneos en línea (tanto oficiales como amistosos) en los que hayas participado en los juegos de la serie principal de Pokémon.
 sp_option_nalink_0039_v2	Comprobar tus resultados en los juegos de la serie principal de Pokémon.
 sp_option_nalink_0040_v2	Atención al consumidor
 sp_option_nalink_0041_v2	Se ha podido comprobar que la versión de Pokémon HOME para Nintendo Switch y la versión de Pokémon HOME para dispositivos móviles se están usando con esta cuenta Nintendo.
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	Juegos
 sp_ui_other_library_v10	Otros
 sp_ui_waza	Movimiento
 sp_ui_tokusei	Habilidad
+sp_ui_tokusei_plural	Habilidades
+sp_ui_tokusei_other_library	Habilidad
 sp_ui_all	Todos
 sp_ui_compare	Comparación
 sp_ui_delivery	Enviar
@@ -6021,7 +6024,7 @@ sp_ui_downlod_0003	Se han descargado los datos maestros.
 sp_ui_downlod_0004	Se ha producido un error al descargar los datos.
 sp_ui_downlod_0005	Iniciando sesión...
 sp_ui_downlod_0006	Se ha producido un error al iniciar sesión.
-sp_ui_downlod_0007	Descargando recursos...
+sp_ui_downlod_0007	Descargando recursos... 
 sp_ui_downlod_0008	Se ha producido un error al descargar recursos.
 sp_ui_webview_to_list	Ver lista
 sp_ui_evolution	Evolución
@@ -6127,7 +6130,7 @@ sp_ui_unset_my_parent_v6	Eliminar de mis EO y n.º ID confirmados
 sp_ui_my_parent_max_dialog_text_v6	Solo puedes confirmar hasta 50 EO y n.º ID.
 sp_ui_pgl_battle_log	Datos de combate
 sp_ui_pgl_rank_match	Combates Clasificatorios
-sp_ui_pgl_internet_tournament	Torneos en Línea
+sp_ui_pgl_internet_tournament	Torneos en línea
 sp_ui_pgl_mypage	Mis resultados
 sp_ui_pgl_regulation	Descarga de reglamentos
 sp_ui_pgl_tournament_v3	
@@ -6150,7 +6153,7 @@ sp_ui_svbd_friendcompe_na_required	Para poder ver la información sobre torneos 
 sp_ui_svbd_in_preparation	Esta función aún no está disponible.
 sp_ui_svbd_ok	Aceptar
 sp_ui_svbd_terms_of_use	Vinculación de una cuenta Nintendo
-sp_ui_svbd_reference_sv_info	Si has vinculado una Cuenta Nintendo, puedes comprobar los resultados de los combates en los que hayas participado en los juegos de la serie principal de Pokémon, como los Torneos en Línea y los Combates Clasificatorios.
+sp_ui_svbd_reference_sv_info	Si has vinculado una cuenta Nintendo, puedes comprobar los resultados de los combates en los que hayas participado en los juegos de la serie principal de Pokémon, como los torneos en línea y los Combates Clasificatorios.
 sp_ui_svbd_yes	Entendido
 sp_ui_svbd_battledata_top	Datos de combate
 sp_ui_svbd_back	Atrás

@@ -4973,6 +4973,7 @@ sp_api_400_11650	此帳號無法進行交換。
 sp_api_400_11651	目前包含了 無法用來交換的寶可夢。
 sp_api_500_10807	此禮物已接收。
 sp_api_404_40409	不存在的禮物。
+sp_api_500_9994	維護作業已結束。 為分散連線負荷， 目前正實施登入限制。 登入限制將會陸續解除， 請稍候片刻。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_tch.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	軟體圖鑑
 sp_ui_other_library_v10	其他
 sp_ui_waza	招式
 sp_ui_tokusei	特性
+sp_ui_tokusei_plural	特性
+sp_ui_tokusei_other_library	特性
 sp_ui_all	ALL
 sp_ui_compare	比較
 sp_ui_delivery	發佈

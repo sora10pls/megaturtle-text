@@ -4973,6 +4973,7 @@ sp_api_400_11650	このアカウントでは 交換することが　できま�
 sp_api_400_11651	交換に出せない　ポケモンが 含まれています
 sp_api_500_10807	プレゼントは　すでに受け取り済みです
 sp_api_404_40409	存在しないプレゼントです
+sp_api_500_9994	メンテナンスは終了しました。 現在アクセス負荷分散のため ログインを制限しています。 順次ログイン可能になりますので しばらくお待ちください。
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_jpn_kanji.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	ソフト図鑑
 sp_ui_other_library_v10	その他
 sp_ui_waza	わざ
 sp_ui_tokusei	とくせい
+sp_ui_tokusei_plural	とくせい
+sp_ui_tokusei_other_library	とくせい
 sp_ui_all	ALL
 sp_ui_compare	比較
 sp_ui_delivery	配信

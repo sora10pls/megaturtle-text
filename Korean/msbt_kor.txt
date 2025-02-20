@@ -4973,6 +4973,7 @@ sp_api_400_11650	이 어카운트로는 교환할 수 없습니다
 sp_api_400_11651	교환에 내보낼 수 없는 포켓몬이 포함되어 있습니다
 sp_api_500_10807	이미 받은 선물입니다
 sp_api_404_40409	존재하지 않는 선물입니다
+sp_api_500_9994	점검은 종료되었습니다. 현재 접속 부하를 분산하기 위해, 로그인을 제한하고 있습니다. 순차적으로 로그인할 수 있게 될 예정이오니 기다려 주시기 바랍니다.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_color_kor.msbt
@@ -5948,6 +5949,8 @@ sp_ui_software_library_v10	게임도감
 sp_ui_other_library_v10	기타
 sp_ui_waza	기술
 sp_ui_tokusei	특성
+sp_ui_tokusei_plural	특성
+sp_ui_tokusei_other_library	특성
 sp_ui_all	ALL
 sp_ui_compare	비교
 sp_ui_delivery	배포
