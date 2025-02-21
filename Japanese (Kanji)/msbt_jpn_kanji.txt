@@ -268,7 +268,7 @@ Text File : B2W2_place_name_jpn_kanji.msbt
 MAPNAME_NOTHING	－－－－－－－－－－
 MAPNAME_NAZONOBASYO	なぞの場所
 MAPNAME_TOOIBASYO	遠い場所
-MAPNAME_INTRUDE	[VAR_PLAYER]の[VAR]
+MAPNAME_INTRUDE	[VAR 0100(0000)]の[VAR 0105(0001)]
 MAPNAME_T1KANOKO	カノコタウン
 MAPNAME_T2KARAKUSA	カラクサタウン
 MAPNAME_C1SANYOU	サンヨウシティ
@@ -7237,17 +7237,17 @@ Text File : sp_api_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 sp_api_error_title	通信エラー
 sp_api_simple_error	エラー
-sp_api_error_dialog_text	通信エラーが　発生しました [VAR]
-sp_api_retry_dialog_text	通信エラーが　発生しました [VAR] リトライを　行いますか
+sp_api_error_dialog_text	通信エラーが　発生しました [VAR 0200(0000)]
+sp_api_retry_dialog_text	通信エラーが　発生しました [VAR 0200(0000)] リトライを　行いますか
 sp_api_error_goto_title_dialog_text	通信エラーが　発生しました タイトル画面に　戻ります
 sp_api_dataupdate	データが　更新されました タイトル画面に　戻ります
 sp_api_dlsize_title	ダウンロード確認
-sp_api_dlsize_mb_text	[VAR]MB　ダウンロードしますが よろしいですか？
-sp_api_dlsize_kb_text	[VAR]KB　ダウンロードしますが よろしいですか？
-sp_api_dlsize_b_text	[VAR]Byte　ダウンロードしますが よろしいですか？
+sp_api_dlsize_mb_text	[VAR 0200(0000)]MB　ダウンロードしますが よろしいですか？
+sp_api_dlsize_kb_text	[VAR 0200(0000)]KB　ダウンロードしますが よろしいですか？
+sp_api_dlsize_b_text	[VAR 0200(0000)]Byte　ダウンロードしますが よろしいですか？
 sp_api_lack_storage	端末の　空き容量が　たりません 不要なデータを　削除してください
 sp_api_break_file	ファイルが　破損しています タイトル画面の　メニューから キャッシュを　クリアしてください
-sp_api_maintenance_010	ただいま　メンテナンス中です 終了予定時刻は　下記の通りです [VAR_YEAR]/[VAR_MONTH]/[VAR_DAY]　[VAR]:[VAR]　
+sp_api_maintenance_010	ただいま　メンテナンス中です 終了予定時刻は　下記の通りです [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]　
 sp_api_maintenance_020	ただいま　メンテナンス中です メンテナンス終了まで　しばらくお待ちください
 sp_api_maintenance_030	ただいま　緊急メンテナンス中です ご迷惑をおかけして申し訳ございませんが メンテナンス終了まで　しばらくお待ちください
 sp_api_400_8809	ニンテンドーアカウントで ログインできませんでした  ニンテンドーアカウントのQ&Aを ご確認ください
@@ -7443,7 +7443,7 @@ sp_friend_01007	フレンドコードを　入力
 sp_friend_01008	フレンドに　追加したい　ユーザーの ２次元コードを　読み込んでください
 sp_friend_01009	２次元コードを　読み込む
 sp_friend_01010	タップしてフレンドコードを入力
-sp_friend_01011	[VAR_PLAYER]  に　フレンド申請を　行いました 承認されるまで　お待ちください
+sp_friend_01011	[VAR 0100(0000)]  に　フレンド申請を　行いました 承認されるまで　お待ちください
 sp_friend_01012	フレンド申請
 sp_friend_01013	あなたの２次元コード
 sp_friend_02001	フレンド承認
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	ポケモンバンク Ver[VAR]以上
-sp_migration_00003	Pokémon HOME あと　[VAR]匹
+sp_migration_00002	ポケモンバンク Ver[VAR 0200(0000)]以上
+sp_migration_00003	Pokémon HOME あと　[VAR 0200(0000)]匹
 sp_migration_00004	ニンテンドー3DSの　『ポケモンバンク』から ポケモンを　連れてくることが　できます
 sp_migration_00005	一度　連れてきたポケモンは ニンテンドー3DSに　戻せなくなります！
 sp_migration_00006	ひっこしを　はじめる！
@@ -7522,7 +7522,7 @@ sp_migration_04002	準備OK！
 sp_migration_05001	ひっこしパスワードは <B>３分</B>しか　使えません 時間内に　『ポケモンバンク』に 入力してください
 sp_migration_05002	ひっこしパスワードを　表示すると <B>３分間</B> 前の画面に　戻れなくなります！
 sp_migration_05003	ひっこしパスワードを 表示する！
-sp_migration_06001	ポケモンの　空きスペースが <B>[VAR_YEAR]匹分</B>　足りません！
+sp_migration_06001	ポケモンの　空きスペースが <B>[VAR 0203(0000)]匹分</B>　足りません！
 sp_migration_06002	ポケモンを　整頓するなどして 十分な　空きを　用意してください
 sp_migration_06003	ひっこしを　中止します
 sp_migration_07001	現在　ご使用中の ニンテンドーアカウントは ニンテンドーネットワークIDと 連携していません
@@ -7540,7 +7540,7 @@ sp_migration_11001	ひっこしが　終わりました！
 sp_migration_11002	Pokémon HOMEへ　ようこそ！！
 sp_migration_12001	プレゼント
 sp_migration_12002	はじめてのひっこし
-sp_migration_12003	[VAR_YEAR]ポイント
+sp_migration_12003	[VAR 0203(0000)]ポイント
 sp_migration_13001	ニンテンドーネットワークＩＤで　 ひっこしを　するには　 ニンテンドーアカウントと　 連携している　必要があります  ニンテンドーアカウントとの　 連携は　設定から　 行うことができます
 sp_migration_13002	ひっこしに　失敗しました
 
@@ -7584,7 +7584,7 @@ sp_monbo_gift_0001_001	『Pokémon HOME』の　アップデート記念に プ�
 sp_monbo_gift_0001_002	「ふしぎなおくりもの」から 受けとって　欲しいモン！
 sp_monbo_gift_0001_003	ソフト連携の　記念に　 プレゼントが　あるモン！
 sp_monbo_gift_0002_001	どのポケモンにするか 選んでモン！
-sp_monbo_gift_0002_002	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいモン？
+sp_monbo_gift_0002_002	[VAR 0104(0000)]の　[VAR 0101(0001)]　で いいモン？
 sp_monbo_get_calendar_0001_001	ここは　ゲットカレンダー！ 『Pokémon HOME』に　預けているポケモンが 捕まえた日にち順に　並んでいるモン！
 sp_monbo_get_calendar_0001_002	記念日には　好きな日にちを 登録・編集することが　できるモン！ 登録した記念日に　捕まえたポケモンを 絞り込みできるモン！
 sp_monbo_get_calendar_0001_003	自分だけの　思い出の日を 記念日に　登録するといいモン！
@@ -7667,7 +7667,7 @@ sp_oak_00002	私の　すがたは　映っているかね？  ……うむ　�
 sp_oak_00003	私は　偉大な　ポケモン研究家 ダイオーキド！ はじめまして　よろしくな！
 sp_oak_00004	キミは　いま　私が　開発した 『Pokémon HOME』に　アクセスしている！ ビッグな　記念日　となったぞ！
 sp_oak_00005	おっと　失礼！ まずは　キミの　名前を 教えて　くれないか？
-sp_oak_00006	ふむ……　キミは [VAR_PLAYER]　と　いうんだな！ 
+sp_oak_00006	ふむ……　キミは [VAR 0100(0000)]　と　いうんだな！ 
 sp_oak_00007	私の　夢は　世界に　すむ あらゆる　ポケモンが　登録された ビッグな　ポケモン図鑑の　完成だ！
 sp_oak_00008	だが　ハッキリいって　私　ひとりで 実現　するのは　難しい…… そこで！　キミの　チカラを　貸してくれい！
 sp_oak_00009	この　『Pokémon HOME』に ポケモンを　集める　ことで ポケモン図鑑が　うまって　いくのだ！
@@ -7679,7 +7679,7 @@ sp_oak_00014	ほかにも　ポケモンバトルを　楽しむ 世界中の　
 sp_oak_00015	ふむ　わたしが　開発した ビッグな　機能　に 驚いている　ようだな！
 sp_oak_00016	……なに？　ポケモンを　持っていない？ よし！　特別に 1匹　プレゼント　するぞ！
 sp_oak_00017	どの　ポケモンにするか 選んでくれい！
-sp_oak_00018	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいのかね？
+sp_oak_00018	[VAR 0104(0000)]の　[VAR 0101(0001)]　で いいのかね？
 sp_oak_00019	オーケイ！　『Pokémon HOME』の 詳しい　機能　は モンボーに　きいてくれい！
 sp_oak_00020	モンボーは　キミの　ポケモンと　 一緒に　マイルームで　 待って　おるぞ！
 sp_oak_00021	オーケイ！　 それでは　よろしく頼んだぞ！
@@ -7724,7 +7724,7 @@ sp_option_language_select_please	言語を　選択して　ください
 sp_option_language_select_00002	※ちいさな　おこさまは　ほごしゃのかたと  いっしょに　えらんで　ください
 sp_option_language_select_00003	選択した 言語の 確認
 sp_option_country_select_00001	地域の　選択
-sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR_REGION]】</b>  ※あとから　変更できます
+sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR 0105(0000)]】</b>  ※あとから　変更できます
 sp_option_country_select_00003	お住まいの地域を　選択してください
 sp_option_country_select_00004	選択した　地域の　確認
 sp_option_country_reselect_title	地域設定の更新
@@ -7961,13 +7961,13 @@ sp_plan_terms	利用規約
 sp_plan_fund_settlement_method	資金決済法に基づく表示
 sp_plan_specifiedcommercial_transaction_law	特定商取引法に基づく表示
 sp_plan_change	プラン確認
-sp_plan_buy_text	[VAR]を　購入します
+sp_plan_buy_text	[VAR 0200(0000)]を　購入します
 sp_plan_change_disable_text	他のストアで　購入されています プレミアムプランの　有効期限は 購入したストアで　ご確認ください
 sp_plan_restored_title	プランの復元
 sp_plan_restored_text	プランの復元を　行いました
 sp_plan_buy_failed_title	購入エラー
-sp_plan_buy_failed_text	購入処理に　失敗しました [VAR]
-sp_plan_buy_failed_goto_title_text	購入処理に　失敗しました タイトルへ　戻ります [VAR]
+sp_plan_buy_failed_text	購入処理に　失敗しました [VAR 0200(0000)]
+sp_plan_buy_failed_goto_title_text	購入処理に　失敗しました タイトルへ　戻ります [VAR 0200(0000)]
 sp_plan_not_Initalized_text	課金システムが　初期化されていません タイトルへ　戻ります
 sp_plan_not_Initalizing_text	課金システムを　初期化中です
 sp_plan_help_button	プレミアムプランヘルプ
@@ -7992,19 +7992,19 @@ sp_playerlog_00002	GTSで　交換しました
 sp_playerlog_00003	グループ交換　を行いました
 sp_playerlog_00004	ミラクルボックスで　交換しました
 sp_playerlog_00005	ふしぎなおくりもので　受け取りました
-sp_playerlog_00006	[VAR_YEAR]ポイント　使いました
-sp_playerlog_00007	[VAR_YEAR]ポイント　手に入れました
-sp_playerlog_00008	[VAR_YEAR]ポイント　BPに引き換えました
+sp_playerlog_00006	[VAR 0203(0000)]ポイント　使いました
+sp_playerlog_00007	[VAR 0203(0000)]ポイント　手に入れました
+sp_playerlog_00008	[VAR 0203(0000)]ポイント　BPに引き換えました
 sp_playerlog_00009	 <b>フレンド交換</b>を　行いました
 sp_playerlog_00010	<b>GTS</b>で　交換しました
 sp_playerlog_00011	<b>グループ交換</b>を　行いました
 sp_playerlog_00012	<b>ミラクルボックス</b>で　交換しました
-sp_playerlog_00013	[VAR]で　[VAR_PLAYER]が　預けました
-sp_playerlog_00014	[VAR]で　[VAR_PLAYER]が　引き出しました
+sp_playerlog_00013	[VAR 0200(0000)]で　[VAR 0100(0001)]が　預けました
+sp_playerlog_00014	[VAR 0200(0000)]で　[VAR 0100(0001)]が　引き出しました
 sp_playerlog_00015	逃がしました
 sp_playerlog_00016	ふしぎなおくりもので 受け取りました
-sp_playerlog_00017	[VAR_YEAR]匹 ポケモン転送しました
-sp_playerlog_00018	[VAR_PLAYER]の[VAR_PLAYER]
+sp_playerlog_00017	[VAR 0203(0000)]匹 ポケモン転送しました
+sp_playerlog_00018	[VAR 0102(0001)]の[VAR 0100(0000)]
 sp_playerlog_00019	送ったポケモン
 sp_playerlog_00020	受け取ったポケモン
 sp_playerlog_00021	受け取ったひと
@@ -8086,39 +8086,39 @@ sp_trade_00010_vgo	多くの人が　求めている　ポケモン （特別な
 sp_trade_00011_vgo	多くの人が　求めている　ポケモン
 sp_trade_00012_vgo	たくさん 交換されている ポケモン
 sp_trade_00013_vgo	交換成立した　珍しいポケモン
-sp_trade_01001	[VAR_PKNAME]を　どうしますか？
+sp_trade_01001	[VAR 0102(0000)]を　どうしますか？
 sp_trade_01002	つよさをみる
 sp_trade_01003	GTSに あずけている　ポケモンです 選ぶことは　できません
 sp_trade_01004	ミラクルボックスに あずけている　ポケモンです 選ぶことは　できません
 sp_trade_01005	操作できません
 sp_trade_01006	お気に入りの　ポケモンです 選ぶことは　できません
-sp_trade_02001	[VAR_PKNAME]を　[VAR_PLAYER]へ　送ります！ バイバイ　[VAR_PKNAME]
-sp_trade_02002	[VAR_PLAYER]から [VAR_PKNAME]が　送られてきた！
-sp_trade_02003	[VAR_PKNAME]を　かわいがって　あげてね！
-sp_trade_02004	[VAR_PKNAME]を　ＧＴＳへ　預けます！ バイバイ　[VAR_PKNAME]
-sp_trade_02005	[VAR_PKNAME]が ＧＴＳから　やってきた！
-sp_trade_02006	[VAR_PKNAME]を　引き取った！
-sp_trade_02007	おかえり　[VAR_PKNAME]！
-sp_trade_02008	[VAR_PKNAME]を ミラクルボックスへ　預けます！ バイバイ　[VAR_PKNAME]
-sp_trade_02009	[VAR_PKNAME]が ミラクルボックスから　やってきた！
+sp_trade_02001	[VAR 0102(0000)]を　[VAR 0100(0001)]へ　送ります！ バイバイ　[VAR 0102(0000)]
+sp_trade_02002	[VAR 0100(0001)]から [VAR 0102(0000)]が　送られてきた！
+sp_trade_02003	[VAR 0102(0000)]を　かわいがって　あげてね！
+sp_trade_02004	[VAR 0102(0000)]を　ＧＴＳへ　預けます！ バイバイ　[VAR 0102(0000)]
+sp_trade_02005	[VAR 0102(0000)]が ＧＴＳから　やってきた！
+sp_trade_02006	[VAR 0102(0000)]を　引き取った！
+sp_trade_02007	おかえり　[VAR 0102(0000)]！
+sp_trade_02008	[VAR 0102(0000)]を ミラクルボックスへ　預けます！ バイバイ　[VAR 0102(0000)]
+sp_trade_02009	[VAR 0102(0000)]が ミラクルボックスから　やってきた！
 sp_trade_03001	エラーが　発生しました 交換トップに　戻ります
 sp_trade_03002	通信が　切断されました 交換トップに　戻ります
 sp_trade_03003	総交換数
 sp_trade_03004	トレードランキング
 sp_trade_03005	特別な　ポケモンなので 交換に　だすことが　できません
 sp_trade_03006	エラーが発生しました しばらく時間をおいてからリトライしてください
-sp_trade_miracle_00001	[VAR_PKNAME]を　どうしますか？
+sp_trade_miracle_00001	[VAR 0102(0000)]を　どうしますか？
 sp_trade_miracle_00002	あずける
 sp_trade_miracle_00003	ようすをみる
 sp_trade_miracle_00004	とりだす
 sp_trade_miracle_00005	GTSに あずけている　ポケモンです 選ぶことは　できません
 sp_trade_miracle_00006	ミラクルボックスに あずけている　ポケモンです 選ぶことは　できません
-sp_trade_miracle_00007	[VAR_PKNAME]を ミラクルボックスから　引き取りますか？
-sp_trade_miracle_00008	[VAR_PKNAME]は すでに　交換されています。
+sp_trade_miracle_00007	[VAR 0102(0000)]を ミラクルボックスから　引き取りますか？
+sp_trade_miracle_00008	[VAR 0102(0000)]は すでに　交換されています。
 sp_trade_miracle_00010	交換されました！
 sp_trade_miracle_00011	登録　できませんでした  少し　時間をおいてから もう一度　お試しください
 sp_trade_miracle_00013_v3	選択したポケモンを　どうしますか？
-sp_trade_miracle_00013_1_v3	（[VAR]匹を　選択しています）
+sp_trade_miracle_00013_1_v3	（[VAR 0200(0000)]匹を　選択しています）
 sp_trade_miracle_00014_v3	ポケモンを　預ける
 sp_trade_miracle_00015_v3	ポケモンの　つよさを　見る
 sp_trade_miracle_00016_v3	空き数以上の　ポケモンを 選択することは　できません
@@ -8139,13 +8139,13 @@ sp_trade_group_00010	２次元コードで参加
 sp_trade_group_00011	おまかせ参加
 sp_trade_group_00012	でグループを作成します
 sp_trade_group_00013	グループからぬけました
-sp_trade_group_00014	[VAR_PLAYER]のグループ
+sp_trade_group_00014	[VAR 0100(0000)]のグループ
 sp_trade_group_00015	グループＩＤ
 sp_trade_group_00016	コードを共有
 sp_trade_group_00017	グループの２次元コード
 sp_trade_group_00018	グループから抜ける
 sp_trade_group_00019	ポケモンをえらぶ
-sp_trade_group_00020	[VAR_PLAYER] をどうしますか？
+sp_trade_group_00020	[VAR 0100(0000)] をどうしますか？
 sp_trade_group_00021	交換するポケモンは
 sp_trade_group_00023	交換を続けますか？
 sp_trade_group_00024	続ける
@@ -8166,7 +8166,7 @@ sp_trade_group_00038	退室
 sp_trade_group_00039	他のユーザーを　待っています
 sp_trade_group_change_plan_confirm	グループを　作成するには　 プレミアムプランの　加入が　必要です  プラン変更を　しますか？
 sp_trade_firend_00001	GPSを初期化中です
-sp_trade_firend_00002	[VAR_PLAYER]さんを 待っています
+sp_trade_firend_00002	[VAR 0100(0000)]さんを 待っています
 sp_trade_firend_00003	接続待機中
 sp_trade_firend_00004	交換する
 sp_trade_firend_00005	準備完了
@@ -8187,7 +8187,7 @@ sp_trade_gts_00009	伝説や幻のポケモンを　探している人を含む
 sp_trade_gts_00010	この条件で探す
 sp_trade_gts_00011	検索結果
 sp_trade_gts_00012	指定したポケモンは　存在しません
-sp_trade_gts_00013	[VAR_PLAYER]さんの　情報
+sp_trade_gts_00013	[VAR 0100(0000)]さんの　情報
 sp_trade_gts_00014	交換に出す
 sp_trade_gts_00015	あいてのほしいポケモンを 持っていません
 sp_trade_gts_00016	交換済みのポケモンです
@@ -8197,10 +8197,10 @@ sp_trade_gts_00019_v1	ほしいポケモンに　特別な　ポケモンが 指
 sp_trade_gts_00020_v3	自分が　持っていない　ポケモンを 探している人を　含む
 sp_trade_gts_00021_v3	伝説や　幻などの　特別な ポケモンを　探している人を　含む
 sp_trade_gts_00022_v4	ほしいポケモンに　特別な　ポケモンが　 指定されています 特別な　ポケモンは　交換できません 選びなおしてください　
-sp_trade_gts_00023_v6	預けた日：[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_trade_gts_00023_v6	預けた日：[VAR 0203(0000)]年[VAR 0201(0001)]月[VAR 0201(0002)]日
 sp_trade_gts_00024_v6	求められているポケモン
-sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
-sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00027_v6	[VAR 0101(0000)] （[VAR 01D4(0001)]）
+sp_trade_gts_00028_v6	[VAR 0101(0000)]（[VAR 01D4(0001)]）
 sp_trade_gts_00029_v6	指定したポケモンを 求めているユーザーはいません
 sp_trade_gts_search_title_v12	つれていける タイトル
 sp_trade_gts_01001	交換を　してください よろしく　お願いします
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	フレンド交換
 sp_ui_record	記録
 sp_ui_player_log	手帳
 sp_ui_library_progress_v10	図鑑の進捗
-sp_ui_library_progress_frac_v10	[VAR]/
+sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
 sp_ui_national_library	全国図鑑
 sp_ui_software_library_v10	ソフト図鑑
 sp_ui_other_library_v10	その他
@@ -8343,7 +8343,7 @@ sp_ui_details	詳細
 sp_ui_input_name_please	名前を　入力してください
 sp_ui_input_name_attention	選択した言語で　入力してください
 sp_ui_input_nickname_confirm_01	ポケモンの　ニックネーム
-sp_ui_input_nickname_confirm_02	[VAR_PKNAME]に ニックネームを　つけますか？
+sp_ui_input_nickname_confirm_02	[VAR 0101(0000)]に ニックネームを　つけますか？
 sp_ui_input_nickname	ニックネーム入力
 sp_ui_input_nickname_00	タップしてニックネームを入力
 sp_ui_input_nickname_please	ニックネームを　入力してください （最大６文字）
@@ -8378,7 +8378,7 @@ sp_ui_title_nalink_complete_v2	ニンテンドーアカウントに　ログイ�
 sp_ui_title_nalink_error_v2	連携している　ニンテンドーアカウントと ログインされた　ニンテンドーアカウントが 違います
 sp_ui_title_license	権利表記
 sp_ui_ngname_confirm_title	ユーザー名の変更
-sp_ui_ngname_confirm_body	使用していたユーザー名に つかえない言葉が含まれているため、 ユーザー名を変更してください  変更前のユーザー名 [VAR_PLAYER]
+sp_ui_ngname_confirm_body	使用していたユーザー名に つかえない言葉が含まれているため、 ユーザー名を変更してください  変更前のユーザー名 [VAR 0100(0000)]
 sp_ui_downlod_0001	起動中です
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	言語
 sp_ui_my_parent_v6	マイおや／IDNo.
 sp_ui_my_parent_set_v6	マイおや／IDNo.
 sp_ui_my_parent_no_set_v6	マイおや／IDNo.以外
-sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
+sp_ui_filter_parent	[VAR 0100(0001)]:[VAR 0205(0000,0000)]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
 sp_ui_filter_seikaku_3_m	ゆうかん＋ミント
@@ -8523,8 +8523,8 @@ sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	解除
 sp_ui_goodby	にがす
 sp_ui_goodby_confirm	本当に　にがしますか？  ※お気に入りのポケモンを にがすことは　できません
-sp_ui_goodby_singular	[VAR_PKNAME]を　にがしてあげた ばいばい　[VAR_PKNAME]！
-sp_ui_goodby_plural	[VAR_PKNAME]たちを　にがしてあげた ばいばい　みんな！
+sp_ui_goodby_singular	[VAR 0102(0000)]を　にがしてあげた ばいばい　[VAR 0102(0000)]！
+sp_ui_goodby_plural	[VAR 0102(0000)]たちを　にがしてあげた ばいばい　みんな！
 sp_ui_set_label_max	ラベルがいっぱいの　ポケモンがいます 
 sp_ui_lump_favorite	まとめて　お気に入りにする
 sp_ui_lump_favorite_release	まとめて　お気に入り解除する
@@ -8537,8 +8537,8 @@ sp_ui_bank_change_plan_confirm	全てのポケモンを　表示するには プ
 sp_ui_bank_favall	※お気に入りのポケモンを にがすことは　できません！
 sp_ui_lastet_update	さいしん30
 sp_ui_select_max_v3	ポケモンの　選択は １度に　１００匹までです
-sp_ui_no_num	No.[VAR]
-sp_ui_lv_num	Lv.[VAR]
+sp_ui_no_num	No.[VAR 0200(0000)]
+sp_ui_lv_num	Lv.[VAR 0200(0000)]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	トレーナーメモ
 sp_ui_available_title	つれていけるタイトル
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	まずまずの　能力
 sp_ui_total_evaluate_02	平均　以上の　能力
 sp_ui_total_evaluate_03	相当　優秀な　能力
 sp_ui_total_evaluate_04	素晴らしい　能力
-sp_ui_lumpribbon_num	[VAR]個
+sp_ui_lumpribbon_num	[VAR 0200(0000)]個
 sp_ui_parent_and_id_v4	おや　と　IDNo.
-sp_ui_trainermemo_01_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 出会った。
-sp_ui_trainermemo_02_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 出会った　ようだ。
-sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 運命的な　出会いをした。
-sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 [VAR_LOCATION]で 運命的な　出会いをした　ようだ。
-sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 懐かしの　[VAR_LOCATION]で 出会った　ようだ。
-sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日 懐かしの　[VAR_LOCATION]で 運命的な　出会いをした　ようだ。
+sp_ui_trainermemo_01_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日 [VAR 0105(0000)]で 出会った。
+sp_ui_trainermemo_02_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日 [VAR 0105(0000)]で 出会った　ようだ。
+sp_ui_trainermemo_03_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日 [VAR 0105(0000)]で 運命的な　出会いをした。
+sp_ui_trainermemo_04_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日 [VAR 0105(0000)]で 運命的な　出会いをした　ようだ。
+sp_ui_trainermemo_05_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日 懐かしの　[VAR 0105(0000)]で 出会った　ようだ。
+sp_ui_trainermemo_06_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日 懐かしの　[VAR 0105(0000)]で 運命的な　出会いをした　ようだ。
 sp_ui_encountedplace_v10	出会った　場所
 sp_ui_encountedplace_pokeshifter_v10	ポケシフター
 sp_ui_encountedplace_nostalgickanto_v10	懐かしの　カントー地方
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	ラベル編集
 sp_ui_label_seting_please	ラベルの　名前と　色を　設定してください
 sp_ui_label_name	ラベル名
 sp_ui_label_input_please	最大８文字
-sp_ui_label_input_limit_v1	最大[VAR]文字
+sp_ui_label_input_limit_v1	最大[VAR 0200(0000)]文字
 sp_ui_label_over_size	文字数オーバーです
 sp_ui_label_cant_use_word	使用できない　文字です
 sp_ui_icon	アイコン
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	かべがみの　設定
 sp_ui_seal_00009	このかべがみを　設定しますか？
 sp_ui_seal_00010	シールを　剥がす
 sp_ui_seal_00011	シールを　リストに　戻しますか？
-sp_ui_seal_00012	[VAR] は、これ以上貼れません
+sp_ui_seal_00012	[VAR 0109(0000)] は、これ以上貼れません
 sp_ui_seal_00013	変更が　あります 内容を　保存しますか？
 sp_ui_seal_00014	シールを　すべて　剥がします。 よろしいですか？
 sp_ui_seal_filter_01_01	貼れるシール
@@ -8609,7 +8609,7 @@ sp_ui_gift_00001	エリアチェック
 sp_ui_gift_00002	シリアルコード
 sp_ui_gift_00005	２次元コード
 sp_ui_gift_00004	種類
-sp_ui_gift_00006	有効期限 ： [VAR]
+sp_ui_gift_00006	有効期限 ： [VAR 0200(0000)]
 sp_ui_gift_00007	受け取り済み
 sp_ui_gift_00008	受け取れるソフト
 sp_ui_gift_00009	受け取りに　失敗しました
@@ -8619,8 +8619,8 @@ sp_ui_gift_00012	タップしてシリアルコードを入力
 sp_ui_gift_seal	シール
 sp_ui_gift_point	ポイント
 sp_ui_gift_0013_v1	なし
-sp_ui_gift_0014_v5	受け取り済み ： [VAR]
-sp_ui_gift_0015_v5	[VAR] ポイント
+sp_ui_gift_0014_v5	受け取り済み ： [VAR 0200(0000)]
+sp_ui_gift_0015_v5	[VAR 0200(0000)] ポイント
 sp_ui_gift_nfc_0001	NFC読み取り
 sp_ui_gift_nfc_0002	NFCタグに かざしてください
 sp_ui_gift_nfc_0003	読み取りに　成功しました！ プレゼントボックスを　確認してください
@@ -8633,11 +8633,11 @@ sp_ui_gift_01001	このエリアで　受け取れるもの
 sp_ui_gift_01002	プレゼントボックスで　受け取ってね！
 sp_ui_gift_01003	プレゼントボックス
 sp_ui_gift_01004	どうぐ
-sp_ui_gift_01005	あと[VAR]時間
-sp_ui_gift_01006	あと[VAR]分
+sp_ui_gift_01005	あと[VAR 0200(0000)]時間
+sp_ui_gift_01006	あと[VAR 0200(0000)]分
 sp_ui_gift_01007	期限切れ
 sp_ui_gift_02001	有効期限
-sp_ui_gift_02002	あと[VAR]日
+sp_ui_gift_02002	あと[VAR 0200(0000)]日
 sp_ui_gift_02003	ふしぎなおくりもの
 sp_ui_gift_02004	で受け取れます
 sp_ui_gift_02005	で受け取り済みです
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　入力してください
 sp_ui_gift_select_title	選んだポケモンの確認
-sp_ui_gift_select_confirm	本当に　[VAR_PKNAME]　で いいですか？  ※この後　選んだポケモンを 変更することは　できません
+sp_ui_gift_select_confirm	本当に　[VAR 0101(0000)]　で いいですか？  ※この後　選んだポケモンを 変更することは　できません
 sp_ui_gift_select_reselect	選びなおす
 sp_ui_achieve_dialog_all_clear	達成済み
 sp_ui_achieve_dialog_header_title	達成報酬
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	表示できる実績はありません
 sp_ui_achieve_join_ok	実績を達成しました
 sp_ui_achieve_join_ng	達成できる実績はありません
 sp_ui_achieve_hide_seal	実績を　達成して シールを　ゲットしましょう！
-sp_ui_report_01	[VAR_YEAR]ひき
-sp_ui_report_02	[VAR_YEAR]ポイント
+sp_ui_report_01	[VAR 0203(0000)]ひき
+sp_ui_report_02	[VAR 0203(0000)]ポイント
 sp_ui_report_03	預けた　ポケモンのかず
 sp_ui_report_04	引き出した　ポケモンのかず
 sp_ui_report_05	獲得ポイントの　累計
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	マイルームへ
 sp_ui_voice_input	音声を　認識中…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もう一度　お試しください
 sp_ui_recognizer_limit_error	音声認識の　１日の使用回数が 限界に　達しました
-sp_ui_myroom_point_number	[VAR_YEAR]p
+sp_ui_myroom_point_number	[VAR 0203(0000)]p
 sp_ui_app_desc_0001_v3	『Pokémon HOME』とは
 sp_ui_app_desc_0002_v3	「すべてのポケモンが集まる場所」をコンセプトに、 Nintendo Switchとスマートフォンを 対象としたクラウドサービスです。
 sp_ui_app_desc_0003_v3	連携するソフトやサービスを通じて、 『ポケットモンスター』シリーズで 仲間にしたポケモンたちを預けることができたり、 一部のソフトには、『Pokémon HOME』からポケモンを 送ったりすることができます。 また、世界中の人と ポケモンを交換することもできます。 
@@ -8767,10 +8767,10 @@ sp_ui_get_calendar_v5	ゲットカレンダー
 sp_ui_calendar_v5	カレンダー
 sp_ui_memory_v5	記念日
 sp_ui_calendar_year_v5	年
-sp_ui_calendar_numerical_year_v5	[VAR_YEAR]年
-sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]年[VAR_MONTH]月
-sp_ui_calendar_numerical_month_day_v5	[VAR]月[VAR_MONTH]日
-sp_ui_calendar_numerical_date_v5	[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]年
+sp_ui_calendar_numerical_year_month_v5	[VAR 0203(0000)]年[VAR 0201(0001)]月
+sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]月[VAR 0201(0001)]日
+sp_ui_calendar_numerical_date_v5	[VAR 0203(0000)]年[VAR 0201(0001)]月[VAR 0201(0002)]日
 sp_ui_calendar_illegal_date_v5	不明な日にち
 sp_ui_calendar_date_v5	日付
 sp_ui_calendar_unspecified_v5	今日と同じ日付の記念日
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	ちょっぴり　みえっぱり。
 trmemo_03_06_02	負けん気が　強い。
 trmemo_03_06_03	負けず嫌い。
 trmemo_03_06_04	ちょっぴり　強情。
-trmemo_bank_01_01	[VAR_LOCATION]で 出会った。
-trmemo_bank_01_02	[VAR_LOCATION]で 出会った　ようだ。
-trmemo_bank_02_01	[VAR_LOCATION]で 運命的な 出会いをした。
-trmemo_bank_02_02	[VAR_LOCATION]で 運命的な 出会いをした　ようだ。
-trmemo_bank_03_01	懐かしの　[VAR_LOCATION]で 出会った。
-trmemo_bank_03_02	懐かしの　[VAR_LOCATION]で 出会った　ようだ。
-trmemo_bank_04_01	懐かしの　[VAR_LOCATION]で 運命的な 出会いをした。
-trmemo_bank_04_02	懐かしの　[VAR_LOCATION]で 運命的な 出会いをした　ようだ。
+trmemo_bank_01_01	[VAR 0105(0000)]で 出会った。
+trmemo_bank_01_02	[VAR 0105(0000)]で 出会った　ようだ。
+trmemo_bank_02_01	[VAR 0105(0000)]で 運命的な 出会いをした。
+trmemo_bank_02_02	[VAR 0105(0000)]で 運命的な 出会いをした　ようだ。
+trmemo_bank_03_01	懐かしの　[VAR 0105(0000)]で 出会った。
+trmemo_bank_03_02	懐かしの　[VAR 0105(0000)]で 出会った　ようだ。
+trmemo_bank_04_01	懐かしの　[VAR 0105(0000)]で 運命的な 出会いをした。
+trmemo_bank_04_02	懐かしの　[VAR 0105(0000)]で 運命的な 出会いをした　ようだ。
 
 ~~~~~~~~~~~~~~~
 Text File : typename_jpn_kanji.msbt
@@ -17566,7 +17566,7 @@ MAPNAME_3DSLINK	ポケモンリンク
 Text File : zkn_form_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 ZKN_FORM_000_000	
-ZKN_FORM_double_form	[VAR_PKFORM]・[VAR_PKFORM]
+ZKN_FORM_double_form	[VAR 01D4(0000)]・[VAR 01D4(0001)]
 ZKN_FORM_001_000	
 ZKN_FORM_002_000	
 ZKN_FORM_003_000	

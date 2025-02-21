@@ -268,7 +268,7 @@ Text File : B2W2_place_name_kor.msbt
 MAPNAME_NOTHING	－－－－－－－－－－
 MAPNAME_NAZONOBASYO	수수께끼의 장소
 MAPNAME_TOOIBASYO	먼 곳
-MAPNAME_INTRUDE	[VAR_PLAYER]의 [VAR]
+MAPNAME_INTRUDE	[VAR 0100(0000)]의 [VAR 0105(0001)]
 MAPNAME_T1KANOKO	마름꽃마을
 MAPNAME_T2KARAKUSA	넝쿨마을
 MAPNAME_C1SANYOU	성신시티
@@ -7237,17 +7237,17 @@ Text File : sp_api_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_api_error_title	통신 에러
 sp_api_simple_error	에러
-sp_api_error_dialog_text	통신 에러가 발생했습니다 [VAR]
-sp_api_retry_dialog_text	통신 에러가 발생했습니다 [VAR] 다시 시도하겠습니까?
+sp_api_error_dialog_text	통신 에러가 발생했습니다 [VAR 0200(0000)]
+sp_api_retry_dialog_text	통신 에러가 발생했습니다 [VAR 0200(0000)] 다시 시도하겠습니까?
 sp_api_error_goto_title_dialog_text	통신 에러가 발생했습니다 타이틀 화면으로 돌아갑니다
 sp_api_dataupdate	데이터가 갱신되었습니다 타이틀 화면으로 돌아갑니다
 sp_api_dlsize_title	다운로드 확인
-sp_api_dlsize_mb_text	[VAR]MB의 데이터를 다운로드합니다 괜찮겠습니까?
-sp_api_dlsize_kb_text	[VAR]KB의 데이터를 다운로드합니다 괜찮겠습니까?
-sp_api_dlsize_b_text	[VAR]Byte의 데이터를 다운로드합니다 괜찮겠습니까?
+sp_api_dlsize_mb_text	[VAR 0200(0000)]MB의 데이터를 다운로드합니다 괜찮겠습니까?
+sp_api_dlsize_kb_text	[VAR 0200(0000)]KB의 데이터를 다운로드합니다 괜찮겠습니까?
+sp_api_dlsize_b_text	[VAR 0200(0000)]Byte의 데이터를 다운로드합니다 괜찮겠습니까?
 sp_api_lack_storage	단말기의 여유 용량이 부족합니다 불필요한 데이터를 삭제해 주십시오
 sp_api_break_file	파일이 손상되었습니다 타이틀 화면의 메뉴에서 캐시를 삭제해 주십시오
-sp_api_maintenance_010	현재 점검 중입니다 종료 예정 시각은 다음과 같습니다 [VAR_YEAR]/[VAR_MONTH]/[VAR_DAY] [VAR]:[VAR]
+sp_api_maintenance_010	현재 점검 중입니다 종료 예정 시각은 다음과 같습니다 [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)] [VAR 0201(0003)]:[VAR 0201(0004)]
 sp_api_maintenance_020	현재 점검 중입니다 점검이 종료될 때까지 기다려 주십시오
 sp_api_maintenance_030	현재 긴급 점검 중입니다 이용에 불편을 드리게 되어 죄송합니다 점검이 종료될 때까지 기다려 주십시오
 sp_api_400_8809	닌텐도 어카운트에 로그인하지 못했습니다  닌텐도 어카운트의 Q&A를 확인해 주십시오
@@ -7443,7 +7443,7 @@ sp_friend_01007	친구 코드를 입력한다
 sp_friend_01008	친구로 추가할 유저의 패턴 코드를 스캔해 주십시오
 sp_friend_01009	패턴 코드를 스캔한다
 sp_friend_01010	탭해서 친구 코드를 입력
-sp_friend_01011	[VAR_PLAYER]에게 친구 신청을 보냈습니다 승인될 때까지 기다려 주십시오
+sp_friend_01011	[VAR 0100(0000)]에게 친구 신청을 보냈습니다 승인될 때까지 기다려 주십시오
 sp_friend_01012	친구 신청
 sp_friend_01013	당신의 패턴 코드
 sp_friend_02001	친구 승인
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_kor.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	포켓몬 뱅크 Ver.[VAR] 이상
-sp_migration_00003	Pokémon HOME 앞으로 [VAR]마리
+sp_migration_00002	포켓몬 뱅크 Ver.[VAR 0200(0000)] 이상
+sp_migration_00003	Pokémon HOME 앞으로 [VAR 0200(0000)]마리
 sp_migration_00004	닌텐도 3DS의 "포켓몬 뱅크"에서 포켓몬을 데려올 수 있습니다
 sp_migration_00005	한 번 데려온 포켓몬은 닌텐도 3DS로 돌려보낼 수 없습니다!
 sp_migration_00006	이사를 시작한다!
@@ -7522,7 +7522,7 @@ sp_migration_04002	준비 OK!
 sp_migration_05001	이사 패스워드는 <B>3분</B> 동안만 사용할 수 있습니다 시간 안에 "포켓몬 뱅크"에 입력해 주십시오
 sp_migration_05002	이사 패스워드를 표시하면 <B>3분간</B> 이전 화면으로 돌아갈 수 없게 됩니다!
 sp_migration_05003	이사 패스워드를 표시한다!
-sp_migration_06001	<B>[VAR_YEAR]마리</B>의 포켓몬을 받을 공간이 부족합니다!
+sp_migration_06001	<B>[VAR 0203(0000)]마리</B>의 포켓몬을 받을 공간이 부족합니다!
 sp_migration_06002	포켓몬을 정리하여 충분한 공간을 마련해 주십시오
 sp_migration_06003	이사를 중지합니다
 sp_migration_07001	현재 사용 중인 닌텐도 어카운트는 닌텐도 네트워크 ID와 연동 중이지 않습니다
@@ -7540,7 +7540,7 @@ sp_migration_11001	이사가 끝났습니다!
 sp_migration_11002	Pokémon HOME에 오신 것을 환영합니다!!
 sp_migration_12001	선물
 sp_migration_12002	첫 이사
-sp_migration_12003	[VAR_YEAR]포인트
+sp_migration_12003	[VAR 0203(0000)]포인트
 sp_migration_13001	닌텐도 네트워크 ID로 이사를 진행하려면 닌텐도 어카운트와 연동해야 합니다  닌텐도 어카운트와의 연동은 설정에서 진행할 수 있습니다
 sp_migration_13002	이사하지 못했습니다
 
@@ -7584,7 +7584,7 @@ sp_monbo_gift_0001_001	"Pokémon HOME"의 업데이트 기념 선물이 있다�
 sp_monbo_gift_0001_002	"이상한 소포"에서 받을 수 있다몬!
 sp_monbo_gift_0001_003	소프트웨어 연동 기념 선물이 있다몬!
 sp_monbo_gift_0002_001	어느 포켓몬으로 할지 골라 줘몬!
-sp_monbo_gift_0002_002	[VAR_PKCATEGORY] [VAR_PKNAME] 촅로 괜찮아몬?
+sp_monbo_gift_0002_002	[VAR 0104(0000)] [VAR 0101(0001)] 촅로 괜찮아몬?
 sp_monbo_get_calendar_0001_001	여기는 GET 캘린더! "Pokémon HOME"에 맡긴 포켓몬이 잡은 날짜순으로 표시된다몬!
 sp_monbo_get_calendar_0001_002	기념일에는 원하는 날짜를 등록하거나 편집할 수 있다몬! 등록한 기념일에 잡은 포켓몬을 추려낼 수도 있다몬!
 sp_monbo_get_calendar_0001_003	나만의 추억이 있는 날을 기념일로 등록해봐라몬!
@@ -7667,7 +7667,7 @@ sp_oak_00002	내 모습은 잘 나오고 있나? ...음 문제없는 모양이�
 sp_oak_00003	나는야 위~대한 포켓몬 연구가 오대호! 만나서 반갑구나!
 sp_oak_00004	너는 지금 내가 개발한 "Pokémon HOME"에 접속한 거란다! 너에게는 위~대한 기념일이 되겠군!
 sp_oak_00005	어이쿠! 이거 미안하게 됐구나 우선 너의 이름을 가르쳐주지 않겠니?
-sp_oak_00006	흠... 너는 [VAR_PLAYER] 촆라고 하는구나!
+sp_oak_00006	흠... 너는 [VAR 0100(0000)] 촆라고 하는구나!
 sp_oak_00007	나의 꿈은 이 세상에 사는 모든 포켓몬들이 등록된 위~대한 포켓몬 도감을 완성하는 거란다!
 sp_oak_00008	하지만 그것은 혼자만의 힘으로 실현하기에는 어려운 꿈이지... 그래서! 너의 힘을 빌려주었으면 한단다!
 sp_oak_00009	이 "Pokémon HOME"에 포켓몬을 모아서 포켓몬 도감을 채워주거라!
@@ -7679,7 +7679,7 @@ sp_oak_00014	그리고 포켓몬 배틀을 즐기는 전 세계 트레이너의 
 sp_oak_00015	흠~ 내가 개발한 위~대한 기능들을 보고 깜짝 놀란 모양이군!
 sp_oak_00016	...뭐야? 포켓몬을 가지고 있지 않다고? 좋다! 특별히 내가 1마리를 선물해주마!
 sp_oak_00017	어느 포켓몬으로 할지 골라보거라!
-sp_oak_00018	[VAR_PKCATEGORY] [VAR_PKNAME] 촅로 괜찮겠니?
+sp_oak_00018	[VAR 0104(0000)] [VAR 0101(0001)] 촅로 괜찮겠니?
 sp_oak_00019	오케이! "Pokémon HOME"의 기능에 대한 자세한 설명은 몬보에게 물어보도록 하려무나!
 sp_oak_00020	몬보는 너의 포켓몬과 함께 마이 룸에서 기다리고 있단다!
 sp_oak_00021	오케이! 그럼 앞으로 잘 부탁한다!
@@ -7724,7 +7724,7 @@ sp_option_language_select_please	언어를 선택해 주십시오
 sp_option_language_select_00002	※어린이의 경우 보호자와 함께 확인하고 선택해 주십시오
 sp_option_language_select_00003	선택한 언어 확인
 sp_option_country_select_00001	지역 선택
-sp_option_country_select_00002	이 지역으로 괜찮겠습니까? <b>[VAR_REGION]</b>  ※나중에 변경할 수 있습니다
+sp_option_country_select_00002	이 지역으로 괜찮겠습니까? <b>[VAR 0105(0000)]</b>  ※나중에 변경할 수 있습니다
 sp_option_country_select_00003	거주 중인 지역을 선택해 주십시오
 sp_option_country_select_00004	선택한 지역 확인
 sp_option_country_reselect_title	지역 설정 갱신
@@ -7961,13 +7961,13 @@ sp_plan_terms	이용 약관
 sp_plan_fund_settlement_method	일본 자금결제법에 의거하는 표기
 sp_plan_specifiedcommercial_transaction_law	일본 특정상거래법에 의거하는 표기
 sp_plan_change	플랜 확인
-sp_plan_buy_text	[VAR] 촂 구입합니다
+sp_plan_buy_text	[VAR 0200(0000)] 촂 구입합니다
 sp_plan_change_disable_text	다른 스토어에서 구입했습니다 프리미엄 플랜의 유효 기간은 구입한 스토어에서 확인해 주십시오
 sp_plan_restored_title	플랜 복원
 sp_plan_restored_text	플랜을 복원했습니다
 sp_plan_buy_failed_title	구입 에러
-sp_plan_buy_failed_text	구입 처리에 실패했습니다 [VAR]
-sp_plan_buy_failed_goto_title_text	구입 처리에 실패했습니다 타이틀 화면으로 돌아갑니다 [VAR]
+sp_plan_buy_failed_text	구입 처리에 실패했습니다 [VAR 0200(0000)]
+sp_plan_buy_failed_goto_title_text	구입 처리에 실패했습니다 타이틀 화면으로 돌아갑니다 [VAR 0200(0000)]
 sp_plan_not_Initalized_text	과금 시스템이 초기화되지 않았습니다 타이틀 화면으로 돌아갑니다
 sp_plan_not_Initalizing_text	과금 시스템을 초기화 중입니다
 sp_plan_help_button	프리미엄 플랜 도움말
@@ -7992,19 +7992,19 @@ sp_playerlog_00002	GTS에서 교환했습니다
 sp_playerlog_00003	그룹 교환을 했습니다
 sp_playerlog_00004	미라클 박스로 교환했습니다
 sp_playerlog_00005	이상한 소포에서 받았습니다
-sp_playerlog_00006	[VAR_YEAR]포인트를 사용했습니다
-sp_playerlog_00007	[VAR_YEAR]포인트를 손에 넣었습니다
-sp_playerlog_00008	[VAR_YEAR]포인트를 BP로 교환했습니다
+sp_playerlog_00006	[VAR 0203(0000)]포인트를 사용했습니다
+sp_playerlog_00007	[VAR 0203(0000)]포인트를 손에 넣었습니다
+sp_playerlog_00008	[VAR 0203(0000)]포인트를 BP로 교환했습니다
 sp_playerlog_00009	<b>친구 교환</b>을 했습니다
 sp_playerlog_00010	<b>GTS</b>에서 교환했습니다
 sp_playerlog_00011	<b>그룹 교환</b>을 했습니다
 sp_playerlog_00012	<b>미라클 박스</b>로 교환했습니다
-sp_playerlog_00013	[VAR]에서 [VAR_PLAYER] 촃 맡겼습니다
-sp_playerlog_00014	[VAR]에서 [VAR_PLAYER] 촃 찾았습니다
+sp_playerlog_00013	[VAR 0200(0000)]에서 [VAR 0100(0001)] 촃 맡겼습니다
+sp_playerlog_00014	[VAR 0200(0000)]에서 [VAR 0100(0001)] 촃 찾았습니다
 sp_playerlog_00015	놓아주었습니다
 sp_playerlog_00016	이상한 소포에서 받았습니다
-sp_playerlog_00017	[VAR_YEAR]마리의 포켓몬을 전송했습니다
-sp_playerlog_00018	[VAR_PLAYER]의 [VAR_PLAYER]
+sp_playerlog_00017	[VAR 0203(0000)]마리의 포켓몬을 전송했습니다
+sp_playerlog_00018	[VAR 0102(0001)]의 [VAR 0100(0000)]
 sp_playerlog_00019	보낸 포켓몬
 sp_playerlog_00020	받은 포켓몬
 sp_playerlog_00021	받은 사람
@@ -8086,39 +8086,39 @@ sp_trade_00010_vgo	많은 사람이 원하는 포켓몬 (특별한 포켓몬을 
 sp_trade_00011_vgo	많은 사람이 원하는 포켓몬
 sp_trade_00012_vgo	많이 교환되는 포켓몬
 sp_trade_00013_vgo	드물게 교환이 성사된 포켓몬
-sp_trade_01001	[VAR_PKNAME] 촂 어떻게 하겠습니까?
+sp_trade_01001	[VAR 0102(0000)] 촂 어떻게 하겠습니까?
 sp_trade_01002	능력치를 본다
 sp_trade_01003	GTS에 맡긴 포켓몬입니다 선택할 수 없습니다
 sp_trade_01004	미라클 박스에 맡긴 포켓몬입니다 선택할 수 없습니다
 sp_trade_01005	조작할 수 없습니다
 sp_trade_01006	즐겨찾기한 포켓몬입니다 선택할 수 없습니다
-sp_trade_02001	[VAR_PKNAME] 촂 [VAR_PLAYER]에게 보냅니다! 바이바이 [VAR_PKNAME]!
-sp_trade_02002	[VAR_PLAYER] 촅로부터 [VAR_PKNAME] 촃 전송됐다!
-sp_trade_02003	[VAR_PKNAME] 촂 귀여워해 줘!
-sp_trade_02004	[VAR_PKNAME] 촂 GTS에 맡깁니다! 바이바이 [VAR_PKNAME]!
-sp_trade_02005	[VAR_PKNAME] 촃 GTS에서 왔다!
-sp_trade_02006	[VAR_PKNAME] 촂 데리고 왔다!
-sp_trade_02007	잘 왔어 [VAR_PKNAME]!
-sp_trade_02008	[VAR_PKNAME] 촂 미라클 박스에 맡깁니다! 바이바이 [VAR_PKNAME]!
-sp_trade_02009	[VAR_PKNAME] 촃 미라클 박스에서 왔다!
+sp_trade_02001	[VAR 0102(0000)] 촂 [VAR 0100(0001)]에게 보냅니다! 바이바이 [VAR 0102(0000)]!
+sp_trade_02002	[VAR 0100(0001)] 촅로부터 [VAR 0102(0000)] 촃 전송됐다!
+sp_trade_02003	[VAR 0102(0000)] 촂 귀여워해 줘!
+sp_trade_02004	[VAR 0102(0000)] 촂 GTS에 맡깁니다! 바이바이 [VAR 0102(0000)]!
+sp_trade_02005	[VAR 0102(0000)] 촃 GTS에서 왔다!
+sp_trade_02006	[VAR 0102(0000)] 촂 데리고 왔다!
+sp_trade_02007	잘 왔어 [VAR 0102(0000)]!
+sp_trade_02008	[VAR 0102(0000)] 촂 미라클 박스에 맡깁니다! 바이바이 [VAR 0102(0000)]!
+sp_trade_02009	[VAR 0102(0000)] 촃 미라클 박스에서 왔다!
 sp_trade_03001	에러가 발생했습니다 교환 메인 메뉴로 돌아갑니다
 sp_trade_03002	통신이 끊겼습니다 교환 메인 메뉴로 돌아갑니다
 sp_trade_03003	총 교환수
 sp_trade_03004	트레이드 랭킹
 sp_trade_03005	특별한 포켓몬이므로 교환에 내보낼 수 없습니다
 sp_trade_03006	에러가 발생했습니다 잠시 시간을 두고 다시 시도해 주십시오
-sp_trade_miracle_00001	[VAR_PKNAME] 촂 어떻게 하겠습니까?
+sp_trade_miracle_00001	[VAR 0102(0000)] 촂 어떻게 하겠습니까?
 sp_trade_miracle_00002	맡긴다
 sp_trade_miracle_00003	상태를 본다
 sp_trade_miracle_00004	찾는다
 sp_trade_miracle_00005	GTS에 맡긴 포켓몬입니다 선택할 수 없습니다
 sp_trade_miracle_00006	미라클 박스에 맡긴 포켓몬입니다 선택할 수 없습니다
-sp_trade_miracle_00007	[VAR_PKNAME] 촂 미라클 박스에서 찾겠습니까?
-sp_trade_miracle_00008	[VAR_PKNAME] 촁 이미 교환되었습니다
+sp_trade_miracle_00007	[VAR 0102(0000)] 촂 미라클 박스에서 찾겠습니까?
+sp_trade_miracle_00008	[VAR 0102(0000)] 촁 이미 교환되었습니다
 sp_trade_miracle_00010	교환되었습니다!
 sp_trade_miracle_00011	등록하지 못했습니다  잠시 시간을 두고 다시 한번 시도해 주십시오
 sp_trade_miracle_00013_v3	선택한 포켓몬을 어떻게 하겠습니까?
-sp_trade_miracle_00013_1_v3	([VAR]마리를 선택 중입니다)
+sp_trade_miracle_00013_1_v3	([VAR 0200(0000)]마리를 선택 중입니다)
 sp_trade_miracle_00014_v3	포켓몬을 맡긴다
 sp_trade_miracle_00015_v3	포켓몬의 능력치를 본다
 sp_trade_miracle_00016_v3	빈 공간보다 많은 포켓몬을 선택할 수 없습니다
@@ -8139,13 +8139,13 @@ sp_trade_group_00010	패턴 코드로 참가한다
 sp_trade_group_00011	랜덤으로 참가한다
 sp_trade_group_00012	그룹을 작성합니다
 sp_trade_group_00013	그룹에서 나왔습니다
-sp_trade_group_00014	[VAR_PLAYER]의 그룹
+sp_trade_group_00014	[VAR 0100(0000)]의 그룹
 sp_trade_group_00015	그룹 ID
 sp_trade_group_00016	코드 공유
 sp_trade_group_00017	그룹의 패턴 코드
 sp_trade_group_00018	그룹에서 나온다
 sp_trade_group_00019	포켓몬을 선택한다
-sp_trade_group_00020	[VAR_PLAYER] 촂 어떻게 하겠습니까?
+sp_trade_group_00020	[VAR 0100(0000)] 촂 어떻게 하겠습니까?
 sp_trade_group_00021	교환할 포켓몬은
 sp_trade_group_00023	교환을 계속하겠습니까?
 sp_trade_group_00024	계속한다
@@ -8166,7 +8166,7 @@ sp_trade_group_00038	내보내기
 sp_trade_group_00039	다른 유저를 기다리고 있습니다
 sp_trade_group_change_plan_confirm	그룹을 작성하려면 프리미엄 플랜에 가입해야 합니다  플랜을 변경하겠습니까?
 sp_trade_firend_00001	GPS를 초기화하는 중입니다
-sp_trade_firend_00002	[VAR_PLAYER]님을 기다리고 있습니다
+sp_trade_firend_00002	[VAR 0100(0000)]님을 기다리고 있습니다
 sp_trade_firend_00003	접속 대기 중
 sp_trade_firend_00004	교환한다
 sp_trade_firend_00005	준비 완료
@@ -8187,7 +8187,7 @@ sp_trade_gts_00009	전설 또는 환상의 포켓몬을 찾고 있는 사람을 
 sp_trade_gts_00010	이 조건으로 찾는다
 sp_trade_gts_00011	검색 결과
 sp_trade_gts_00012	지정한 포켓몬은 존재하지 않습니다
-sp_trade_gts_00013	[VAR_PLAYER]님의 정보
+sp_trade_gts_00013	[VAR 0100(0000)]님의 정보
 sp_trade_gts_00014	교환에 내보낸다
 sp_trade_gts_00015	상대가 원하는 포켓몬을 가지고 있지 않습니다
 sp_trade_gts_00016	이미 교환된 포켓몬입니다
@@ -8197,10 +8197,10 @@ sp_trade_gts_00019_v1	특별한 포켓몬을 원하는 포켓몬으로 지정했
 sp_trade_gts_00020_v3	자신이 가지고 있지 않은 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_00021_v3	전설 또는 환상 등의 특별한 포켓몬을 찾고 있는 사람을 포함한다
 sp_trade_gts_00022_v4	특별한 포켓몬을 원하는 포켓몬으로 지정했습니다 특별한 포켓몬은 교환할 수 없습니다 다시 선택해 주십시오
-sp_trade_gts_00023_v6	맡긴 날짜: [VAR_YEAR]년 [VAR_MONTH]월 [VAR_DAY]일
+sp_trade_gts_00023_v6	맡긴 날짜: [VAR 0203(0000)]년 [VAR 0201(0001)]월 [VAR 0201(0002)]일
 sp_trade_gts_00024_v6	원하는 포켓몬으로 찾는다
-sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
-sp_trade_gts_00028_v6	[VAR_PKNAME]([VAR_PKFORM])
+sp_trade_gts_00027_v6	[VAR 0101(0000)] ([VAR 01D4(0001)])
+sp_trade_gts_00028_v6	[VAR 0101(0000)]([VAR 01D4(0001)])
 sp_trade_gts_00029_v6	지정한 포켓몬을 원하는 유저가 없습니다
 sp_trade_gts_search_title_v12	데려갈 수 있는 소프트웨어
 sp_trade_gts_01001	교환해 주세요! 잘 부탁합니다
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	친구 교환
 sp_ui_record	기록
 sp_ui_player_log	수첩
 sp_ui_library_progress_v10	도감 진척도
-sp_ui_library_progress_frac_v10	[VAR]/
+sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
 sp_ui_national_library	전국도감
 sp_ui_software_library_v10	게임도감
 sp_ui_other_library_v10	기타
@@ -8343,7 +8343,7 @@ sp_ui_details	상세
 sp_ui_input_name_please	이름을 입력해 주십시오
 sp_ui_input_name_attention	선택한 언어로 입력해 주십시오
 sp_ui_input_nickname_confirm_01	포켓몬의 닉네임
-sp_ui_input_nickname_confirm_02	[VAR_PKNAME]에게 닉네임을 붙이겠습니까?
+sp_ui_input_nickname_confirm_02	[VAR 0101(0000)]에게 닉네임을 붙이겠습니까?
 sp_ui_input_nickname	닉네임 입력
 sp_ui_input_nickname_00	탭해서 닉네임을 입력
 sp_ui_input_nickname_please	닉네임을 입력해 주십시오 (최대 6자)
@@ -8378,7 +8378,7 @@ sp_ui_title_nalink_complete_v2	닌텐도 어카운트로 로그인했습니다
 sp_ui_title_nalink_error_v2	연동 중인 닌텐도 어카운트와 로그인한 닌텐도 어카운트가 일치하지 않습니다
 sp_ui_title_license	라이선스
 sp_ui_ngname_confirm_title	유저 이름 변경
-sp_ui_ngname_confirm_body	사용 중인 유저 이름에 사용할 수 없는 단어가 포함되어 있습니다 유저 이름을 변경해 주십시오  변경 전 유저 이름 [VAR_PLAYER]
+sp_ui_ngname_confirm_body	사용 중인 유저 이름에 사용할 수 없는 단어가 포함되어 있습니다 유저 이름을 변경해 주십시오  변경 전 유저 이름 [VAR 0100(0000)]
 sp_ui_downlod_0001	기동 중입니다
 sp_ui_downlod_0002	마스터 데이터 다운로드 중
 sp_ui_downlod_0003	마스터 데이터 다운로드 완료
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	언어
 sp_ui_my_parent_v6	My 어버이/IDNo.
 sp_ui_my_parent_set_v6	My 어버이/IDNo.
 sp_ui_my_parent_no_set_v6	My 어버이/IDNo. 이외
-sp_ui_filter_parent	[VAR_PLAYER]: [VAR_TID]
+sp_ui_filter_parent	[VAR 0100(0001)]: [VAR 0205(0000,0000)]
 sp_ui_filter_seikaku_1_m	노력+민트
 sp_ui_filter_seikaku_2_m	외로움+민트
 sp_ui_filter_seikaku_3_m	용감+민트
@@ -8523,7 +8523,7 @@ sp_ui_all_pokemon	모든 포켓몬
 sp_ui_release	해제
 sp_ui_goodby	놓아준다
 sp_ui_goodby_confirm	정말 놓아주겠습니까?  ※즐겨찾기한 포켓몬은 놓아줄 수 없습니다
-sp_ui_goodby_singular	[VAR_PKNAME] 촂 놓아주었다 바이바이, [VAR_PKNAME]!
+sp_ui_goodby_singular	[VAR 0102(0000)] 촂 놓아주었다 바이바이, [VAR 0102(0000)]!
 sp_ui_goodby_plural	포켓몬들을 놓아주었다 바이바이!
 sp_ui_set_label_max	라벨이 가득 찬 포켓몬이 있습니다
 sp_ui_lump_favorite	모두 즐겨찾기에 추가한다
@@ -8537,8 +8537,8 @@ sp_ui_bank_change_plan_confirm	모든 포켓몬을 표시하려면 프리미엄 
 sp_ui_bank_favall	※즐겨찾기한 포켓몬은 놓아줄 수 없습니다!
 sp_ui_lastet_update	최근 30
 sp_ui_select_max_v3	포켓몬은 한 번에 100마리까지 선택할 수 있습니다
-sp_ui_no_num	No.[VAR]
-sp_ui_lv_num	Lv.[VAR]
+sp_ui_no_num	No.[VAR 0200(0000)]
+sp_ui_lv_num	Lv.[VAR 0200(0000)]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	트레이너 메모
 sp_ui_available_title	데려갈 수 있는 소프트웨어
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	그럭저럭인 능력
 sp_ui_total_evaluate_02	평균 이상의 능력
 sp_ui_total_evaluate_03	상당히 우수한 능력
 sp_ui_total_evaluate_04	훌륭한 능력
-sp_ui_lumpribbon_num	[VAR]개
+sp_ui_lumpribbon_num	[VAR 0200(0000)]개
 sp_ui_parent_and_id_v4	어버이와 IDNo.
-sp_ui_trainermemo_01_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 만났다.
-sp_ui_trainermemo_02_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 만난 것 같다.
-sp_ui_trainermemo_03_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 운명적인 만남을 가졌다.
-sp_ui_trainermemo_04_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
-sp_ui_trainermemo_05_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 만난 것 같다.
-sp_ui_trainermemo_06_v04	[VAR_YEAR]년 [VAR_DAY]월 [VAR]일 그리운 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
+sp_ui_trainermemo_01_v04	[VAR 0203(0001)]년 [VAR 0201(0002)]월 [VAR 0201(0003)]일 [VAR 0105(0000)]에서 만났다.
+sp_ui_trainermemo_02_v04	[VAR 0203(0001)]년 [VAR 0201(0002)]월 [VAR 0201(0003)]일 [VAR 0105(0000)]에서 만난 것 같다.
+sp_ui_trainermemo_03_v04	[VAR 0203(0001)]년 [VAR 0201(0002)]월 [VAR 0201(0003)]일 [VAR 0105(0000)]에서 운명적인 만남을 가졌다.
+sp_ui_trainermemo_04_v04	[VAR 0203(0001)]년 [VAR 0201(0002)]월 [VAR 0201(0003)]일 [VAR 0105(0000)]에서 운명적인 만남을 가진 것 같다.
+sp_ui_trainermemo_05_v04	[VAR 0203(0001)]년 [VAR 0201(0002)]월 [VAR 0201(0003)]일 그리운 [VAR 0105(0000)]에서 만난 것 같다.
+sp_ui_trainermemo_06_v04	[VAR 0203(0001)]년 [VAR 0201(0002)]월 [VAR 0201(0003)]일 그리운 [VAR 0105(0000)]에서 운명적인 만남을 가진 것 같다.
 sp_ui_encountedplace_v10	만난 장소
 sp_ui_encountedplace_pokeshifter_v10	포켓시프터
 sp_ui_encountedplace_nostalgickanto_v10	그리운 관동지방
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	라벨 편집
 sp_ui_label_seting_please	라벨의 이름과 색을 설정해 주십시오
 sp_ui_label_name	라벨명
 sp_ui_label_input_please	최대 8자
-sp_ui_label_input_limit_v1	최대 [VAR]자
+sp_ui_label_input_limit_v1	최대 [VAR 0200(0000)]자
 sp_ui_label_over_size	글자 수를 초과했습니다
 sp_ui_label_cant_use_word	사용할 수 없는 문자입니다
 sp_ui_icon	아이콘
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	벽지 설정
 sp_ui_seal_00009	이 벽지로 설정하겠습니까?
 sp_ui_seal_00010	씰을 제거한다
 sp_ui_seal_00011	씰을 리스트로 되돌리겠습니까?
-sp_ui_seal_00012	[VAR] 촁 더 붙일 수 없습니다
+sp_ui_seal_00012	[VAR 0109(0000)] 촁 더 붙일 수 없습니다
 sp_ui_seal_00013	변경 내용이 있습니다 내용을 저장하겠습니까?
 sp_ui_seal_00014	씰을 모두 제거합니다. 괜찮겠습니까?
 sp_ui_seal_filter_01_01	붙일 수 있는 씰
@@ -8609,7 +8609,7 @@ sp_ui_gift_00001	에리어 체크
 sp_ui_gift_00002	시리얼 코드
 sp_ui_gift_00005	패턴 코드
 sp_ui_gift_00004	종류
-sp_ui_gift_00006	유효 기간: [VAR]
+sp_ui_gift_00006	유효 기간: [VAR 0200(0000)]
 sp_ui_gift_00007	이미 받음
 sp_ui_gift_00008	받을 수 있는 소프트웨어
 sp_ui_gift_00009	받지 못했습니다
@@ -8619,8 +8619,8 @@ sp_ui_gift_00012	탭해서 시리얼 코드를 입력
 sp_ui_gift_seal	씰
 sp_ui_gift_point	포인트
 sp_ui_gift_0013_v1	없음
-sp_ui_gift_0014_v5	이미 받음: [VAR]
-sp_ui_gift_0015_v5	[VAR]포인트
+sp_ui_gift_0014_v5	이미 받음: [VAR 0200(0000)]
+sp_ui_gift_0015_v5	[VAR 0200(0000)]포인트
 sp_ui_gift_nfc_0001	NFC 스캔
 sp_ui_gift_nfc_0002	NFC 태그를 스캔해 주십시오
 sp_ui_gift_nfc_0003	스캔에 성공했습니다! 선물 박스를 확인해 주십시오
@@ -8633,11 +8633,11 @@ sp_ui_gift_01001	이 에리어에서 받을 수 있는 것
 sp_ui_gift_01002	선물 박스에서 받아주세요!
 sp_ui_gift_01003	선물 박스
 sp_ui_gift_01004	도구
-sp_ui_gift_01005	앞으로 [VAR]시간
-sp_ui_gift_01006	앞으로 [VAR]분
+sp_ui_gift_01005	앞으로 [VAR 0200(0000)]시간
+sp_ui_gift_01006	앞으로 [VAR 0200(0000)]분
 sp_ui_gift_01007	기간 만료
 sp_ui_gift_02001	유효 기간
-sp_ui_gift_02002	앞으로 [VAR]일
+sp_ui_gift_02002	앞으로 [VAR 0200(0000)]일
 sp_ui_gift_02003	이상한 소포
 sp_ui_gift_02004	에서 받을 수 있습니다
 sp_ui_gift_02005	에서 받았습니다
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	이상한 소포가 없습니다
 sp_ui_gift_03001	시리얼 코드
 sp_ui_gift_03002	시리얼 코드를 입력해 주십시오
 sp_ui_gift_select_title	선택한 포켓몬 확인
-sp_ui_gift_select_confirm	정말 [VAR_PKNAME] 촅로 괜찮겠습니까?  ※선택한 포켓몬은 나중에 변경할 수 없습니다
+sp_ui_gift_select_confirm	정말 [VAR 0101(0000)] 촅로 괜찮겠습니까?  ※선택한 포켓몬은 나중에 변경할 수 없습니다
 sp_ui_gift_select_reselect	다시 선택한다
 sp_ui_achieve_dialog_all_clear	달성
 sp_ui_achieve_dialog_header_title	달성 보상
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	표시할 수 있는 업적이 없습니다
 sp_ui_achieve_join_ok	업적을 달성했습니다
 sp_ui_achieve_join_ng	달성할 수 있는 업적이 없습니다
 sp_ui_achieve_hide_seal	업적을 달성하고 씰을 손에 넣자!
-sp_ui_report_01	[VAR_YEAR]마리
-sp_ui_report_02	[VAR_YEAR]포인트
+sp_ui_report_01	[VAR 0203(0000)]마리
+sp_ui_report_02	[VAR 0203(0000)]포인트
 sp_ui_report_03	맡긴 포켓몬의 수
 sp_ui_report_04	찾은 포켓몬의 수
 sp_ui_report_05	누계 획득 포인트
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	마이 룸으로
 sp_ui_voice_input	음성 인식 중...
 sp_ui_voice_input_error	에러가 발생했습니다  마이크 아이콘을 탭하고 다시 시도해 주십시오
 sp_ui_recognizer_limit_error	음성 인식의 1일 사용 횟수가 한계에 도달했습니다
-sp_ui_myroom_point_number	[VAR_YEAR]p
+sp_ui_myroom_point_number	[VAR 0203(0000)]p
 sp_ui_app_desc_0001_v3	"Pokémon HOME"이란?
 sp_ui_app_desc_0002_v3	"모든 포켓몬이 모이는 장소"를 콘셉트로 하는 Nintendo Switch와 스마트폰 대상의 클라우드 서비스입니다.
 sp_ui_app_desc_0003_v3	연동한 소프트웨어나 서비스를 통해 "포켓몬스터" 시리즈에서 동료로 만든 포켓몬들을 맡길 수 있으며, 일부 소프트웨어는 "Pokémon HOME"에서 포켓몬을 보낼 수 있습니다. 또한, 전 세계 사람들과 포켓몬을 교환할 수도 있습니다. 
@@ -8767,10 +8767,10 @@ sp_ui_get_calendar_v5	GET 캘린더
 sp_ui_calendar_v5	캘린더
 sp_ui_memory_v5	기념일
 sp_ui_calendar_year_v5	연도
-sp_ui_calendar_numerical_year_v5	[VAR_YEAR]년
-sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]년 [VAR_MONTH]월
-sp_ui_calendar_numerical_month_day_v5	[VAR]월 [VAR_MONTH]일
-sp_ui_calendar_numerical_date_v5	[VAR_YEAR]년 [VAR_MONTH]월 [VAR_DAY]일
+sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]년
+sp_ui_calendar_numerical_year_month_v5	[VAR 0203(0000)]년 [VAR 0201(0001)]월
+sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]월 [VAR 0201(0001)]일
+sp_ui_calendar_numerical_date_v5	[VAR 0203(0000)]년 [VAR 0201(0001)]월 [VAR 0201(0002)]일
 sp_ui_calendar_illegal_date_v5	알 수 없는 날짜
 sp_ui_calendar_date_v5	날짜
 sp_ui_calendar_unspecified_v5	오늘과 날짜가 같은 기념일
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	조금 겉치레를 좋아함.
 trmemo_03_06_02	오기가 센 성격임.
 trmemo_03_06_03	지기 싫어함.
 trmemo_03_06_04	조금 고집통이임.
-trmemo_bank_01_01	[VAR_LOCATION]에서 만났다.
-trmemo_bank_01_02	[VAR_LOCATION]에서 만난 것 같다.
-trmemo_bank_02_01	[VAR_LOCATION]에서 운명적인 만남을 가졌다.
-trmemo_bank_02_02	[VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
-trmemo_bank_03_01	그리운 [VAR_LOCATION]에서 만났다.
-trmemo_bank_03_02	그리운 [VAR_LOCATION]에서 만난 것 같다.
-trmemo_bank_04_01	그리운 [VAR_LOCATION]에서 운명적인 만남을 가졌다.
-trmemo_bank_04_02	그리운 [VAR_LOCATION]에서 운명적인 만남을 가진 것 같다.
+trmemo_bank_01_01	[VAR 0105(0000)]에서 만났다.
+trmemo_bank_01_02	[VAR 0105(0000)]에서 만난 것 같다.
+trmemo_bank_02_01	[VAR 0105(0000)]에서 운명적인 만남을 가졌다.
+trmemo_bank_02_02	[VAR 0105(0000)]에서 운명적인 만남을 가진 것 같다.
+trmemo_bank_03_01	그리운 [VAR 0105(0000)]에서 만났다.
+trmemo_bank_03_02	그리운 [VAR 0105(0000)]에서 만난 것 같다.
+trmemo_bank_04_01	그리운 [VAR 0105(0000)]에서 운명적인 만남을 가졌다.
+trmemo_bank_04_02	그리운 [VAR 0105(0000)]에서 운명적인 만남을 가진 것 같다.
 
 ~~~~~~~~~~~~~~~
 Text File : typename_kor.msbt
@@ -17566,7 +17566,7 @@ MAPNAME_3DSLINK	포켓몬링크
 Text File : zkn_form_kor.msbt
 ~~~~~~~~~~~~~~~
 ZKN_FORM_000_000	
-ZKN_FORM_double_form	[VAR_PKFORM]/[VAR_PKFORM]
+ZKN_FORM_double_form	[VAR 01D4(0000)]/[VAR 01D4(0001)]
 ZKN_FORM_001_000	
 ZKN_FORM_002_000	
 ZKN_FORM_003_000	

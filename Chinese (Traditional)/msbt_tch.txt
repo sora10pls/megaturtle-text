@@ -400,7 +400,7 @@ Text File : B2W2_place_name_tch.msbt
 MAPNAME_NOTHING	－－－－－－－－－－
 MAPNAME_NAZONOBASYO	神秘的地方
 MAPNAME_TOOIBASYO	遙遠的地方
-MAPNAME_INTRUDE	[VAR_PLAYER]的[VAR]
+MAPNAME_INTRUDE	[VAR 0100(0000)]的[VAR 0105(0001)]
 MAPNAME_T1KANOKO	鹿子鎮
 MAPNAME_T2KARAKUSA	唐草鎮
 MAPNAME_C1SANYOU	三曜市
@@ -7237,17 +7237,17 @@ Text File : sp_api_tch.msbt
 ~~~~~~~~~~~~~~~
 sp_api_error_title	連線錯誤
 sp_api_simple_error	錯誤
-sp_api_error_dialog_text	發生連線錯誤。 [VAR]
-sp_api_retry_dialog_text	發生連線錯誤。 [VAR] 要重試一次嗎？
+sp_api_error_dialog_text	發生連線錯誤。 [VAR 0200(0000)]
+sp_api_retry_dialog_text	發生連線錯誤。 [VAR 0200(0000)] 要重試一次嗎？
 sp_api_error_goto_title_dialog_text	發生連線錯誤。 將返回標題畫面。
 sp_api_dataupdate	資料已更新。 將返回標題畫面。
 sp_api_dlsize_title	下載確認
-sp_api_dlsize_mb_text	下載內容約有[VAR]MB， 確定要繼續嗎？
-sp_api_dlsize_kb_text	下載內容約有[VAR]KB， 確定要繼續嗎？
-sp_api_dlsize_b_text	下載內容約有[VAR]Byte， 確定要繼續嗎？
+sp_api_dlsize_mb_text	下載內容約有[VAR 0200(0000)]MB， 確定要繼續嗎？
+sp_api_dlsize_kb_text	下載內容約有[VAR 0200(0000)]KB， 確定要繼續嗎？
+sp_api_dlsize_b_text	下載內容約有[VAR 0200(0000)]Byte， 確定要繼續嗎？
 sp_api_lack_storage	裝置的儲存空間不足。 請刪除不需要的資料。
 sp_api_break_file	檔案已損毀。 請從標題畫面的選單清除快取。
-sp_api_maintenance_010	目前正在進行維護作業…… 預定結束時間如下： [VAR_YEAR]/[VAR_MONTH]/[VAR_DAY]　[VAR]:[VAR]
+sp_api_maintenance_010	目前正在進行維護作業…… 預定結束時間如下： [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
 sp_api_maintenance_020	目前正在進行維護作業…… 在維護作業結束前，請稍候片刻。
 sp_api_maintenance_030	目前正在進行緊急維護作業…… 在維護作業結束前，請稍候片刻。 造成您的不便，敬請見諒。
 sp_api_400_8809	無法登入Nintendo Account。  請確認Nintendo Account的Q&A。
@@ -7443,7 +7443,7 @@ sp_friend_01007	輸入朋友編號
 sp_friend_01008	請讀取對方用戶的二維條碼， 以新增為朋友。
 sp_friend_01009	讀取二維條碼
 sp_friend_01010	輕點以輸入朋友編號
-sp_friend_01011	已向[VAR_PLAYER] 送出朋友申請。 請等候對方同意。
+sp_friend_01011	已向[VAR 0100(0000)] 送出朋友申請。 請等候對方同意。
 sp_friend_01012	朋友申請
 sp_friend_01013	你的二維條碼
 sp_friend_02001	同意朋友申請
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_tch.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	寶可夢虛擬銀行 Ver[VAR]以上
-sp_migration_00003	Pokémon HOME 還有　[VAR]隻
+sp_migration_00002	寶可夢虛擬銀行 Ver[VAR 0200(0000)]以上
+sp_migration_00003	Pokémon HOME 還有　[VAR 0200(0000)]隻
 sp_migration_00004	你可以從Nintendo 3DS的 『寶可夢虛擬銀行』帶寶可夢過來。
 sp_migration_00005	一旦將寶可夢帶過來， 將無法移回Nintendo 3DS！
 sp_migration_00006	開始轉移！
@@ -7522,7 +7522,7 @@ sp_migration_04002	準備OK！
 sp_migration_05001	轉移密碼的有效時間 僅有<B>３分鐘</B>。 請於時間內在『寶可夢虛擬銀行』完成輸入。
 sp_migration_05002	轉移密碼顯示之後， <B>３分鐘</B>內將無法 回到上一個畫面！
 sp_migration_05003	顯示轉移密碼！
-sp_migration_06001	還需要<B>[VAR_YEAR]隻</B> 寶可夢的空間！
+sp_migration_06001	還需要<B>[VAR 0203(0000)]隻</B> 寶可夢的空間！
 sp_migration_06002	請透過整理寶可夢等方法， 準備好充足的空間。
 sp_migration_06003	中止轉移
 sp_migration_07001	你現在使用的Nintendo Account 沒有連動到Nintendo Network ID。
@@ -7540,7 +7540,7 @@ sp_migration_11001	轉移完成！
 sp_migration_11002	歡迎來到Pokémon HOME！
 sp_migration_12001	禮物
 sp_migration_12002	初次轉移
-sp_migration_12003	[VAR_YEAR]點數
+sp_migration_12003	[VAR 0203(0000)]點數
 sp_migration_13001	要使用Nintendo Network ID來轉移， 需事先連結Nintendo Account。  可從設定中進行連結Nintendo Account的操作。
 sp_migration_13002	轉移失敗。
 
@@ -7584,7 +7584,7 @@ sp_monbo_gift_0001_001	為了紀念『Pokémon HOME』的更新， 有禮物送�
 sp_monbo_gift_0001_002	快從「神秘禮物」接收吧萌！
 sp_monbo_gift_0001_003	為了紀念軟體連結， 有禮物送給你喔萌！
 sp_monbo_gift_0002_001	來選擇是哪一隻 寶可夢吧萌！
-sp_monbo_gift_0002_002	確定要選[VAR_PKCATEGORY]的 [VAR_PKNAME]嗎萌？
+sp_monbo_gift_0002_002	確定要選[VAR 0104(0000)]的 [VAR 0101(0001)]嗎萌？
 sp_monbo_get_calendar_0001_001	這裡是捕捉日曆！ 寄放在『Pokémon HOME』中的寶可夢， 會按照捕捉到的日期來排列喔萌！
 sp_monbo_get_calendar_0001_002	在紀念日中，可以登錄或編輯 喜歡的日期喔萌！ 而且可以篩選出在登錄的紀念日 捕捉到的寶可夢喔萌！
 sp_monbo_get_calendar_0001_003	快把專屬你的回憶， 登錄到紀念日吧萌！
@@ -7667,7 +7667,7 @@ sp_oak_00002	畫面上看得到我嗎？  嗯……看來是沒問題！
 sp_oak_00003	我是偉大的寶可夢研究家， 大家叫我巨木博士！ 很高興認識你，請多指教！
 sp_oak_00004	你現在連線到的 是我開發的『Pokémon HOME』！ 這真是太值得紀念的一天了！
 sp_oak_00005	哎呀，抱歉！ 你能先告訴我你叫什麼名字嗎？
-sp_oak_00006	哦…… 你叫[VAR_PLAYER]啊！
+sp_oak_00006	哦…… 你叫[VAR 0100(0000)]啊！
 sp_oak_00007	我的夢想就是打造出一部 登錄了全世界所有寶可夢， 最強大的寶可夢圖鑑！
 sp_oak_00008	但老實說，這件事只靠我 一個人的力量實在很難辦到…… 所以，你一定要助我一臂之力！
 sp_oak_00009	拜託你收集寶可夢 到『Pokémon HOME』來， 填滿寶可夢圖鑑！
@@ -7679,7 +7679,7 @@ sp_oak_00014	你也可以查看排行榜， 關注全世界喜愛 寶可夢對�
 sp_oak_00015	嗯～看來我開發的 強大功能嚇壞你了！
 sp_oak_00016	……什麼？你還沒有寶可夢？ 好！這次就特別 送你1隻寶可夢吧！
 sp_oak_00017	想要哪隻寶可夢， 你儘管挑吧！
-sp_oak_00018	你確定要選 [VAR_PKCATEGORY][VAR_PKNAME]嗎？
+sp_oak_00018	你確定要選 [VAR 0104(0000)][VAR 0101(0001)]嗎？
 sp_oak_00019	OK！關於『Pokémon HOME』的詳細功能， 你就去問萌寶吧！
 sp_oak_00020	萌寶正和你的寶可夢一起 在「我的首頁」等你！
 sp_oak_00021	OK！ 那麼就萬事拜託啦！
@@ -7724,7 +7724,7 @@ sp_option_language_select_please	請選擇語言。
 sp_option_language_select_00002	※小朋友請和家長或監護人一起進行選擇。
 sp_option_language_select_00003	確認選擇的語言
 sp_option_country_select_00001	選擇地區
-sp_option_country_select_00002	確定是這個地區嗎？ <b>【[VAR_REGION]】</b>  ※之後可以變更。
+sp_option_country_select_00002	確定是這個地區嗎？ <b>【[VAR 0105(0000)]】</b>  ※之後可以變更。
 sp_option_country_select_00003	請選擇居住的地區。
 sp_option_country_select_00004	確認選擇的地區
 sp_option_country_reselect_title	地區設定的更新
@@ -7961,13 +7961,13 @@ sp_plan_terms	使用條款
 sp_plan_fund_settlement_method	基於資金結算法顯示內容
 sp_plan_specifiedcommercial_transaction_law	基於特定商業交易法顯示內容
 sp_plan_change	確認方案
-sp_plan_buy_text	購買[VAR]。
+sp_plan_buy_text	購買[VAR 0200(0000)]。
 sp_plan_change_disable_text	在其他商店購買的進階方案， 有效期限請到購買的商店確認。
 sp_plan_restored_title	方案復原
 sp_plan_restored_text	已復原方案。
 sp_plan_buy_failed_title	購買發生錯誤
-sp_plan_buy_failed_text	購買處理失敗。 [VAR]
-sp_plan_buy_failed_goto_title_text	購買處理失敗。 將回到標題畫面。 [VAR]
+sp_plan_buy_failed_text	購買處理失敗。 [VAR 0200(0000)]
+sp_plan_buy_failed_goto_title_text	購買處理失敗。 將回到標題畫面。 [VAR 0200(0000)]
 sp_plan_not_Initalized_text	消費系統尚未初始化。 將回到標題畫面。
 sp_plan_not_Initalizing_text	消費系統正在初始化……
 sp_plan_help_button	進階方案說明
@@ -7992,19 +7992,19 @@ sp_playerlog_00002	透過GTS進行了交換
 sp_playerlog_00003	進行了群組交換
 sp_playerlog_00004	透過奇蹟盒子進行了交換
 sp_playerlog_00005	已透過神秘禮物接收
-sp_playerlog_00006	使用了[VAR_YEAR]點數
-sp_playerlog_00007	獲得了[VAR_YEAR]點數
-sp_playerlog_00008	已將[VAR_YEAR]點數兌換為BP
+sp_playerlog_00006	使用了[VAR 0203(0000)]點數
+sp_playerlog_00007	獲得了[VAR 0203(0000)]點數
+sp_playerlog_00008	已將[VAR 0203(0000)]點數兌換為BP
 sp_playerlog_00009	進行了<b>朋友交換</b>
 sp_playerlog_00010	透過<b>GTS</b>進行了交換
 sp_playerlog_00011	進行了<b>群組交換</b>
 sp_playerlog_00012	透過<b>奇蹟盒子</b>進行了交換
-sp_playerlog_00013	[VAR_PLAYER]在[VAR]寄放了
-sp_playerlog_00014	[VAR_PLAYER]在[VAR]領取了
+sp_playerlog_00013	[VAR 0100(0001)]在[VAR 0200(0000)]寄放了
+sp_playerlog_00014	[VAR 0100(0001)]在[VAR 0200(0000)]領取了
 sp_playerlog_00015	放生了
 sp_playerlog_00016	已透過神秘禮物接收
-sp_playerlog_00017	傳送了[VAR_YEAR]隻寶可夢
-sp_playerlog_00018	[VAR_PLAYER]的[VAR_PLAYER]
+sp_playerlog_00017	傳送了[VAR 0203(0000)]隻寶可夢
+sp_playerlog_00018	[VAR 0102(0001)]的[VAR 0100(0000)]
 sp_playerlog_00019	傳送的寶可夢
 sp_playerlog_00020	接收的寶可夢
 sp_playerlog_00021	接收的人
@@ -8086,39 +8086,39 @@ sp_trade_00010_vgo	搶手的寶可夢 （特別的寶可夢除外的排行榜）
 sp_trade_00011_vgo	搶手的寶可夢
 sp_trade_00012_vgo	經常被交換的寶可夢
 sp_trade_00013_vgo	交換成功的稀有寶可夢
-sp_trade_01001	要對[VAR_PKNAME]做什麼？
+sp_trade_01001	要對[VAR 0102(0000)]做什麼？
 sp_trade_01002	查看能力
 sp_trade_01003	這是寄放在GTS的寶可夢。 無法選擇。
 sp_trade_01004	這是寄放在奇蹟盒子的寶可夢。 無法選擇。
 sp_trade_01005	無法操作。
 sp_trade_01006	這是在「我的最愛」中的寶可夢。 無法選擇。
-sp_trade_02001	將[VAR_PKNAME]發送給[VAR_PLAYER]！ 拜拜，[VAR_PKNAME]。
-sp_trade_02002	[VAR_PLAYER]送來了 [VAR_PKNAME]！
-sp_trade_02003	要好好疼愛[VAR_PKNAME]喔！
-sp_trade_02004	將[VAR_PKNAME]寄放到ＧＴＳ！ 拜拜，[VAR_PKNAME]。
-sp_trade_02005	[VAR_PKNAME]從ＧＴＳ來了！
-sp_trade_02006	領回了[VAR_PKNAME]！
-sp_trade_02007	歡迎回來，[VAR_PKNAME]！
-sp_trade_02008	將[VAR_PKNAME] 寄放到奇蹟盒子！ 拜拜，[VAR_PKNAME]。
-sp_trade_02009	[VAR_PKNAME] 從奇蹟盒子來了！
+sp_trade_02001	將[VAR 0102(0000)]發送給[VAR 0100(0001)]！ 拜拜，[VAR 0102(0000)]。
+sp_trade_02002	[VAR 0100(0001)]送來了 [VAR 0102(0000)]！
+sp_trade_02003	要好好疼愛[VAR 0102(0000)]喔！
+sp_trade_02004	將[VAR 0102(0000)]寄放到ＧＴＳ！ 拜拜，[VAR 0102(0000)]。
+sp_trade_02005	[VAR 0102(0000)]從ＧＴＳ來了！
+sp_trade_02006	領回了[VAR 0102(0000)]！
+sp_trade_02007	歡迎回來，[VAR 0102(0000)]！
+sp_trade_02008	將[VAR 0102(0000)] 寄放到奇蹟盒子！ 拜拜，[VAR 0102(0000)]。
+sp_trade_02009	[VAR 0102(0000)] 從奇蹟盒子來了！
 sp_trade_03001	發生錯誤。 將返回交換頁面。
 sp_trade_03002	連線已中斷。 將返回交換頁面。
 sp_trade_03003	交換總數
 sp_trade_03004	交換排行榜
 sp_trade_03005	由於是特殊的寶可夢， 無法拿出去交換。
 sp_trade_03006	發生錯誤。 請稍後再試。
-sp_trade_miracle_00001	要對[VAR_PKNAME]做什麼？
+sp_trade_miracle_00001	要對[VAR 0102(0000)]做什麼？
 sp_trade_miracle_00002	寄放
 sp_trade_miracle_00003	查看資訊
 sp_trade_miracle_00004	取出
 sp_trade_miracle_00005	這是寄放在GTS的寶可夢。 無法選擇。
 sp_trade_miracle_00006	這是寄放在奇蹟盒子的寶可夢。 無法選擇。
-sp_trade_miracle_00007	要從奇蹟盒子把 [VAR_PKNAME]領回嗎？
-sp_trade_miracle_00008	[VAR_PKNAME]已經被交換了。
+sp_trade_miracle_00007	要從奇蹟盒子把 [VAR 0102(0000)]領回嗎？
+sp_trade_miracle_00008	[VAR 0102(0000)]已經被交換了。
 sp_trade_miracle_00010	交換完成！
 sp_trade_miracle_00011	無法登錄。  請稍後再試。
 sp_trade_miracle_00013_v3	要對選擇的寶可夢做什麼？
-sp_trade_miracle_00013_1_v3	（目前選擇了[VAR]隻寶可夢）
+sp_trade_miracle_00013_1_v3	（目前選擇了[VAR 0200(0000)]隻寶可夢）
 sp_trade_miracle_00014_v3	寄放寶可夢
 sp_trade_miracle_00015_v3	查看寶可夢的能力
 sp_trade_miracle_00016_v3	選擇的寶可夢數量 不能超過剩餘的空位數量。
@@ -8139,13 +8139,13 @@ sp_trade_group_00010	使用二維條碼參加
 sp_trade_group_00011	隨機參加
 sp_trade_group_00012	來建立群組。
 sp_trade_group_00013	已離開群組
-sp_trade_group_00014	[VAR_PLAYER]的群組
+sp_trade_group_00014	[VAR 0100(0000)]的群組
 sp_trade_group_00015	群組ＩＤ
 sp_trade_group_00016	分享編號
 sp_trade_group_00017	群組的二維條碼
 sp_trade_group_00018	離開群組
 sp_trade_group_00019	選擇寶可夢
-sp_trade_group_00020	要將[VAR_PLAYER]怎麼樣？
+sp_trade_group_00020	要將[VAR 0100(0000)]怎麼樣？
 sp_trade_group_00021	要交換的寶可夢
 sp_trade_group_00023	要繼續交換嗎？
 sp_trade_group_00024	繼續
@@ -8166,7 +8166,7 @@ sp_trade_group_00038	離開
 sp_trade_group_00039	正在等待其他用戶……
 sp_trade_group_change_plan_confirm	若要建立群組，需加入進階方案。  要變更方案嗎？
 sp_trade_firend_00001	GPS正在初始化
-sp_trade_firend_00002	正在等待[VAR_PLAYER]……
+sp_trade_firend_00002	正在等待[VAR 0100(0000)]……
 sp_trade_firend_00003	正在等待連線……
 sp_trade_firend_00004	交換
 sp_trade_firend_00005	準備完成
@@ -8187,7 +8187,7 @@ sp_trade_gts_00009	包含正在尋找傳說 或幻之寶可夢的人
 sp_trade_gts_00010	以此條件搜尋
 sp_trade_gts_00011	搜尋結果
 sp_trade_gts_00012	你所指定的寶可夢不存在。
-sp_trade_gts_00013	[VAR_PLAYER]的資訊
+sp_trade_gts_00013	[VAR 0100(0000)]的資訊
 sp_trade_gts_00014	拿出去交換
 sp_trade_gts_00015	你沒有對方想要的寶可夢。
 sp_trade_gts_00016	這隻寶可夢已被交換。
@@ -8197,10 +8197,10 @@ sp_trade_gts_00019_v1	想要的寶可夢目前指定的是 特殊的寶可夢。
 sp_trade_gts_00020_v3	包含正在尋找 自己未持有的寶可夢的人
 sp_trade_gts_00021_v3	包含正在尋找傳說或幻之寶可夢 等特別的寶可夢的人
 sp_trade_gts_00022_v4	想要的寶可夢目前指定的是 特殊的寶可夢。 特殊的寶可夢無法交換。 請重新選擇。
-sp_trade_gts_00023_v6	寄放日：[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_trade_gts_00023_v6	寄放日：[VAR 0203(0000)]年[VAR 0201(0001)]月[VAR 0201(0002)]日
 sp_trade_gts_00024_v6	其他人在尋找的寶可夢
-sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
-sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00027_v6	[VAR 0101(0000)] （[VAR 01D4(0001)]）
+sp_trade_gts_00028_v6	[VAR 0101(0000)]（[VAR 01D4(0001)]）
 sp_trade_gts_00029_v6	沒有用戶在尋找 你所指定的寶可夢
 sp_trade_gts_search_title_v12	可移動過去的作品
 sp_trade_gts_01001	請進行交換。 拜託你了。
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	朋友交換
 sp_ui_record	紀錄
 sp_ui_player_log	手帳
 sp_ui_library_progress_v10	圖鑑進度
-sp_ui_library_progress_frac_v10	[VAR]/
+sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
 sp_ui_national_library	全國圖鑑
 sp_ui_software_library_v10	軟體圖鑑
 sp_ui_other_library_v10	其他
@@ -8343,7 +8343,7 @@ sp_ui_details	詳細資訊
 sp_ui_input_name_please	請輸入名字。
 sp_ui_input_name_attention	請使用選擇的語言輸入。
 sp_ui_input_nickname_confirm_01	寶可夢的暱稱
-sp_ui_input_nickname_confirm_02	要為[VAR_PKNAME]取暱稱嗎？
+sp_ui_input_nickname_confirm_02	要為[VAR 0101(0000)]取暱稱嗎？
 sp_ui_input_nickname	輸入暱稱
 sp_ui_input_nickname_00	輕點以輸入暱稱。
 sp_ui_input_nickname_please	請輸入暱稱。 （最多６個字）
@@ -8378,7 +8378,7 @@ sp_ui_title_nalink_complete_v2	已成功登入Nintendo Account。
 sp_ui_title_nalink_error_v2	登入的Nintendo Account與 目前連結的Nintendo Account不同。
 sp_ui_title_license	版權標記
 sp_ui_ngname_confirm_title	變更用戶名
-sp_ui_ngname_confirm_body	由於原本使用的用戶名 含有無法使用的字詞， 請變更用戶名。  變更前的用戶名 [VAR_PLAYER]
+sp_ui_ngname_confirm_body	由於原本使用的用戶名 含有無法使用的字詞， 請變更用戶名。  變更前的用戶名 [VAR 0100(0000)]
 sp_ui_downlod_0001	正在啟動……
 sp_ui_downlod_0002	正在下載主要資料……
 sp_ui_downlod_0003	主要資料下載完成。
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	語言
 sp_ui_my_parent_v6	我的初訓家／IDNo.
 sp_ui_my_parent_set_v6	我的初訓家／IDNo.
 sp_ui_my_parent_no_set_v6	我的初訓家／IDNo.以外
-sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
+sp_ui_filter_parent	[VAR 0100(0001)]:[VAR 0205(0000,0000)]
 sp_ui_filter_seikaku_1_m	勤奮＋薄荷
 sp_ui_filter_seikaku_2_m	怕寂寞＋薄荷
 sp_ui_filter_seikaku_3_m	勇敢＋薄荷
@@ -8523,8 +8523,8 @@ sp_ui_all_pokemon	所有寶可夢
 sp_ui_release	解除
 sp_ui_goodby	放生
 sp_ui_goodby_confirm	確定要放生嗎？  ※已加入「我的最愛」 的寶可夢無法放生。
-sp_ui_goodby_singular	已將[VAR_PKNAME]放生了。 再見了，[VAR_PKNAME]！
-sp_ui_goodby_plural	已將[VAR_PKNAME]牠們放生了。 再見了，大家！
+sp_ui_goodby_singular	已將[VAR 0102(0000)]放生了。 再見了，[VAR 0102(0000)]！
+sp_ui_goodby_plural	已將[VAR 0102(0000)]牠們放生了。 再見了，大家！
 sp_ui_set_label_max	有寶可夢已貼滿了標籤。
 sp_ui_lump_favorite	一起加入「我的最愛」
 sp_ui_lump_favorite_release	一起解除「我的最愛」
@@ -8537,8 +8537,8 @@ sp_ui_bank_change_plan_confirm	若要顯示所有的寶可夢， 需變更為進
 sp_ui_bank_favall	※已加入「我的最愛」 的寶可夢無法放生。
 sp_ui_lastet_update	最新30
 sp_ui_select_max_v3	１次最多可選擇 １００隻寶可夢。
-sp_ui_no_num	No.[VAR]
-sp_ui_lv_num	Lv.[VAR]
+sp_ui_no_num	No.[VAR 0200(0000)]
+sp_ui_lv_num	Lv.[VAR 0200(0000)]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	訓練家筆記
 sp_ui_available_title	可移動過去的作品
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	還算可以的能力
 sp_ui_total_evaluate_02	中等偏上的能力
 sp_ui_total_evaluate_03	相當優秀的能力
 sp_ui_total_evaluate_04	了不起的能力！
-sp_ui_lumpribbon_num	[VAR]個
+sp_ui_lumpribbon_num	[VAR 0200(0000)]個
 sp_ui_parent_and_id_v4	初訓家與IDNo.
-sp_ui_trainermemo_01_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 在[VAR_LOCATION] 遇見了牠。
-sp_ui_trainermemo_02_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 好像是在[VAR_LOCATION] 遇見了牠。
-sp_ui_trainermemo_03_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
-sp_ui_trainermemo_04_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日， 好像是在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
-sp_ui_trainermemo_05_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 遇見了牠。
-sp_ui_trainermemo_06_v04	[VAR_YEAR]年[VAR_DAY]月[VAR]日，好像是在 令人懷念的[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_01_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 在[VAR 0105(0000)] 遇見了牠。
+sp_ui_trainermemo_02_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 好像是在[VAR 0105(0000)] 遇見了牠。
+sp_ui_trainermemo_03_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_04_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 好像是在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_05_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日，好像是在 令人懷念的[VAR 0105(0000)] 遇見了牠。
+sp_ui_trainermemo_06_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日，好像是在 令人懷念的[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
 sp_ui_encountedplace_v10	相遇的地方
 sp_ui_encountedplace_pokeshifter_v10	Poké Transfer
 sp_ui_encountedplace_nostalgickanto_v10	令人懷念的關都地區
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	編輯標籤
 sp_ui_label_seting_please	請設定標籤的名稱與顏色。
 sp_ui_label_name	標籤名
 sp_ui_label_input_please	最多８個字
-sp_ui_label_input_limit_v1	最多[VAR]個字
+sp_ui_label_input_limit_v1	最多[VAR 0200(0000)]個字
 sp_ui_label_over_size	超過字數限制。
 sp_ui_label_cant_use_word	包含無法使用的文字。
 sp_ui_icon	圖示
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	壁紙設定
 sp_ui_seal_00009	要設定成這張壁紙嗎？
 sp_ui_seal_00010	撕除貼紙
 sp_ui_seal_00011	要把貼紙放回列表嗎？
-sp_ui_seal_00012	無法再貼更多的[VAR]了。
+sp_ui_seal_00012	無法再貼更多的[VAR 0109(0000)]了。
 sp_ui_seal_00013	有變更的內容。 要儲存嗎？
 sp_ui_seal_00014	確定要撕除所有貼紙嗎？
 sp_ui_seal_filter_01_01	可使用的貼紙
@@ -8609,7 +8609,7 @@ sp_ui_gift_00001	區域確認
 sp_ui_gift_00002	序號
 sp_ui_gift_00005	二維條碼
 sp_ui_gift_00004	種類
-sp_ui_gift_00006	有效期限：[VAR]
+sp_ui_gift_00006	有效期限：[VAR 0200(0000)]
 sp_ui_gift_00007	已接收
 sp_ui_gift_00008	可接收的軟體
 sp_ui_gift_00009	接收失敗。
@@ -8619,8 +8619,8 @@ sp_ui_gift_00012	輕點以輸入序號。
 sp_ui_gift_seal	貼紙
 sp_ui_gift_point	點數
 sp_ui_gift_0013_v1	無
-sp_ui_gift_0014_v5	已接收：[VAR]
-sp_ui_gift_0015_v5	[VAR]點
+sp_ui_gift_0014_v5	已接收：[VAR 0200(0000)]
+sp_ui_gift_0015_v5	[VAR 0200(0000)]點
 sp_ui_gift_nfc_0001	讀取NFC
 sp_ui_gift_nfc_0002	請掃描NFC標籤。
 sp_ui_gift_nfc_0003	讀取成功！ 請確認禮物盒。
@@ -8633,11 +8633,11 @@ sp_ui_gift_01001	可在此區域接收的禮物
 sp_ui_gift_01002	到禮物盒接收吧！
 sp_ui_gift_01003	禮物盒
 sp_ui_gift_01004	道具
-sp_ui_gift_01005	還剩[VAR]小時
-sp_ui_gift_01006	還剩[VAR]分鐘
+sp_ui_gift_01005	還剩[VAR 0200(0000)]小時
+sp_ui_gift_01006	還剩[VAR 0200(0000)]分鐘
 sp_ui_gift_01007	過期
 sp_ui_gift_02001	有效期限
-sp_ui_gift_02002	還剩[VAR]天
+sp_ui_gift_02002	還剩[VAR 0200(0000)]天
 sp_ui_gift_02003	神秘禮物
 sp_ui_gift_02004	可在以上軟體接收。
 sp_ui_gift_02005	已在以上軟體接收。
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	沒有神秘禮物。
 sp_ui_gift_03001	序號
 sp_ui_gift_03002	請輸入序號。
 sp_ui_gift_select_title	確認選擇的寶可夢
-sp_ui_gift_select_confirm	確定要選[VAR_PKNAME]嗎？  ※之後無法變更選擇的寶可夢
+sp_ui_gift_select_confirm	確定要選[VAR 0101(0000)]嗎？  ※之後無法變更選擇的寶可夢
 sp_ui_gift_select_reselect	重新選擇
 sp_ui_achieve_dialog_all_clear	已完成
 sp_ui_achieve_dialog_header_title	完成獎勵
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	沒有可顯示的成就。
 sp_ui_achieve_join_ok	已達成成就。
 sp_ui_achieve_join_ng	沒有可達成的成就。
 sp_ui_achieve_hide_seal	達成成就 來獲得貼紙吧！
-sp_ui_report_01	[VAR_YEAR]隻
-sp_ui_report_02	[VAR_YEAR]點數
+sp_ui_report_01	[VAR 0203(0000)]隻
+sp_ui_report_02	[VAR 0203(0000)]點數
 sp_ui_report_03	寄放過的寶可夢數量
 sp_ui_report_04	領取出的寶可夢數量
 sp_ui_report_05	累計獲得點數
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	前往我的首頁
 sp_ui_voice_input	正在辨識語音……
 sp_ui_voice_input_error	發生錯誤。  請點一下麥克風的圖示， 再試一次。
 sp_ui_recognizer_limit_error	語音辨識的單日使用次數已達上限。
-sp_ui_myroom_point_number	[VAR_YEAR]p
+sp_ui_myroom_point_number	[VAR 0203(0000)]p
 sp_ui_app_desc_0001_v3	什麼是『Pokémon HOME』？
 sp_ui_app_desc_0002_v3	Pokémon HOME是以「所有寶可夢聚集的地方」為概念， 透過Nintendo Switch與智慧型手機提供的雲端服務。
 sp_ui_app_desc_0003_v3	透過與軟體或服務的連結， 用戶可以寄放至今在『寶可夢』 系列中成為夥伴的寶可夢們， 或是從『Pokémon HOME』將 寶可夢送至部分的軟體。 此外，還可以和世界各地的玩家交換寶可夢。
@@ -8767,10 +8767,10 @@ sp_ui_get_calendar_v5	捕捉日曆
 sp_ui_calendar_v5	日曆
 sp_ui_memory_v5	紀念日
 sp_ui_calendar_year_v5	年
-sp_ui_calendar_numerical_year_v5	[VAR_YEAR]年
-sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]年[VAR_MONTH]月
-sp_ui_calendar_numerical_month_day_v5	[VAR]月[VAR_MONTH]日
-sp_ui_calendar_numerical_date_v5	[VAR_YEAR]年[VAR_MONTH]月[VAR_DAY]日
+sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]年
+sp_ui_calendar_numerical_year_month_v5	[VAR 0203(0000)]年[VAR 0201(0001)]月
+sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]月[VAR 0201(0001)]日
+sp_ui_calendar_numerical_date_v5	[VAR 0203(0000)]年[VAR 0201(0001)]月[VAR 0201(0002)]日
 sp_ui_calendar_illegal_date_v5	日期不明
 sp_ui_calendar_date_v5	日期
 sp_ui_calendar_unspecified_v5	與今天相同日期的紀念日
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	有一點點愛慕虛榮。
 trmemo_03_06_02	爭強好勝。
 trmemo_03_06_03	不服輸。
 trmemo_03_06_04	有一點點固執。
-trmemo_bank_01_01	在[VAR_LOCATION] 遇見了牠。
-trmemo_bank_01_02	好像是在[VAR_LOCATION] 遇見了牠。
-trmemo_bank_02_01	在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
-trmemo_bank_02_02	好像是在[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
-trmemo_bank_03_01	在令人懷念的[VAR_LOCATION] 遇見了牠。
-trmemo_bank_03_02	好像是在 令人懷念的[VAR_LOCATION] 遇見了牠。
-trmemo_bank_04_01	在令人懷念的[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
-trmemo_bank_04_02	好像是在 令人懷念的[VAR_LOCATION] 彷彿命中注定般地遇見了牠。
+trmemo_bank_01_01	在[VAR 0105(0000)] 遇見了牠。
+trmemo_bank_01_02	好像是在[VAR 0105(0000)] 遇見了牠。
+trmemo_bank_02_01	在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+trmemo_bank_02_02	好像是在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+trmemo_bank_03_01	在令人懷念的[VAR 0105(0000)] 遇見了牠。
+trmemo_bank_03_02	好像是在 令人懷念的[VAR 0105(0000)] 遇見了牠。
+trmemo_bank_04_01	在令人懷念的[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+trmemo_bank_04_02	好像是在 令人懷念的[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
 
 ~~~~~~~~~~~~~~~
 Text File : typename_tch.msbt
@@ -17566,7 +17566,7 @@ PLACENAME_D07R0101_01
 Text File : zkn_form_tch.msbt
 ~~~~~~~~~~~~~~~
 ZKN_FORM_000_000	
-ZKN_FORM_double_form	[VAR_PKFORM]／[VAR_PKFORM]
+ZKN_FORM_double_form	[VAR 01D4(0000)]／[VAR 01D4(0001)]
 ZKN_FORM_001_000	
 ZKN_FORM_002_000	
 ZKN_FORM_003_000	

@@ -268,7 +268,7 @@ Text File : B2W2_place_name_deu.msbt
 MAPNAME_NOTHING	－－－－－－－－－－
 MAPNAME_NAZONOBASYO	Mysteriöser Ort
 MAPNAME_TOOIBASYO	Entfernter Ort
-MAPNAME_INTRUDE	[VAR] von [VAR_PLAYER]
+MAPNAME_INTRUDE	[VAR 0105(0001)] von [VAR 0100(0000)]
 MAPNAME_T1KANOKO	Avenitia
 MAPNAME_T2KARAKUSA	Gavina
 MAPNAME_C1SANYOU	Orion City
@@ -7237,17 +7237,17 @@ Text File : sp_api_deu.msbt
 ~~~~~~~~~~~~~~~
 sp_api_error_title	Verbindungsfehler
 sp_api_simple_error	Fehler
-sp_api_error_dialog_text	Ein Verbindungsfehler ist aufgetreten. [VAR]
-sp_api_retry_dialog_text	Ein Verbindungsfehler ist aufgetreten. [VAR] Möchtest du es erneut versuchen?
+sp_api_error_dialog_text	Ein Verbindungsfehler ist aufgetreten. [VAR 0200(0000)]
+sp_api_retry_dialog_text	Ein Verbindungsfehler ist aufgetreten. [VAR 0200(0000)] Möchtest du es erneut versuchen?
 sp_api_error_goto_title_dialog_text	Ein Verbindungsfehler ist aufgetreten. Du kehrst nun zum Titelbildschirm zurück.
 sp_api_dataupdate	Die Daten wurden aktualisiert. Du kehrst nun zum Titelbildschirm zurück.
 sp_api_dlsize_title	Downloadbestätigung
-sp_api_dlsize_mb_text	[VAR] MB an Daten werden heruntergeladen. Möchtest du fortfahren?
-sp_api_dlsize_kb_text	[VAR] KB an Daten werden heruntergeladen. Möchtest du fortfahren?
-sp_api_dlsize_b_text	[VAR] Byte an Daten werden heruntergeladen. Möchtest du fortfahren?
+sp_api_dlsize_mb_text	[VAR 0200(0000)] MB an Daten werden heruntergeladen. Möchtest du fortfahren?
+sp_api_dlsize_kb_text	[VAR 0200(0000)] KB an Daten werden heruntergeladen. Möchtest du fortfahren?
+sp_api_dlsize_b_text	[VAR 0200(0000)] Byte an Daten werden heruntergeladen. Möchtest du fortfahren?
 sp_api_lack_storage	Es ist nicht genügend freier Speicherplatz auf dem Gerät vorhanden. Bitte lösche Daten, die du nicht mehr benötigst.
 sp_api_break_file	Es liegt eine beschädigte Datei vor. Bitte kehre zum Titelbildschirm zurück und leere den Cache.
-sp_api_maintenance_010	Es werden gerade Wartungsarbeiten durchgeführt, die planmäßig zum folgenden Zeitpunkt enden: [VAR_DAY].[VAR_MONTH].[VAR_YEAR] um [VAR]:[VAR] Uhr
+sp_api_maintenance_010	Es werden gerade Wartungsarbeiten durchgeführt, die planmäßig zum folgenden Zeitpunkt enden: [VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000)] um [VAR 0201(0003)]:[VAR 0201(0004)] Uhr
 sp_api_maintenance_020	Es werden gerade Wartungsarbeiten durchgeführt. Bitte warte, bis die Wartungsarbeiten beendet wurden.
 sp_api_maintenance_030	Es werden gerade dringende Wartungsarbeiten durchgeführt. Bitte warte, bis die Wartungsarbeiten beendet wurden. Etwaige Unannehmlichkeiten bitten wir zu entschuldigen.
 sp_api_400_8809	Die Anmeldung mit deinem Nintendo-Account ist fehlgeschlagen.  Bitte ziehe die Internetseite des Kundenservices für den Nintendo-Account zurate.
@@ -7443,7 +7443,7 @@ sp_friend_01007	Freundescode eingeben
 sp_friend_01008	Scanne den 2D-Code des Nutzers ein, den du als Freund hinzufügen möchtest.
 sp_friend_01009	2D-Code einlesen
 sp_friend_01010	Gib einen Freundescode ein.
-sp_friend_01011	Du hast [VAR_PLAYER] eine Freundschaftsanfrage gesendet. Bitte warte, bis sie akzeptiert wurde.
+sp_friend_01011	Du hast [VAR 0100(0000)] eine Freundschaftsanfrage gesendet. Bitte warte, bis sie akzeptiert wurde.
 sp_friend_01012	Freundschaftsanfrage
 sp_friend_01013	Dein 2D-Code
 sp_friend_02001	Freundschaftsanfrage bearbeiten
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_deu.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	Pokémon Bank Ver. [VAR] und höher
-sp_migration_00003	Pokémon HOME Freie Plätze: [VAR]
+sp_migration_00002	Pokémon Bank Ver. [VAR 0200(0000)] und höher
+sp_migration_00003	Pokémon HOME Freie Plätze: [VAR 0200(0000)]
 sp_migration_00004	Hier kannst du Pokémon aus Pokémon Bank für Nintendo 3DS-Systeme transferieren.
 sp_migration_00005	Pokémon, die von einem Nintendo 3DS-System transferiert wurden, können nicht zurückgeschickt werden!
 sp_migration_00006	Transfer starten
@@ -7522,7 +7522,7 @@ sp_migration_04002	Bereit!
 sp_migration_05001	Ein Transferpasswort ist nur <B>drei Minuten</B> lang gültig. Bitte gib das Passwort innerhalb der Gültigkeitsdauer in Pokémon Bank ein.
 sp_migration_05002	Sobald das Passwort angezeigt wird, kannst du <B>drei Minuten</B> lang nicht zum vorherigen Bildschirm zurückkehren.
 sp_migration_05003	Transferpasswort anzeigen
-sp_migration_06001	Es ist nicht genügend Platz für all deine Pokémon vorhanden! Du benötigst Platz für <B>[VAR_YEAR]Ԁ</B> weitere(s) Pokémon.
+sp_migration_06001	Es ist nicht genügend Platz für all deine Pokémon vorhanden! Du benötigst Platz für <B>[VAR 0203(0000)]Ԁ</B> weitere(s) Pokémon.
 sp_migration_06002	Bitte ordne deine Pokémon, um genügend Platz zu schaffen.
 sp_migration_06003	Der Transfer wird unterbrochen.
 sp_migration_07001	Der Nintendo-Account, den du zurzeit verwendest, wurde nicht mit einer Nintendo Network ID verknüpft.
@@ -7540,7 +7540,7 @@ sp_migration_11001	Der Transfer wurde abgeschlossen!
 sp_migration_11002	Willkommen bei Pokémon HOME!
 sp_migration_12001	Geschenke
 sp_migration_12002	Der erste Transfer
-sp_migration_12003	[VAR_YEAR]Ԁ Punkt(e)
+sp_migration_12003	[VAR 0203(0000)]Ԁ Punkt(e)
 sp_migration_13001	Um einen Transfer mithilfe einer Nintendo Network ID durchzuführen, muss diese Anwendung mit einem Nintendo-Account verknüpft werden.  Die Verknüpfung mit einem Nintendo-Account kannst du in den Einstellungen vornehmen.
 sp_migration_13002	Der Transfer ist fehlgeschlagen.
 
@@ -7584,7 +7584,7 @@ sp_monbo_gift_0001_001	Du hast zur Feier des neuen Updates von Pokémon HOME ein
 sp_monbo_gift_0001_002	Du kannst es dir über das Geheimgeschenk-Menü abholen!
 sp_monbo_gift_0001_003	Für das Verlinken der Spielesoftware erhältst du ein Geschenk!
 sp_monbo_gift_0002_001	Wähle ein Pokémon aus!
-sp_monbo_gift_0002_002	Du wählst [VAR_PKNAME], das [VAR_PKCATEGORY]?
+sp_monbo_gift_0002_002	Du wählst [VAR 0101(0001)], das [VAR 0104(0000)]?
 sp_monbo_get_calendar_0001_001	Das hier ist der Fangkalender! All deine in Pokémon HOME gelagerten Pokémon werden hier in der Reihenfolge ihres Fangdatums angezeigt.
 sp_monbo_get_calendar_0001_002	Du kannst frei wählen, welchen Tag du als Jahrestag festlegen möchtest, und diese Einstellung später auch wieder ändern. Dir wird auch angezeigt, welche Pokémon du an dem jeweiligen Jahrestag gefangen hast.
 sp_monbo_get_calendar_0001_003	Lege Tage, die dir wichtig sind, als Jahrestage fest!
@@ -7667,7 +7667,7 @@ sp_oak_00002	Funktioniert auch alles mit der Bildübertragung? ...Okay, sieht gu
 sp_oak_00003	Darf ich mich vorstellen? Man nennt mich Giga-Eich! Ich bin einer der absoluten Giganten im Bereich der  Pokémon-Forschung! Freut mich, dich kennenzulernen!
 sp_oak_00004	Diesen Tag solltest du dir im Kalender anstreichen, denn heute siehst du zum ersten Mal die Früchte meiner harten Arbeit: Pokémon HOME!
 sp_oak_00005	Oh, ich Schussel! Jetzt hab ich doch glatt vergessen, dich nach deinem Namen zu fragen. Würdest du ihn mir verraten?
-sp_oak_00006	So, so... Du heißt also [VAR_PLAYER], ja?
+sp_oak_00006	So, so... Du heißt also [VAR 0100(0000)], ja?
 sp_oak_00007	Es war schon immer mein Traum, einen gigantischen Pokédex zu erstellen, in dem sämtliche Pokémon verzeichnet sind, die es in unserer schönen Welt zu entdecken gibt!
 sp_oak_00008	Na ja, ganz alleine hätte ich an dieser Aufgabe ehrlich gesagt ziemlich zu knabbern... Deshalb brauche ich deine Hilfe!
 sp_oak_00009	Wenn du Pokémon in den Boxen von Pokémon HOME lagerst, füllst du so Schritt für Schritt den Pokédex und lässt meinen Traum Wirklichkeit werden!
@@ -7679,7 +7679,7 @@ sp_oak_00014	Wenn du dich dafür interessierst, findest du sogar eine Übersicht
 sp_oak_00015	Hehe, diese grandiosen Funktionen hauen dich ganz schön von den Socken, was?
 sp_oak_00016	Wie bitte, du hast gar keine Pokémon? Na schön, in dem Fall werd ich dir etwas unter die Arme greifen und dir eins schenken!
 sp_oak_00017	Such dir eins dieser Pokémon aus!
-sp_oak_00018	Du entscheidest dich also für [VAR_PKNAME], das [VAR_PKCATEGORY]?
+sp_oak_00018	Du entscheidest dich also für [VAR 0101(0001)], das [VAR 0104(0000)]?
 sp_oak_00019	Alles klar! Wende dich einfach an meinen Kumpel Pokiba, wenn du mehr über die Funktionen von Pokémon HOME erfahren möchtest.
 sp_oak_00020	Pokiba wartet zusammen mit deinem neuen Pokémon in deinem Bereich auf dich!
 sp_oak_00021	Also dann, ich wünsche dir viel Erfolg und Spaß!
@@ -7724,7 +7724,7 @@ sp_option_language_select_please	Bitte wähle eine Sprache aus.
 sp_option_language_select_00002	Kinder sollten sich bei der Auswahl von einem Erwachsenen helfen lassen!
 sp_option_language_select_00003	Sprachauswahl bestätigen
 sp_option_country_select_00001	Regionsauswahl
-sp_option_country_select_00002	Willst du wirklich diese Region auswählen? <b>[VAR_REGION]</b>  Du kannst deine Region später ändern.
+sp_option_country_select_00002	Willst du wirklich diese Region auswählen? <b>[VAR 0105(0000)]</b>  Du kannst deine Region später ändern.
 sp_option_country_select_00003	In welcher Region bist du wohnhaft?
 sp_option_country_select_00004	Regionsauswahl bestätigen
 sp_option_country_reselect_title	Aktualisierung der Regionseinstellungen
@@ -7961,13 +7961,13 @@ sp_plan_terms	Nutzungsbedingungen
 sp_plan_fund_settlement_method	Zahlungsgesetze
 sp_plan_specifiedcommercial_transaction_law	Handelstransaktionen
 sp_plan_change	Service überprüfen
-sp_plan_buy_text	Möchtest du den folgenden Service kaufen? [VAR] 
+sp_plan_buy_text	Möchtest du den folgenden Service kaufen? [VAR 0200(0000)] 
 sp_plan_change_disable_text	Dieser Premium-Service wurde in einem anderen Store gekauft. Bitte überprüfe seine Gültigkeitsdauer in dem Store, in dem er gekauft wurde.
 sp_plan_restored_title	Service wiederherstellen
 sp_plan_restored_text	Der Service wurde wiederhergestellt.
 sp_plan_buy_failed_title	Zahlungsfehler
-sp_plan_buy_failed_text	Während des Zahlungsvorgangs ist ein Fehler aufgetreten. [VAR]
-sp_plan_buy_failed_goto_title_text	Während des Zahlungsvorgangs ist ein Fehler aufgetreten. Du kehrst nun zum Titelbildschirm zurück. [VAR]
+sp_plan_buy_failed_text	Während des Zahlungsvorgangs ist ein Fehler aufgetreten. [VAR 0200(0000)]
+sp_plan_buy_failed_goto_title_text	Während des Zahlungsvorgangs ist ein Fehler aufgetreten. Du kehrst nun zum Titelbildschirm zurück. [VAR 0200(0000)]
 sp_plan_not_Initalized_text	Das Zahlungssystem wurde nicht eingerichtet. Du kehrst nun zum Titelbildschirm zurück.
 sp_plan_not_Initalizing_text	Zahlungssystem wird eingerichtet...
 sp_plan_help_button	Hilfe zum Premium-Service
@@ -7992,19 +7992,19 @@ sp_playerlog_00002	Einen GTS-Tausch durchgeführt
 sp_playerlog_00003	Einen Gruppentausch durchgeführt
 sp_playerlog_00004	Einen Tausch per Wunderbox durchgeführt
 sp_playerlog_00005	Per Geheimgeschenk erhalten
-sp_playerlog_00006	[VAR_YEAR]Ԁ P verwendet
-sp_playerlog_00007	[VAR_YEAR]Ԁ P erhalten
-sp_playerlog_00008	[VAR_YEAR]Ԁ P in GP umgetauscht
+sp_playerlog_00006	[VAR 0203(0000)]Ԁ P verwendet
+sp_playerlog_00007	[VAR 0203(0000)]Ԁ P erhalten
+sp_playerlog_00008	[VAR 0203(0000)]Ԁ P in GP umgetauscht
 sp_playerlog_00009	Einen <b>Freundestausch</b> durchgeführt
 sp_playerlog_00010	Einen <b>GTS-Tausch</b> durchgeführt
 sp_playerlog_00011	Einen <b>Gruppentausch</b> durchgeführt
 sp_playerlog_00012	Einen Tausch per <b>Wunderbox</b> durchgeführt
-sp_playerlog_00013	Von [VAR_PLAYER] in [VAR] gelagert
-sp_playerlog_00014	Von [VAR_PLAYER] aus [VAR] entnommen
+sp_playerlog_00013	Von [VAR 0100(0001)] in [VAR 0200(0000)] gelagert
+sp_playerlog_00014	Von [VAR 0100(0001)] aus [VAR 0200(0000)] entnommen
 sp_playerlog_00015	Freigelassen
 sp_playerlog_00016	Per Geheimgeschenk erhalten
-sp_playerlog_00017	[VAR_YEAR]Ԁ Pokémon übertragen
-sp_playerlog_00018	[VAR_PLAYER] von [VAR_PLAYER]
+sp_playerlog_00017	[VAR 0203(0000)]Ԁ Pokémon übertragen
+sp_playerlog_00018	[VAR 0102(0001)] von [VAR 0100(0000)]
 sp_playerlog_00019	Gesendetes Pokémon
 sp_playerlog_00020	Empfangenes Pokémon
 sp_playerlog_00021	Empfänger
@@ -8086,39 +8086,39 @@ sp_trade_00010_vgo	Begehrte Pokémon (ohne besondere Pokémon)
 sp_trade_00011_vgo	Begehrte Pokémon
 sp_trade_00012_vgo	Häufig getauschte Pokémon
 sp_trade_00013_vgo	Getauschte seltene Pokémon
-sp_trade_01001	Was soll mit [VAR_PKNAME] geschehen?
+sp_trade_01001	Was soll mit [VAR 0102(0000)] geschehen?
 sp_trade_01002	Bericht
 sp_trade_01003	Du kannst kein Pokémon auswählen, das gerade über das GTS zum Tausch angeboten wird.
 sp_trade_01004	Du kannst kein Pokémon auswählen, das sich gerade in der Wunderbox befindet.
 sp_trade_01005	Das ist leider nicht möglich.
 sp_trade_01006	Dieses Pokémon kann nicht ausgewählt werden, da es als Favorit festgelegt wurde.
-sp_trade_02001	Du gibst [VAR_PKNAME] in die Obhut von [VAR_PLAYER]. Alles Gute, [VAR_PKNAME]!
-sp_trade_02002	[VAR_PLAYER] hat dir [VAR_PKNAME] zugeschickt.
-sp_trade_02003	Kümmere dich gut um [VAR_PKNAME]!
-sp_trade_02004	[VAR_PKNAME] wird im GTS abgelegt! Mach's gut, [VAR_PKNAME]!
-sp_trade_02005	[VAR_PKNAME] ist vom GTS zu dir gekommen!
-sp_trade_02006	Du hast [VAR_PKNAME] entnommen!
-sp_trade_02007	Willkommen zurück, [VAR_PKNAME]!
-sp_trade_02008	[VAR_PKNAME] wird in der Wunderbox abgelegt. Mach's gut, [VAR_PKNAME]!
-sp_trade_02009	[VAR_PKNAME] ist aus der Wunderbox zu dir gekommen!
+sp_trade_02001	Du gibst [VAR 0102(0000)] in die Obhut von [VAR 0100(0001)]. Alles Gute, [VAR 0102(0000)]!
+sp_trade_02002	[VAR 0100(0001)] hat dir [VAR 0102(0000)] zugeschickt.
+sp_trade_02003	Kümmere dich gut um [VAR 0102(0000)]!
+sp_trade_02004	[VAR 0102(0000)] wird im GTS abgelegt! Mach's gut, [VAR 0102(0000)]!
+sp_trade_02005	[VAR 0102(0000)] ist vom GTS zu dir gekommen!
+sp_trade_02006	Du hast [VAR 0102(0000)] entnommen!
+sp_trade_02007	Willkommen zurück, [VAR 0102(0000)]!
+sp_trade_02008	[VAR 0102(0000)] wird in der Wunderbox abgelegt. Mach's gut, [VAR 0102(0000)]!
+sp_trade_02009	[VAR 0102(0000)] ist aus der Wunderbox zu dir gekommen!
 sp_trade_03001	Ein Fehler ist aufgetreten. Du kehrst nun zum Tauschmenü zurück.
 sp_trade_03002	Die Verbindung wurde unterbrochen. Du kehrst nun zum Tauschmenü zurück.
 sp_trade_03003	Tauschaktionen
 sp_trade_03004	Tauschranglisten
 sp_trade_03005	Besondere Pokémon können nicht zum Tausch angeboten werden.
 sp_trade_03006	Ein Fehler ist aufgetreten. Bitte versuche es später erneut.
-sp_trade_miracle_00001	Was soll mit [VAR_PKNAME] geschehen?
+sp_trade_miracle_00001	Was soll mit [VAR 0102(0000)] geschehen?
 sp_trade_miracle_00002	Ablegen
 sp_trade_miracle_00003	Bericht
 sp_trade_miracle_00004	Entnehmen
 sp_trade_miracle_00005	Du kannst kein Pokémon auswählen, das gerade über das GTS zum Tausch angeboten wird.
 sp_trade_miracle_00006	Du kannst kein Pokémon auswählen, das sich gerade in der Wunderbox befindet.
-sp_trade_miracle_00007	Möchtest du [VAR_PKNAME] aus der Wunderbox entnehmen?
-sp_trade_miracle_00008	[VAR_PKNAME] wurde bereits getauscht.
+sp_trade_miracle_00007	Möchtest du [VAR 0102(0000)] aus der Wunderbox entnehmen?
+sp_trade_miracle_00008	[VAR 0102(0000)] wurde bereits getauscht.
 sp_trade_miracle_00010	Tausch abgeschlossen!
 sp_trade_miracle_00011	Die Registrierung ist fehlgeschlagen. Bitte versuche es später erneut.
 sp_trade_miracle_00013_v3	Was soll mit der Auswahl geschehen?
-sp_trade_miracle_00013_1_v3	(Du hast [VAR] Pokémon ausgewählt.)
+sp_trade_miracle_00013_1_v3	(Du hast [VAR 0200(0000)] Pokémon ausgewählt.)
 sp_trade_miracle_00014_v3	Ablegen
 sp_trade_miracle_00015_v3	Bericht
 sp_trade_miracle_00016_v3	Du kannst nur so viele Pokémon auswählen, wie dir freie Plätze zur Verfügung stehen.
@@ -8139,13 +8139,13 @@ sp_trade_group_00010	Per 2D-Code beitreten
 sp_trade_group_00011	Einer zufälligen Gruppe beitreten
 sp_trade_group_00012	Gruppe erstellen
 sp_trade_group_00013	Du hast die Gruppe verlassen.
-sp_trade_group_00014	Gruppe von [VAR_PLAYER]
+sp_trade_group_00014	Gruppe von [VAR 0100(0000)]
 sp_trade_group_00015	Gruppen-ID
 sp_trade_group_00016	Code teilen
 sp_trade_group_00017	2D-Code der Gruppe
 sp_trade_group_00018	Gruppe verlassen
 sp_trade_group_00019	Pokémon auswählen
-sp_trade_group_00020	Was soll mit [VAR_PLAYER] geschehen?
+sp_trade_group_00020	Was soll mit [VAR 0100(0000)] geschehen?
 sp_trade_group_00021	Pokémon, die getauscht werden:
 sp_trade_group_00023	Möchtest du weitertauschen?
 sp_trade_group_00024	Weitertauschen
@@ -8166,7 +8166,7 @@ sp_trade_group_00038	Entfernen
 sp_trade_group_00039	Es wird auf andere Nutzer gewartet...
 sp_trade_group_change_plan_confirm	Wenn du eine Gruppe erstellen willst, musst du zum kostenpflichtigen Premium-Service wechseln.  Möchtest du den Service wechseln?
 sp_trade_firend_00001	GPS wird initialisiert...
-sp_trade_firend_00002	Es wird auf [VAR_PLAYER] gewartet...
+sp_trade_firend_00002	Es wird auf [VAR 0100(0000)] gewartet...
 sp_trade_firend_00003	Verbindung wird hergestellt...
 sp_trade_firend_00004	Tauschen
 sp_trade_firend_00005	Bereit!
@@ -8187,7 +8187,7 @@ sp_trade_gts_00009	Inklusive Spieler, die Legendäre oder Mysteriöse Pokémon s
 sp_trade_gts_00010	Mit diesen Bedingungen suchen
 sp_trade_gts_00011	Suchergebnisse
 sp_trade_gts_00012	Es gibt kein Pokémon, das diesen Kriterien entspricht.
-sp_trade_gts_00013	Informationen von [VAR_PLAYER]
+sp_trade_gts_00013	Informationen von [VAR 0100(0000)]
 sp_trade_gts_00014	Zum Tausch anbieten
 sp_trade_gts_00015	Du besitzt kein Pokémon, das den Wünschen deines Tauschpartners entspricht.
 sp_trade_gts_00016	Dieses Pokémon wurde bereits getauscht.
@@ -8197,10 +8197,10 @@ sp_trade_gts_00019_v1	Du hast ein besonderes Pokémon als gewünschtes Pokémon 
 sp_trade_gts_00020_v3	Inklusive Spielern, die Pokémon suchen, die du nicht besitzt
 sp_trade_gts_00021_v3	Inklusive Spielern, die Legendäre, Mysteriöse oder andere besondere Pokémon suchen
 sp_trade_gts_00022_v4	Du hast ein besonderes Pokémon als gewünschtes Pokémon festgelegt. Besondere Pokémon können nicht getauscht werden. Bitte wähle ein anderes Pokémon aus.
-sp_trade_gts_00023_v6	Datum der Einlagerung: [VAR_DAY].[VAR_MONTH].[VAR_YEAR] 
+sp_trade_gts_00023_v6	Datum der Einlagerung: [VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000)] 
 sp_trade_gts_00024_v6	Gewünschte Pokémon
-sp_trade_gts_00027_v6	[VAR_PKNAME] ([VAR_PKFORM])
-sp_trade_gts_00028_v6	[VAR_PKNAME] ([VAR_PKFORM])
+sp_trade_gts_00027_v6	[VAR 0101(0000)] ([VAR 01D4(0001)])
+sp_trade_gts_00028_v6	[VAR 0101(0000)] ([VAR 01D4(0001)])
 sp_trade_gts_00029_v6	Dieses Pokémon wird von keinem Nutzer gewünscht.
 sp_trade_gts_search_title_v12	Mögliche Zielspielesoftware
 sp_trade_gts_01001	Hallo! Lass uns tauschen!
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	Freundestausch
 sp_ui_record	Statistiken
 sp_ui_player_log	Logbuch
 sp_ui_library_progress_v10	Pokédex-Fortschritt
-sp_ui_library_progress_frac_v10	[VAR]/
+sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
 sp_ui_national_library	Nationaler Pokédex
 sp_ui_software_library_v10	Software
 sp_ui_other_library_v10	Sonstige
@@ -8343,7 +8343,7 @@ sp_ui_details	Details
 sp_ui_input_name_please	Bitte gib einen Namen ein.
 sp_ui_input_name_attention	Bitte gib einen Namen in der gewählten Sprache ein.
 sp_ui_input_nickname_confirm_01	Pokémon-Spitzname
-sp_ui_input_nickname_confirm_02	Möchtest du dem [VAR_PKNAME] einen Spitznamen geben?
+sp_ui_input_nickname_confirm_02	Möchtest du dem [VAR 0101(0000)] einen Spitznamen geben?
 sp_ui_input_nickname	Eingabe eines Spitznamens
 sp_ui_input_nickname_00	Hier berühren, um einen Spitznamen einzugeben.
 sp_ui_input_nickname_please	Bitte gib einen Spitznamen ein. (Maximal 12 Zeichen)
@@ -8378,7 +8378,7 @@ sp_ui_title_nalink_complete_v2	Du hast dich erfolgreich mit deinem Nintendo-Acco
 sp_ui_title_nalink_error_v2	Der Nintendo-Account, mit dem du dich angemeldet hast, unterscheidet sich vom verknüpften Nintendo-Account.
 sp_ui_title_license	Lizenzen
 sp_ui_ngname_confirm_title	Änderung des Nutzernamens
-sp_ui_ngname_confirm_body	Dein derzeitiger Nutzername enthält unzulässige Wörter und kann deshalb nicht verwendet werden. Bitte wähle einen anderen Namen.  Derzeitiger Nutzername: [VAR_PLAYER]
+sp_ui_ngname_confirm_body	Dein derzeitiger Nutzername enthält unzulässige Wörter und kann deshalb nicht verwendet werden. Bitte wähle einen anderen Namen.  Derzeitiger Nutzername: [VAR 0100(0000)]
 sp_ui_downlod_0001	Ladevorgang...
 sp_ui_downlod_0002	Stammdaten werden heruntergeladen...
 sp_ui_downlod_0003	Stammdaten heruntergeladen!
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	Sprache
 sp_ui_my_parent_v6	Mein OT/meine ID-Nr.
 sp_ui_my_parent_set_v6	Mein OT/meine ID-Nr.
 sp_ui_my_parent_no_set_v6	Nicht registrierte Pokémon
-sp_ui_filter_parent	[VAR_PLAYER] ([VAR_TID])
+sp_ui_filter_parent	[VAR 0100(0001)] ([VAR 0205(0000,0000)])
 sp_ui_filter_seikaku_1_m	Robust (ohne Minze)
 sp_ui_filter_seikaku_2_m	Solo/Solo-Minze
 sp_ui_filter_seikaku_3_m	Mutig/Mutig-Minze
@@ -8523,7 +8523,7 @@ sp_ui_all_pokemon	Alle Pokémon
 sp_ui_release	Zurücksetzen
 sp_ui_goodby	Freilassen
 sp_ui_goodby_confirm	Möchtest du deine Auswahl wirklich freilassen?  Hinweis: Favoriten kannst du nicht freilassen.
-sp_ui_goodby_singular	Du hast [VAR_PKNAME] freigelassen. Mach’s gut, [VAR_PKNAME]!
+sp_ui_goodby_singular	Du hast [VAR 0102(0000)] freigelassen. Mach’s gut, [VAR 0102(0000)]!
 sp_ui_goodby_plural	Du hast die ausgewählten Pokémon freigelassen. Macht’s gut, Freunde!
 sp_ui_set_label_max	Einige Pokémon kannst du nicht mit weiteren Labels versehen.
 sp_ui_lump_favorite	Zu den Favoriten hinzufügen
@@ -8537,8 +8537,8 @@ sp_ui_bank_change_plan_confirm	Um alle Pokémon sehen zu können, musst du zum P
 sp_ui_bank_favall	Favoriten kannst du nicht freilassen!
 sp_ui_lastet_update	30 neueste
 sp_ui_select_max_v3	Du kannst nur bis zu 100 Pokémon auf einmal auswählen.
-sp_ui_no_num	Nr. [VAR]
-sp_ui_lv_num	Lv. [VAR]
+sp_ui_no_num	Nr. [VAR 0200(0000)]
+sp_ui_lv_num	Lv. [VAR 0200(0000)]
 sp_ui_idno_num	ID-Nr.
 sp_ui_trainer_memo	Trainer-Info
 sp_ui_available_title	Mögliche Zielspielesoftware
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	Akzeptables Potenzial
 sp_ui_total_evaluate_02	Großes Potenzial
 sp_ui_total_evaluate_03	Sehr großes Potenzial
 sp_ui_total_evaluate_04	Exzellentes Potenzial
-sp_ui_lumpribbon_num	[VAR]
+sp_ui_lumpribbon_num	[VAR 0200(0000)]
 sp_ui_parent_and_id_v4	Originaltrainer und ID-Nr.
-sp_ui_trainermemo_01_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Herkunft: [VAR_LOCATION]
-sp_ui_trainermemo_02_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION]
-sp_ui_trainermemo_03_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Herkunft: [VAR_LOCATION]
-sp_ui_trainermemo_04_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION]
-sp_ui_trainermemo_05_v04	Getroffen: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
-sp_ui_trainermemo_06_v04	Schicksalhafte Begegnung: [VAR].[VAR_DAY].[VAR_YEAR] Offenbare Herkunft: [VAR_LOCATION] Das weckt Erinnerungen...
+sp_ui_trainermemo_01_v04	Getroffen: [VAR 0201(0003)].[VAR 0201(0002)].[VAR 0203(0001)] Herkunft: [VAR 0105(0000)]
+sp_ui_trainermemo_02_v04	Getroffen: [VAR 0201(0003)].[VAR 0201(0002)].[VAR 0203(0001)] Offenbare Herkunft: [VAR 0105(0000)]
+sp_ui_trainermemo_03_v04	Schicksalhafte Begegnung: [VAR 0201(0003)].[VAR 0201(0002)].[VAR 0203(0001)] Herkunft: [VAR 0105(0000)]
+sp_ui_trainermemo_04_v04	Schicksalhafte Begegnung: [VAR 0201(0003)].[VAR 0201(0002)].[VAR 0203(0001)] Offenbare Herkunft: [VAR 0105(0000)]
+sp_ui_trainermemo_05_v04	Getroffen: [VAR 0201(0003)].[VAR 0201(0002)].[VAR 0203(0001)] Offenbare Herkunft: [VAR 0105(0000)] Das weckt Erinnerungen...
+sp_ui_trainermemo_06_v04	Schicksalhafte Begegnung: [VAR 0201(0003)].[VAR 0201(0002)].[VAR 0203(0001)] Offenbare Herkunft: [VAR 0105(0000)] Das weckt Erinnerungen...
 sp_ui_encountedplace_v10	Fundort
 sp_ui_encountedplace_pokeshifter_v10	Poképorter
 sp_ui_encountedplace_nostalgickanto_v10	Altbekannte Kanto-Region
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	Label bearbeiten
 sp_ui_label_seting_please	Bitte wähle Name und Farbe des Labels aus.
 sp_ui_label_name	Label-Name
 sp_ui_label_input_please	maximal 16 Zeichen
-sp_ui_label_input_limit_v1	maximal [VAR] Zeichen
+sp_ui_label_input_limit_v1	maximal [VAR 0200(0000)] Zeichen
 sp_ui_label_over_size	Dieser Name ist zu lang!
 sp_ui_label_cant_use_word	Dieser Name enthält unzulässige Zeichen!
 sp_ui_icon	Symbol
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Stickeralbum
 sp_ui_seal_00009	Diesen Hintergrund benutzen?
 sp_ui_seal_00010	Sticker entfernen
 sp_ui_seal_00011	Den Sticker in die Liste zurücklegen?
-sp_ui_seal_00012	Du kannst keine weiteren [VAR]-Sticker verwenden.
+sp_ui_seal_00012	Du kannst keine weiteren [VAR 0109(0000)]-Sticker verwenden.
 sp_ui_seal_00013	Es wurden Änderungen vorgenommen. Möchtest du sie speichern?
 sp_ui_seal_00014	Alle Sticker werden entfernt. Möchtest du wirklich fortfahren?
 sp_ui_seal_filter_01_01	Verwendbare Sticker
@@ -8609,7 +8609,7 @@ sp_ui_gift_00001	Standort-Scan
 sp_ui_gift_00002	Seriencode
 sp_ui_gift_00005	2D-Code
 sp_ui_gift_00004	Art
-sp_ui_gift_00006	Gültigkeitsdauer: [VAR]
+sp_ui_gift_00006	Gültigkeitsdauer: [VAR 0200(0000)]
 sp_ui_gift_00007	Bereits erhalten
 sp_ui_gift_00008	Kompatible Spielesoftwares
 sp_ui_gift_00009	Der Empfang ist fehlgeschlagen.
@@ -8619,8 +8619,8 @@ sp_ui_gift_00012	Hier berühren, um einen Seriencode einzugeben.
 sp_ui_gift_seal	Sticker
 sp_ui_gift_point	Punkte
 sp_ui_gift_0013_v1	Unbegrenzt
-sp_ui_gift_0014_v5	Erhalten am [VAR]
-sp_ui_gift_0015_v5	[VAR] Punkt(e)
+sp_ui_gift_0014_v5	Erhalten am [VAR 0200(0000)]
+sp_ui_gift_0015_v5	[VAR 0200(0000)] Punkt(e)
 sp_ui_gift_nfc_0001	Nahfeld-Kommunikation
 sp_ui_gift_nfc_0002	Bitte halte dein Gerät an einen NFC-Tag.
 sp_ui_gift_nfc_0003	Der Einlesevorgang war erfolgreich. Sieh dir an, was in der Geschenkbox auf dich wartet!
@@ -8633,11 +8633,11 @@ sp_ui_gift_01001	Geschenke für diesen Standort
 sp_ui_gift_01002	Erhalte sie aus deiner Geschenkbox!
 sp_ui_gift_01003	Geschenkbox
 sp_ui_gift_01004	Items
-sp_ui_gift_01005	Noch [VAR] Stunde [CHECK_PLURAL]n
-sp_ui_gift_01006	Noch [VAR] Minute [CHECK_PLURAL]n
+sp_ui_gift_01005	Noch [VAR 0200(0000)] Stunde[VAR 1101(0000,0100)]n
+sp_ui_gift_01006	Noch [VAR 0200(0000)] Minute[VAR 1101(0000,0100)]n
 sp_ui_gift_01007	Abgelaufen
 sp_ui_gift_02001	Gültigkeitsdauer
-sp_ui_gift_02002	Verbleibende Tage: [VAR]
+sp_ui_gift_02002	Verbleibende Tage: [VAR 0200(0000)]
 sp_ui_gift_02003	Geheimgeschenk
 sp_ui_gift_02004	In diesen Spielen verfügbar!
 sp_ui_gift_02005	In diesem Spiel erhalten!
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	Keine Geheimgeschenke vorhanden
 sp_ui_gift_03001	Seriencode
 sp_ui_gift_03002	Bitte gib einen Seriencode ein.
 sp_ui_gift_select_title	Ausgewählte Pokémon überprüfen
-sp_ui_gift_select_confirm	Bist du sicher, dass du [VAR_PKNAME] auswählen möchtest?  Hinweis: Du kannst deine Auswahl später nicht mehr rückgängig machen.
+sp_ui_gift_select_confirm	Bist du sicher, dass du [VAR 0101(0000)] auswählen möchtest?  Hinweis: Du kannst deine Auswahl später nicht mehr rückgängig machen.
 sp_ui_gift_select_reselect	Neu auswählen
 sp_ui_achieve_dialog_all_clear	GESCHAFFT!
 sp_ui_achieve_dialog_header_title	Belohnung
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	Keine Erfolge vorhanden
 sp_ui_achieve_join_ok	Erfolg erzielt!
 sp_ui_achieve_join_ng	Es gibt keine Erfolge, die du erzielen kannst.
 sp_ui_achieve_hide_seal	Erziele Erfolge und erhalte dafür Sticker!
-sp_ui_report_01	[VAR_YEAR]Ԁ
-sp_ui_report_02	[VAR_YEAR]Ԁ P
+sp_ui_report_01	[VAR 0203(0000)]Ԁ
+sp_ui_report_02	[VAR 0203(0000)]Ԁ P
 sp_ui_report_03	Gelagerte Pokémon
 sp_ui_report_04	Entnommene Pokémon
 sp_ui_report_05	Erhaltene Punkte
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	Dein Bereich
 sp_ui_voice_input	Mikrofon-Input wird überprüft...
 sp_ui_voice_input_error	Ein Fehler ist aufgetreten.  Berühre das Mikrofon-Symbol, um es erneut zu versuchen.
 sp_ui_recognizer_limit_error	Die tägliche maximale Anzahl für Nutzungen der Spracheingabe wurde erreicht.
-sp_ui_myroom_point_number	[VAR_YEAR]Ԁ P
+sp_ui_myroom_point_number	[VAR 0203(0000)]Ԁ P
 sp_ui_app_desc_0001_v3	Was ist Pokémon HOME?
 sp_ui_app_desc_0002_v3	Pokémon HOME ist ein Cloud-Dienst für Nintendo Switch und kompatible Mobilgeräte, durch den du all deine Pokémon an einem Ort lagern kannst.
 sp_ui_app_desc_0003_v3	Wenn du Pokémon HOME mit kompatiblen Spielen und Services verlinkst, kannst du Pokémon, die sich dir dort angeschlossen haben, auf Pokémon HOME übertragen. Von dort aus kannst du deine Pokémon wiederum auf andere kompatible Spiele übertragen oder sie mit Trainern auf der ganzen Welt tauschen.
@@ -8767,10 +8767,10 @@ sp_ui_get_calendar_v5	Fangkalender
 sp_ui_calendar_v5	Kalender
 sp_ui_memory_v5	Jahrestage
 sp_ui_calendar_year_v5	Jahr
-sp_ui_calendar_numerical_year_v5	[VAR_YEAR]
-sp_ui_calendar_numerical_year_month_v5	[VAR_MONTH]/[VAR_YEAR]
-sp_ui_calendar_numerical_month_day_v5	[VAR_MONTH].[VAR]
-sp_ui_calendar_numerical_date_v5	[VAR_DAY].[VAR_MONTH].[VAR_YEAR]
+sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]
+sp_ui_calendar_numerical_year_month_v5	[VAR 0201(0001)]/[VAR 0203(0000)]
+sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0001)].[VAR 0200(0000)]
+sp_ui_calendar_numerical_date_v5	[VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000)]
 sp_ui_calendar_illegal_date_v5	Unbekanntes Datum
 sp_ui_calendar_date_v5	Datum
 sp_ui_calendar_unspecified_v5	Alle mit Jahrestag heute
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	Ist etwas eitel.
 trmemo_03_06_02	Ist sehr aufsässig.
 trmemo_03_06_03	Hasst Niederlagen.
 trmemo_03_06_04	Ist dickköpfig.
-trmemo_bank_01_01	Hier getroffen: [VAR_LOCATION].
-trmemo_bank_01_02	Offenbar hier getroffen: [VAR_LOCATION].
-trmemo_bank_02_01	Hier durch schicksalhafte Begegnung getroffen: [VAR_LOCATION].
-trmemo_bank_02_02	Offenbar hier durch schicksalhafte Begegnung getroffen: [VAR_LOCATION].
-trmemo_bank_03_01	Hier getroffen: [VAR_LOCATION]. Das weckt Erinnerungen!
-trmemo_bank_03_02	Offenbar hier getroffen: [VAR_LOCATION]. Das weckt Erinnerungen!
-trmemo_bank_04_01	Hier durch schicksalhafte Begegnung getroffen: [VAR_LOCATION]. Das weckt Erinnerungen!
-trmemo_bank_04_02	Offenbar hier durch schicksalhafte Begegnung getroffen: [VAR_LOCATION]. Das weckt Erinnerungen!
+trmemo_bank_01_01	Hier getroffen: [VAR 0105(0000)].
+trmemo_bank_01_02	Offenbar hier getroffen: [VAR 0105(0000)].
+trmemo_bank_02_01	Hier durch schicksalhafte Begegnung getroffen: [VAR 0105(0000)].
+trmemo_bank_02_02	Offenbar hier durch schicksalhafte Begegnung getroffen: [VAR 0105(0000)].
+trmemo_bank_03_01	Hier getroffen: [VAR 0105(0000)]. Das weckt Erinnerungen!
+trmemo_bank_03_02	Offenbar hier getroffen: [VAR 0105(0000)]. Das weckt Erinnerungen!
+trmemo_bank_04_01	Hier durch schicksalhafte Begegnung getroffen: [VAR 0105(0000)]. Das weckt Erinnerungen!
+trmemo_bank_04_02	Offenbar hier durch schicksalhafte Begegnung getroffen: [VAR 0105(0000)]. Das weckt Erinnerungen!
 
 ~~~~~~~~~~~~~~~
 Text File : typename_deu.msbt
@@ -17566,7 +17566,7 @@ MAPNAME_3DSLINK	Pokémon-Link
 Text File : zkn_form_deu.msbt
 ~~~~~~~~~~~~~~~
 ZKN_FORM_000_000	
-ZKN_FORM_double_form	[VAR_PKFORM]/[VAR_PKFORM]
+ZKN_FORM_double_form	[VAR 01D4(0000)]/[VAR 01D4(0001)]
 ZKN_FORM_001_000	
 ZKN_FORM_002_000	
 ZKN_FORM_003_000	

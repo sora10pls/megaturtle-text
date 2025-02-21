@@ -268,7 +268,7 @@ Text File : B2W2_place_name_jpn.msbt
 MAPNAME_NOTHING	－－－－－－－－－－
 MAPNAME_NAZONOBASYO	なぞのばしょ
 MAPNAME_TOOIBASYO	とおいばしょ
-MAPNAME_INTRUDE	[VAR_PLAYER]の[VAR]
+MAPNAME_INTRUDE	[VAR 0100(0000)]の[VAR 0105(0001)]
 MAPNAME_T1KANOKO	カノコタウン
 MAPNAME_T2KARAKUSA	カラクサタウン
 MAPNAME_C1SANYOU	サンヨウシティ
@@ -7237,17 +7237,17 @@ Text File : sp_api_jpn.msbt
 ~~~~~~~~~~~~~~~
 sp_api_error_title	つうしんエラー
 sp_api_simple_error	エラー
-sp_api_error_dialog_text	つうしんエラーが　はっせいしました [VAR]
-sp_api_retry_dialog_text	つうしんエラーが　はっせいしました [VAR] リトライを　おこないますか
+sp_api_error_dialog_text	つうしんエラーが　はっせいしました [VAR 0200(0000)]
+sp_api_retry_dialog_text	つうしんエラーが　はっせいしました [VAR 0200(0000)] リトライを　おこないますか
 sp_api_error_goto_title_dialog_text	つうしんエラーが　はっせいしました タイトルがめんに　もどります
 sp_api_dataupdate	データが　こうしんされました タイトルがめんに　もどります
 sp_api_dlsize_title	ダウンロードかくにん
-sp_api_dlsize_mb_text	[VAR]MB　ダウンロードしますが よろしいですか？
-sp_api_dlsize_kb_text	[VAR]KB　ダウンロードしますが よろしいですか？
-sp_api_dlsize_b_text	[VAR]Byte　ダウンロードしますが よろしいですか？
+sp_api_dlsize_mb_text	[VAR 0200(0000)]MB　ダウンロードしますが よろしいですか？
+sp_api_dlsize_kb_text	[VAR 0200(0000)]KB　ダウンロードしますが よろしいですか？
+sp_api_dlsize_b_text	[VAR 0200(0000)]Byte　ダウンロードしますが よろしいですか？
 sp_api_lack_storage	たんまつの　あきようりょうが　たりません ふようなデータを　さくじょしてください
 sp_api_break_file	ファイルが　はそんしています タイトルがめんの　メニューから キャッシュを　クリアしてください
-sp_api_maintenance_010	ただいま　メンテナンス中です 終了予定時刻は　下記の通りです [VAR_YEAR]/[VAR_MONTH]/[VAR_DAY]　[VAR]:[VAR]　
+sp_api_maintenance_010	ただいま　メンテナンス中です 終了予定時刻は　下記の通りです [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]　
 sp_api_maintenance_020	ただいま　メンテナンス中です メンテナンス終了まで　しばらくお待ちください
 sp_api_maintenance_030	ただいま　緊急メンテナンス中です ご迷惑をおかけして申し訳ございませんが メンテナンス終了まで　しばらくお待ちください
 sp_api_400_8809	ニンテンドーアカウントで ログインできませんでした  ニンテンドーアカウントのQ&Aを ごかくにんください
@@ -7443,7 +7443,7 @@ sp_friend_01007	フレンドコードを　にゅうりょく
 sp_friend_01008	フレンドに　ついかしたい　ユーザーの ２じげんコードを　よみこんでください
 sp_friend_01009	２じげんコードを　よみこむ
 sp_friend_01010	タップしてフレンドコードをにゅうりょく
-sp_friend_01011	[VAR_PLAYER]  に　フレンドしんせいを　おこないました しょうにんされるまで　おまちください
+sp_friend_01011	[VAR 0100(0000)]  に　フレンドしんせいを　おこないました しょうにんされるまで　おまちください
 sp_friend_01012	フレンドしんせい
 sp_friend_01013	あなたの２じげんコード
 sp_friend_02001	フレンドしょうにん
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_jpn.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	ポケモンバンク Ver[VAR]いじょう
-sp_migration_00003	Pokémon HOME あと　[VAR]ひき
+sp_migration_00002	ポケモンバンク Ver[VAR 0200(0000)]いじょう
+sp_migration_00003	Pokémon HOME あと　[VAR 0200(0000)]ひき
 sp_migration_00004	ニンテンドー3DSの　『ポケモンバンク』から ポケモンを　つれてくることが　できます
 sp_migration_00005	いちど　つれてきたポケモンは ニンテンドー3DSに　もどせなくなります！
 sp_migration_00006	ひっこしを　はじめる！
@@ -7522,7 +7522,7 @@ sp_migration_04002	じゅんびOK！
 sp_migration_05001	ひっこしパスワードは <B>３ふん</B>しか　つかえません じかんないに　『ポケモンバンク』に にゅうりょく　してください
 sp_migration_05002	ひっこしパスワードを　ひょうじすると <B>３ふんかん</B> まえのがめんに　もどれなくなります！
 sp_migration_05003	ひっこしパスワードを ひょうじする！
-sp_migration_06001	ポケモンの　あきスペースが <B>[VAR_YEAR]ひきぶん</B>　たりません！
+sp_migration_06001	ポケモンの　あきスペースが <B>[VAR 0203(0000)]ひきぶん</B>　たりません！
 sp_migration_06002	ポケモンを　せいとんする　などして じゅうぶんな　あきを　よういしてください
 sp_migration_06003	ひっこしを　ちゅうしします
 sp_migration_07001	げんざい　ごしようちゅうの ニンテンドーアカウントは ニンテンドーネットワークIDと れんけいして　いません
@@ -7540,7 +7540,7 @@ sp_migration_11001	ひっこしが　おわりました！
 sp_migration_11002	Pokémon HOMEへ　ようこそ！！
 sp_migration_12001	プレゼント
 sp_migration_12002	はじめてのひっこし
-sp_migration_12003	[VAR_YEAR]ポイント
+sp_migration_12003	[VAR 0203(0000)]ポイント
 sp_migration_13001	ニンテンドーネットワークＩＤで　 ひっこしを　するには　 ニンテンドーアカウントと　 れんけいしている　ひつようがあります  ニンテンドーアカウントとの　 れんけいは　せっていから　 おこなうこと　ができます
 sp_migration_13002	ひっこしに　しっぱいしました
 
@@ -7584,7 +7584,7 @@ sp_monbo_gift_0001_001	『Pokémon HOME』の　アップデートきねんに �
 sp_monbo_gift_0001_002	「ふしぎなおくりもの」から うけとって　ほしいモン！
 sp_monbo_gift_0001_003	ソフトれんけいの　きねんに プレゼントが　あるモン！
 sp_monbo_gift_0002_001	どのポケモンにするか えらんでモン！
-sp_monbo_gift_0002_002	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいモン？
+sp_monbo_gift_0002_002	[VAR 0104(0000)]の　[VAR 0101(0001)]　で いいモン？
 sp_monbo_get_calendar_0001_001	ここは　ゲットカレンダー！ 『Pokémon HOME』に　あずけているポケモンが つかまえたひにちじゅんに　ならんでいるモン！
 sp_monbo_get_calendar_0001_002	きねんびには　すきなひにちを とうろく・へんしゅうすることが　できるモン！ とうろくしたきねんびに　つかまえたポケモンを しぼりこみできるモン！
 sp_monbo_get_calendar_0001_003	じぶんだけの　おもいでのひを きねんびに　とうろくするといいモン！
@@ -7667,7 +7667,7 @@ sp_oak_00002	わたしの　すがたは　うつっているかね？  ……�
 sp_oak_00003	わたしは　いだいな　ポケモンけんきゅうか ダイオーキド！ はじめまして　よろしくな！
 sp_oak_00004	キミは　いま　わたしが　かいはつした 『Pokémon HOME』に　アクセスしている！ ビッグな　きねんび　となったぞ！
 sp_oak_00005	おっと　しつれい！ まずは　キミの　なまえを おしえて　くれないか？
-sp_oak_00006	ふむ……　キミは [VAR_PLAYER]　と　いうんだな！ 
+sp_oak_00006	ふむ……　キミは [VAR 0100(0000)]　と　いうんだな！ 
 sp_oak_00007	わたしの　ゆめは　せかいに　すむ あらゆる　ポケモンが　とうろくされた ビッグな　ポケモンずかんの　かんせいだ！
 sp_oak_00008	だが　ハッキリいって　わたし　ひとりで じつげん　するのは　むずかしい…… そこで！　キミの　チカラを　かしてくれい！
 sp_oak_00009	この　『Pokémon HOME』に ポケモンを　あつめる　ことで ポケモンずかんが　うまって　いくのだ！
@@ -7679,7 +7679,7 @@ sp_oak_00014	ほかにも　ポケモンバトルを　たのしむ せかいじ
 sp_oak_00015	ふむ　わたしが　かいはつした ビッグな　きのう　に おどろいている　ようだな！
 sp_oak_00016	……なに？　ポケモンを　もっていない？ よし！　とくべつに 1ぴき　プレゼント　するぞ！
 sp_oak_00017	どの　ポケモンにするか えらんでくれい！
-sp_oak_00018	[VAR_PKCATEGORY]の　[VAR_PKNAME]　で いいのかね？
+sp_oak_00018	[VAR 0104(0000)]の　[VAR 0101(0001)]　で いいのかね？
 sp_oak_00019	オーケイ！　『Pokémon HOME』の くわしい　きのう　は モンボーに　きいてくれい！
 sp_oak_00020	モンボーは　キミの　ポケモンと　 いっしょに　マイルームで　 まって　おるぞ！
 sp_oak_00021	オーケイ！　 それでは　よろしくたのんだぞ！
@@ -7724,7 +7724,7 @@ sp_option_language_select_please	言語を　選択して　ください
 sp_option_language_select_00002	※ちいさな　おこさまは　ほごしゃのかたと  いっしょに　えらんで　ください
 sp_option_language_select_00003	選択した 言語の 確認
 sp_option_country_select_00001	地域の　選択
-sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR_REGION]】</b>  ※あとから　変更できます
+sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR 0105(0000)]】</b>  ※あとから　変更できます
 sp_option_country_select_00003	お住まいの地域を　選択してください
 sp_option_country_select_00004	選択した　地域の　確認
 sp_option_country_reselect_title	地域設定の更新
@@ -7961,13 +7961,13 @@ sp_plan_terms	りようきやく
 sp_plan_fund_settlement_method	しきんけっさいほうに もとづく　ひょうじ
 sp_plan_specifiedcommercial_transaction_law	とくていしょうとりひきほうに もとづく　ひょうじ
 sp_plan_change	プランかくにん
-sp_plan_buy_text	[VAR]を　こうにゅうします
+sp_plan_buy_text	[VAR 0200(0000)]を　こうにゅうします
 sp_plan_change_disable_text	他のストアで　購入されています プレミアムプランの　有効期限は 購入したストアで　ご確認ください
 sp_plan_restored_title	プランの　ふくげん
 sp_plan_restored_text	プランの　ふくげんを　おこないました
 sp_plan_buy_failed_title	こうにゅうエラー
-sp_plan_buy_failed_text	こうにゅうしょりに　しっぱいしました [VAR]
-sp_plan_buy_failed_goto_title_text	こうにゅうしょりに　しっぱいしました タイトルへ　もどります [VAR]
+sp_plan_buy_failed_text	こうにゅうしょりに　しっぱいしました [VAR 0200(0000)]
+sp_plan_buy_failed_goto_title_text	こうにゅうしょりに　しっぱいしました タイトルへ　もどります [VAR 0200(0000)]
 sp_plan_not_Initalized_text	かきんシステムが　しょきかされていません タイトルへ　もどります
 sp_plan_not_Initalizing_text	かきんシステムを　しょきかちゅうです
 sp_plan_help_button	プレミアムプランヘルプ
@@ -7992,19 +7992,19 @@ sp_playerlog_00002	GTSで　こうかんしました
 sp_playerlog_00003	グループこうかんを　おこないました
 sp_playerlog_00004	ミラクルボックスで　こうかんしました
 sp_playerlog_00005	ふしぎなおくりもので　うけとりました
-sp_playerlog_00006	[VAR_YEAR]ポイント　つかいました
-sp_playerlog_00007	[VAR_YEAR]ポイント　てにいれました
-sp_playerlog_00008	[VAR_YEAR]ポイント　BPにひきかえました
+sp_playerlog_00006	[VAR 0203(0000)]ポイント　つかいました
+sp_playerlog_00007	[VAR 0203(0000)]ポイント　てにいれました
+sp_playerlog_00008	[VAR 0203(0000)]ポイント　BPにひきかえました
 sp_playerlog_00009	<b>フレンドこうかん</b>を　おこないました
 sp_playerlog_00010	<b>GTS</b>で　こうかんしました
 sp_playerlog_00011	<b>グループこうかん</b>を　おこないました
 sp_playerlog_00012	<b>ミラクルボックス</b>で　こうかんしました
-sp_playerlog_00013	[VAR]で　[VAR_PLAYER]が　あずけました
-sp_playerlog_00014	[VAR]で　[VAR_PLAYER]が　ひきだしました
+sp_playerlog_00013	[VAR 0200(0000)]で　[VAR 0100(0001)]が　あずけました
+sp_playerlog_00014	[VAR 0200(0000)]で　[VAR 0100(0001)]が　ひきだしました
 sp_playerlog_00015	にがしました
 sp_playerlog_00016	ふしぎなおくりもので　うけとりました
-sp_playerlog_00017	[VAR_YEAR]ひき ポケモンてんそうしました
-sp_playerlog_00018	[VAR_PLAYER]の[VAR_PLAYER]
+sp_playerlog_00017	[VAR 0203(0000)]ひき ポケモンてんそうしました
+sp_playerlog_00018	[VAR 0102(0001)]の[VAR 0100(0000)]
 sp_playerlog_00019	おくったポケモン
 sp_playerlog_00020	うけとったポケモン
 sp_playerlog_00021	うけとったひと
@@ -8086,39 +8086,39 @@ sp_trade_00010_vgo	おおくのひとが　もとめている　ポケモン （
 sp_trade_00011_vgo	おおくのひとが　もとめている　ポケモン
 sp_trade_00012_vgo	たくさん こうかんされている ポケモン
 sp_trade_00013_vgo	こうかんせいりつした　めずらしいポケモン
-sp_trade_01001	[VAR_PKNAME]を　どうしますか？
+sp_trade_01001	[VAR 0102(0000)]を　どうしますか？
 sp_trade_01002	つよさをみる
 sp_trade_01003	GTSに あずけている　ポケモンです えらぶことは　できません
 sp_trade_01004	ミラクルボックスに あずけている　ポケモンです えらぶことは　できません
 sp_trade_01005	そうさできません
 sp_trade_01006	おきにいりの　ポケモンです えらぶことは　できません
-sp_trade_02001	[VAR_PKNAME]を　[VAR_PLAYER]へ　おくります！ バイバイ　[VAR_PKNAME]
-sp_trade_02002	[VAR_PLAYER]から [VAR_PKNAME]が　おくられてきた！
-sp_trade_02003	[VAR_PKNAME]を　かわいがって　あげてね！
-sp_trade_02004	[VAR_PKNAME]を　ＧＴＳへ　あずけます！ バイバイ　[VAR_PKNAME]
-sp_trade_02005	[VAR_PKNAME]が ＧＴＳから　やってきた！
-sp_trade_02006	[VAR_PKNAME]を　ひきとった！
-sp_trade_02007	おかえり　[VAR_PKNAME]！
-sp_trade_02008	[VAR_PKNAME]を ミラクルボックスへ　あずけます！ バイバイ　[VAR_PKNAME]
-sp_trade_02009	[VAR_PKNAME]が ミラクルボックスから　やってきた！
+sp_trade_02001	[VAR 0102(0000)]を　[VAR 0100(0001)]へ　おくります！ バイバイ　[VAR 0102(0000)]
+sp_trade_02002	[VAR 0100(0001)]から [VAR 0102(0000)]が　おくられてきた！
+sp_trade_02003	[VAR 0102(0000)]を　かわいがって　あげてね！
+sp_trade_02004	[VAR 0102(0000)]を　ＧＴＳへ　あずけます！ バイバイ　[VAR 0102(0000)]
+sp_trade_02005	[VAR 0102(0000)]が ＧＴＳから　やってきた！
+sp_trade_02006	[VAR 0102(0000)]を　ひきとった！
+sp_trade_02007	おかえり　[VAR 0102(0000)]！
+sp_trade_02008	[VAR 0102(0000)]を ミラクルボックスへ　あずけます！ バイバイ　[VAR 0102(0000)]
+sp_trade_02009	[VAR 0102(0000)]が ミラクルボックスから　やってきた！
 sp_trade_03001	エラーが　はっせいしました こうかんトップに　もどります
 sp_trade_03002	つうしんが　せつだん　されました こうかんトップに　もどります
 sp_trade_03003	そうこうかんすう
 sp_trade_03004	トレードランキング
 sp_trade_03005	とくべつな　ポケモンなので こうかんに　だすことが　できません
 sp_trade_03006	エラーがはっせいしました しばらくじかんをおいてからリトライしてください
-sp_trade_miracle_00001	[VAR_PKNAME]を　どうしますか？
+sp_trade_miracle_00001	[VAR 0102(0000)]を　どうしますか？
 sp_trade_miracle_00002	あずける
 sp_trade_miracle_00003	ようすをみる
 sp_trade_miracle_00004	とりだす
 sp_trade_miracle_00005	GTSに あずけている　ポケモンです えらぶことは　できません
 sp_trade_miracle_00006	ミラクルボックスに あずけている　ポケモンです えらぶことは　できません
-sp_trade_miracle_00007	[VAR_PKNAME]を ミラクルボックスから　ひきとりますか？
-sp_trade_miracle_00008	[VAR_PKNAME]は すでに　こうかんされています
+sp_trade_miracle_00007	[VAR 0102(0000)]を ミラクルボックスから　ひきとりますか？
+sp_trade_miracle_00008	[VAR 0102(0000)]は すでに　こうかんされています
 sp_trade_miracle_00010	こうかんされました！
 sp_trade_miracle_00011	とうろく　できませんでした  すこし　じかんをおいてから もういちど　おためしください
 sp_trade_miracle_00013_v3	せんたくしたポケモンを　どうしますか？
-sp_trade_miracle_00013_1_v3	（[VAR]ひきを　せんたくしています）
+sp_trade_miracle_00013_1_v3	（[VAR 0200(0000)]ひきを　せんたくしています）
 sp_trade_miracle_00014_v3	ポケモンを　あずける
 sp_trade_miracle_00015_v3	ポケモンの　つよさを　みる
 sp_trade_miracle_00016_v3	あきすういじょうの　ポケモンを せんたくすることは　できません
@@ -8139,13 +8139,13 @@ sp_trade_group_00010	２じげんコードでさんか
 sp_trade_group_00011	おまかせさんか
 sp_trade_group_00012	でグループをさくせいします
 sp_trade_group_00013	グループからぬけました
-sp_trade_group_00014	[VAR_PLAYER]のグループ
+sp_trade_group_00014	[VAR 0100(0000)]のグループ
 sp_trade_group_00015	グループＩＤ
 sp_trade_group_00016	コードをきょうゆう
 sp_trade_group_00017	グループの２じげんコード
 sp_trade_group_00018	グループからぬける
 sp_trade_group_00019	ポケモンをえらぶ
-sp_trade_group_00020	[VAR_PLAYER] をどうしますか？
+sp_trade_group_00020	[VAR 0100(0000)] をどうしますか？
 sp_trade_group_00021	こうかんするポケモンは
 sp_trade_group_00023	こうかんをつづけますか？
 sp_trade_group_00024	つづける
@@ -8166,7 +8166,7 @@ sp_trade_group_00038	たいしつ
 sp_trade_group_00039	ほかのユーザーを　まっています
 sp_trade_group_change_plan_confirm	グループを　さくせいするには　 プレミアムプランの　かにゅうが　ひつようです  プランへんこうを　しますか？
 sp_trade_firend_00001	GPSをしょきかちゅうです
-sp_trade_firend_00002	[VAR_PLAYER]さんを まっています
+sp_trade_firend_00002	[VAR 0100(0000)]さんを まっています
 sp_trade_firend_00003	せつぞくたいきちゅう
 sp_trade_firend_00004	こうかんする
 sp_trade_firend_00005	じゅんびかんりょう
@@ -8187,7 +8187,7 @@ sp_trade_gts_00009	でんせつや　まぼろしの　ポケモンを さがし
 sp_trade_gts_00010	このじょうけんでさがす
 sp_trade_gts_00011	けんさくけっか
 sp_trade_gts_00012	していしたポケモンは　そんざいしません
-sp_trade_gts_00013	[VAR_PLAYER]さんの　じょうほう
+sp_trade_gts_00013	[VAR 0100(0000)]さんの　じょうほう
 sp_trade_gts_00014	こうかんにだす
 sp_trade_gts_00015	あいてのほしいポケモンを もっていません
 sp_trade_gts_00016	こうかんずみのポケモンです
@@ -8197,10 +8197,10 @@ sp_trade_gts_00019_v1	ほしいポケモンに　とくべつな　ポケモン�
 sp_trade_gts_00020_v3	じぶんが　もっていない　ポケモンを さがしているひとを　ふくむ
 sp_trade_gts_00021_v3	でんせつや　まぼろしなどの　とくべつな ポケモンを　さがしているひとを　ふくむ
 sp_trade_gts_00022_v4	ほしいポケモンに　とくべつな　ポケモンが　 していされています とくべつな　ポケモンは　こうかんできません えらびなおしてください　
-sp_trade_gts_00023_v6	あずけたひ：[VAR_YEAR]ねん[VAR_MONTH]がつ[VAR_DAY]にち
+sp_trade_gts_00023_v6	あずけたひ：[VAR 0203(0000)]ねん[VAR 0201(0001)]がつ[VAR 0201(0002)]にち
 sp_trade_gts_00024_v6	もとめられているポケモン
-sp_trade_gts_00027_v6	[VAR_PKNAME] （[VAR_PKFORM]）
-sp_trade_gts_00028_v6	[VAR_PKNAME]（[VAR_PKFORM]）
+sp_trade_gts_00027_v6	[VAR 0101(0000)] （[VAR 01D4(0001)]）
+sp_trade_gts_00028_v6	[VAR 0101(0000)]（[VAR 01D4(0001)]）
 sp_trade_gts_00029_v6	していしたポケモンを もとめているユーザーはいません
 sp_trade_gts_search_title_v12	つれていける タイトル
 sp_trade_gts_01001	こうかんを　してください よろしくおねがいします
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	フレンドこうかん
 sp_ui_record	きろく
 sp_ui_player_log	てちょう
 sp_ui_library_progress_v10	ずかんのしんちょく
-sp_ui_library_progress_frac_v10	[VAR]/
+sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
 sp_ui_national_library	ぜんこくずかん
 sp_ui_software_library_v10	ソフトずかん
 sp_ui_other_library_v10	そのた
@@ -8343,7 +8343,7 @@ sp_ui_details	しょうさい
 sp_ui_input_name_please	なまえを　にゅうりょく　してください
 sp_ui_input_name_attention	せんたくした　げんごで にゅうりょく　してください
 sp_ui_input_nickname_confirm_01	ポケモンの　ニックネーム
-sp_ui_input_nickname_confirm_02	[VAR_PKNAME]に ニックネームを　つけますか？
+sp_ui_input_nickname_confirm_02	[VAR 0101(0000)]に ニックネームを　つけますか？
 sp_ui_input_nickname	ニックネームにゅうりょく
 sp_ui_input_nickname_00	タップしてニックネームをにゅうりょく
 sp_ui_input_nickname_please	ニックネームを　にゅうりょくしてください （さいだい６もじ）
@@ -8378,7 +8378,7 @@ sp_ui_title_nalink_complete_v2	ニンテンドーアカウントに　ログイ�
 sp_ui_title_nalink_error_v2	れんけいしている　ニンテンドーアカウントと ログインされた　ニンテンドーアカウントが ちがいます
 sp_ui_title_license	権利表記
 sp_ui_ngname_confirm_title	ユーザーめいのへんこう
-sp_ui_ngname_confirm_body	しようしていたユーザーめいに つかえないことばがふくまれているため、 ユーザーめいをへんこうしてください  へんこうまえのユーザーめい [VAR_PLAYER]
+sp_ui_ngname_confirm_body	しようしていたユーザーめいに つかえないことばがふくまれているため、 ユーザーめいをへんこうしてください  へんこうまえのユーザーめい [VAR 0100(0000)]
 sp_ui_downlod_0001	きどうちゅうです
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	げんご
 sp_ui_my_parent_v6	マイおや／IDNo.
 sp_ui_my_parent_set_v6	マイおや／IDNo.
 sp_ui_my_parent_no_set_v6	マイおや／IDNo.　いがい
-sp_ui_filter_parent	[VAR_PLAYER]:[VAR_TID]
+sp_ui_filter_parent	[VAR 0100(0001)]:[VAR 0205(0000,0000)]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
 sp_ui_filter_seikaku_3_m	ゆうかん＋ミント
@@ -8523,8 +8523,8 @@ sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	かいじょ
 sp_ui_goodby	にがす 
 sp_ui_goodby_confirm	ほんとうに　にがしますか？  ※おきにいりのポケモンを にがすことは　できません
-sp_ui_goodby_singular	[VAR_PKNAME]を　にがしてあげた ばいばい　[VAR_PKNAME]！
-sp_ui_goodby_plural	[VAR_PKNAME]たちを　にがしてあげた ばいばい　みんな！
+sp_ui_goodby_singular	[VAR 0102(0000)]を　にがしてあげた ばいばい　[VAR 0102(0000)]！
+sp_ui_goodby_plural	[VAR 0102(0000)]たちを　にがしてあげた ばいばい　みんな！
 sp_ui_set_label_max	ラベルがいっぱいの　ポケモンがいます
 sp_ui_lump_favorite	まとめて　おきにいりにする
 sp_ui_lump_favorite_release	まとめて　おきにいりかいじょする
@@ -8537,8 +8537,8 @@ sp_ui_bank_change_plan_confirm	すべてのポケモンを　ひょうじする�
 sp_ui_bank_favall	※おきにいりのポケモンを にがすことは　できません！
 sp_ui_lastet_update	さいしん30
 sp_ui_select_max_v3	ポケモンの　せんたくは １どに　１００ひきまでです
-sp_ui_no_num	No.[VAR]
-sp_ui_lv_num	Lv.[VAR]
+sp_ui_no_num	No.[VAR 0200(0000)]
+sp_ui_lv_num	Lv.[VAR 0200(0000)]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	トレーナーメモ
 sp_ui_available_title	つれていけるタイトル
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	まずまずの　のうりょく
 sp_ui_total_evaluate_02	へいきん　いじょうの　のうりょく
 sp_ui_total_evaluate_03	そうとう　ゆうしゅうな　のうりょく
 sp_ui_total_evaluate_04	すばらしい　のうりょく
-sp_ui_lumpribbon_num	[VAR]こ
+sp_ui_lumpribbon_num	[VAR 0200(0000)]こ
 sp_ui_parent_and_id_v4	おや　と　IDNo.
-sp_ui_trainermemo_01_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で であった。
-sp_ui_trainermemo_02_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で であった　ようだ。
-sp_ui_trainermemo_03_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で うんめいてきな　であいをした。
-sp_ui_trainermemo_04_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち [VAR_LOCATION]で うんめいてきな　であいをした　ようだ。
-sp_ui_trainermemo_05_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち なつかしの　[VAR_LOCATION]で であった　ようだ。
-sp_ui_trainermemo_06_v04	[VAR_YEAR]ねん[VAR_DAY]がつ[VAR]にち なつかしの　[VAR_LOCATION]で うんめいてきな　であいをした　ようだ。
+sp_ui_trainermemo_01_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で であった。
+sp_ui_trainermemo_02_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で であった　ようだ。
+sp_ui_trainermemo_03_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で うんめいてきな　であいをした。
+sp_ui_trainermemo_04_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で うんめいてきな　であいをした　ようだ。
+sp_ui_trainermemo_05_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち なつかしの　[VAR 0105(0000)]で であった　ようだ。
+sp_ui_trainermemo_06_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち なつかしの　[VAR 0105(0000)]で うんめいてきな　であいをした　ようだ。
 sp_ui_encountedplace_v10	であった　ばしょ
 sp_ui_encountedplace_pokeshifter_v10	ポケシフター
 sp_ui_encountedplace_nostalgickanto_v10	なつかしの　カントーちほう
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	ラベルへんしゅう
 sp_ui_label_seting_please	ラベルの　なまえと　いろを　せっていしてください
 sp_ui_label_name	ラベルめい
 sp_ui_label_input_please	さいだい８もじ
-sp_ui_label_input_limit_v1	さいだい[VAR]もじ
+sp_ui_label_input_limit_v1	さいだい[VAR 0200(0000)]もじ
 sp_ui_label_over_size	もじすうオーバーです
 sp_ui_label_cant_use_word	しようできない　もじです
 sp_ui_icon	アイコン
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	かべがみの　せってい
 sp_ui_seal_00009	このかべがみを　せっていしますか？
 sp_ui_seal_00010	シールを　はがす
 sp_ui_seal_00011	シールを　リストに　もどしますか？
-sp_ui_seal_00012	[VAR] は これいじょう はれません
+sp_ui_seal_00012	[VAR 0109(0000)] は これいじょう はれません
 sp_ui_seal_00013	へんこうが　あります ないようを　ほぞんしますか？
 sp_ui_seal_00014	シールを　すべて　はがします。 よろしいですか？
 sp_ui_seal_filter_01_01	はれるシール
@@ -8609,7 +8609,7 @@ sp_ui_gift_00001	エリアチェック
 sp_ui_gift_00002	シリアルコード
 sp_ui_gift_00005	２じげんコード
 sp_ui_gift_00004	しゅるい
-sp_ui_gift_00006	ゆうこうきげん ： [VAR]
+sp_ui_gift_00006	ゆうこうきげん ： [VAR 0200(0000)]
 sp_ui_gift_00007	うけとりずみ
 sp_ui_gift_00008	うけとれるソフト
 sp_ui_gift_00009	うけとりに　しっぱいしました
@@ -8619,8 +8619,8 @@ sp_ui_gift_00012	タップしてシリアルコードをにゅうりょく
 sp_ui_gift_seal	シール
 sp_ui_gift_point	ポイント
 sp_ui_gift_0013_v1	なし
-sp_ui_gift_0014_v5	うけとりずみ ： [VAR]
-sp_ui_gift_0015_v5	[VAR] ポイント
+sp_ui_gift_0014_v5	うけとりずみ ： [VAR 0200(0000)]
+sp_ui_gift_0015_v5	[VAR 0200(0000)] ポイント
 sp_ui_gift_nfc_0001	NFCよみとり
 sp_ui_gift_nfc_0002	NFCタグに かざしてください
 sp_ui_gift_nfc_0003	よみとりに　せいこうしました！ プレゼントボックスを　かくにんしてください
@@ -8633,11 +8633,11 @@ sp_ui_gift_01001	このエリアで　うけとれるもの
 sp_ui_gift_01002	プレゼントボックスで　うけとってね！
 sp_ui_gift_01003	プレゼントボックス
 sp_ui_gift_01004	どうぐ
-sp_ui_gift_01005	あと[VAR]じかん
-sp_ui_gift_01006	あと[VAR]ふん
+sp_ui_gift_01005	あと[VAR 0200(0000)]じかん
+sp_ui_gift_01006	あと[VAR 0200(0000)]ふん
 sp_ui_gift_01007	きげんぎれ
 sp_ui_gift_02001	ゆうこうきげん
-sp_ui_gift_02002	あと[VAR]にち
+sp_ui_gift_02002	あと[VAR 0200(0000)]にち
 sp_ui_gift_02003	ふしぎなおくりもの
 sp_ui_gift_02004	でうけとれます
 sp_ui_gift_02005	でうけとりずみです
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　にゅうりょくしてください
 sp_ui_gift_select_title	えらんだポケモンの　かくにん
-sp_ui_gift_select_confirm	ほんとうに　[VAR_PKNAME]　で いいですか？  ※このあと　えらんだポケモンを へんこうすることは　できません
+sp_ui_gift_select_confirm	ほんとうに　[VAR 0101(0000)]　で いいですか？  ※このあと　えらんだポケモンを へんこうすることは　できません
 sp_ui_gift_select_reselect	えらびなおす
 sp_ui_achieve_dialog_all_clear	たっせいずみ
 sp_ui_achieve_dialog_header_title	たっせいほうしゅう
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	ひょうじできる　じっせきはありません
 sp_ui_achieve_join_ok	じっせきを　たっせい　しました
 sp_ui_achieve_join_ng	たっせいできる　じっせきは　ありません
 sp_ui_achieve_hide_seal	じっせきを　たっせいして シールを　ゲットしましょう！
-sp_ui_report_01	[VAR_YEAR]ひき
-sp_ui_report_02	[VAR_YEAR]ポイント
+sp_ui_report_01	[VAR 0203(0000)]ひき
+sp_ui_report_02	[VAR 0203(0000)]ポイント
 sp_ui_report_03	あずけた　ポケモンのかず
 sp_ui_report_04	ひきだした　ポケモンのかず
 sp_ui_report_05	かくとくポイントの　るいけい
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	マイルームへ
 sp_ui_voice_input	おんせいを　にんしきちゅう…
 sp_ui_voice_input_error	エラーです  マイクアイコンを　クリックして もういちど　おためしください
 sp_ui_recognizer_limit_error	おんせいにんしきの　１にちのしようかいすうが げんかいに　たっしました
-sp_ui_myroom_point_number	[VAR_YEAR]p
+sp_ui_myroom_point_number	[VAR 0203(0000)]p
 sp_ui_app_desc_0001_v3	『Pokémon HOME』とは
 sp_ui_app_desc_0002_v3	「すべてのポケモンが集まる場所」をコンセプトに、 Nintendo Switchとスマートフォンを 対象としたクラウドサービスです。
 sp_ui_app_desc_0003_v3	連携するソフトやサービスを通じて、 『ポケットモンスター』シリーズで 仲間にしたポケモンたちを預けることができたり、 一部のソフトには、『Pokémon HOME』からポケモンを 送ったりすることができます。 また、世界中の人と ポケモンを交換することもできます。 
@@ -8767,10 +8767,10 @@ sp_ui_get_calendar_v5	ゲットカレンダー
 sp_ui_calendar_v5	カレンダー
 sp_ui_memory_v5	きねんび
 sp_ui_calendar_year_v5	ねん
-sp_ui_calendar_numerical_year_v5	[VAR_YEAR]ねん
-sp_ui_calendar_numerical_year_month_v5	[VAR_YEAR]ねん[VAR_MONTH]がつ
-sp_ui_calendar_numerical_month_day_v5	[VAR]がつ[VAR_MONTH]にち
-sp_ui_calendar_numerical_date_v5	[VAR_YEAR]ねん[VAR_MONTH]がつ[VAR_DAY]にち
+sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]ねん
+sp_ui_calendar_numerical_year_month_v5	[VAR 0203(0000)]ねん[VAR 0201(0001)]がつ
+sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]がつ[VAR 0201(0001)]にち
+sp_ui_calendar_numerical_date_v5	[VAR 0203(0000)]ねん[VAR 0201(0001)]がつ[VAR 0201(0002)]にち
 sp_ui_calendar_illegal_date_v5	ふめいなひにち
 sp_ui_calendar_date_v5	ひづけ
 sp_ui_calendar_unspecified_v5	きょうと　おなじひづけの　きねんび
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	ちょっぴり　みえっぱり。
 trmemo_03_06_02	まけんきが　つよい。
 trmemo_03_06_03	まけずぎらい。
 trmemo_03_06_04	ちょっぴり　ごうじょう。
-trmemo_bank_01_01	[VAR_LOCATION]で であった。
-trmemo_bank_01_02	[VAR_LOCATION]で であった　ようだ。
-trmemo_bank_02_01	[VAR_LOCATION]で うんめいてきな であいをした。
-trmemo_bank_02_02	[VAR_LOCATION]で うんめいてきな であいをした　ようだ。
-trmemo_bank_03_01	なつかしの　[VAR_LOCATION]で であった。
-trmemo_bank_03_02	なつかしの　[VAR_LOCATION]で であった　ようだ。
-trmemo_bank_04_01	なつかしの　[VAR_LOCATION]で うんめいてきな であいをした。
-trmemo_bank_04_02	なつかしの　[VAR_LOCATION]で うんめいてきな であいをした　ようだ。
+trmemo_bank_01_01	[VAR 0105(0000)]で であった。
+trmemo_bank_01_02	[VAR 0105(0000)]で であった　ようだ。
+trmemo_bank_02_01	[VAR 0105(0000)]で うんめいてきな であいをした。
+trmemo_bank_02_02	[VAR 0105(0000)]で うんめいてきな であいをした　ようだ。
+trmemo_bank_03_01	なつかしの　[VAR 0105(0000)]で であった。
+trmemo_bank_03_02	なつかしの　[VAR 0105(0000)]で であった　ようだ。
+trmemo_bank_04_01	なつかしの　[VAR 0105(0000)]で うんめいてきな であいをした。
+trmemo_bank_04_02	なつかしの　[VAR 0105(0000)]で うんめいてきな であいをした　ようだ。
 
 ~~~~~~~~~~~~~~~
 Text File : typename_jpn.msbt
@@ -17566,7 +17566,7 @@ MAPNAME_3DSLINK	ポケモンリンク
 Text File : zkn_form_jpn.msbt
 ~~~~~~~~~~~~~~~
 ZKN_FORM_000_000	
-ZKN_FORM_double_form	[VAR_PKFORM]・[VAR_PKFORM]
+ZKN_FORM_double_form	[VAR 01D4(0000)]・[VAR 01D4(0001)]
 ZKN_FORM_001_000	
 ZKN_FORM_002_000	
 ZKN_FORM_003_000	
