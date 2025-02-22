@@ -7457,7 +7457,7 @@ sp_friend_03008	Este usuario ha alcanzado el número máximo de amigos y no pued
 sp_friend_03009	¿Quieres añadir a este usuario a tu lista de amigos?
 sp_friend_03010	No puedes añadirte a tu lista de amigos.
 sp_friend_03012	¿Quieres eliminar esta solicitud de amistad?
-sp_friend_dialogmsg_00	¿Quieres eliminar a este usuario de tu lista de amigos?  No recibirá ninguna notificación.
+sp_friend_dialogmsg_00	¿Quieres eliminar a este usuario de tu lista de amigos?  [VAR FF00(0001)]No recibirá ninguna notificación.[VAR FF00(0000)]
 sp_friend_dialogmsg_01	Se ha actualizado tu lista de amigos.
 sp_friend_empty_list	Tu lista está vacía. Añade algunos amigos.
 
@@ -7486,7 +7486,7 @@ sp_labelcolor_18_v2	Rosa
 ~~~~~~~~~~~~~~~
 Text File : sp_languageconfirm_esp.msbt
 ~~~~~~~~~~~~~~~
-sp_languageconfirm_001	¿Seguro que quieres seleccionar este idioma? <b>Español (España)</b>  Podrás cambiar tu selección más adelante.
+sp_languageconfirm_001	¿Seguro que quieres seleccionar este idioma? <b>Español (España)</b>  [VAR FF00(0001)]Podrás cambiar tu selección más adelante.[VAR FF00(0000)]
 sp_languageconfirm_002	Sí
 sp_languageconfirm_003	No
 sp_languageconfirm_004	Confirmación del idioma
@@ -7499,8 +7499,8 @@ sp_memory_01	Día de Pokémon
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_esp.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	Banco de Pokémon Versión [VAR 0200(0000)] o superior
-sp_migration_00003	Pokémon HOME Espacios libres: [VAR 0200(0000)]
+sp_migration_00002	Banco de Pokémon Versión [VAR 0201(0000)] o superior
+sp_migration_00003	Pokémon HOME Espacios libres: [VAR 0202(0000)]
 sp_migration_00004	Aquí puedes trasladar Pokémon desde el Banco de Pokémon de Nintendo 3DS.
 sp_migration_00005	Ten en cuenta que no podrás enviar de vuelta a la consola Nintendo 3DS a los Pokémon que traslades a Pokémon HOME.
 sp_migration_00006	Iniciar traslado
@@ -7522,7 +7522,7 @@ sp_migration_04002	¡Listo!
 sp_migration_05001	Cada código de traslado solo es válido durante <B>tres minutos</B>, así que introdúcelo en el Banco de Pokémon antes de que expire.
 sp_migration_05002	Una vez generado el código de traslado, no podrás volver a la pantalla anterior hasta pasados los <B>tres minutos</B>.
 sp_migration_05003	Generar código de traslado
-sp_migration_06001	¡No hay espacio suficiente para todos tus Pokémon! Falta espacio para <B>[VAR 0203(0000)]Ā</B> Pokémon.
+sp_migration_06001	¡No hay espacio suficiente para todos tus Pokémon! Falta espacio para <B>[VAR 0203(0000)]</B> Pokémon.
 sp_migration_06002	Reorganiza tus Pokémon para que haya espacio suficiente.
 sp_migration_06003	Se cancelará el traslado.
 sp_migration_07001	Esta cuenta Nintendo no tiene ningún Nintendo Network ID vinculado.
@@ -7534,13 +7534,13 @@ sp_migration_09001	El código de traslado ha expirado.
 sp_migration_09002	Si quieres volver a intentarlo, utiliza un código de traslado nuevo.
 sp_migration_09003	Generar código de traslado nuevo
 sp_migration_10001	Se está llevando a cabo el traslado.
-sp_migration_10002	No podrás utilizar Pokémon HOME hasta que se haya completado el traslado.
+sp_migration_10002	[VAR FF00(0001)]No podrás utilizar Pokémon HOME hasta que se haya completado el traslado.[VAR FF00(0000)]
 sp_migration_10003	Espera a que finalice el traslado.
 sp_migration_11001	¡Traslado completado!
 sp_migration_11002	¡Te damos la bienvenida a Pokémon HOME!
 sp_migration_12001	Regalos
 sp_migration_12002	Primer traslado
-sp_migration_12003	[VAR 0203(0000)]Ā punto[VAR 1101(0000,0100)]s
+sp_migration_12003	[VAR 0203(0000)] punto[VAR 1101(0000,0100)]s
 sp_migration_13001	Es necesario haber vinculado tu cuenta Nintendo para efectuar el traslado con tu Nintendo Network ID.  Puedes vincular una cuenta Nintendo desde el menú de opciones.
 sp_migration_13002	Se ha producido un error al efectuar el traslado.
 
@@ -7721,10 +7721,10 @@ sp_option_terms_00011	Acepto la política de privacidad
 sp_option_language_title	Selección de idioma
 sp_option_language_select	¿Qué idioma quieres utilizar?
 sp_option_language_select_please	Elige un idioma.
-sp_option_language_select_00002	Si eres menor de edad, pídele a un adulto que te ayude a configurar estas opciones.
+sp_option_language_select_00002	[VAR FF00(0001)]Si eres menor de edad, pídele a un adulto que te ayude a configurar estas opciones.[VAR FF00(0000)]
 sp_option_language_select_00003	Confirmación del idioma
 sp_option_country_select_00001	Selección de región
-sp_option_country_select_00002	¿Seguro que quieres seleccionar esta región? <b>[VAR 0105(0000)]</b>  Podrás cambiar tu selección más adelante.
+sp_option_country_select_00002	¿Seguro que quieres seleccionar esta región? <b>[VAR 0105(0000)]</b>  [VAR FF00(0001)]Podrás cambiar tu selección más adelante.[VAR FF00(0000)]
 sp_option_country_select_00003	¿Cuál es tu región de residencia?
 sp_option_country_select_00004	Confirmación de la región
 sp_option_country_reselect_title	Actualización de la configuración de región
@@ -7732,7 +7732,7 @@ sp_option_country_reselect_body	Se ha actualizado la función de datos de combat
 sp_option_birthday_select_00001	Fecha de nacimiento
 sp_option_birthday_select_00002	Introduce tu fecha de nacimiento para verificar tu edad.
 sp_option_birthday_select_00003	La fecha de nacimiento no es correcta.
-sp_option_birthday_select_00004	No podrás cambiar tu fecha de nacimiento.
+sp_option_birthday_select_00004	[VAR FF00(0001)]No podrás cambiar tu fecha de nacimiento.[VAR FF00(0000)]
 sp_option_birthday_select_00005	Verificación de datos
 sp_option_birthday_select_00006	La fecha introducida no es correcta.
 sp_option_year	Año
@@ -7748,10 +7748,10 @@ sp_option_continue_00007	¿Qué pasa si no vinculo ninguna cuenta Nintendo?
 sp_option_continue_00008	Crear o vincular una cuenta
 sp_option_continue_00009	No vincular ninguna cuenta
 sp_option_continue_00010	¿Qué es una cuenta Nintendo?
-sp_option_continue_00011	Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, vincula tus cuentas ahora. <b>No podrás vincular tus cuentas más tarde.</b>  Si no vinculas ninguna cuenta Nintendo, no podrás realizar las siguientes operaciones:  ・Sincronizar la actividad de la versión de Pokémon HOME para Nintendo Switch con la versión de este dispositivo móvil. ・Transferir datos a otro dispositivo, como por ejemplo a un móvil nuevo. ・Trasladar Pokémon del Banco de Pokémon a Pokémon HOME.
+sp_option_continue_00011	[VAR FF00(0001)]Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, vincula tus cuentas ahora. <b>No podrás vincular tus cuentas más tarde.</b>[VAR FF00(0000)]  Si no vinculas ninguna cuenta Nintendo, no podrás realizar las siguientes operaciones:  ・Sincronizar la actividad de la versión de Pokémon HOME para Nintendo Switch con la versión de este dispositivo móvil. ・Transferir datos a otro dispositivo, como por ejemplo a un móvil nuevo. ・Trasladar Pokémon del Banco de Pokémon a Pokémon HOME.
 sp_option_continue_00012	Puedes vincular una cuenta Nintendo en cualquier momento desde el menú <b>Opciones</b> de Pokémon HOME.  Desde ahí, elige la pestaña <b>Cuenta</b> y busca la sección <b>Vinculación de una cuenta Nintendo</b> para vincularla.
 sp_option_continue_00013	Se ha producido un error al vincular tu cuenta. Vuelve a la pantalla anterior e inténtalo de nuevo.
-sp_option_continue_00014	Si vinculas tu cuenta Nintendo, podrás conectarte al Banco de Pokémon y a la versión de Pokémon HOME para Nintendo Switch.  Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, elige la opción <b>Vincular cuenta</b> para vincular tus cuentas.  <b>No podrás vincular tus cuentas más tarde.</b>
+sp_option_continue_00014	Si vinculas tu cuenta Nintendo, podrás conectarte al Banco de Pokémon y a la versión de Pokémon HOME para Nintendo Switch.  [VAR FF00(0001)]Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, elige la opción <b>Vincular cuenta</b> para vincular tus cuentas.  <b>No podrás vincular tus cuentas más tarde.</b>[VAR FF00(0000)]
 sp_option_continue_00015	Sincronizar una cuenta existente
 sp_option_continue_00016	Nuevo usuario de Pokémon HOME
 sp_option_continue_00017	Sincroniza la actividad de esta versión de Pokémon HOME con la de Nintendo Switch.
@@ -7759,7 +7759,7 @@ sp_option_continue_00018	El sistema indica que has usado la versión de Pokémon
 sp_option_continue_00019	Has utilizado Pokémon HOME en otro dispositivo. Se cargará tu cuenta en este dispositivo.
 sp_option_continue_00020	Se ha vinculado tu cuenta Nintendo.
 sp_option_input_name_00001	Elige un nombre para tu cuenta. (Puede tener hasta 12 caracteres).
-sp_option_input_name_00002	No uses tu nombre real, tus iniciales ni cualquier otro dato que pueda identificarte. Podrás cambiar este nombre más adelante.
+sp_option_input_name_00002	[VAR FF00(0001)]No uses tu nombre real, tus iniciales ni cualquier otro dato que pueda identificarte. Podrás cambiar este nombre más adelante.[VAR FF00(0000)]
 sp_option_input_name_00003	Introduce un nombre.
 sp_option_input_name_00004	Nombre de usuario
 sp_option_input_name_00005	Toca para introducir un nombre.
@@ -7768,8 +7768,8 @@ sp_option_input_name_00007	El nombre no puede estar solamente compuesto de cifra
 sp_option_input_name_00008	Has introducido caracteres no válidos.
 sp_option_icon_select_00001	Avatar
 sp_option_icon_select_00002	Elige un avatar.
-sp_option_icon_select_00003	Podrás cambiarlo más adelante.
-sp_option_nameandicon_0001	¿Te parecen bien este nombre y este avatar? Podrás cambiarlos más adelante.
+sp_option_icon_select_00003	[VAR FF00(0001)]Podrás cambiarlo más adelante.[VAR FF00(0000)]
+sp_option_nameandicon_0001	¿Te parecen bien este nombre y este avatar? [VAR FF00(0001)]Podrás cambiarlos más adelante.[VAR FF00(0000)]
 sp_option_00001	Restablecer configuración inicial
 sp_option_00002	Aplicación
 sp_option_00003	No se han podido guardar los cambios en la configuración. Restableciendo la configuración anterior...
@@ -7844,7 +7844,7 @@ sp_option_account_00014	Esta cuenta ya está vinculada a otro Pokémon HOME.
 sp_option_account_00015	Reintentado la vinculación de cuentas...
 sp_option_account_00016	Ventajas de vincular una cuenta Nintendo
 sp_option_account_00017	Información sobre cómo vincular una cuenta Nintendo
-sp_option_account_00018	Podrás realizar las siguientes operaciones en Pokémon HOME:  ・Sincronizar la actividad de la versión de Pokémon HOME para Nintendo Switch con la versión de este dispositivo móvil. ・Transferir datos a otro dispositivo, como por ejemplo a un móvil nuevo. ・Trasladar Pokémon del Banco de Pokémon a Pokémon HOME.  Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, elige la opción <b>Vincular cuenta</b> para vincular tus cuentas.  <b>No podrás vincular tus cuentas más tarde.</b>  ¿Quieres vincular una cuenta Nintendo?
+sp_option_account_00018	Podrás realizar las siguientes operaciones en Pokémon HOME:  ・Sincronizar la actividad de la versión de Pokémon HOME para Nintendo Switch con la versión de este dispositivo móvil. ・Transferir datos a otro dispositivo, como por ejemplo a un móvil nuevo. ・Trasladar Pokémon del Banco de Pokémon a Pokémon HOME.  [VAR FF00(0001)]Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, elige la opción <b>Vincular cuenta</b> para vincular tus cuentas.  <b>No podrás vincular tus cuentas más tarde.</b>[VAR FF00(0000)]  ¿Quieres vincular una cuenta Nintendo?
 sp_option_account_00019	Vincular cuenta Nintendo
 sp_option_account_00020	Cuenta
 sp_option_account_00021	Último traslado:
@@ -7854,7 +7854,7 @@ sp_option_account_00024	Es posible cambiar la cuenta Nintendo vinculada a Pokém
 sp_option_account_00025	Cambiar cuenta Nintendo
 sp_option_account_00026	Se ha cambiado la cuenta Nintendo vinculada. Regresarás a la pantalla del título.
 sp_option_account_00027_vgo	Ten en cuenta que, si cambias la cuenta Nintendo vinculada, ya no podrás vincular de nuevo la cuenta Nintendo inicial.
-sp_option_account_00028_vgo	Una vez que hayas cambiado la cuenta Nintendo vinculada a otra cuenta Nintendo, no podrás usar Pokémon HOME con la cuenta Nintendo inicial.  ¿Seguro que quieres cambiar la cuenta Nintendo?
+sp_option_account_00028_vgo	[VAR FF00(0001)]Una vez que hayas cambiado la cuenta Nintendo vinculada a otra cuenta Nintendo, no podrás usar Pokémon HOME con la cuenta Nintendo inicial.[VAR FF00(0000)]  [VAR FF00(0001)]¿Seguro que quieres cambiar la cuenta Nintendo?[VAR FF00(0000)]
 sp_option_account_00029_vgo	Es posible cambiar a una cuenta Nintendo que no se haya vinculado previamente a Pokémon HOME.
 sp_option_MONSNAME_722	Bulbasaur
 sp_option_MONSNAME_725	Charmander
@@ -7875,19 +7875,19 @@ sp_option_nalink_0001_v2	Si vinculas Pokémon HOME a tu cuenta Nintendo, podrás
 sp_option_nalink_0002_v2	Operaciones disponibles al vincular una cuenta Nintendo
 sp_option_nalink_0003_v2	・ 
 sp_option_nalink_0004_v2	Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, vincula tus cuentas ahora.
-sp_option_nalink_0005_v2	<b>No podrás vincular tus cuentas más tarde.</b>
+sp_option_nalink_0005_v2	[VAR FF00(0001)]<b>No podrás vincular tus cuentas más tarde.</b>[VAR FF00(0000)]
 sp_option_nalink_0006_v2	Vinculación de una cuenta Nintendo e inicio
 sp_option_nalink_0007_v2	Antes de vincular una cuenta Nintendo, asegúrate de que se trata de la cuenta correcta que quieres vincular.
-sp_option_nalink_0008_v2	Si no sabes qué cuenta Nintendo vincular, compruébalo mediante las opciones que se indican a continuación.
+sp_option_nalink_0008_v2	[VAR FF00(0001)]Si no sabes qué cuenta Nintendo vincular, compruébalo mediante las opciones que se indican a continuación.[VAR FF00(0000)]
 sp_option_nalink_0009_v2	Comprobar en Nintendo Switch
 sp_option_nalink_0010_v2	Comprobar información registrada de la cuenta Nintendo
 sp_option_nalink_0011_v2	¿Sabes con certeza qué cuenta Nintendo quieres vincular?
 sp_option_nalink_0012_v2	Sí, no tengo ninguna duda y quiero vincularla
 sp_option_nalink_0013_v2	No, prefiero empezar con una cuenta de invitado
-sp_option_nalink_0014_v2	<u><b>Si usas una cuenta Nintendo incorrecta, no podrás</b></u> <u><b>realizar las siguientes operaciones:</b></u>
+sp_option_nalink_0014_v2	[VAR FF00(0001)]<u><b>Si usas una cuenta Nintendo incorrecta, no podrás</b></u> <u><b>realizar las siguientes operaciones:</b></u>[VAR FF00(0000)]
 sp_option_nalink_0015_v2	Asegúrate de vincular la cuenta Nintendo correcta.
 sp_option_nalink_0016_v2	Si ya estás usando la versión de Pokémon HOME para Nintendo Switch o si tienes pensado utilizarla en un futuro, vincula tus cuentas ahora.
-sp_option_nalink_0017_v2	Con una cuenta de invitado no podrás utilizar las funciones que se indican a continuación.
+sp_option_nalink_0017_v2	Con una cuenta de invitado [VAR FF00(0001)]no podrás utilizar[VAR FF00(0000)] las funciones que se indican a continuación.
 sp_option_nalink_0018_v2	Funciones no disponibles para cuentas de invitado
 sp_option_nalink_0019_v2	Acceso con una cuenta de invitado
 sp_option_nalink_0020_v2	¿Quieres usar una cuenta de invitado?
@@ -7900,14 +7900,14 @@ sp_option_nalink_0026_v2	¿Quieres comenzar la operación para vincular la versi
 sp_option_nalink_0027_v2	Primer uso de Pokémon HOME
 sp_option_nalink_0028_v2	No se ha podido comprobar si la versión de Pokémon HOME para Nintendo Switch se está usando con esta cuenta Nintendo.
 sp_option_nalink_0029_v2	Al ser la primera vez que utilizas Pokémon HOME, ¿quieres vincular la versión de Pokémon HOME para dispositivos móviles a una cuenta Nintendo?
-sp_option_nalink_0030_v2	Si ves este mensaje aunque ya estés usando la versión de Pokémon HOME para Nintendo Switch, significa que la cuenta Nintendo que estás intentando vincular no es la correcta. Selecciona "No" para volver a la pantalla anterior e intentarlo de nuevo con una cuenta Nintendo diferente.
+sp_option_nalink_0030_v2	[VAR FF00(0001)]Si ves este mensaje aunque ya estés usando la versión de Pokémon HOME para Nintendo Switch, significa que la cuenta Nintendo que estás intentando vincular no es la correcta. Selecciona "No" para volver a la pantalla anterior e intentarlo de nuevo con una cuenta Nintendo diferente.[VAR FF00(0000)]
 sp_option_nalink_0031_v2	Empezar como invitado
 sp_option_nalink_0032_v2	Vincular a Pokémon HOME y a otros juegos en Nintendo Switch.
 sp_option_nalink_0033_v2	Trasladar Pokémon desde el Banco de Pokémon.
 sp_option_nalink_0034_v2	Transferir datos al cambiar de dispositivo.
 sp_option_nalink_0035_v2	No vincular
 sp_option_nalink_0036_v2	Confirmación final antes de usar una cuenta de invitado
-sp_option_nalink_0037_v2	Si seleccionas "No", volverás a la pantalla de confirmación de vinculación de una cuenta Nintendo.
+sp_option_nalink_0037_v2	[VAR FF00(0001)]Si seleccionas "No", volverás a la pantalla de confirmación de vinculación de una cuenta Nintendo.[VAR FF00(0000)]
 sp_option_nalink_0038_v2	Comprobar tus resultados en los Combates Clasificatorios y torneos en línea (tanto oficiales como amistosos) en los que hayas participado en los juegos de la serie principal de Pokémon.
 sp_option_nalink_0039_v2	Comprobar tus resultados en los juegos de la serie principal de Pokémon.
 sp_option_nalink_0040_v2	Atención al consumidor
@@ -7992,9 +7992,9 @@ sp_playerlog_00002	Realizaste un intercambio en el GTS.
 sp_playerlog_00003	Realizaste un intercambio en grupo.
 sp_playerlog_00004	Realizaste un intercambio mediante la caja prodigiosa.
 sp_playerlog_00005	Recibiste un regalo misterioso.
-sp_playerlog_00006	Usaste [VAR 0203(0000)]Ā punto[VAR 1101(0000,0100)]s.
-sp_playerlog_00007	Conseguiste [VAR 0203(0000)]Ā punto[VAR 1101(0000,0100)]s.
-sp_playerlog_00008	Cambiaste [VAR 0203(0000)]Ā puntos por PB.
+sp_playerlog_00006	Usaste [VAR 0203(0000)] punto[VAR 1101(0000,0100)]s.
+sp_playerlog_00007	Conseguiste [VAR 0203(0000)] punto[VAR 1101(0000,0100)]s.
+sp_playerlog_00008	Cambiaste [VAR 0203(0000)] puntos por PB.
 sp_playerlog_00009	Realizaste un <b>intercambio con amigos</b>.
 sp_playerlog_00010	Realizaste un intercambio en el <b>GTS</b>.
 sp_playerlog_00011	Realizaste un <b>intercambio en grupo</b>.
@@ -8003,7 +8003,7 @@ sp_playerlog_00013	[VAR 0100(0001)] depositó Pokémon en [VAR 0200(0000)].
 sp_playerlog_00014	[VAR 0100(0001)] retiró Pokémon de [VAR 0200(0000)].
 sp_playerlog_00015	Liberaste Pokémon.
 sp_playerlog_00016	Recibiste un regalo misterioso.
-sp_playerlog_00017	Transferiste [VAR 0203(0000)]Ā Pokémon.
+sp_playerlog_00017	Transferiste [VAR 0203(0000)] Pokémon.
 sp_playerlog_00018	[VAR 0102(0001)] de [VAR 0100(0000)]
 sp_playerlog_00019	Pokémon enviado
 sp_playerlog_00020	Pokémon recibido
@@ -8093,7 +8093,7 @@ sp_trade_01004	No puedes seleccionar Pokémon depositados en la caja prodigiosa.
 sp_trade_01005	No puedes hacer eso.
 sp_trade_01006	No puedes seleccionar Pokémon marcados como favoritos.
 sp_trade_02001	[VAR 0102(0000)] se enviará a [VAR 0100(0001)]. ¡Adiós, [VAR 0102(0000)]!
-sp_trade_02002	¡[VAR 0100(0001)] te ha enviado este [VAR 0102(0000)]!
+sp_trade_02002	¡[VAR 0100(0000)] te ha enviado este [VAR 0102(0001)]!
 sp_trade_02003	¡Aquí está [VAR 0102(0000)]! ¡Cuídalo bien!
 sp_trade_02004	[VAR 0102(0000)] se depositará en el GTS. ¡Adiós, [VAR 0102(0000)]!
 sp_trade_02005	[VAR 0102(0000)] ha venido del GTS.
@@ -8118,7 +8118,7 @@ sp_trade_miracle_00008	[VAR 0102(0000)] ya ha sido intercambiado.
 sp_trade_miracle_00010	¡Intercambio completado!
 sp_trade_miracle_00011	Se ha producido un error en el registro. Inténtalo de nuevo más tarde.
 sp_trade_miracle_00013_v3	¿Qué quieres hacer?
-sp_trade_miracle_00013_1_v3	(Has seleccionado [VAR 0200(0000)] Pokémon).
+sp_trade_miracle_00013_1_v3	(Has seleccionado [VAR 0201(0000)] Pokémon).
 sp_trade_miracle_00014_v3	Depositar
 sp_trade_miracle_00015_v3	Ver datos
 sp_trade_miracle_00016_v3	No puedes seleccionar un número de Pokémon superior al de espacios libres disponibles.
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	Intercambio con amigos
 sp_ui_record	Estadísticas
 sp_ui_player_log	Libreta
 sp_ui_library_progress_v10	Progreso de las Pokédex
-sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
+sp_ui_library_progress_frac_v10	[VAR 0202(0000)]/[VAR 0202(0001)]
 sp_ui_national_library	Nacional
 sp_ui_software_library_v10	Juegos
 sp_ui_other_library_v10	Otros
@@ -8373,12 +8373,12 @@ sp_ui_title_menu_05_dialog_done	Se ha borrado la caché.
 sp_ui_title_menu_support_id	ID de usuario
 sp_ui_title_menu_06_v1	Copiar ID de usuario
 sp_ui_title_menu_06_dialog_text_v1	El ID se ha copiado en el portapapeles.
-sp_ui_title_nalink_v2	La información de tu cuenta Nintendo ha cambiado. Inicia sesión en tu cuenta Nintendo de nuevo.  No puedes acceder con una cuenta Nintendo distinta a la que estabas usando.
+sp_ui_title_nalink_v2	La información de tu cuenta Nintendo ha cambiado. Inicia sesión en tu cuenta Nintendo de nuevo.  [VAR FF00(0001)]No puedes acceder con una cuenta Nintendo distinta a la que estabas usando.[VAR FF00(0000)]
 sp_ui_title_nalink_complete_v2	Has iniciado sesión en tu cuenta Nintendo.
 sp_ui_title_nalink_error_v2	La cuenta Nintendo en la que has iniciado sesión es distinta a la cuenta Nintendo vinculada.
 sp_ui_title_license	Licencias
 sp_ui_ngname_confirm_title	Cambio de nombre de usuario
-sp_ui_ngname_confirm_body	El nombre que estabas utilizando contiene palabras que no están permitidas. Cambia tu nombre de usuario.  Nombre anterior: [VAR 0100(0000)]
+sp_ui_ngname_confirm_body	El nombre que estabas utilizando contiene palabras que no están permitidas. Cambia tu nombre de usuario.  Nombre anterior: [VAR FF00(0001)][VAR 0100(0000)][VAR FF00(0000)]
 sp_ui_downlod_0001	Iniciando...
 sp_ui_downlod_0002	Descargando datos maestros...
 sp_ui_downlod_0003	Se han descargado los datos maestros.
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	Idioma
 sp_ui_my_parent_v6	Mis EO y n.º ID
 sp_ui_my_parent_set_v6	Con mis EO y n.º ID
 sp_ui_my_parent_no_set_v6	Sin mis EO y n.º ID
-sp_ui_filter_parent	[VAR 0100(0001)]: [VAR 0205(0000,0000)]
+sp_ui_filter_parent	[VAR 0100(0000)]: [VAR 0205(0001,0000)]
 sp_ui_filter_seikaku_1_m	Fuerte (sin usar mentas)
 sp_ui_filter_seikaku_2_m	Huraña o Menta Huraña
 sp_ui_filter_seikaku_3_m	Audaz o Menta Audaz
@@ -8522,7 +8522,7 @@ sp_ui_svbd_back	Atrás
 sp_ui_all_pokemon	Todos los Pokémon
 sp_ui_release	Desmarcar
 sp_ui_goodby	Liberar
-sp_ui_goodby_confirm	¿Seguro que quieres hacerlo?  No puedes liberar Pokémon marcados como favoritos.
+sp_ui_goodby_confirm	¿Seguro que quieres hacerlo?  [VAR FF00(0001)]No puedes liberar Pokémon marcados como favoritos.[VAR FF00(0000)]
 sp_ui_goodby_singular	Has liberado a [VAR 0102(0000)]. ¡Adiós, [VAR 0102(0000)]!
 sp_ui_goodby_plural	Has liberado a [VAR 0102(0000)] y compañía. ¡Hasta siempre, amigos!
 sp_ui_set_label_max	Al menos un Pokémon ya tiene el máximo de etiquetas.
@@ -8534,10 +8534,10 @@ sp_ui_bank_empty_list	No hay Pokémon que mostrar.
 sp_ui_bank_freebox	Caja básica
 sp_ui_bank_freebox_remaining	Pokémon que no están en la caja básica:
 sp_ui_bank_change_plan_confirm	Es necesario cambiar al plan prémium para mostrar a todos los Pokémon. ¿Quieres cambiar el plan actual?
-sp_ui_bank_favall	No puedes liberar Pokémon marcados como favoritos.
+sp_ui_bank_favall	[VAR FF00(0001)]No puedes liberar Pokémon marcados como favoritos.[VAR FF00(0000)]
 sp_ui_lastet_update	30 últimos
 sp_ui_select_max_v3	No puedes seleccionar más de 100 Pokémon a la vez.
-sp_ui_no_num	N.º [VAR 0200(0000)]
+sp_ui_no_num	N.º [VAR 0201(0000)]
 sp_ui_lv_num	Nv. [VAR 0200(0000)]
 sp_ui_idno_num	N.º ID
 sp_ui_trainer_memo	Notas del Entrenador
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	Potencial aceptable
 sp_ui_total_evaluate_02	Potencial superior a la media
 sp_ui_total_evaluate_03	Potencial notable
 sp_ui_total_evaluate_04	Potencial extraordinario
-sp_ui_lumpribbon_num	[VAR 0200(0000)]
+sp_ui_lumpribbon_num	[VAR 0201(0000)]
 sp_ui_parent_and_id_v4	Entrenador original y n.º ID
-sp_ui_trainermemo_01_v04	Encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR 0105(0000)]
-sp_ui_trainermemo_02_v04	Encontrado aparentemente el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR 0105(0000)]
-sp_ui_trainermemo_03_v04	Encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR 0105(0000)] Fue cosa del destino.
-sp_ui_trainermemo_04_v04	Encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR 0105(0000)] Parece que fue cosa del destino.
-sp_ui_trainermemo_05_v04	Posiblemente encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR 0105(0000)] ¡Qué recuerdos!
-sp_ui_trainermemo_06_v04	Posiblemente unidos por el destino el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR 0105(0000)] ¡Qué recuerdos!
+sp_ui_trainermemo_01_v04	Encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_02_v04	Encontrado aparentemente el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_03_v04	Encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] Fue cosa del destino.
+sp_ui_trainermemo_04_v04	Encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] Parece que fue cosa del destino.
+sp_ui_trainermemo_05_v04	Posiblemente encontrado el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] ¡Qué recuerdos!
+sp_ui_trainermemo_06_v04	Posiblemente unidos por el destino el [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)]. Origen: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] ¡Qué recuerdos!
 sp_ui_encountedplace_v10	Lugar de encuentro
 sp_ui_encountedplace_pokeshifter_v10	Pokétransfer
 sp_ui_encountedplace_nostalgickanto_v10	Nostálgica región de Kanto
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	Editar etiqueta
 sp_ui_label_seting_please	Elige un nombre y un color para la etiqueta.
 sp_ui_label_name	Nombre:
 sp_ui_label_input_please	16 caracteres como máximo
-sp_ui_label_input_limit_v1	[VAR 0200(0000)] caracteres como máximo
+sp_ui_label_input_limit_v1	[VAR 0201(0000)] caracteres como máximo
 sp_ui_label_over_size	El nombre es muy largo.
 sp_ui_label_cant_use_word	Has introducido caracteres no válidos.
 sp_ui_icon	Avatar
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Portada
 sp_ui_seal_00009	¿Quieres utilizar este fondo?
 sp_ui_seal_00010	Quitar pegatinas
 sp_ui_seal_00011	¿Quieres quitar esta pegatina de la portada?
-sp_ui_seal_00012	No puedes pegar más pegatinas del tipo [VAR 0109(0000)].
+sp_ui_seal_00012	No puedes pegar más pegatinas del tipo [VAR 0200(0000)].
 sp_ui_seal_00013	Has hecho algunos cambios. ¿Quieres guardarlos?
 sp_ui_seal_00014	Se quitarán todas las pegatinas. ¿Quieres continuar?
 sp_ui_seal_filter_01_01	Pegatinas disponibles
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	No hay regalos misteriosos.
 sp_ui_gift_03001	Código
 sp_ui_gift_03002	Introduce un código.
 sp_ui_gift_select_title	Confirmación de la selección de Pokémon
-sp_ui_gift_select_confirm	¿Seguro que quieres seleccionar a [VAR 0101(0000)]?  No podrás cambiar tu selección más adelante.
+sp_ui_gift_select_confirm	¿Seguro que quieres seleccionar a [VAR 0101(0000)]?  [VAR FF00(0001)]No podrás cambiar tu selección más adelante.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Volver a elegir
 sp_ui_achieve_dialog_all_clear	COMPLETADO
 sp_ui_achieve_dialog_header_title	Recompensa
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	No hay logros que mostrar.
 sp_ui_achieve_join_ok	¡Has completado un logro!
 sp_ui_achieve_join_ng	No hay logros que completar.
 sp_ui_achieve_hide_seal	¡Completa logros y consigue pegatinas!
-sp_ui_report_01	[VAR 0203(0000)]Ā
-sp_ui_report_02	[VAR 0203(0000)]Ā
+sp_ui_report_01	[VAR 0203(0000)]
+sp_ui_report_02	[VAR 0203(0000)]
 sp_ui_report_03	Pokémon depositados
 sp_ui_report_04	Pokémon retirados
 sp_ui_report_05	Total de puntos obtenidos
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	Rincón personal
 sp_ui_voice_input	Comprobando entrada de sonido...
 sp_ui_voice_input_error	Se ha producido un error. Toca el icono del micrófono para volver a intentarlo.
 sp_ui_recognizer_limit_error	Se ha alcanzado el límite diario establecido para el uso del reconocimiento de voz.
-sp_ui_myroom_point_number	[VAR 0203(0000)]Ā
+sp_ui_myroom_point_number	[VAR 0203(0000)]
 sp_ui_app_desc_0001_v3	¿Qué es Pokémon HOME?
 sp_ui_app_desc_0002_v3	Pokémon HOME es un servicio de almacenamiento en la nube para Nintendo Switch y dispositivos móviles ideado para organizar todos tus Pokémon en un único lugar.
 sp_ui_app_desc_0003_v3	Al vincular Pokémon HOME con los juegos y servicios compatibles, puedes transferir los Pokémon que hayas encontrado en esos juegos a Pokémon HOME o a otros juegos. También puedes intercambiar Pokémon con usuarios de todo el mundo.
@@ -8769,7 +8769,7 @@ sp_ui_memory_v5	Aniversarios
 sp_ui_calendar_year_v5	Año
 sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]
 sp_ui_calendar_numerical_year_month_v5	[VAR 0201(0001)]/[VAR 0203(0000)]
-sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0001)]/[VAR 0200(0000)]
+sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0001)]/[VAR 0201(0000)]
 sp_ui_calendar_numerical_date_v5	[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)]
 sp_ui_calendar_illegal_date_v5	Fecha desconocida
 sp_ui_calendar_date_v5	Fecha
@@ -11336,31 +11336,31 @@ TOKUSEI_310	Títere Tóxico
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_esp.msbt
 ~~~~~~~~~~~~~~~
-trmemo_01_01	Naturaleza: fuerte
-trmemo_01_02	Naturaleza: huraña
-trmemo_01_03	Naturaleza: audaz
-trmemo_01_04	Naturaleza: firme
-trmemo_01_05	Naturaleza: pícara
-trmemo_01_06	Naturaleza: osada
-trmemo_01_07	Naturaleza: dócil
-trmemo_01_08	Naturaleza: plácida
-trmemo_01_09	Naturaleza: agitada
-trmemo_01_10	Naturaleza: floja
-trmemo_01_11	Naturaleza: miedosa
-trmemo_01_12	Naturaleza: activa
-trmemo_01_13	Naturaleza: seria
-trmemo_01_14	Naturaleza: alegre
-trmemo_01_15	Naturaleza: ingenua
-trmemo_01_16	Naturaleza: modesta
-trmemo_01_17	Naturaleza: afable
-trmemo_01_18	Naturaleza: mansa
-trmemo_01_19	Naturaleza: tímida
-trmemo_01_20	Naturaleza: alocada
-trmemo_01_21	Naturaleza: serena
-trmemo_01_22	Naturaleza: amable
-trmemo_01_23	Naturaleza: grosera
-trmemo_01_24	Naturaleza: cauta
-trmemo_01_25	Naturaleza: rara
+trmemo_01_01	Naturaleza: [VAR FF00(0002)]fuerte[VAR FF00(0000)]
+trmemo_01_02	Naturaleza: [VAR FF00(0002)]huraña[VAR FF00(0000)]
+trmemo_01_03	Naturaleza: [VAR FF00(0002)]audaz[VAR FF00(0000)]
+trmemo_01_04	Naturaleza: [VAR FF00(0002)]firme[VAR FF00(0000)]
+trmemo_01_05	Naturaleza: [VAR FF00(0002)]pícara[VAR FF00(0000)]
+trmemo_01_06	Naturaleza: [VAR FF00(0002)]osada[VAR FF00(0000)]
+trmemo_01_07	Naturaleza: [VAR FF00(0002)]dócil[VAR FF00(0000)]
+trmemo_01_08	Naturaleza: [VAR FF00(0002)]plácida[VAR FF00(0000)]
+trmemo_01_09	Naturaleza: [VAR FF00(0002)]agitada[VAR FF00(0000)]
+trmemo_01_10	Naturaleza: [VAR FF00(0002)]floja[VAR FF00(0000)]
+trmemo_01_11	Naturaleza: [VAR FF00(0002)]miedosa[VAR FF00(0000)]
+trmemo_01_12	Naturaleza: [VAR FF00(0002)]activa[VAR FF00(0000)]
+trmemo_01_13	Naturaleza: [VAR FF00(0002)]seria[VAR FF00(0000)]
+trmemo_01_14	Naturaleza: [VAR FF00(0002)]alegre[VAR FF00(0000)]
+trmemo_01_15	Naturaleza: [VAR FF00(0002)]ingenua[VAR FF00(0000)]
+trmemo_01_16	Naturaleza: [VAR FF00(0002)]modesta[VAR FF00(0000)]
+trmemo_01_17	Naturaleza: [VAR FF00(0002)]afable[VAR FF00(0000)]
+trmemo_01_18	Naturaleza: [VAR FF00(0002)]mansa[VAR FF00(0000)]
+trmemo_01_19	Naturaleza: [VAR FF00(0002)]tímida[VAR FF00(0000)]
+trmemo_01_20	Naturaleza: [VAR FF00(0002)]alocada[VAR FF00(0000)]
+trmemo_01_21	Naturaleza: [VAR FF00(0002)]serena[VAR FF00(0000)]
+trmemo_01_22	Naturaleza: [VAR FF00(0002)]amable[VAR FF00(0000)]
+trmemo_01_23	Naturaleza: [VAR FF00(0002)]grosera[VAR FF00(0000)]
+trmemo_01_24	Naturaleza: [VAR FF00(0002)]cauta[VAR FF00(0000)]
+trmemo_01_25	Naturaleza: [VAR FF00(0002)]rara[VAR FF00(0000)]
 trmemo_03_01_00	Le encanta comer.
 trmemo_03_01_01	A menudo se duerme.
 trmemo_03_01_02	Duerme mucho.
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	Es un poco petulante.
 trmemo_03_06_02	Es muy insolente.
 trmemo_03_06_03	Odia perder.
 trmemo_03_06_04	Es un poco cabezota.
-trmemo_bank_01_01	Lugar donde os encontrasteis: [VAR 0105(0000)].
-trmemo_bank_01_02	Posible lugar donde os encontrasteis: [VAR 0105(0000)].
-trmemo_bank_02_01	Lugar donde os unió el destino: [VAR 0105(0000)].
-trmemo_bank_02_02	Posible lugar donde os unió el destino: [VAR 0105(0000)].
-trmemo_bank_03_01	Lugar donde os encontrasteis: [VAR 0105(0000)]. ¡Qué recuerdos!
-trmemo_bank_03_02	Posible lugar donde os encontrasteis: [VAR 0105(0000)]. ¡Qué recuerdos!
-trmemo_bank_04_01	Lugar donde os unió el destino: [VAR 0105(0000)]. ¡Qué recuerdos!
-trmemo_bank_04_02	Posible lugar donde os unió el destino: [VAR 0105(0000)]. ¡Qué recuerdos!
+trmemo_bank_01_01	Lugar donde os encontrasteis: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_01_02	Posible lugar donde os encontrasteis: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_02_01	Lugar donde os unió el destino: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_02_02	Posible lugar donde os unió el destino: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_03_01	Lugar donde os encontrasteis: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]. ¡Qué recuerdos!
+trmemo_bank_03_02	Posible lugar donde os encontrasteis: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]. ¡Qué recuerdos!
+trmemo_bank_04_01	Lugar donde os unió el destino: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]. ¡Qué recuerdos!
+trmemo_bank_04_02	Posible lugar donde os unió el destino: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]. ¡Qué recuerdos!
 
 ~~~~~~~~~~~~~~~
 Text File : typename_esp.msbt
@@ -24004,7 +24004,7 @@ ZKN_ARCEUS_022_000
 ZKN_ARCEUS_023_000	
 ZKN_ARCEUS_024_000	
 ZKN_ARCEUS_025_000	Acumula electricidad en las bolsas que tiene en las mejillas. Habita en los bosques, donde tuesta con gran astucia las duras bayas que encuentra para comérselas.
-ZKN_ARCEUS_026_000	Libera unas descargas eléctricas que superan los 100 000 3V. Con semejante potencia podría derribar de un golpe incluso a un Copperajah, un Pokémon de mi tierra.
+ZKN_ARCEUS_026_000	Libera unas descargas eléctricas que superan los 100 000 V. Con semejante potencia podría derribar de un golpe incluso a un Copperajah, un Pokémon de mi tierra.
 ZKN_ARCEUS_027_000	
 ZKN_ARCEUS_028_000	
 ZKN_ARCEUS_029_000	
@@ -24444,7 +24444,7 @@ ZKN_ARCEUS_462_000	Esta evolución podría deberse a la influencia de un campo m
 ZKN_ARCEUS_463_000	Posee una lengua retráctil que, extendida, alcanza más de diez veces su tamaño. Su saliva contiene agentes disolventes que es mejor evitar.
 ZKN_ARCEUS_464_000	Un extraño objeto provocó esta evolución. Su piel, de aspecto rocoso y material desconocido, es tan dura que ni una espada de renombre es capaz de rasguñarla.
 ZKN_ARCEUS_465_000	La maraña de largas lianas que cubre su cuerpo le confiere aspecto de matorral. Las trenza a modo de brazos con los que atrapa a sus presas.
-ZKN_ARCEUS_466_000	Un extraño objeto provocó esta evolución. Cuanto más rápido le late el corazón, mayor electricidad genera. Sus colas liberan descargas de hasta 20 000 3V.
+ZKN_ARCEUS_466_000	Un extraño objeto provocó esta evolución. Cuanto más rápido le late el corazón, mayor electricidad genera. Sus colas liberan descargas de hasta 20 000 V.
 ZKN_ARCEUS_467_000	Un extraño objeto provocó esta evolución. Sus brazos cilíndricos disparan bolas de fuego a una temperatura capaz de fundir hierro instantáneamente.
 ZKN_ARCEUS_468_000	Según antiguos escritos, solo se manifiesta ante la gente cuando el mundo se encuentra en paz y armonía. Muy pocos han tenido dicho privilegio.
 ZKN_ARCEUS_469_000	Cuando caza, apunta a los puntos débiles de sus presas para no malgastar ni un solo movimiento. Hacen falta agallas para relacionarse con esta especie dada su extrema agresividad.

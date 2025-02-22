@@ -7457,7 +7457,7 @@ sp_friend_03008	This user has reached the maximum number of Friends.
 sp_friend_03009	Add this user to your Friend List?
 sp_friend_03010	You can't send a Friend Request to yourself.
 sp_friend_03012	Delete this Friend Request?
-sp_friend_dialogmsg_00	Remove this user from your Friend List?  Note: The user will not be notified.
+sp_friend_dialogmsg_00	Remove this user from your Friend List?  [VAR FF00(0001)]Note: The user will not be notified.[VAR FF00(0000)]
 sp_friend_dialogmsg_01	Update Friend List
 sp_friend_empty_list	No Friends to display. Please add Friends.
 
@@ -7486,7 +7486,7 @@ sp_labelcolor_18_v2	Pink labels
 ~~~~~~~~~~~~~~~
 Text File : sp_languageconfirm_usa.msbt
 ~~~~~~~~~~~~~~~
-sp_languageconfirm_001	Would you like to set your language to <b>English</b>?  You can change the language later.
+sp_languageconfirm_001	Would you like to set your language to <b>English</b>?  [VAR FF00(0001)]You can change the language later.[VAR FF00(0000)]
 sp_languageconfirm_002	Yes
 sp_languageconfirm_003	No
 sp_languageconfirm_004	Confirm Language Selection
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_usa.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	Pokémon Bank Version [VAR 0200(0000)] and above
-sp_migration_00003	Pokémon HOME [VAR 0200(0000)] spaces left
+sp_migration_00002	Pokémon Bank Version [VAR 0201(0000)] and above
+sp_migration_00003	Pokémon HOME [VAR 0202(0000)] spaces left
 sp_migration_00004	You can bring Pokémon over from Pokémon Bank for Nintendo 3DS.
 sp_migration_00005	Once you bring your Pokémon to Pokémon HOME, you won't be able to send them back to the Nintendo 3DS!
 sp_migration_00006	Begin move!
@@ -7522,7 +7522,7 @@ sp_migration_04002	Ready!
 sp_migration_05001	The Moving Key is only valid for <B>three minutes</B>. Please enter the Moving Key into Pokémon Bank within the time limit.
 sp_migration_05002	Once the Moving Key is displayed, you will be unable to return to the previous screen for <B>three minutes</B>.
 sp_migration_05003	Display Moving Key!
-sp_migration_06001	There is not enough space for all of your Pokémon! You need space for <B>[VAR 0200(0000)]</B> more Pokémon!
+sp_migration_06001	There is not enough space for all of your Pokémon! You need space for <B>[VAR 0203(0000)]</B> more Pokémon!
 sp_migration_06002	Please organize your Pokémon to ensure there is enough space.
 sp_migration_06003	The move will now be canceled.
 sp_migration_07001	The Nintendo Account you are currently using is not linked with a Nintendo Network ID.
@@ -7534,13 +7534,13 @@ sp_migration_09001	The Moving Key has expired.
 sp_migration_09002	Please use a new Moving Key if you'd like to try the move again.
 sp_migration_09003	Display a new Moving Key!
 sp_migration_10001	Move currently in progress!
-sp_migration_10002	Pokémon HOME can't be used until the move is completed!
+sp_migration_10002	[VAR FF00(0001)]Pokémon HOME can't be used until the move is completed![VAR FF00(0000)]
 sp_migration_10003	Please wait for the move to be completed.
 sp_migration_11001	The move has been completed!
 sp_migration_11002	Welcome to Pokémon HOME!
 sp_migration_12001	Presents
 sp_migration_12002	First move
-sp_migration_12003	[VAR 0200(0000)] Point[VAR 1101(0000,0100)]s
+sp_migration_12003	[VAR 0203(0000)] [VAR 1101(0000,0605)] PointPoints
 sp_migration_13001	To move Pokémon using your Nintendo Network ID, you'll need to link the ID to your Nintendo Account. You can link it to your Nintendo Account from the Options menu.
 sp_migration_13002	The move has failed.
 
@@ -7721,10 +7721,10 @@ sp_option_terms_00011	I agree to the Privacy Notice
 sp_option_language_title	Choose Your Language
 sp_option_language_select	Which language would you like to use?
 sp_option_language_select_please	Please select a language.
-sp_option_language_select_00002	Kids, have an adult help you with your selections!
+sp_option_language_select_00002	[VAR FF00(0001)]Kids, have an adult help you with your selections![VAR FF00(0000)]
 sp_option_language_select_00003	Confirm Language Selection
 sp_option_country_select_00001	Choose Your Region
-sp_option_country_select_00002	Are you sure you want to set your region to <b>[VAR 0105(0000)]</b>?  You can change your region later.
+sp_option_country_select_00002	Are you sure you want to set your region to <b>[VAR 0105(0000)]</b>?  [VAR FF00(0001)]You can change your region later.[VAR FF00(0000)]
 sp_option_country_select_00003	Which region do you live in?
 sp_option_country_select_00004	Confirm Region Selection
 sp_option_country_reselect_title	Region Settings Update
@@ -7732,7 +7732,7 @@ sp_option_country_reselect_body	The Battle Data feature has been updated. You'll
 sp_option_birthday_select_00001	Enter Your Birth Date
 sp_option_birthday_select_00002	Please enter your date of birth below to verify your age.
 sp_option_birthday_select_00003	There's a problem with the date of birth you entered.
-sp_option_birthday_select_00004	Note: You can't change your date of birth later.
+sp_option_birthday_select_00004	[VAR FF00(0001)]Note: You can't change your date of birth later.[VAR FF00(0000)]
 sp_option_birthday_select_00005	Check Your Information
 sp_option_birthday_select_00006	There's a problem with the date you entered.
 sp_option_year	Year
@@ -7748,10 +7748,10 @@ sp_option_continue_00007	What happens if I don't link a Nintendo Account?
 sp_option_continue_00008	Register or link
 sp_option_continue_00009	Don't link
 sp_option_continue_00010	What's a Nintendo Account?
-sp_option_continue_00011	If you are using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please link your accounts now. <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>  You won't be able to use any of the following features if you don't link a Nintendo Account.  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device ・ Move any Pokémon from Pokémon Bank to Pokémon HOME using your Nintendo Network ID
+sp_option_continue_00011	[VAR FF00(0001)]If you are using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please link your accounts now. <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>[VAR FF00(0000)]  You won't be able to use any of the following features if you don't link a Nintendo Account.  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device ・ Move any Pokémon from Pokémon Bank to Pokémon HOME using your Nintendo Network ID
 sp_option_continue_00012	You can link to your Nintendo Account at any time by opening up the <b>Options</b> menu in Pokémon HOME.  From there, choose the <b>Account</b> tab, and then find the <b>Link a Nintendo Account</b> option to link your account.
 sp_option_continue_00013	Linking your account failed. Go back to the previous screen to try again.
-sp_option_continue_00014	If you link your Nintendo Account, you'll be able to connect to Pokémon Bank and the Nintendo Switch version of Pokémon HOME.  If you're already using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please choose the <b>Link your account</b> option to link your accounts.  <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>
+sp_option_continue_00014	If you link your Nintendo Account, you'll be able to connect to Pokémon Bank and the Nintendo Switch version of Pokémon HOME.  [VAR FF00(0001)]If you're already using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please choose the <b>Link your account</b> option to link your accounts.  <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>[VAR FF00(0000)]
 sp_option_continue_00015	Sync Existing Account
 sp_option_continue_00016	New Pokémon HOME User
 sp_option_continue_00017	Sync activity between this version of Pokémon HOME and the Nintendo Switch version of Pokémon HOME.
@@ -7759,7 +7759,7 @@ sp_option_continue_00018	We've found records of you using the Nintendo Switch ve
 sp_option_continue_00019	We've found a record of your past Pokémon HOME usage! We'll load your account on this device now.
 sp_option_continue_00020	Your Nintendo Account has been linked!
 sp_option_input_name_00001	Enter the name you'd like to use for your account. (Maximum: 12 characters)
-sp_option_input_name_00002	Don't use your real name, initials, or other identifiable features. And don't worry, you can change this later, too!
+sp_option_input_name_00002	[VAR FF00(0001)]Don't use your real name, initials, or other identifiable features. And don't worry, you can change this later, too![VAR FF00(0000)]
 sp_option_input_name_00003	Please enter a name.
 sp_option_input_name_00004	Choose a Username
 sp_option_input_name_00005	Tap to enter a name!
@@ -7768,8 +7768,8 @@ sp_option_input_name_00007	You can't use a name that only contains numbers.
 sp_option_input_name_00008	Your name includes unsupported characters.
 sp_option_icon_select_00001	Choose a User Icon
 sp_option_icon_select_00002	Now, choose an icon to represent you.
-sp_option_icon_select_00003	You can change this later, too!
-sp_option_nameandicon_0001	Are you happy with your name and icon?  Remember—you can change either later!
+sp_option_icon_select_00003	[VAR FF00(0001)]You can change this later, too![VAR FF00(0000)]
+sp_option_nameandicon_0001	Are you happy with your name and icon?  [VAR FF00(0001)]Remember—you can change either later![VAR FF00(0000)]
 sp_option_00001	Restore default settings
 sp_option_00002	Application
 sp_option_00003	Failed to save the changes made to your settings. Returning to the previous settings...
@@ -7844,7 +7844,7 @@ sp_option_account_00014	This account has already been linked to a different Pok�
 sp_option_account_00015	Linking accounts was interrupted. Trying again...
 sp_option_account_00016	Benefits of Linking a Nintendo Account
 sp_option_account_00017	What to know about linking a Nintendo Account
-sp_option_account_00018	You can do the following things in Pokémon HOME:  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device ・ Move Pokémon from Pokémon Bank to Pokémon HOME using your Nintendo Network ID  If you're already using the Nintendo Switch version of Pokémon HOME or plan on using it in the future, please choose the <b>Link your account</b> option to link your accounts.  <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>  Would you like to link a Nintendo Account?
+sp_option_account_00018	You can do the following things in Pokémon HOME:  ・ Sync activity between the Nintendo Switch version of Pokémon HOME and this mobile device version ・ Transfer data to a different device ・ Move Pokémon from Pokémon Bank to Pokémon HOME using your Nintendo Network ID  [VAR FF00(0001)]If you're already using the Nintendo Switch version of[VAR FF00(0000)] [VAR FF00(0001)]Pokémon HOME or plan on using it in the future, please choose the <b>Link your account</b>[VAR FF00(0000)] [VAR FF00(0001)]option to link your accounts.  <b>Please note that if you don't link your accounts now,</b> <b>you won't be able to do so later.</b>[VAR FF00(0000)]  Would you like to link a Nintendo Account?
 sp_option_account_00019	Link Nintendo Account
 sp_option_account_00020	Account
 sp_option_account_00021	Last move completed:
@@ -7854,7 +7854,7 @@ sp_option_account_00024	You can change which Nintendo Account your Pokémon HOME
 sp_option_account_00025	Change Nintendo Account
 sp_option_account_00026	You have changed your associated Nintendo Account. You'll be returned to the title screen.
 sp_option_account_00027_vgo	Please be aware that should you change your associated Nintendo Account, you will be unable to relink the original Nintendo Account.
-sp_option_account_00028_vgo	Once you switch the currently linked Nintendo Account to another Nintendo Account, you will be unable to use Pokémon HOME with the original Nintendo Account.  Are you sure you want to switch Nintendo Accounts?
+sp_option_account_00028_vgo	[VAR FF00(0001)]Once you switch the currently linked Nintendo Account[VAR FF00(0000)] [VAR FF00(0001)]to another Nintendo Account, you will be unable to[VAR FF00(0000)] [VAR FF00(0001)]use Pokémon HOME with the original Nintendo Account.[VAR FF00(0000)]  [VAR FF00(0001)]Are you sure you want to switch Nintendo Accounts?[VAR FF00(0000)]
 sp_option_account_00029_vgo	You can change to a Nintendo Account that has never been linked to Pokémon HOME before.
 sp_option_MONSNAME_722	Bulbasaur
 sp_option_MONSNAME_725	Charmander
@@ -7875,19 +7875,19 @@ sp_option_nalink_0001_v2	You will be able to do the following by linking Pokémo
 sp_option_nalink_0002_v2	Things you can do by linking your Nintendo Account
 sp_option_nalink_0003_v2	・ 
 sp_option_nalink_0004_v2	If you're already using Pokémon HOME on Nintendo Switch and you want the mobile device version to sync with it, you must link that Nintendo Account now.
-sp_option_nalink_0005_v2	<b>If you don't, you will be unable to link it later.</b>
+sp_option_nalink_0005_v2	[VAR FF00(0001)]<b>If you don't, you will be unable to link it later.</b>[VAR FF00(0000)]
 sp_option_nalink_0006_v2	Link to Nintendo Account and Start
 sp_option_nalink_0007_v2	Before linking a Nintendo Account, please check to make sure the Nintendo Account you want to link is the correct one.
-sp_option_nalink_0008_v2	Note: If you don't know which Nintendo Account to link, please check using the following resources.
+sp_option_nalink_0008_v2	[VAR FF00(0001)]Note: If you don't know which Nintendo Account to link, please check using the following resources.[VAR FF00(0000)]
 sp_option_nalink_0009_v2	Check on Nintendo Switch
 sp_option_nalink_0010_v2	Check information registered for Nintendo Account
 sp_option_nalink_0011_v2	Are you sure you know which Nintendo Account you want to link?
 sp_option_nalink_0012_v2	Yes, I am sure and would like to link
 sp_option_nalink_0013_v2	No, let me use a guest account
-sp_option_nalink_0014_v2	<u><b>If you use the incorrect Nintendo Account,</b></u> <u><b>you will be unable to do the following.</b></u>
+sp_option_nalink_0014_v2	[VAR FF00(0001)]<u><b>If you use the incorrect Nintendo Account,</b></u> <u><b>you will be unable to do the following.</b></u>[VAR FF00(0000)]
 sp_option_nalink_0015_v2	Please make sure you link the correct Nintendo Account.
 sp_option_nalink_0016_v2	If you are already using the Nintendo Switch version of Pokémon HOME or have plans to do so in the future, make sure to link your account now.
-sp_option_nalink_0017_v2	You will be unable to use the following features when using a guest account.
+sp_option_nalink_0017_v2	You will be [VAR FF00(0001)]unable to use[VAR FF00(0000)] the following features when using a guest account.
 sp_option_nalink_0018_v2	Features unavailable for guest accounts
 sp_option_nalink_0019_v2	Use a Guest Account
 sp_option_nalink_0020_v2	Do you want to use a guest account?
@@ -7900,14 +7900,14 @@ sp_option_nalink_0026_v2	Would you like to begin linking the Nintendo Switch ver
 sp_option_nalink_0027_v2	Use Pokémon HOME for the First Time
 sp_option_nalink_0028_v2	We were unable to verify whether the Nintendo Switch version of Pokémon HOME is being used by this Nintendo Account.
 sp_option_nalink_0029_v2	Would you like to link the mobile device version of Pokémon HOME to this Nintendo Account, even though this seems to be the first time you are using Pokémon HOME?
-sp_option_nalink_0030_v2	Note: If you are seeing this message when you already have been using the Nintendo Switch version of Pokémon HOME, it means the Nintendo Account you're trying to link is incorrect. Please select "No" to return to the previous screen and try again with a different Nintendo Account.
+sp_option_nalink_0030_v2	[VAR FF00(0001)]Note: If you are seeing this message when you already have been using the Nintendo Switch version of Pokémon HOME, it means the Nintendo Account you're trying to link is incorrect. Please select "No" to return to the previous screen and try again with a different Nintendo Account.[VAR FF00(0000)]
 sp_option_nalink_0031_v2	Use guest account
 sp_option_nalink_0032_v2	Link to Pokémon HOME and other games on Nintendo Switch
 sp_option_nalink_0033_v2	Move Pokémon from Pokémon Bank
 sp_option_nalink_0034_v2	Carry over data when changing devices
 sp_option_nalink_0035_v2	Don't link
 sp_option_nalink_0036_v2	Final confirmation before using a guest account
-sp_option_nalink_0037_v2	Note: If you select "No," you will be returned to the Nintendo Account link confirmation screen.
+sp_option_nalink_0037_v2	[VAR FF00(0001)]Note: If you select "No," you will be returned to the Nintendo Account link confirmation screen.[VAR FF00(0000)]
 sp_option_nalink_0038_v2	Check personal battle records for Online Competitions (Official Competitions and Friendly Competitions) and Ranked Battles that you joined in the main series of Pokémon games
 sp_option_nalink_0039_v2	Check personal battle records for Pokémon games in the main series
 sp_option_nalink_0040_v2	Main Support Page
@@ -7992,9 +7992,9 @@ sp_playerlog_00002	You traded using the GTS
 sp_playerlog_00003	You had a Room Trade
 sp_playerlog_00004	You traded using the Wonder Box
 sp_playerlog_00005	Received as a Mystery Gift
-sp_playerlog_00006	You used [VAR 0200(0000)] Point(s)
-sp_playerlog_00007	You obtained [VAR 0200(0000)] Point(s)
-sp_playerlog_00008	You exchanged [VAR 0200(0000)] Point(s) for BP
+sp_playerlog_00006	You used [VAR 0203(0000)] Point(s)
+sp_playerlog_00007	You obtained [VAR 0203(0000)] Point(s)
+sp_playerlog_00008	You exchanged [VAR 0203(0000)] Point(s) for BP
 sp_playerlog_00009	You had a <b>Friend Trade</b>
 sp_playerlog_00010	You traded using the <b>GTS</b>
 sp_playerlog_00011	You had a <b>Room Trade</b>
@@ -8003,7 +8003,7 @@ sp_playerlog_00013	Deposited in [VAR 0200(0000)] by [VAR 0100(0001)]
 sp_playerlog_00014	Withdrawn in [VAR 0200(0000)] by [VAR 0100(0001)]
 sp_playerlog_00015	Released
 sp_playerlog_00016	Received as a Mystery Gift
-sp_playerlog_00017	Moved [VAR 0200(0000)] Pokémon
+sp_playerlog_00017	Moved [VAR 0203(0000)] Pokémon
 sp_playerlog_00018	[VAR 0100(0000)]'s [VAR 0102(0001)]
 sp_playerlog_00019	Sent Pokémon
 sp_playerlog_00020	Received Pokémon
@@ -8093,7 +8093,7 @@ sp_trade_01004	This Pokémon can't be selected, because it's deposited in the Wo
 sp_trade_01005	You can't do that right now.
 sp_trade_01006	This Pokémon can't be selected, because it's marked as a favorite.
 sp_trade_02001	Sending [VAR 0102(0000)] to [VAR 0100(0001)]. Good-bye, [VAR 0102(0000)]!
-sp_trade_02002	[VAR 0100(0001)] sent over [VAR 0102(0000)].
+sp_trade_02002	[VAR 0100(0000)] sent over [VAR 0102(0001)].
 sp_trade_02003	Take good care of [VAR 0102(0000)]!
 sp_trade_02004	Depositing [VAR 0102(0000)] in the GTS! Good-bye, [VAR 0102(0000)]!
 sp_trade_02005	[VAR 0102(0000)] came from the GTS!
@@ -8118,7 +8118,7 @@ sp_trade_miracle_00008	[VAR 0102(0000)] has already been traded.
 sp_trade_miracle_00010	Trade completed!
 sp_trade_miracle_00011	Registration failed. Please wait a while and then try again.
 sp_trade_miracle_00013_v3	What will you do with the selected Pokémon?
-sp_trade_miracle_00013_1_v3	(You've selected [VAR 0200(0000)] Pokémon.)
+sp_trade_miracle_00013_1_v3	(You've selected [VAR 0201(0000)] Pokémon.)
 sp_trade_miracle_00014_v3	Deposit Pokémon
 sp_trade_miracle_00015_v3	View summary
 sp_trade_miracle_00016_v3	You can't select more Pokémon than the number of empty slots you have.
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	Friend Trade
 sp_ui_record	Records
 sp_ui_player_log	Notebook
 sp_ui_library_progress_v10	Pokédex Progress
-sp_ui_library_progress_frac_v10	[VAR 0200(0000)] / [VAR 0200(0001)]
+sp_ui_library_progress_frac_v10	[VAR 0202(0000)] / [VAR 0202(0001)]
 sp_ui_national_library	National
 sp_ui_software_library_v10	Games
 sp_ui_other_library_v10	Others
@@ -8373,12 +8373,12 @@ sp_ui_title_menu_05_dialog_done	Cache successfully cleared!
 sp_ui_title_menu_support_id	Support ID
 sp_ui_title_menu_06_v1	Copy Support ID
 sp_ui_title_menu_06_dialog_text_v1	Copied to clipboard:
-sp_ui_title_nalink_v2	The information for your Nintendo Account has been changed. Please log in to your Nintendo Account again.  You cannot log in with a different Nintendo Account than the one you were using.
+sp_ui_title_nalink_v2	The information for your Nintendo Account has been changed. Please log in to your Nintendo Account again.  [VAR FF00(0001)]You cannot log in with a different Nintendo Account than the one you were using.[VAR FF00(0000)]
 sp_ui_title_nalink_complete_v2	You were able to log in to your Nintendo Account.
 sp_ui_title_nalink_error_v2	The Nintendo Account you've logged in to is different from the linked Nintendo Account.
 sp_ui_title_license	Licenses
 sp_ui_ngname_confirm_title	Change Username
-sp_ui_ngname_confirm_body	Your current username includes words that can't be used. Please change it.  Current username: [VAR 0100(0000)]
+sp_ui_ngname_confirm_body	Your current username includes words that can't be used. Please change it.  Current username: [VAR FF00(0001)][VAR 0100(0000)][VAR FF00(0000)]
 sp_ui_downlod_0001	Now loading...
 sp_ui_downlod_0002	Master data now downloading...
 sp_ui_downlod_0003	Master data downloading complete!
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	Language
 sp_ui_my_parent_v6	Trainer Info
 sp_ui_my_parent_set_v6	Has my Trainer Info
 sp_ui_my_parent_no_set_v6	Has someone else's Trainer Info
-sp_ui_filter_parent	[VAR 0100(0001)]: [VAR 0205(0000,0000)]
+sp_ui_filter_parent	[VAR 0100(0000)]: [VAR 0205(0001,0000)]
 sp_ui_filter_seikaku_1_m	Hardy Nature (no mints used)
 sp_ui_filter_seikaku_2_m	Lonely Nature or Mint
 sp_ui_filter_seikaku_3_m	Brave Nature or Mint
@@ -8522,7 +8522,7 @@ sp_ui_svbd_back	Back
 sp_ui_all_pokemon	All Pokémon
 sp_ui_release	Unselect all
 sp_ui_goodby	Release
-sp_ui_goodby_confirm	Are you sure you want to release your Pokémon?  You can't release a favorite Pokémon.
+sp_ui_goodby_confirm	Are you sure you want to release your Pokémon?  [VAR FF00(0001)]You can't release a favorite Pokémon.[VAR FF00(0000)]
 sp_ui_goodby_singular	[VAR 0102(0000)] was released! Bye, [VAR 0102(0000)]!
 sp_ui_goodby_plural	Your Pokémon were released! Bye-bye!
 sp_ui_set_label_max	Some Pokémon can't have any more labels applied to them!
@@ -8534,10 +8534,10 @@ sp_ui_bank_empty_list	No Pokémon found.
 sp_ui_bank_freebox	Basic Box
 sp_ui_bank_freebox_remaining	Pokémon not in Basic Box
 sp_ui_bank_change_plan_confirm	To view all of your Pokémon, you would need to change your current plan to a Premium Plan.  Would you like to change your plan?
-sp_ui_bank_favall	You can't release a favorite Pokémon!
+sp_ui_bank_favall	[VAR FF00(0001)]You can't release a favorite Pokémon![VAR FF00(0000)]
 sp_ui_lastet_update	Newest 30
 sp_ui_select_max_v3	You can select a maximum of 100 Pokémon at once.
-sp_ui_no_num	No. [VAR 0200(0000)]
+sp_ui_no_num	No. [VAR 0201(0000)]
 sp_ui_lv_num	Lv. [VAR 0200(0000)]
 sp_ui_idno_num	ID No.
 sp_ui_trainer_memo	Trainer notes
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	OK stats
 sp_ui_total_evaluate_02	Good stats
 sp_ui_total_evaluate_03	Great stats!
 sp_ui_total_evaluate_04	Amazing stats!
-sp_ui_lumpribbon_num	[VAR 0200(0000)]
+sp_ui_lumpribbon_num	[VAR 0201(0000)]
 sp_ui_parent_and_id_v4	OT and ID No.
-sp_ui_trainermemo_01_v04	First met in [VAR 0105(0000)] on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
-sp_ui_trainermemo_02_v04	Seems to have been first met in [VAR 0105(0000)] on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
-sp_ui_trainermemo_03_v04	Had a fateful encounter in [VAR 0105(0000)] on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
-sp_ui_trainermemo_04_v04	Seems to have had a fateful encounter in [VAR 0105(0000)] on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
-sp_ui_trainermemo_05_v04	Seems to have been first met in [VAR 0105(0000)] in the good old days, on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
-sp_ui_trainermemo_06_v04	Seems to have had a fateful encounter in [VAR 0105(0000)] in the good old days, on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
+sp_ui_trainermemo_01_v04	First met in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
+sp_ui_trainermemo_02_v04	Seems to have been first met in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
+sp_ui_trainermemo_03_v04	Had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
+sp_ui_trainermemo_04_v04	Seems to have had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
+sp_ui_trainermemo_05_v04	Seems to have been first met in [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] in the good old days, on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
+sp_ui_trainermemo_06_v04	Seems to have had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]in the good old days, on [VAR 0201(0002)]/[VAR 0201(0003)]/[VAR 0203(0001)].
 sp_ui_encountedplace_v10	First Met
 sp_ui_encountedplace_pokeshifter_v10	Poké Shifter
 sp_ui_encountedplace_nostalgickanto_v10	Kanto region (good old days)
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	Edit existing label
 sp_ui_label_seting_please	Choose a name and color for your label.
 sp_ui_label_name	Label name
 sp_ui_label_input_please	16 characters max
-sp_ui_label_input_limit_v1	[VAR 0200(0000)] characters max
+sp_ui_label_input_limit_v1	[VAR 0201(0000)] characters max
 sp_ui_label_over_size	The label name is too long!
 sp_ui_label_cant_use_word	This name contains characters that can't be used.
 sp_ui_icon	Icon
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Binder settings
 sp_ui_seal_00009	Would you like to use this wallpaper?
 sp_ui_seal_00010	Remove stickers
 sp_ui_seal_00011	Would you like to return this sticker to your list?
-sp_ui_seal_00012	You can't use any more [VAR 0109(0000)].
+sp_ui_seal_00012	You can't use any more [VAR 0200(0000)].
 sp_ui_seal_00013	You've made changes. Would you like to save them?
 sp_ui_seal_00014	All stickers will be removed. Would you like to continue?
 sp_ui_seal_filter_01_01	Stickers you can use
@@ -8633,8 +8633,8 @@ sp_ui_gift_01001	Gifts you can get in your area:
 sp_ui_gift_01002	Get them from your gift box!
 sp_ui_gift_01003	Gift Box
 sp_ui_gift_01004	Item
-sp_ui_gift_01005	[VAR 0200(0000)] hour[VAR 1101(0000,0100)]s
-sp_ui_gift_01006	[VAR 0200(0000)] minute[VAR 1101(0000,0100)]s
+sp_ui_gift_01005	[VAR 0200(0000)] [VAR 1101(0000,0504)]hour hours left
+sp_ui_gift_01006	[VAR 0200(0000)] [VAR 1101(0000,0706)]minuteminutes left
 sp_ui_gift_01007	Expired
 sp_ui_gift_02001	Expiration:
 sp_ui_gift_02002	[VAR 0200(0000)] more day(s)
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	No Mystery Gifts found.
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Please enter a code.
 sp_ui_gift_select_title	Confirm Pokémon selection
-sp_ui_gift_select_confirm	Are you sure you want to select [VAR 0101(0000)]?  Note: You won't be able to change this selection later.
+sp_ui_gift_select_confirm	Are you sure you want to select [VAR 0101(0000)]?  [VAR FF00(0001)]Note: You won't be able to change this selection later.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Choose again
 sp_ui_achieve_dialog_all_clear	Completed
 sp_ui_achieve_dialog_header_title	Challenge Rewards
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	No Challenges found.
 sp_ui_achieve_join_ok	Challenge unlocked!
 sp_ui_achieve_join_ng	No Challenges are available for you to complete.
 sp_ui_achieve_hide_seal	Unlock achievements to earn stickers!
-sp_ui_report_01	[VAR 0200(0000)]
-sp_ui_report_02	[VAR 0200(0000)]
+sp_ui_report_01	[VAR 0203(0000)]
+sp_ui_report_02	[VAR 0203(0000)]
 sp_ui_report_03	Pokémon deposited:
 sp_ui_report_04	Pokémon taken out:
 sp_ui_report_05	Total points earned:
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	Your Room
 sp_ui_voice_input	Checking microphone input...
 sp_ui_voice_input_error	An error has occurred.  Tap on the microphone icon to try once again.
 sp_ui_recognizer_limit_error	You've reached the maximum number of times you can use speech recognition per day.
-sp_ui_myroom_point_number	[VAR 0200(0000)]
+sp_ui_myroom_point_number	[VAR 0203(0000)]
 sp_ui_app_desc_0001_v3	What is Pokémon HOME?
 sp_ui_app_desc_0002_v3	Pokémon HOME is a cloud service for Nintendo Switch and compatible mobile devices, designed as a place where all Pokémon can gather.
 sp_ui_app_desc_0003_v3	If you link Pokémon HOME with compatible games and services, you can bring Pokémon you've befriended in those games to Pokémon HOME, as well as transfer them to certain other games. You can also trade Pokémon with other Trainers from around the world.
@@ -8769,7 +8769,7 @@ sp_ui_memory_v5	Anniversaries
 sp_ui_calendar_year_v5	Year
 sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]
 sp_ui_calendar_numerical_year_month_v5	[VAR 0201(0001)]/[VAR 0203(0000)]
-sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]/[VAR 0201(0001)]
+sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0000)]/[VAR 0201(0001)]
 sp_ui_calendar_numerical_date_v5	[VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000)]
 sp_ui_calendar_illegal_date_v5	Unknown Date
 sp_ui_calendar_date_v5	Date
@@ -11336,31 +11336,31 @@ TOKUSEI_310	Poison Puppeteer
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_usa.msbt
 ~~~~~~~~~~~~~~~
-trmemo_01_01	Nature: Hardy
-trmemo_01_02	Nature: Lonely
-trmemo_01_03	Nature: Brave
-trmemo_01_04	Nature: Adamant
-trmemo_01_05	Nature: Naughty
-trmemo_01_06	Nature: Bold
-trmemo_01_07	Nature: Docile
-trmemo_01_08	Nature: Relaxed
-trmemo_01_09	Nature: Impish
-trmemo_01_10	Nature: Lax
-trmemo_01_11	Nature: Timid
-trmemo_01_12	Nature: Hasty
-trmemo_01_13	Nature: Serious
-trmemo_01_14	Nature: Jolly
-trmemo_01_15	Nature: Naive
-trmemo_01_16	Nature: Modest
-trmemo_01_17	Nature: Mild
-trmemo_01_18	Nature: Quiet
-trmemo_01_19	Nature: Bashful
-trmemo_01_20	Nature: Rash
-trmemo_01_21	Nature: Calm
-trmemo_01_22	Nature: Gentle
-trmemo_01_23	Nature: Sassy
-trmemo_01_24	Nature: Careful
-trmemo_01_25	Nature: Quirky
+trmemo_01_01	Nature: [VAR FF00(0002)]Hardy[VAR FF00(0000)]
+trmemo_01_02	Nature: [VAR FF00(0002)]Lonely[VAR FF00(0000)]
+trmemo_01_03	Nature: [VAR FF00(0002)]Brave[VAR FF00(0000)]
+trmemo_01_04	Nature: [VAR FF00(0002)]Adamant[VAR FF00(0000)]
+trmemo_01_05	Nature: [VAR FF00(0002)]Naughty[VAR FF00(0000)]
+trmemo_01_06	Nature: [VAR FF00(0002)]Bold[VAR FF00(0000)]
+trmemo_01_07	Nature: [VAR FF00(0002)]Docile[VAR FF00(0000)]
+trmemo_01_08	Nature: [VAR FF00(0002)]Relaxed[VAR FF00(0000)]
+trmemo_01_09	Nature: [VAR FF00(0002)]Impish[VAR FF00(0000)]
+trmemo_01_10	Nature: [VAR FF00(0002)]Lax[VAR FF00(0000)]
+trmemo_01_11	Nature: [VAR FF00(0002)]Timid[VAR FF00(0000)]
+trmemo_01_12	Nature: [VAR FF00(0002)]Hasty[VAR FF00(0000)]
+trmemo_01_13	Nature: [VAR FF00(0002)]Serious[VAR FF00(0000)]
+trmemo_01_14	Nature: [VAR FF00(0002)]Jolly[VAR FF00(0000)]
+trmemo_01_15	Nature: [VAR FF00(0002)]Naive[VAR FF00(0000)]
+trmemo_01_16	Nature: [VAR FF00(0002)]Modest[VAR FF00(0000)]
+trmemo_01_17	Nature: [VAR FF00(0002)]Mild[VAR FF00(0000)]
+trmemo_01_18	Nature: [VAR FF00(0002)]Quiet[VAR FF00(0000)]
+trmemo_01_19	Nature: [VAR FF00(0002)]Bashful[VAR FF00(0000)]
+trmemo_01_20	Nature: [VAR FF00(0002)]Rash[VAR FF00(0000)]
+trmemo_01_21	Nature: [VAR FF00(0002)]Calm[VAR FF00(0000)]
+trmemo_01_22	Nature: [VAR FF00(0002)]Gentle[VAR FF00(0000)]
+trmemo_01_23	Nature: [VAR FF00(0002)]Sassy[VAR FF00(0000)]
+trmemo_01_24	Nature: [VAR FF00(0002)]Careful[VAR FF00(0000)]
+trmemo_01_25	Nature: [VAR FF00(0002)]Quirky[VAR FF00(0000)]
 trmemo_03_01_00	Characteristic: Loves to eat
 trmemo_03_01_01	Characteristic: Takes plenty of siestas
 trmemo_03_01_02	Characteristic: Nods off a lot
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	Characteristic: Somewhat vain
 trmemo_03_06_02	Characteristic: Strongly defiant
 trmemo_03_06_03	Characteristic: Hates to lose
 trmemo_03_06_04	Characteristic: Somewhat stubborn
-trmemo_bank_01_01	First met in [VAR 0105(0000)].
-trmemo_bank_01_02	Seems to have been first met in [VAR 0105(0000)].
-trmemo_bank_02_01	Had a fateful encounter in [VAR 0105(0000)].
-trmemo_bank_02_02	Seems to have had a fateful encounter in [VAR 0105(0000)].
-trmemo_bank_03_01	First met in [VAR 0105(0000)] in the good old days.
-trmemo_bank_03_02	Seems to have been met for the first time in [VAR 0105(0000)] in the good old days.
-trmemo_bank_04_01	Had a fateful encounter in [VAR 0105(0000)] in the good old days.
-trmemo_bank_04_02	Seems to have had a fateful encounter in [VAR 0105(0000)] in the good old days.
+trmemo_bank_01_01	First met in [VAR FF00(0002)][VAR 0105(0000)].[VAR FF00(0000)]
+trmemo_bank_01_02	Seems to have been first met in [VAR FF00(0002)][VAR 0105(0000)].[VAR FF00(0000)]
+trmemo_bank_02_01	Had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_02_02	Seems to have had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_03_01	First met in [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] in the good old days.
+trmemo_bank_03_02	Seems to have been met for the first time in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]in the good old days.
+trmemo_bank_04_01	Had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]in the good old days.
+trmemo_bank_04_02	Seems to have had a fateful encounter in [VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]in the good old days.
 
 ~~~~~~~~~~~~~~~
 Text File : typename_usa.msbt
@@ -11770,7 +11770,7 @@ PLACENAME_Z_F0201D0101_03
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_all_usa.msbt
 ~~~~~~~~~~~~~~~
-WAZAINFO_ALL_000	———
+WAZAINFO_ALL_000	
 WAZAINFO_ALL_001	The target is physically pounded with a long tail, a foreleg, or the like.
 WAZAINFO_ALL_002	The target is attacked with a sharp chop. Critical hits land more easily.
 WAZAINFO_ALL_003	The target is slapped repeatedly, back and forth, two to five times in a row.
@@ -12695,7 +12695,7 @@ WAZAINFO_ALL_851_01	Inflicts damage with the user's Attack or Sp. Atk stat— wh
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_BDSP_usa.msbt
 ~~~~~~~~~~~~~~~
-WAZAINFO_BDSP_000	———
+WAZAINFO_BDSP_000	
 WAZAINFO_BDSP_001	The target is physically pounded with a long tail, a foreleg, or the like.
 WAZAINFO_BDSP_002	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 WAZAINFO_BDSP_003	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
@@ -13526,7 +13526,7 @@ WAZAINFO_BDSP_826	This move can't be used. It's recommended that this move is fo
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_LA_usa.msbt
 ~~~~~~~~~~~~~~~
-WAZAINFO_LA_000	———
+WAZAINFO_LA_000	
 WAZAINFO_LA_001	The target is physically pounded with a long tail, a foreleg, or the like.
 WAZAINFO_LA_002	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 WAZAINFO_LA_003	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
@@ -14381,7 +14381,7 @@ WAZAINFO_LA_850	The user lifts its spirits, healing its own status conditions an
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_LPLE_usa.msbt
 ~~~~~~~~~~~~~~~
-WAZAINFO_LPLE_000	———
+WAZAINFO_LPLE_000	
 WAZAINFO_LPLE_001	The target is physically pounded with a long tail, a foreleg, or the like.
 WAZAINFO_LPLE_002	The target is attacked with a sharp chop. Critical hits land more easily.
 WAZAINFO_LPLE_003	The target is slapped repeatedly, back and forth, two to five times in a row.
@@ -14615,7 +14615,7 @@ WAZAINFO_LPLE_742	The user rotates, centering the hex nut in its chest, and then
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_SV_usa.msbt
 ~~~~~~~~~~~~~~~
-WAZAINFO_SV_000	———
+WAZAINFO_SV_000	
 WAZAINFO_SV_001	The target is physically pounded with a long tail, a foreleg, or the like.
 WAZAINFO_SV_002	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 WAZAINFO_SV_003	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
@@ -15540,7 +15540,7 @@ WAZAINFO_SV_851_01	Inflicts damage with the user's Attack or Sp. Atk stat— whi
 ~~~~~~~~~~~~~~~
 Text File : wazainfo_SWSH_usa.msbt
 ~~~~~~~~~~~~~~~
-WAZAINFO_SWSH_000	———
+WAZAINFO_SWSH_000	
 WAZAINFO_SWSH_001	The target is physically pounded with a long tail, a foreleg, or the like.
 WAZAINFO_SWSH_002	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
 WAZAINFO_SWSH_003	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.

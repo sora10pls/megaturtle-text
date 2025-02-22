@@ -7457,7 +7457,7 @@ sp_friend_03008	此用戶的朋友人數 已達上限。
 sp_friend_03009	要同意此用戶的申請嗎？
 sp_friend_03010	正在向自己送出申請。
 sp_friend_03012	要刪除這個朋友申請嗎？
-sp_friend_dialogmsg_00	要與這位朋友告別嗎？  ※對方不會收到通知。
+sp_friend_dialogmsg_00	要與這位朋友告別嗎？  [VAR FF00(0001)]※對方不會收到通知。[VAR FF00(0000)]
 sp_friend_dialogmsg_01	更新朋友列表
 sp_friend_empty_list	沒有可顯示的朋友。 請新增朋友。
 
@@ -7486,7 +7486,7 @@ sp_labelcolor_18_v2	標籤（粉紅色）
 ~~~~~~~~~~~~~~~
 Text File : sp_languageconfirm_tch.msbt
 ~~~~~~~~~~~~~~~
-sp_languageconfirm_001	確定要使用這個語言嗎？ <b>【繁體中文】</b>  ※之後可以變更。
+sp_languageconfirm_001	確定要使用這個語言嗎？ <b>【繁體中文】</b>  [VAR FF00(0001)]※之後可以變更。[VAR FF00(0000)]
 sp_languageconfirm_002	是
 sp_languageconfirm_003	否
 sp_languageconfirm_004	確認選擇的語言
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_tch.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	寶可夢虛擬銀行 Ver[VAR 0200(0000)]以上
-sp_migration_00003	Pokémon HOME 還有　[VAR 0200(0000)]隻
+sp_migration_00002	寶可夢虛擬銀行 Ver[VAR 0201(0000)]以上
+sp_migration_00003	Pokémon HOME 還有　[VAR 0202(0000)]隻
 sp_migration_00004	你可以從Nintendo 3DS的 『寶可夢虛擬銀行』帶寶可夢過來。
 sp_migration_00005	一旦將寶可夢帶過來， 將無法移回Nintendo 3DS！
 sp_migration_00006	開始轉移！
@@ -7534,7 +7534,7 @@ sp_migration_09001	轉移密碼已失效！
 sp_migration_09002	要再次轉移時， 請使用新的轉移密碼。
 sp_migration_09003	顯示新的轉移密碼！
 sp_migration_10001	正在進行轉移！
-sp_migration_10002	在完成轉移之前， 將無法使用Pokémon HOME！
+sp_migration_10002	[VAR FF00(0001)]在完成轉移之前， 將無法使用Pokémon HOME！[VAR FF00(0000)]
 sp_migration_10003	請等候轉移完成。
 sp_migration_11001	轉移完成！
 sp_migration_11002	歡迎來到Pokémon HOME！
@@ -7721,10 +7721,10 @@ sp_option_terms_00011	同意隱私權政策
 sp_option_language_title	選擇語言
 sp_option_language_select	要使用哪種語言？
 sp_option_language_select_please	請選擇語言。
-sp_option_language_select_00002	※小朋友請和家長或監護人一起進行選擇。
+sp_option_language_select_00002	[VAR FF00(0001)]※小朋友請和家長或監護人一起進行選擇。[VAR FF00(0000)]
 sp_option_language_select_00003	確認選擇的語言
 sp_option_country_select_00001	選擇地區
-sp_option_country_select_00002	確定是這個地區嗎？ <b>【[VAR 0105(0000)]】</b>  ※之後可以變更。
+sp_option_country_select_00002	確定是這個地區嗎？ <b>【[VAR 0105(0000)]】</b>  [VAR FF00(0001)]※之後可以變更。[VAR FF00(0000)]
 sp_option_country_select_00003	請選擇居住的地區。
 sp_option_country_select_00004	確認選擇的地區
 sp_option_country_reselect_title	地區設定的更新
@@ -7732,7 +7732,7 @@ sp_option_country_reselect_body	已更新對戰資料功能。 可以確認『�
 sp_option_birthday_select_00001	年齡確認
 sp_option_birthday_select_00002	請輸入你的出生年月日。
 sp_option_birthday_select_00003	未正確輸入出生年月日。
-sp_option_birthday_select_00004	※確定後無法變更。
+sp_option_birthday_select_00004	[VAR FF00(0001)]※確定後無法變更。[VAR FF00(0000)]
 sp_option_birthday_select_00005	確認輸入內容
 sp_option_birthday_select_00006	未正確輸入。
 sp_option_year	年
@@ -7748,10 +7748,10 @@ sp_option_continue_00007	不連結Nintendo Account的話？
 sp_option_continue_00008	登錄／連結
 sp_option_continue_00009	不連結
 sp_option_continue_00010	什麼是Nintendo Account？
-sp_option_continue_00011	若你已在使用Nintendo Switch版Pokémon HOME， 或今後預定使用，請務必現在進行連結。 <b>若現在不進行連結，之後將無法連結。</b>  此外，若不連結Nintendo Account， 將無法使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・更換裝置時進行資料的繼承。 ・使用Nintendo Network ID 　從『寶可夢虛擬銀行』一次轉移所有寶可夢。
+sp_option_continue_00011	[VAR FF00(0001)]若你已在使用Nintendo Switch版Pokémon HOME， 或今後預定使用，請務必現在進行連結。 <b>若現在不進行連結，之後將無法連結。</b>[VAR FF00(0000)]  此外，若不連結Nintendo Account， 將無法使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・更換裝置時進行資料的繼承。 ・使用Nintendo Network ID 　從『寶可夢虛擬銀行』一次轉移所有寶可夢。
 sp_option_continue_00012	可隨時按照以下步驟， 來連結Nintendo Account。  [設定] ↓ [帳號] ↓ [Nintendo Account連結]
 sp_option_continue_00013	連結失敗。 將回到上一個畫面。
-sp_option_continue_00014	透過連結Nintendo Account， 可與Nintendo Switch版Pokémon HOME 或『寶可夢虛擬銀行』連動。  ※若你已在使用Nintendo Switch版 Pokémon HOME，或今後預定使用， 請務必現在選擇<b>連結</b>進行連結。  <b>若現在不進行連結，之後將無法連結。</b>
+sp_option_continue_00014	透過連結Nintendo Account， 可與Nintendo Switch版Pokémon HOME 或『寶可夢虛擬銀行』連動。  [VAR FF00(0001)]※若你已在使用Nintendo Switch版 Pokémon HOME，或今後預定使用， 請務必現在選擇<b>連結</b>進行連結。  <b>若現在不進行連結，之後將無法連結。</b>[VAR FF00(0000)]
 sp_option_continue_00015	繼承帳號
 sp_option_continue_00016	第一次使用Pokémon HOME
 sp_option_continue_00017	與Nintendo Switch版Pokémon HOME 共享使用狀況。
@@ -7759,7 +7759,7 @@ sp_option_continue_00018	已確認到Nintendo Switch版 Pokémon HOME的使用�
 sp_option_continue_00019	已確認到Pokémon HOME的使用紀錄。 將繼承帳號並開始本應用程式。
 sp_option_continue_00020	已和Nintendo Account連結
 sp_option_input_name_00001	請輸入名字。 （最多６個字）
-sp_option_input_name_00002	※之後可以變更。 ※請勿使用真實姓名、拼音或 　其他可用於辨識用戶身分的資訊。
+sp_option_input_name_00002	[VAR FF00(0001)]※之後可以變更。 ※請勿使用真實姓名、拼音或 　其他可用於辨識用戶身分的資訊。[VAR FF00(0000)]
 sp_option_input_name_00003	請輸入名字。
 sp_option_input_name_00004	輸入用戶名
 sp_option_input_name_00005	輕點以輸入名字
@@ -7768,8 +7768,8 @@ sp_option_input_name_00007	無法設定６個字 皆為數字的名字。
 sp_option_input_name_00008	名字中包含了 無法使用的文字。
 sp_option_icon_select_00001	選擇用戶頭像
 sp_option_icon_select_00002	請選擇頭像。
-sp_option_icon_select_00003	※之後可以變更。
-sp_option_nameandicon_0001	確定要使用這個名字和頭像嗎？ ※之後可以變更。
+sp_option_icon_select_00003	[VAR FF00(0001)]※之後可以變更。[VAR FF00(0000)]
+sp_option_nameandicon_0001	確定要使用這個名字和頭像嗎？ [VAR FF00(0001)]※之後可以變更。[VAR FF00(0000)]
 sp_option_00001	還原至初始設定
 sp_option_00002	系統
 sp_option_00003	設定儲存失敗。 將還原至變更前的設定。
@@ -7844,7 +7844,7 @@ sp_option_account_00014	此帳號已與其他Pokémon HOME連結。
 sp_option_account_00015	繼續進行上次中斷的帳號連結操作。
 sp_option_account_00016	連結Nintendo Account後可使用的功能
 sp_option_account_00017	連結後可使用功能的注意事項
-sp_option_account_00018	可在Pokémon HOME使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・更換裝置時進行資料的繼承。 ・使用Nintendo Network ID 　從『寶可夢虛擬銀行』一次轉移所有寶可夢。  ※若你已在使用Nintendo Switch版 Pokémon HOME，或今後預定使用， 請務必現在進行連結。  <b>若現在不進行連結，之後將無法連結。</b>  d 要連結 dNintendo Account嗎？
+sp_option_account_00018	可在Pokémon HOME使用以下功能。  ・與Nintendo Switch版Pokémon HOME 　共享使用狀況。 ・更換裝置時進行資料的繼承。 ・使用Nintendo Network ID 　從『寶可夢虛擬銀行』一次轉移所有寶可夢。  [VAR FF00(0001)]※若你已在使用Nintendo Switch版 Pokémon HOME，或今後預定使用， 請務必現在進行連結。  <b>若現在不進行連結，之後將無法連結。</b> [VAR FF00(0000)] d 要連結 dNintendo Account嗎？
 sp_option_account_00019	開始連結Nintendo Account
 sp_option_account_00020	帳號
 sp_option_account_00021	上次的轉移
@@ -7854,7 +7854,7 @@ sp_option_account_00024	可變更為其他的Nintendo Account。
 sp_option_account_00025	變更Nintendo Account
 sp_option_account_00026	Nintendo Account已變更。 將返回標題畫面。
 sp_option_account_00027_vgo	請注意若變更了Nintendo Account， 將無法重新連結到原本的Nintendo Account。
-sp_option_account_00028_vgo	若將目前連結的Nintendo Account 變更為其他的Nintendo Account， 原本的Nintendo Account將無法 使用『Pokémon HOME』。  確定要變更Nintendo Account嗎？
+sp_option_account_00028_vgo	[VAR FF00(0001)]若將目前連結的Nintendo Account 變更為其他的Nintendo Account， 原本的Nintendo Account將無法 使用『Pokémon HOME』。  確定要變更Nintendo Account嗎？[VAR FF00(0000)]
 sp_option_account_00029_vgo	可變更為從未與Pokémon HOME 連結過的其他Nintendo Account。
 sp_option_MONSNAME_722	妙蛙種子
 sp_option_MONSNAME_725	小火龍
@@ -7875,19 +7875,19 @@ sp_option_nalink_0001_v2	Pokémon HOME連結至Nintendo Account後， 將可使�
 sp_option_nalink_0002_v2	連結Nintendo Account後可使用的功能
 sp_option_nalink_0003_v2	・ 
 sp_option_nalink_0004_v2	若你已在使用Nintendo Switch版Pokémon HOME， 或今後預定使用，請務必進行連結。
-sp_option_nalink_0005_v2	<b>若現在不進行連結，之後將無法連結。</b>
+sp_option_nalink_0005_v2	[VAR FF00(0001)]<b>若現在不進行連結，之後將無法連結。</b>[VAR FF00(0000)]
 sp_option_nalink_0006_v2	連結至Nintendo Account並開始使用
 sp_option_nalink_0007_v2	請先確認要使用的Nintendo Account， 再連結至Nintendo Account。
-sp_option_nalink_0008_v2	※若不清楚要連結到哪一個Nintendo Account， 請在以下的任一個連結進行確認。
+sp_option_nalink_0008_v2	[VAR FF00(0001)]※若不清楚要連結到哪一個Nintendo Account， 請在以下的任一個連結進行確認。[VAR FF00(0000)]
 sp_option_nalink_0009_v2	在Nintendo Switch確認
 sp_option_nalink_0010_v2	確認Nintendo Account登錄資訊
 sp_option_nalink_0011_v2	已確認要連結的Nintendo Account了嗎？
 sp_option_nalink_0012_v2	是，我已確認並想要連結
 sp_option_nalink_0013_v2	不，我想以訪客帳號開始
-sp_option_nalink_0014_v2	<u><b>若使用了錯誤的Nintendo Account，</b></u> <u><b>將無法使用以下功能。</b></u>
+sp_option_nalink_0014_v2	[VAR FF00(0001)]<u><b>若使用了錯誤的Nintendo Account，</b></u> <u><b>將無法使用以下功能。</b></u>[VAR FF00(0000)]
 sp_option_nalink_0015_v2	請留意不要連結到 錯誤的Nintendo Account。
 sp_option_nalink_0016_v2	若你已在使用Nintendo Switch版Pokémon HOME， 或今後預定使用，請務必現在進行連結。
-sp_option_nalink_0017_v2	請留意若以訪客帳號開始使用， 將無法使用以下功能。
+sp_option_nalink_0017_v2	請留意若以訪客帳號開始使用， [VAR FF00(0001)]將無法使用[VAR FF00(0000)]以下功能。
 sp_option_nalink_0018_v2	訪客帳號無法使用的功能
 sp_option_nalink_0019_v2	以訪客帳號開始
 sp_option_nalink_0020_v2	要以訪客帳號開始嗎？
@@ -7900,14 +7900,14 @@ sp_option_nalink_0026_v2	要開始連結Nintendo Switch版Pokémon HOME 與智�
 sp_option_nalink_0027_v2	第一次使用Pokémon HOME
 sp_option_nalink_0028_v2	在已連結的Nintendo Account中 無法確認到Nintendo Switch版 Pokémon HOME的使用紀錄。
 sp_option_nalink_0029_v2	由於你是第一次使用， 要將智慧型手機版Pokémon HOME 連結到Nintendo Account嗎？
-sp_option_nalink_0030_v2	※若已在使用Nintendo Switch版 Pokémon HOME並出現了此畫面， 表示連結到了錯誤的Nintendo Account。 請按下「否」回到上一個畫面， 並嘗試使用其他的Nintendo Account。
+sp_option_nalink_0030_v2	[VAR FF00(0001)]※若已在使用Nintendo Switch版 Pokémon HOME並出現了此畫面， 表示連結到了錯誤的Nintendo Account。 請按下「否」回到上一個畫面， 並嘗試使用其他的Nintendo Account。[VAR FF00(0000)]
 sp_option_nalink_0031_v2	以訪客身分開始
 sp_option_nalink_0032_v2	與Nintendo Switch版Pokémon HOME 或遊戲軟體的連結。
 sp_option_nalink_0033_v2	從『寶可夢虛擬銀行』轉移寶可夢。
 sp_option_nalink_0034_v2	更換裝置時進行資料的繼承。
 sp_option_nalink_0035_v2	不連結
 sp_option_nalink_0036_v2	以訪客帳號開始前的最終確認
-sp_option_nalink_0037_v2	※按下[否]後將回到連結 Nintendo Account的確認畫面。
+sp_option_nalink_0037_v2	[VAR FF00(0001)]※按下[否]後將回到連結 Nintendo Account的確認畫面。[VAR FF00(0000)]
 sp_option_nalink_0038_v2	確認在『寶可夢』系列參加過的 「網路大賽（官方大賽／夥伴大賽）」或 「級別對戰」的個人成績。
 sp_option_nalink_0039_v2	確認『寶可夢』系列的個人成績。
 sp_option_nalink_0040_v2	用戶服務首頁
@@ -8004,7 +8004,7 @@ sp_playerlog_00014	[VAR 0100(0001)]在[VAR 0200(0000)]領取了
 sp_playerlog_00015	放生了
 sp_playerlog_00016	已透過神秘禮物接收
 sp_playerlog_00017	傳送了[VAR 0203(0000)]隻寶可夢
-sp_playerlog_00018	[VAR 0102(0001)]的[VAR 0100(0000)]
+sp_playerlog_00018	[VAR 0100(0000)]的[VAR 0100(0001)]
 sp_playerlog_00019	傳送的寶可夢
 sp_playerlog_00020	接收的寶可夢
 sp_playerlog_00021	接收的人
@@ -8093,7 +8093,7 @@ sp_trade_01004	這是寄放在奇蹟盒子的寶可夢。 無法選擇。
 sp_trade_01005	無法操作。
 sp_trade_01006	這是在「我的最愛」中的寶可夢。 無法選擇。
 sp_trade_02001	將[VAR 0102(0000)]發送給[VAR 0100(0001)]！ 拜拜，[VAR 0102(0000)]。
-sp_trade_02002	[VAR 0100(0001)]送來了 [VAR 0102(0000)]！
+sp_trade_02002	[VAR 0100(0000)]送來了 [VAR 0102(0001)]！
 sp_trade_02003	要好好疼愛[VAR 0102(0000)]喔！
 sp_trade_02004	將[VAR 0102(0000)]寄放到ＧＴＳ！ 拜拜，[VAR 0102(0000)]。
 sp_trade_02005	[VAR 0102(0000)]從ＧＴＳ來了！
@@ -8118,7 +8118,7 @@ sp_trade_miracle_00008	[VAR 0102(0000)]已經被交換了。
 sp_trade_miracle_00010	交換完成！
 sp_trade_miracle_00011	無法登錄。  請稍後再試。
 sp_trade_miracle_00013_v3	要對選擇的寶可夢做什麼？
-sp_trade_miracle_00013_1_v3	（目前選擇了[VAR 0200(0000)]隻寶可夢）
+sp_trade_miracle_00013_1_v3	（目前選擇了[VAR 0201(0000)]隻寶可夢）
 sp_trade_miracle_00014_v3	寄放寶可夢
 sp_trade_miracle_00015_v3	查看寶可夢的能力
 sp_trade_miracle_00016_v3	選擇的寶可夢數量 不能超過剩餘的空位數量。
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	朋友交換
 sp_ui_record	紀錄
 sp_ui_player_log	手帳
 sp_ui_library_progress_v10	圖鑑進度
-sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
+sp_ui_library_progress_frac_v10	[VAR 0202(0000)]/[VAR 0202(0001)]
 sp_ui_national_library	全國圖鑑
 sp_ui_software_library_v10	軟體圖鑑
 sp_ui_other_library_v10	其他
@@ -8373,12 +8373,12 @@ sp_ui_title_menu_05_dialog_done	已清除快取。
 sp_ui_title_menu_support_id	服務ID
 sp_ui_title_menu_06_v1	複製服務ID
 sp_ui_title_menu_06_dialog_text_v1	已複製到剪貼簿
-sp_ui_title_nalink_v2	Nintendo Account的資訊已變更， 請重新登入Nintendo Account。  無法使用與原本使用的Nintendo Account 不同的Nintendo Account登入。
+sp_ui_title_nalink_v2	Nintendo Account的資訊已變更， 請重新登入Nintendo Account。  [VAR FF00(0001)]無法使用與原本使用的Nintendo Account 不同的Nintendo Account登入。[VAR FF00(0000)]
 sp_ui_title_nalink_complete_v2	已成功登入Nintendo Account。
 sp_ui_title_nalink_error_v2	登入的Nintendo Account與 目前連結的Nintendo Account不同。
 sp_ui_title_license	版權標記
 sp_ui_ngname_confirm_title	變更用戶名
-sp_ui_ngname_confirm_body	由於原本使用的用戶名 含有無法使用的字詞， 請變更用戶名。  變更前的用戶名 [VAR 0100(0000)]
+sp_ui_ngname_confirm_body	由於原本使用的用戶名 含有無法使用的字詞， 請變更用戶名。  變更前的用戶名 [VAR FF00(0001)][VAR 0100(0000)][VAR FF00(0000)]
 sp_ui_downlod_0001	正在啟動……
 sp_ui_downlod_0002	正在下載主要資料……
 sp_ui_downlod_0003	主要資料下載完成。
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	語言
 sp_ui_my_parent_v6	我的初訓家／IDNo.
 sp_ui_my_parent_set_v6	我的初訓家／IDNo.
 sp_ui_my_parent_no_set_v6	我的初訓家／IDNo.以外
-sp_ui_filter_parent	[VAR 0100(0001)]:[VAR 0205(0000,0000)]
+sp_ui_filter_parent	[VAR 0100(0000)]:[VAR 0205(0001,0000)]
 sp_ui_filter_seikaku_1_m	勤奮＋薄荷
 sp_ui_filter_seikaku_2_m	怕寂寞＋薄荷
 sp_ui_filter_seikaku_3_m	勇敢＋薄荷
@@ -8522,7 +8522,7 @@ sp_ui_svbd_back	返回
 sp_ui_all_pokemon	所有寶可夢
 sp_ui_release	解除
 sp_ui_goodby	放生
-sp_ui_goodby_confirm	確定要放生嗎？  ※已加入「我的最愛」 的寶可夢無法放生。
+sp_ui_goodby_confirm	確定要放生嗎？  [VAR FF00(0001)]※已加入「我的最愛」 的寶可夢無法放生。[VAR FF00(0000)]
 sp_ui_goodby_singular	已將[VAR 0102(0000)]放生了。 再見了，[VAR 0102(0000)]！
 sp_ui_goodby_plural	已將[VAR 0102(0000)]牠們放生了。 再見了，大家！
 sp_ui_set_label_max	有寶可夢已貼滿了標籤。
@@ -8534,10 +8534,10 @@ sp_ui_bank_empty_list	沒有可顯示的寶可夢。
 sp_ui_bank_freebox	免費盒子
 sp_ui_bank_freebox_remaining	不在免費盒子內的寶可夢
 sp_ui_bank_change_plan_confirm	若要顯示所有的寶可夢， 需變更為進階方案。  要變更方案嗎？
-sp_ui_bank_favall	※已加入「我的最愛」 的寶可夢無法放生。
+sp_ui_bank_favall	[VAR FF00(0001)]※已加入「我的最愛」 的寶可夢無法放生。[VAR FF00(0000)]
 sp_ui_lastet_update	最新30
 sp_ui_select_max_v3	１次最多可選擇 １００隻寶可夢。
-sp_ui_no_num	No.[VAR 0200(0000)]
+sp_ui_no_num	No.[VAR 0201(0000)]
 sp_ui_lv_num	Lv.[VAR 0200(0000)]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	訓練家筆記
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	還算可以的能力
 sp_ui_total_evaluate_02	中等偏上的能力
 sp_ui_total_evaluate_03	相當優秀的能力
 sp_ui_total_evaluate_04	了不起的能力！
-sp_ui_lumpribbon_num	[VAR 0200(0000)]個
+sp_ui_lumpribbon_num	[VAR 0201(0000)]個
 sp_ui_parent_and_id_v4	初訓家與IDNo.
-sp_ui_trainermemo_01_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 在[VAR 0105(0000)] 遇見了牠。
-sp_ui_trainermemo_02_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 好像是在[VAR 0105(0000)] 遇見了牠。
-sp_ui_trainermemo_03_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
-sp_ui_trainermemo_04_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 好像是在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
-sp_ui_trainermemo_05_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日，好像是在 令人懷念的[VAR 0105(0000)] 遇見了牠。
-sp_ui_trainermemo_06_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日，好像是在 令人懷念的[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_01_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 在[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 遇見了牠。
+sp_ui_trainermemo_02_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 好像是在[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 遇見了牠。
+sp_ui_trainermemo_03_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 在[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_04_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日， 好像是在[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 彷彿命中注定般地遇見了牠。
+sp_ui_trainermemo_05_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日，好像是在 令人懷念的[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 遇見了牠。
+sp_ui_trainermemo_06_v04	[VAR 0203(0001)]年[VAR 0201(0002)]月[VAR 0201(0003)]日，好像是在 令人懷念的[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 彷彿命中注定般地遇見了牠。
 sp_ui_encountedplace_v10	相遇的地方
 sp_ui_encountedplace_pokeshifter_v10	Poké Transfer
 sp_ui_encountedplace_nostalgickanto_v10	令人懷念的關都地區
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	編輯標籤
 sp_ui_label_seting_please	請設定標籤的名稱與顏色。
 sp_ui_label_name	標籤名
 sp_ui_label_input_please	最多８個字
-sp_ui_label_input_limit_v1	最多[VAR 0200(0000)]個字
+sp_ui_label_input_limit_v1	最多[VAR 0201(0000)]個字
 sp_ui_label_over_size	超過字數限制。
 sp_ui_label_cant_use_word	包含無法使用的文字。
 sp_ui_icon	圖示
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	壁紙設定
 sp_ui_seal_00009	要設定成這張壁紙嗎？
 sp_ui_seal_00010	撕除貼紙
 sp_ui_seal_00011	要把貼紙放回列表嗎？
-sp_ui_seal_00012	無法再貼更多的[VAR 0109(0000)]了。
+sp_ui_seal_00012	無法再貼更多的[VAR 0200(0000)]了。
 sp_ui_seal_00013	有變更的內容。 要儲存嗎？
 sp_ui_seal_00014	確定要撕除所有貼紙嗎？
 sp_ui_seal_filter_01_01	可使用的貼紙
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	沒有神秘禮物。
 sp_ui_gift_03001	序號
 sp_ui_gift_03002	請輸入序號。
 sp_ui_gift_select_title	確認選擇的寶可夢
-sp_ui_gift_select_confirm	確定要選[VAR 0101(0000)]嗎？  ※之後無法變更選擇的寶可夢
+sp_ui_gift_select_confirm	確定要選[VAR 0101(0000)]嗎？  [VAR FF00(0001)]※之後無法變更選擇的寶可夢[VAR FF00(0000)]
 sp_ui_gift_select_reselect	重新選擇
 sp_ui_achieve_dialog_all_clear	已完成
 sp_ui_achieve_dialog_header_title	完成獎勵
@@ -8769,7 +8769,7 @@ sp_ui_memory_v5	紀念日
 sp_ui_calendar_year_v5	年
 sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]年
 sp_ui_calendar_numerical_year_month_v5	[VAR 0203(0000)]年[VAR 0201(0001)]月
-sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]月[VAR 0201(0001)]日
+sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0000)]月[VAR 0201(0001)]日
 sp_ui_calendar_numerical_date_v5	[VAR 0203(0000)]年[VAR 0201(0001)]月[VAR 0201(0002)]日
 sp_ui_calendar_illegal_date_v5	日期不明
 sp_ui_calendar_date_v5	日期
@@ -11336,31 +11336,31 @@ TOKUSEI_310	毒傀儡
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_tch.msbt
 ~~~~~~~~~~~~~~~
-trmemo_01_01	勤奮的性格。
-trmemo_01_02	怕寂寞的性格。
-trmemo_01_03	勇敢的性格。
-trmemo_01_04	固執的性格。
-trmemo_01_05	頑皮的性格。
-trmemo_01_06	大膽的性格。
-trmemo_01_07	坦率的性格。
-trmemo_01_08	悠閒的性格。
-trmemo_01_09	淘氣的性格。
-trmemo_01_10	樂天的性格。
-trmemo_01_11	膽小的性格。
-trmemo_01_12	急躁的性格。
-trmemo_01_13	認真的性格。
-trmemo_01_14	爽朗的性格。
-trmemo_01_15	天真的性格。
-trmemo_01_16	內斂的性格。
-trmemo_01_17	慢吞吞的性格。
-trmemo_01_18	冷靜的性格。
-trmemo_01_19	害羞的性格。
-trmemo_01_20	馬虎的性格。
-trmemo_01_21	溫和的性格。
-trmemo_01_22	溫順的性格。
-trmemo_01_23	自大的性格。
-trmemo_01_24	慎重的性格。
-trmemo_01_25	浮躁的性格。
+trmemo_01_01	[VAR FF00(0002)]勤奮[VAR FF00(0000)]的性格。
+trmemo_01_02	[VAR FF00(0002)]怕寂寞[VAR FF00(0000)]的性格。
+trmemo_01_03	[VAR FF00(0002)]勇敢[VAR FF00(0000)]的性格。
+trmemo_01_04	[VAR FF00(0002)]固執[VAR FF00(0000)]的性格。
+trmemo_01_05	[VAR FF00(0002)]頑皮[VAR FF00(0000)]的性格。
+trmemo_01_06	[VAR FF00(0002)]大膽[VAR FF00(0000)]的性格。
+trmemo_01_07	[VAR FF00(0002)]坦率[VAR FF00(0000)]的性格。
+trmemo_01_08	[VAR FF00(0002)]悠閒[VAR FF00(0000)]的性格。
+trmemo_01_09	[VAR FF00(0002)]淘氣[VAR FF00(0000)]的性格。
+trmemo_01_10	[VAR FF00(0002)]樂天[VAR FF00(0000)]的性格。
+trmemo_01_11	[VAR FF00(0002)]膽小[VAR FF00(0000)]的性格。
+trmemo_01_12	[VAR FF00(0002)]急躁[VAR FF00(0000)]的性格。
+trmemo_01_13	[VAR FF00(0002)]認真[VAR FF00(0000)]的性格。
+trmemo_01_14	[VAR FF00(0002)]爽朗[VAR FF00(0000)]的性格。
+trmemo_01_15	[VAR FF00(0002)]天真[VAR FF00(0000)]的性格。
+trmemo_01_16	[VAR FF00(0002)]內斂[VAR FF00(0000)]的性格。
+trmemo_01_17	[VAR FF00(0002)]慢吞吞[VAR FF00(0000)]的性格。
+trmemo_01_18	[VAR FF00(0002)]冷靜[VAR FF00(0000)]的性格。
+trmemo_01_19	[VAR FF00(0002)]害羞[VAR FF00(0000)]的性格。
+trmemo_01_20	[VAR FF00(0002)]馬虎[VAR FF00(0000)]的性格。
+trmemo_01_21	[VAR FF00(0002)]溫和[VAR FF00(0000)]的性格。
+trmemo_01_22	[VAR FF00(0002)]溫順[VAR FF00(0000)]的性格。
+trmemo_01_23	[VAR FF00(0002)]自大[VAR FF00(0000)]的性格。
+trmemo_01_24	[VAR FF00(0002)]慎重[VAR FF00(0000)]的性格。
+trmemo_01_25	[VAR FF00(0002)]浮躁[VAR FF00(0000)]的性格。
 trmemo_03_01_00	非常喜歡吃東西。
 trmemo_03_01_01	經常睡午覺。
 trmemo_03_01_02	常常打瞌睡。
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	有一點點愛慕虛榮。
 trmemo_03_06_02	爭強好勝。
 trmemo_03_06_03	不服輸。
 trmemo_03_06_04	有一點點固執。
-trmemo_bank_01_01	在[VAR 0105(0000)] 遇見了牠。
-trmemo_bank_01_02	好像是在[VAR 0105(0000)] 遇見了牠。
-trmemo_bank_02_01	在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
-trmemo_bank_02_02	好像是在[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
-trmemo_bank_03_01	在令人懷念的[VAR 0105(0000)] 遇見了牠。
-trmemo_bank_03_02	好像是在 令人懷念的[VAR 0105(0000)] 遇見了牠。
-trmemo_bank_04_01	在令人懷念的[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
-trmemo_bank_04_02	好像是在 令人懷念的[VAR 0105(0000)] 彷彿命中注定般地遇見了牠。
+trmemo_bank_01_01	在[VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]遇見了牠。
+trmemo_bank_01_02	好像是在[VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]遇見了牠。
+trmemo_bank_02_01	在[VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]彷彿命中注定般地遇見了牠。
+trmemo_bank_02_02	好像是在[VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]彷彿命中注定般地遇見了牠。
+trmemo_bank_03_01	在令人懷念的[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 遇見了牠。
+trmemo_bank_03_02	好像是在 令人懷念的[VAR FF00(0002)][VAR 0105(0000)] [VAR FF00(0000)]遇見了牠。
+trmemo_bank_04_01	在令人懷念的[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 彷彿命中注定般地遇見了牠。
+trmemo_bank_04_02	好像是在 令人懷念的[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)] 彷彿命中注定般地遇見了牠。
 
 ~~~~~~~~~~~~~~~
 Text File : typename_tch.msbt

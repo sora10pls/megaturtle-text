@@ -7457,7 +7457,7 @@ sp_friend_03008	Questo utente ha raggiunto il numero massimo di amici.
 sp_friend_03009	Vuoi accettare la richiesta di amicizia di questo utente?
 sp_friend_03010	Non puoi inserire il tuo codice amico.
 sp_friend_03012	Vuoi cancellare questa richiesta di amicizia?
-sp_friend_dialogmsg_00	Vuoi rimuovere questo utente dalla lista degli amici?  L'utente non riceverà alcuna notifica.
+sp_friend_dialogmsg_00	Vuoi rimuovere questo utente dalla lista degli amici?  [VAR FF00(0001)]L'utente non riceverà alcuna notifica.[VAR FF00(0000)]
 sp_friend_dialogmsg_01	La lista degli amici verrà aggiornata.
 sp_friend_empty_list	La lista è vuota. Aggiungi degli amici.
 
@@ -7486,7 +7486,7 @@ sp_labelcolor_18_v2	Etichette rosa
 ~~~~~~~~~~~~~~~
 Text File : sp_languageconfirm_ita.msbt
 ~~~~~~~~~~~~~~~
-sp_languageconfirm_001	Vuoi confermare la scelta di questa lingua? <b>Italiano</b>  La lingua può essere modificata in seguito.
+sp_languageconfirm_001	Vuoi confermare la scelta di questa lingua? <b>Italiano</b>  [VAR FF00(0001)]La lingua può essere modificata in seguito.[VAR FF00(0000)]
 sp_languageconfirm_002	Sì
 sp_languageconfirm_003	No
 sp_languageconfirm_004	Conferma la lingua scelta
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_ita.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	Banca Pokémon Versione [VAR 0200(0000)] o successiva
-sp_migration_00003	Pokémon HOME [VAR 0200(0000)] spazi liberi
+sp_migration_00002	Banca Pokémon Versione [VAR 0201(0000)] o successiva
+sp_migration_00003	Pokémon HOME [VAR 0202(0000)] [VAR 1101(0000,0C0D)]spazio liberospazi liberi
 sp_migration_00004	Puoi trasferire dei Pokémon dalla Banca Pokémon per Nintendo 3DS.
 sp_migration_00005	I Pokémon trasferiti in Pokémon HOME non potranno essere ritrasferiti nel Nintendo 3DS!
 sp_migration_00006	Inizia il trasferimento!
@@ -7522,7 +7522,7 @@ sp_migration_04002	Tutto pronto!
 sp_migration_05001	Il codice trasferimento è valido solo per <B>tre minuti</B>. Inserisci il codice nella Banca Pokémon prima che scada.
 sp_migration_05002	Una volta che il codice trasferimento è attivo, non potrai tornare alla schermata precedente per <B>tre minuti</B>!
 sp_migration_05003	Visualizza il codice trasferimento
-sp_migration_06001	Non c'è abbastanza spazio per tutti i tuoi Pokémon! Fai spazio per <B>[VAR 0203(0000)]Ā</B> Pokémon!
+sp_migration_06001	Non c'è abbastanza spazio per tutti i tuoi Pokémon! Fai spazio per <B>[VAR 0203(0000)]</B> Pokémon!
 sp_migration_06002	Riorganizza i tuoi Pokémon in modo da assicurare abbastanza spazio.
 sp_migration_06003	Il trasferimento verrà interrotto.
 sp_migration_07001	L'account Nintendo attualmente in uso non è collegato a un Nintendo Network ID.
@@ -7534,13 +7534,13 @@ sp_migration_09001	Il codice trasferimento non è più valido.
 sp_migration_09002	Utilizza un nuovo codice trasferimento se vuoi riprovare a eseguire il trasferimento.
 sp_migration_09003	Visualizza un nuovo codice trasferimento!
 sp_migration_10001	Trasferimento in corso...
-sp_migration_10002	Non potrai usare Pokémon HOME finché il trasferimento non sarà completato!
+sp_migration_10002	[VAR FF00(0001)]Non potrai usare Pokémon HOME finché il trasferimento non sarà completato![VAR FF00(0000)]
 sp_migration_10003	Attendi che il trasferimento venga completato.
 sp_migration_11001	Trasferimento completato!
 sp_migration_11002	Ti diamo il benvenuto su Pokémon HOME!
 sp_migration_12001	Regali
 sp_migration_12002	Primo trasferimento
-sp_migration_12003	[VAR 0203(0000)] Ā punt[VAR 1101(0000,0101)]oi
+sp_migration_12003	[VAR 0203(0000)] punt [VAR 1101(0000,0101)]oi
 sp_migration_13001	Per effettuare il trasferimento tramite Nintendo Network ID devi prima collegare il tuo account Nintendo.  Puoi farlo dalla schermata Opzioni.
 sp_migration_13002	Trasferimento non riuscito.
 
@@ -7721,10 +7721,10 @@ sp_option_terms_00011	Accetta l'informativa sulla privacy
 sp_option_language_title	Selezione della lingua
 sp_option_language_select	Che lingua vuoi utilizzare?
 sp_option_language_select_please	Seleziona una lingua.
-sp_option_language_select_00002	Consigliamo ai più piccoli di scegliere con l'aiuto di un adulto!
+sp_option_language_select_00002	[VAR FF00(0001)]Consigliamo ai più piccoli di scegliere con l'aiuto di un adulto![VAR FF00(0000)]
 sp_option_language_select_00003	Conferma la lingua scelta
 sp_option_country_select_00001	Scegli il tuo paese/la tua regione
-sp_option_country_select_00002	Hai scelto <b>[VAR 0105(0000)]</b>. Confermi?  Puoi cambiare la tua selezione in seguito.
+sp_option_country_select_00002	Hai scelto <b>[VAR 0105(0000)]</b>. Confermi?  [VAR FF00(0001)]Puoi cambiare la tua selezione in seguito.[VAR FF00(0000)]
 sp_option_country_select_00003	In che paese o regione abiti?
 sp_option_country_select_00004	Conferma il paese/la regione
 sp_option_country_reselect_title	Aggiornamento impostazioni paese/regione
@@ -7732,7 +7732,7 @@ sp_option_country_reselect_body	La schermata lotte è stata aggiornata. Adesso s
 sp_option_birthday_select_00001	Inserisci la tua data di nascita.
 sp_option_birthday_select_00002	Inserisci qui sotto la tua data di nascita per verificare la tua età.
 sp_option_birthday_select_00003	Si è verificato un problema con la data di nascita inserita.
-sp_option_birthday_select_00004	Non potrai cambiare la data di nascita in seguito.
+sp_option_birthday_select_00004	[VAR FF00(0001)]Non potrai cambiare la data di nascita in seguito.[VAR FF00(0000)]
 sp_option_birthday_select_00005	Conferma i tuoi dati
 sp_option_birthday_select_00006	C'è un problema con la data inserita.
 sp_option_year	Anno
@@ -7748,10 +7748,10 @@ sp_option_continue_00007	Cosa succede se non collego un account Nintendo?
 sp_option_continue_00008	Crea o collega
 sp_option_continue_00009	Non collegare
 sp_option_continue_00010	Cos'è un account Nintendo?
-sp_option_continue_00011	Se stai usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, ti preghiamo di collegare adesso i tuoi account. <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>  Se non colleghi un account Nintendo, non potrai utilizzare le seguenti funzioni:  ・ Sincronizzazione di Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferimento dei dati su un dispositivo diverso ・ Trasferimento di Pokémon dalla Banca Pokémon a Pokémon HOME tramite Nintendo Network ID.
+sp_option_continue_00011	[VAR FF00(0001)]Se stai usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, ti preghiamo di collegare adesso i tuoi account. <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>[VAR FF00(0000)]  Se non colleghi un account Nintendo, non potrai utilizzare le seguenti funzioni:  ・ Sincronizzazione di Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferimento dei dati su un dispositivo diverso ・ Trasferimento di Pokémon dalla Banca Pokémon a Pokémon HOME tramite Nintendo Network ID.
 sp_option_continue_00012	Puoi collegare il tuo account Nintendo in qualsiasi momento dal menu delle <b>Opzioni</b> di Pokémon HOME.  Seleziona <b>Account</b> e poi l'opzione <b>Collega un account Nintendo</b>.
 sp_option_continue_00013	Il collegamento del tuo account non è riuscito. Ritorna alla schermata precedente e riprova.
-sp_option_continue_00014	Se colleghi il tuo account Nintendo potrai connetterti alla Banca Pokémon e a Pokémon HOME per Nintendo Switch.  Se stai già usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, seleziona l'opzione <b>Collega il tuo account</b> per collegare i tuoi account.  <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>
+sp_option_continue_00014	Se colleghi il tuo account Nintendo potrai connetterti alla Banca Pokémon e a Pokémon HOME per Nintendo Switch.  [VAR FF00(0001)]Se stai già usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, seleziona l'opzione <b>Collega il tuo account</b> per collegare i tuoi account. [VAR FF00(0000)] [VAR FF00(0001)]<b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>[VAR FF00(0000)]
 sp_option_continue_00015	Sincronizza un account esistente
 sp_option_continue_00016	Nuovo utente di Pokémon HOME
 sp_option_continue_00017	Sincronizza questa versione di Pokémon HOME con quella del tuo Nintendo Switch.
@@ -7759,7 +7759,7 @@ sp_option_continue_00018	Sono stati trovati dati della versione di Pokémon HOME
 sp_option_continue_00019	Sono stati trovati dati di Pokémon HOME per questo account. Verranno ora trasferiti su questo dispositivo.
 sp_option_continue_00020	L'account Nintendo è stato collegato.
 sp_option_input_name_00001	Inserisci il nome che vuoi usare per il tuo account (massimo 12 caratteri).
-sp_option_input_name_00002	Non usare il tuo vero nome, le tue iniziali o altri dati che potrebbero farti identificare. E non preoccuparti, puoi cambiare il nome in qualsiasi momento.
+sp_option_input_name_00002	[VAR FF00(0001)]Non usare il tuo vero nome, le tue iniziali o altri dati che potrebbero farti identificare. E non preoccuparti, puoi cambiare il nome in qualsiasi momento.[VAR FF00(0000)]
 sp_option_input_name_00003	Inserisci un nome
 sp_option_input_name_00004	Scegli un nome utente
 sp_option_input_name_00005	Tocca qui per inserire il nome.
@@ -7768,8 +7768,8 @@ sp_option_input_name_00007	Non puoi usare un nome composto solo da numeri.
 sp_option_input_name_00008	Almeno uno dei caratteri inseriti non può essere utilizzato.
 sp_option_icon_select_00001	Scegli l'icona del profilo
 sp_option_icon_select_00002	Scegli l'icona che più ti rappresenta.
-sp_option_icon_select_00003	Potrai cambiarla in seguito.
-sp_option_nameandicon_0001	Vanno bene questo nome e questa icona? Puoi cambiare entrambi in seguito.
+sp_option_icon_select_00003	[VAR FF00(0001)]Potrai cambiarla in seguito.[VAR FF00(0000)]
+sp_option_nameandicon_0001	Vanno bene questo nome e questa icona? [VAR FF00(0001)]Puoi cambiare entrambi in seguito.[VAR FF00(0000)]
 sp_option_00001	Ripristina le impostazioni iniziali
 sp_option_00002	Applicazione
 sp_option_00003	Si è verificato un errore durante il salvataggio delle impostazioni. Le modifiche non sono state salvate.
@@ -7844,7 +7844,7 @@ sp_option_account_00014	Questo account è già stato collegato ad altri dati di 
 sp_option_account_00015	Il collegamento verrà ripreso da dove è stato interrotto.
 sp_option_account_00016	Vantaggi del collegamento all'account Nintendo
 sp_option_account_00017	Informazioni sul collegamento all'account Nintendo
-sp_option_account_00018	In Pokémon HOME puoi fare le seguenti cose:  ・ Sincronizzare Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferire i dati su un dispositivo diverso ・ Trasferire Pokémon dalla Banca Pokémon a Pokémon HOME tramite Nintendo Network ID.  Se stai già usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, seleziona l'opzione <b>Collega il tuo account</b> per collegare i tuoi account.  <b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>  Vuoi collegare un account Nintendo?
+sp_option_account_00018	In Pokémon HOME puoi fare le seguenti cose:  ・ Sincronizzare Pokémon HOME su Nintendo Switch e su questo dispositivo mobile ・ Trasferire i dati su un dispositivo diverso ・ Trasferire Pokémon dalla Banca Pokémon a Pokémon HOME tramite Nintendo Network ID.  [VAR FF00(0001)]Se stai già usando Pokémon HOME per Nintendo Switch o hai intenzione di farlo in futuro, seleziona l'opzione <b>Collega il tuo account</b> per collegare i tuoi account. [VAR FF00(0000)] [VAR FF00(0001)]<b>Attenzione: se non colleghi i tuoi account adesso, non potrai</b> <b>più farlo in futuro.</b>[VAR FF00(0000)]  Vuoi collegare un account Nintendo?
 sp_option_account_00019	Collega un account Nintendo
 sp_option_account_00020	Account
 sp_option_account_00021	Ultimo trasferimento
@@ -7854,7 +7854,7 @@ sp_option_account_00024	È possibile utilizzare un account Nintendo diverso da q
 sp_option_account_00025	Cambia l'account Nintendo
 sp_option_account_00026	L'account Nintendo è stato cambiato. Tornerai allo schermo del titolo.
 sp_option_account_00027_vgo	Attenzione: se cambi l'account Nintendo collegato non ti sarà più possibile ricollegare l'account Nintendo precedente.
-sp_option_account_00028_vgo	Se sostituisci l'account Nintendo attualmente collegato con uno diverso, non potrai più usare Pokémon HOME con l'account Nintendo originario.  Vuoi davvero cambiare l'account Nintendo?
+sp_option_account_00028_vgo	[VAR FF00(0001)]Se sostituisci l'account Nintendo attualmente collegato con uno diverso, non potrai più usare Pokémon HOME con l'account Nintendo originario.  Vuoi davvero cambiare l'account Nintendo?[VAR FF00(0000)]
 sp_option_account_00029_vgo	Potrai sostituire l'account Nintendo con uno che non è mai stato collegato a Pokémon HOME.
 sp_option_MONSNAME_722	Bulbasaur
 sp_option_MONSNAME_725	Charmander
@@ -7875,19 +7875,19 @@ sp_option_nalink_0001_v2	Collegando un account Nintendo a Pokémon HOME potrai s
 sp_option_nalink_0002_v2	Cosa puoi fare se colleghi un account Nintendo
 sp_option_nalink_0003_v2	・ 
 sp_option_nalink_0004_v2	Se stai già usando Pokémon HOME su Nintendo Switch o intendi farlo in futuro, collega subito il tuo account.
-sp_option_nalink_0005_v2	<b>Non potrai collegare il tuo account in seguito.</b>
+sp_option_nalink_0005_v2	[VAR FF00(0001)]<b>Non potrai collegare il tuo account in seguito.</b>[VAR FF00(0000)]
 sp_option_nalink_0006_v2	Collega il tuo account Nintendo per iniziare
 sp_option_nalink_0007_v2	Prima di procedere, controlla che stai collegando l'account Nintendo corretto.
-sp_option_nalink_0008_v2	Nota: se non sai che account Nintendo collegare, prova a usare uno dei pulsanti qui sotto.
+sp_option_nalink_0008_v2	[VAR FF00(0001)]Nota: se non sai che account Nintendo collegare, prova a usare uno dei pulsanti qui sotto.[VAR FF00(0000)]
 sp_option_nalink_0009_v2	Controlla su Nintendo Switch
 sp_option_nalink_0010_v2	Controlla i dettagli del tuo account Nintendo
 sp_option_nalink_0011_v2	Hai stabilito qual è l'account Nintendo che vuoi collegare?
 sp_option_nalink_0012_v2	Sì, procediamo con il collegamento.
 sp_option_nalink_0013_v2	No, voglio usare un account ospite.
-sp_option_nalink_0014_v2	<u><b>Se colleghi l'account Nintendo sbagliato,</b></u> <u><b>non potrai svolgere le azioni elencate di seguito.</b></u>
+sp_option_nalink_0014_v2	[VAR FF00(0001)]<u><b>Se colleghi l'account Nintendo sbagliato,</b></u> <u><b>non potrai svolgere le azioni elencate di seguito.</b></u>[VAR FF00(0000)]
 sp_option_nalink_0015_v2	Assicurati di collegare l'account Nintendo corretto.
 sp_option_nalink_0016_v2	Se stai già usando Pokémon HOME su Nintendo Switch o intendi farlo in futuro, collega subito il tuo account.
-sp_option_nalink_0017_v2	Se usi un account ospite, le funzioni elencate di seguito non saranno disponibili.
+sp_option_nalink_0017_v2	Se usi un account ospite, le funzioni elencate di seguito [VAR FF00(0001)]non saranno disponibili[VAR FF00(0000)].
 sp_option_nalink_0018_v2	Funzioni non disponibili con un account ospite
 sp_option_nalink_0019_v2	Inizia con un account ospite
 sp_option_nalink_0020_v2	Vuoi usare un account ospite?
@@ -7900,14 +7900,14 @@ sp_option_nalink_0026_v2	Vuoi collegare Pokémon HOME per Nintendo Switch a Pok�
 sp_option_nalink_0027_v2	Usa Pokémon HOME per la prima volta
 sp_option_nalink_0028_v2	Non abbiamo riscontrato che stai già usando la versione per Nintendo Switch di Pokémon HOME con questo account Nintendo.
 sp_option_nalink_0029_v2	Poiché è la prima volta che usi Pokémon HOME, vuoi collegare la versione per dispositivi mobili di Pokémon HOME a un account Nintendo?
-sp_option_nalink_0030_v2	Nota: se vedi questo messaggio pur avendo già iniziato a usare Pokémon HOME per Nintendo Switch, significa che l'account Nintendo che stai cercando di collegare non è corretto. Seleziona "No" per tornare alla schermata precedente e prova a collegare un account Nintendo diverso.
+sp_option_nalink_0030_v2	[VAR FF00(0001)]Nota: se vedi questo messaggio pur avendo già iniziato a usare Pokémon HOME per Nintendo Switch, significa che l'account Nintendo che stai cercando di collegare non è corretto. Seleziona "No" per tornare alla schermata precedente e prova a collegare un account Nintendo diverso.[VAR FF00(0000)]
 sp_option_nalink_0031_v2	Inizia come ospite
 sp_option_nalink_0032_v2	Collegare Pokémon HOME e altri giochi su Nintendo Switch
 sp_option_nalink_0033_v2	Trasferire Pokémon dalla Banca Pokémon
 sp_option_nalink_0034_v2	Trasferire i dati su un altro dispositivo
 sp_option_nalink_0035_v2	Non collegare
 sp_option_nalink_0036_v2	Ultima conferma prima di iniziare con un account ospite
-sp_option_nalink_0037_v2	Nota: selezionando "No" tornerai alla schermata per collegare l'account Nintendo.
+sp_option_nalink_0037_v2	[VAR FF00(0001)]Nota: selezionando "No" tornerai alla schermata per collegare l'account Nintendo.[VAR FF00(0000)]
 sp_option_nalink_0038_v2	Controllare i risultati delle Lotte Competitive e delle Gare Online (ufficiali e private) a cui hai partecipato con i giochi della serie principale
 sp_option_nalink_0039_v2	Controllare i risultati delle lotte dei giochi della serie principale
 sp_option_nalink_0040_v2	Servizio clienti
@@ -7992,9 +7992,9 @@ sp_playerlog_00002	Hai fatto uno scambio tramite GTS.
 sp_playerlog_00003	Hai fatto uno scambio di gruppo.
 sp_playerlog_00004	Hai fatto uno scambio tramite Box prodigioso.
 sp_playerlog_00005	Hai ricevuto un Dono Segreto.
-sp_playerlog_00006	Hai usato [VAR 0203(0000)]Ā punt[VAR 1101(0000,0101)]oi.
-sp_playerlog_00007	Hai ottenuto [VAR 0203(0000)]Ā punt[VAR 1101(0000,0101)]oi.
-sp_playerlog_00008	Hai convertito [VAR 0203(0000)]Ā punt[VAR 1101(0000,0101)]oi in PL.
+sp_playerlog_00006	Hai usato [VAR 0203(0000)] punt [VAR 1101(0000,0101)]oi.
+sp_playerlog_00007	Hai ottenuto [VAR 0203(0000)] punt [VAR 1101(0000,0101)]oi.
+sp_playerlog_00008	Hai convertito [VAR 0203(0000)] punt [VAR 1101(0000,0101)]oi in PL.
 sp_playerlog_00009	Hai fatto uno <b>scambio con amici</b>.
 sp_playerlog_00010	Hai fatto uno scambio tramite <b>GTS</b>.
 sp_playerlog_00011	Hai fatto uno <b>scambio di gruppo</b>.
@@ -8003,8 +8003,8 @@ sp_playerlog_00013	[VAR 0100(0001)] ha depositato Pokémon in [VAR 0200(0000)].
 sp_playerlog_00014	[VAR 0100(0001)] ha ritirato Pokémon in [VAR 0200(0000)].
 sp_playerlog_00015	Hai liberato dei Pokémon.
 sp_playerlog_00016	Hai ricevuto un Dono Segreto.
-sp_playerlog_00017	Hai trasferito [VAR 0203(0000)]Ā Pokémon.
-sp_playerlog_00018	[VAR 0102(0001)] di [VAR 0100(0000)]
+sp_playerlog_00017	Hai trasferito [VAR 0203(0000)] Pokémon.
+sp_playerlog_00018	[VAR 0100(0001)] di [VAR 0100(0000)]
 sp_playerlog_00019	Pokémon inviato
 sp_playerlog_00020	Pokémon ricevuto
 sp_playerlog_00021	Destinatario
@@ -8093,7 +8093,7 @@ sp_trade_01004	Non puoi selezionare un Pokémon depositato nel Box prodigioso.
 sp_trade_01005	Non puoi effettuare questa azione.
 sp_trade_01006	Non puoi selezionare un Pokémon che hai aggiunto ai preferiti.
 sp_trade_02001	Stai inviando [VAR 0102(0000)] a [VAR 0100(0001)]! Ciao, [VAR 0102(0000)]!
-sp_trade_02002	[VAR 0100(0001)] ha inviato [VAR 0102(0000)]!
+sp_trade_02002	[VAR 0100(0000)] ha inviato [VAR 0102(0001)]!
 sp_trade_02003	Prenditi cura di [VAR 0102(0000)]!
 sp_trade_02004	[VAR 0102(0000)] verrà depositato nel GTS! Ciao, [VAR 0102(0000)]!
 sp_trade_02005	[VAR 0102(0000)] è arrivato dal GTS!
@@ -8118,7 +8118,7 @@ sp_trade_miracle_00008	[VAR 0102(0000)] è già stato scambiato.
 sp_trade_miracle_00010	Scambio completato!
 sp_trade_miracle_00011	Registrazione non riuscita. Riprova più tardi.
 sp_trade_miracle_00013_v3	Cosa vuoi fare con gli elementi selezionati?
-sp_trade_miracle_00013_1_v3	(Hai selezionato [VAR 0200(0000)] Pokémon)
+sp_trade_miracle_00013_1_v3	(Hai selezionato [VAR 0201(0000)] Pokémon)
 sp_trade_miracle_00014_v3	Deposita
 sp_trade_miracle_00015_v3	Guarda le info
 sp_trade_miracle_00016_v3	Non puoi selezionare un numero di Pokémon superiore a quello degli spazi disponibili.
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	Scambio con amici
 sp_ui_record	Dati di gioco
 sp_ui_player_log	Note
 sp_ui_library_progress_v10	Progressi nei Pokédex
-sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
+sp_ui_library_progress_frac_v10	[VAR 0202(0000)]/[VAR 0202(0001)]
 sp_ui_national_library	Pokédex Nazionale
 sp_ui_software_library_v10	Pokédex giochi
 sp_ui_other_library_v10	Altro
@@ -8373,12 +8373,12 @@ sp_ui_title_menu_05_dialog_done	La cache è stata svuotata.
 sp_ui_title_menu_support_id	ID cliente
 sp_ui_title_menu_06_v1	Copia ID cliente
 sp_ui_title_menu_06_dialog_text_v1	L'ID cliente è stato copiato.
-sp_ui_title_nalink_v2	Le informazioni del tuo account Nintendo sono cambiate. Effettua nuovamente l'accesso all'account.  Non puoi effettuare l'accesso con un account diverso da quello usato finora.
+sp_ui_title_nalink_v2	Le informazioni del tuo account Nintendo sono cambiate. Effettua nuovamente l'accesso all'account.  [VAR FF00(0001)]Non puoi effettuare l'accesso con un account diverso da quello usato finora.[VAR FF00(0000)]
 sp_ui_title_nalink_complete_v2	Accesso all'account Nintendo eseguito.
 sp_ui_title_nalink_error_v2	L'account Nintendo con cui hai effettuato l'accesso è diverso da quello collegato.
 sp_ui_title_license	Licenze
 sp_ui_ngname_confirm_title	Cambia il nome utente
-sp_ui_ngname_confirm_body	Il nome utente attualmente in uso include delle parole che non possono essere utilizzate. Si prega di cambiarlo.  Nome utente attuale: [VAR 0100(0000)]
+sp_ui_ngname_confirm_body	Il nome utente attualmente in uso include delle parole che non possono essere utilizzate. Si prega di cambiarlo.  Nome utente attuale: [VAR FF00(0001)][VAR 0100(0000)][VAR FF00(0000)]
 sp_ui_downlod_0001	Inizializzazione in corso...
 sp_ui_downlod_0002	Download dei dati permanenti in corso...
 sp_ui_downlod_0003	I dati permanenti sono stati scaricati.
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	Lingua
 sp_ui_my_parent_v6	Tuoi AO/ID
 sp_ui_my_parent_set_v6	AO/ID impostati come tuoi
 sp_ui_my_parent_no_set_v6	AO/ID non impostati come tuoi
-sp_ui_filter_parent	[VAR 0100(0001)]: [VAR 0205(0000,0000)]
+sp_ui_filter_parent	[VAR 0100(0000)]: [VAR 0205(0001,0000)]
 sp_ui_filter_seikaku_1_m	Ardita (nessuna menta)
 sp_ui_filter_seikaku_2_m	Schiva (o Menta Schiva)
 sp_ui_filter_seikaku_3_m	Audace (o Menta Audace)
@@ -8522,7 +8522,7 @@ sp_ui_svbd_back	Indietro
 sp_ui_all_pokemon	Tutti i Pokémon
 sp_ui_release	Deseleziona
 sp_ui_goodby	Libera
-sp_ui_goodby_confirm	Vuoi davvero procedere?  Non puoi liberare un Pokémon se è tra i tuoi preferiti.
+sp_ui_goodby_confirm	Vuoi davvero procedere?  [VAR FF00(0001)]Non puoi liberare un Pokémon se è tra i tuoi preferiti.[VAR FF00(0000)]
 sp_ui_goodby_singular	Hai liberato [VAR 0102(0000)]. Addio, [VAR 0102(0000)]!
 sp_ui_goodby_plural	Hai liberato i Pokémon selezionati. Addio, amici!
 sp_ui_set_label_max	C'è almeno un Pokémon che non può più ricevere etichette.
@@ -8534,10 +8534,10 @@ sp_ui_bank_empty_list	La lista è vuota.
 sp_ui_bank_freebox	Box base
 sp_ui_bank_freebox_remaining	Pokémon non contenuti nel Box base
 sp_ui_bank_change_plan_confirm	Per visualizzare tutti i Pokémon è necessario passare al servizio premium.  Vuoi cambiare servizio?
-sp_ui_bank_favall	Non puoi liberare un Pokémon se è tra i tuoi preferiti!
+sp_ui_bank_favall	[VAR FF00(0001)]Non puoi liberare un Pokémon se è tra i tuoi preferiti![VAR FF00(0000)]
 sp_ui_lastet_update	Ultimi 30
 sp_ui_select_max_v3	Puoi selezionare fino a 100 Pokémon alla volta.
-sp_ui_no_num	Nº [VAR 0200(0000)]
+sp_ui_no_num	Nº [VAR 0201(0000)]
 sp_ui_lv_num	L. [VAR 0200(0000)]
 sp_ui_idno_num	ID
 sp_ui_trainer_memo	Appunti Allenatore
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	Potenziale discreto
 sp_ui_total_evaluate_02	Potenziale sopra la media
 sp_ui_total_evaluate_03	Potenziale ottimo
 sp_ui_total_evaluate_04	Potenziale eccellente
-sp_ui_lumpribbon_num	[VAR 0200(0000)]
+sp_ui_lumpribbon_num	[VAR 0201(0000)]
 sp_ui_parent_and_id_v4	Allenatore Originale e ID
-sp_ui_trainermemo_01_v04	Incontrato in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)] nel seguente luogo: [VAR 0105(0000)]
-sp_ui_trainermemo_02_v04	Incontrato in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], probabilmente nel seguente luogo: [VAR 0105(0000)]
-sp_ui_trainermemo_03_v04	Ottenuto durante un evento speciale in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)] nel seguente luogo: [VAR 0105(0000)]
-sp_ui_trainermemo_04_v04	Ottenuto durante un evento speciale in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], probabilmente nel seguente luogo: [VAR 0105(0000)]
-sp_ui_trainermemo_05_v04	Probabilmente incontrato in seguito a un viaggio intriso di ricordi in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], nel seguente luogo: [VAR 0105(0000)]
-sp_ui_trainermemo_06_v04	Ottenuto durante un evento speciale in seguito a un viaggio intriso di ricordi in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], probabilmente nel seguente luogo: [VAR 0105(0000)]
+sp_ui_trainermemo_01_v04	Incontrato in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)] nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_02_v04	Incontrato in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], probabilmente nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_03_v04	Ottenuto durante un evento speciale in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)] nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_04_v04	Ottenuto durante un evento speciale in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], probabilmente nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_05_v04	Probabilmente incontrato in seguito a un viaggio intriso di ricordi in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
+sp_ui_trainermemo_06_v04	Ottenuto durante un evento speciale in seguito a un viaggio intriso di ricordi in data [VAR 0201(0003)]/[VAR 0201(0002)]/[VAR 0203(0001)], probabilmente nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]
 sp_ui_encountedplace_v10	Luogo dell'incontro
 sp_ui_encountedplace_pokeshifter_v10	Pokétrasporto
 sp_ui_encountedplace_nostalgickanto_v10	La cara vecchia regione di Kanto
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	Modifica etichetta
 sp_ui_label_seting_please	Scegli il nome e il colore dell'etichetta.
 sp_ui_label_name	Nome etichetta
 sp_ui_label_input_please	Massimo 16 caratteri
-sp_ui_label_input_limit_v1	Massimo [VAR 0200(0000)] caratteri
+sp_ui_label_input_limit_v1	Massimo [VAR 0201(0000)] caratteri
 sp_ui_label_over_size	Il nome è troppo lungo.
 sp_ui_label_cant_use_word	Hai usato caratteri non consentiti.
 sp_ui_icon	Icona
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Modifica copertina
 sp_ui_seal_00009	Vuoi impostare questo sfondo?
 sp_ui_seal_00010	Togli adesivo
 sp_ui_seal_00011	Vuoi rimettere l'adesivo nella lista?
-sp_ui_seal_00012	Hai raggiunto il limite per la categoria [VAR 0109(0000)].
+sp_ui_seal_00012	Hai raggiunto il limite per la categoria [VAR 0200(0000)].
 sp_ui_seal_00013	Hai fatto delle modifiche. Vuoi salvarle?
 sp_ui_seal_00014	Tutti gli adesivi verranno tolti. Vuoi continuare?
 sp_ui_seal_filter_01_01	Adesivi che puoi usare
@@ -8620,7 +8620,7 @@ sp_ui_gift_seal	Adesivi
 sp_ui_gift_point	Punti
 sp_ui_gift_0013_v1	illimitata
 sp_ui_gift_0014_v5	Ricevuto in data [VAR 0200(0000)]
-sp_ui_gift_0015_v5	[VAR 0200(0000)] punt[VAR 1101(0000,0101)]oi
+sp_ui_gift_0015_v5	[VAR 0200(0000)] punt [VAR 1101(0000,0101)]oi
 sp_ui_gift_nfc_0001	Lettura NFC
 sp_ui_gift_nfc_0002	Avvicina il dispositivo al tag NFC.
 sp_ui_gift_nfc_0003	Lettura riuscita! Controlla il box regali.
@@ -8633,8 +8633,8 @@ sp_ui_gift_01001	Doni che puoi ricevere in questa zona
 sp_ui_gift_01002	Controlla il tuo box regali!
 sp_ui_gift_01003	Box regali
 sp_ui_gift_01004	Strumenti
-sp_ui_gift_01005	Ancora [VAR 0200(0000)] or[VAR 1101(0000,0101)]ae
-sp_ui_gift_01006	Ancora [VAR 0200(0000)] minut[VAR 1101(0000,0101)]oi
+sp_ui_gift_01005	Ancora [VAR 0200(0000)] or [VAR 1101(0000,0101)]ae
+sp_ui_gift_01006	Ancora [VAR 0200(0000)] minut [VAR 1101(0000,0101)]oi
 sp_ui_gift_01007	Scaduto
 sp_ui_gift_02001	Validità
 sp_ui_gift_02002	Giorni: [VAR 0200(0000)]
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	Non ci sono Doni Segreti.
 sp_ui_gift_03001	Codice seriale
 sp_ui_gift_03002	Inserisci il codice seriale.
 sp_ui_gift_select_title	Conferma il Pokémon selezionato
-sp_ui_gift_select_confirm	Hai selezionato [VAR 0101(0000)]. Va bene così?  Nota: il Pokémon selezionato non potrà più essere cambiato.
+sp_ui_gift_select_confirm	Hai selezionato [VAR 0101(0000)]. Va bene così?  [VAR FF00(0001)]Nota: il Pokémon selezionato non potrà più essere cambiato.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Modifica selezione
 sp_ui_achieve_dialog_all_clear	Completato!
 sp_ui_achieve_dialog_header_title	Ricompense
@@ -8657,8 +8657,8 @@ sp_ui_achieve_empty_list	La lista è vuota.
 sp_ui_achieve_join_ok	Hai raggiunto un obiettivo!
 sp_ui_achieve_join_ng	Non ci sono obiettivi disponibili.
 sp_ui_achieve_hide_seal	Raggiungi gli obiettivi e ottieni adesivi!
-sp_ui_report_01	[VAR 0203(0000)]̀
-sp_ui_report_02	[VAR 0203(0000)]̀
+sp_ui_report_01	[VAR 0203(0000)]
+sp_ui_report_02	[VAR 0203(0000)]
 sp_ui_report_03	Pokémon depositati
 sp_ui_report_04	Pokémon ritirati
 sp_ui_report_05	Totale punti guadagnati
@@ -8694,7 +8694,7 @@ sp_ui_notice_001_v5	Torna alla tua Home
 sp_ui_voice_input	Verifica audio microfono in corso...
 sp_ui_voice_input_error	Si è verificato un errore.  Tocca l'icona del microfono per riprovare.
 sp_ui_recognizer_limit_error	Hai raggiunto il limite giornaliero dell'utilizzo del riconoscimento vocale.
-sp_ui_myroom_point_number	[VAR 0203(0000)]̀
+sp_ui_myroom_point_number	[VAR 0203(0000)]
 sp_ui_app_desc_0001_v3	Cos'è Pokémon HOME?
 sp_ui_app_desc_0002_v3	Pokémon HOME è un servizio basato su cloud per Nintendo Switch e dispositivi mobili compatibili ed è concepito come un luogo in cui poter tenere tutti i Pokémon.
 sp_ui_app_desc_0003_v3	Se colleghi Pokémon HOME a giochi e servizi compatibili potrai trasferirvi i Pokémon incontrati in altri giochi o, viceversa, potrai trasferire Pokémon da Pokémon HOME ad altri giochi. Inoltre potrai scambiare Pokémon con Allenatori di tutto il mondo.
@@ -8769,7 +8769,7 @@ sp_ui_memory_v5	Anniversari
 sp_ui_calendar_year_v5	Anno
 sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]
 sp_ui_calendar_numerical_year_month_v5	[VAR 0201(0001)]/[VAR 0203(0000)]
-sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0001)]/[VAR 0200(0000)]
+sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0001)]/[VAR 0201(0000)]
 sp_ui_calendar_numerical_date_v5	[VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)]
 sp_ui_calendar_illegal_date_v5	Data ignota
 sp_ui_calendar_date_v5	Data
@@ -11336,31 +11336,31 @@ TOKUSEI_310	Malia Tossica
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_ita.msbt
 ~~~~~~~~~~~~~~~
-trmemo_01_01	Natura Ardita.
-trmemo_01_02	Natura Schiva.
-trmemo_01_03	Natura Audace.
-trmemo_01_04	Natura Decisa.
-trmemo_01_05	Natura Birbona.
-trmemo_01_06	Natura Sicura.
-trmemo_01_07	Natura Docile.
-trmemo_01_08	Natura Placida.
-trmemo_01_09	Natura Scaltra.
-trmemo_01_10	Natura Fiacca.
-trmemo_01_11	Natura Timida.
-trmemo_01_12	Natura Lesta.
-trmemo_01_13	Natura Seria.
-trmemo_01_14	Natura Allegra.
-trmemo_01_15	Natura Ingenua.
-trmemo_01_16	Natura Modesta.
-trmemo_01_17	Natura Mite.
-trmemo_01_18	Natura Quieta.
-trmemo_01_19	Natura Ritrosa.
-trmemo_01_20	Natura Ardente.
-trmemo_01_21	Natura Calma.
-trmemo_01_22	Natura Gentile.
-trmemo_01_23	Natura Vivace.
-trmemo_01_24	Natura Cauta.
-trmemo_01_25	Natura Furba.
+trmemo_01_01	Natura [VAR FF00(0002)]Ardita[VAR FF00(0000)].
+trmemo_01_02	Natura [VAR FF00(0002)]Schiva[VAR FF00(0000)].
+trmemo_01_03	Natura [VAR FF00(0002)]Audace[VAR FF00(0000)].
+trmemo_01_04	Natura [VAR FF00(0002)]Decisa[VAR FF00(0000)].
+trmemo_01_05	Natura [VAR FF00(0002)]Birbona[VAR FF00(0000)].
+trmemo_01_06	Natura [VAR FF00(0002)]Sicura[VAR FF00(0000)].
+trmemo_01_07	Natura [VAR FF00(0002)]Docile[VAR FF00(0000)].
+trmemo_01_08	Natura [VAR FF00(0002)]Placida[VAR FF00(0000)].
+trmemo_01_09	Natura [VAR FF00(0002)]Scaltra[VAR FF00(0000)].
+trmemo_01_10	Natura [VAR FF00(0002)]Fiacca[VAR FF00(0000)].
+trmemo_01_11	Natura [VAR FF00(0002)]Timida[VAR FF00(0000)].
+trmemo_01_12	Natura [VAR FF00(0002)]Lesta[VAR FF00(0000)].
+trmemo_01_13	Natura [VAR FF00(0002)]Seria[VAR FF00(0000)].
+trmemo_01_14	Natura [VAR FF00(0002)]Allegra[VAR FF00(0000)].
+trmemo_01_15	Natura [VAR FF00(0002)]Ingenua[VAR FF00(0000)].
+trmemo_01_16	Natura [VAR FF00(0002)]Modesta[VAR FF00(0000)].
+trmemo_01_17	Natura [VAR FF00(0002)]Mite[VAR FF00(0000)].
+trmemo_01_18	Natura [VAR FF00(0002)]Quieta[VAR FF00(0000)].
+trmemo_01_19	Natura [VAR FF00(0002)]Ritrosa[VAR FF00(0000)].
+trmemo_01_20	Natura [VAR FF00(0002)]Ardente[VAR FF00(0000)].
+trmemo_01_21	Natura [VAR FF00(0002)]Calma[VAR FF00(0000)].
+trmemo_01_22	Natura [VAR FF00(0002)]Gentile[VAR FF00(0000)].
+trmemo_01_23	Natura [VAR FF00(0002)]Vivace[VAR FF00(0000)].
+trmemo_01_24	Natura [VAR FF00(0002)]Cauta[VAR FF00(0000)].
+trmemo_01_25	Natura [VAR FF00(0002)]Furba[VAR FF00(0000)].
 trmemo_03_01_00	Adora mangiare.
 trmemo_03_01_01	Si addormenta spesso.
 trmemo_03_01_02	Dorme a lungo.
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	È abbastanza superficiale.
 trmemo_03_06_02	È molto insolente.
 trmemo_03_06_03	Non sopporta perdere.
 trmemo_03_06_04	È un po' testardo.
-trmemo_bank_01_01	Incontrato nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_01_02	Probabilmente incontrato nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_02_01	Ottenuto durante un evento speciale nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_02_02	Probabilmente ottenuto durante un evento speciale nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_03_01	Incontrato dopo un viaggio intriso di ricordi nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_03_02	Probabilmente incontrato dopo un viaggio intriso di ricordi nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_04_01	Ottenuto durante un evento speciale dopo un viaggio intriso di ricordi nel seguente luogo: [VAR 0105(0000)].
-trmemo_bank_04_02	Probabilmente ottenuto durante un evento speciale dopo un viaggio intriso di ricordi nel seguente luogo: [VAR 0105(0000)].
+trmemo_bank_01_01	Incontrato nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_01_02	Probabilmente incontrato nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_02_01	Ottenuto durante un evento speciale nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_02_02	Probabilmente ottenuto durante un evento speciale nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_03_01	Incontrato dopo un viaggio intriso di ricordi nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_03_02	Probabilmente incontrato dopo un viaggio intriso di ricordi nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_04_01	Ottenuto durante un evento speciale dopo un viaggio intriso di ricordi nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
+trmemo_bank_04_02	Probabilmente ottenuto durante un evento speciale dopo un viaggio intriso di ricordi nel seguente luogo: [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)].
 
 ~~~~~~~~~~~~~~~
 Text File : typename_ita.msbt
@@ -17565,817 +17565,817 @@ MAPNAME_3DSLINK	Pokémon Link
 ~~~~~~~~~~~~~~~
 Text File : zkn_form_ita.msbt
 ~~~~~~~~~~~~~~~
-ZKN_FORM_000_000	———
+ZKN_FORM_000_000	
 ZKN_FORM_double_form	[VAR 01D4(0000)]/[VAR 01D4(0001)]
-ZKN_FORM_001_000	———
-ZKN_FORM_002_000	———
-ZKN_FORM_003_000	———
-ZKN_FORM_004_000	———
-ZKN_FORM_005_000	———
-ZKN_FORM_006_000	———
-ZKN_FORM_007_000	———
-ZKN_FORM_008_000	———
-ZKN_FORM_009_000	———
-ZKN_FORM_010_000	———
-ZKN_FORM_011_000	———
-ZKN_FORM_012_000	———
-ZKN_FORM_013_000	———
-ZKN_FORM_014_000	———
-ZKN_FORM_015_000	———
-ZKN_FORM_016_000	———
-ZKN_FORM_017_000	———
-ZKN_FORM_018_000	———
-ZKN_FORM_019_000	———
-ZKN_FORM_020_000	———
-ZKN_FORM_021_000	———
-ZKN_FORM_022_000	———
-ZKN_FORM_023_000	———
-ZKN_FORM_024_000	———
-ZKN_FORM_025_000	———
-ZKN_FORM_026_000	———
-ZKN_FORM_027_000	———
-ZKN_FORM_028_000	———
-ZKN_FORM_029_000	———
-ZKN_FORM_030_000	———
-ZKN_FORM_031_000	———
-ZKN_FORM_032_000	———
-ZKN_FORM_033_000	———
-ZKN_FORM_034_000	———
-ZKN_FORM_035_000	———
-ZKN_FORM_036_000	———
-ZKN_FORM_037_000	———
-ZKN_FORM_038_000	———
-ZKN_FORM_039_000	———
-ZKN_FORM_040_000	———
-ZKN_FORM_041_000	———
-ZKN_FORM_042_000	———
-ZKN_FORM_043_000	———
-ZKN_FORM_044_000	———
-ZKN_FORM_045_000	———
-ZKN_FORM_046_000	———
-ZKN_FORM_047_000	———
-ZKN_FORM_048_000	———
-ZKN_FORM_049_000	———
-ZKN_FORM_050_000	———
-ZKN_FORM_051_000	———
-ZKN_FORM_052_000	———
-ZKN_FORM_053_000	———
-ZKN_FORM_054_000	———
-ZKN_FORM_055_000	———
-ZKN_FORM_056_000	———
-ZKN_FORM_057_000	———
-ZKN_FORM_058_000	———
-ZKN_FORM_059_000	———
-ZKN_FORM_060_000	———
-ZKN_FORM_061_000	———
-ZKN_FORM_062_000	———
-ZKN_FORM_063_000	———
-ZKN_FORM_064_000	———
-ZKN_FORM_065_000	———
-ZKN_FORM_066_000	———
-ZKN_FORM_067_000	———
-ZKN_FORM_068_000	———
-ZKN_FORM_069_000	———
-ZKN_FORM_070_000	———
-ZKN_FORM_071_000	———
-ZKN_FORM_072_000	———
-ZKN_FORM_073_000	———
-ZKN_FORM_074_000	———
-ZKN_FORM_075_000	———
-ZKN_FORM_076_000	———
-ZKN_FORM_077_000	———
-ZKN_FORM_078_000	———
-ZKN_FORM_079_000	———
-ZKN_FORM_080_000	———
-ZKN_FORM_081_000	———
-ZKN_FORM_082_000	———
-ZKN_FORM_083_000	———
-ZKN_FORM_084_000	———
-ZKN_FORM_085_000	———
-ZKN_FORM_086_000	———
-ZKN_FORM_087_000	———
-ZKN_FORM_088_000	———
-ZKN_FORM_089_000	———
-ZKN_FORM_090_000	———
-ZKN_FORM_091_000	———
-ZKN_FORM_092_000	———
-ZKN_FORM_093_000	———
-ZKN_FORM_094_000	———
-ZKN_FORM_095_000	———
-ZKN_FORM_096_000	———
-ZKN_FORM_097_000	———
-ZKN_FORM_098_000	———
-ZKN_FORM_099_000	———
-ZKN_FORM_100_000	———
-ZKN_FORM_101_000	———
-ZKN_FORM_102_000	———
-ZKN_FORM_103_000	———
-ZKN_FORM_104_000	———
-ZKN_FORM_105_000	———
-ZKN_FORM_106_000	———
-ZKN_FORM_107_000	———
-ZKN_FORM_108_000	———
-ZKN_FORM_109_000	———
-ZKN_FORM_110_000	———
-ZKN_FORM_111_000	———
-ZKN_FORM_112_000	———
-ZKN_FORM_113_000	———
-ZKN_FORM_114_000	———
-ZKN_FORM_115_000	———
-ZKN_FORM_116_000	———
-ZKN_FORM_117_000	———
-ZKN_FORM_118_000	———
-ZKN_FORM_119_000	———
-ZKN_FORM_120_000	———
-ZKN_FORM_121_000	———
-ZKN_FORM_122_000	———
-ZKN_FORM_123_000	———
-ZKN_FORM_124_000	———
-ZKN_FORM_125_000	———
-ZKN_FORM_126_000	———
-ZKN_FORM_127_000	———
-ZKN_FORM_128_000	———
+ZKN_FORM_001_000	
+ZKN_FORM_002_000	
+ZKN_FORM_003_000	
+ZKN_FORM_004_000	
+ZKN_FORM_005_000	
+ZKN_FORM_006_000	
+ZKN_FORM_007_000	
+ZKN_FORM_008_000	
+ZKN_FORM_009_000	
+ZKN_FORM_010_000	
+ZKN_FORM_011_000	
+ZKN_FORM_012_000	
+ZKN_FORM_013_000	
+ZKN_FORM_014_000	
+ZKN_FORM_015_000	
+ZKN_FORM_016_000	
+ZKN_FORM_017_000	
+ZKN_FORM_018_000	
+ZKN_FORM_019_000	
+ZKN_FORM_020_000	
+ZKN_FORM_021_000	
+ZKN_FORM_022_000	
+ZKN_FORM_023_000	
+ZKN_FORM_024_000	
+ZKN_FORM_025_000	
+ZKN_FORM_026_000	
+ZKN_FORM_027_000	
+ZKN_FORM_028_000	
+ZKN_FORM_029_000	
+ZKN_FORM_030_000	
+ZKN_FORM_031_000	
+ZKN_FORM_032_000	
+ZKN_FORM_033_000	
+ZKN_FORM_034_000	
+ZKN_FORM_035_000	
+ZKN_FORM_036_000	
+ZKN_FORM_037_000	
+ZKN_FORM_038_000	
+ZKN_FORM_039_000	
+ZKN_FORM_040_000	
+ZKN_FORM_041_000	
+ZKN_FORM_042_000	
+ZKN_FORM_043_000	
+ZKN_FORM_044_000	
+ZKN_FORM_045_000	
+ZKN_FORM_046_000	
+ZKN_FORM_047_000	
+ZKN_FORM_048_000	
+ZKN_FORM_049_000	
+ZKN_FORM_050_000	
+ZKN_FORM_051_000	
+ZKN_FORM_052_000	
+ZKN_FORM_053_000	
+ZKN_FORM_054_000	
+ZKN_FORM_055_000	
+ZKN_FORM_056_000	
+ZKN_FORM_057_000	
+ZKN_FORM_058_000	
+ZKN_FORM_059_000	
+ZKN_FORM_060_000	
+ZKN_FORM_061_000	
+ZKN_FORM_062_000	
+ZKN_FORM_063_000	
+ZKN_FORM_064_000	
+ZKN_FORM_065_000	
+ZKN_FORM_066_000	
+ZKN_FORM_067_000	
+ZKN_FORM_068_000	
+ZKN_FORM_069_000	
+ZKN_FORM_070_000	
+ZKN_FORM_071_000	
+ZKN_FORM_072_000	
+ZKN_FORM_073_000	
+ZKN_FORM_074_000	
+ZKN_FORM_075_000	
+ZKN_FORM_076_000	
+ZKN_FORM_077_000	
+ZKN_FORM_078_000	
+ZKN_FORM_079_000	
+ZKN_FORM_080_000	
+ZKN_FORM_081_000	
+ZKN_FORM_082_000	
+ZKN_FORM_083_000	
+ZKN_FORM_084_000	
+ZKN_FORM_085_000	
+ZKN_FORM_086_000	
+ZKN_FORM_087_000	
+ZKN_FORM_088_000	
+ZKN_FORM_089_000	
+ZKN_FORM_090_000	
+ZKN_FORM_091_000	
+ZKN_FORM_092_000	
+ZKN_FORM_093_000	
+ZKN_FORM_094_000	
+ZKN_FORM_095_000	
+ZKN_FORM_096_000	
+ZKN_FORM_097_000	
+ZKN_FORM_098_000	
+ZKN_FORM_099_000	
+ZKN_FORM_100_000	
+ZKN_FORM_101_000	
+ZKN_FORM_102_000	
+ZKN_FORM_103_000	
+ZKN_FORM_104_000	
+ZKN_FORM_105_000	
+ZKN_FORM_106_000	
+ZKN_FORM_107_000	
+ZKN_FORM_108_000	
+ZKN_FORM_109_000	
+ZKN_FORM_110_000	
+ZKN_FORM_111_000	
+ZKN_FORM_112_000	
+ZKN_FORM_113_000	
+ZKN_FORM_114_000	
+ZKN_FORM_115_000	
+ZKN_FORM_116_000	
+ZKN_FORM_117_000	
+ZKN_FORM_118_000	
+ZKN_FORM_119_000	
+ZKN_FORM_120_000	
+ZKN_FORM_121_000	
+ZKN_FORM_122_000	
+ZKN_FORM_123_000	
+ZKN_FORM_124_000	
+ZKN_FORM_125_000	
+ZKN_FORM_126_000	
+ZKN_FORM_127_000	
+ZKN_FORM_128_000	
 ZKN_FORM_128_001	Forma di Paldea
 ZKN_FORM_128_001_1	Varietà Combattiva
 ZKN_FORM_128_002	Forma di Paldea
 ZKN_FORM_128_002_1	Varietà Infuocata
 ZKN_FORM_128_003	Forma di Paldea
 ZKN_FORM_128_003_1	Varietà Acquatica
-ZKN_FORM_129_000	———
-ZKN_FORM_130_000	———
-ZKN_FORM_131_000	———
-ZKN_FORM_132_000	———
-ZKN_FORM_133_000	———
-ZKN_FORM_134_000	———
-ZKN_FORM_135_000	———
-ZKN_FORM_136_000	———
-ZKN_FORM_137_000	———
-ZKN_FORM_138_000	———
-ZKN_FORM_139_000	———
-ZKN_FORM_140_000	———
-ZKN_FORM_141_000	———
-ZKN_FORM_142_000	———
-ZKN_FORM_143_000	———
-ZKN_FORM_144_000	———
-ZKN_FORM_145_000	———
-ZKN_FORM_146_000	———
-ZKN_FORM_147_000	———
-ZKN_FORM_148_000	———
-ZKN_FORM_149_000	———
-ZKN_FORM_150_000	———
-ZKN_FORM_151_000	———
-ZKN_FORM_152_000	———
-ZKN_FORM_153_000	———
-ZKN_FORM_154_000	———
-ZKN_FORM_155_000	———
-ZKN_FORM_156_000	———
-ZKN_FORM_157_000	———
-ZKN_FORM_158_000	———
-ZKN_FORM_159_000	———
-ZKN_FORM_160_000	———
-ZKN_FORM_161_000	———
-ZKN_FORM_162_000	———
-ZKN_FORM_163_000	———
-ZKN_FORM_164_000	———
-ZKN_FORM_165_000	———
-ZKN_FORM_166_000	———
-ZKN_FORM_167_000	———
-ZKN_FORM_168_000	———
-ZKN_FORM_169_000	———
-ZKN_FORM_170_000	———
-ZKN_FORM_171_000	———
-ZKN_FORM_172_000	———
-ZKN_FORM_173_000	———
-ZKN_FORM_174_000	———
-ZKN_FORM_175_000	———
-ZKN_FORM_176_000	———
-ZKN_FORM_177_000	———
-ZKN_FORM_178_000	———
-ZKN_FORM_179_000	———
-ZKN_FORM_180_000	———
-ZKN_FORM_181_000	———
-ZKN_FORM_182_000	———
-ZKN_FORM_183_000	———
-ZKN_FORM_184_000	———
-ZKN_FORM_185_000	———
-ZKN_FORM_186_000	———
-ZKN_FORM_187_000	———
-ZKN_FORM_188_000	———
-ZKN_FORM_189_000	———
-ZKN_FORM_190_000	———
-ZKN_FORM_191_000	———
-ZKN_FORM_192_000	———
-ZKN_FORM_193_000	———
-ZKN_FORM_194_000	———
+ZKN_FORM_129_000	
+ZKN_FORM_130_000	
+ZKN_FORM_131_000	
+ZKN_FORM_132_000	
+ZKN_FORM_133_000	
+ZKN_FORM_134_000	
+ZKN_FORM_135_000	
+ZKN_FORM_136_000	
+ZKN_FORM_137_000	
+ZKN_FORM_138_000	
+ZKN_FORM_139_000	
+ZKN_FORM_140_000	
+ZKN_FORM_141_000	
+ZKN_FORM_142_000	
+ZKN_FORM_143_000	
+ZKN_FORM_144_000	
+ZKN_FORM_145_000	
+ZKN_FORM_146_000	
+ZKN_FORM_147_000	
+ZKN_FORM_148_000	
+ZKN_FORM_149_000	
+ZKN_FORM_150_000	
+ZKN_FORM_151_000	
+ZKN_FORM_152_000	
+ZKN_FORM_153_000	
+ZKN_FORM_154_000	
+ZKN_FORM_155_000	
+ZKN_FORM_156_000	
+ZKN_FORM_157_000	
+ZKN_FORM_158_000	
+ZKN_FORM_159_000	
+ZKN_FORM_160_000	
+ZKN_FORM_161_000	
+ZKN_FORM_162_000	
+ZKN_FORM_163_000	
+ZKN_FORM_164_000	
+ZKN_FORM_165_000	
+ZKN_FORM_166_000	
+ZKN_FORM_167_000	
+ZKN_FORM_168_000	
+ZKN_FORM_169_000	
+ZKN_FORM_170_000	
+ZKN_FORM_171_000	
+ZKN_FORM_172_000	
+ZKN_FORM_173_000	
+ZKN_FORM_174_000	
+ZKN_FORM_175_000	
+ZKN_FORM_176_000	
+ZKN_FORM_177_000	
+ZKN_FORM_178_000	
+ZKN_FORM_179_000	
+ZKN_FORM_180_000	
+ZKN_FORM_181_000	
+ZKN_FORM_182_000	
+ZKN_FORM_183_000	
+ZKN_FORM_184_000	
+ZKN_FORM_185_000	
+ZKN_FORM_186_000	
+ZKN_FORM_187_000	
+ZKN_FORM_188_000	
+ZKN_FORM_189_000	
+ZKN_FORM_190_000	
+ZKN_FORM_191_000	
+ZKN_FORM_192_000	
+ZKN_FORM_193_000	
+ZKN_FORM_194_000	
 ZKN_FORM_194_001	Forma di Paldea
-ZKN_FORM_195_000	———
-ZKN_FORM_196_000	———
-ZKN_FORM_197_000	———
-ZKN_FORM_198_000	———
-ZKN_FORM_199_000	———
-ZKN_FORM_200_000	———
+ZKN_FORM_195_000	
+ZKN_FORM_196_000	
+ZKN_FORM_197_000	
+ZKN_FORM_198_000	
+ZKN_FORM_199_000	
+ZKN_FORM_200_000	
 ZKN_FORM_201_000	Forma Vaga
-ZKN_FORM_202_000	———
-ZKN_FORM_203_000	———
-ZKN_FORM_204_000	———
-ZKN_FORM_205_000	———
-ZKN_FORM_206_000	———
-ZKN_FORM_207_000	———
-ZKN_FORM_208_000	———
-ZKN_FORM_209_000	———
-ZKN_FORM_210_000	———
-ZKN_FORM_211_000	———
-ZKN_FORM_212_000	———
-ZKN_FORM_213_000	———
-ZKN_FORM_214_000	———
-ZKN_FORM_215_000	———
-ZKN_FORM_216_000	———
-ZKN_FORM_217_000	———
-ZKN_FORM_218_000	———
-ZKN_FORM_219_000	———
-ZKN_FORM_220_000	———
-ZKN_FORM_221_000	———
-ZKN_FORM_222_000	———
-ZKN_FORM_223_000	———
-ZKN_FORM_224_000	———
-ZKN_FORM_225_000	———
-ZKN_FORM_226_000	———
-ZKN_FORM_227_000	———
-ZKN_FORM_228_000	———
-ZKN_FORM_229_000	———
-ZKN_FORM_230_000	———
-ZKN_FORM_231_000	———
-ZKN_FORM_232_000	———
-ZKN_FORM_233_000	———
-ZKN_FORM_234_000	———
-ZKN_FORM_235_000	———
-ZKN_FORM_236_000	———
-ZKN_FORM_237_000	———
-ZKN_FORM_238_000	———
-ZKN_FORM_239_000	———
-ZKN_FORM_240_000	———
-ZKN_FORM_241_000	———
-ZKN_FORM_242_000	———
-ZKN_FORM_243_000	———
-ZKN_FORM_244_000	———
-ZKN_FORM_245_000	———
-ZKN_FORM_246_000	———
-ZKN_FORM_247_000	———
-ZKN_FORM_248_000	———
-ZKN_FORM_249_000	———
-ZKN_FORM_250_000	———
-ZKN_FORM_251_000	———
-ZKN_FORM_252_000	———
-ZKN_FORM_253_000	———
-ZKN_FORM_254_000	———
-ZKN_FORM_255_000	———
-ZKN_FORM_256_000	———
-ZKN_FORM_257_000	———
-ZKN_FORM_258_000	———
-ZKN_FORM_259_000	———
-ZKN_FORM_260_000	———
-ZKN_FORM_261_000	———
-ZKN_FORM_262_000	———
-ZKN_FORM_263_000	———
-ZKN_FORM_264_000	———
-ZKN_FORM_265_000	———
-ZKN_FORM_266_000	———
-ZKN_FORM_267_000	———
-ZKN_FORM_268_000	———
-ZKN_FORM_269_000	———
-ZKN_FORM_270_000	———
-ZKN_FORM_271_000	———
-ZKN_FORM_272_000	———
-ZKN_FORM_273_000	———
-ZKN_FORM_274_000	———
-ZKN_FORM_275_000	———
-ZKN_FORM_276_000	———
-ZKN_FORM_277_000	———
-ZKN_FORM_278_000	———
-ZKN_FORM_279_000	———
-ZKN_FORM_280_000	———
-ZKN_FORM_281_000	———
-ZKN_FORM_282_000	———
-ZKN_FORM_283_000	———
-ZKN_FORM_284_000	———
-ZKN_FORM_285_000	———
-ZKN_FORM_286_000	———
-ZKN_FORM_287_000	———
-ZKN_FORM_288_000	———
-ZKN_FORM_289_000	———
-ZKN_FORM_290_000	———
-ZKN_FORM_291_000	———
-ZKN_FORM_292_000	———
-ZKN_FORM_293_000	———
-ZKN_FORM_294_000	———
-ZKN_FORM_295_000	———
-ZKN_FORM_296_000	———
-ZKN_FORM_297_000	———
-ZKN_FORM_298_000	———
-ZKN_FORM_299_000	———
-ZKN_FORM_300_000	———
-ZKN_FORM_301_000	———
-ZKN_FORM_302_000	———
-ZKN_FORM_303_000	———
-ZKN_FORM_304_000	———
-ZKN_FORM_305_000	———
-ZKN_FORM_306_000	———
-ZKN_FORM_307_000	———
-ZKN_FORM_308_000	———
-ZKN_FORM_309_000	———
-ZKN_FORM_310_000	———
-ZKN_FORM_311_000	———
-ZKN_FORM_312_000	———
-ZKN_FORM_313_000	———
-ZKN_FORM_314_000	———
-ZKN_FORM_315_000	———
-ZKN_FORM_316_000	———
-ZKN_FORM_317_000	———
-ZKN_FORM_318_000	———
-ZKN_FORM_319_000	———
-ZKN_FORM_320_000	———
-ZKN_FORM_321_000	———
-ZKN_FORM_322_000	———
-ZKN_FORM_323_000	———
-ZKN_FORM_324_000	———
-ZKN_FORM_325_000	———
-ZKN_FORM_326_000	———
-ZKN_FORM_327_000	———
-ZKN_FORM_328_000	———
-ZKN_FORM_329_000	———
-ZKN_FORM_330_000	———
-ZKN_FORM_331_000	———
-ZKN_FORM_332_000	———
-ZKN_FORM_333_000	———
-ZKN_FORM_334_000	———
-ZKN_FORM_335_000	———
-ZKN_FORM_336_000	———
-ZKN_FORM_337_000	———
-ZKN_FORM_338_000	———
-ZKN_FORM_339_000	———
-ZKN_FORM_340_000	———
-ZKN_FORM_341_000	———
-ZKN_FORM_342_000	———
-ZKN_FORM_343_000	———
-ZKN_FORM_344_000	———
-ZKN_FORM_345_000	———
-ZKN_FORM_346_000	———
-ZKN_FORM_347_000	———
-ZKN_FORM_348_000	———
-ZKN_FORM_349_000	———
-ZKN_FORM_350_000	———
+ZKN_FORM_202_000	
+ZKN_FORM_203_000	
+ZKN_FORM_204_000	
+ZKN_FORM_205_000	
+ZKN_FORM_206_000	
+ZKN_FORM_207_000	
+ZKN_FORM_208_000	
+ZKN_FORM_209_000	
+ZKN_FORM_210_000	
+ZKN_FORM_211_000	
+ZKN_FORM_212_000	
+ZKN_FORM_213_000	
+ZKN_FORM_214_000	
+ZKN_FORM_215_000	
+ZKN_FORM_216_000	
+ZKN_FORM_217_000	
+ZKN_FORM_218_000	
+ZKN_FORM_219_000	
+ZKN_FORM_220_000	
+ZKN_FORM_221_000	
+ZKN_FORM_222_000	
+ZKN_FORM_223_000	
+ZKN_FORM_224_000	
+ZKN_FORM_225_000	
+ZKN_FORM_226_000	
+ZKN_FORM_227_000	
+ZKN_FORM_228_000	
+ZKN_FORM_229_000	
+ZKN_FORM_230_000	
+ZKN_FORM_231_000	
+ZKN_FORM_232_000	
+ZKN_FORM_233_000	
+ZKN_FORM_234_000	
+ZKN_FORM_235_000	
+ZKN_FORM_236_000	
+ZKN_FORM_237_000	
+ZKN_FORM_238_000	
+ZKN_FORM_239_000	
+ZKN_FORM_240_000	
+ZKN_FORM_241_000	
+ZKN_FORM_242_000	
+ZKN_FORM_243_000	
+ZKN_FORM_244_000	
+ZKN_FORM_245_000	
+ZKN_FORM_246_000	
+ZKN_FORM_247_000	
+ZKN_FORM_248_000	
+ZKN_FORM_249_000	
+ZKN_FORM_250_000	
+ZKN_FORM_251_000	
+ZKN_FORM_252_000	
+ZKN_FORM_253_000	
+ZKN_FORM_254_000	
+ZKN_FORM_255_000	
+ZKN_FORM_256_000	
+ZKN_FORM_257_000	
+ZKN_FORM_258_000	
+ZKN_FORM_259_000	
+ZKN_FORM_260_000	
+ZKN_FORM_261_000	
+ZKN_FORM_262_000	
+ZKN_FORM_263_000	
+ZKN_FORM_264_000	
+ZKN_FORM_265_000	
+ZKN_FORM_266_000	
+ZKN_FORM_267_000	
+ZKN_FORM_268_000	
+ZKN_FORM_269_000	
+ZKN_FORM_270_000	
+ZKN_FORM_271_000	
+ZKN_FORM_272_000	
+ZKN_FORM_273_000	
+ZKN_FORM_274_000	
+ZKN_FORM_275_000	
+ZKN_FORM_276_000	
+ZKN_FORM_277_000	
+ZKN_FORM_278_000	
+ZKN_FORM_279_000	
+ZKN_FORM_280_000	
+ZKN_FORM_281_000	
+ZKN_FORM_282_000	
+ZKN_FORM_283_000	
+ZKN_FORM_284_000	
+ZKN_FORM_285_000	
+ZKN_FORM_286_000	
+ZKN_FORM_287_000	
+ZKN_FORM_288_000	
+ZKN_FORM_289_000	
+ZKN_FORM_290_000	
+ZKN_FORM_291_000	
+ZKN_FORM_292_000	
+ZKN_FORM_293_000	
+ZKN_FORM_294_000	
+ZKN_FORM_295_000	
+ZKN_FORM_296_000	
+ZKN_FORM_297_000	
+ZKN_FORM_298_000	
+ZKN_FORM_299_000	
+ZKN_FORM_300_000	
+ZKN_FORM_301_000	
+ZKN_FORM_302_000	
+ZKN_FORM_303_000	
+ZKN_FORM_304_000	
+ZKN_FORM_305_000	
+ZKN_FORM_306_000	
+ZKN_FORM_307_000	
+ZKN_FORM_308_000	
+ZKN_FORM_309_000	
+ZKN_FORM_310_000	
+ZKN_FORM_311_000	
+ZKN_FORM_312_000	
+ZKN_FORM_313_000	
+ZKN_FORM_314_000	
+ZKN_FORM_315_000	
+ZKN_FORM_316_000	
+ZKN_FORM_317_000	
+ZKN_FORM_318_000	
+ZKN_FORM_319_000	
+ZKN_FORM_320_000	
+ZKN_FORM_321_000	
+ZKN_FORM_322_000	
+ZKN_FORM_323_000	
+ZKN_FORM_324_000	
+ZKN_FORM_325_000	
+ZKN_FORM_326_000	
+ZKN_FORM_327_000	
+ZKN_FORM_328_000	
+ZKN_FORM_329_000	
+ZKN_FORM_330_000	
+ZKN_FORM_331_000	
+ZKN_FORM_332_000	
+ZKN_FORM_333_000	
+ZKN_FORM_334_000	
+ZKN_FORM_335_000	
+ZKN_FORM_336_000	
+ZKN_FORM_337_000	
+ZKN_FORM_338_000	
+ZKN_FORM_339_000	
+ZKN_FORM_340_000	
+ZKN_FORM_341_000	
+ZKN_FORM_342_000	
+ZKN_FORM_343_000	
+ZKN_FORM_344_000	
+ZKN_FORM_345_000	
+ZKN_FORM_346_000	
+ZKN_FORM_347_000	
+ZKN_FORM_348_000	
+ZKN_FORM_349_000	
+ZKN_FORM_350_000	
 ZKN_FORM_351_000	Forma Castform
-ZKN_FORM_352_000	———
-ZKN_FORM_353_000	———
-ZKN_FORM_354_000	———
-ZKN_FORM_355_000	———
-ZKN_FORM_356_000	———
-ZKN_FORM_357_000	———
-ZKN_FORM_358_000	———
-ZKN_FORM_359_000	———
-ZKN_FORM_360_000	———
-ZKN_FORM_361_000	———
-ZKN_FORM_362_000	———
-ZKN_FORM_363_000	———
-ZKN_FORM_364_000	———
-ZKN_FORM_365_000	———
-ZKN_FORM_366_000	———
-ZKN_FORM_367_000	———
-ZKN_FORM_368_000	———
-ZKN_FORM_369_000	———
-ZKN_FORM_370_000	———
-ZKN_FORM_371_000	———
-ZKN_FORM_372_000	———
-ZKN_FORM_373_000	———
-ZKN_FORM_374_000	———
-ZKN_FORM_375_000	———
-ZKN_FORM_376_000	———
-ZKN_FORM_377_000	———
-ZKN_FORM_378_000	———
-ZKN_FORM_379_000	———
-ZKN_FORM_380_000	———
-ZKN_FORM_381_000	———
-ZKN_FORM_382_000	———
-ZKN_FORM_383_000	———
-ZKN_FORM_384_000	———
-ZKN_FORM_385_000	———
+ZKN_FORM_352_000	
+ZKN_FORM_353_000	
+ZKN_FORM_354_000	
+ZKN_FORM_355_000	
+ZKN_FORM_356_000	
+ZKN_FORM_357_000	
+ZKN_FORM_358_000	
+ZKN_FORM_359_000	
+ZKN_FORM_360_000	
+ZKN_FORM_361_000	
+ZKN_FORM_362_000	
+ZKN_FORM_363_000	
+ZKN_FORM_364_000	
+ZKN_FORM_365_000	
+ZKN_FORM_366_000	
+ZKN_FORM_367_000	
+ZKN_FORM_368_000	
+ZKN_FORM_369_000	
+ZKN_FORM_370_000	
+ZKN_FORM_371_000	
+ZKN_FORM_372_000	
+ZKN_FORM_373_000	
+ZKN_FORM_374_000	
+ZKN_FORM_375_000	
+ZKN_FORM_376_000	
+ZKN_FORM_377_000	
+ZKN_FORM_378_000	
+ZKN_FORM_379_000	
+ZKN_FORM_380_000	
+ZKN_FORM_381_000	
+ZKN_FORM_382_000	
+ZKN_FORM_383_000	
+ZKN_FORM_384_000	
+ZKN_FORM_385_000	
 ZKN_FORM_386_000	Forma Normale
-ZKN_FORM_387_000	———
-ZKN_FORM_388_000	———
-ZKN_FORM_389_000	———
-ZKN_FORM_390_000	———
-ZKN_FORM_391_000	———
-ZKN_FORM_392_000	———
-ZKN_FORM_393_000	———
-ZKN_FORM_394_000	———
-ZKN_FORM_395_000	———
-ZKN_FORM_396_000	———
-ZKN_FORM_397_000	———
-ZKN_FORM_398_000	———
-ZKN_FORM_399_000	———
-ZKN_FORM_400_000	———
-ZKN_FORM_401_000	———
-ZKN_FORM_402_000	———
-ZKN_FORM_403_000	———
-ZKN_FORM_404_000	———
-ZKN_FORM_405_000	———
-ZKN_FORM_406_000	———
-ZKN_FORM_407_000	———
-ZKN_FORM_408_000	———
-ZKN_FORM_409_000	———
-ZKN_FORM_410_000	———
-ZKN_FORM_411_000	———
+ZKN_FORM_387_000	
+ZKN_FORM_388_000	
+ZKN_FORM_389_000	
+ZKN_FORM_390_000	
+ZKN_FORM_391_000	
+ZKN_FORM_392_000	
+ZKN_FORM_393_000	
+ZKN_FORM_394_000	
+ZKN_FORM_395_000	
+ZKN_FORM_396_000	
+ZKN_FORM_397_000	
+ZKN_FORM_398_000	
+ZKN_FORM_399_000	
+ZKN_FORM_400_000	
+ZKN_FORM_401_000	
+ZKN_FORM_402_000	
+ZKN_FORM_403_000	
+ZKN_FORM_404_000	
+ZKN_FORM_405_000	
+ZKN_FORM_406_000	
+ZKN_FORM_407_000	
+ZKN_FORM_408_000	
+ZKN_FORM_409_000	
+ZKN_FORM_410_000	
+ZKN_FORM_411_000	
 ZKN_FORM_412_000	Manto Pianta
 ZKN_FORM_413_000	Manto Pianta
-ZKN_FORM_414_000	———
-ZKN_FORM_415_000	———
-ZKN_FORM_416_000	———
-ZKN_FORM_417_000	———
-ZKN_FORM_418_000	———
-ZKN_FORM_419_000	———
-ZKN_FORM_420_000	———
+ZKN_FORM_414_000	
+ZKN_FORM_415_000	
+ZKN_FORM_416_000	
+ZKN_FORM_417_000	
+ZKN_FORM_418_000	
+ZKN_FORM_419_000	
+ZKN_FORM_420_000	
 ZKN_FORM_421_000	Forma Nuvola
 ZKN_FORM_422_000	Mare Ovest
 ZKN_FORM_423_000	Mare Ovest
-ZKN_FORM_424_000	———
-ZKN_FORM_425_000	———
-ZKN_FORM_426_000	———
-ZKN_FORM_427_000	———
-ZKN_FORM_428_000	———
-ZKN_FORM_429_000	———
-ZKN_FORM_430_000	———
-ZKN_FORM_431_000	———
-ZKN_FORM_432_000	———
-ZKN_FORM_433_000	———
-ZKN_FORM_434_000	———
-ZKN_FORM_435_000	———
-ZKN_FORM_436_000	———
-ZKN_FORM_437_000	———
-ZKN_FORM_438_000	———
-ZKN_FORM_439_000	———
-ZKN_FORM_440_000	———
-ZKN_FORM_441_000	———
-ZKN_FORM_442_000	———
-ZKN_FORM_443_000	———
-ZKN_FORM_444_000	———
-ZKN_FORM_445_000	———
-ZKN_FORM_446_000	———
-ZKN_FORM_447_000	———
-ZKN_FORM_448_000	———
-ZKN_FORM_449_000	———
-ZKN_FORM_450_000	———
-ZKN_FORM_451_000	———
-ZKN_FORM_452_000	———
-ZKN_FORM_453_000	———
-ZKN_FORM_454_000	———
-ZKN_FORM_455_000	———
-ZKN_FORM_456_000	———
-ZKN_FORM_457_000	———
-ZKN_FORM_458_000	———
-ZKN_FORM_459_000	———
-ZKN_FORM_460_000	———
-ZKN_FORM_461_000	———
-ZKN_FORM_462_000	———
-ZKN_FORM_463_000	———
-ZKN_FORM_464_000	———
-ZKN_FORM_465_000	———
-ZKN_FORM_466_000	———
-ZKN_FORM_467_000	———
-ZKN_FORM_468_000	———
-ZKN_FORM_469_000	———
-ZKN_FORM_470_000	———
-ZKN_FORM_471_000	———
-ZKN_FORM_472_000	———
-ZKN_FORM_473_000	———
-ZKN_FORM_474_000	———
-ZKN_FORM_475_000	———
-ZKN_FORM_476_000	———
-ZKN_FORM_477_000	———
-ZKN_FORM_478_000	———
+ZKN_FORM_424_000	
+ZKN_FORM_425_000	
+ZKN_FORM_426_000	
+ZKN_FORM_427_000	
+ZKN_FORM_428_000	
+ZKN_FORM_429_000	
+ZKN_FORM_430_000	
+ZKN_FORM_431_000	
+ZKN_FORM_432_000	
+ZKN_FORM_433_000	
+ZKN_FORM_434_000	
+ZKN_FORM_435_000	
+ZKN_FORM_436_000	
+ZKN_FORM_437_000	
+ZKN_FORM_438_000	
+ZKN_FORM_439_000	
+ZKN_FORM_440_000	
+ZKN_FORM_441_000	
+ZKN_FORM_442_000	
+ZKN_FORM_443_000	
+ZKN_FORM_444_000	
+ZKN_FORM_445_000	
+ZKN_FORM_446_000	
+ZKN_FORM_447_000	
+ZKN_FORM_448_000	
+ZKN_FORM_449_000	
+ZKN_FORM_450_000	
+ZKN_FORM_451_000	
+ZKN_FORM_452_000	
+ZKN_FORM_453_000	
+ZKN_FORM_454_000	
+ZKN_FORM_455_000	
+ZKN_FORM_456_000	
+ZKN_FORM_457_000	
+ZKN_FORM_458_000	
+ZKN_FORM_459_000	
+ZKN_FORM_460_000	
+ZKN_FORM_461_000	
+ZKN_FORM_462_000	
+ZKN_FORM_463_000	
+ZKN_FORM_464_000	
+ZKN_FORM_465_000	
+ZKN_FORM_466_000	
+ZKN_FORM_467_000	
+ZKN_FORM_468_000	
+ZKN_FORM_469_000	
+ZKN_FORM_470_000	
+ZKN_FORM_471_000	
+ZKN_FORM_472_000	
+ZKN_FORM_473_000	
+ZKN_FORM_474_000	
+ZKN_FORM_475_000	
+ZKN_FORM_476_000	
+ZKN_FORM_477_000	
+ZKN_FORM_478_000	
 ZKN_FORM_479_000	Forma Rotom
-ZKN_FORM_480_000	———
-ZKN_FORM_481_000	———
-ZKN_FORM_482_000	———
-ZKN_FORM_483_000	———
-ZKN_FORM_484_000	———
-ZKN_FORM_485_000	———
-ZKN_FORM_486_000	———
+ZKN_FORM_480_000	
+ZKN_FORM_481_000	
+ZKN_FORM_482_000	
+ZKN_FORM_483_000	
+ZKN_FORM_484_000	
+ZKN_FORM_485_000	
+ZKN_FORM_486_000	
 ZKN_FORM_487_000	Forma Alterata
-ZKN_FORM_488_000	———
-ZKN_FORM_489_000	———
-ZKN_FORM_490_000	———
-ZKN_FORM_491_000	———
+ZKN_FORM_488_000	
+ZKN_FORM_489_000	
+ZKN_FORM_490_000	
+ZKN_FORM_491_000	
 ZKN_FORM_492_000	Forma Terra
 ZKN_FORM_493_000	Forma di Arceus
-ZKN_FORM_494_000	———
-ZKN_FORM_495_000	———
-ZKN_FORM_496_000	———
-ZKN_FORM_497_000	———
-ZKN_FORM_498_000	———
-ZKN_FORM_499_000	———
-ZKN_FORM_500_000	———
-ZKN_FORM_501_000	———
-ZKN_FORM_502_000	———
-ZKN_FORM_503_000	———
-ZKN_FORM_504_000	———
-ZKN_FORM_505_000	———
-ZKN_FORM_506_000	———
-ZKN_FORM_507_000	———
-ZKN_FORM_508_000	———
-ZKN_FORM_509_000	———
-ZKN_FORM_510_000	———
-ZKN_FORM_511_000	———
-ZKN_FORM_512_000	———
-ZKN_FORM_513_000	———
-ZKN_FORM_514_000	———
-ZKN_FORM_515_000	———
-ZKN_FORM_516_000	———
-ZKN_FORM_517_000	———
-ZKN_FORM_518_000	———
-ZKN_FORM_519_000	———
-ZKN_FORM_520_000	———
-ZKN_FORM_521_000	———
-ZKN_FORM_522_000	———
-ZKN_FORM_523_000	———
-ZKN_FORM_524_000	———
-ZKN_FORM_525_000	———
-ZKN_FORM_526_000	———
-ZKN_FORM_527_000	———
-ZKN_FORM_528_000	———
-ZKN_FORM_529_000	———
-ZKN_FORM_530_000	———
-ZKN_FORM_531_000	———
-ZKN_FORM_532_000	———
-ZKN_FORM_533_000	———
-ZKN_FORM_534_000	———
-ZKN_FORM_535_000	———
-ZKN_FORM_536_000	———
-ZKN_FORM_537_000	———
-ZKN_FORM_538_000	———
-ZKN_FORM_539_000	———
-ZKN_FORM_540_000	———
-ZKN_FORM_541_000	———
-ZKN_FORM_542_000	———
-ZKN_FORM_543_000	———
-ZKN_FORM_544_000	———
-ZKN_FORM_545_000	———
-ZKN_FORM_546_000	———
-ZKN_FORM_547_000	———
-ZKN_FORM_548_000	———
-ZKN_FORM_549_000	———
+ZKN_FORM_494_000	
+ZKN_FORM_495_000	
+ZKN_FORM_496_000	
+ZKN_FORM_497_000	
+ZKN_FORM_498_000	
+ZKN_FORM_499_000	
+ZKN_FORM_500_000	
+ZKN_FORM_501_000	
+ZKN_FORM_502_000	
+ZKN_FORM_503_000	
+ZKN_FORM_504_000	
+ZKN_FORM_505_000	
+ZKN_FORM_506_000	
+ZKN_FORM_507_000	
+ZKN_FORM_508_000	
+ZKN_FORM_509_000	
+ZKN_FORM_510_000	
+ZKN_FORM_511_000	
+ZKN_FORM_512_000	
+ZKN_FORM_513_000	
+ZKN_FORM_514_000	
+ZKN_FORM_515_000	
+ZKN_FORM_516_000	
+ZKN_FORM_517_000	
+ZKN_FORM_518_000	
+ZKN_FORM_519_000	
+ZKN_FORM_520_000	
+ZKN_FORM_521_000	
+ZKN_FORM_522_000	
+ZKN_FORM_523_000	
+ZKN_FORM_524_000	
+ZKN_FORM_525_000	
+ZKN_FORM_526_000	
+ZKN_FORM_527_000	
+ZKN_FORM_528_000	
+ZKN_FORM_529_000	
+ZKN_FORM_530_000	
+ZKN_FORM_531_000	
+ZKN_FORM_532_000	
+ZKN_FORM_533_000	
+ZKN_FORM_534_000	
+ZKN_FORM_535_000	
+ZKN_FORM_536_000	
+ZKN_FORM_537_000	
+ZKN_FORM_538_000	
+ZKN_FORM_539_000	
+ZKN_FORM_540_000	
+ZKN_FORM_541_000	
+ZKN_FORM_542_000	
+ZKN_FORM_543_000	
+ZKN_FORM_544_000	
+ZKN_FORM_545_000	
+ZKN_FORM_546_000	
+ZKN_FORM_547_000	
+ZKN_FORM_548_000	
+ZKN_FORM_549_000	
 ZKN_FORM_550_000	Forma Linearossa
-ZKN_FORM_551_000	———
-ZKN_FORM_552_000	———
-ZKN_FORM_553_000	———
-ZKN_FORM_554_000	———
+ZKN_FORM_551_000	
+ZKN_FORM_552_000	
+ZKN_FORM_553_000	
+ZKN_FORM_554_000	
 ZKN_FORM_555_000	Stato Normale
-ZKN_FORM_556_000	———
-ZKN_FORM_557_000	———
-ZKN_FORM_558_000	———
-ZKN_FORM_559_000	———
-ZKN_FORM_560_000	———
-ZKN_FORM_561_000	———
-ZKN_FORM_562_000	———
-ZKN_FORM_563_000	———
-ZKN_FORM_564_000	———
-ZKN_FORM_565_000	———
-ZKN_FORM_566_000	———
-ZKN_FORM_567_000	———
-ZKN_FORM_568_000	———
-ZKN_FORM_569_000	———
-ZKN_FORM_570_000	———
-ZKN_FORM_571_000	———
-ZKN_FORM_572_000	———
-ZKN_FORM_573_000	———
-ZKN_FORM_574_000	———
-ZKN_FORM_575_000	———
-ZKN_FORM_576_000	———
-ZKN_FORM_577_000	———
-ZKN_FORM_578_000	———
-ZKN_FORM_579_000	———
-ZKN_FORM_580_000	———
-ZKN_FORM_581_000	———
-ZKN_FORM_582_000	———
-ZKN_FORM_583_000	———
-ZKN_FORM_584_000	———
+ZKN_FORM_556_000	
+ZKN_FORM_557_000	
+ZKN_FORM_558_000	
+ZKN_FORM_559_000	
+ZKN_FORM_560_000	
+ZKN_FORM_561_000	
+ZKN_FORM_562_000	
+ZKN_FORM_563_000	
+ZKN_FORM_564_000	
+ZKN_FORM_565_000	
+ZKN_FORM_566_000	
+ZKN_FORM_567_000	
+ZKN_FORM_568_000	
+ZKN_FORM_569_000	
+ZKN_FORM_570_000	
+ZKN_FORM_571_000	
+ZKN_FORM_572_000	
+ZKN_FORM_573_000	
+ZKN_FORM_574_000	
+ZKN_FORM_575_000	
+ZKN_FORM_576_000	
+ZKN_FORM_577_000	
+ZKN_FORM_578_000	
+ZKN_FORM_579_000	
+ZKN_FORM_580_000	
+ZKN_FORM_581_000	
+ZKN_FORM_582_000	
+ZKN_FORM_583_000	
+ZKN_FORM_584_000	
 ZKN_FORM_585_000	Forma Primavera
 ZKN_FORM_586_000	Forma Primavera
-ZKN_FORM_587_000	———
-ZKN_FORM_588_000	———
-ZKN_FORM_589_000	———
-ZKN_FORM_590_000	———
-ZKN_FORM_591_000	———
-ZKN_FORM_592_000	———
-ZKN_FORM_593_000	———
-ZKN_FORM_594_000	———
-ZKN_FORM_595_000	———
-ZKN_FORM_596_000	———
-ZKN_FORM_597_000	———
-ZKN_FORM_598_000	———
-ZKN_FORM_599_000	———
-ZKN_FORM_600_000	———
-ZKN_FORM_601_000	———
-ZKN_FORM_602_000	———
-ZKN_FORM_603_000	———
-ZKN_FORM_604_000	———
-ZKN_FORM_605_000	———
-ZKN_FORM_606_000	———
-ZKN_FORM_607_000	———
-ZKN_FORM_608_000	———
-ZKN_FORM_609_000	———
-ZKN_FORM_610_000	———
-ZKN_FORM_611_000	———
-ZKN_FORM_612_000	———
-ZKN_FORM_613_000	———
-ZKN_FORM_614_000	———
-ZKN_FORM_615_000	———
-ZKN_FORM_616_000	———
-ZKN_FORM_617_000	———
-ZKN_FORM_618_000	———
-ZKN_FORM_619_000	———
-ZKN_FORM_620_000	———
-ZKN_FORM_621_000	———
-ZKN_FORM_622_000	———
-ZKN_FORM_623_000	———
-ZKN_FORM_624_000	———
-ZKN_FORM_625_000	———
-ZKN_FORM_626_000	———
-ZKN_FORM_627_000	———
-ZKN_FORM_628_000	———
-ZKN_FORM_629_000	———
-ZKN_FORM_630_000	———
-ZKN_FORM_631_000	———
-ZKN_FORM_632_000	———
-ZKN_FORM_633_000	———
-ZKN_FORM_634_000	———
-ZKN_FORM_635_000	———
-ZKN_FORM_636_000	———
-ZKN_FORM_637_000	———
-ZKN_FORM_638_000	———
-ZKN_FORM_639_000	———
-ZKN_FORM_640_000	———
+ZKN_FORM_587_000	
+ZKN_FORM_588_000	
+ZKN_FORM_589_000	
+ZKN_FORM_590_000	
+ZKN_FORM_591_000	
+ZKN_FORM_592_000	
+ZKN_FORM_593_000	
+ZKN_FORM_594_000	
+ZKN_FORM_595_000	
+ZKN_FORM_596_000	
+ZKN_FORM_597_000	
+ZKN_FORM_598_000	
+ZKN_FORM_599_000	
+ZKN_FORM_600_000	
+ZKN_FORM_601_000	
+ZKN_FORM_602_000	
+ZKN_FORM_603_000	
+ZKN_FORM_604_000	
+ZKN_FORM_605_000	
+ZKN_FORM_606_000	
+ZKN_FORM_607_000	
+ZKN_FORM_608_000	
+ZKN_FORM_609_000	
+ZKN_FORM_610_000	
+ZKN_FORM_611_000	
+ZKN_FORM_612_000	
+ZKN_FORM_613_000	
+ZKN_FORM_614_000	
+ZKN_FORM_615_000	
+ZKN_FORM_616_000	
+ZKN_FORM_617_000	
+ZKN_FORM_618_000	
+ZKN_FORM_619_000	
+ZKN_FORM_620_000	
+ZKN_FORM_621_000	
+ZKN_FORM_622_000	
+ZKN_FORM_623_000	
+ZKN_FORM_624_000	
+ZKN_FORM_625_000	
+ZKN_FORM_626_000	
+ZKN_FORM_627_000	
+ZKN_FORM_628_000	
+ZKN_FORM_629_000	
+ZKN_FORM_630_000	
+ZKN_FORM_631_000	
+ZKN_FORM_632_000	
+ZKN_FORM_633_000	
+ZKN_FORM_634_000	
+ZKN_FORM_635_000	
+ZKN_FORM_636_000	
+ZKN_FORM_637_000	
+ZKN_FORM_638_000	
+ZKN_FORM_639_000	
+ZKN_FORM_640_000	
 ZKN_FORM_641_000	Forma Incarnazione
 ZKN_FORM_642_000	Forma Incarnazione
-ZKN_FORM_643_000	———
-ZKN_FORM_644_000	———
+ZKN_FORM_643_000	
+ZKN_FORM_644_000	
 ZKN_FORM_645_000	Forma Incarnazione
 ZKN_FORM_646_000	Forma di Kyurem
 ZKN_FORM_647_000	Forma Normale
 ZKN_FORM_648_000	Forma Canto
 ZKN_FORM_649_000	Forma di Genesect
-ZKN_FORM_650_000	———
-ZKN_FORM_651_000	———
-ZKN_FORM_652_000	———
-ZKN_FORM_653_000	———
-ZKN_FORM_654_000	———
-ZKN_FORM_655_000	———
-ZKN_FORM_656_000	———
-ZKN_FORM_657_000	———
-ZKN_FORM_658_000	———
-ZKN_FORM_659_000	———
-ZKN_FORM_660_000	———
-ZKN_FORM_661_000	———
-ZKN_FORM_662_000	———
-ZKN_FORM_663_000	———
-ZKN_FORM_664_000	———
-ZKN_FORM_665_000	———
+ZKN_FORM_650_000	
+ZKN_FORM_651_000	
+ZKN_FORM_652_000	
+ZKN_FORM_653_000	
+ZKN_FORM_654_000	
+ZKN_FORM_655_000	
+ZKN_FORM_656_000	
+ZKN_FORM_657_000	
+ZKN_FORM_658_000	
+ZKN_FORM_659_000	
+ZKN_FORM_660_000	
+ZKN_FORM_661_000	
+ZKN_FORM_662_000	
+ZKN_FORM_663_000	
+ZKN_FORM_664_000	
+ZKN_FORM_665_000	
 ZKN_FORM_666_000	Motivo Nevi Perenni
-ZKN_FORM_667_000	———
-ZKN_FORM_668_000	———
+ZKN_FORM_667_000	
+ZKN_FORM_668_000	
 ZKN_FORM_669_000	Fiore Rosso
 ZKN_FORM_670_000	Fiore Rosso
 ZKN_FORM_671_000	Fiore Rosso
-ZKN_FORM_672_000	———
-ZKN_FORM_673_000	———
-ZKN_FORM_674_000	———
-ZKN_FORM_675_000	———
+ZKN_FORM_672_000	
+ZKN_FORM_673_000	
+ZKN_FORM_674_000	
+ZKN_FORM_675_000	
 ZKN_FORM_676_000	Forma Selvatica
-ZKN_FORM_677_000	———
+ZKN_FORM_677_000	
 ZKN_FORM_678_000	Maschio
-ZKN_FORM_679_000	———
-ZKN_FORM_680_000	———
+ZKN_FORM_679_000	
+ZKN_FORM_680_000	
 ZKN_FORM_681_000	Forma Scudo
-ZKN_FORM_682_000	———
-ZKN_FORM_683_000	———
-ZKN_FORM_684_000	———
-ZKN_FORM_685_000	———
-ZKN_FORM_686_000	———
-ZKN_FORM_687_000	———
-ZKN_FORM_688_000	———
-ZKN_FORM_689_000	———
-ZKN_FORM_690_000	———
-ZKN_FORM_691_000	———
-ZKN_FORM_692_000	———
-ZKN_FORM_693_000	———
-ZKN_FORM_694_000	———
-ZKN_FORM_695_000	———
-ZKN_FORM_696_000	———
-ZKN_FORM_697_000	———
-ZKN_FORM_698_000	———
-ZKN_FORM_699_000	———
-ZKN_FORM_700_000	———
-ZKN_FORM_701_000	———
-ZKN_FORM_702_000	———
-ZKN_FORM_703_000	———
-ZKN_FORM_704_000	———
-ZKN_FORM_705_000	———
-ZKN_FORM_706_000	———
-ZKN_FORM_707_000	———
-ZKN_FORM_708_000	———
-ZKN_FORM_709_000	———
+ZKN_FORM_682_000	
+ZKN_FORM_683_000	
+ZKN_FORM_684_000	
+ZKN_FORM_685_000	
+ZKN_FORM_686_000	
+ZKN_FORM_687_000	
+ZKN_FORM_688_000	
+ZKN_FORM_689_000	
+ZKN_FORM_690_000	
+ZKN_FORM_691_000	
+ZKN_FORM_692_000	
+ZKN_FORM_693_000	
+ZKN_FORM_694_000	
+ZKN_FORM_695_000	
+ZKN_FORM_696_000	
+ZKN_FORM_697_000	
+ZKN_FORM_698_000	
+ZKN_FORM_699_000	
+ZKN_FORM_700_000	
+ZKN_FORM_701_000	
+ZKN_FORM_702_000	
+ZKN_FORM_703_000	
+ZKN_FORM_704_000	
+ZKN_FORM_705_000	
+ZKN_FORM_706_000	
+ZKN_FORM_707_000	
+ZKN_FORM_708_000	
+ZKN_FORM_709_000	
 ZKN_FORM_710_000	Normale
 ZKN_FORM_711_000	Normale
-ZKN_FORM_712_000	———
-ZKN_FORM_713_000	———
-ZKN_FORM_714_000	———
-ZKN_FORM_715_000	———
+ZKN_FORM_712_000	
+ZKN_FORM_713_000	
+ZKN_FORM_714_000	
+ZKN_FORM_715_000	
 ZKN_FORM_716_000	Modo Relax
-ZKN_FORM_717_000	———
+ZKN_FORM_717_000	
 ZKN_FORM_718_000	Forma 50%
-ZKN_FORM_719_000	———
+ZKN_FORM_719_000	
 ZKN_FORM_720_000	Hoopa Vincolato
-ZKN_FORM_721_000	———
-ZKN_FORM_722_000	———
-ZKN_FORM_723_000	———
-ZKN_FORM_724_000	———
-ZKN_FORM_725_000	———
-ZKN_FORM_726_000	———
-ZKN_FORM_727_000	———
-ZKN_FORM_728_000	———
-ZKN_FORM_729_000	———
-ZKN_FORM_730_000	———
-ZKN_FORM_731_000	———
-ZKN_FORM_732_000	———
-ZKN_FORM_733_000	———
-ZKN_FORM_734_000	———
-ZKN_FORM_735_000	———
-ZKN_FORM_736_000	———
-ZKN_FORM_737_000	———
-ZKN_FORM_738_000	———
-ZKN_FORM_739_000	———
-ZKN_FORM_740_000	———
+ZKN_FORM_721_000	
+ZKN_FORM_722_000	
+ZKN_FORM_723_000	
+ZKN_FORM_724_000	
+ZKN_FORM_725_000	
+ZKN_FORM_726_000	
+ZKN_FORM_727_000	
+ZKN_FORM_728_000	
+ZKN_FORM_729_000	
+ZKN_FORM_730_000	
+ZKN_FORM_731_000	
+ZKN_FORM_732_000	
+ZKN_FORM_733_000	
+ZKN_FORM_734_000	
+ZKN_FORM_735_000	
+ZKN_FORM_736_000	
+ZKN_FORM_737_000	
+ZKN_FORM_738_000	
+ZKN_FORM_739_000	
+ZKN_FORM_740_000	
 ZKN_FORM_741_000	Stile Flamenco
-ZKN_FORM_742_000	———
-ZKN_FORM_743_000	———
-ZKN_FORM_744_000	———
+ZKN_FORM_742_000	
+ZKN_FORM_743_000	
+ZKN_FORM_744_000	
 ZKN_FORM_745_000	Forma Giorno
 ZKN_FORM_746_000	Forma Individuale
-ZKN_FORM_747_000	———
-ZKN_FORM_748_000	———
-ZKN_FORM_749_000	———
-ZKN_FORM_750_000	———
-ZKN_FORM_751_000	———
-ZKN_FORM_752_000	———
-ZKN_FORM_753_000	———
-ZKN_FORM_754_000	———
-ZKN_FORM_755_000	———
-ZKN_FORM_756_000	———
-ZKN_FORM_757_000	———
-ZKN_FORM_758_000	———
-ZKN_FORM_759_000	———
-ZKN_FORM_760_000	———
-ZKN_FORM_761_000	———
-ZKN_FORM_762_000	———
-ZKN_FORM_763_000	———
-ZKN_FORM_764_000	———
-ZKN_FORM_765_000	———
-ZKN_FORM_766_000	———
-ZKN_FORM_767_000	———
-ZKN_FORM_768_000	———
-ZKN_FORM_769_000	———
-ZKN_FORM_770_000	———
-ZKN_FORM_771_000	———
-ZKN_FORM_772_000	———
+ZKN_FORM_747_000	
+ZKN_FORM_748_000	
+ZKN_FORM_749_000	
+ZKN_FORM_750_000	
+ZKN_FORM_751_000	
+ZKN_FORM_752_000	
+ZKN_FORM_753_000	
+ZKN_FORM_754_000	
+ZKN_FORM_755_000	
+ZKN_FORM_756_000	
+ZKN_FORM_757_000	
+ZKN_FORM_758_000	
+ZKN_FORM_759_000	
+ZKN_FORM_760_000	
+ZKN_FORM_761_000	
+ZKN_FORM_762_000	
+ZKN_FORM_763_000	
+ZKN_FORM_764_000	
+ZKN_FORM_765_000	
+ZKN_FORM_766_000	
+ZKN_FORM_767_000	
+ZKN_FORM_768_000	
+ZKN_FORM_769_000	
+ZKN_FORM_770_000	
+ZKN_FORM_771_000	
+ZKN_FORM_772_000	
 ZKN_FORM_773_000	Tipo Normale
 ZKN_FORM_774_000	Forma Meteora
-ZKN_FORM_775_000	———
-ZKN_FORM_776_000	———
-ZKN_FORM_777_000	———
+ZKN_FORM_775_000	
+ZKN_FORM_776_000	
+ZKN_FORM_777_000	
 ZKN_FORM_778_000	Forma Mascherata
-ZKN_FORM_779_000	———
-ZKN_FORM_780_000	———
-ZKN_FORM_781_000	———
-ZKN_FORM_782_000	———
-ZKN_FORM_783_000	———
-ZKN_FORM_784_000	———
-ZKN_FORM_785_000	———
-ZKN_FORM_786_000	———
-ZKN_FORM_787_000	———
-ZKN_FORM_788_000	———
-ZKN_FORM_789_000	———
-ZKN_FORM_790_000	———
-ZKN_FORM_791_000	———
-ZKN_FORM_792_000	———
-ZKN_FORM_793_000	———
-ZKN_FORM_794_000	———
-ZKN_FORM_795_000	———
-ZKN_FORM_796_000	———
-ZKN_FORM_797_000	———
-ZKN_FORM_798_000	———
-ZKN_FORM_799_000	———
-ZKN_FORM_800_000	———
-ZKN_FORM_801_000	———
-ZKN_FORM_802_000	———
+ZKN_FORM_779_000	
+ZKN_FORM_780_000	
+ZKN_FORM_781_000	
+ZKN_FORM_782_000	
+ZKN_FORM_783_000	
+ZKN_FORM_784_000	
+ZKN_FORM_785_000	
+ZKN_FORM_786_000	
+ZKN_FORM_787_000	
+ZKN_FORM_788_000	
+ZKN_FORM_789_000	
+ZKN_FORM_790_000	
+ZKN_FORM_791_000	
+ZKN_FORM_792_000	
+ZKN_FORM_793_000	
+ZKN_FORM_794_000	
+ZKN_FORM_795_000	
+ZKN_FORM_796_000	
+ZKN_FORM_797_000	
+ZKN_FORM_798_000	
+ZKN_FORM_799_000	
+ZKN_FORM_800_000	
+ZKN_FORM_801_000	
+ZKN_FORM_802_000	
 ZKN_FORM_803_000	
 ZKN_FORM_804_000	
 ZKN_FORM_805_000	
@@ -18491,7 +18491,7 @@ ZKN_FORM_015_001	MegaBeedrill
 ZKN_FORM_018_001	MegaPidgeot
 ZKN_FORM_019_001	Forma di Alola
 ZKN_FORM_020_001	Forma di Alola
-ZKN_FORM_020_002	———
+ZKN_FORM_020_002	
 ZKN_FORM_025_001	Berretto Originale
 ZKN_FORM_025_002	Berretto Hoenn
 ZKN_FORM_025_003	Berretto Sinnoh
@@ -18697,7 +18697,7 @@ ZKN_FORM_649_001	Forma di Genesect
 ZKN_FORM_649_002	Forma di Genesect
 ZKN_FORM_649_003	Forma di Genesect
 ZKN_FORM_649_004	Forma di Genesect
-ZKN_FORM_658_001	———
+ZKN_FORM_658_001	
 ZKN_FORM_658_002	Forma Ash
 ZKN_FORM_664_001	
 ZKN_FORM_664_002	
@@ -18798,8 +18798,8 @@ ZKN_FORM_718_004	Forma Perfetta
 ZKN_FORM_719_001	MegaDiancie
 ZKN_FORM_720_001	Hoopa Libero
 ZKN_FORM_724_001	Forma di Hisui
-ZKN_FORM_735_001	———
-ZKN_FORM_738_001	———
+ZKN_FORM_735_001	
+ZKN_FORM_738_001	
 ZKN_FORM_741_001	Stile Cheerdance
 ZKN_FORM_741_002	Stile Hula
 ZKN_FORM_741_003	Stile Buyō
@@ -18809,8 +18809,8 @@ ZKN_FORM_745_001	Forma Notte
 ZKN_FORM_745_002	Forma Crepuscolo
 ZKN_FORM_746_001	Forma Banco
 ZKN_FORM_752_001	
-ZKN_FORM_754_001	———
-ZKN_FORM_758_001	———
+ZKN_FORM_754_001	
+ZKN_FORM_758_001	
 ZKN_FORM_773_001	Tipo Lotta
 ZKN_FORM_773_002	Tipo Volante
 ZKN_FORM_773_003	Tipo Veleno
@@ -18843,9 +18843,9 @@ ZKN_FORM_774_012	Nucleo Indaco
 ZKN_FORM_774_013	Nucleo Violetto
 ZKN_FORM_777_001	
 ZKN_FORM_778_001	Forma Smascherata
-ZKN_FORM_778_002	———
-ZKN_FORM_778_003	———
-ZKN_FORM_784_001	———
+ZKN_FORM_778_002	
+ZKN_FORM_778_003	
+ZKN_FORM_784_001	
 ZKN_FORM_800_001	Criniera del Vespro
 ZKN_FORM_800_002	Ali dell'Aurora
 ZKN_FORM_800_003	UltraNecrozma

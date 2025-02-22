@@ -7457,7 +7457,7 @@ sp_friend_03008	このユーザーの　フレンドすうが　 じょうげん
 sp_friend_03009	このユーザーを　しょうにんしますか？
 sp_friend_03010	じぶんに　しんせいしています
 sp_friend_03012	このフレンドしんせいを　さくじょしますか？
-sp_friend_dialogmsg_00	このフレンドと　おわかれしますか？  ※あいてには つうちされません
+sp_friend_dialogmsg_00	このフレンドと　おわかれしますか？  [VAR FF00(0001)]※あいてには つうちされません[VAR FF00(0000)]
 sp_friend_dialogmsg_01	フレンドリストを　こうしんします
 sp_friend_empty_list	ひょうじできるフレンドはいません フレンドついかを　おこなってください
 
@@ -7486,7 +7486,7 @@ sp_labelcolor_18_v2	ラベル（もも）
 ~~~~~~~~~~~~~~~
 Text File : sp_languageconfirm_jpn.msbt
 ~~~~~~~~~~~~~~~
-sp_languageconfirm_001	このげんごで　よろしいですか？ <b>【にほんご・ひらがな】</b>  ※あとから　へんこうできます
+sp_languageconfirm_001	このげんごで　よろしいですか？ <b>【にほんご・ひらがな】</b>  [VAR FF00(0001)]※あとから　へんこうできます[VAR FF00(0000)]
 sp_languageconfirm_002	はい
 sp_languageconfirm_003	いいえ
 sp_languageconfirm_004	せんたくした げんごの かくにん
@@ -7499,8 +7499,8 @@ sp_memory_01	Pokémon Day
 ~~~~~~~~~~~~~~~
 Text File : sp_migration_jpn.msbt
 ~~~~~~~~~~~~~~~
-sp_migration_00002	ポケモンバンク Ver[VAR 0200(0000)]いじょう
-sp_migration_00003	Pokémon HOME あと　[VAR 0200(0000)]ひき
+sp_migration_00002	ポケモンバンク Ver[VAR 0201(0000)]いじょう
+sp_migration_00003	Pokémon HOME あと　[VAR 0202(0000)]ひき
 sp_migration_00004	ニンテンドー3DSの　『ポケモンバンク』から ポケモンを　つれてくることが　できます
 sp_migration_00005	いちど　つれてきたポケモンは ニンテンドー3DSに　もどせなくなります！
 sp_migration_00006	ひっこしを　はじめる！
@@ -7534,7 +7534,7 @@ sp_migration_09001	ひっこしパスワードの ゆうこうきげんが　き
 sp_migration_09002	もういちど　ひっこしを　するときは あたらしい　ひっこしパスワードを しようしてください
 sp_migration_09003	あたらしい　ひっこしパスワードを ひょうじする！
 sp_migration_10001	ただいま　ひっこし　さぎょうちゅう！
-sp_migration_10002	ひっこしが　かんりょう　するまで Pokémon HOMEを　りようできません！
+sp_migration_10002	[VAR FF00(0001)]ひっこしが　かんりょう　するまで Pokémon HOMEを　りようできません！[VAR FF00(0000)]
 sp_migration_10003	ひっこし　かんりょうを　おまちください
 sp_migration_11001	ひっこしが　おわりました！
 sp_migration_11002	Pokémon HOMEへ　ようこそ！！
@@ -7721,10 +7721,10 @@ sp_option_terms_00011	プライバシーポリシーに　同意します
 sp_option_language_title	言語の選択
 sp_option_language_select	どの 言語を 使いますか？
 sp_option_language_select_please	言語を　選択して　ください
-sp_option_language_select_00002	※ちいさな　おこさまは　ほごしゃのかたと  いっしょに　えらんで　ください
+sp_option_language_select_00002	[VAR FF00(0001)]※ちいさな　おこさまは　ほごしゃのかたと  いっしょに　えらんで　ください[VAR FF00(0000)]
 sp_option_language_select_00003	選択した 言語の 確認
 sp_option_country_select_00001	地域の　選択
-sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR 0105(0000)]】</b>  ※あとから　変更できます
+sp_option_country_select_00002	この地域で　よろしいですか？ <b>【[VAR 0105(0000)]】</b>  [VAR FF00(0001)]※あとから　変更できます[VAR FF00(0000)]
 sp_option_country_select_00003	お住まいの地域を　選択してください
 sp_option_country_select_00004	選択した　地域の　確認
 sp_option_country_reselect_title	地域設定の更新
@@ -7732,7 +7732,7 @@ sp_option_country_reselect_body	バトルデータの機能をアップデート
 sp_option_birthday_select_00001	年齢確認
 sp_option_birthday_select_00002	あなたの　生年月日を　入力してください
 sp_option_birthday_select_00003	生年月日が 正しく　入力されて　いません
-sp_option_birthday_select_00004	※あとから　変更できません
+sp_option_birthday_select_00004	[VAR FF00(0001)]※あとから　変更できません[VAR FF00(0000)]
 sp_option_birthday_select_00005	入力内容の　確認
 sp_option_birthday_select_00006	正しく　入力されて　いません
 sp_option_year	年
@@ -7748,10 +7748,10 @@ sp_option_continue_00007	ニンテンドーアカウントと　連携しない�
 sp_option_continue_00008	登録/連携
 sp_option_continue_00009	連携しない
 sp_option_continue_00010	ニンテンドーアカウントとは？
-sp_option_continue_00011	すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください <b>今連携しなければ　後から連携できなくなります</b>  なお、ニンテンドーアカウントと　連携しない場合 以下の機能が　ご利用いただけません  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の 共有 ・機種変更時の　データの引き継ぎ ・ニンテンドーネットワークIDを　使用して 『ポケモンバンク』から　ポケモンを　一括でひっこしさせる
+sp_option_continue_00011	[VAR FF00(0001)]すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください <b>今連携しなければ　後から連携できなくなります</b>[VAR FF00(0000)]  なお、ニンテンドーアカウントと　連携しない場合 以下の機能が　ご利用いただけません  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の 共有 ・機種変更時の　データの引き継ぎ ・ニンテンドーネットワークIDを　使用して 『ポケモンバンク』から　ポケモンを　一括でひっこしさせる
 sp_option_continue_00012	ニンテンドーアカウントとの　連携は  [設定] ↓ [アカウント] ↓ [ニンテンドーアカウントの連携]  から　いつでも　行えます
 sp_option_continue_00013	連携に　失敗しました 前の画面に　戻ります
-sp_option_continue_00014	ニンテンドーアカウントと　連携することで Nintendo Switch版　Pokémon HOMEや 『ポケモンバンク』と　連動できます  ※すでにNintendo Switch版 　Pokémon HOMEを　 利用していたり　今後利用予定がある場合 必ず今　<b>連携する</b>　を選んで　連携してください  <b>今連携しなければ　後から連携できなくなります</b>
+sp_option_continue_00014	ニンテンドーアカウントと　連携することで Nintendo Switch版　Pokémon HOMEや 『ポケモンバンク』と　連動できます  [VAR FF00(0001)]※すでにNintendo Switch版 　Pokémon HOMEを　 利用していたり　今後利用予定がある場合 必ず今　<b>連携する</b>　を選んで　連携してください  <b>今連携しなければ　後から連携できなくなります</b>[VAR FF00(0000)]
 sp_option_continue_00015	アカウントの　引継ぎ
 sp_option_continue_00016	Pokémon HOMEを　初めて利用する
 sp_option_continue_00017	Nintendo Switch版　Pokémon HOMEとの 利用状況の　共有
@@ -7759,7 +7759,7 @@ sp_option_continue_00018	Nintendo Switch版　Pokémon HOMEの 利用が　確�
 sp_option_continue_00019	Pokémon HOMEの　利用が　確認できました アカウントを　引き継いで　始めます
 sp_option_continue_00020	ニンテンドーアカウントと　連携しました
 sp_option_input_name_00001	なまえを　にゅうりょくしてください （さいだい６もじ）
-sp_option_input_name_00002	※あとから　へんこうできます ※ほんみょう、イニシャル、そのたユーザーを 　とくていしうる　じょうほうを 　にゅうりょく　しないで　ください
+sp_option_input_name_00002	[VAR FF00(0001)]※あとから　へんこうできます ※ほんみょう、イニシャル、そのたユーザーを 　とくていしうる　じょうほうを 　にゅうりょく　しないで　ください[VAR FF00(0000)]
 sp_option_input_name_00003	なまえを　にゅうりょくしてください
 sp_option_input_name_00004	ユーザーめいの　にゅうりょく
 sp_option_input_name_00005	タップして　なまえをにゅうりょく
@@ -7768,8 +7768,8 @@ sp_option_input_name_00007	６もじすべてが　すうじの　なまえは �
 sp_option_input_name_00008	なまえに　しようできない もじが　ふくまれています
 sp_option_icon_select_00001	ユーザーアイコンの　せんたく
 sp_option_icon_select_00002	アイコンを　せんたく　してください
-sp_option_icon_select_00003	※あとから　へんこうできます
-sp_option_nameandicon_0001	この　なまえと　アイコンで　よろしいですか？ ※あとから　へんこうできます
+sp_option_icon_select_00003	[VAR FF00(0001)]※あとから　へんこうできます[VAR FF00(0000)]
+sp_option_nameandicon_0001	この　なまえと　アイコンで　よろしいですか？ [VAR FF00(0001)]※あとから　へんこうできます[VAR FF00(0000)]
 sp_option_00001	しょきせっていにもどす
 sp_option_00002	システム
 sp_option_00003	せっていの　ほぞんに　しっぱいしました へんこうまえに　もどします
@@ -7844,7 +7844,7 @@ sp_option_account_00014	すでに　ほかのPokémon HOMEと れんけいずみ
 sp_option_account_00015	ちゅうだんしたアカウントれんけいを　つづけます
 sp_option_account_00016	ニンテンドーアカウント連携で　できること
 sp_option_account_00017	連携でできること　注意事項
-sp_option_account_00018	Pokémon HOMEで　以下のことが　できます  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の　共有 ・機種変更時の　データの引き継ぎ ・ニンテンドーネットワークIDを　使用して 『ポケモンバンク』から　ポケモンを　一括でひっこしさせる  ※すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください  <b>今連携しなければ　後から連携できなくなります</b>  ニンテンドーアカウントと　連携しますか？
+sp_option_account_00018	Pokémon HOMEで　以下のことが　できます  ・Nintendo Switch版　Pokémon HOMEとの 利用状況の　共有 ・機種変更時の　データの引き継ぎ ・ニンテンドーネットワークIDを　使用して 『ポケモンバンク』から　ポケモンを　一括でひっこしさせる  [VAR FF00(0001)]※すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず今　連携してください  <b>今連携しなければ　後から連携できなくなります</b>[VAR FF00(0000)]  ニンテンドーアカウントと　連携しますか？
 sp_option_account_00019	ニンテンドーアカウントと　連携開始
 sp_option_account_00020	アカウント
 sp_option_account_00021	ぜんかいのひっこし
@@ -7854,7 +7854,7 @@ sp_option_account_00024	ほかのニンテンドーアカウントに　 へん�
 sp_option_account_00025	ニンテンドーアカウントを　へんこうする
 sp_option_account_00026	ニンテンドーアカウントを　へんこうしました タイトルにもどります
 sp_option_account_00027_vgo	ニンテンドーアカウントを　へんこうしてしまうと もとの　ニンテンドーアカウントに れんけいしなおすことが　できませんので ごちゅういください
-sp_option_account_00028_vgo	げんざいれんけいしている　ニンテンドーアカウントを ほかのニンテンドーアカウントに　へんこうしてしまうと もとのニンテンドーアカウントでは 『Pokémon HOME』が　りようできなくなります  ほんとうに　ニンテンドーアカウントを へんこうしますか？
+sp_option_account_00028_vgo	[VAR FF00(0001)]げんざいれんけいしている　ニンテンドーアカウントを[VAR FF00(0000)] [VAR FF00(0001)]ほかのニンテンドーアカウントに　へんこうしてしまうと[VAR FF00(0000)] [VAR FF00(0001)]もとのニンテンドーアカウントでは[VAR FF00(0000)] [VAR FF00(0001)]『Pokémon HOME』が　りようできなくなります[VAR FF00(0000)]  [VAR FF00(0001)]ほんとうに　ニンテンドーアカウントを[VAR FF00(0000)] [VAR FF00(0001)]へんこうしますか？[VAR FF00(0000)]
 sp_option_account_00029_vgo	いちども　Pokémon HOMEと れんけいしたことがない ほかの　ニンテンドーアカウントに へんこうすることができます
 sp_option_MONSNAME_722	フシギダネ
 sp_option_MONSNAME_725	ヒトカゲ
@@ -7875,19 +7875,19 @@ sp_option_nalink_0001_v2	Pokémon HOMEでは ニンテンドーアカウント�
 sp_option_nalink_0002_v2	ニンテンドーアカウント連携で　できること
 sp_option_nalink_0003_v2	・ 
 sp_option_nalink_0004_v2	すでにNintendo Switch版 Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ず連携してください
-sp_option_nalink_0005_v2	<b>今連携しなければ　後から連携できなくなります</b>
+sp_option_nalink_0005_v2	[VAR FF00(0001)]<b>今連携しなければ　後から連携できなくなります</b>[VAR FF00(0000)]
 sp_option_nalink_0006_v2	ニンテンドーアカウントと　連携して開始する
 sp_option_nalink_0007_v2	ご使用になる　ニンテンドーアカウントを　ご確認の上 ニンテンドーアカウントの連携を　行ってください
-sp_option_nalink_0008_v2	※連携するニンテンドーアカウントが　わからない場合 以下のいずれかの　リンク先で　確認してください
+sp_option_nalink_0008_v2	[VAR FF00(0001)]※連携するニンテンドーアカウントが　わからない場合 以下のいずれかの　リンク先で　確認してください[VAR FF00(0000)]
 sp_option_nalink_0009_v2	Nintendo Switchで確認
 sp_option_nalink_0010_v2	ニンテンドーアカウント登録情報確認
 sp_option_nalink_0011_v2	連携する　ニンテンドーアカウントは 確認できましたか？
 sp_option_nalink_0012_v2	はい。確認できたので　連携します
 sp_option_nalink_0013_v2	いいえ。ゲストアカウントで　はじめます
-sp_option_nalink_0014_v2	<u><b>ニンテンドーアカウントを　間違えると</b></u> <u><b>以下のことが　できなくなります</b></u>
+sp_option_nalink_0014_v2	[VAR FF00(0001)]<u><b>ニンテンドーアカウントを　間違えると</b></u> <u><b>以下のことが　できなくなります</b></u>[VAR FF00(0000)]
 sp_option_nalink_0015_v2	連携するニンテンドーアカウントを 間違えないよう　ご注意ください
 sp_option_nalink_0016_v2	すでにNintendo Switch版 　Pokémon HOMEを 利用していたり　今後利用予定がある場合は 必ずいま　連携してください 
-sp_option_nalink_0017_v2	ゲストアカウントで　開始する場合 以下の機能が　ご利用いただけませんので ご注意ください
+sp_option_nalink_0017_v2	ゲストアカウントで　開始する場合 以下の機能が　[VAR FF00(0001)]ご利用いただけません[VAR FF00(0000)]ので ご注意ください
 sp_option_nalink_0018_v2	ゲストアカウントで　できないこと
 sp_option_nalink_0019_v2	ゲストアカウントで　開始する
 sp_option_nalink_0020_v2	ゲストアカウントで　開始しますか？
@@ -7900,14 +7900,14 @@ sp_option_nalink_0026_v2	Nintendo Switch版　Pokémon HOMEと スマートフ�
 sp_option_nalink_0027_v2	Pokémon HOMEを　はじめて利用する
 sp_option_nalink_0028_v2	連携した　ニンテンドーアカウントに Nintendo Switch版Pokémon HOMEの　利用が 確認できませんでした
 sp_option_nalink_0029_v2	はじめての　ご利用に　なりますので スマートフォン版Pokémon HOMEを 新たに　ニンテンドーアカウントと　連携しますか？
-sp_option_nalink_0030_v2	※すでに　Nintendo Switch版Pokémon HOMEを 利用している状態で　この画面になった場合は 連携している　ニンテンドーアカウントが　違いますので 「いいえ」を押して　前の画面へ戻り 別のニンテンドーアカウントで　お試しください
+sp_option_nalink_0030_v2	[VAR FF00(0001)]※すでに　Nintendo Switch版Pokémon HOMEを 利用している状態で　この画面になった場合は 連携している　ニンテンドーアカウントが　違いますので 「いいえ」を押して　前の画面へ戻り 別のニンテンドーアカウントで　お試しください[VAR FF00(0000)]
 sp_option_nalink_0031_v2	ゲストで開始
 sp_option_nalink_0032_v2	Nintendo SwitchのPokémon HOMEや ゲームソフトとの連携
 sp_option_nalink_0033_v2	『ポケモンバンク』から　ポケモンのひっこし
 sp_option_nalink_0034_v2	機種変更時の　データの引き継ぎ
 sp_option_nalink_0035_v2	連携しない
 sp_option_nalink_0036_v2	ゲストアカウントで　開始する前の　最終確認
-sp_option_nalink_0037_v2	※[いいえ]を押すと　ニンテンドーアカウント連携の 確認画面へ　もどります
+sp_option_nalink_0037_v2	[VAR FF00(0001)]※[いいえ]を押すと　ニンテンドーアカウント連携の 確認画面へ　もどります[VAR FF00(0000)]
 sp_option_nalink_0038_v2	『ポケットモンスター』シリーズで参加した 「インターネット大会（公式大会・仲間大会）」や 「ランクバトル」の個人戦績の確認
 sp_option_nalink_0039_v2	『ポケットモンスター』シリーズの 個人戦績の確認
 sp_option_nalink_0040_v2	サポートトップページ
@@ -8004,7 +8004,7 @@ sp_playerlog_00014	[VAR 0200(0000)]で　[VAR 0100(0001)]が　ひきだしま�
 sp_playerlog_00015	にがしました
 sp_playerlog_00016	ふしぎなおくりもので　うけとりました
 sp_playerlog_00017	[VAR 0203(0000)]ひき ポケモンてんそうしました
-sp_playerlog_00018	[VAR 0102(0001)]の[VAR 0100(0000)]
+sp_playerlog_00018	[VAR 0100(0000)]の[VAR 0100(0001)]
 sp_playerlog_00019	おくったポケモン
 sp_playerlog_00020	うけとったポケモン
 sp_playerlog_00021	うけとったひと
@@ -8093,7 +8093,7 @@ sp_trade_01004	ミラクルボックスに あずけている　ポケモンで�
 sp_trade_01005	そうさできません
 sp_trade_01006	おきにいりの　ポケモンです えらぶことは　できません
 sp_trade_02001	[VAR 0102(0000)]を　[VAR 0100(0001)]へ　おくります！ バイバイ　[VAR 0102(0000)]
-sp_trade_02002	[VAR 0100(0001)]から [VAR 0102(0000)]が　おくられてきた！
+sp_trade_02002	[VAR 0100(0000)]から [VAR 0102(0001)]が　おくられてきた！
 sp_trade_02003	[VAR 0102(0000)]を　かわいがって　あげてね！
 sp_trade_02004	[VAR 0102(0000)]を　ＧＴＳへ　あずけます！ バイバイ　[VAR 0102(0000)]
 sp_trade_02005	[VAR 0102(0000)]が ＧＴＳから　やってきた！
@@ -8118,7 +8118,7 @@ sp_trade_miracle_00008	[VAR 0102(0000)]は すでに　こうかんされてい�
 sp_trade_miracle_00010	こうかんされました！
 sp_trade_miracle_00011	とうろく　できませんでした  すこし　じかんをおいてから もういちど　おためしください
 sp_trade_miracle_00013_v3	せんたくしたポケモンを　どうしますか？
-sp_trade_miracle_00013_1_v3	（[VAR 0200(0000)]ひきを　せんたくしています）
+sp_trade_miracle_00013_1_v3	（[VAR 0201(0000)]ひきを　せんたくしています）
 sp_trade_miracle_00014_v3	ポケモンを　あずける
 sp_trade_miracle_00015_v3	ポケモンの　つよさを　みる
 sp_trade_miracle_00016_v3	あきすういじょうの　ポケモンを せんたくすることは　できません
@@ -8304,7 +8304,7 @@ sp_ui_friend_trade	フレンドこうかん
 sp_ui_record	きろく
 sp_ui_player_log	てちょう
 sp_ui_library_progress_v10	ずかんのしんちょく
-sp_ui_library_progress_frac_v10	[VAR 0200(0000)]/[VAR 0200(0001)]
+sp_ui_library_progress_frac_v10	[VAR 0202(0000)]/[VAR 0202(0001)]
 sp_ui_national_library	ぜんこくずかん
 sp_ui_software_library_v10	ソフトずかん
 sp_ui_other_library_v10	そのた
@@ -8373,12 +8373,12 @@ sp_ui_title_menu_05_dialog_done	キャッシュクリアが かんりょうし�
 sp_ui_title_menu_support_id	サポートID
 sp_ui_title_menu_06_v1	サポートIDをコピー
 sp_ui_title_menu_06_dialog_text_v1	クリップボードに　コピーしました
-sp_ui_title_nalink_v2	ニンテンドーアカウントの じょうほうがへんこうされました もういちど　ニンテンドーアカウントに ログインしてください  しようしていた　ニンテンドーアカウントと ちがうニンテンドーアカウントで ログインすることはできません
+sp_ui_title_nalink_v2	ニンテンドーアカウントの じょうほうがへんこうされました もういちど　ニンテンドーアカウントに ログインしてください  [VAR FF00(0001)]しようしていた　ニンテンドーアカウントと ちがうニンテンドーアカウントで ログインすることはできません[VAR FF00(0000)]
 sp_ui_title_nalink_complete_v2	ニンテンドーアカウントに　ログインできました
 sp_ui_title_nalink_error_v2	れんけいしている　ニンテンドーアカウントと ログインされた　ニンテンドーアカウントが ちがいます
 sp_ui_title_license	権利表記
 sp_ui_ngname_confirm_title	ユーザーめいのへんこう
-sp_ui_ngname_confirm_body	しようしていたユーザーめいに つかえないことばがふくまれているため、 ユーザーめいをへんこうしてください  へんこうまえのユーザーめい [VAR 0100(0000)]
+sp_ui_ngname_confirm_body	しようしていたユーザーめいに つかえないことばがふくまれているため、 ユーザーめいをへんこうしてください  へんこうまえのユーザーめい [VAR FF00(0001)][VAR 0100(0000)][VAR FF00(0000)]
 sp_ui_downlod_0001	きどうちゅうです
 sp_ui_downlod_0002	マスターデータ　ダウンロード中
 sp_ui_downlod_0003	マスターデータ　ダウンロード完了
@@ -8421,7 +8421,7 @@ sp_ui_language_v4	げんご
 sp_ui_my_parent_v6	マイおや／IDNo.
 sp_ui_my_parent_set_v6	マイおや／IDNo.
 sp_ui_my_parent_no_set_v6	マイおや／IDNo.　いがい
-sp_ui_filter_parent	[VAR 0100(0001)]:[VAR 0205(0000,0000)]
+sp_ui_filter_parent	[VAR 0100(0000)]:[VAR 0205(0001,0000)]
 sp_ui_filter_seikaku_1_m	がんばりや＋ミント
 sp_ui_filter_seikaku_2_m	さみしがり＋ミント
 sp_ui_filter_seikaku_3_m	ゆうかん＋ミント
@@ -8522,7 +8522,7 @@ sp_ui_svbd_back	もどる
 sp_ui_all_pokemon	すべてのポケモン
 sp_ui_release	かいじょ
 sp_ui_goodby	にがす 
-sp_ui_goodby_confirm	ほんとうに　にがしますか？  ※おきにいりのポケモンを にがすことは　できません
+sp_ui_goodby_confirm	ほんとうに　にがしますか？  [VAR FF00(0001)]※おきにいりのポケモンを にがすことは　できません[VAR FF00(0000)]
 sp_ui_goodby_singular	[VAR 0102(0000)]を　にがしてあげた ばいばい　[VAR 0102(0000)]！
 sp_ui_goodby_plural	[VAR 0102(0000)]たちを　にがしてあげた ばいばい　みんな！
 sp_ui_set_label_max	ラベルがいっぱいの　ポケモンがいます
@@ -8534,10 +8534,10 @@ sp_ui_bank_empty_list	ひょうじできる　ポケモンは　いません
 sp_ui_bank_freebox	フリーボックス
 sp_ui_bank_freebox_remaining	フリーボックスいがいのポケモン
 sp_ui_bank_change_plan_confirm	すべてのポケモンを　ひょうじするには プレミアムプランへ　へんこうが　ひつようです  プランへんこうを　しますか？
-sp_ui_bank_favall	※おきにいりのポケモンを にがすことは　できません！
+sp_ui_bank_favall	[VAR FF00(0001)]※おきにいりのポケモンを にがすことは　できません！[VAR FF00(0000)]
 sp_ui_lastet_update	さいしん30
 sp_ui_select_max_v3	ポケモンの　せんたくは １どに　１００ひきまでです
-sp_ui_no_num	No.[VAR 0200(0000)]
+sp_ui_no_num	No.[VAR 0201(0000)]
 sp_ui_lv_num	Lv.[VAR 0200(0000)]
 sp_ui_idno_num	IDNo.
 sp_ui_trainer_memo	トレーナーメモ
@@ -8556,14 +8556,14 @@ sp_ui_total_evaluate_01	まずまずの　のうりょく
 sp_ui_total_evaluate_02	へいきん　いじょうの　のうりょく
 sp_ui_total_evaluate_03	そうとう　ゆうしゅうな　のうりょく
 sp_ui_total_evaluate_04	すばらしい　のうりょく
-sp_ui_lumpribbon_num	[VAR 0200(0000)]こ
+sp_ui_lumpribbon_num	[VAR 0201(0000)]こ
 sp_ui_parent_and_id_v4	おや　と　IDNo.
-sp_ui_trainermemo_01_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で であった。
-sp_ui_trainermemo_02_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で であった　ようだ。
-sp_ui_trainermemo_03_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で うんめいてきな　であいをした。
-sp_ui_trainermemo_04_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR 0105(0000)]で うんめいてきな　であいをした　ようだ。
-sp_ui_trainermemo_05_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち なつかしの　[VAR 0105(0000)]で であった　ようだ。
-sp_ui_trainermemo_06_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち なつかしの　[VAR 0105(0000)]で うんめいてきな　であいをした　ようだ。
+sp_ui_trainermemo_01_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった。
+sp_ui_trainermemo_02_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった　ようだ。
+sp_ui_trainermemo_03_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな　であいをした。
+sp_ui_trainermemo_04_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち [VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな　であいをした　ようだ。
+sp_ui_trainermemo_05_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち なつかしの　[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった　ようだ。
+sp_ui_trainermemo_06_v04	[VAR 0203(0001)]ねん[VAR 0201(0002)]がつ[VAR 0201(0003)]にち なつかしの　[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな　であいをした　ようだ。
 sp_ui_encountedplace_v10	であった　ばしょ
 sp_ui_encountedplace_pokeshifter_v10	ポケシフター
 sp_ui_encountedplace_nostalgickanto_v10	なつかしの　カントーちほう
@@ -8576,7 +8576,7 @@ sp_ui_label_edit	ラベルへんしゅう
 sp_ui_label_seting_please	ラベルの　なまえと　いろを　せっていしてください
 sp_ui_label_name	ラベルめい
 sp_ui_label_input_please	さいだい８もじ
-sp_ui_label_input_limit_v1	さいだい[VAR 0200(0000)]もじ
+sp_ui_label_input_limit_v1	さいだい[VAR 0201(0000)]もじ
 sp_ui_label_over_size	もじすうオーバーです
 sp_ui_label_cant_use_word	しようできない　もじです
 sp_ui_icon	アイコン
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	かべがみの　せってい
 sp_ui_seal_00009	このかべがみを　せっていしますか？
 sp_ui_seal_00010	シールを　はがす
 sp_ui_seal_00011	シールを　リストに　もどしますか？
-sp_ui_seal_00012	[VAR 0109(0000)] は これいじょう はれません
+sp_ui_seal_00012	[VAR 0200(0000)] は これいじょう はれません
 sp_ui_seal_00013	へんこうが　あります ないようを　ほぞんしますか？
 sp_ui_seal_00014	シールを　すべて　はがします。 よろしいですか？
 sp_ui_seal_filter_01_01	はれるシール
@@ -8647,7 +8647,7 @@ sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　にゅうりょくしてください
 sp_ui_gift_select_title	えらんだポケモンの　かくにん
-sp_ui_gift_select_confirm	ほんとうに　[VAR 0101(0000)]　で いいですか？  ※このあと　えらんだポケモンを へんこうすることは　できません
+sp_ui_gift_select_confirm	ほんとうに　[VAR 0101(0000)]　で いいですか？  [VAR FF00(0001)]※このあと　えらんだポケモンを[VAR FF00(0000)] [VAR FF00(0001)]へんこうすることは　できません[VAR FF00(0000)]
 sp_ui_gift_select_reselect	えらびなおす
 sp_ui_achieve_dialog_all_clear	たっせいずみ
 sp_ui_achieve_dialog_header_title	たっせいほうしゅう
@@ -8769,7 +8769,7 @@ sp_ui_memory_v5	きねんび
 sp_ui_calendar_year_v5	ねん
 sp_ui_calendar_numerical_year_v5	[VAR 0203(0000)]ねん
 sp_ui_calendar_numerical_year_month_v5	[VAR 0203(0000)]ねん[VAR 0201(0001)]がつ
-sp_ui_calendar_numerical_month_day_v5	[VAR 0200(0000)]がつ[VAR 0201(0001)]にち
+sp_ui_calendar_numerical_month_day_v5	[VAR 0201(0000)]がつ[VAR 0201(0001)]にち
 sp_ui_calendar_numerical_date_v5	[VAR 0203(0000)]ねん[VAR 0201(0001)]がつ[VAR 0201(0002)]にち
 sp_ui_calendar_illegal_date_v5	ふめいなひにち
 sp_ui_calendar_date_v5	ひづけ
@@ -11336,31 +11336,31 @@ TOKUSEI_310	どくくぐつ
 ~~~~~~~~~~~~~~~
 Text File : trainermemo_jpn.msbt
 ~~~~~~~~~~~~~~~
-trmemo_01_01	がんばりやな　せいかく。
-trmemo_01_02	さみしがりな　せいかく。
-trmemo_01_03	ゆうかんな　せいかく。
-trmemo_01_04	いじっぱりな　せいかく。
-trmemo_01_05	やんちゃな　せいかく。
-trmemo_01_06	ずぶとい　せいかく。
-trmemo_01_07	すなおな　せいかく。
-trmemo_01_08	のんきな　せいかく。
-trmemo_01_09	わんぱくな　せいかく。
-trmemo_01_10	のうてんきな　せいかく。
-trmemo_01_11	おくびょうな　せいかく。
-trmemo_01_12	せっかちな　せいかく。
-trmemo_01_13	まじめな　せいかく。
-trmemo_01_14	ようきな　せいかく。
-trmemo_01_15	むじゃきな　せいかく。
-trmemo_01_16	ひかえめな　せいかく。
-trmemo_01_17	おっとりした　せいかく。
-trmemo_01_18	れいせいな　せいかく。
-trmemo_01_19	てれやな　せいかく。
-trmemo_01_20	うっかりやな　せいかく。
-trmemo_01_21	おだやかな　せいかく。
-trmemo_01_22	おとなしい　せいかく。
-trmemo_01_23	なまいきな　せいかく。
-trmemo_01_24	しんちょうな　せいかく。
-trmemo_01_25	きまぐれな　せいかく。
+trmemo_01_01	[VAR FF00(0002)]がんばりや[VAR FF00(0000)]な　せいかく。
+trmemo_01_02	[VAR FF00(0002)]さみしがり[VAR FF00(0000)]な　せいかく。
+trmemo_01_03	[VAR FF00(0002)]ゆうかん[VAR FF00(0000)]な　せいかく。
+trmemo_01_04	[VAR FF00(0002)]いじっぱり[VAR FF00(0000)]な　せいかく。
+trmemo_01_05	[VAR FF00(0002)]やんちゃ[VAR FF00(0000)]な　せいかく。
+trmemo_01_06	[VAR FF00(0002)]ずぶとい[VAR FF00(0000)]　せいかく。
+trmemo_01_07	[VAR FF00(0002)]すなお[VAR FF00(0000)]な　せいかく。
+trmemo_01_08	[VAR FF00(0002)]のんき[VAR FF00(0000)]な　せいかく。
+trmemo_01_09	[VAR FF00(0002)]わんぱく[VAR FF00(0000)]な　せいかく。
+trmemo_01_10	[VAR FF00(0002)]のうてんき[VAR FF00(0000)]な　せいかく。
+trmemo_01_11	[VAR FF00(0002)]おくびょう[VAR FF00(0000)]な　せいかく。
+trmemo_01_12	[VAR FF00(0002)]せっかち[VAR FF00(0000)]な　せいかく。
+trmemo_01_13	[VAR FF00(0002)]まじめ[VAR FF00(0000)]な　せいかく。
+trmemo_01_14	[VAR FF00(0002)]ようき[VAR FF00(0000)]な　せいかく。
+trmemo_01_15	[VAR FF00(0002)]むじゃき[VAR FF00(0000)]な　せいかく。
+trmemo_01_16	[VAR FF00(0002)]ひかえめ[VAR FF00(0000)]な　せいかく。
+trmemo_01_17	[VAR FF00(0002)]おっとり[VAR FF00(0000)]した　せいかく。
+trmemo_01_18	[VAR FF00(0002)]れいせい[VAR FF00(0000)]な　せいかく。
+trmemo_01_19	[VAR FF00(0002)]てれや[VAR FF00(0000)]な　せいかく。
+trmemo_01_20	[VAR FF00(0002)]うっかりや[VAR FF00(0000)]な　せいかく。
+trmemo_01_21	[VAR FF00(0002)]おだやか[VAR FF00(0000)]な　せいかく。
+trmemo_01_22	[VAR FF00(0002)]おとなしい[VAR FF00(0000)]　せいかく。
+trmemo_01_23	[VAR FF00(0002)]なまいき[VAR FF00(0000)]な　せいかく。
+trmemo_01_24	[VAR FF00(0002)]しんちょう[VAR FF00(0000)]な　せいかく。
+trmemo_01_25	[VAR FF00(0002)]きまぐれ[VAR FF00(0000)]な　せいかく。
 trmemo_03_01_00	たべるのが　だいすき。
 trmemo_03_01_01	ひるねを　よくする。
 trmemo_03_01_02	いねむりが　おおい。
@@ -11391,14 +11391,14 @@ trmemo_03_06_01	ちょっぴり　みえっぱり。
 trmemo_03_06_02	まけんきが　つよい。
 trmemo_03_06_03	まけずぎらい。
 trmemo_03_06_04	ちょっぴり　ごうじょう。
-trmemo_bank_01_01	[VAR 0105(0000)]で であった。
-trmemo_bank_01_02	[VAR 0105(0000)]で であった　ようだ。
-trmemo_bank_02_01	[VAR 0105(0000)]で うんめいてきな であいをした。
-trmemo_bank_02_02	[VAR 0105(0000)]で うんめいてきな であいをした　ようだ。
-trmemo_bank_03_01	なつかしの　[VAR 0105(0000)]で であった。
-trmemo_bank_03_02	なつかしの　[VAR 0105(0000)]で であった　ようだ。
-trmemo_bank_04_01	なつかしの　[VAR 0105(0000)]で うんめいてきな であいをした。
-trmemo_bank_04_02	なつかしの　[VAR 0105(0000)]で うんめいてきな であいをした　ようだ。
+trmemo_bank_01_01	[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった。
+trmemo_bank_01_02	[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった　ようだ。
+trmemo_bank_02_01	[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな であいをした。
+trmemo_bank_02_02	[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな であいをした　ようだ。
+trmemo_bank_03_01	なつかしの　[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった。
+trmemo_bank_03_02	なつかしの　[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で であった　ようだ。
+trmemo_bank_04_01	なつかしの　[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな であいをした。
+trmemo_bank_04_02	なつかしの　[VAR FF00(0002)][VAR 0105(0000)][VAR FF00(0000)]で うんめいてきな であいをした　ようだ。
 
 ~~~~~~~~~~~~~~~
 Text File : typename_jpn.msbt
