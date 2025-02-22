@@ -7961,13 +7961,13 @@ sp_plan_terms	用户协议
 sp_plan_fund_settlement_method	基于资金结算法显示内容
 sp_plan_specifiedcommercial_transaction_law	基于特定商业交易法显示内容
 sp_plan_change	确认方案
-sp_plan_buy_text	购买[VAR 0200(0000)]。
+sp_plan_buy_text	购买[VAR 0117(0000)]。
 sp_plan_change_disable_text	如要确认在其他商店购买的\n进阶方案的有效期，\n请在购入的商店确认。
 sp_plan_restored_title	恢复方案
 sp_plan_restored_text	已恢复方案。
 sp_plan_buy_failed_title	购买出错
-sp_plan_buy_failed_text	购买处理失败。\n[VAR 0200(0000)]
-sp_plan_buy_failed_goto_title_text	购买处理失败。\n即将回到标题画面。\n[VAR 0200(0000)]
+sp_plan_buy_failed_text	购买处理失败。\n[VAR 0117(0000)]
+sp_plan_buy_failed_goto_title_text	购买处理失败。\n即将回到标题画面。\n[VAR 0117(0000)]
 sp_plan_not_Initalized_text	消费系统没有完成初始化。\n即将回到标题画面。
 sp_plan_not_Initalizing_text	消费系统正在初始化……
 sp_plan_help_button	进阶方案帮助
@@ -7999,8 +7999,8 @@ sp_playerlog_00009	进行了<b>好友交换</b>。
 sp_playerlog_00010	通过<b>GTS</b>进行了交换。
 sp_playerlog_00011	进行了<b>群组交换</b>。
 sp_playerlog_00012	通过<b>奇迹盒子</b>进行了交换。
-sp_playerlog_00013	[VAR 0100(0001)]在[VAR 0200(0000)]寄放了。
-sp_playerlog_00014	[VAR 0100(0001)]在[VAR 0200(0000)]领取了。
+sp_playerlog_00013	[VAR 0100(0001)]在[VAR 0117(0000)]寄放了。
+sp_playerlog_00014	[VAR 0100(0001)]在[VAR 0117(0000)]领取了。
 sp_playerlog_00015	放生了。
 sp_playerlog_00016	已通过神秘礼物接收。
 sp_playerlog_00017	传送了[VAR 0203(0000)]只宝可梦。
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	设置壁纸
 sp_ui_seal_00009	要设置此壁纸吗？
 sp_ui_seal_00010	撕下贴纸
 sp_ui_seal_00011	要把贴纸放回列表吗？
-sp_ui_seal_00012	无法粘贴更多的[VAR 0200(0000)]了。
+sp_ui_seal_00012	无法粘贴更多的[VAR 0117(0000)]了。
 sp_ui_seal_00013	有内容被更改，\n要保存吗？
 sp_ui_seal_00014	你确定要撕下所有贴纸吗？
 sp_ui_seal_filter_01_01	可粘贴的贴纸
@@ -8637,7 +8637,7 @@ sp_ui_gift_01005	还剩[VAR 0200(0000)]小时
 sp_ui_gift_01006	还剩[VAR 0200(0000)]分钟
 sp_ui_gift_01007	过期
 sp_ui_gift_02001	有效期
-sp_ui_gift_02002	还剩[VAR 0200(0000)]天
+sp_ui_gift_02002	还剩[VAR 0117(0000)]天
 sp_ui_gift_02003	神秘礼物
 sp_ui_gift_02004	可在以上软件接收。
 sp_ui_gift_02005	已在以上软件接收。

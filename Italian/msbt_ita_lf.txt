@@ -7961,13 +7961,13 @@ sp_plan_terms	Termini di utilizzo
 sp_plan_fund_settlement_method	Leggi relative ai pagamenti
 sp_plan_specifiedcommercial_transaction_law	Transazioni commerciali
 sp_plan_change	Dettagli sul servizio
-sp_plan_buy_text	Acquista: [VAR 0200(0000)]
+sp_plan_buy_text	Acquista: [VAR 0117(0000)]
 sp_plan_change_disable_text	Questo servizio premium è stato acquistato in un altro\nnegozio. Puoi controllarne la scadenza nel negozio\nin cui è stato acquistato.
 sp_plan_restored_title	Ripristina il servizio
 sp_plan_restored_text	Il servizio è stato ripristinato.
 sp_plan_buy_failed_title	Errore nel pagamento
-sp_plan_buy_failed_text	Si è verificato un errore nell'elaborazione del pagamento.\n[VAR 0200(0000)]
-sp_plan_buy_failed_goto_title_text	Si è verificato un errore nell'elaborazione del pagamento.\nTornerai allo schermo del titolo.\n[VAR 0200(0000)]
+sp_plan_buy_failed_text	Si è verificato un errore nell'elaborazione del pagamento.\n[VAR 0117(0000)]
+sp_plan_buy_failed_goto_title_text	Si è verificato un errore nell'elaborazione del pagamento.\nTornerai allo schermo del titolo.\n[VAR 0117(0000)]
 sp_plan_not_Initalized_text	Il sistema di pagamento non è stato definito.\nTornerai allo schermo del titolo.
 sp_plan_not_Initalizing_text	Inizializzazione del sistema di pagamento in corso...
 sp_plan_help_button	Guida al servizio premium
@@ -7999,8 +7999,8 @@ sp_playerlog_00009	Hai fatto uno <b>scambio con amici</b>.
 sp_playerlog_00010	Hai fatto uno scambio tramite <b>GTS</b>.
 sp_playerlog_00011	Hai fatto uno <b>scambio di gruppo</b>.
 sp_playerlog_00012	Hai fatto uno scambio tramite <b>Box prodigioso</b>.
-sp_playerlog_00013	[VAR 0100(0001)] ha depositato Pokémon in [VAR 0200(0000)].
-sp_playerlog_00014	[VAR 0100(0001)] ha ritirato Pokémon in [VAR 0200(0000)].
+sp_playerlog_00013	[VAR 0100(0001)] ha depositato Pokémon in [VAR 0117(0000)].
+sp_playerlog_00014	[VAR 0100(0001)] ha ritirato Pokémon in [VAR 0117(0000)].
 sp_playerlog_00015	Hai liberato dei Pokémon.
 sp_playerlog_00016	Hai ricevuto un Dono Segreto.
 sp_playerlog_00017	Hai trasferito [VAR 0203(0000)] Pokémon.
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Modifica copertina
 sp_ui_seal_00009	Vuoi impostare questo sfondo?
 sp_ui_seal_00010	Togli adesivo
 sp_ui_seal_00011	Vuoi rimettere l'adesivo nella lista?
-sp_ui_seal_00012	Hai raggiunto il limite per la categoria [VAR 0200(0000)].
+sp_ui_seal_00012	Hai raggiunto il limite per la categoria [VAR 0117(0000)].
 sp_ui_seal_00013	Hai fatto delle modifiche.\nVuoi salvarle?
 sp_ui_seal_00014	Tutti gli adesivi verranno tolti.\nVuoi continuare?
 sp_ui_seal_filter_01_01	Adesivi che puoi usare
@@ -8637,7 +8637,7 @@ sp_ui_gift_01005	Ancora [VAR 0200(0000)] or\n[VAR 1101(0000,0101)]ae
 sp_ui_gift_01006	Ancora [VAR 0200(0000)] minut\n[VAR 1101(0000,0101)]oi
 sp_ui_gift_01007	Scaduto
 sp_ui_gift_02001	Validità
-sp_ui_gift_02002	Giorni: [VAR 0200(0000)]
+sp_ui_gift_02002	Giorni: [VAR 0117(0000)]
 sp_ui_gift_02003	Dono Segreto
 sp_ui_gift_02004	Ottenibile nei giochi elencati.
 sp_ui_gift_02005	Ottenuto nei giochi elencati.

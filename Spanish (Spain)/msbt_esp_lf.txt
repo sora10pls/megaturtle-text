@@ -7961,13 +7961,13 @@ sp_plan_terms	Condiciones de uso
 sp_plan_fund_settlement_method	Legislación relativa a los pagos
 sp_plan_specifiedcommercial_transaction_law	Transacciones comerciales específicas
 sp_plan_change	Ver plan
-sp_plan_buy_text	¿Quieres comprar: [VAR 0200(0000)]?
+sp_plan_buy_text	¿Quieres comprar: [VAR 0117(0000)]?
 sp_plan_change_disable_text	Este plan prémium se compró en otra tienda. Puedes\nconsultar su período de validez en la tienda donde lo\nadquiriste.
 sp_plan_restored_title	Restaurar suscripción
 sp_plan_restored_text	Se ha restaurado tu suscripción.
 sp_plan_buy_failed_title	Error de pago
-sp_plan_buy_failed_text	No se ha podido procesar el pago.\n[VAR 0200(0000)]
-sp_plan_buy_failed_goto_title_text	No se ha podido procesar el pago.\nRegresarás a la pantalla del título.\n[VAR 0200(0000)]
+sp_plan_buy_failed_text	No se ha podido procesar el pago.\n[VAR 0117(0000)]
+sp_plan_buy_failed_goto_title_text	No se ha podido procesar el pago.\nRegresarás a la pantalla del título.\n[VAR 0117(0000)]
 sp_plan_not_Initalized_text	No has asignado ningún método de pago.\nRegresarás a la pantalla del título.
 sp_plan_not_Initalizing_text	Inicializando el método de pago...
 sp_plan_help_button	Ayuda sobre el plan prémium
@@ -7999,8 +7999,8 @@ sp_playerlog_00009	Realizaste un <b>intercambio con amigos</b>.
 sp_playerlog_00010	Realizaste un intercambio en el <b>GTS</b>.
 sp_playerlog_00011	Realizaste un <b>intercambio en grupo</b>.
 sp_playerlog_00012	Realizaste un intercambio mediante la <b>caja prodigiosa</b>.
-sp_playerlog_00013	[VAR 0100(0001)] depositó Pokémon en [VAR 0200(0000)].
-sp_playerlog_00014	[VAR 0100(0001)] retiró Pokémon de [VAR 0200(0000)].
+sp_playerlog_00013	[VAR 0100(0001)] depositó Pokémon en [VAR 0117(0000)].
+sp_playerlog_00014	[VAR 0100(0001)] retiró Pokémon de [VAR 0117(0000)].
 sp_playerlog_00015	Liberaste Pokémon.
 sp_playerlog_00016	Recibiste un regalo misterioso.
 sp_playerlog_00017	Transferiste [VAR 0203(0000)] Pokémon.
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Portada
 sp_ui_seal_00009	¿Quieres utilizar este fondo?
 sp_ui_seal_00010	Quitar pegatinas
 sp_ui_seal_00011	¿Quieres quitar esta pegatina de la portada?
-sp_ui_seal_00012	No puedes pegar más pegatinas del tipo [VAR 0200(0000)].
+sp_ui_seal_00012	No puedes pegar más pegatinas del tipo [VAR 0117(0000)].
 sp_ui_seal_00013	Has hecho algunos cambios.\n¿Quieres guardarlos?
 sp_ui_seal_00014	Se quitarán todas las pegatinas.\n¿Quieres continuar?
 sp_ui_seal_filter_01_01	Pegatinas disponibles
@@ -8637,7 +8637,7 @@ sp_ui_gift_01005	Queda[VAR 1101(0000,0100)]n [VAR 0200(0000)] hora[VAR 1101(0000
 sp_ui_gift_01006	Queda[VAR 1101(0000,0100)]n [VAR 0200(0000)] min.
 sp_ui_gift_01007	Expirado
 sp_ui_gift_02001	Período de validez
-sp_ui_gift_02002	Días que quedan: [VAR 0200(0000)]
+sp_ui_gift_02002	Días que quedan: [VAR 0117(0000)]
 sp_ui_gift_02003	Regalo misterioso
 sp_ui_gift_02004	¡Recíbelo en estos juegos!
 sp_ui_gift_02005	Recibido en este juego.

@@ -7961,13 +7961,13 @@ sp_plan_terms	Terms of Use
 sp_plan_fund_settlement_method	Payment Laws
 sp_plan_specifiedcommercial_transaction_law	Commercial Transactions
 sp_plan_change	Check plan
-sp_plan_buy_text	Purchase [VAR 0200(0000)]
+sp_plan_buy_text	Purchase [VAR 0117(0000)]
 sp_plan_change_disable_text	This Premium Plan was purchased from a different store.\nPlease visit the store where it was purchased to confirm the\nexpiration date.
 sp_plan_restored_title	Restore plan
 sp_plan_restored_text	Plan restored
 sp_plan_buy_failed_title	Payment error.
-sp_plan_buy_failed_text	Payment processing error. [VAR 0200(0000)]
-sp_plan_buy_failed_goto_title_text	Payment processing error. You will now be returned to the\ntitle screen. [VAR 0200(0000)]
+sp_plan_buy_failed_text	Payment processing error. [VAR 0117(0000)]
+sp_plan_buy_failed_goto_title_text	Payment processing error. You will now be returned to the\ntitle screen. [VAR 0117(0000)]
 sp_plan_not_Initalized_text	The billing system has not been established.\nYou will now be returned to the title screen.
 sp_plan_not_Initalizing_text	Initializing billing system...
 sp_plan_help_button	Premium Plan help
@@ -7999,8 +7999,8 @@ sp_playerlog_00009	You had a <b>Friend Trade</b>
 sp_playerlog_00010	You traded using the <b>GTS</b>
 sp_playerlog_00011	You had a <b>Room Trade</b>
 sp_playerlog_00012	You traded using the <b>Wonder Box</b>
-sp_playerlog_00013	Deposited in [VAR 0200(0000)] by [VAR 0100(0001)]
-sp_playerlog_00014	Withdrawn in [VAR 0200(0000)] by [VAR 0100(0001)]
+sp_playerlog_00013	Deposited in [VAR 0117(0000)] by [VAR 0100(0001)]
+sp_playerlog_00014	Withdrawn in [VAR 0117(0000)] by [VAR 0100(0001)]
 sp_playerlog_00015	Released
 sp_playerlog_00016	Received as a Mystery Gift
 sp_playerlog_00017	Moved [VAR 0203(0000)] Pokémon
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	Binder settings
 sp_ui_seal_00009	Would you like to use this wallpaper?
 sp_ui_seal_00010	Remove stickers
 sp_ui_seal_00011	Would you like to return this sticker to your list?
-sp_ui_seal_00012	You can't use any more [VAR 0200(0000)].
+sp_ui_seal_00012	You can't use any more [VAR 0117(0000)].
 sp_ui_seal_00013	You've made changes.\nWould you like to save them?
 sp_ui_seal_00014	All stickers will be removed.\nWould you like to continue?
 sp_ui_seal_filter_01_01	Stickers you can use
@@ -8637,7 +8637,7 @@ sp_ui_gift_01005	[VAR 0200(0000)] [VAR 1101(0000,0504)]hour\nhours left
 sp_ui_gift_01006	[VAR 0200(0000)] [VAR 1101(0000,0706)]minuteminutes left
 sp_ui_gift_01007	Expired
 sp_ui_gift_02001	Expiration:
-sp_ui_gift_02002	[VAR 0200(0000)] more day(s)
+sp_ui_gift_02002	[VAR 0117(0000)] more day(s)
 sp_ui_gift_02003	Mystery Gifts
 sp_ui_gift_02004	Get it in the above games!
 sp_ui_gift_02005	You got it in the above game!

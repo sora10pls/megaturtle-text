@@ -7961,13 +7961,13 @@ sp_plan_terms	이용 약관
 sp_plan_fund_settlement_method	일본 자금결제법에 의거하는 표기
 sp_plan_specifiedcommercial_transaction_law	일본 특정상거래법에 의거하는 표기
 sp_plan_change	플랜 확인
-sp_plan_buy_text	[VAR 0200(0000)][VAR 1900(0002)]촂 구입합니다
+sp_plan_buy_text	[VAR 0117(0000)][VAR 1900(0002)]촂 구입합니다
 sp_plan_change_disable_text	다른 스토어에서 구입했습니다 프리미엄 플랜의 유효 기간은 구입한 스토어에서 확인해 주십시오
 sp_plan_restored_title	플랜 복원
 sp_plan_restored_text	플랜을 복원했습니다
 sp_plan_buy_failed_title	구입 에러
-sp_plan_buy_failed_text	구입 처리에 실패했습니다 [VAR 0200(0000)]
-sp_plan_buy_failed_goto_title_text	구입 처리에 실패했습니다 타이틀 화면으로 돌아갑니다 [VAR 0200(0000)]
+sp_plan_buy_failed_text	구입 처리에 실패했습니다 [VAR 0117(0000)]
+sp_plan_buy_failed_goto_title_text	구입 처리에 실패했습니다 타이틀 화면으로 돌아갑니다 [VAR 0117(0000)]
 sp_plan_not_Initalized_text	과금 시스템이 초기화되지 않았습니다 타이틀 화면으로 돌아갑니다
 sp_plan_not_Initalizing_text	과금 시스템을 초기화 중입니다
 sp_plan_help_button	프리미엄 플랜 도움말
@@ -7999,8 +7999,8 @@ sp_playerlog_00009	<b>친구 교환</b>을 했습니다
 sp_playerlog_00010	<b>GTS</b>에서 교환했습니다
 sp_playerlog_00011	<b>그룹 교환</b>을 했습니다
 sp_playerlog_00012	<b>미라클 박스</b>로 교환했습니다
-sp_playerlog_00013	[VAR 0200(0000)]에서 [VAR 0100(0001)][VAR 1900(0002)]촃 맡겼습니다
-sp_playerlog_00014	[VAR 0200(0000)]에서 [VAR 0100(0001)][VAR 1900(0002)]촃 찾았습니다
+sp_playerlog_00013	[VAR 0117(0000)]에서 [VAR 0100(0001)][VAR 1900(0002)]촃 맡겼습니다
+sp_playerlog_00014	[VAR 0117(0000)]에서 [VAR 0100(0001)][VAR 1900(0002)]촃 찾았습니다
 sp_playerlog_00015	놓아주었습니다
 sp_playerlog_00016	이상한 소포에서 받았습니다
 sp_playerlog_00017	[VAR 0203(0000)]마리의 포켓몬을 전송했습니다
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	벽지 설정
 sp_ui_seal_00009	이 벽지로 설정하겠습니까?
 sp_ui_seal_00010	씰을 제거한다
 sp_ui_seal_00011	씰을 리스트로 되돌리겠습니까?
-sp_ui_seal_00012	[VAR 0200(0000)][VAR 1900(0002)]촁 더 붙일 수 없습니다
+sp_ui_seal_00012	[VAR 0117(0000)][VAR 1900(0002)]촁 더 붙일 수 없습니다
 sp_ui_seal_00013	변경 내용이 있습니다 내용을 저장하겠습니까?
 sp_ui_seal_00014	씰을 모두 제거합니다. 괜찮겠습니까?
 sp_ui_seal_filter_01_01	붙일 수 있는 씰
@@ -8637,7 +8637,7 @@ sp_ui_gift_01005	앞으로 [VAR 0200(0000)]시간
 sp_ui_gift_01006	앞으로 [VAR 0200(0000)]분
 sp_ui_gift_01007	기간 만료
 sp_ui_gift_02001	유효 기간
-sp_ui_gift_02002	앞으로 [VAR 0200(0000)]일
+sp_ui_gift_02002	앞으로 [VAR 0117(0000)]일
 sp_ui_gift_02003	이상한 소포
 sp_ui_gift_02004	에서 받을 수 있습니다
 sp_ui_gift_02005	에서 받았습니다

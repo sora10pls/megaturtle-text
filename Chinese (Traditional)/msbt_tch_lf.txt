@@ -7961,13 +7961,13 @@ sp_plan_terms	使用條款
 sp_plan_fund_settlement_method	基於資金結算法顯示內容
 sp_plan_specifiedcommercial_transaction_law	基於特定商業交易法顯示內容
 sp_plan_change	確認方案
-sp_plan_buy_text	購買[VAR 0200(0000)]。
+sp_plan_buy_text	購買[VAR 0117(0000)]。
 sp_plan_change_disable_text	在其他商店購買的進階方案，\n有效期限請到購買的商店確認。
 sp_plan_restored_title	方案復原
 sp_plan_restored_text	已復原方案。
 sp_plan_buy_failed_title	購買發生錯誤
-sp_plan_buy_failed_text	購買處理失敗。\n[VAR 0200(0000)]
-sp_plan_buy_failed_goto_title_text	購買處理失敗。\n將回到標題畫面。\n[VAR 0200(0000)]
+sp_plan_buy_failed_text	購買處理失敗。\n[VAR 0117(0000)]
+sp_plan_buy_failed_goto_title_text	購買處理失敗。\n將回到標題畫面。\n[VAR 0117(0000)]
 sp_plan_not_Initalized_text	消費系統尚未初始化。\n將回到標題畫面。
 sp_plan_not_Initalizing_text	消費系統正在初始化……
 sp_plan_help_button	進階方案說明
@@ -7999,8 +7999,8 @@ sp_playerlog_00009	進行了<b>朋友交換</b>
 sp_playerlog_00010	透過<b>GTS</b>進行了交換
 sp_playerlog_00011	進行了<b>群組交換</b>
 sp_playerlog_00012	透過<b>奇蹟盒子</b>進行了交換
-sp_playerlog_00013	[VAR 0100(0001)]在[VAR 0200(0000)]寄放了
-sp_playerlog_00014	[VAR 0100(0001)]在[VAR 0200(0000)]領取了
+sp_playerlog_00013	[VAR 0100(0001)]在[VAR 0117(0000)]寄放了
+sp_playerlog_00014	[VAR 0100(0001)]在[VAR 0117(0000)]領取了
 sp_playerlog_00015	放生了
 sp_playerlog_00016	已透過神秘禮物接收
 sp_playerlog_00017	傳送了[VAR 0203(0000)]隻寶可夢
@@ -8599,7 +8599,7 @@ sp_ui_seal_00008	壁紙設定
 sp_ui_seal_00009	要設定成這張壁紙嗎？
 sp_ui_seal_00010	撕除貼紙
 sp_ui_seal_00011	要把貼紙放回列表嗎？
-sp_ui_seal_00012	無法再貼更多的[VAR 0200(0000)]了。
+sp_ui_seal_00012	無法再貼更多的[VAR 0117(0000)]了。
 sp_ui_seal_00013	有變更的內容。\n要儲存嗎？
 sp_ui_seal_00014	確定要撕除所有貼紙嗎？
 sp_ui_seal_filter_01_01	可使用的貼紙
@@ -8637,7 +8637,7 @@ sp_ui_gift_01005	還剩[VAR 0200(0000)]小時
 sp_ui_gift_01006	還剩[VAR 0200(0000)]分鐘
 sp_ui_gift_01007	過期
 sp_ui_gift_02001	有效期限
-sp_ui_gift_02002	還剩[VAR 0200(0000)]天
+sp_ui_gift_02002	還剩[VAR 0117(0000)]天
 sp_ui_gift_02003	神秘禮物
 sp_ui_gift_02004	可在以上軟體接收。
 sp_ui_gift_02005	已在以上軟體接收。
