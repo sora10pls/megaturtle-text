@@ -8092,14 +8092,14 @@ sp_trade_01003	Impossible de sélectionner ce Pokémon car il a été déposé d
 sp_trade_01004	Impossible de sélectionner ce Pokémon car il a été déposé dans la Boîte Miracle.
 sp_trade_01005	Opération impossible.
 sp_trade_01006	Impossible de sélectionner ce Pokémon car il fait partie de vos favoris.
-sp_trade_02001	Envoi [VAR 1401(0000,0000)]Ā[VAR 0102(0000)] à [VAR 0100(0001)]. Bye-bye, [VAR 0102(0000)] !
+sp_trade_02001	Envoi [VAR 1401(0000,0000)][VAR 0102(0000)] à [VAR 0100(0001)]. Bye-bye, [VAR 0102(0000)] !
 sp_trade_02002	[VAR 0100(0000)] a envoyé [VAR 0102(0001)].
-sp_trade_02003	Prends bien soin [VAR 1401(0000,0000)]Ā[VAR 0102(0000)] !
-sp_trade_02004	Dépôt [VAR 1401(0000,0000)]Ā[VAR 0102(0000)] sur le GTS. Bye-bye, [VAR 0102(0000)] !
+sp_trade_02003	Prends bien soin [VAR 1401(0000,0000)][VAR 0102(0000)] !
+sp_trade_02004	Dépôt [VAR 1401(0000,0000)][VAR 0102(0000)] sur le GTS. Bye-bye, [VAR 0102(0000)] !
 sp_trade_02005	[VAR 0102(0000)] vient du GTS !
 sp_trade_02006	[VAR 0102(0000)] a été réintégré !
 sp_trade_02007	Bienvenue, [VAR 0102(0000)] !
-sp_trade_02008	Dépôt [VAR 1401(0000,0000)]Ā[VAR 0102(0000)] dans la Boîte Miracle. Bye-bye, [VAR 0102(0000)] !
+sp_trade_02008	Dépôt [VAR 1401(0000,0000)][VAR 0102(0000)] dans la Boîte Miracle. Bye-bye, [VAR 0102(0000)] !
 sp_trade_02009	[VAR 0102(0000)] vient de la Boîte Miracle !
 sp_trade_03001	Une erreur est survenue. Retour à l'écran d'échange.
 sp_trade_03002	La connexion a été interrompue. Retour à l'écran d'échange.
