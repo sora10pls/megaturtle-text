@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	否
 sp_languageconfirm_004	確認選擇的語言
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_tch.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	持有的獎牌
+sp_medal_top_trade_gift	交換／禮物
+sp_medal_top_event	相關活動
+sp_medal_top_report	獎牌紀錄
+sp_medal_top_read	讀取
+sp_medal_error	錯誤
+sp_medal_menu_nalink_none	必須先連結Nintendo Account，\n才能使用獎牌功能。
+sp_medal_stock_limit_title	獎牌持有數量上限
+sp_medal_stock_limit_main	獎牌已滿。
+sp_medal_stock_limit_desc	[VAR 0117(0000)]可持有[VAR 0200(0001)]枚獎牌。\n（現在有[VAR 0200(0002)]枚。）
+sp_medal_stock_limit_howto_1	如何解決……
+sp_medal_stock_limit_howto_2	・透過「禮物」或「捨棄」來減少獎牌數量。
+sp_medal_stock_limit_howto_3	・加入「進階方案」。
+sp_medal_stock_limit_howto_4	（上限將增加到[VAR 0203(0000)]枚。）
+sp_medal_close	關閉
+sp_medal_stock_limit_join_plan	加入方案
+sp_medal_menu_title	獎牌
+sp_medal_stock_limit_howto_5	顯示方法已變更為免費盒子。\n你目前僅能使用最近獲得的30枚獎牌。\n若要使用免費盒子以外的獎牌，\n請再次加入進階方案。
+sp_medal_stock_title	持有的獎牌（[VAR 0203(0000)]）
+sp_medal_search	搜尋
+sp_medal_stock_nodata	沒有可顯示的獎牌。
+sp_medal_detail_number	No.
+sp_medal_detail_create_at	獲得日期
+sp_medal_detail_location	地點
+sp_medal_detail_category	分類
+sp_medal_detail_distr_period	發放期間
+sp_medal_detail_log	獎牌的歷史
+sp_medal_detail_gift_button	贈送
+sp_medal_release	捨棄
+sp_medal_detail_traded_check_button	確認交換申請
+sp_medal_detail_trading	此獎牌正被拿去交換。
+sp_medal_detail_traded_select_button	交換
+sp_medal_detail_log_create	由[VAR 0100(0000)]發行。
+sp_medal_detail_log_trade	[VAR 0100(0000)]透過交換獲得。
+sp_medal_detail_log_gift	[VAR 0100(0000)]透過禮物獲得。
+sp_medal_detail_log_button	查看更多歷史
+sp_medal_reselect	重新選擇
+sp_medal_gift_send	贈送
+sp_medal_result_gift_send_title	贈送完畢！
+sp_medal_result_gift_send_medal	已贈送的獎牌
+sp_medal_result_gift_send_done	已贈送給[VAR 0100(0000)]。
+sp_medal_release_title	捨棄
+sp_medal_release_confirm_1	確定要捨棄嗎？
+sp_medal_release_confirm_2	※已捨棄的獎牌將無法復原。
+sp_medal_release_confirm_3	※已捨棄的獎牌也會顯示在獎牌紀錄中。
+sp_medal_release_done	已捨棄以上獎牌。
+sp_medal_error_gift_send_limit	每天最多只能贈送[VAR 0201(0000)]件禮物。
+sp_medal_filter_name	獎牌名稱
+sp_medal_filter_location	發行地點
+sp_medal_sort_getdate	獲得日期
+sp_medal_sort_location	發行地點
+sp_medal_detail_log_title	歷史
+sp_medal_stock_no_medal	沒有獎牌。
+sp_medal_except_freebox	免費盒子以外的獎牌
+sp_medal_cert	獎牌鑑定書
+sp_medal_detail_gifting	此獎牌正被拿去贈送。
+sp_medal_date	日期
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	已刪除的用戶
+sp_medal_number_range	～
+sp_medal_deliver_title	交換／禮物
+sp_medal_deliver_trade	交換
+sp_medal_deliver_gift	禮物
+sp_medal_deliver_nodata	沒有可顯示的交換申請／禮物。
+sp_medal_deliver_item_trade_from	來自[VAR 0100(0000)]的交換申請。
+sp_medal_deliver_item_trade_to	傳送給[VAR 0100(0000)]的交換申請。
+sp_medal_deliver_item_trade_comp	與[VAR 0100(0000)]的\n交換已成功！
+sp_medal_deliver_item_trade_cancel	與[VAR 0100(0000)]的\n交換已取消。
+sp_medal_deliver_item_gift_from	來自[VAR 0100(0000)]的禮物。
+sp_medal_deliver_item_gift_cancel	要送給[VAR 0100(0000)]的禮物\n已取消。
+sp_medal_confirm	確認
+sp_medal_result_trade_offer_title	已傳送交換申請！
+sp_medal_result_trade_offer_medal	正在申請交換的獎牌
+sp_medal_result_trade_offer_done	已傳送交換申請給[VAR 0100(0000)]。
+sp_medal_result_trade_comp_title	交換完畢！
+sp_medal_result_trade_comp_medal	收到的獎牌
+sp_medal_result_trade_comp_done	已與[VAR 0100(0000)]交換。
+sp_medal_result_detail	查看詳情
+sp_medal_result_gift_recv_title	已接收獎牌！
+sp_medal_result_gift_recv_medal	接收的獎牌
+sp_medal_result_gift_recv_done	接收自[VAR 0100(0000)]。
+sp_medal_offer_title	交換申請
+sp_medal_offer_trade_from	來自[VAR 0100(0000)]的交換申請
+sp_medal_offer_recv_medal	要接收的獎牌
+sp_medal_offer_send_medal	要贈送的獎牌
+sp_medal_offer_select	選擇獎牌
+sp_medal_offer_exec	交換
+sp_medal_offer_trade_to	正在與[VAR 0100(0000)]交換。
+sp_medal_offer_cancel	中止
+sp_medal_offer_cancel_title	中止交換
+sp_medal_offer_cancel_confirm	要中止此交換嗎？
+sp_medal_offer_cancel_no	不中止
+sp_medal_offer_cancel_yes	中止
+sp_medal_offer_cancel_done	已中止交換。
+sp_medal_friend_no_nalink	由於這位朋友是訪客帳號，\n因此無法使用獎牌功能。
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	中止交換
+sp_medal_trade_cancel_done	已中止此交換。
+sp_medal_gift_cancel_title	中止贈送
+sp_medal_gift_cancel_done	已中止贈送此禮物。
+sp_medal_sort_date	日期
+sp_medal_error_trade_sametime	最多只能同時進行[VAR 0201(0000)]件交換。\n請確認自己送出的交換申請，\n並減少交換申請的數量。
+sp_medal_error_gift_recv_limit	每天最多只能接收[VAR 0201(0000)]件禮物。
+sp_medal_error_deliver_limit	無法再顯示更多的交換／禮物。\n請確認交換／禮物一覽，\n結束目前正在進行的交換，\n或是接收尚未接收的禮物。
+sp_medal_error_trade_limit	每天最多只能進行[VAR 0201(0000)]件交換。
+sp_medal_error_deliver_others_limit	由於這位朋友目前的\n交換／禮物數量已達上限，\n因此無法使用交換／禮物功能。
+sp_medal_error_trade_progress	與這位朋友已有正在進行的交換／禮物，\n請先完成該交換／禮物。
+sp_medal_trade_title	交換獎牌
+sp_medal_trade_method_friend	與朋友交換
+sp_medal_trade_method_qr	使用二維條碼交換
+sp_medal_trade_method_serial	使用序號交換
+sp_medal_trade_qr_confirm	顯示二維條碼
+sp_medal_trade_qr_read	讀取二維條碼
+sp_medal_qr_confirm_title	你的二維條碼
+sp_medal_code_expire_remain	有效期間還剩：
+sp_medal_qr_read_title	讀取二維條碼
+sp_medal_serial_title	序號
+sp_medal_trade_serial_confirm	請輸入交換對象的序號。
+sp_medal_serial_placeholder	輕點以輸入序號。
+sp_medal_serial_your_code	你的序號：
+sp_medal_serial_confirm	確認
+sp_medal_code_expired_retry	輸入的序號的有效期限已過。\n請發行新的序號後，再試一次。
+sp_medal_code_failed_limit	由於連續輸入序號失敗，\n目前功能暫時受到限制。\n※將於錯誤訊息顯示24小時後解除功能限制。
+sp_medal_friend_title	獎牌
+sp_medal_friend_add	+ 新增朋友
+sp_medal_friend_none	沒有可顯示的朋友。\n請新增朋友。
+sp_medal_gift_recv	接收禮物
+sp_medal_gift_recv_confirm	今天還可以接收[VAR 0201(0000)]個禮物。\n確定要接收此禮物嗎？
+sp_medal_gift_recv_no	不接收
+sp_medal_gift_recv_yes	接收
+sp_medal_code_expired	有效期限已過
+sp_medal_gift_reject_title	拒絕接收禮物
+sp_medal_gift_reject_confirm	要拒絕接收此禮物嗎？
+sp_medal_gift_reject_no	不拒絕
+sp_medal_gift_reject_yes	拒絕
+sp_medal_gift_reject_done	已拒絕接收禮物。
+sp_medal_deliver_no_medal	沒有任何獎牌。
+sp_medal_gift_title	獎牌禮物
+sp_medal_gift_mode_send	贈送禮物
+sp_medal_gift_mode_recv	接收禮物
+sp_medal_cancel	取消
+sp_medal_gift_send_friend	贈送禮物給朋友
+sp_medal_gift_send_qr	使用二維條碼贈送禮物
+sp_medal_gift_send_serial	使用序號贈送禮物
+sp_medal_gift_serial_input	請輸入贈送對象的序號。
+sp_medal_gift_recv_qr	使用二維條碼接收
+sp_medal_gift_recv_serial	使用序號接收
+sp_medal_gift_serial_explain	請將以下的序號告訴要接收禮物的對象。
+sp_medal_gift_recv_explain	收到了禮物！\n請確認交換申請／禮物一覽。
+sp_medal_deliver_item_gift_to	送給[VAR 0100(0000)]的禮物。
+sp_medal_offer_gift_to	送給[VAR 0100(0000)]的禮物。
+sp_medal_offer_gift_cancel_confirm	要中止贈送此禮物嗎？
+sp_medal_trade_serial_show	顯示序號
+sp_medal_trade_serial_input	輸入序號
+sp_medal_trade_serial_explain	請將以下的序號告訴交換對象。
+sp_medal_trade_recv_explain	收到了交換申請！\n請確認交換申請／禮物一覽。
+sp_medal_event_list_title	相關活動
+sp_medal_event_detail_title	活動詳情
+sp_medal_event_detail_url	網址
+sp_medal_event_detail_medal	可在此活動獲得的獎牌
+sp_medal_event_filter_location	活動舉辦地區
+sp_medal_read_title	讀取獎牌
+sp_medal_read_method_main	要使用哪個功能讀取？
+sp_medal_read_method_gps	區域確認
+sp_medal_read_method_nfc	讀取NFC
+sp_medal_read_gps_list_title	可以在這個區域接收的獎牌
+sp_medal_read_obtain_main	已發行獎牌！
+sp_medal_read_obtain_name	發行的獎牌
+sp_medal_read_obtain_detail	查看詳情
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	下一頁
+sp_medal_read_error_already_obtain	已接收過此獎牌。\n離再次發行還剩：
+sp_medal_read_error_already_desc1	相同的獎牌１天只能發行１次。
+sp_medal_read_error_already_desc2	※會在每天8點（台灣香港時間）重置。
+sp_medal_read_error_before_start	此為尚未開始發放的獎牌。\n\n開始發行日期：
+sp_medal_read_error_after_end	此為已停止發放的獎牌。
+sp_medal_read_error_create_limit	此為已達發行上限的獎牌。
+sp_medal_read_gps_init	GPS正在初始化。
+sp_medal_read_gps_confirm	請開啟GPS功能。\n※請重新確認你使用的裝置的設定。
+sp_medal_read_gps_failed	無法啟動GPS。
+sp_medal_return	返回
+sp_medal_read_nfc_main	請掃描NFC標籤。
+sp_medal_read_nfc_done	讀取成功！
+sp_medal_read_nfc_failed	讀取失敗。
+sp_medal_read_nfc_unrelated	不支援此NFC標籤。
+sp_medal_read_nfc_timeout	已超時。\n請再試一次。
+sp_medal_read_method_none	你使用的環境無法使用讀取功能。
+sp_medal_read_gps_nodata	沒有可在此區域接收的獎牌。
+sp_medal_report_title	獎牌紀錄
+sp_medal_report_cell_year_month	[VAR 0203(0000)]年[VAR 0201(0001)]月
+sp_medal_report_gift	從[VAR 0100(0000)]那裡得到了以上獎牌！\n
+sp_medal_report_gave	將以上獎牌贈送給了[VAR 0100(0000)]！
+sp_medal_report_trade	已與[VAR 0100(0000)]交換！\n\n接收的獎牌
+sp_medal_report_trade_2	送出的獎牌
+sp_medal_report_create	已發行以上獎牌！
+sp_medal_report_release	已捨棄以上獎牌。
+sp_medal_report_dialog_button	紀錄
+sp_medal_report_acquired	已獲得的獎牌
+sp_medal_report_exchanged	已交換的獎牌
+sp_medal_report_give	已贈送的獎牌
+sp_medal_report_received	收到的獎牌
+sp_medal_quantity	[VAR 0203(0000)]枚
+sp_medal_report_obtain	已發行的獎牌
+sp_medal_mainte_title	系統維護
+sp_medal_mainte_body	獎牌功能目前正在進行系統維護。\n你仍可以使用獎牌功能以外\n『Pokémon HOME』的各種功能。\n預定結束時間 [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)] [VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_error_system_limit	你的帳號目前受到限制，\n無法使用獎牌功能。
+sp_medal_error_common_go_home	發生錯誤。\n將返回我的首頁畫面。\n錯誤代碼：[VAR 0200(0000)]
+sp_medal_error_common	發生錯誤。\n請重新操作。\n錯誤代碼：[VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	序號錯誤。\n錯誤代碼：[VAR 0200(0000)]
+sp_medal_error_deliver_status	已更新交換／禮物對象的狀態。\n請再次確認交換／禮物一覽。\n錯誤代碼：[VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	獎牌功能目前正在進行系統維護。\n您仍可以正常使用獎牌功能以外\n『Pokémon HOME』的各種功能。
+sp_medal_tutorial_0001	哈囉！是我萌寶喔萌！\n『Pokémon HOME』追加了\n新的「獎牌」玩法，\n讓我來告訴你如何使用萌！
+sp_medal_tutorial_0002	你可以把前往特定地點及\n參加活動時留下的回憶\n作為「獎牌」保管起來喔萌！
+sp_medal_tutorial_0003	你可以隨時確認\n已獲得的獎牌的詳細資訊萌！\n透過獎牌來回顧\n「當時」「去了哪裡」的回憶吧萌！
+sp_medal_tutorial_0004	獎牌可以拿來和朋友交換，\n也可以當成禮物送給別人喔萌！\n就像是旅行的紀念品一樣，\n把回憶分享出去吧萌！
+sp_medal_tutorial_0005	你可以在「相關活動」中確認\n獎牌的獲得方法喔萌！\n能獲得的獎牌會根據時期與地點改變，\n要記得常常確認喔萌～！
+sp_medal_tutorial_0006	獎牌的事就簡單介紹到這裡萌！\n你也可以在說明裡確認\n其他的詳細資訊喔萌！
+sp_medal_tutorial_0007	最後！我有禮物要給你喔萌！\n為了紀念你第一次使用獎牌功能，\n我要送你獎牌萌！
+sp_medal_tutorial_0008	我會送你３枚相同圖案的獎牌，\n你可以和朋友討論抽中了什麼圖案，\n也可以把它拿去交換或送給別人，\n好好享受獎牌的樂趣吧萌！
+sp_medal_tutorial_stock_0001	你可以在一覽中\n確認自己持有的獎牌喔萌！
+sp_medal_tutorial_stock_0002	進階方案可以持有許多獎牌，\n所以會一併顯示相同圖案的獎牌喔萌！
+sp_medal_tutorial_stock_0003	你可以在詳細資訊畫面確認\n獎牌是在何時由誰那裡獲得，\n以及目前為止經手過什麼人等資訊萌！
+sp_medal_tutorial_stock_0004	經手過越多人的獎牌，\n上面的紀錄也會越長久萌！\n可以感受到刻在獎牌上的歷史呢萌！
+sp_medal_tutorial_stock_0005	當你想要一枚一枚確認詳細資訊時，\n就選擇想確認的獎牌吧萌！
+sp_medal_tutorial_tradegift_0001	你可以在這裡享受交換及\n贈送獎牌的樂趣喔萌！
+sp_medal_tutorial_tradegift_0002	每次可以交換１枚獎牌！\n選擇１枚你想拿來交換的獎牌，\n對方也會選擇１枚要交換的獎牌，\n然後再向彼此展示獎牌！
+sp_medal_tutorial_tradegift_0003	確認彼此想交換的獎牌，\n沒問題的話，交換就成立了萌！\n只要其中一方不同意，\n就算交換失敗了萌！
+sp_medal_tutorial_tradegift_0004	禮物功能是不從對方那裡接收獎牌，\n只把自己持有的獎牌送給對方的功能萌！
+sp_medal_tutorial_tradegift_0005	選擇１枚你想贈送的獎牌，\n只要對方願意接收就算成立萌！\n無法單方面贈送禮物喔萌！
+sp_medal_tutorial_tradegift_0006	和親朋好友交換和贈送獎牌，\n一起分享回憶吧萌！
+sp_medal_tutorial_event_0001	這個畫面能讓你查詢\n可以在何時何處獲得獎牌喔萌！
+sp_medal_tutorial_event_0002	能獲得獎牌的活動會根據時期及\n居住的地區而改變，\n建議你常常來確認喔萌！
+sp_medal_tutorial_report_0001	你可以在這裡確認自己的\n獎牌相關紀錄喔萌！
+sp_medal_tutorial_report_0002	你可以回顧至今獲得的\n獎牌總數及透過交換或禮物\n獲得的獎牌數量喔萌！
+sp_medal_tutorial_report_0003	這是個獲得越多獎牌，\n回顧起來就越快樂的功能喔萌！
+sp_medal_tutorial_obtain_title	獎牌功能新手教學
+sp_medal_category_other	其他
+sp_medal_name_00000_tutorial_01	開始使用獎牌紀念①
+sp_medal_name_00000_tutorial_02	開始使用獎牌紀念②
+sp_medal_name_00000_tutorial_03	開始使用獎牌紀念③
+sp_medal_name_00000_tutorial_04	開始使用獎牌紀念④
+sp_medal_name_00000_tutorial_05	開始使用獎牌紀念⑤
+sp_medal_name_00000_tutorial_06	開始使用獎牌紀念⑥
+sp_medal_name_00000_tutorial_07	開始使用獎牌紀念⑦
+sp_medal_name_00000_tutorial_08	開始使用獎牌紀念⑧
+sp_medal_name_00000_tutorial_09	開始使用獎牌紀念⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_tch.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	已在連結的Nintendo Account中\n確認到了智慧�
 sp_option_nalink_0045_v2	請確認目前為止使用的\n智慧型手機版Pokémon HOME\n<u><b>標題畫面所顯示的服務ID</b></u>\n是否與下方的ID一致。
 sp_option_nalink_0046_v2	要繼承智慧型手機版Pokémon HOME\n的資料並開始嗎？
 sp_option_nalink_0047	於智慧型手機版『Pokémon HOME』中\n使用「神秘禮物」
+sp_option_nalink_0048	於智慧型手機版『Pokémon HOME』中\n使用「獎牌」
 sp_option_holohlo_0001_vgo	Pokémon GO連結
 sp_option_holohlo_0004_vgo	接收
 sp_option_holohlo_0005_vgo	接收
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	若有與Nintendo Account連結，\n�
 sp_option_userdel_confirm2_body_v11	若有加入進階方案，\n即使刪除了帳號，\n進階方案也不會自動解除。\n請務必親自從購買進階方案的\n各商店進行解除手續。\n\n・自Nintendo Switch版購買的用戶\n　⇒「Nintendo eShop」\n・自iOS版購買的用戶\n　⇒「App Store」\n・自Android版購買的用戶\n　⇒「Google Play 商店」\n\n我們無法對忘記解除進階方案\n而產生的費用進行退款，\n或對應任何相關洽詢。
 sp_option_userdel_confirm3_title_v11	最終確認
 sp_option_userdel_confirm3_body_v11	帳號一旦刪除，將無法復原。\n目前為止在此應用程式遊玩的紀錄、\n圖鑑和成就等所有資訊將會消失。\n確定要刪除帳號嗎？
+sp_option_company_info	公司資訊
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_tch.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	消費系統正在初始化……
 sp_plan_help_button	進階方案說明
 sp_plan_help_detail_button	■關於進階方案\n進階方案可使用以下功能。\n・最多可寄放6000隻寶可夢。\n・從『寶可夢虛擬銀行』轉移寶可夢過來。\n　※需與Nintendo Account連動。\n・在寶可夢的詳細資訊畫面使用評定功能。\n・可同時寄放3隻寶可夢在GTS。\n・可同時寄放10隻寶可夢在奇蹟盒子。\n・可在群組交換中建立群組。
 sp_plan_help_title	關於訂閱服務
-sp_plan_help_text	■進階方案可使用的功能\n・從『寶可夢虛擬銀行』轉移寶可夢過來。\n・最多可寄放6000隻寶可夢。\n・可同時寄放10隻寶可夢在奇蹟盒子。\n・可同時寄放3隻寶可夢在GTS。\n・可舉辦群組交換。\n・可使用評定功能。
+sp_plan_help_text	■進階方案可使用的功能\n・從『寶可夢虛擬銀行』轉移寶可夢過來。\n・最多可寄放6000隻寶可夢。\n・可同時寄放10隻寶可夢在奇蹟盒子。\n・可同時寄放3隻寶可夢在GTS。\n・可舉辦群組交換。\n・可使用評定功能。\n・最多可持有1000枚獎牌。
 sp_plan_control_link_button	管理定期購買內容
 sp_plan_name_30_android_v2	<b>１個月方案</b>
 sp_plan_name_90_android_v2	<b>３個月方案</b>

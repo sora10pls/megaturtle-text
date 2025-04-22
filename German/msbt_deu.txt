@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	Nein
 sp_languageconfirm_004	Sprachauswahl bestätigen
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_deu.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	Deine Medaillen
+sp_medal_top_trade_gift	Tauschen/Schenken
+sp_medal_top_event	Relevante Veranstaltungen
+sp_medal_top_report	Medaillenverlauf
+sp_medal_top_read	Scannen
+sp_medal_error	Fehler
+sp_medal_menu_nalink_none	Um die Medaillen-Funktion nutzen zu können, musst du einen Nintendo-Account verknüpfen.
+sp_medal_stock_limit_title	Maximale Anzahl an Medaillen
+sp_medal_stock_limit_main	Max. Anzahl an Medaillen erreicht.
+sp_medal_stock_limit_desc	Mit dem [VAR 0117(0000)] kannst du bis zu [VAR 0203(0001)] Medaillen aufbewahren. (Medaillen im Besitz: [VAR 0200(0000)])
+sp_medal_stock_limit_howto_1	Du kannst dieses Problem folgendermaßen lösen...
+sp_medal_stock_limit_howto_2	・ Verschenke oder lösche Medaillen.
+sp_medal_stock_limit_howto_3	・ Abonniere den Premium-Service.
+sp_medal_stock_limit_howto_4	(Die maximale Anzahl an Medaillen wird auf [VAR 0203(0000)] erhöht.)
+sp_medal_close	Schließen
+sp_medal_stock_limit_join_plan	Service abonnieren
+sp_medal_menu_title	Medaillen
+sp_medal_stock_limit_howto_5	Deine Medaillen werden nun in der Standard-Box angezeigt. Darin sind nur die 30 zuletzt erhaltenen Medaillen sichtbar. Wenn du auf deine Medaillen außerhalb der Standard-Box zugreifen möchtest, musst du den Premium-Service erneut abonnieren.
+sp_medal_stock_title	Deine Medaillen ([VAR 0203(0000)])
+sp_medal_search	Suche
+sp_medal_stock_nodata	Es sind keine Medaillen vorhanden, die angezeigt werden können.
+sp_medal_detail_number	Nr.
+sp_medal_detail_create_at	Erhaltsdatum
+sp_medal_detail_location	Ort
+sp_medal_detail_category	Kategorie
+sp_medal_detail_distr_period	Verteilungszeitr.
+sp_medal_detail_log	Medaillenverlauf
+sp_medal_detail_gift_button	Verschenken
+sp_medal_release	Löschen
+sp_medal_detail_traded_check_button	Tauschanfragen überprüfen
+sp_medal_detail_trading	Du hast diese Medaille zum Tausch angeboten.
+sp_medal_detail_traded_select_button	Tauschen
+sp_medal_detail_log_create	Ausgestellt an [VAR 0100(0000)]
+sp_medal_detail_log_trade	[VAR 0100(0000)] hat dies per Tausch erhalten
+sp_medal_detail_log_gift	[VAR 0100(0000)] hat dies als Geschenk erhalten
+sp_medal_detail_log_button	Weiteren Verlauf anzeigen
+sp_medal_reselect	Neu auswählen
+sp_medal_gift_send	Schenken
+sp_medal_result_gift_send_title	Geschenk versendet!
+sp_medal_result_gift_send_medal	Verschenkte Medaillen
+sp_medal_result_gift_send_done	Das Geschenk wurde an [VAR 0100(0000)] versendet!
+sp_medal_release_title	Löschen
+sp_medal_release_confirm_1	Bist du sicher, dass du diese Medaille löschen möchtest?
+sp_medal_release_confirm_2	Hinweis: Gelöschte Medaillen können nicht wiederhergestellt werden.
+sp_medal_release_confirm_3	Hinweis: Gelöschte Medaillen werden weiterhin im Verlauf angezeigt.
+sp_medal_release_done	Die Medaille wurde gelöscht.
+sp_medal_error_gift_send_limit	Du kannst täglich nur [VAR 0201(0000)] Geschenke versenden.
+sp_medal_filter_name	Medaillenname
+sp_medal_filter_location	Ausstellungsort
+sp_medal_sort_getdate	Datum des Erhalts
+sp_medal_sort_location	Ausstellungsort
+sp_medal_detail_log_title	Verlauf
+sp_medal_stock_no_medal	Du besitzt keine Medaillen.
+sp_medal_except_freebox	Medaillen außerhalb der Standard-Box
+sp_medal_cert	Medaillenzertifikat
+sp_medal_detail_gifting	Du hast diese Medaille als Geschenk ausgewählt.
+sp_medal_date	Datum
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	Gelöschter Nutzer
+sp_medal_number_range	–
+sp_medal_deliver_title	Tauschen/Schenken
+sp_medal_deliver_trade	Tausch
+sp_medal_deliver_gift	Geschenke
+sp_medal_deliver_nodata	Es sind keine Tauschanfragen oder Geschenke vorhanden, die angezeigt werden können.
+sp_medal_deliver_item_trade_from	Tauschanfrage von [VAR 0100(0000)]
+sp_medal_deliver_item_trade_to	Tauschanfrage an [VAR 0100(0000)]
+sp_medal_deliver_item_trade_comp	Der Tausch mit [VAR 0100(0000)] war erfolgreich!
+sp_medal_deliver_item_trade_cancel	Der Tausch mit [VAR 0100(0000)] wurde abgebrochen!
+sp_medal_deliver_item_gift_from	Geschenk von [VAR 0100(0000)]
+sp_medal_deliver_item_gift_cancel	Das Geschenk an [VAR 0100(0000)] wurde nicht versandt!
+sp_medal_confirm	Überprüfen
+sp_medal_result_trade_offer_title	Deine Tauschanfrage wurde gesendet!
+sp_medal_result_trade_offer_medal	Deine offenen Tauschanfragen
+sp_medal_result_trade_offer_done	Tauschanfrage an [VAR 0100(0000)] wurde gesendet!
+sp_medal_result_trade_comp_title	Tausch abgeschlossen!
+sp_medal_result_trade_comp_medal	Erhaltene Medaillen
+sp_medal_result_trade_comp_done	Du hast mit [VAR 0100(0000)] getauscht!
+sp_medal_result_detail	Details anzeigen
+sp_medal_result_gift_recv_title	Du hast eine Medaille erhalten!
+sp_medal_result_gift_recv_medal	Erhaltene Medaillen
+sp_medal_result_gift_recv_done	Von [VAR 0100(0000)] erhalten
+sp_medal_offer_title	Tauschanfrage
+sp_medal_offer_trade_from	Tauschanfrage von [VAR 0100(0000)]
+sp_medal_offer_recv_medal	Du erhältst:
+sp_medal_offer_send_medal	Du bietest an:
+sp_medal_offer_select	Medaille auswählen
+sp_medal_offer_exec	Tauschen
+sp_medal_offer_trade_to	Tausch mit [VAR 0100(0000)] im Gange!
+sp_medal_offer_cancel	Abbrechen
+sp_medal_offer_cancel_title	Tausch abbrechen
+sp_medal_offer_cancel_confirm	Bist du sicher, dass du diesen Tausch abbrechen möchtest?
+sp_medal_offer_cancel_no	Nicht abbrechen
+sp_medal_offer_cancel_yes	Abbrechen
+sp_medal_offer_cancel_done	Der Tausch wurde abgebrochen.
+sp_medal_friend_no_nalink	Dieser Freund verwendet ein Gästekonto und kann die Medaillen-Funktion nicht nutzen.
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	Tausch abbrechen
+sp_medal_trade_cancel_done	Dieser Tausch wurde abgebrochen.
+sp_medal_gift_cancel_title	Geschenk abbrechen
+sp_medal_gift_cancel_done	Dieses Geschenk wurde abgebrochen.
+sp_medal_sort_date	Datum
+sp_medal_error_trade_sametime	Es können nur [VAR 0201(0000)] Tauschanfragen gleichzeitig aktiv sein. Bitte reduziere die Anzahl deiner offenen Tauschanfragen und versuche es dann erneut.
+sp_medal_error_gift_recv_limit	Du kannst nur [VAR 0201(0000)] Geschenke pro Tag erhalten.
+sp_medal_error_deliver_limit	Es können keine weiteren Tauschaktionen und/oder Geschenke angezeigt werden. Bitte überprüfe deine Liste an Tauschanfragen/Geschenken und schließe offene Tauschanfragen ab oder nimm ausstehende Geschenke an.
+sp_medal_error_trade_limit	Du kannst nur [VAR 0201(0000)] Tauschaktionen pro Tag durchführen.
+sp_medal_error_deliver_others_limit	Dieser Freund hat die maximale Anzahl an Tauschaktionen und/oder Geschenken erreicht und kann keine weiteren Tauschanfragen oder Geschenke erhalten.
+sp_medal_error_trade_progress	Du hast einen ausstehenden Tausch- oder Geschenkvorgang mit diesem Freund. Bitte schließe diesen zunächst ab und versuche es dann erneut.
+sp_medal_trade_title	Medaillen tauschen
+sp_medal_trade_method_friend	Mit Freunden tauschen
+sp_medal_trade_method_qr	Per 2D-Code tauschen
+sp_medal_trade_method_serial	Per Seriencode tauschen
+sp_medal_trade_qr_confirm	2D-Code anzeigen
+sp_medal_trade_qr_read	2D-Code scannen
+sp_medal_qr_confirm_title	Dein 2D-Code
+sp_medal_code_expire_remain	Gültigkeitsdauer des Codes:
+sp_medal_qr_read_title	2D-Code scannen
+sp_medal_serial_title	Seriencode
+sp_medal_trade_serial_confirm	Bitte gib den Seriencode deines Tauschpartners ein.
+sp_medal_serial_placeholder	Berühren, um den Seriencode einzugeben.
+sp_medal_serial_your_code	Dein Seriencode:
+sp_medal_serial_confirm	Bestätigen
+sp_medal_code_expired_retry	Die Gültigkeitsdauer des eingegebenen Codes ist abgelaufen. Bitte versuche es mit einem neu ausgestellten Code erneut.
+sp_medal_code_failed_limit	Diese Funktion wurde vorübergehend gesperrt, da zu viele ungültige Codes in Folge eingegeben wurden. Hinweis: Die Funktion wird 24 Stunden nach Anzeige dieser Nachricht wieder entsperrt.
+sp_medal_friend_title	Medaillen
+sp_medal_friend_add	Freund hinzufügen
+sp_medal_friend_none	Es sind keine Freunde vorhanden, die angezeigt werden können. Bitte füge Freunde deiner Liste hinzu.
+sp_medal_gift_recv	Geschenke annehmen
+sp_medal_gift_recv_confirm	Du kannst heute noch [VAR 0201(0000)] [VAR 1101(0000,0908)]GeschenkGeschenke empfangen. Möchtest du dieses Geschenk annehmen?
+sp_medal_gift_recv_no	Nicht annehmen
+sp_medal_gift_recv_yes	Annehmen
+sp_medal_code_expired	Abgelaufen
+sp_medal_gift_reject_title	Geschenk ablehnen
+sp_medal_gift_reject_confirm	Möchtest du dieses Geschenk ablehnen?
+sp_medal_gift_reject_no	Nicht ablehnen
+sp_medal_gift_reject_yes	Ablehnen
+sp_medal_gift_reject_done	Du hast das Geschenk abgelehnt.
+sp_medal_deliver_no_medal	Du besitzt keine Medaillen.
+sp_medal_gift_title	Medaillengeschenke
+sp_medal_gift_mode_send	Geschenke senden
+sp_medal_gift_mode_recv	Geschenke empfangen
+sp_medal_cancel	Abbrechen
+sp_medal_gift_send_friend	Geschenke an Freunde senden
+sp_medal_gift_send_qr	Geschenk per 2D-Code senden
+sp_medal_gift_send_serial	Geschenk per Seriencode senden
+sp_medal_gift_serial_input	Bitte gib den Seriencode des Geschenkempfängers ein.
+sp_medal_gift_recv_qr	Per 2D-Code empfangen
+sp_medal_gift_recv_serial	Per Seriencode empfangen
+sp_medal_gift_serial_explain	Bitte teile dem Sender des Geschenks den untenstehenden Seriencode mit.
+sp_medal_gift_recv_explain	Du hast ein Geschenk erhalten! Bitte überprüfe deine Liste an Tauschanfragen/Geschenken!
+sp_medal_deliver_item_gift_to	Geschenk an [VAR 0100(0000)]
+sp_medal_offer_gift_to	Geschenk an [VAR 0100(0000)]
+sp_medal_offer_gift_cancel_confirm	Möchtest du dieses Geschenk wirklich abbrechen?
+sp_medal_trade_serial_show	Seriencode anzeigen
+sp_medal_trade_serial_input	Seriencode eingeben
+sp_medal_trade_serial_explain	Gib diesen Seriencode an deinen Tauschpartner weiter:
+sp_medal_trade_recv_explain	Eine Tauschanfrage ist eingegangen! Bitte überprüfe deine Liste an Tauschanfragen/Geschenken!
+sp_medal_event_list_title	Relevante Veranstaltungen
+sp_medal_event_detail_title	Veranstaltungsdetails
+sp_medal_event_detail_url	Link
+sp_medal_event_detail_medal	Erhältliche Medaillen
+sp_medal_event_filter_location	Veranstaltungsort
+sp_medal_read_title	Medaillen scannen
+sp_medal_read_method_main	Mit welcher Funktion möchtest du den Scan durchführen?
+sp_medal_read_method_gps	Standort-Scan
+sp_medal_read_method_nfc	Nahfeld-Kommunikation
+sp_medal_read_gps_list_title	In dieser Gegend verfügbare Medaillen
+sp_medal_read_obtain_main	Medaille wurde ausgestellt!
+sp_medal_read_obtain_name	Ausgestellte Medaille
+sp_medal_read_obtain_detail	Details anzeigen
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	Weiter
+sp_medal_read_error_already_obtain	Du hast diese Medaille bereits erhalten. Sie kann erst nach Ablauf der Frist erneut ausgestellt werden:
+sp_medal_read_error_already_desc1	Jede Medaille kann nur einmal am Tag ausgestellt werden.
+sp_medal_read_error_already_desc2	Diese Grenze wird täglich um 00:00 Uhr UTC zurückgesetzt.
+sp_medal_read_error_before_start	Die Verteilung dieser Medaille hat noch nicht begonnen. Sie beginnt an folgendem Datum:
+sp_medal_read_error_after_end	Die Verteilung dieser Medaille ist beendet.
+sp_medal_read_error_create_limit	Diese Medaille kann nicht öfter ausgestellt werden.
+sp_medal_read_gps_init	GPS wird initialisiert.
+sp_medal_read_gps_confirm	Bitte überprüfe die Einstellungen deines Geräts und schalte die GPS-Funktion ein.
+sp_medal_read_gps_failed	GPS konnte nicht initialisiert werden.
+sp_medal_return	Zurück
+sp_medal_read_nfc_main	Bitte halte dein Gerät an den NFC-Tag.
+sp_medal_read_nfc_done	Scan erfolgreich!
+sp_medal_read_nfc_failed	Scan fehlgeschlagen.
+sp_medal_read_nfc_unrelated	Dieser NFC-Tag ist nicht kompatibel.
+sp_medal_read_nfc_timeout	Zeitüberschreitung. Bitte versuche es erneut.
+sp_medal_read_method_none	Die Scan-Funktion kann auf deinem Gerät nicht verwendet werden.
+sp_medal_read_gps_nodata	In dieser Gegend stehen keine erhältlichen Medaillen zur Verfügung.
+sp_medal_report_title	Medaillenverlauf
+sp_medal_report_cell_year_month	[VAR 0201(0001)]/[VAR 0203(0000)]
+sp_medal_report_gift	Medaille von [VAR 0100(0000)] erhalten!
+sp_medal_report_gave	Medaille an [VAR 0100(0000)] verschenkt!
+sp_medal_report_trade	Du hast mit [VAR 0100(0000)] getauscht!  Erhaltene Medaille:
+sp_medal_report_trade_2	Gesendete Medaille:
+sp_medal_report_create	Medaille ausgestellt!
+sp_medal_report_release	Die Medaille wurde gelöscht.
+sp_medal_report_dialog_button	Statistik
+sp_medal_report_acquired	Erhaltene Medaillen
+sp_medal_report_exchanged	Getauschte Medaillen
+sp_medal_report_give	Verschenkte Medaillen
+sp_medal_report_received	Per Geschenk erhaltene Medaillen
+sp_medal_quantity	[VAR 0203(0000)]
+sp_medal_report_obtain	Ausgestellte Medaillen
+sp_medal_mainte_title	Wartungsarbeiten
+sp_medal_mainte_body	Die Medaillen-Funktion ist derzeit von Wartungsarbeiten betroffen. Andere Funktionen von Pokémon HOME stehen dir weiterhin zur Verfügung. Geplanter Abschluss: [VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000)] um [VAR 0201(0003)]:[VAR 0201(0004)] Uhr
+sp_medal_error_system_limit	Die Nutzung der Medaillen-Funktion ist für dieses Konto derzeit eingeschränkt.
+sp_medal_error_common_go_home	Ein Fehler ist aufgetreten. Du kehrst nun in deinen Bereich zurück. Fehler-Code: [VAR 0200(0000)]
+sp_medal_error_common	Ein Fehler ist aufgetreten. Bitte versuche es erneut. Fehler-Code: [VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	Ungültiger Code. Fehler-Code: [VAR 0200(0000)]
+sp_medal_error_deliver_status	Dein Tausch- oder Geschenkpartner hat seinen Status verändert. Bitte überprüfe deine Tauschen/Schenken-Liste erneut. Fehlercode: [VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	Die Medaillen-Funktion ist derzeit von Wartungsarbeiten betroffen. Andere Funktionen von Pokémon HOME stehen dir weiterhin zur Verfügung.
+sp_medal_tutorial_0001	Hallöchen! Pokiba ist wieder da! Ist dir schon aufgefallen, dass Pokémon HOME eine neue Medaillen-Funktion hinzugefügt wurde? Ich bin hier, um dir etwas mehr darüber zu erzählen.
+sp_medal_tutorial_0002	Medaillen fungieren als kleine Andenken, die du durch den Besuch bestimmter Orte oder die Teilnahme an gewissen Veranstaltungen erhalten kannst.
+sp_medal_tutorial_0003	Wenn du also mal wieder in Erinnerungen schwelgen möchtest, kannst du dir einfach deine Medaillen-Sammlung ansehen und überprüfen, wann du dich wo aufgehalten hast! Toll, oder?
+sp_medal_tutorial_0004	Darüber hinaus kannst du deine Erinnerungen sogar mit Freunden teilen, indem du deine Medaillen mit ihnen tauschst oder sie ihnen schenkst – wie kleine Souvenirs!
+sp_medal_tutorial_0005	Unter „Relevante Veranstaltungen“ kannst du herausfinden, wie du in den Besitz von Medaillen gelangst. Es ist empfehlenswert, regelmäßig dort vorbeizuschauen, um nichts zu verpassen, da sich die erhältlichen Medaillen basierend auf Zeit und Ort ändern!
+sp_medal_tutorial_0006	Pokidoki, damit wäre auch schon das Wichtigste zu den Medaillen erklärt. Wenn du noch mehr erfahren möchtest, kannst du dich jederzeit unter „Hilfe“ schlau machen!
+sp_medal_tutorial_0007	Ach ja, eine Sache noch... Ich möchte dir etwas schenken, das dich an deine erste Nutzung dieser neuen Funktion erinnern soll. Kannst du dir denken, was es ist? Genau, ein paar Medaillen!
+sp_medal_tutorial_0008	Es sind drei Medaillen mit demselben Motiv. Du kannst dich also mit deinen Freunden zusammentun und schauen, wer von euch welches Motiv bekommen hat, um sie dann zu tauschen oder zu verschenken!
+sp_medal_tutorial_stock_0001	Hier werden all deine Medaillen aufgelistet!
+sp_medal_tutorial_stock_0002	Weil man mit dem Premium-Service eine Menge Medaillen auf einmal aufbewahren kann, werden Medaillen mit demselben Motiv gebündelt angezeigt.
+sp_medal_tutorial_stock_0003	In der Detailansicht einer Medaille findest du verschiedene Infos, beispielsweise wer sie wann erhalten hat, wer vor dir in ihrem Besitz war usw.
+sp_medal_tutorial_stock_0004	In manchen Medaillen steckt so viel Geschichte, dass man sie fast schon spüren kann! Je mehr Spieler sie einmal besessen haben, desto umfangreicher wird ihr Verlauf.
+sp_medal_tutorial_stock_0005	Falls du also die Details einer bestimmten Medaille genauer überprüfen möchtest, kannst du diese einfach separat auswählen.
+sp_medal_tutorial_tradegift_0001	Hier kannst du Medaillen tauschen oder als Geschenk versenden!
+sp_medal_tutorial_tradegift_0002	Du kannst jeweils immer nur eine Medaille zum Tausch anbieten. Wähle zunächst die Medaille, die du tauschen möchtest. Sobald dein Tauschpartner es dir gleichtut, offenbart ihr einander eure Auswahl!
+sp_medal_tutorial_tradegift_0003	Solltet ihr beide mit dem angebotenen Tausch zufrieden sein, müsst ihr ihn nur noch bestätigen, damit er durchgeführt werden kann! Falls eine der beiden Parteien jedoch unzufrieden mit dem Angebot ist, kann der Tausch abgebrochen werden.
+sp_medal_tutorial_tradegift_0004	Wenn du jemandem eine Medaille zukommen lassen möchtest, ohne im Gegenzug etwas dafür zu verlangen, kannst du sie als Geschenk versenden!
+sp_medal_tutorial_tradegift_0005	Wähle dazu einfach eine Medaille aus, die verschenkt werden soll. Dabei ist zu beachten, dass der Empfänger das vorgesehene Geschenk vor dem Versand zunächst akzeptieren muss – du willst sicher niemanden ungewollt mit Geschenken bombardieren!
+sp_medal_tutorial_tradegift_0006	Das Tauschen und Verschenken von Medaillen ermöglichen es dir, schöne Erinnerungen mit Familie und Freunden zu teilen. Versuch’s doch mal!
+sp_medal_tutorial_event_0001	Auf diesem Bildschirm erfährst du, wo und wann du Medaillen erhalten kannst!
+sp_medal_tutorial_event_0002	Medaillen können im Rahmen von Veranstaltungen erhalten werden, welche zu verschiedenen Zeiten in unterschiedlichen Regionen stattfinden. Es ist also empfehlenswert, regelmäßig hier vorbeizuschauen und dich auf dem Laufenden zu halten!
+sp_medal_tutorial_report_0001	Hier findest du verschiedene Angaben zu deinen Medaillen!
+sp_medal_tutorial_report_0002	Du kannst zum Beispiel herausfinden, wie viele Medaillen du bisher gesammelt hast und wie viele du per Tausch oder als Geschenke erhalten hast.
+sp_medal_tutorial_report_0003	Je mehr Medaillen du besitzt, desto mehr Spaß wirst du daran haben, diese Werte zu überprüfen!
+sp_medal_tutorial_obtain_title	Einführung in die Medaillen-Funktion
+sp_medal_category_other	Sonstiges
+sp_medal_name_00000_tutorial_01	Erste Nutzung der Medaillen-Funktion ①
+sp_medal_name_00000_tutorial_02	Erste Nutzung der Medaillen-Funktion ②
+sp_medal_name_00000_tutorial_03	Erste Nutzung der Medaillen-Funktion ③
+sp_medal_name_00000_tutorial_04	Erste Nutzung der Medaillen-Funktion ④
+sp_medal_name_00000_tutorial_05	Erste Nutzung der Medaillen-Funktion ⑤
+sp_medal_name_00000_tutorial_06	Erste Nutzung der Medaillen-Funktion ⑥
+sp_medal_name_00000_tutorial_07	Erste Nutzung der Medaillen-Funktion ⑦
+sp_medal_name_00000_tutorial_08	Erste Nutzung der Medaillen-Funktion ⑧
+sp_medal_name_00000_tutorial_09	Erste Nutzung der Medaillen-Funktion ⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_deu.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day 
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	Wir konnten verifizieren, dass dieser Nintendo-Account 
 sp_option_nalink_0045_v2	Bitte stelle sicher, dass die <u><b>Kunden-ID</b></u>, die auf dem <u><b>Titelbildschirm</b></u> deiner bisher genutzten Ausgabe von Pokémon HOME für mobile Geräte angezeigt wird, mit der unten stehenden ID übereinstimmt.
 sp_option_nalink_0046_v2	Möchtest du deine Daten der Mobilgerät-Version von Pokémon HOME auf dieses Gerät übertragen und beginnen?
 sp_option_nalink_0047	Geheimgeschenke in der Mobilgerät-Version von Pokémon HOME
+sp_option_nalink_0048	Nutzung der Medaillen-Funktion in der Mobilgerät-Version von Pokémon HOME
 sp_option_holohlo_0001_vgo	Verlinkung mit Pokémon GO
 sp_option_holohlo_0004_vgo	Pokémon empfangen
 sp_option_holohlo_0005_vgo	Pokémon empfangen
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	Falls eine Verknüpfung zwischen dein
 sp_option_userdel_confirm2_body_v11	Wenn du den Premium-Service nutzt, wird dein Abonnement infolge der Löschung deines Pokémon HOME-Kontos nicht automatisch gekündigt. Die Vorgehensweise bei der Abo-Kündigung hängt davon ab, auf welcher Version von Pokémon HOME du dich ursprünglich für den Premium-Service registriert hast.  Nutzer, die das Abonnement auf der Nintendo Switch-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den Nintendo eShop kündigen.  Nutzer, die das Abonnement auf der iOS-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den App Store kündigen.  Nutzer, die das Abonnement auf der Android-Version abgeschlossen haben, müssen ihre Mitgliedschaft über den Google Play Store kündigen.  Bitte beachte, dass Kosten, die durch das Vergessen der Kündigung des Premium-Services entstehen, nicht rückerstattet werden und diesbezügliche Anfragen nicht beantwortet werden können.
 sp_option_userdel_confirm3_title_v11	Endgültige Bestätigung
 sp_option_userdel_confirm3_body_v11	Ein gelöschtes Konto kann nicht wiederhergestellt werden. Sämtlicher Fortschritt in der Anwendung, einschließlich verzeichneter Erfolge und Pokédex-Einträge, geht dabei endgültig verloren.  Bist du sicher, dass du dein Konto löschen möchtest?
+sp_option_company_info	Unternehmensdaten
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_deu.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	Zahlungssystem wird eingerichtet...
 sp_plan_help_button	Hilfe zum Premium-Service
 sp_plan_help_detail_button	■ Der Premium-Service Mit dem Premium-Service stehen dir die folgenden Funktionen zur Verfügung:  ・ Lagere bis zu 6 000 Pokémon in Pokémon HOME.  ・ Transferiere Pokémon aus Pokémon Bank auf Pokémon HOME. (Für diesen Vorgang muss ein Nintendo-Account verknüpft werden.)  ・ Greife in der Pokémon-Detailansicht auf die Richter-Funktion zu.  ・ Biete über das Global Trade System (GTS) bis zu drei Pokémon gleichzeitig zum Tausch an.  ・ Lege bis zu zehn Pokémon gleichzeitig in der Wunderbox ab.  ・ Erstelle Gruppen, um einen Gruppentausch durchzuführen.
 sp_plan_help_title	Über Abonnements
-sp_plan_help_text	■ Vorteile des Premium-Services  ・ Transferiere Pokémon aus Pokémon Bank auf Pokémon HOME.  ・ Lagere bis zu 6 000 Pokémon in Pokémon HOME.  ・ Lege bis zu zehn Pokémon gleichzeitig in der Wunderbox ab.  ・ Biete über das Global Trade System (GTS) bis zu drei Pokémon gleichzeitig zum Tausch an.  ・ Erstelle Gruppen, um einen Gruppentausch durchzuführen.  ・ Greife auf die Richter-Funktion zu.
+sp_plan_help_text	■ Vorteile des Premium-Services  ・ Transferiere Pokémon aus Pokémon Bank auf Pokémon HOME.  ・ Lagere bis zu 6 000 Pokémon in Pokémon HOME.  ・ Lege bis zu zehn Pokémon gleichzeitig in der Wunderbox ab.  ・ Biete über das Global Trade System (GTS) bis zu drei Pokémon gleichzeitig zum Tausch an.  ・ Erstelle Gruppen, um einen Gruppentausch durchzuführen.  ・ Greife auf die Richter-Funktion zu.  ・ Bewahre bis zu 1 000 Medaillen auf.
 sp_plan_control_link_button	Service-Erneuerung verwalten
 sp_plan_name_30_android_v2	<b>Einmonatiger Service</b>
 sp_plan_name_90_android_v2	<b>Dreimonatiger Service</b>

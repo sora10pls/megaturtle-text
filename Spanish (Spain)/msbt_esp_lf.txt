@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	No
 sp_languageconfirm_004	Confirmación del idioma
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_esp.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	Medallas conseguidas
+sp_medal_top_trade_gift	Intercambios y regalos
+sp_medal_top_event	Eventos relacionados
+sp_medal_top_report	Registro de medallas
+sp_medal_top_read	Lectura
+sp_medal_error	Error
+sp_medal_menu_nalink_none	Es necesario tener vinculada una cuenta Nintendo para\npoder usar la función de medallas.
+sp_medal_stock_limit_title	Número máximo de medallas
+sp_medal_stock_limit_main	No puedes conseguir más medallas.
+sp_medal_stock_limit_desc	Con el [VAR 0117(0000)] puedes conseguir hasta [VAR 0200(0001)] medallas.\n(Actualmente tienes [VAR 0200(0002)]).
+sp_medal_stock_limit_howto_1	Si quieres conseguir más medallas:
+sp_medal_stock_limit_howto_2	・Regala o descarta medallas.
+sp_medal_stock_limit_howto_3	・Cambia al plan prémium.
+sp_medal_stock_limit_howto_4	(El número máximo de medallas aumentará a [VAR 0203(0000)]).
+sp_medal_close	Cerrar
+sp_medal_stock_limit_join_plan	Cambiar el plan
+sp_medal_menu_title	Medallas
+sp_medal_stock_limit_howto_5	Tus medallas se mostrarán ahora en la caja básica, donde\npodrás acceder únicamente a las 30 más recientes.\nPara poder acceder al resto, es necesario cambiar al\nplan prémium.
+sp_medal_stock_title	Medallas conseguidas ([VAR 0203(0000)])
+sp_medal_search	Búsqueda
+sp_medal_stock_nodata	No hay medallas que mostrar.
+sp_medal_detail_number	N.º
+sp_medal_detail_create_at	Fecha de obten.
+sp_medal_detail_location	Lugar de creac.
+sp_medal_detail_category	Categoría
+sp_medal_detail_distr_period	Distribución
+sp_medal_detail_log	Historial de la medalla
+sp_medal_detail_gift_button	Regalar
+sp_medal_release	Descartar
+sp_medal_detail_traded_check_button	Ver solicitudes de intercambio
+sp_medal_detail_trading	Has ofrecido esta medalla en un intercambio.
+sp_medal_detail_traded_select_button	Intercambiar
+sp_medal_detail_log_create	Creada por [VAR 0100(0000)]
+sp_medal_detail_log_trade	Intercambiada con [VAR 0100(0000)]
+sp_medal_detail_log_gift	Regalo de [VAR 0100(0000)]
+sp_medal_detail_log_button	Ver historial completo
+sp_medal_reselect	Cambiar destinatario
+sp_medal_gift_send	Regalar
+sp_medal_result_gift_send_title	¡Has regalado una medalla!
+sp_medal_result_gift_send_medal	Medalla regalada:
+sp_medal_result_gift_send_done	Regalada a [VAR 0100(0000)]
+sp_medal_release_title	Descartar
+sp_medal_release_confirm_1	¿Seguro que quieres descartar esta medalla?
+sp_medal_release_confirm_2	Ten en cuenta que, una vez descartada,\nno será posible recuperarla.
+sp_medal_release_confirm_3	Las medallas que descartes seguirán constando\nen tu registro de medallas.
+sp_medal_release_done	Has descartado la medalla.
+sp_medal_error_gift_send_limit	Puedes regalar un máximo de [VAR 0201(0000)] medallas al día.
+sp_medal_filter_name	Nombre
+sp_medal_filter_location	Lugar de creación
+sp_medal_sort_getdate	Fecha de obtención
+sp_medal_sort_location	Lugar de creación
+sp_medal_detail_log_title	Historial
+sp_medal_stock_no_medal	No tienes medallas.
+sp_medal_except_freebox	Medallas que no están en la caja básica
+sp_medal_cert	Certificado de medalla
+sp_medal_detail_gifting	Has ofrecido esta medalla como regalo.
+sp_medal_date	Fecha y hora
+sp_medal_number	N.º [VAR 0117(0000)]
+sp_medal_deleted_user	Usuario borrado
+sp_medal_number_range	-
+sp_medal_deliver_title	Intercambios y regalos
+sp_medal_deliver_trade	Intercambio
+sp_medal_deliver_gift	Regalo
+sp_medal_deliver_nodata	No hay solicitudes de intercambio ni regalos que mostrar.
+sp_medal_deliver_item_trade_from	Solicitud recibida de [VAR 0100(0000)]
+sp_medal_deliver_item_trade_to	Solicitud enviada a [VAR 0100(0000)]
+sp_medal_deliver_item_trade_comp	Intercambio finalizado con [VAR 0100(0000)].
+sp_medal_deliver_item_trade_cancel	Intercambio cancelado con [VAR 0100(0000)].
+sp_medal_deliver_item_gift_from	Regalo de [VAR 0100(0000)]
+sp_medal_deliver_item_gift_cancel	Regalo a [VAR 0100(0000)] cancelado.
+sp_medal_confirm	Comprobar
+sp_medal_result_trade_offer_title	¡Solicitud de intercambio enviada!
+sp_medal_result_trade_offer_medal	Medalla solicitada:
+sp_medal_result_trade_offer_done	Se ha enviado tu solicitud a [VAR 0100(0000)].
+sp_medal_result_trade_comp_title	¡Intercambio finalizado!
+sp_medal_result_trade_comp_medal	Medalla recibida:
+sp_medal_result_trade_comp_done	De parte de [VAR 0100(0000)].
+sp_medal_result_detail	Ver detalles
+sp_medal_result_gift_recv_title	¡Te han regalado una medalla!
+sp_medal_result_gift_recv_medal	Medalla recibida:
+sp_medal_result_gift_recv_done	De parte de [VAR 0100(0000)].
+sp_medal_offer_title	Solicitud de intercambio
+sp_medal_offer_trade_from	Solicitud recibida de [VAR 0100(0000)]
+sp_medal_offer_recv_medal	Medalla que recibirás
+sp_medal_offer_send_medal	Medalla que enviarás
+sp_medal_offer_select	Seleccionar medalla
+sp_medal_offer_exec	Intercambiar
+sp_medal_offer_trade_to	Intercambio en curso con [VAR 0100(0000)].
+sp_medal_offer_cancel	Cancelar
+sp_medal_offer_cancel_title	Cancelación del intercambio
+sp_medal_offer_cancel_confirm	¿Quieres cancelar el intercambio?
+sp_medal_offer_cancel_no	No
+sp_medal_offer_cancel_yes	Sí
+sp_medal_offer_cancel_done	Se ha cancelado el intercambio.
+sp_medal_friend_no_nalink	Este amigo no puede usar la función Medallas\nporque está usando una cuenta de invitado.
+sp_medal_ok	Vale
+sp_medal_trade_cancel_title	Cancelación del intercambio
+sp_medal_trade_cancel_done	Se ha cancelado el intercambio.
+sp_medal_gift_cancel_title	Cancelación del regalo
+sp_medal_gift_cancel_done	Se ha cancelado el regalo.
+sp_medal_sort_date	Fecha y hora
+sp_medal_error_trade_sametime	Puedes tener un máximo de [VAR 0201(0000)] intercambios en curso.\nPara poder enviar más solicitudes, deberás cancelar\nprimero alguna de las que hayas enviado.
+sp_medal_error_gift_recv_limit	Puedes recibir un máximo de [VAR 0201(0000)] regalos al día.
+sp_medal_error_deliver_limit	Ya has alcanzado el número máximo de intercambios\ny regalos que pueden mostrarse en pantalla.\nComprueba el listado y completa las operaciones que\ntengas pendientes.
+sp_medal_error_trade_limit	Puedes realizar un máximo de [VAR 0201(0000)] intercambios al día.
+sp_medal_error_deliver_others_limit	Este amigo ya ha alcanzado el límite de intercambios\no regalos en curso y no puede aceptar más.
+sp_medal_error_trade_progress	Tienes una solicitud de intercambio o regalo en curso con\neste amigo. Finaliza primero la operación pendiente.
+sp_medal_trade_title	Intercambio de medallas
+sp_medal_trade_method_friend	Con amigos
+sp_medal_trade_method_qr	Mediante código 2D
+sp_medal_trade_method_serial	Mediante código
+sp_medal_trade_qr_confirm	Mostrar código 2D
+sp_medal_trade_qr_read	Leer código 2D
+sp_medal_qr_confirm_title	Tu código 2D
+sp_medal_code_expire_remain	Validez del código:
+sp_medal_qr_read_title	Lectura de código 2D
+sp_medal_serial_title	Código
+sp_medal_trade_serial_confirm	Introduce el código del otro usuario.
+sp_medal_serial_placeholder	Toca para introducir un código.
+sp_medal_serial_your_code	Tu código
+sp_medal_serial_confirm	Confirmar
+sp_medal_code_expired_retry	La validez del código introducido ha expirado.\nGenera un código nuevo y vuelve a intentarlo.
+sp_medal_code_failed_limit	Se ha limitado el acceso a esta función debido a la\nintroducción repetida de códigos incorrectos.\nLa función volverá a estar disponible transcurridas 24 horas\nde la recepción de este mensaje.
+sp_medal_friend_title	Medallas
+sp_medal_friend_add	Añadir amigos
+sp_medal_friend_none	Tu lista está vacía. Añade algunos amigos.
+sp_medal_gift_recv	Recepción de regalos
+sp_medal_gift_recv_confirm	Hoy todavía puedes recibir [VAR 0201(0000)] regalo[VAR 1101(0000,0100)]s más.\n¿Quieres recibir este?
+sp_medal_gift_recv_no	No
+sp_medal_gift_recv_yes	Sí
+sp_medal_code_expired	Expirado
+sp_medal_gift_reject_title	Rechazo de regalo
+sp_medal_gift_reject_confirm	¿Quieres rechazar este regalo?
+sp_medal_gift_reject_no	No rechazar
+sp_medal_gift_reject_yes	Rechazar
+sp_medal_gift_reject_done	Se ha rechazado el regalo.
+sp_medal_deliver_no_medal	No tienes ninguna medalla.
+sp_medal_gift_title	Regalo de medallas
+sp_medal_gift_mode_send	Regalar medallas
+sp_medal_gift_mode_recv	Recibir medallas
+sp_medal_cancel	Cancelar
+sp_medal_gift_send_friend	A un amigo
+sp_medal_gift_send_qr	Mediante código 2D
+sp_medal_gift_send_serial	Mediante código
+sp_medal_gift_serial_input	Introduce el código del otro usuario.
+sp_medal_gift_recv_qr	Mediante código 2D
+sp_medal_gift_recv_serial	Mediante código
+sp_medal_gift_serial_explain	Facilita el código que se muestra más abajo al usuario\nque te envía el regalo.
+sp_medal_gift_recv_explain	¡Has recibido un regalo!\nEcha un vistazo a tu lista de regalos.
+sp_medal_deliver_item_gift_to	Regalada a [VAR 0100(0000)]
+sp_medal_offer_gift_to	Enviada como regalo a [VAR 0100(0000)]
+sp_medal_offer_gift_cancel_confirm	¿Seguro que quieres cancelar el regalo?
+sp_medal_trade_serial_show	Mostrar código
+sp_medal_trade_serial_input	Introducir código
+sp_medal_trade_serial_explain	Facilita el código que se muestra más abajo al usuario\ncon quien quieres realizar el intercambio.
+sp_medal_trade_recv_explain	¡Has recibido una solicitud de intercambio!\nPuedes consultar los detalles en la sección\nSolicitudes de intercambio y lista de regalos.
+sp_medal_event_list_title	Eventos relacionados
+sp_medal_event_detail_title	Información del evento
+sp_medal_event_detail_url	URL
+sp_medal_event_detail_medal	Medallas que se pueden conseguir
+sp_medal_event_filter_location	Región donde se celebra
+sp_medal_read_title	Lectura de medallas
+sp_medal_read_method_main	¿Cómo quieres efectuar la lectura?
+sp_medal_read_method_gps	Distribución local
+sp_medal_read_method_nfc	Lectura de etiquetas NFC
+sp_medal_read_gps_list_title	Medallas disponibles en esta zona
+sp_medal_read_obtain_main	¡Se ha creado una medalla!
+sp_medal_read_obtain_name	Medalla creada
+sp_medal_read_obtain_detail	Ver detalles
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	Siguiente
+sp_medal_read_error_already_obtain	Ya has recibido esta medalla.\nPodrás volver a crearla dentro de:
+sp_medal_read_error_already_desc1	Cada medalla puede crearse una vez al día.
+sp_medal_read_error_already_desc2	Se considera que el día comienza a las 00:00 UTC.
+sp_medal_read_error_before_start	El período de distribución de esta medalla\nno ha comenzado aún.\n\nInicio del período de distribución:
+sp_medal_read_error_after_end	El período de distribución de esta medalla ha concluido.
+sp_medal_read_error_create_limit	No es posible crear más veces esta medalla.
+sp_medal_read_gps_init	Iniciando GPS...
+sp_medal_read_gps_confirm	Activa el GPS de tu dispositivo.\nEs posible que debas acceder a la configuración de\ntu dispositivo y modificar los ajustes.
+sp_medal_read_gps_failed	No se ha podido iniciar el GPS.
+sp_medal_return	Atrás
+sp_medal_read_nfc_main	Acerca el dispositivo a la etiqueta NFC.
+sp_medal_read_nfc_done	Se ha efectuado la lectura.
+sp_medal_read_nfc_failed	No se ha podido efectuar la lectura.
+sp_medal_read_nfc_unrelated	Esta etiqueta NFC no es válida.
+sp_medal_read_nfc_timeout	Ha pasado demasiado tiempo.\nInténtalo de nuevo.
+sp_medal_read_method_none	No es posible efectuar la lectura en tu dispositivo.
+sp_medal_read_gps_nodata	No hay medallas disponibles en esta zona.
+sp_medal_report_title	Registro de medallas
+sp_medal_report_cell_year_month	[VAR 0201(0001)]/[VAR 0203(0000)]
+sp_medal_report_gift	¡Recibida de parte de [VAR 0100(0000)]!
+sp_medal_report_gave	¡Enviada a [VAR 0100(0000)] como regalo!
+sp_medal_report_trade	¡Intercambio con [VAR 0100(0000)]!\n\nMedalla que recibiste:
+sp_medal_report_trade_2	Medalla que ofreciste:
+sp_medal_report_create	¡Medalla creada!
+sp_medal_report_release	Medalla descartada.
+sp_medal_report_dialog_button	Recuento
+sp_medal_report_acquired	Medallas conseguidas
+sp_medal_report_exchanged	Medallas intercambiadas
+sp_medal_report_give	Medallas regaladas
+sp_medal_report_received	Medallas recibidas como regalo
+sp_medal_quantity	[VAR 0203(0000)]
+sp_medal_report_obtain	Medallas creadas
+sp_medal_mainte_title	Mantenimiento
+sp_medal_mainte_body	Se están realizando labores de mantenimiento, por lo que la\nfunción de medallas no está disponible. El resto de funciones\nde Pokémon HOME no se ven afectadas.\nLas labores finalizarán el [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)] a las [VAR 0201(0003)]:[VAR 0201(0004)].
+sp_medal_error_system_limit	El uso de la función de medallas está restringido para tu\ncuenta actual.
+sp_medal_error_common_go_home	Se ha producido un error.\nRegresarás a tu rincón personal.\nCódigo del error: [VAR 0200(0000)]
+sp_medal_error_common	Se ha producido un error.\nInténtalo de nuevo.\nCódigo del error: [VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	El código introducido no es correcto.\nCódigo del error: [VAR 0200(0000)]
+sp_medal_error_deliver_status	El usuario con el que intentas realizar un intercambio o regalo\nha cambiado su estado. Vuelve a comprobar tu listado.\nCódigo del error: [VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	Se están realizando labores de mantenimiento, por lo que la\nfunción “medallas” no está disponible. El resto de funciones de\nPokémon HOME no se ven afectadas.
+sp_medal_tutorial_0001	¡Hola! ¡Soy yo, Pobolín! Ya has visto que se ha añadido una\nnueva función a Pokémon HOME, ¿eh? ¡Pues aquí estoy yo\npara explicarte cómo funciona esto de las medallas!
+sp_medal_tutorial_0002	En resumen, esta nueva función te permite llevarte medallas\nde recuerdo por haber visitado ciertos lugares o participar en\ndeterminados eventos.
+sp_medal_tutorial_0003	Podrás acceder a tus medallas en todo momento. ¡Es una forma\ngenial de rememorar tus viajes y hazañas y de revivir un montón\nde buenos recuerdos!
+sp_medal_tutorial_0004	¿Y sabes qué es lo mejor? Que también podrás intercambiarlas\ncon tus amigos o regalárselas tal cual. ¡Así compartís recuerdos\ny experiencias!
+sp_medal_tutorial_0005	Si quieres saber cómo conseguirlas, consulta la sección\nEventos relacionados. Te recomiendo echarle un ojo de vez\nen cuando, ya que cada medalla se consigue en un lugar y un\nmomento distintos, que además cambian a menudo.
+sp_medal_tutorial_0006	Y con esto ya tienes una idea general de cómo va el tema.\nSi quieres información más detallada, siempre puedes consultar\nla sección Ayuda.
+sp_medal_tutorial_0007	Pero antes de que te vayas... ¡Tengo un regalito para ti!\nComo es la primera vez que usas esta función, te has\nganado... ¡una medalla!
+sp_medal_tutorial_0008	En realidad, te regalo tres con el mismo diseño para que puedas\nempezar ya mismo a intercambiar las repes con tus amigos.\n¡Como si se las quieres regalar!
+sp_medal_tutorial_stock_0001	Aquí puedes ver la lista con todas las medallas que has\nconseguido hasta ahora.
+sp_medal_tutorial_stock_0002	Como con el plan prémium puedes llegar a acumular un montón,\npara evitar que te salga una lista kilométrica, verás que aparecen\nagrupadas por diseño. ¡Mucho mejor así, bien ordenadito!
+sp_medal_tutorial_stock_0003	Selecciona una medalla y podrás ver información detallada\nde la misma. Por ejemplo, cómo y cuándo se obtuvo, quién\nla ha tenido antes que tú, etc.
+sp_medal_tutorial_stock_0004	Cuanto más haya cambiado de manos una medalla, más largo\nserá su historial. ¡Es como un diario donde se registra cada paso\nen su periplo!
+sp_medal_tutorial_stock_0005	Cuando quieras ver los detalles de una en particular, tendrás\nque seleccionarla por separado.
+sp_medal_tutorial_tradegift_0001	Aquí puedes intercambiar o regalar medallas.
+sp_medal_tutorial_tradegift_0002	Solo es posible intercambiar una medalla a la vez. Elige primero\nla que quieras ofrecer tú y, cuando el otro usuario haya elegido\nla suya, podréis mostrároslas.
+sp_medal_tutorial_tradegift_0003	Si todo el mundo está contento con la oferta, adelante\ncon el intercambio. Por contra, si alguno no está del todo\nconvencido, se anula y aquí no ha pasado nada.
+sp_medal_tutorial_tradegift_0004	También puedes regalar tus medallas a otros usuarios. Si lo haces,\ntú no te llevarás nada a cambio, pero... ¿no es esa la gracia de\nhacer un regalo?
+sp_medal_tutorial_tradegift_0005	Lo único que tienes que hacer tú es seleccionar la medalla que\nquieres regalar. ¡Pero cuidadín! El otro usuario tiene que aceptar\nrecibirla o no habrá regalo que valga. ¡Tampoco es plan de\nobligar a nadie!
+sp_medal_tutorial_tradegift_0006	¡Comparte tus recuerdos con tu familia o amigos intercambiando\no regalando medallas!
+sp_medal_tutorial_event_0001	Aquí podrás saber dónde y cuándo conseguir medallas.
+sp_medal_tutorial_event_0002	Los eventos donde se pueden conseguir medallas cambian\nsegún la región y el momento del año, así que te aconsejo que\nvayas echando un ojo de vez en cuando para no perderte\nninguna oportunidad.
+sp_medal_tutorial_report_0001	Aquí se muestra un recuento desglosado de tus medallas.
+sp_medal_tutorial_report_0002	Primero verás el número total de medallas que has conseguido.\nY luego, por separado, las que has intercambiado, regalado\no recibido como regalo.
+sp_medal_tutorial_report_0003	¡Por supuesto, cuantas más tengas, más interesante será\nver todo esto!
+sp_medal_tutorial_obtain_title	La función Medallas
+sp_medal_category_other	Otra
+sp_medal_name_00000_tutorial_01	Primer uso de la función Medallas ①
+sp_medal_name_00000_tutorial_02	Primer uso de la función Medallas ②
+sp_medal_name_00000_tutorial_03	Primer uso de la función Medallas ③
+sp_medal_name_00000_tutorial_04	Primer uso de la función Medallas ④
+sp_medal_name_00000_tutorial_05	Primer uso de la función Medallas ⑤
+sp_medal_name_00000_tutorial_06	Primer uso de la función Medallas ⑥
+sp_medal_name_00000_tutorial_07	Primer uso de la función Medallas ⑦
+sp_medal_name_00000_tutorial_08	Primer uso de la función Medallas ⑧
+sp_medal_name_00000_tutorial_09	Primer uso de la función Medallas ⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_esp.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Día de Pokémon
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	Se ha podido comprobar que la versión de Pokémon HOME
 sp_option_nalink_0045_v2	Asegúrate de que <u><b>el ID de usuario que aparece en la</b></u>\n<u><b>pantalla del título</b></u> de la versión de Pokémon HOME\npara dispositivos móviles que estás usando se corresponde\ncon el ID que se muestra a continuación.
 sp_option_nalink_0046_v2	¿Quieres transferir los datos de la versión para dispositivos\nmóviles antes de comenzar?
 sp_option_nalink_0047	Regalos misteriosos en la versión de Pokémon HOME\npara dispositivos móviles
+sp_option_nalink_0048	Medallas en la versión de Pokémon HOME para dispositivos\nmóviles
 sp_option_holohlo_0001_vgo	Conexión con Pokémon GO
 sp_option_holohlo_0004_vgo	Recibir Pokémon
 sp_option_holohlo_0005_vgo	Recibir Pokémon
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	Si tu cuenta de Pokémon HOME está v
 sp_option_userdel_confirm2_body_v11	Si cuentas con una suscripción al plan prémium, esta no se\ncancelará automáticamente al eliminar tu cuenta de\nPokémon HOME. La forma de cancelar tu suscripción\ndepende de en qué versión de Pokémon HOME te\nsuscribiste en primer lugar.\n\nSi te suscribiste en la versión de Nintendo Switch, deberás\ncancelar la suscripción a través de la Nintendo eShop.\n\nSi te suscribiste en la versión para iOS, deberás cancelarla\na través de la App Store.\n\nSi te suscribiste en la versión para Android, deberás\ncancelarla a través de Google Play Store.\n\nTen en cuenta que no efectuaremos reembolsos de ningún\ncobro que se dé como consecuencia de habérsete olvidado\ncancelar el plan prémium, ni tampoco podremos responder\na ninguna consulta relacionada con ello.
 sp_option_userdel_confirm3_title_v11	Confirmación final
 sp_option_userdel_confirm3_body_v11	Las cuentas eliminadas no se pueden recuperar. Se perderá\npermanentemente todo el progreso que hayas conseguido,\ncomo los logros y las entradas de la Pokédex.\n\n¿Seguro que quieres eliminar tu cuenta?
+sp_option_company_info	Información de la empresa
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_esp.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	Inicializando el método de pago...
 sp_plan_help_button	Ayuda sobre el plan prémium
 sp_plan_help_detail_button	■Acerca del plan prémium\nEl plan prémium permite realizar las siguientes operaciones:\n・Depositar hasta 6000 Pokémon.\n・Trasladar Pokémon desde el Banco de Pokémon. (Es necesario\nvincular una cuenta Nintendo para utilizar esta función).\n・Usar la función Juez en la pantalla de datos de los Pokémon.\n・Ofrecer hasta tres Pokémon a la vez en el GTS.\n・Depositar hasta diez Pokémon a la vez en la caja prodigiosa.\n・Crear grupos para realizar intercambios en grupo.
 sp_plan_help_title	Acerca de las suscripciones
-sp_plan_help_text	■Qué puedes hacer con el plan prémium\n・Trasladar Pokémon desde el Banco de Pokémon.\n・Depositar hasta 6000 Pokémon.\n・Depositar hasta diez Pokémon a la vez en la caja prodigiosa.\n・Ofrecer hasta tres Pokémon a la vez en el GTS.\n・Crear grupos para realizar intercambios en grupo.\n・Usar la función Juez.
+sp_plan_help_text	■Qué puedes hacer con el plan prémium\n・Trasladar Pokémon desde el Banco de Pokémon.\n・Depositar hasta 6000 Pokémon.\n・Depositar hasta diez Pokémon a la vez en la caja prodigiosa.\n・Ofrecer hasta tres Pokémon a la vez en el GTS.\n・Crear grupos para realizar intercambios en grupo.\n・Usar la función Juez.\n・Acumular un máximo de 1000 medallas.
 sp_plan_control_link_button	Gestión de la suscripción
 sp_plan_name_30_android_v2	<b>Suscripción de 1 mes</b>
 sp_plan_name_90_android_v2	<b>Suscripción de 3 meses</b>

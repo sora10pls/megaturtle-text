@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	否
 sp_languageconfirm_004	确认所选语言
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_sch.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	持有的奖牌
+sp_medal_top_trade_gift	交换／礼物
+sp_medal_top_event	相关活动
+sp_medal_top_report	奖牌记录
+sp_medal_top_read	读取
+sp_medal_error	错误
+sp_medal_menu_nalink_none	使用奖牌功能需关联 Nintendo Account。
+sp_medal_stock_limit_title	奖牌持有上限
+sp_medal_stock_limit_main	奖牌已满。
+sp_medal_stock_limit_desc	[VAR 0117(0000)]可持有 [VAR 0200(0001)]枚奖牌（当前持有[VAR 0200(0002)]枚）。
+sp_medal_stock_limit_howto_1	如何解决……
+sp_medal_stock_limit_howto_2	・通过“礼物”或“舍弃”来减少奖牌。
+sp_medal_stock_limit_howto_3	・加入“进阶方案”。
+sp_medal_stock_limit_howto_4	（上限将增加至[VAR 0203(0000)]枚。）
+sp_medal_close	关闭
+sp_medal_stock_limit_join_plan	加入方案
+sp_medal_menu_title	奖牌
+sp_medal_stock_limit_howto_5	显示方法已更改为免费盒子。 仅可使用最近获得的30枚奖牌。 要使用不在免费盒子内的奖牌， 请再次加入进阶方案。
+sp_medal_stock_title	持有的奖牌（[VAR 0203(0000)]）
+sp_medal_search	搜索
+sp_medal_stock_nodata	没有可显示的奖牌。
+sp_medal_detail_number	No.
+sp_medal_detail_create_at	获得日期
+sp_medal_detail_location	地点
+sp_medal_detail_category	分类
+sp_medal_detail_distr_period	发放期间
+sp_medal_detail_log	奖牌历史
+sp_medal_detail_gift_button	赠送
+sp_medal_release	舍弃
+sp_medal_detail_traded_check_button	确认交换申请
+sp_medal_detail_trading	正在准备交换此奖牌。
+sp_medal_detail_traded_select_button	交换
+sp_medal_detail_log_create	由[VAR 0100(0000)]发行。
+sp_medal_detail_log_trade	[VAR 0100(0000)]通过交换获得。
+sp_medal_detail_log_gift	[VAR 0100(0000)]通过礼物获得。
+sp_medal_detail_log_button	查看更多历史
+sp_medal_reselect	重新选择
+sp_medal_gift_send	赠送
+sp_medal_result_gift_send_title	已赠送！
+sp_medal_result_gift_send_medal	已赠送的奖牌
+sp_medal_result_gift_send_done	赠送给了[VAR 0100(0000)]。
+sp_medal_release_title	舍弃
+sp_medal_release_confirm_1	确定要舍弃吗？
+sp_medal_release_confirm_2	※舍弃的奖牌无法复原。
+sp_medal_release_confirm_3	※舍弃的奖牌也会显示在奖牌记录中。
+sp_medal_release_done	已舍弃以上奖牌。
+sp_medal_error_gift_send_limit	1天最多只能赠送[VAR 0201(0000)]件礼物。
+sp_medal_filter_name	奖牌名称
+sp_medal_filter_location	发行地点
+sp_medal_sort_getdate	获得日期
+sp_medal_sort_location	发行地点
+sp_medal_detail_log_title	历史
+sp_medal_stock_no_medal	没有奖牌。
+sp_medal_except_freebox	不在免费盒子内的奖牌
+sp_medal_cert	奖牌鉴定书
+sp_medal_detail_gifting	正在准备赠送此奖牌。
+sp_medal_date	日期
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	已删除的用户
+sp_medal_number_range	～
+sp_medal_deliver_title	交换／礼物
+sp_medal_deliver_trade	交换
+sp_medal_deliver_gift	礼物
+sp_medal_deliver_nodata	没有可显示的交换申请／礼物。
+sp_medal_deliver_item_trade_from	来自[VAR 0100(0000)]的交换申请。
+sp_medal_deliver_item_trade_to	发给[VAR 0100(0000)]的交换申请。
+sp_medal_deliver_item_trade_comp	与[VAR 0100(0000)] 交换成功！
+sp_medal_deliver_item_trade_cancel	已取消与[VAR 0100(0000)]的交换。
+sp_medal_deliver_item_gift_from	来自[VAR 0100(0000)]的礼物。
+sp_medal_deliver_item_gift_cancel	已取消要送给[VAR 0100(0000)]的礼物。
+sp_medal_confirm	确认
+sp_medal_result_trade_offer_title	已发送交换申请！
+sp_medal_result_trade_offer_medal	正在申请交换的奖牌
+sp_medal_result_trade_offer_done	已向[VAR 0100(0000)]发送交换申请。
+sp_medal_result_trade_comp_title	已交换！
+sp_medal_result_trade_comp_medal	收到的奖牌
+sp_medal_result_trade_comp_done	已与[VAR 0100(0000)]交换。
+sp_medal_result_detail	查看详情
+sp_medal_result_gift_recv_title	已接收奖牌！
+sp_medal_result_gift_recv_medal	接收的奖牌
+sp_medal_result_gift_recv_done	接收自[VAR 0100(0000)]。
+sp_medal_offer_title	交换申请
+sp_medal_offer_trade_from	来自[VAR 0100(0000)]的交换申请。
+sp_medal_offer_recv_medal	要接收的奖牌
+sp_medal_offer_send_medal	要赠送的奖牌
+sp_medal_offer_select	选择奖牌
+sp_medal_offer_exec	交换
+sp_medal_offer_trade_to	正在与[VAR 0100(0000)]交换。
+sp_medal_offer_cancel	中止
+sp_medal_offer_cancel_title	中止交换
+sp_medal_offer_cancel_confirm	要中止此交换吗？
+sp_medal_offer_cancel_no	不中止
+sp_medal_offer_cancel_yes	中止
+sp_medal_offer_cancel_done	已中止交换。
+sp_medal_friend_no_nalink	由于此好友是游客账号， 因此无法使用奖牌功能。
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	中止交换
+sp_medal_trade_cancel_done	已中止此交换。
+sp_medal_gift_cancel_title	中止赠送礼物
+sp_medal_gift_cancel_done	已中止赠送此礼物。
+sp_medal_sort_date	日期
+sp_medal_error_trade_sametime	最多只能同时进行[VAR 0201(0000)]件交换。 请确认自己发送的交换申请， 减少交换申请的数量。
+sp_medal_error_gift_recv_limit	1天最多只能接收[VAR 0201(0000)]件礼物。
+sp_medal_error_deliver_limit	无法显示更多的交换／礼物。 请确认交换／礼物一览， 结束正在进行的交换， 或接收尚未接收的礼物。
+sp_medal_error_trade_limit	1天最多只能进行[VAR 0201(0000)]件交换。
+sp_medal_error_deliver_others_limit	由于此好友当前的 交换／礼物数量已达上限， 因此无法使用交换／礼物功能。
+sp_medal_error_trade_progress	与此好友的交换／礼物已在进行。 请先完成该交换／礼物。
+sp_medal_trade_title	交换奖牌
+sp_medal_trade_method_friend	与好友交换
+sp_medal_trade_method_qr	使用二维码交换
+sp_medal_trade_method_serial	使用序列号交换
+sp_medal_trade_qr_confirm	显示二维码
+sp_medal_trade_qr_read	读取二维码
+sp_medal_qr_confirm_title	你的二维码
+sp_medal_code_expire_remain	有效期还剩：
+sp_medal_qr_read_title	读取二维码
+sp_medal_serial_title	序列号
+sp_medal_trade_serial_confirm	请输入交换对象的序列号。
+sp_medal_serial_placeholder	轻点以输入序列号。
+sp_medal_serial_your_code	你的序列号
+sp_medal_serial_confirm	确认
+sp_medal_code_expired_retry	输入的序列号已失效。 请发行新的序列号， 然后再试一次。
+sp_medal_code_failed_limit	由于连续输入错误的序列号， 将暂时限制使用此功能。 ※限制将在显示错误信息的24小时后解除。
+sp_medal_friend_title	奖牌
+sp_medal_friend_add	+ 添加好友
+sp_medal_friend_none	没有可显示的好友。 请添加好友。
+sp_medal_gift_recv	接收礼物
+sp_medal_gift_recv_confirm	今天还可以接收[VAR 0201(0000)]个礼物。 确定要接收这个礼物吗？
+sp_medal_gift_recv_no	不接收
+sp_medal_gift_recv_yes	接收
+sp_medal_code_expired	已失效
+sp_medal_gift_reject_title	拒绝接收礼物
+sp_medal_gift_reject_confirm	要拒绝接收此礼物吗？
+sp_medal_gift_reject_no	不拒绝
+sp_medal_gift_reject_yes	拒绝
+sp_medal_gift_reject_done	已拒绝接收礼物。
+sp_medal_deliver_no_medal	没有任何奖牌。
+sp_medal_gift_title	奖牌礼物
+sp_medal_gift_mode_send	赠送礼物
+sp_medal_gift_mode_recv	接收礼物
+sp_medal_cancel	取消
+sp_medal_gift_send_friend	给好友赠送礼物
+sp_medal_gift_send_qr	使用二维码赠送礼物
+sp_medal_gift_send_serial	使用序列号赠送礼物
+sp_medal_gift_serial_input	请输入赠送对象的序列号。
+sp_medal_gift_recv_qr	使用二维码接收
+sp_medal_gift_recv_serial	使用序列号接收
+sp_medal_gift_serial_explain	请将下列序列号告诉赠送对象。
+sp_medal_gift_recv_explain	收到了礼物！ 请确认交换申请／礼物一览。
+sp_medal_deliver_item_gift_to	送给[VAR 0100(0000)]的礼物。
+sp_medal_offer_gift_to	送给[VAR 0100(0000)]的礼物。
+sp_medal_offer_gift_cancel_confirm	要中止赠送此礼物吗？
+sp_medal_trade_serial_show	显示序列号
+sp_medal_trade_serial_input	输入序列号
+sp_medal_trade_serial_explain	请将下列序列号告诉交换对象。
+sp_medal_trade_recv_explain	收到了交换申请！ 请确认交换申请／礼物一览。
+sp_medal_event_list_title	相关活动
+sp_medal_event_detail_title	活动详情
+sp_medal_event_detail_url	网址
+sp_medal_event_detail_medal	可在此活动获得的奖牌
+sp_medal_event_filter_location	活动举办地区
+sp_medal_read_title	读取奖牌
+sp_medal_read_method_main	要使用哪个功能读取？
+sp_medal_read_method_gps	区域确认
+sp_medal_read_method_nfc	读取NFC
+sp_medal_read_gps_list_title	可在此区域接收的奖牌
+sp_medal_read_obtain_main	已发行奖牌！
+sp_medal_read_obtain_name	发行的奖牌
+sp_medal_read_obtain_detail	查看详情
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	下一页
+sp_medal_read_error_already_obtain	已接收过此奖牌。 距离再次发行还剩：
+sp_medal_read_error_already_desc1	相同的奖牌1天最多只能发行1枚。
+sp_medal_read_error_already_desc2	※会在每天北京时间08:00被重置。
+sp_medal_read_error_before_start	尚未开始发放的奖牌。  发放开始日期：
+sp_medal_read_error_after_end	已结束发放的奖牌。
+sp_medal_read_error_create_limit	已达发行上限的奖牌。
+sp_medal_read_gps_init	正在初始化GPS……
+sp_medal_read_gps_confirm	请开启GPS功能。 ※请重新确认设备的设置。
+sp_medal_read_gps_failed	无法启动GPS。
+sp_medal_return	返回
+sp_medal_read_nfc_main	请扫描NFC标签。
+sp_medal_read_nfc_done	读取成功！
+sp_medal_read_nfc_failed	读取失败。
+sp_medal_read_nfc_unrelated	不支持此NFC标签。
+sp_medal_read_nfc_timeout	已超时，请重试。
+sp_medal_read_method_none	你所使用的设备环境 无法使用读取功能。
+sp_medal_read_gps_nodata	没有可在此区域接收的奖牌。
+sp_medal_report_title	奖牌记录
+sp_medal_report_cell_year_month	[VAR 0203(0000)]年[VAR 0201(0001)]月
+sp_medal_report_gift	从[VAR 0100(0000)]那里收到了以上奖牌！
+sp_medal_report_gave	将以上奖牌赠送给了[VAR 0100(0000)]！
+sp_medal_report_trade	已与[VAR 0100(0000)]交换！  收到的奖牌
+sp_medal_report_trade_2	送出的奖牌
+sp_medal_report_create	已发行以上奖牌！
+sp_medal_report_release	已舍弃以上奖牌。
+sp_medal_report_dialog_button	记录
+sp_medal_report_acquired	已获得的奖牌
+sp_medal_report_exchanged	已交换的奖牌
+sp_medal_report_give	已赠送的奖牌
+sp_medal_report_received	收到的奖牌
+sp_medal_quantity	[VAR 0203(0000)]枚
+sp_medal_report_obtain	已发行的奖牌
+sp_medal_mainte_title	系统维护
+sp_medal_mainte_body	奖牌功能正在进行系统维护。 奖牌功能以外的《Pokémon HOME》的其他功能可以正常使用。 预定结束时间：[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_error_system_limit	你的账号已受到限制， 无法使用奖牌功能。
+sp_medal_error_common_go_home	发生错误。 即将返回我的首页画面。 错误代码：[VAR 0200(0000)]
+sp_medal_error_common	发生错误。 请重新执行操作。 错误代码：[VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	序列号错误。 错误代码：[VAR 0200(0000)]
+sp_medal_error_deliver_status	交换／礼物的对象已更新状态。 请再次确认交换／礼物一览。 错误代码：[VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	奖牌功能正在进行系统维护。 奖牌功能以外的《Pokémon HOME》的 其他功能可以正常使用。
+sp_medal_tutorial_0001	嗨～！我是萌宝哦萌！ 《Pokémon HOME》追加了 “奖牌”这个新玩法哦， 让我来教你如何使用萌！
+sp_medal_tutorial_0002	前往特定的地点， 或是参加活动的回忆， 都能作为“奖牌”保存起来哦萌！
+sp_medal_tutorial_0003	获得的奖牌的详情 可以随时确认哦萌！ 希望你能通过奖牌来回顾 “何时”“前往了何地”的美好回忆萌！
+sp_medal_tutorial_0004	奖牌可以和好友交换， 也可以赠送哦萌！ 就像旅行的纪念品一样， 分享你的回忆吧萌！
+sp_medal_tutorial_0005	奖牌的获得方法在 “相关活动”就能找到萌！ 能获得的奖牌会根据时期和地点改变， 要记得常常确认哦萌～！
+sp_medal_tutorial_0006	奖牌就简单介绍到这里萌！ 也要记得通过帮助 看看其他详细信息哦萌！
+sp_medal_tutorial_0007	最后！我有礼物给你哦萌！ 为了纪念你第一次使用奖牌功能， 我要送你奖牌萌！
+sp_medal_tutorial_0008	我会送你3枚相同图案的奖牌， 和好友聊聊你们分别获得了什么图案， 或是通过交换和赠送来享受乐趣吧萌！
+sp_medal_tutorial_stock_0001	你可以在一览中 确认自己持有的奖牌哦萌！
+sp_medal_tutorial_stock_0002	进阶方案可以持有许多奖牌， 所以相同图案的奖牌会一并显示哦萌！
+sp_medal_tutorial_stock_0003	你可以在详细信息画面确认 奖牌是由谁在何时获得的， 以及至今为止的经手信息哦萌！
+sp_medal_tutorial_stock_0004	经手过越多的人， 奖牌的记录就会越长哦萌！ 可以感受到奖牌中铭刻的历史萌～
+sp_medal_tutorial_stock_0005	想1枚1枚查看奖牌详情时， 就选择想确认的奖牌吧萌！
+sp_medal_tutorial_tradegift_0001	你可以在这里享受 交换和赠送奖牌的乐趣萌！
+sp_medal_tutorial_tradegift_0002	每次只能交换1枚奖牌萌！ 你和对方要各选1枚 想要交换的奖牌， 然后向彼此展示哦萌！
+sp_medal_tutorial_tradegift_0003	确认彼此想要交换的奖牌， 没问题的话，交换就成功了萌！ 只要有一方不同意， 交换就会失败哦萌！
+sp_medal_tutorial_tradegift_0004	礼物功能就是把你持有的奖牌送给对方， 但不从对方那里接收奖牌哦萌！
+sp_medal_tutorial_tradegift_0005	选择1枚你想要赠送的奖牌， 只要对方愿意接收就能赠送成功萌！ 无法单方面赠送礼物哦萌！
+sp_medal_tutorial_tradegift_0006	和亲朋好友交换和赠送奖牌， 分享美好回忆吧萌！
+sp_medal_tutorial_event_0001	在这个画面可以查询 奖牌是何时何地获得的哦萌！
+sp_medal_tutorial_event_0002	能获得奖牌的活动会根据 时期和居住地区而改变， 建议你常常来确认一下哦萌！
+sp_medal_tutorial_report_0001	你可以在这里确认自己的 奖牌相关记录哦萌！
+sp_medal_tutorial_report_0002	可以回顾至今为止获得的奖牌总数， 以及通过交换和礼物 获得的奖牌数量哦萌！
+sp_medal_tutorial_report_0003	获得的奖牌越多， 回顾起来就越快乐哦萌！
+sp_medal_tutorial_obtain_title	奖牌功能教程
+sp_medal_category_other	其他
+sp_medal_name_00000_tutorial_01	开始使用奖牌纪念①
+sp_medal_name_00000_tutorial_02	开始使用奖牌纪念②
+sp_medal_name_00000_tutorial_03	开始使用奖牌纪念③
+sp_medal_name_00000_tutorial_04	开始使用奖牌纪念④
+sp_medal_name_00000_tutorial_05	开始使用奖牌纪念⑤
+sp_medal_name_00000_tutorial_06	开始使用奖牌纪念⑥
+sp_medal_name_00000_tutorial_07	开始使用奖牌纪念⑦
+sp_medal_name_00000_tutorial_08	开始使用奖牌纪念⑧
+sp_medal_name_00000_tutorial_09	开始使用奖牌纪念⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_sch.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	在已关联的Nintendo Account内 确认到了智能�
 sp_option_nalink_0045_v2	请确认至今为止所使用的 智能手机版Pokémon HOME <u><b>标题画面所显示的客服编码</b></u> 是否与下方编码一致。
 sp_option_nalink_0046_v2	要继承智能手机版Pokémon HOME的 数据并开始吗？
 sp_option_nalink_0047	使用智能手机版 《Pokémon HOME》的“神秘礼物”
+sp_option_nalink_0048	使用智能手机版 《Pokémon HOME》的“奖牌”
 sp_option_holohlo_0001_vgo	关联Pokémon GO
 sp_option_holohlo_0004_vgo	接收
 sp_option_holohlo_0005_vgo	接收
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	若已关联Nintendo Account， 则�
 sp_option_userdel_confirm2_body_v11	若加入了进阶方案， 即使删除账号， 进阶方案也不会自动解约。 请务必自行通过购买进阶方案的 各商店办理解约手续。  ・从Nintendo Switch版购买的用户 　⇒“Nintendo eShop” ・从iOS版购买的用户 　⇒“App Store” ・从Android版购买的用户 　⇒“Google Play 商店”  我们无法对忘记解除进阶方案的用户进行退款， 也无法对应相关咨询。
 sp_option_userdel_confirm3_title_v11	最终确认
 sp_option_userdel_confirm3_body_v11	账号一旦删除，将无法复原。 目前为止在此应用程序游玩的 记录、图鉴和成就等所有信息都会消失。 确定要删除账号吗？
+sp_option_company_info	公司信息
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_sch.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	消费系统正在初始化……
 sp_plan_help_button	进阶方案帮助
 sp_plan_help_detail_button	■关于进阶方案 进阶方案可使用以下功能。 ・最多可寄放6000只宝可梦。 ・将《宝可梦虚拟银行》里的宝可梦转移过来。 　※需关联Nintendo Account。 ・在宝可梦详细信息画面使用评定功能。 ・同时往GTS里寄放3只宝可梦。 ・同时往奇迹盒子里寄放10只宝可梦。 ・在群组交换中创建群组。
 sp_plan_help_title	关于订阅服务
-sp_plan_help_text	■进阶方案可实现的功能 ・将《宝可梦虚拟银行》里的宝可梦转移过来。 ・最多可寄放6000只宝可梦。 ・同时往奇迹盒子里寄放10只宝可梦。 ・同时往GTS里寄放3只宝可梦。 ・举办群组交换。 ・使用评定功能。
+sp_plan_help_text	■进阶方案可实现的功能 ・将《宝可梦虚拟银行》里的宝可梦转移过来。 ・最多可寄放6000只宝可梦。 ・同时往奇迹盒子里寄放10只宝可梦。 ・同时往GTS里寄放3只宝可梦。 ・举办群组交换。 ・使用评定功能。 ・最多可持有1000枚奖牌。
 sp_plan_control_link_button	管理定期购买
 sp_plan_name_30_android_v2	<b>１个月方案</b>
 sp_plan_name_90_android_v2	<b>３个月方案</b>

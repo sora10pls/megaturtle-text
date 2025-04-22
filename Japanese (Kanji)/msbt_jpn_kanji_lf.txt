@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	いいえ
 sp_languageconfirm_004	選択した 言語の 確認
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_jpn_kanji.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	持っているメダル
+sp_medal_top_trade_gift	交換／ギフト
+sp_medal_top_event	関連イベント
+sp_medal_top_report	メダルレポート
+sp_medal_top_read	読み取る
+sp_medal_error	エラー
+sp_medal_menu_nalink_none	メダル機能を　利用するには\nニンテンドーアカウントとの\n連携が　必要です
+sp_medal_stock_limit_title	メダル所持数上限
+sp_medal_stock_limit_main	メダルがいっぱいです
+sp_medal_stock_limit_desc	[VAR 0117(0000)]で持てるメダルは\n[VAR 0200(0001)]枚です（現在[VAR 0200(0002)]枚）
+sp_medal_stock_limit_howto_1	解決するには……
+sp_medal_stock_limit_howto_2	・「ギフト」や「手放す」でメダルを減らす
+sp_medal_stock_limit_howto_3	・「プレミアムプラン」に加入する
+sp_medal_stock_limit_howto_4	（上限が[VAR 0203(0000)]枚に増えます）
+sp_medal_close	閉じる
+sp_medal_stock_limit_join_plan	プランに加入
+sp_medal_menu_title	メダル
+sp_medal_stock_limit_howto_5	表示形式がフリーボックスに変更されました。\n直近の30枚のみ利用可能になります。\nフリーボックス以外のメダルを利用するためには\n再度プレミアムプランに加入ください。
+sp_medal_stock_title	持っているメダル（[VAR 0203(0000)]）
+sp_medal_search	検索
+sp_medal_stock_nodata	表示できるメダルは\nありません
+sp_medal_detail_number	No.
+sp_medal_detail_create_at	入手日
+sp_medal_detail_location	場所
+sp_medal_detail_category	カテゴリ
+sp_medal_detail_distr_period	配布期間
+sp_medal_detail_log	メダルの歴史
+sp_medal_detail_gift_button	ギフトする
+sp_medal_release	手放す
+sp_medal_detail_traded_check_button	交換希望を確認
+sp_medal_detail_trading	このメダルは交換に出しています
+sp_medal_detail_traded_select_button	交換する
+sp_medal_detail_log_create	[VAR 0100(0000)]が発行
+sp_medal_detail_log_trade	[VAR 0100(0000)]が交換で入手
+sp_medal_detail_log_gift	[VAR 0100(0000)]がギフトで入手
+sp_medal_detail_log_button	歴史をもっと見る
+sp_medal_reselect	選び直す
+sp_medal_gift_send	ギフトする
+sp_medal_result_gift_send_title	ギフト完了！
+sp_medal_result_gift_send_medal	ギフトしたメダル
+sp_medal_result_gift_send_done	[VAR 0100(0000)]にギフトしました
+sp_medal_release_title	手放す
+sp_medal_release_confirm_1	本当に　手放しますか？
+sp_medal_release_confirm_2	※手放したメダルを\n復元することは　できません
+sp_medal_release_confirm_3	※メダルレポートには\n手放したメダルも表示されます
+sp_medal_release_done	を　手放しました
+sp_medal_error_gift_send_limit	ギフトは１日に　[VAR 0201(0000)]件までしか\n贈ることができません
+sp_medal_filter_name	メダル名
+sp_medal_filter_location	発行場所
+sp_medal_sort_getdate	入手日
+sp_medal_sort_location	発行場所
+sp_medal_detail_log_title	歴史
+sp_medal_stock_no_medal	メダルを持っていません
+sp_medal_except_freebox	フリーボックス以外のメダル
+sp_medal_cert	メダル鑑定書
+sp_medal_detail_gifting	このメダルはギフトに出しています
+sp_medal_date	日時
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	削除済みユーザー
+sp_medal_number_range	～
+sp_medal_deliver_title	交換／ギフト
+sp_medal_deliver_trade	交換
+sp_medal_deliver_gift	ギフト
+sp_medal_deliver_nodata	表示できる交換希望／ギフトは\nありません
+sp_medal_deliver_item_trade_from	[VAR 0100(0000)]からの交換希望
+sp_medal_deliver_item_trade_to	[VAR 0100(0000)]への交換希望
+sp_medal_deliver_item_trade_comp	[VAR 0100(0000)]との\n交換が成立しました！
+sp_medal_deliver_item_trade_cancel	[VAR 0100(0000)]との交換が\nキャンセルされました
+sp_medal_deliver_item_gift_from	[VAR 0100(0000)]からのギフト
+sp_medal_deliver_item_gift_cancel	[VAR 0100(0000)]へのギフトが\nキャンセルされました
+sp_medal_confirm	確認する
+sp_medal_result_trade_offer_title	交換希望を送りました！
+sp_medal_result_trade_offer_medal	交換希望中のメダル
+sp_medal_result_trade_offer_done	[VAR 0100(0000)]に交換希望を送りました
+sp_medal_result_trade_comp_title	交換完了！
+sp_medal_result_trade_comp_medal	もらったメダル
+sp_medal_result_trade_comp_done	[VAR 0100(0000)]と交換しました
+sp_medal_result_detail	詳しく見る
+sp_medal_result_gift_recv_title	メダルを受け取りました！
+sp_medal_result_gift_recv_medal	受け取ったメダル
+sp_medal_result_gift_recv_done	[VAR 0100(0000)]から受け取った
+sp_medal_offer_title	交換希望
+sp_medal_offer_trade_from	[VAR 0100(0000)]からの交換希望
+sp_medal_offer_recv_medal	受け取るメダル
+sp_medal_offer_send_medal	贈るメダル
+sp_medal_offer_select	メダルを選ぶ
+sp_medal_offer_exec	交換する
+sp_medal_offer_trade_to	[VAR 0100(0000)]と交換中
+sp_medal_offer_cancel	中止する
+sp_medal_offer_cancel_title	交換の中止
+sp_medal_offer_cancel_confirm	この交換を　中止しますか？
+sp_medal_offer_cancel_no	中止しない
+sp_medal_offer_cancel_yes	中止する
+sp_medal_offer_cancel_done	交換を　中止しました
+sp_medal_friend_no_nalink	このフレンドは　ゲストアカウントのため\nメダル機能を　利用することができません
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	交換の中止
+sp_medal_trade_cancel_done	この交換は　中止されました
+sp_medal_gift_cancel_title	ギフトの中止
+sp_medal_gift_cancel_done	このギフトは　中止されました
+sp_medal_sort_date	日時
+sp_medal_error_trade_sametime	同時に進められる交換は\n[VAR 0201(0000)]件までです\n自分から送っている\n交換希望を　確認して\n交換希望の数を　減らしてください
+sp_medal_error_gift_recv_limit	ギフトは１日に　[VAR 0201(0000)]件までしか\n受け取ることができません
+sp_medal_error_deliver_limit	これ以上交換／ギフトを\n表示できません\n交換／ギフト一覧を　確認して\n今進めている交換を　終わらせるか\n受け取っていないギフトを　受け取ってください
+sp_medal_error_trade_limit	交換は　１日に　[VAR 0201(0000)]件までしか\n実行することが　できません
+sp_medal_error_deliver_others_limit	このフレンドは　現在\n交換／ギフトの数が\n上限に達しているため\n交換／ギフトを　することができません
+sp_medal_error_trade_progress	このフレンドと進行中の\n交換／ギフトが　あります\n先にその交換／ギフトを\n完了してください
+sp_medal_trade_title	メダル交換
+sp_medal_trade_method_friend	フレンドと　交換
+sp_medal_trade_method_qr	２次元コードで　交換
+sp_medal_trade_method_serial	シリアルコード　で交換
+sp_medal_trade_qr_confirm	２次元コードを　表示
+sp_medal_trade_qr_read	２次元コードを　読み取る
+sp_medal_qr_confirm_title	あなたの２次元コード
+sp_medal_code_expire_remain	コード有効期限残り
+sp_medal_qr_read_title	２次元コード読み取り
+sp_medal_serial_title	シリアルコード
+sp_medal_trade_serial_confirm	交換相手のシリアルコードを\n入力してください
+sp_medal_serial_placeholder	タップしてシリアルコードを入力
+sp_medal_serial_your_code	あなたのシリアルコード
+sp_medal_serial_confirm	確認
+sp_medal_code_expired_retry	入力したコードの\n有効期限が　切れています\n新しくコードを　発行したのち\n再度お試しください
+sp_medal_code_failed_limit	コードの入力失敗が\n連続したため\n一時的に　機能を　制限しています\n※機能解除は\nエラー表示から24時間後です
+sp_medal_friend_title	メダル
+sp_medal_friend_add	+ フレンド追加
+sp_medal_friend_none	表示できるフレンドは　いません\nフレンド追加を　行ってください
+sp_medal_gift_recv	ギフトの受け取り
+sp_medal_gift_recv_confirm	今日は　残り[VAR 0201(0000)]個まで\nギフトを　受け取れます\nこのギフトを　受け取ってもよろしいですか？
+sp_medal_gift_recv_no	受け取らない
+sp_medal_gift_recv_yes	受け取る
+sp_medal_code_expired	有効期限切れ
+sp_medal_gift_reject_title	ギフトの受け取り拒否
+sp_medal_gift_reject_confirm	このギフトの受け取りを　拒否しますか？
+sp_medal_gift_reject_no	拒否しない
+sp_medal_gift_reject_yes	拒否する
+sp_medal_gift_reject_done	ギフト受け取りを　拒否しました
+sp_medal_deliver_no_medal	メダルを　1枚も所持していません
+sp_medal_gift_title	メダルギフト
+sp_medal_gift_mode_send	ギフトをあげる
+sp_medal_gift_mode_recv	ギフトをもらう
+sp_medal_cancel	キャンセル
+sp_medal_gift_send_friend	フレンドに　ギフト
+sp_medal_gift_send_qr	２次元コードで　ギフト
+sp_medal_gift_send_serial	シリアルコードで　ギフト
+sp_medal_gift_serial_input	ギフト相手のシリアルコードを\n入力して下さい
+sp_medal_gift_recv_qr	２次元コードでもらう
+sp_medal_gift_recv_serial	シリアルコードでもらう
+sp_medal_gift_serial_explain	ギフトをもらう相手に\n以下のシリアルコードを　伝えてください
+sp_medal_gift_recv_explain	ギフトが　届きました！\n交換希望／ギフト一覧を\n確認してください
+sp_medal_deliver_item_gift_to	[VAR 0100(0000)]へのギフト
+sp_medal_offer_gift_to	[VAR 0100(0000)]へのギフト
+sp_medal_offer_gift_cancel_confirm	このギフトを　中止しますか？
+sp_medal_trade_serial_show	シリアルコードを　表示
+sp_medal_trade_serial_input	シリアルコードを　入力
+sp_medal_trade_serial_explain	交換相手に\n以下のシリアルコードを　伝えてください
+sp_medal_trade_recv_explain	交換希望が　届きました！\n交換希望／ギフト一覧を確認してください
+sp_medal_event_list_title	関連イベント
+sp_medal_event_detail_title	イベント詳細
+sp_medal_event_detail_url	URL
+sp_medal_event_detail_medal	このイベントでもらえるメダル
+sp_medal_event_filter_location	イベント開催地域
+sp_medal_read_title	メダル読み取り
+sp_medal_read_method_main	どの機能で読み取りますか？
+sp_medal_read_method_gps	エリアチェック
+sp_medal_read_method_nfc	NFC読み取り
+sp_medal_read_gps_list_title	このエリアで　受け取れるメダル
+sp_medal_read_obtain_main	メダルを　発行しました！
+sp_medal_read_obtain_name	発行したメダル
+sp_medal_read_obtain_detail	詳しく見る
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	次へ
+sp_medal_read_error_already_obtain	既に　受け取ったメダルです\n発行できるまであと
+sp_medal_read_error_already_desc1	同じメダルの発行は　１日１回までです
+sp_medal_read_error_already_desc2	※毎日0時(UTC)に　リセットされます
+sp_medal_read_error_before_start	配布開始前のメダルです\n\n発行開始日は
+sp_medal_read_error_after_end	配布が　終了したメダルです
+sp_medal_read_error_create_limit	発行上限に　達したメダルです
+sp_medal_read_gps_init	GPSを　初期化中です
+sp_medal_read_gps_confirm	GPS機能を　オンにしてください\n※ご利用の端末の設定を\n見直してください
+sp_medal_read_gps_failed	GPSが　起動できません
+sp_medal_return	もどる
+sp_medal_read_nfc_main	NFCタグに　かざしてください
+sp_medal_read_nfc_done	読み取りに　成功しました！
+sp_medal_read_nfc_failed	読み取りに　失敗しました
+sp_medal_read_nfc_unrelated	対応していないNFCタグです
+sp_medal_read_nfc_timeout	タイムアウトしました\nもう一度お試しください
+sp_medal_read_method_none	ご利用の環境では\n読み取り機能が　利用できません
+sp_medal_read_gps_nodata	このエリアで受け取れるメダルは　ありません
+sp_medal_report_title	メダルレポート
+sp_medal_report_cell_year_month	[VAR 0203(0000)]年[VAR 0201(0001)]月
+sp_medal_report_gift	を[VAR 0100(0000)]からもらった！
+sp_medal_report_gave	を[VAR 0100(0000)]にギフトした！
+sp_medal_report_trade	[VAR 0100(0000)]と交換した！\n\n受け取ったメダル
+sp_medal_report_trade_2	渡したメダル
+sp_medal_report_create	を発行した！
+sp_medal_report_release	を手放した
+sp_medal_report_dialog_button	記録
+sp_medal_report_acquired	手に入れた　メダル
+sp_medal_report_exchanged	交換した　メダル
+sp_medal_report_give	ギフトした　メダル
+sp_medal_report_received	ギフトされた　メダル
+sp_medal_quantity	[VAR 0203(0000)]枚
+sp_medal_report_obtain	発行した　メダル
+sp_medal_mainte_title	メンテナンス
+sp_medal_mainte_body	メダル機能は　現在メンテナンス中です\nメダル機能以外の『Pokémon HOME』の\n機能はご利用いただけます\n終了予定　[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_error_system_limit	現在お客様のアカウントでは\nメダル機能の利用が制限されています
+sp_medal_error_common_go_home	エラーが発生しました。\nマイルーム画面に戻ります。\nエラーコード：[VAR 0200(0000)]
+sp_medal_error_common	エラーが発生しました。\n操作をやり直してください。\nエラーコード：[VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	コードが間違っています。\nエラーコード：[VAR 0200(0000)]
+sp_medal_error_deliver_status	交換／ギフトの相手が　ステータスを更新しました。\nもう一度　交換／ギフト一覧を確認してください。\nエラーコード：[VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	メダル機能は　現在メンテナンス中です\nメダル機能以外の『Pokémon HOME』の\n機能はご利用いただけます
+sp_medal_tutorial_0001	ハーイ！　モンボー　だモン！\n『Pokémon HOME』に　「メダル」という\n新しい遊びを　追加したから\nレクチャー　していくモン！
+sp_medal_tutorial_0002	キミが 特定の場所に　行った思い出や\nイベントに　参加した思い出を\n「メダル」として　保管できるモン！
+sp_medal_tutorial_0003	手に入れた　メダルの詳細は\nいつでも　確認することが　できるモン！\n「いつ」「どこにいった」という思い出を\nメダルを通じて　振り返ってほしいモン！
+sp_medal_tutorial_0004	メダルは　友達と交換したり\nギフトとして送ったり　できるモン！\n旅行のお土産　みたいな感じで\n思い出を　シェアしてほしいモン！
+sp_medal_tutorial_0005	メダルの 手に入れ方は\n「関連イベント」で　わかるモン！\n時期や地域によって　手に入るメダルは変わるから\nこまめに　チェックしてほしいモン～！
+sp_medal_tutorial_0006	メダルの　簡単な説明は終わりだモン！\nその他の詳細については\nヘルプも　確認してほしいモン！
+sp_medal_tutorial_0007	最後に！　ボクからキミに　プレゼントだモン！\nメダル機能を　はじめて使う記念に\nメダルを　プレゼントするモン！
+sp_medal_tutorial_0008	同じ絵柄のメダルを　３枚プレゼントするから\n友達と　どの絵柄が当たったか　話したり\n交換やギフトをしたりして　楽しんでほしいモン！
+sp_medal_tutorial_stock_0001	キミが　持っているメダルを\n一覧で　確認することが　できるモン！
+sp_medal_tutorial_stock_0002	プレミアムプランでは\nメダルを　たくさん持てるから\n同じ絵柄のメダルは　まとめて表示されるモン！
+sp_medal_tutorial_stock_0003	詳細画面では　そのメダルを\nいつ　だれが　手に入れたのか\nこれまで　どんな人の手に渡ってきたのか\nといった情報が　確認できるモン
+sp_medal_tutorial_stock_0004	たくさんの　人の手に渡ったメダルは\nその分だけ　長い記録になるモン！\nメダルに刻まれた　歴史を感じられるモン～
+sp_medal_tutorial_stock_0005	１枚１枚の詳細を　確認したいときは\n対象のメダルを　選んで欲しいモン！
+sp_medal_tutorial_tradegift_0001	ここでは　メダルの交換や\nギフトを楽しむことが　できるモン！
+sp_medal_tutorial_tradegift_0002	交換は　１枚ずつ行うモン！\nキミが　交換したいメダルを　１枚選んで\n相手にも　交換メダルを　１枚選んでもらって\nお互いに　メダルを見せ合うモン！
+sp_medal_tutorial_tradegift_0003	お互いに　交換したいメダルを　確認して\n問題なければ　交換成立するモン！\nどちらかが　納得しないと\n交換は　失敗するモン！
+sp_medal_tutorial_tradegift_0004	ギフトは　相手からメダルをもらわずに\nキミが　持っているメダルを　渡せる機能だモン！
+sp_medal_tutorial_tradegift_0005	キミが　送りたいメダルを　１枚選んで\n相手が受け取ってくれると　成立するモン！\n一方的に　送りつけることはできないモン
+sp_medal_tutorial_tradegift_0006	家族や友達と　交換やギフトを行って\n思い出の　共有をしてほしいモン！
+sp_medal_tutorial_event_0001	いつ　どこで　メダルがもらえるのか\n調べることが　できる画面だモン！
+sp_medal_tutorial_event_0002	メダルがもらえるイベントは　時期や　\nお住まいの　地域によって変わるから\n時々チェックしてみることを\nおすすめするモン！
+sp_medal_tutorial_report_0001	キミ自身の　メダルに関しての\n記録を　確認できるモン！
+sp_medal_tutorial_report_0002	これまで　獲得したメダルの総数や\n交換やギフトで　手に入れたメダルの数を\n振り返ることが　できるモン！
+sp_medal_tutorial_report_0003	メダルを　手に入れるほど\n振り返りが　楽しくなる機能だモン！
+sp_medal_tutorial_obtain_title	メダル機能チュートリアル
+sp_medal_category_other	その他
+sp_medal_name_00000_tutorial_01	メダル利用開始記念①
+sp_medal_name_00000_tutorial_02	メダル利用開始記念②
+sp_medal_name_00000_tutorial_03	メダル利用開始記念③
+sp_medal_name_00000_tutorial_04	メダル利用開始記念④
+sp_medal_name_00000_tutorial_05	メダル利用開始記念⑤
+sp_medal_name_00000_tutorial_06	メダル利用開始記念⑥
+sp_medal_name_00000_tutorial_07	メダル利用開始記念⑦
+sp_medal_name_00000_tutorial_08	メダル利用開始記念⑧
+sp_medal_name_00000_tutorial_09	メダル利用開始記念⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_jpn_kanji.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	連携した　ニンテンドーアカウントに\n�
 sp_option_nalink_0045_v2	これまで　ご利用の\nスマートフォン版Pokémon HOMEの\n<u><b>タイトル画面に　表示されるサポートID</b></u>\nが下のIDと　一致しているかを　確認してください
 sp_option_nalink_0046_v2	スマートフォン版Pokémon HOMEを\n引き継いで　開始しますか？
 sp_option_nalink_0047	スマートフォン版『Pokémon HOME』での\n「ふしぎなおくりもの」のご利用
+sp_option_nalink_0048	スマートフォン版『Pokémon HOME』での\n「メダル」のご利用
 sp_option_holohlo_0001_vgo	Pokémon GO連携
 sp_option_holohlo_0004_vgo	引き取る
 sp_option_holohlo_0005_vgo	引き取る
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	ニンテンドーアカウントと�
 sp_option_userdel_confirm2_body_v11	プレミアムプランに加入されている場合、\nアカウント削除を行っても、\nプレミアムプランは自動解約されません。\n必ずご自身でプレミアムプランを購入した\n各ストアから解約手続きを行ってください。\n\n・Nintendo Switch版で購入した方\n　⇒「ニンテンドーeショップ」\n・iOS版で購入した方\n　⇒「App Store」\n・Android版で購入した方\n　⇒「Google Play ストア」\n\nプレミアムプラン解約忘れによる返金や\n関連したお問い合わせには一切対応できません。
 sp_option_userdel_confirm3_title_v11	最終確認
 sp_option_userdel_confirm3_body_v11	一度削除したアカウントは復旧できません。\n今までこのアプリで遊んだ記録や図鑑、\n実績などのすべての情報が失われます。\n本当にアカウントを削除しますか？
+sp_option_company_info	会社情報
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn_kanji.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	課金システムを　初期化中です
 sp_plan_help_button	プレミアムプランヘルプ
 sp_plan_help_detail_button	■プレミアムプランについて\nプレミアムプランでは、以下の機能が利用可能になります。\n・ポケモンを6000匹まで預けられる\n・『ポケモンバンク』からのポケモンひっこし\n　※ニンテンドーアカウント連携も必要です\n・ポケモン詳細画面でのジャッジ機能の利用\n・GTSに同時に3匹までポケモンを預けられる\n・ミラクルボックスに同時に10匹までポケモンを預けられる\n・グループ交換でグループを作成することができる
 sp_plan_help_title	サブスクリプションについて
-sp_plan_help_text	■プレミアムプランでできること\n・『ポケモンバンク』からのひっこし機能が使えます。\n・預けられるポケモンの数が6000匹までになります。\n・同時に10匹までミラクルボックスにポケモンを預けられます。\n・同時に3匹までGTSにポケモンを預けられます。\n・グループ交換が開催できます。\n・ジャッジ機能が使えます。
+sp_plan_help_text	■プレミアムプランでできること\n・『ポケモンバンク』からのひっこし機能が使えます。\n・預けられるポケモンの数が6000匹までになります。\n・同時に10匹までミラクルボックスにポケモンを預けられます。\n・同時に3匹までGTSにポケモンを預けられます。\n・グループ交換が開催できます。\n・ジャッジ機能が使えます。\n・持てるメダルの数が1000枚までになります。
 sp_plan_control_link_button	定期購入を管理
 sp_plan_name_30_android_v2	<b>１か月プラン</b>
 sp_plan_name_90_android_v2	<b>３か月プラン</b>

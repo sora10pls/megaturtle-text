@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	いいえ
 sp_languageconfirm_004	せんたくした げんごの かくにん
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_jpn.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	もっているメダル
+sp_medal_top_trade_gift	こうかん／ギフト
+sp_medal_top_event	かんれんイベント
+sp_medal_top_report	メダルレポート
+sp_medal_top_read	よみとる
+sp_medal_error	エラー
+sp_medal_menu_nalink_none	メダルきのうを　りようするには ニンテンドーアカウントとの れんけいが　ひつようです
+sp_medal_stock_limit_title	メダルしょじすうじょうげん
+sp_medal_stock_limit_main	メダルが　いっぱいです
+sp_medal_stock_limit_desc	[VAR 0117(0000)]で　もてるメダルは [VAR 0200(0001)]まいです（げんざい[VAR 0200(0002)]まい）
+sp_medal_stock_limit_howto_1	かいけつするには……
+sp_medal_stock_limit_howto_2	・「ギフト」や「てばなす」で　メダルをへらす
+sp_medal_stock_limit_howto_3	・「プレミアムプラン」に　かにゅうする
+sp_medal_stock_limit_howto_4	（じょうげんが[VAR 0203(0000)]まいにふえます）
+sp_medal_close	とじる
+sp_medal_stock_limit_join_plan	プランにかにゅう
+sp_medal_menu_title	メダル
+sp_medal_stock_limit_howto_5	ひょうじけいしきが　フリーボックスに へんこうされました。 ちょっきんの　30まいのみ りようかのうに　なります。 フリーボックスいがいの　メダルを りようするためには さいど　プレミアムプランに　かにゅうください。
+sp_medal_stock_title	もっているメダル（[VAR 0203(0000)]）
+sp_medal_search	けんさく
+sp_medal_stock_nodata	ひょうじできるメダルは ありません
+sp_medal_detail_number	No.
+sp_medal_detail_create_at	にゅうしゅび
+sp_medal_detail_location	ばしょ
+sp_medal_detail_category	カテゴリ
+sp_medal_detail_distr_period	はいふきかん
+sp_medal_detail_log	メダルのれきし
+sp_medal_detail_gift_button	ギフトする
+sp_medal_release	てばなす
+sp_medal_detail_traded_check_button	こうかんきぼうをかくにん
+sp_medal_detail_trading	このメダルは　こうかんに　だしています
+sp_medal_detail_traded_select_button	こうかんする
+sp_medal_detail_log_create	[VAR 0100(0000)]がはっこう
+sp_medal_detail_log_trade	[VAR 0100(0000)]がこうかんでにゅうしゅ
+sp_medal_detail_log_gift	[VAR 0100(0000)]がギフトでにゅうしゅ
+sp_medal_detail_log_button	れきしをもっとみる
+sp_medal_reselect	えらびなおす
+sp_medal_gift_send	ギフトする
+sp_medal_result_gift_send_title	ギフトかんりょう！
+sp_medal_result_gift_send_medal	ギフトしたメダル
+sp_medal_result_gift_send_done	[VAR 0100(0000)]にギフトしました
+sp_medal_release_title	てばなす
+sp_medal_release_confirm_1	ほんとうに　てばなしますか？
+sp_medal_release_confirm_2	※てばなしたメダルを ふくげんすることは　できません
+sp_medal_release_confirm_3	※メダルレポートには てばなしたメダルもひょうじされます
+sp_medal_release_done	を　てばなしました
+sp_medal_error_gift_send_limit	ギフトは１にちに　[VAR 0201(0000)]けんまでしか おくることができません
+sp_medal_filter_name	メダルめい
+sp_medal_filter_location	はっこうばしょ
+sp_medal_sort_getdate	にゅうしゅび
+sp_medal_sort_location	はっこうばしょ
+sp_medal_detail_log_title	れきし
+sp_medal_stock_no_medal	メダルをもっていません
+sp_medal_except_freebox	フリーボックスいがいのメダル
+sp_medal_cert	メダルかんていしょ
+sp_medal_detail_gifting	このメダルはギフトにだしています
+sp_medal_date	にちじ
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	さくじょずみユーザー
+sp_medal_number_range	～
+sp_medal_deliver_title	こうかん／ギフト
+sp_medal_deliver_trade	こうかん
+sp_medal_deliver_gift	ギフト
+sp_medal_deliver_nodata	ひょうじできる　こうかんきぼう／ギフトは ありません
+sp_medal_deliver_item_trade_from	[VAR 0100(0000)]からのこうかんきぼう
+sp_medal_deliver_item_trade_to	[VAR 0100(0000)]へのこうかんきぼう
+sp_medal_deliver_item_trade_comp	[VAR 0100(0000)]との こうかんが　せいりつしました！
+sp_medal_deliver_item_trade_cancel	[VAR 0100(0000)]とのこうかんが キャンセルされました
+sp_medal_deliver_item_gift_from	[VAR 0100(0000)]からのギフト
+sp_medal_deliver_item_gift_cancel	[VAR 0100(0000)]へのギフトが キャンセルされました
+sp_medal_confirm	かくにんする
+sp_medal_result_trade_offer_title	こうかんきぼうをおくりました！
+sp_medal_result_trade_offer_medal	こうかんきぼうちゅうのメダル
+sp_medal_result_trade_offer_done	[VAR 0100(0000)]にこうかんきぼうをおくりました
+sp_medal_result_trade_comp_title	こうかんかんりょう！
+sp_medal_result_trade_comp_medal	もらったメダル
+sp_medal_result_trade_comp_done	[VAR 0100(0000)]とこうかんしました
+sp_medal_result_detail	くわしくみる
+sp_medal_result_gift_recv_title	メダルをうけとりました！
+sp_medal_result_gift_recv_medal	うけとったメダル
+sp_medal_result_gift_recv_done	[VAR 0100(0000)]からうけとった
+sp_medal_offer_title	こうかんきぼう
+sp_medal_offer_trade_from	[VAR 0100(0000)]からのこうかんきぼう
+sp_medal_offer_recv_medal	うけとるメダル
+sp_medal_offer_send_medal	おくるメダル
+sp_medal_offer_select	メダルをえらぶ
+sp_medal_offer_exec	こうかんする
+sp_medal_offer_trade_to	[VAR 0100(0000)]とこうかんちゅう
+sp_medal_offer_cancel	ちゅうしする
+sp_medal_offer_cancel_title	こうかんのちゅうし
+sp_medal_offer_cancel_confirm	このこうかんを　ちゅうししますか？
+sp_medal_offer_cancel_no	ちゅうししない
+sp_medal_offer_cancel_yes	ちゅうしする
+sp_medal_offer_cancel_done	こうかんを　ちゅうししました
+sp_medal_friend_no_nalink	このフレンドは　ゲストアカウントのため メダルきのうを　りようすることができません
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	こうかんのちゅうし
+sp_medal_trade_cancel_done	このこうかんは　ちゅうしされました
+sp_medal_gift_cancel_title	ギフトのちゅうし
+sp_medal_gift_cancel_done	このギフトは　ちゅうしされました
+sp_medal_sort_date	にちじ
+sp_medal_error_trade_sametime	どうじに　すすめられる　こうかんは [VAR 0201(0000)]けんまでです じぶんから　おくっている こうかんきぼうを　かくにんして こうかんきぼうのかずを　へらしてください
+sp_medal_error_gift_recv_limit	ギフトは１にちに　[VAR 0201(0000)]けんまでしか うけとることができません
+sp_medal_error_deliver_limit	これいじょうこうかん／ギフトを ひょうじできません こうかん／ギフトいちらんを　かくにんして いますすめているこうかんを　おわらせるか うけとっていないギフトを　うけとってください
+sp_medal_error_trade_limit	こうかんは　１にちに　[VAR 0201(0000)]けんまでしか じっこうすることが　できません
+sp_medal_error_deliver_others_limit	このフレンドは　げんざい こうかん／ギフトのかずが じょうげんにたっしているため こうかん／ギフトを　することができません
+sp_medal_error_trade_progress	このフレンドとしんこうちゅうの こうかん／ギフトが　あります さきにそのこうかん／ギフトを かんりょうしてください
+sp_medal_trade_title	メダルこうかん
+sp_medal_trade_method_friend	フレンドと　こうかん
+sp_medal_trade_method_qr	２じげんコードで　こうかん
+sp_medal_trade_method_serial	シリアルコードで　こうかん
+sp_medal_trade_qr_confirm	２じげんコードを　ひょうじ
+sp_medal_trade_qr_read	２じげんコードを　よみとる
+sp_medal_qr_confirm_title	あなたの２じげんコード
+sp_medal_code_expire_remain	コードゆうこうきげんのこり
+sp_medal_qr_read_title	２じげんコードよみとり
+sp_medal_serial_title	シリアルコード
+sp_medal_trade_serial_confirm	こうかんあいてのシリアルコードを 入力してください
+sp_medal_serial_placeholder	タップしてシリアルコードをにゅうりょく
+sp_medal_serial_your_code	あなたのシリアルコード
+sp_medal_serial_confirm	かくにん
+sp_medal_code_expired_retry	にゅうりょくしたコードの ゆうこうきげんが　きれています あたらしくコードを　はっこうしたのち さいどおためしください
+sp_medal_code_failed_limit	コードのにゅうりょくしっぱいが れんぞくしたため いちじてきに　きのうを　せいげんしています ※きのうかいじょは エラーひょうじから24じかんごです
+sp_medal_friend_title	メダル
+sp_medal_friend_add	+ フレンドついか
+sp_medal_friend_none	ひょうじできるフレンドは　いません フレンドついかを　行ってください
+sp_medal_gift_recv	ギフトのうけとり
+sp_medal_gift_recv_confirm	きょうは　のこり[VAR 0201(0000)]こまで ギフトを　うけとれます このギフトを　うけとってもよろしいですか？
+sp_medal_gift_recv_no	うけとらない
+sp_medal_gift_recv_yes	うけとる
+sp_medal_code_expired	ゆうこうきげんぎれ
+sp_medal_gift_reject_title	ギフトのうけとりきょひ
+sp_medal_gift_reject_confirm	このギフトのうけとりを　きょひしますか？
+sp_medal_gift_reject_no	きょひしない
+sp_medal_gift_reject_yes	きょひする
+sp_medal_gift_reject_done	ギフトうけとりを　きょひしました
+sp_medal_deliver_no_medal	メダルを　1まいもしょじしていません
+sp_medal_gift_title	メダルギフト
+sp_medal_gift_mode_send	ギフトを　あげる
+sp_medal_gift_mode_recv	ギフトを　もらう
+sp_medal_cancel	キャンセル
+sp_medal_gift_send_friend	フレンドに　ギフト
+sp_medal_gift_send_qr	２じげんコードで　ギフト
+sp_medal_gift_send_serial	シリアルコードで　ギフト
+sp_medal_gift_serial_input	ギフトあいてのシリアルコードを にゅうりょくしてください
+sp_medal_gift_recv_qr	２じげんコードで　もらう
+sp_medal_gift_recv_serial	シリアルコードで　もらう
+sp_medal_gift_serial_explain	ギフトをもらうあいてに いかのシリアルコードを　つたえてください
+sp_medal_gift_recv_explain	ギフトが　とどきました！ こうかんきぼう／ギフトいちらんを かくにんしてください
+sp_medal_deliver_item_gift_to	[VAR 0100(0000)]へのギフト
+sp_medal_offer_gift_to	[VAR 0100(0000)]へのギフト
+sp_medal_offer_gift_cancel_confirm	このギフトを　ちゅうししますか？
+sp_medal_trade_serial_show	シリアルコードを　ひょうじ
+sp_medal_trade_serial_input	シリアルコードを　にゅうりょく
+sp_medal_trade_serial_explain	こうかんあいてに いかのシリアルコードを　つたえてください
+sp_medal_trade_recv_explain	こうかんきぼうが　とどきました！ こうかんきぼう／ギフトいちらんを かくにんしてください
+sp_medal_event_list_title	かんれんイベント
+sp_medal_event_detail_title	イベントしょうさい
+sp_medal_event_detail_url	URL
+sp_medal_event_detail_medal	このイベントでもらえるメダル
+sp_medal_event_filter_location	イベントかいさいちいき
+sp_medal_read_title	メダルよみとり
+sp_medal_read_method_main	どのきのうで　よみとりますか？
+sp_medal_read_method_gps	エリアチェック
+sp_medal_read_method_nfc	NFCよみとり
+sp_medal_read_gps_list_title	このエリアで　うけとれるメダル
+sp_medal_read_obtain_main	メダルを　はっこうしました！
+sp_medal_read_obtain_name	はっこうしたメダル
+sp_medal_read_obtain_detail	くわしくみる
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	つぎへ
+sp_medal_read_error_already_obtain	すでに　うけとったメダルです はっこうできるまであと
+sp_medal_read_error_already_desc1	おなじメダルのはっこうは　１にち１かいまでです
+sp_medal_read_error_already_desc2	※まいにち0じ(UTC)に　リセットされます
+sp_medal_read_error_before_start	はいふかいしまえのメダルです  はっこうかいしびは
+sp_medal_read_error_after_end	はいふが　しゅうりょうしたメダルです
+sp_medal_read_error_create_limit	はっこうじょうげんに　たっしたメダルです
+sp_medal_read_gps_init	GPSを　しょきかちゅうです
+sp_medal_read_gps_confirm	GPSきのうを　オンにしてください ※ごりようの　たんまつの　せっていを みなおしてください
+sp_medal_read_gps_failed	GPSが　きどうできません
+sp_medal_return	もどる
+sp_medal_read_nfc_main	NFCタグに　かざしてください
+sp_medal_read_nfc_done	よみとりに　せいこうしました！
+sp_medal_read_nfc_failed	よみとりに　しっぱいしました
+sp_medal_read_nfc_unrelated	たいおうしていないNFCタグです
+sp_medal_read_nfc_timeout	タイムアウトしました もういちどおためしください
+sp_medal_read_method_none	ごりようのかんきょうでは よみとりきのうが　りようできません
+sp_medal_read_gps_nodata	このエリアでうけとれるメダルは　ありません
+sp_medal_report_title	メダルレポート
+sp_medal_report_cell_year_month	[VAR 0203(0000)]ねん[VAR 0201(0001)]がつ
+sp_medal_report_gift	を[VAR 0100(0000)]からもらった！
+sp_medal_report_gave	を[VAR 0100(0000)]にギフトした！
+sp_medal_report_trade	[VAR 0100(0000)]とこうかんした！  うけとったメダル
+sp_medal_report_trade_2	わたしたメダル
+sp_medal_report_create	をはっこうした！
+sp_medal_report_release	をてばなした
+sp_medal_report_dialog_button	きろく
+sp_medal_report_acquired	てにいれた　メダル
+sp_medal_report_exchanged	こうかんした　メダル
+sp_medal_report_give	ギフトした　メダル
+sp_medal_report_received	ギフトされた　メダル
+sp_medal_quantity	[VAR 0203(0000)]まい
+sp_medal_report_obtain	はっこうした　メダル
+sp_medal_mainte_title	メンテナンス
+sp_medal_mainte_body	メダル機能は　現在メンテナンス中です メダル機能以外の『Pokémon HOME』の 機能はご利用いただけます 終了予定　[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_error_system_limit	現在お客様のアカウントでは メダル機能の利用が制限されています
+sp_medal_error_common_go_home	エラーが発生しました。 マイルーム画面に戻ります。 エラーコード：[VAR 0200(0000)]
+sp_medal_error_common	エラーが発生しました。 操作をやり直してください。 エラーコード：[VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	コードが間違っています。 エラーコード：[VAR 0200(0000)]
+sp_medal_error_deliver_status	交換／ギフトの相手が　ステータスを更新しました。 もう一度　交換／ギフト一覧を確認してください。 エラーコード：[VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	メダル機能は　現在メンテナンス中です メダル機能以外の『Pokémon HOME』の 機能はご利用いただけます
+sp_medal_tutorial_0001	ハーイ！　モンボー　だモン！ 『Pokémon HOME』に　「メダル」という あたらしい　あそびを　ついかしたから レクチャー　していくモン！
+sp_medal_tutorial_0002	キミが　とくていのばしょに　いった　おもいでや イベントに　さんかした　おもいでを 「メダル」として　ほかん　できるモン！
+sp_medal_tutorial_0003	てにいれた　メダルのしょうさいは いつでも　かくにんすることが　できるモン！ 「いつ」「どこにいった」という　おもいでを メダルをつうじて　ふりかえって　ほしいモン！
+sp_medal_tutorial_0004	メダルは　ともだちと　こうかんしたり ギフトとして　おくったり　できるモン！ りょこうの　おみやげ　みたいな　かんじで おもいでを　シェアして　ほしいモン！
+sp_medal_tutorial_0005	メダルの　てにいれかたは 「かんれんイベント」で　わかるモン！ じきや　ちいきによって　てにはいるメダルは　かわるから こまめに　チェックしてほしいモン～！
+sp_medal_tutorial_0006	メダルの　かんたんな　せつめいは　おわりだモン！ そのたの　しょうさいに　ついては ヘルプも　かくにんして　ほしいモン！
+sp_medal_tutorial_0007	さいごに！　ボクからキミに　プレゼントだモン！ メダルきのうを　はじめて　つかう　きねんに メダルを　プレゼントするモン！
+sp_medal_tutorial_0008	おなじえがらのメダルを　３まいプレゼントするから ともだちと　どのえがらが　あたったか　はなしたり こうかんやギフトを　したりして　たのしんでほしいモン！
+sp_medal_tutorial_stock_0001	キミが　もっているメダルを いちらんで　かくにんすることが　できるモン！
+sp_medal_tutorial_stock_0002	プレミアムプランでは メダルを　たくさんもてるから おなじえがらのメダルは　まとめて　ひょうじされるモン！
+sp_medal_tutorial_stock_0003	しょうさいがめんでは　そのメダルを いつ　だれが　てに入れたのか これまで　どんな　ひとのてに　わたってきたのか といった　じょうほうが　かくにんできるモン
+sp_medal_tutorial_stock_0004	たくさんの　ひとのてに　わたったメダルは そのぶんだけ　ながいきろくに　なるモン！ メダルに　きざまれた　れきしを　かんじられるモン～
+sp_medal_tutorial_stock_0005	１まい１まいの　しょうさいを　かくにんしたいときは たいしょうのメダルを　えらんでほしいモン！
+sp_medal_tutorial_tradegift_0001	ここでは　メダルのこうかんや ギフトを　たのしむことが　できるモン！
+sp_medal_tutorial_tradegift_0002	こうかんは　１まいずつ　おこなうモン！ キミが　こうかんしたいメダルを　１まいえらんで あいてにも　こうかんメダルを　１まいえらんでもらって おたがいに　メダルをみせあうモン！
+sp_medal_tutorial_tradegift_0003	おたがいに　こうかんしたいメダルを　かくにんして もんだいなければ　こうかんせいりつ　するモン！ どちらかが　なっとく　しないと こうかんは　しっぱい　するモン！
+sp_medal_tutorial_tradegift_0004	ギフトは　あいてからメダルを　もらわずに キミが　もっているメダルを　わたせる　きのうだモン！
+sp_medal_tutorial_tradegift_0005	キミが　おくりたいメダルを　１まいえらんで あいてが　うけとってくれると　せいりつ　するモン！ いっぽうてきに　おくりつけることは　できないモン
+sp_medal_tutorial_tradegift_0006	かぞくや　ともだちと　こうかんやギフトを　おこなって おもいでの　きょうゆうを　してほしいモン！
+sp_medal_tutorial_event_0001	いつ　どこで　メダルがもらえるのか しらべることが　できるがめんだモン！
+sp_medal_tutorial_event_0002	メダルがもらえるイベントは　じきや　 おすまいの　ちいきによって　かわるから ときどきチェックしてみることを おすすめするモン！
+sp_medal_tutorial_report_0001	キミじしんの　メダルにかんしての きろくを　かくにんできるモン！
+sp_medal_tutorial_report_0002	これまで　かくとくした　メダルのそうすうや こうかんやギフトで　てにいれた　メダルのかずを ふりかえることが　できるモン！
+sp_medal_tutorial_report_0003	メダルを　てにいれるほど ふりかえりが　たのしくなる　きのうだモン！
+sp_medal_tutorial_obtain_title	メダルきのうチュートリアル
+sp_medal_category_other	その他
+sp_medal_name_00000_tutorial_01	メダル利用開始記念①
+sp_medal_name_00000_tutorial_02	メダル利用開始記念②
+sp_medal_name_00000_tutorial_03	メダル利用開始記念③
+sp_medal_name_00000_tutorial_04	メダル利用開始記念④
+sp_medal_name_00000_tutorial_05	メダル利用開始記念⑤
+sp_medal_name_00000_tutorial_06	メダル利用開始記念⑥
+sp_medal_name_00000_tutorial_07	メダル利用開始記念⑦
+sp_medal_name_00000_tutorial_08	メダル利用開始記念⑧
+sp_medal_name_00000_tutorial_09	メダル利用開始記念⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_jpn.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	連携した　ニンテンドーアカウントに ス
 sp_option_nalink_0045_v2	これまで　ご利用の スマートフォン版Pokémon HOMEの <u><b>タイトル画面に　表示されるサポートID</b></u> が下のIDと　一致しているかを　確認してください
 sp_option_nalink_0046_v2	スマートフォン版Pokémon HOMEを 引き継いで　開始しますか？
 sp_option_nalink_0047	スマートフォン版『Pokémon HOME』での 「ふしぎなおくりもの」のご利用
+sp_option_nalink_0048	スマートフォン版『Pokémon HOME』での 「メダル」のご利用
 sp_option_holohlo_0001_vgo	Pokémon GOれんけい
 sp_option_holohlo_0004_vgo	ひきとる
 sp_option_holohlo_0005_vgo	ひきとる
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	ニンテンドーアカウントと�
 sp_option_userdel_confirm2_body_v11	プレミアムプランに加入されている場合、 アカウント削除を行っても、 プレミアムプランは自動解約されません。 必ずご自身でプレミアムプランを購入した 各ストアから解約手続きを行ってください。  ・Nintendo Switch版で購入した方 　⇒「ニンテンドーeショップ」 ・iOS版で購入した方 　⇒「App Store」 ・Android版で購入した方 　⇒「Google Play ストア」  プレミアムプラン解約忘れによる返金や 関連したお問い合わせには一切対応できません。
 sp_option_userdel_confirm3_title_v11	最終確認
 sp_option_userdel_confirm3_body_v11	一度削除したアカウントは復旧できません。 今までこのアプリで遊んだ記録や図鑑、 実績などのすべての情報が失われます。 本当にアカウントを削除しますか？
+sp_option_company_info	会社情報
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_jpn.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	かきんシステムを　しょきかちゅうで
 sp_plan_help_button	プレミアムプランヘルプ
 sp_plan_help_detail_button	■プレミアムプランについて プレミアムプランでは、以下の機能が利用可能になります。 ・ポケモンを6000匹まで預けられる ・『ポケモンバンク』からのポケモンひっこし 　※ニンテンドーアカウント連携も必要です ・ポケモン詳細画面でのジャッジ機能の利用 ・GTSに同時に3匹までポケモンを預けられる ・ミラクルボックスに同時に10匹までポケモンを預けられる ・グループ交換でグループを作成することができる
 sp_plan_help_title	サブスクリプションについて
-sp_plan_help_text	■プレミアムプランでできること ・『ポケモンバンク』からのひっこし機能が使えます。 ・預けられるポケモンの数が6000匹までになります。 ・同時に10匹までミラクルボックスにポケモンを預けられます。 ・同時に3匹までGTSにポケモンを預けられます。 ・グループ交換が開催できます。 ・ジャッジ機能が使えます。
+sp_plan_help_text	■プレミアムプランでできること ・『ポケモンバンク』からのひっこし機能が使えます。 ・預けられるポケモンの数が6000匹までになります。 ・同時に10匹までミラクルボックスにポケモンを預けられます。 ・同時に3匹までGTSにポケモンを預けられます。 ・グループ交換が開催できます。 ・ジャッジ機能が使えます。 ・持てるメダルの数が1000枚までになります。
 sp_plan_control_link_button	ていきこうにゅうを　かんり
 sp_plan_name_30_android_v2	<b>１かげつプラン</b>
 sp_plan_name_90_android_v2	<b>３かげつプラン</b>

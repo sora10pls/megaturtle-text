@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	No
 sp_languageconfirm_004	Confirm Language Selection
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_usa.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	Your Medals
+sp_medal_top_trade_gift	Trade/Gift
+sp_medal_top_event	Related Events
+sp_medal_top_report	Medal Logbook
+sp_medal_top_read	Scan
+sp_medal_error	Error
+sp_medal_menu_nalink_none	In order to use the medal feature, you need to link to a Nintendo Account.
+sp_medal_stock_limit_title	Maximum Number of Medals
+sp_medal_stock_limit_main	You can't hold any more medals.
+sp_medal_stock_limit_desc	You can hold up to [VAR 0200(0001)] medals with the [VAR 0117(0000)]. (Currently, you have [VAR 0200(0002)] medals.)
+sp_medal_stock_limit_howto_1	To resolve this issue, you can...
+sp_medal_stock_limit_howto_2	・Give away medals as gifts or discard them.
+sp_medal_stock_limit_howto_3	・Sign up for the Premium Plan.
+sp_medal_stock_limit_howto_4	(You'll be able to hold up to [VAR 0203(0000)] medals.)
+sp_medal_close	Close
+sp_medal_stock_limit_join_plan	Sign Up for Plan
+sp_medal_menu_title	Medals
+sp_medal_stock_limit_howto_5	Your medals will now be displayed in your Basic Box. You will only be able to access the 30 medals that you obtained most recently. In order to access medals outside of the Basic Box, you must rejoin the Premium Plan.
+sp_medal_stock_title	Your Medals ([VAR 0203(0000)])
+sp_medal_search	Search
+sp_medal_stock_nodata	There are no medals to display.
+sp_medal_detail_number	No.
+sp_medal_detail_create_at	Obtained
+sp_medal_detail_location	Location
+sp_medal_detail_category	Category
+sp_medal_detail_distr_period	Distributed
+sp_medal_detail_log	Medal History
+sp_medal_detail_gift_button	Send as a Gift
+sp_medal_release	Discard
+sp_medal_detail_traded_check_button	Check Trade Requests
+sp_medal_detail_trading	You've put this medal up for trade.
+sp_medal_detail_traded_select_button	Trade
+sp_medal_detail_log_create	Issued to [VAR 0100(0000)]
+sp_medal_detail_log_trade	[VAR 0100(0000)] got it in a trade
+sp_medal_detail_log_gift	[VAR 0100(0000)] got it as a gift
+sp_medal_detail_log_button	See more history
+sp_medal_reselect	Change Selection
+sp_medal_gift_send	Send Gift
+sp_medal_result_gift_send_title	Gift sent!
+sp_medal_result_gift_send_medal	Gifted Medals
+sp_medal_result_gift_send_done	Gifted to [VAR 0100(0000)]
+sp_medal_release_title	Discard
+sp_medal_release_confirm_1	Are you sure you want to discard this medal?
+sp_medal_release_confirm_2	Note: You can't restore discarded medals.
+sp_medal_release_confirm_3	Note: Discarded medals will still be displayed on your Medal Logbook.
+sp_medal_release_done	was discarded.
+sp_medal_error_gift_send_limit	You can only send [VAR 0201(0000)] gifts per day.
+sp_medal_filter_name	Medal name
+sp_medal_filter_location	Location issued
+sp_medal_sort_getdate	Date obtained
+sp_medal_sort_location	Location issued
+sp_medal_detail_log_title	History
+sp_medal_stock_no_medal	You don't have any medals.
+sp_medal_except_freebox	Medals not in the Basic Box
+sp_medal_cert	Medal Certificate
+sp_medal_detail_gifting	You've offered up this medal as a gift.
+sp_medal_date	Date
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	Deleted User
+sp_medal_number_range	–
+sp_medal_deliver_title	Trade/Gift
+sp_medal_deliver_trade	Trade
+sp_medal_deliver_gift	Gift
+sp_medal_deliver_nodata	There are no trade requests or gifts to display.
+sp_medal_deliver_item_trade_from	Trade request from [VAR 0100(0000)]
+sp_medal_deliver_item_trade_to	Trade request to [VAR 0100(0000)]
+sp_medal_deliver_item_trade_comp	You and [VAR 0100(0000)] have agreed on the terms of the trade!
+sp_medal_deliver_item_trade_cancel	The trade with [VAR 0100(0000)] has been canceled.
+sp_medal_deliver_item_gift_from	Gift from [VAR 0100(0000)]
+sp_medal_deliver_item_gift_cancel	The gift to [VAR 0100(0000)] has been canceled.
+sp_medal_confirm	Check
+sp_medal_result_trade_offer_title	You've sent your trade request!
+sp_medal_result_trade_offer_medal	Your Medal Trade Requests
+sp_medal_result_trade_offer_done	You've sent your trade request to [VAR 0100(0000)].
+sp_medal_result_trade_comp_title	Trade complete!
+sp_medal_result_trade_comp_medal	Received Medals
+sp_medal_result_trade_comp_done	Traded with [VAR 0100(0000)]
+sp_medal_result_detail	See details
+sp_medal_result_gift_recv_title	You received a medal!
+sp_medal_result_gift_recv_medal	Received Medals
+sp_medal_result_gift_recv_done	Received from [VAR 0100(0000)]
+sp_medal_offer_title	Trade Request
+sp_medal_offer_trade_from	Trade request from [VAR 0100(0000)]
+sp_medal_offer_recv_medal	Medal you will receive
+sp_medal_offer_send_medal	Medal you will send
+sp_medal_offer_select	Choose medal
+sp_medal_offer_exec	Trade
+sp_medal_offer_trade_to	Trading with [VAR 0100(0000)]
+sp_medal_offer_cancel	Cancel
+sp_medal_offer_cancel_title	Cancel trade
+sp_medal_offer_cancel_confirm	Are you sure you want to cancel this trade?
+sp_medal_offer_cancel_no	Don't cancel
+sp_medal_offer_cancel_yes	Cancel
+sp_medal_offer_cancel_done	The trade has been canceled.
+sp_medal_friend_no_nalink	This Friend is using a guest account, so they cannot use the medal feature.
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	Cancel Trade
+sp_medal_trade_cancel_done	This trade has been canceled.
+sp_medal_gift_cancel_title	Cancel Gift
+sp_medal_gift_cancel_done	This gift has been canceled.
+sp_medal_sort_date	Date
+sp_medal_error_trade_sametime	You can only have [VAR 0201(0000)] ongoing trades at a time. Please reduce the number of pending trade requests before trying again.
+sp_medal_error_gift_recv_limit	You can only receive [VAR 0201(0000)] gifts a day.
+sp_medal_error_deliver_limit	You've reached the maximum number of trades and/or gifts that can be displayed. Please visit Trade Requests / Gift List to complete ongoing trades or receive pending gifts.
+sp_medal_error_trade_limit	You can only complete [VAR 0201(0000)] trades a day.
+sp_medal_error_deliver_others_limit	This Friend has reached the maximum number of ongoing trades and/or gifts, so they cannot engage in trades or receive gifts at this time.
+sp_medal_error_trade_progress	You have a pending gift or trade request with this Friend. Please complete that gifting or trade before trying again.
+sp_medal_trade_title	Trade Medals
+sp_medal_trade_method_friend	Trade with Friends
+sp_medal_trade_method_qr	Trade with a Code Pattern
+sp_medal_trade_method_serial	Trade with a Code
+sp_medal_trade_qr_confirm	Display Code Pattern
+sp_medal_trade_qr_read	Scan Code Pattern
+sp_medal_qr_confirm_title	Your Code Pattern
+sp_medal_code_expire_remain	Code valid for
+sp_medal_qr_read_title	Scan Code Pattern
+sp_medal_serial_title	Code
+sp_medal_trade_serial_confirm	Please enter your trade partner's code.
+sp_medal_serial_placeholder	Tap to enter the code.
+sp_medal_serial_your_code	Your code
+sp_medal_serial_confirm	Confirm
+sp_medal_code_expired_retry	The code you entered has expired. Please enter a newly-issued code.
+sp_medal_code_failed_limit	This feature has been temporarily suspended as there were too many incorrect codes entered. Note: The feature will be unlocked 24 hours after this error message was displayed.
+sp_medal_friend_title	Medals
+sp_medal_friend_add	Add Friend
+sp_medal_friend_none	There are no Friends to display. Please add Friends.
+sp_medal_gift_recv	Receive Gifts
+sp_medal_gift_recv_confirm	You can receive [VAR 0201(0000)] more [VAR 1101(0000,0504)]gift gifts today. Do you want to receive this gift?
+sp_medal_gift_recv_no	Don't receive
+sp_medal_gift_recv_yes	Receive
+sp_medal_code_expired	Expired
+sp_medal_gift_reject_title	Decline gift
+sp_medal_gift_reject_confirm	Do you want to decline this gift?
+sp_medal_gift_reject_no	Don't decline
+sp_medal_gift_reject_yes	Decline
+sp_medal_gift_reject_done	You declined the gift.
+sp_medal_deliver_no_medal	You don't have any medals.
+sp_medal_gift_title	Medal Gifts
+sp_medal_gift_mode_send	Send gifts
+sp_medal_gift_mode_recv	Receive gifts
+sp_medal_cancel	Cancel
+sp_medal_gift_send_friend	Send gifts to Friends
+sp_medal_gift_send_qr	Send gift as code patterns
+sp_medal_gift_send_serial	Send gift as code
+sp_medal_gift_serial_input	Please enter the recipient's code.
+sp_medal_gift_recv_qr	Receive via code pattern
+sp_medal_gift_recv_serial	Receive via code
+sp_medal_gift_serial_explain	Please convey the following code to the person sending you a gift.
+sp_medal_gift_recv_explain	You've received a gift! Check your Trade Requests / Gift List!
+sp_medal_deliver_item_gift_to	Gift to [VAR 0100(0000)]
+sp_medal_offer_gift_to	Gift to [VAR 0100(0000)]
+sp_medal_offer_gift_cancel_confirm	Are you sure you want to cancel this gift?
+sp_medal_trade_serial_show	Display code
+sp_medal_trade_serial_input	Enter code
+sp_medal_trade_serial_explain	Please convey the following code to your trade partner.
+sp_medal_trade_recv_explain	You've received a trade request! Please check your Trade Requests / Gift List.
+sp_medal_event_list_title	Related Events
+sp_medal_event_detail_title	Event Details
+sp_medal_event_detail_url	Link
+sp_medal_event_detail_medal	Obtainable Medals
+sp_medal_event_filter_location	Event Location
+sp_medal_read_title	Scan Medals
+sp_medal_read_method_main	How do you want to scan?
+sp_medal_read_method_gps	Local Event Check
+sp_medal_read_method_nfc	NFC Scan
+sp_medal_read_gps_list_title	Medals available in this area
+sp_medal_read_obtain_main	Medal has been issued!
+sp_medal_read_obtain_name	Issued medals
+sp_medal_read_obtain_detail	See details
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	Next
+sp_medal_read_error_already_obtain	You've already received this medal. It can be reissued in:
+sp_medal_read_error_already_desc1	The same medal can only be issued once per day.
+sp_medal_read_error_already_desc2	Note: The clock resets every day at midnight (UTC).
+sp_medal_read_error_before_start	Distribution for this medal hasn't started yet. Distribution starts on:
+sp_medal_read_error_after_end	Distribution for this medal has ended.
+sp_medal_read_error_create_limit	This medal has been issued the maximum number of times.
+sp_medal_read_gps_init	Initializing your GPS.
+sp_medal_read_gps_confirm	Please turn on your GPS feature. Note: Please check in your device's settings.
+sp_medal_read_gps_failed	GPS failed to load.
+sp_medal_return	Back
+sp_medal_read_nfc_main	Please hold your device over the NFC tag.
+sp_medal_read_nfc_done	Scan successful!
+sp_medal_read_nfc_failed	Scan failed.
+sp_medal_read_nfc_unrelated	This NFC tag is non-compatible.
+sp_medal_read_nfc_timeout	The time limit expired. Please try again.
+sp_medal_read_method_none	The scan feature can't be used on your current device.
+sp_medal_read_gps_nodata	There are no medals you can receive in this area.
+sp_medal_report_title	Medal Logbook
+sp_medal_report_cell_year_month	[VAR 0203(0000)]/[VAR 0201(0001)]
+sp_medal_report_gift	received from [VAR 0100(0000)]!
+sp_medal_report_gave	was sent to [VAR 0100(0000)] as a gift!
+sp_medal_report_trade	You traded with [VAR 0100(0000)]!  Here's what you got.
+sp_medal_report_trade_2	Here's what you sent.
+sp_medal_report_create	was issued!
+sp_medal_report_release	was discarded.
+sp_medal_report_dialog_button	Stats
+sp_medal_report_acquired	Medals Obtained
+sp_medal_report_exchanged	Medals Traded
+sp_medal_report_give	Medals Gifted
+sp_medal_report_received	Medals Received as Gifts
+sp_medal_quantity	[VAR 0203(0000)]
+sp_medal_report_obtain	Medals Issued
+sp_medal_mainte_title	Maintenance
+sp_medal_mainte_body	The medal feature is currently undergoing maintenance. Other features of Pokémon HOME are still available. Estimated end time: [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_error_system_limit	Use of the medal feature is currently restricted on your account.
+sp_medal_error_common_go_home	An error has occurred. Returning to your room. Error code: [VAR 0200(0000)]
+sp_medal_error_common	An error has occurred. Please repeat the previous inputs. Error code: [VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	Incorrect code. Error code: [VAR 0200(0000)]
+sp_medal_error_deliver_status	The person you're trying to trade with or send gifts to has changed their status. Please check the Trade/Gift List again. Error Code: [VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	The medal feature is currently undergoing maintenance. Other features of Pokémon HOME are still available.
+sp_medal_tutorial_0001	Hello there! It's me, your old pal Poké Boy, here to tell you about the Medal feature—a fun, new addition to Pokémon HOME!
+sp_medal_tutorial_0002	Medals are like little keepsakes you get from going to certain locations or participating in events! They serve as mementos of your experiences!
+sp_medal_tutorial_0003	You can check the details of each medal whenever you want! It's fun to think back to when and where you got them!
+sp_medal_tutorial_0004	Medals can be traded with friends and even sent as gifts, like small souvenirs from your travels! It's a great way to share your memories with people!
+sp_medal_tutorial_0005	Take a look at the "Related Events" page to learn how to get medals! Different medals will be available at different times and locations, so be sure to check back regularly!
+sp_medal_tutorial_0006	Anyway, that's a quick and simple introduction to medals, but if you want to learn more, check out the Help page!
+sp_medal_tutorial_0007	Before you go, here's a little present to commemorate your first time using this feature—your first medals!
+sp_medal_tutorial_0008	I'll give you three medals with the same design. See what designs your friends got, and then you can trade medals or send them as gifts!
+sp_medal_tutorial_stock_0001	All of the medals you currently have are listed up here!
+sp_medal_tutorial_stock_0002	If you're enrolled in the Premium Plan, you'll be able to hold a bunch of medals, so medals with the same design will all be grouped together.
+sp_medal_tutorial_stock_0003	On the details screen, you'll find all kinds of information about each medal—like when it was obtained, who obtained it, and who had it before you!
+sp_medal_tutorial_stock_0004	The more a medal is passed around, the longer its record will get, leaving a chronicle of each medal's unique history!
+sp_medal_tutorial_stock_0005	If you want to see the details of a specific medal, you'll need to select the medal you want to view!
+sp_medal_tutorial_tradegift_0001	This is where you can trade medals or send them as gifts!
+sp_medal_tutorial_tradegift_0002	You can trade one medal at a time! Select a medal you want to trade, and once the other party does the same, you'll show your selected medals to each other!
+sp_medal_tutorial_tradegift_0003	Once you've both confirmed you're OK with the medals being offered up, the trade is good to go! If either party declines, the trade is off!
+sp_medal_tutorial_tradegift_0004	The Gift feature also lets you send someone a medal without getting anything in return!
+sp_medal_tutorial_tradegift_0005	Just pick a medal you'd like to send! But the recipient will need to accept the gift before it's actually sent. You can't just bombard folks with gifts, y'know!
+sp_medal_tutorial_tradegift_0006	Share fun memories with your friends and family by trading medals or sending them to each other as gifts!
+sp_medal_tutorial_event_0001	Use this screen to find out when and where you can get medals!
+sp_medal_tutorial_event_0002	Medals can be collected during events held at different times in different regions, so I recommend checking back regularly!
+sp_medal_tutorial_report_0001	This is where information about your own medals is recorded!
+sp_medal_tutorial_report_0002	It's a great way to look back and see how many medals you've collected in total, or how many you got as gifts or via trade!
+sp_medal_tutorial_report_0003	The more medals you get, the more fun it'll be to look back over everything you've done!
+sp_medal_tutorial_obtain_title	Medal Feature Tutorial
+sp_medal_category_other	Other
+sp_medal_name_00000_tutorial_01	Collection Start Commemoration No. 1
+sp_medal_name_00000_tutorial_02	Collection Start Commemoration No. 2
+sp_medal_name_00000_tutorial_03	Collection Start Commemoration No. 3
+sp_medal_name_00000_tutorial_04	Collection Start Commemoration No. 4
+sp_medal_name_00000_tutorial_05	Collection Start Commemoration No. 5
+sp_medal_name_00000_tutorial_06	Collection Start Commemoration No. 6
+sp_medal_name_00000_tutorial_07	Collection Start Commemoration No. 7
+sp_medal_name_00000_tutorial_08	Collection Start Commemoration No. 8
+sp_medal_name_00000_tutorial_09	Collection Start Commemoration No. 9
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_usa.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	We were able to verify that the mobile device version o
 sp_option_nalink_0045_v2	Please make sure the <u><b>Support ID displayed on the</b></u> <u><b>title screen</b></u> of the mobile device version of Pokémon HOME you've been using matches the ID displayed below.
 sp_option_nalink_0046_v2	Would you like to carry over your usage of the mobile device version of Pokémon HOME to this device and begin?
 sp_option_nalink_0047	Mystery Gifts on the Mobile Version of Pokémon HOME
+sp_option_nalink_0048	Using the medal feature on the mobile device version of Pokémon HOME
 sp_option_holohlo_0001_vgo	Pokémon GO Link
 sp_option_holohlo_0004_vgo	Receive
 sp_option_holohlo_0005_vgo	Receive
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	If your Pokémon HOME account is link
 sp_option_userdel_confirm2_body_v11	If you have a Premium Plan subscription, deleting your Pokémon HOME account will not automatically cancel it. How you cancel your subscription varies depending on what version of Pokémon HOME you first registered on.  Players who subscribed through the Nintendo Switch version must cancel their subscription via Nintendo eShop.  Players who subscribed through the iOS version must cancel their subscription via the App Store.  Players who subscribed through the Android version must cancel their subscription via the Google Play Store.  Please note that we will not be issuing refunds for charges that result from forgetting to cancel your Premium Plan, nor will we be able to respond to inquiries related to this matter.
 sp_option_userdel_confirm3_title_v11	Final Confirmation
 sp_option_userdel_confirm3_body_v11	A deleted account cannot be recovered. All of the progress you've made in the application—such as Challenges and Pokédex entries—will be permanently lost.  Are you sure you want to delete your account?
+sp_option_company_info	Company Information
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_usa.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	Initializing billing system...
 sp_plan_help_button	Premium Plan help
 sp_plan_help_detail_button	■ About the Premium Plan A Premium Plan grants access to the following features. ・ Deposit and store up to 6,000 Pokémon ・ Move Pokémon over from Pokémon Bank Note: This requires linking with a Nintendo Account ・ Use the Judge function on a Pokémon's status screen ・ Deposit up to three Pokémon for trade in the GTS at a time ・ Deposit up to 10 Pokémon for trade in the Wonder Box at a time ・ Create rooms for Room Trades
 sp_plan_help_title	About subscriptions
-sp_plan_help_text	■ Premium Plan features ・ Move Pokémon over from Pokémon Bank ・ Deposit and store up to 6,000 Pokémon ・ Have up to 10 Pokémon up for trade in your Wonder Box at a time ・ Have up to three Pokémon up for trade on the GTS at a time ・ Create Room Trades ・ Gain access to the Judge function
+sp_plan_help_text	■Premium Plan Features ・Move Pokémon over from Pokémon Bank. ・Deposit and store up to six thousand Pokémon. ・Have up to 10 Pokémon up for trade in your Wonder Box at a time. ・Have up to three Pokémon up for trade on the GTS at a time. ・Create Room Trades. ・Gain access to the Judge Function. ・Hold up to 1,000 medals.
 sp_plan_control_link_button	Manage plan renewal
 sp_plan_name_30_android_v2	<b>1 Month Plan</b>
 sp_plan_name_90_android_v2	<b>3 Month Plan</b>

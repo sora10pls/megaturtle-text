@@ -7492,6 +7492,256 @@ sp_languageconfirm_003	아니요
 sp_languageconfirm_004	선택한 언어 확인
 
 ~~~~~~~~~~~~~~~
+Text File : sp_medal_kor.msbt
+~~~~~~~~~~~~~~~
+sp_medal_top_stock	보유 메달
+sp_medal_top_trade_gift	교환/선물
+sp_medal_top_event	관련 이벤트
+sp_medal_top_report	메달 리포트
+sp_medal_top_read	스캔
+sp_medal_error	에러
+sp_medal_menu_nalink_none	메달 기능을 이용하려면 닌텐도 어카운트와 연동해야 합니다
+sp_medal_stock_limit_title	메달 보유 수 상한
+sp_medal_stock_limit_main	메달이 가득 찼습니다
+sp_medal_stock_limit_desc	[VAR 0117(0000)]일 때 보유할 수 있는 메달은 최대 [VAR 0200(0001)]개입니다(현재 [VAR 0200(0002)]개)
+sp_medal_stock_limit_howto_1	해결 방법
+sp_medal_stock_limit_howto_2	・"선물한다" 또는 "버린다"를 통해 메달을 줄인다
+sp_medal_stock_limit_howto_3	・"프리미엄 플랜"에 가입한다
+sp_medal_stock_limit_howto_4	(보유 상한이 [VAR 0203(0000)]개로 늘어납니다)
+sp_medal_close	닫는다
+sp_medal_stock_limit_join_plan	플랜 가입
+sp_medal_menu_title	메달
+sp_medal_stock_limit_howto_5	표시 형식이 프리 박스로 변경되었습니다. 최근에 입수한 30개만 이용할 수 있습니다. 프리 박스 이외의 메달을 이용하려면 다시 프리미엄 플랜에 가입해 주십시오.
+sp_medal_stock_title	보유 메달([VAR 0203(0000)])
+sp_medal_search	검색
+sp_medal_stock_nodata	표시할 수 있는 메달이 없습니다
+sp_medal_detail_number	No.
+sp_medal_detail_create_at	입수 일자
+sp_medal_detail_location	장소
+sp_medal_detail_category	카테고리
+sp_medal_detail_distr_period	배포 기간
+sp_medal_detail_log	메달의 역사
+sp_medal_detail_gift_button	선물한다
+sp_medal_release	버린다
+sp_medal_detail_traded_check_button	교환 요청 확인
+sp_medal_detail_trading	이 메달은 교환에 내보낸 상태입니다
+sp_medal_detail_traded_select_button	교환한다
+sp_medal_detail_log_create	[VAR 0100(0000)][VAR 1900(0002)]촃 발행
+sp_medal_detail_log_trade	[VAR 0100(0000)][VAR 1900(0002)]촃 교환으로 입수
+sp_medal_detail_log_gift	[VAR 0100(0000)][VAR 1900(0002)]촃 선물로 입수
+sp_medal_detail_log_button	더 보기
+sp_medal_reselect	다시 선택
+sp_medal_gift_send	선물한다
+sp_medal_result_gift_send_title	선물 완료!
+sp_medal_result_gift_send_medal	선물한 메달
+sp_medal_result_gift_send_done	[VAR 0100(0000)]에게 선물했습니다
+sp_medal_release_title	버린다
+sp_medal_release_confirm_1	정말 위 메달을 버리겠습니까?
+sp_medal_release_confirm_2	※버린 메달은 복원할 수 없습니다
+sp_medal_release_confirm_3	※메달 리포트에는 버린 메달도 표시됩니다
+sp_medal_release_done	위 메달을 버렸습니다
+sp_medal_error_gift_send_limit	선물은 하루에 [VAR 0201(0000)]건까지만 보낼 수 있습니다
+sp_medal_filter_name	메달 이름
+sp_medal_filter_location	발행 장소
+sp_medal_sort_getdate	입수 일자
+sp_medal_sort_location	발행 장소
+sp_medal_detail_log_title	역사
+sp_medal_stock_no_medal	메달을 보유하고 있지 않습니다
+sp_medal_except_freebox	프리 박스 이외의 메달
+sp_medal_cert	메달 감정서
+sp_medal_detail_gifting	이 메달은 선물로 보낸 상태입니다
+sp_medal_date	일시
+sp_medal_number	#[VAR 0117(0000)]
+sp_medal_deleted_user	삭제된 유저
+sp_medal_number_range	~
+sp_medal_deliver_title	교환/선물
+sp_medal_deliver_trade	교환
+sp_medal_deliver_gift	선물
+sp_medal_deliver_nodata	표시할 수 있는 교환 요청/선물이 없습니다
+sp_medal_deliver_item_trade_from	[VAR 0100(0000)][VAR 1900(0002)]촃 보낸 교환 요청
+sp_medal_deliver_item_trade_to	[VAR 0100(0000)]에게 보낸 교환 요청
+sp_medal_deliver_item_trade_comp	[VAR 0100(0000)][VAR 1900(0002)]촄의 교환이 성립되었습니다!
+sp_medal_deliver_item_trade_cancel	[VAR 0100(0000)][VAR 1900(0002)]촄의 교환이 취소되었습니다
+sp_medal_deliver_item_gift_from	[VAR 0100(0000)][VAR 1900(0002)]촃 보낸 선물
+sp_medal_deliver_item_gift_cancel	[VAR 0100(0000)]에게 보낸 선물이 취소되었습니다
+sp_medal_confirm	확인한다
+sp_medal_result_trade_offer_title	교환 요청을 보냈습니다!
+sp_medal_result_trade_offer_medal	교환 요청 중인 메달
+sp_medal_result_trade_offer_done	[VAR 0100(0000)]에게 교환 요청을 보냈습니다
+sp_medal_result_trade_comp_title	교환 완료!
+sp_medal_result_trade_comp_medal	받은 메달
+sp_medal_result_trade_comp_done	[VAR 0100(0000)][VAR 1900(0002)]촄 교환했습니다
+sp_medal_result_detail	자세히 본다
+sp_medal_result_gift_recv_title	메달을 받았습니다!
+sp_medal_result_gift_recv_medal	받은 메달
+sp_medal_result_gift_recv_done	[VAR 0100(0000)]에게서 받았습니다
+sp_medal_offer_title	교환 요청
+sp_medal_offer_trade_from	[VAR 0100(0000)][VAR 1900(0002)]촃 보낸 교환 요청
+sp_medal_offer_recv_medal	받을 메달
+sp_medal_offer_send_medal	보낼 메달
+sp_medal_offer_select	메달 선택
+sp_medal_offer_exec	교환한다
+sp_medal_offer_trade_to	[VAR 0100(0000)][VAR 1900(0002)]촄 교환 중
+sp_medal_offer_cancel	중지한다
+sp_medal_offer_cancel_title	교환 중지
+sp_medal_offer_cancel_confirm	이 교환을 중지하겠습니까?
+sp_medal_offer_cancel_no	중지하지 않는다
+sp_medal_offer_cancel_yes	중지한다
+sp_medal_offer_cancel_done	교환을 중지했습니다
+sp_medal_friend_no_nalink	이 친구는 게스트 어카운트이므로 메달 기능을 이용할 수 없습니다
+sp_medal_ok	OK
+sp_medal_trade_cancel_title	교환 중지
+sp_medal_trade_cancel_done	이 교환은 중지되었습니다
+sp_medal_gift_cancel_title	선물 중지
+sp_medal_gift_cancel_done	이 선물은 중지되었습니다
+sp_medal_sort_date	일시
+sp_medal_error_trade_sametime	교환은 동시에 [VAR 0201(0000)]건까지 진행할 수 있습니다 자신이 보낸 교환 요청을 확인하고 교환 요청 수를 줄여 주십시오
+sp_medal_error_gift_recv_limit	선물은 하루에 [VAR 0201(0000)]건까지만 받을 수 있습니다
+sp_medal_error_deliver_limit	더 이상 교환/선물을 표시할 수 없습니다 교환/선물 일람을 확인하고 진행 중인 교환을 종료하거나 받지 않은 선물을 받아 주십시오
+sp_medal_error_trade_limit	교환은 하루에 [VAR 0201(0000)]건까지만 진행할 수 있습니다
+sp_medal_error_deliver_others_limit	이 친구는 현재 교환/선물 수가 상한에 도달하여 교환/선물을 할 수 없습니다
+sp_medal_error_trade_progress	이 친구와는 이미 진행 중인 교환/선물이 있습니다 해당 교환/선물을 먼저 완료해 주십시오
+sp_medal_trade_title	메달 교환
+sp_medal_trade_method_friend	친구와 교환
+sp_medal_trade_method_qr	패턴 코드로 교환
+sp_medal_trade_method_serial	시리얼 코드로 교환
+sp_medal_trade_qr_confirm	패턴 코드를 표시한다
+sp_medal_trade_qr_read	패턴 코드를 스캔한다
+sp_medal_qr_confirm_title	당신의 패턴 코드
+sp_medal_code_expire_remain	남은 코드 유효 기간
+sp_medal_qr_read_title	패턴 코드 스캔
+sp_medal_serial_title	시리얼 코드
+sp_medal_trade_serial_confirm	교환 상대의 시리얼 코드를 입력해 주십시오
+sp_medal_serial_placeholder	탭해서 시리얼 코드를 입력
+sp_medal_serial_your_code	당신의 시리얼 코드
+sp_medal_serial_confirm	확인
+sp_medal_code_expired_retry	입력한 코드의 유효 기간이 지났습니다 새로운 코드를 발행한 다음 다시 시도해 주십시오
+sp_medal_code_failed_limit	연속해서 코드 입력에 실패하여 일시적으로 기능을 제한합니다 ※기능 제한은 에러 표시로부터 24시간 후에 해제됩니다
+sp_medal_friend_title	메달
+sp_medal_friend_add	+ 친구 추가
+sp_medal_friend_none	표시할 수 있는 친구가 없습니다 친구를 추가해 주십시오
+sp_medal_gift_recv	선물 받기
+sp_medal_gift_recv_confirm	오늘 받을 수 있는 선물은 앞으로 [VAR 0201(0000)]건 남았습니다 이 선물을 받겠습니까?
+sp_medal_gift_recv_no	받지 않는다
+sp_medal_gift_recv_yes	받는다
+sp_medal_code_expired	유효 기간 만료
+sp_medal_gift_reject_title	선물 거부
+sp_medal_gift_reject_confirm	이 선물을 거부하겠습니까?
+sp_medal_gift_reject_no	거부하지 않는다
+sp_medal_gift_reject_yes	거부한다
+sp_medal_gift_reject_done	선물을 거부했습니다
+sp_medal_deliver_no_medal	메달을 하나도 보유하고 있지 않습니다
+sp_medal_gift_title	메달 선물
+sp_medal_gift_mode_send	선물을 보낸다
+sp_medal_gift_mode_recv	선물을 받는다
+sp_medal_cancel	취소
+sp_medal_gift_send_friend	친구에게 선물
+sp_medal_gift_send_qr	패턴 코드로 선물
+sp_medal_gift_send_serial	시리얼 코드로 선물
+sp_medal_gift_serial_input	선물을 받을 상대의 시리얼 코드를 입력해 주십시오
+sp_medal_gift_recv_qr	패턴 코드로 받는다
+sp_medal_gift_recv_serial	시리얼 코드로 받는다
+sp_medal_gift_serial_explain	선물을 보내는 상대에게 아래 시리얼 코드를 전달해 주십시오
+sp_medal_gift_recv_explain	선물이 도착했습니다! 교환 요청/선물 일람을 확인해 주십시오
+sp_medal_deliver_item_gift_to	[VAR 0100(0000)]에게 보낸 선물
+sp_medal_offer_gift_to	[VAR 0100(0000)]에게 보낸 선물
+sp_medal_offer_gift_cancel_confirm	이 선물을 중지하겠습니까?
+sp_medal_trade_serial_show	시리얼 코드를 표시한다
+sp_medal_trade_serial_input	시리얼 코드를 입력한다
+sp_medal_trade_serial_explain	교환 상대에게 아래 시리얼 코드를 전달해 주십시오
+sp_medal_trade_recv_explain	교환 요청이 도착했습니다! 교환 요청/선물 일람을 확인해 주십시오
+sp_medal_event_list_title	관련 이벤트
+sp_medal_event_detail_title	이벤트 상세 정보
+sp_medal_event_detail_url	URL
+sp_medal_event_detail_medal	이벤트에서 받을 수 있는 메달
+sp_medal_event_filter_location	이벤트 개최 지역
+sp_medal_read_title	메달 스캔
+sp_medal_read_method_main	어떤 기능으로 스캔하겠습니까?
+sp_medal_read_method_gps	에리어 체크
+sp_medal_read_method_nfc	NFC 스캔
+sp_medal_read_gps_list_title	이 에리어에서 받을 수 있는 메달
+sp_medal_read_obtain_main	메달을 발행했습니다!
+sp_medal_read_obtain_name	발행한 메달
+sp_medal_read_obtain_detail	자세히 본다
+sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
+sp_medal_read_obtain_next	다음으로
+sp_medal_read_error_already_obtain	이미 받은 메달입니다 발행 가능까지 앞으로
+sp_medal_read_error_already_desc1	같은 메달은 하루에 한 번만 발행할 수 있습니다
+sp_medal_read_error_already_desc2	※매일 0시(UTC)에 초기화됩니다
+sp_medal_read_error_before_start	배포 개시 전인 메달입니다  발행 개시일은
+sp_medal_read_error_after_end	배포가 종료된 메달입니다
+sp_medal_read_error_create_limit	발행 상한에 도달한 메달입니다
+sp_medal_read_gps_init	GPS를 초기화하는 중입니다
+sp_medal_read_gps_confirm	GPS 기능을 ON으로 해주십시오 ※이용 중인 단말기의 설정을 확인해 주십시오
+sp_medal_read_gps_failed	GPS를 켜지 못했습니다
+sp_medal_return	돌아간다
+sp_medal_read_nfc_main	NFC 태그를 스캔해 주십시오
+sp_medal_read_nfc_done	스캔에 성공했습니다!
+sp_medal_read_nfc_failed	스캔하지 못했습니다
+sp_medal_read_nfc_unrelated	대응하지 않는 NFC 태그입니다
+sp_medal_read_nfc_timeout	스캔 시간을 초과했습니다 다시 한번 시도해 주십시오
+sp_medal_read_method_none	이용 중인 환경에서는 스캔 기능을 이용할 수 없습니다
+sp_medal_read_gps_nodata	이 에리어에서 받을 수 있는 메달이 없습니다
+sp_medal_report_title	메달 리포트
+sp_medal_report_cell_year_month	[VAR 0203(0000)]년 [VAR 0201(0001)]월
+sp_medal_report_gift	[VAR 0100(0000)][VAR 1900(0002)]촅로부터 위 메달을 받았다!
+sp_medal_report_gave	위 메달을 [VAR 0100(0000)]에게 선물했다!
+sp_medal_report_trade	[VAR 0100(0000)][VAR 1900(0002)]촄 메달을 교환했다!  받은 메달
+sp_medal_report_trade_2	보낸 메달
+sp_medal_report_create	위 메달을 발행했다!
+sp_medal_report_release	위 메달을 버렸다
+sp_medal_report_dialog_button	기록
+sp_medal_report_acquired	입수한 메달
+sp_medal_report_exchanged	교환한 메달
+sp_medal_report_give	선물한 메달
+sp_medal_report_received	선물받은 메달
+sp_medal_quantity	[VAR 0203(0000)]개
+sp_medal_report_obtain	발행한 메달
+sp_medal_mainte_title	점검
+sp_medal_mainte_body	메달 기능은 현재 점검 중입니다 메달 기능 이외의 "Pokémon HOME" 기능은 이용하실 수 있습니다 종료 예정 시각: [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)] [VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_error_system_limit	현재 고객님의 어카운트에서는 메달 기능 이용이 제한되어 있습니다
+sp_medal_error_common_go_home	에러가 발생했습니다. 마이 룸 화면으로 돌아갑니다. 에러 코드: [VAR 0200(0000)]
+sp_medal_error_common	에러가 발생했습니다. 다시 조작해 주십시오. 에러 코드: [VAR 0200(0000)]
+sp_medal_error_code_auth_invalid	코드가 틀립니다. 에러 코드: [VAR 0200(0000)]
+sp_medal_error_deliver_status	교환/선물 상대가 스테이터스를 갱신했습니다. 다시 한번 교환/선물 일람을 확인해 주십시오. 에러 코드: [VAR 0200(0000)]
+sp_medal_mainte_body_indefinite	메달 기능은 현재 점검 중입니다 메달 기능 이외의 "Pokémon HOME" 기능은 이용하실 수 있습니다
+sp_medal_tutorial_0001	하이~! 내 이름은 몬보! "Pokémon HOME"에 "메달"이라는 새로운 기능이 추가되었으니 내가 설명해 주겠다몬!
+sp_medal_tutorial_0002	네가 특정 장소를 방문하거나 이벤트에 참가한 추억을 "메달"로 보관할 수 있다몬!
+sp_medal_tutorial_0003	입수한 메달의 상세 정보는 언제든지 확인할 수 있다몬! 언제 어디에서 어떤 추억을 만들었는지 메달을 통해서 되돌아봐라몬!
+sp_medal_tutorial_0004	메달은 친구와 교환하거나 선물할 수 있다몬! 여행 기념품 같은 느낌으로 추억을 공유해 봐라몬!
+sp_medal_tutorial_0005	메달의 입수 방법은 "관련 이벤트"에서 확인할 수 있다몬! 시기나 지역에 따라 입수할 수 있는 메달이 다르니까 틈틈이 체크해 봐라몬!
+sp_medal_tutorial_0006	메달에 대한 간단한 설명은 끝이다몬! 그 밖에 자세한 내용이 궁금하다면 도움말을 확인해 봐라몬!
+sp_medal_tutorial_0007	마지막으로! 너에게 줄 선물이 있다몬! 메달 기능을 처음 사용한 기념으로 메달을 선물해 주겠다몬!
+sp_medal_tutorial_0008	같은 그림의 메달을 3개 선물할 테니까 어떤 그림을 받았는지 친구에게 공유하고 교환하거나 선물하면서 즐겨 봐라몬!
+sp_medal_tutorial_stock_0001	네가 보유하고 있는 메달은 일람에서 확인할 수 있다몬!
+sp_medal_tutorial_stock_0002	프리미엄 플랜일 때는 메달을 많이 가질 수 있으니까 같은 그림의 메달은 합쳐서 표시된다몬!
+sp_medal_tutorial_stock_0003	상세 화면에서는 메달을 언제, 누가 손에 넣었는지 지금까지 어떤 사람의 손을 거쳤는지 같은 정보를 확인할 수 있다몬!
+sp_medal_tutorial_stock_0004	많은 사람의 손을 거친 메달은 그만큼 기록이 길어진다몬! 메달에 새겨진 역사를 느낄 수 있다몬!
+sp_medal_tutorial_stock_0005	각각의 상세 정보를 확인하고 싶을 때는 대상 메달을 선택해 봐라몬!
+sp_medal_tutorial_tradegift_0001	여기에서는 메달을 교환하거나 선물할 수 있다몬!
+sp_medal_tutorial_tradegift_0002	교환은 한 개로만 이뤄진다몬! 네가 교환할 메달을 하나 선택하고 상대도 교환할 메달을 하나 선택하면 서로의 메달을 보여 주게 된다몬!
+sp_medal_tutorial_tradegift_0003	서로 교환할 메달을 확인한 다음 문제없으면 교환이 성립된다몬! 둘 중 한 명이라도 동의하지 않으면 교환은 실패하게 된다몬!
+sp_medal_tutorial_tradegift_0004	선물은 상대에게서 메달을 받지 않고 네가 보유한 메달을 줄 수 있는 기능이다몬!
+sp_medal_tutorial_tradegift_0005	네가 보내고 싶은 메달을 하나 선택하고 상대가 받으면 선물이 성립된다몬! 일방적으로 보낼 수는 없다몬!
+sp_medal_tutorial_tradegift_0006	가족이나 친구와 메달을 교환하거나 선물하면서 추억을 공유해 봐라몬!
+sp_medal_tutorial_event_0001	언제 어디에서 메달을 받을 수 있는지 확인할 수 있는 화면이다몬!
+sp_medal_tutorial_event_0002	메달을 받을 수 있는 이벤트는 시기나 거주 중인 지역에 따라 다르니까 틈틈이 체크해 보는 걸 추천한다몬!
+sp_medal_tutorial_report_0001	너 자신의 메달에 관한 기록을 확인할 수 있다몬!
+sp_medal_tutorial_report_0002	지금까지 입수한 메달의 총개수나 교환이나 선물로 입수한 메달의 수를 되돌아볼 수 있다몬!
+sp_medal_tutorial_report_0003	메달을 많이 입수할수록 되돌아보는 재미가 있는 기능이다몬!
+sp_medal_tutorial_obtain_title	메달 기능 튜토리얼
+sp_medal_category_other	기타
+sp_medal_name_00000_tutorial_01	메달 이용 개시 기념①
+sp_medal_name_00000_tutorial_02	메달 이용 개시 기념②
+sp_medal_name_00000_tutorial_03	메달 이용 개시 기념③
+sp_medal_name_00000_tutorial_04	메달 이용 개시 기념④
+sp_medal_name_00000_tutorial_05	메달 이용 개시 기념⑤
+sp_medal_name_00000_tutorial_06	메달 이용 개시 기념⑥
+sp_medal_name_00000_tutorial_07	메달 이용 개시 기념⑦
+sp_medal_name_00000_tutorial_08	메달 이용 개시 기념⑧
+sp_medal_name_00000_tutorial_09	메달 이용 개시 기념⑨
+
+~~~~~~~~~~~~~~~
 Text File : sp_memory_kor.msbt
 ~~~~~~~~~~~~~~~
 sp_memory_01	Pokémon Day
@@ -7918,6 +8168,7 @@ sp_option_nalink_0044_v2	연동한 닌텐도 어카운트에서 스마트폰 버
 sp_option_nalink_0045_v2	지금까지 이용 중이던 스마트폰 버전 Pokémon HOME의 <u><b>타이틀 화면에 표시되는 서포트 ID</b></u>가 아래 ID와 일치하는지 확인해 주십시오
 sp_option_nalink_0046_v2	스마트폰 버전 Pokémon HOME을 이어서 시작하겠습니까?
 sp_option_nalink_0047	스마트폰 버전 "Pokémon HOME"의 "이상한 소포" 이용
+sp_option_nalink_0048	스마트폰 버전 "Pokémon HOME"의 "메달" 이용
 sp_option_holohlo_0001_vgo	Pokémon GO 연동
 sp_option_holohlo_0004_vgo	받는다
 sp_option_holohlo_0005_vgo	받는다
@@ -7942,6 +8193,7 @@ sp_option_userdel_confirm1_body_nalink_v12	닌텐도 어카운트와 연동 중�
 sp_option_userdel_confirm2_body_v11	프리미엄 플랜에 가입한 경우, 어카운트를 삭제해도 프리미엄 플랜이 자동으로 해약되지는 않습니다. 반드시 직접 프리미엄 플랜을 구입한 각 스토어에서 해약을 진행해 주십시오.  ・Nintendo Switch 버전에서 구입한 경우 　⇒"닌텐도 e숍" ・iOS 버전에서 구입한 경우 　⇒"App Store" ・Android 버전에서 구입한 경우 　⇒"Google Play 스토어"  프리미엄 플랜 해약을 잊어버려서 발생한 환불 및 관련 문의에 대해서는 일절 대응하지 않습니다.
 sp_option_userdel_confirm3_title_v11	최종 확인
 sp_option_userdel_confirm3_body_v11	한번 삭제한 어카운트는 복구할 수 없습니다. 지금까지 이 앱을 이용한 기록과 도감, 업적 등의 모든 정보가 사라집니다. 정말 어카운트를 삭제하겠습니까?
+sp_option_company_info	회사 정보
 
 ~~~~~~~~~~~~~~~
 Text File : sp_plan_kor.msbt
@@ -7973,7 +8225,7 @@ sp_plan_not_Initalizing_text	과금 시스템을 초기화 중입니다
 sp_plan_help_button	프리미엄 플랜 도움말
 sp_plan_help_detail_button	■프리미엄 플랜에 대하여 프리미엄 플랜인 경우, 아래 기능을 이용할 수 있습니다. ・포켓몬을 6000마리까지 맡길 수 있습니다. ・"포켓몬 뱅크"에서 포켓몬 이사 　※닌텐도 어카운트를 연동해야 합니다. ・포켓몬 상세 화면에서 심판 기능을 이용할 수 있습니다. ・GTS에 동시에 3마리까지 포켓몬을 맡길 수 있습니다. ・미라클 박스에 동시에 10마리까지 포켓몬을 맡길 수 있습니다. ・그룹 교환에서 그룹을 작성할 수 있습니다.
 sp_plan_help_title	구독에 대하여
-sp_plan_help_text	■프리미엄 플랜으로 할 수 있는 것 ・"포켓몬 뱅크"에서 이사 기능을 사용할 수 있습니다. ・포켓몬을 6000마리까지 맡길 수 있게 됩니다. ・미라클 박스에 동시에 10마리까지 포켓몬을 맡길 수 있습니다. ・GTS에 동시에 3마리까지 포켓몬을 맡길 수 있습니다. ・그룹 교환에서 그룹을 작성할 수 있습니다. ・심판 기능을 사용할 수 있습니다.
+sp_plan_help_text	■프리미엄 플랜으로 할 수 있는 것 ・"포켓몬 뱅크"에서 이사 기능을 사용할 수 있습니다. ・포켓몬을 6000마리까지 맡길 수 있게 됩니다. ・미라클 박스에 동시에 10마리까지 포켓몬을 맡길 수 있습니다. ・GTS에 동시에 3마리까지 포켓몬을 맡길 수 있습니다. ・그룹 교환에서 그룹을 작성할 수 있습니다. ・심판 기능을 사용할 수 있습니다. ・메달을 1,000개까지 보유할 수 있습니다.
 sp_plan_control_link_button	정기 구입 관리
 sp_plan_name_30_android_v2	<b>1개월 플랜</b>
 sp_plan_name_90_android_v2	<b>3개월 플랜</b>
