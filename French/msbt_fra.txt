@@ -7231,6 +7231,8 @@ sp_ach_box_0040	Déposer des Pokémon ayant leur Grâce au maximum
 sp_ach_box_0041	Déposer des Pokémon ayant leur Intelligence au maximum
 sp_ach_box_0042	Déposer des Pokémon ayant leur Robustesse au maximum
 sp_ach_box_0043	Déposer des Pokémon ayant leur Lustre au maximum
+sp_ach_gps_init	Initialisation du GPS...
+sp_ach_gps_confirm	Veuillez activer la fonctionnalité GPS. Veuillez vérifier les paramètres de votre appareil.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_fra.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	Vous allez télécharger [VAR 0200(0000)] Ko de données. 
 sp_api_dlsize_b_text	Vous allez télécharger [VAR 0200(0000)] octet(s) de données. Voulez-vous continuer ?
 sp_api_lack_storage	Espace insuffisant sur votre appareil. Veuillez supprimer des données inutiles.
 sp_api_break_file	Un fichier est corrompu. Veuillez retourner à l'écran titre et vider le cache.
-sp_api_maintenance_010	Une maintenance est en cours. La fin de la maintenance est prévue pour : le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)] à [VAR 0201(0003)]:[VAR 0201(0004)].
+sp_api_maintenance_010	Une maintenance est en cours. La fin de la maintenance est prévue pour : le [VAR 0117(0000)] à [VAR 0201(0001)]:[VAR 0201(0002)].
 sp_api_maintenance_020	Une maintenance est en cours. Veuillez patienter jusqu'à la fin de la maintenance.
 sp_api_maintenance_030	Une maintenance d'urgence est en cours. Veuillez patienter jusqu'à la fin de la maintenance. Nous vous prions de nous excuser pour la gêne occasionnée.
 sp_api_400_8809	Impossible de se connecter en utilisant ce compte Nintendo.  Veuillez consulter la FAQ sur les comptes Nintendo.
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	Infos sur l'évènement
 sp_medal_event_detail_url	URL
 sp_medal_event_detail_medal	Médailles pouvant être obtenues
 sp_medal_event_filter_location	Lieu de l'évènement
+sp_medal_event_list_empty	Aucun évènement à afficher.
 sp_medal_read_title	Scanner une médaille
 sp_medal_read_method_main	Comment voulez-vous effectuer la lecture ?
 sp_medal_read_method_gps	Distribution locale
@@ -7668,6 +7671,7 @@ sp_medal_read_obtain_next	Suivant
 sp_medal_read_error_already_obtain	Vous avez déjà reçu cette médaille. Elle pourra être créée de nouveau dans :
 sp_medal_read_error_already_desc1	Chaque médaille ne peut être créée qu'une fois par jour.
 sp_medal_read_error_already_desc2	Remarque : chaque nouvelle journée commence à 00:00 UTC.
+sp_medal_read_error_already_obtain_event	Cette médaille ne peut être reçue qu'une fois, et vous l'avez déjà reçue.
 sp_medal_read_error_before_start	La distribution de cette médaille n'a pas encore commencé. Début de la période de distribution :
 sp_medal_read_error_after_end	La distribution de cette médaille est terminée.
 sp_medal_read_error_create_limit	Vous avez atteint la limite de création de cette médaille.
@@ -7698,12 +7702,13 @@ sp_medal_report_received	Médailles reçues en cadeau
 sp_medal_quantity	[VAR 0203(0000)]
 sp_medal_report_obtain	Médailles créées
 sp_medal_mainte_title	Maintenance
-sp_medal_mainte_body	La fonctionnalité « Médailles » est actuellement en maintenance. Vous pouvez continuer à utiliser les autres fonctionnalités de Pokémon HOME normalement. La fin de la maintenance est prévue pour le [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)] à [VAR 0201(0003)]:[VAR 0201(0004)].
+sp_medal_mainte_body	La fonctionnalité « Médailles » est actuellement en maintenance. Vous pouvez continuer à utiliser les autres fonctionnalités de Pokémon HOME normalement. La fin de la maintenance est prévue pour le [VAR 0117(0000)] à [VAR 0201(0001)]:[VAR 0201(0002)].
 sp_medal_error_system_limit	Vous ne pouvez actuellement pas utiliser la fonctionnalité « Médailles » avec votre compte.
 sp_medal_error_common_go_home	Une erreur est survenue. Retour au menu « Accueil ». Code d'erreur : [VAR 0200(0000)]
 sp_medal_error_common	Une erreur est survenue. Veuillez recommencer l'opération. Code d'erreur : [VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	Le code est erroné. Code d'erreur : [VAR 0200(0000)]
 sp_medal_error_deliver_status	Le statut de la personne avec qui vous étiez en train d'échanger ou d'envoyer un cadeau a changé. Veuillez vérifier l'écran d'échanges et de cadeaux. Code d'erreur : [VAR 0200(0000)]
+sp_medal_error_return_medal_top	Impossible de trouver la personne avec qui vous étiez en train d'échanger ou d'envoyer un cadeau. Annulation de l'échange ou du cadeau. Retour à l'écran de médailles.
 sp_medal_mainte_body_indefinite	La fonctionnalité « Médailles » est actuellement en maintenance. Vous pouvez continuer à utiliser les autres fonctionnalités de Pokémon HOME normalement.
 sp_medal_tutorial_0001	Bonjour ! C'est moi, Boball ! Figurez-vous qu'une nouveauté vient d'être ajoutée à Pokémon HOME : la fonctionnalité « Médailles » ! Comptez sur moi pour tout vous expliquer !
 sp_medal_tutorial_0002	Pour faire simple, vous pouvez obtenir des médailles afin de commémorer le fait d'avoir visité certains endroits, ou d'avoir participé à divers évènements !
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	Félicitations ! Vous avez complété les Pokédex d'un jeu !
 sp_mystery_0030_2	Vous avez complété le Pokédex de Paldea, le Pokédex de Septentria et le Pokédex Myrtille ! En récompense, nous vous offrons un Meloetta spécial !
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	Nous vous souhaitons un très joyeux anniversaire ! Pour célébrer cette journée avec vous, nous vous offrons un Compagnol !
+sp_mystery_card_0001_1	Cadeau pour votre visite aux PJCS 2025 !
+sp_mystery_card_0001_2	Saisissez le code dans Pokémon Écarlate ou Pokémon Violet pour recevoir [VAR 0101(0000)], un des Pokémon phares de l'équipe gagnante de la catégorie senior des CMP 2024 !
+sp_mystery_card_0002_1	Cadeau de participation à l'évèn. sec. des PJCS 2025 !
+sp_mystery_card_0002_2	Merci d'avoir participé à cet évènement ! Saisissez le code dans Pokémon Écarlate ou Pokémon Violet pour recevoir 6 lots de 100 Téra-Éclats !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	Vous n'avez pas pu rejoindre ce groupe.
 sp_trade_group_00038	Expulser
 sp_trade_group_00039	En attente d'autres utilisateurs...
 sp_trade_group_change_plan_confirm	Un compte premium est nécessaire pour pouvoir créer un groupe.  Souhaitez-vous changer de type de compte ?
-sp_trade_firend_00001	Initialisation du GPS...
 sp_trade_firend_00002	En attente de [VAR 0100(0000)]...
 sp_trade_firend_00003	En attente de connexion...
 sp_trade_firend_00004	Échanger
 sp_trade_firend_00005	Prêt !
 sp_trade_firend_00006	Sélection
-sp_trade_firend_00007	Veuillez activer la fonctionnalité GPS.
 sp_trade_firend_00008	L'échange va prendre fin. Cela vous convient-il ?
 sp_trade_firend_00009_v1	L'initialisation du GPS a échoué. Retour à l'écran d'échange.
 sp_trade_firend_00010_v1	Aucun partenaire d'échange n'a été trouvé à proximité. Veuillez vous rapprocher de votre partenaire et réessayer.
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	De 61 à 70
 sp_trade_gts_02008	De 71 à 80
 sp_trade_gts_02009	De 81 à 90
 sp_trade_gts_02010	91 ou plus
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)],  [VAR 01D4(0001)]
 sp_trade_invalid_00001	Vous n'avez aucun Pokémon à échanger. Veuillez en déposer dans Pokémon HOME pour procéder à des échanges.
 sp_trade_invalid_00002	Vous n'avez aucun Pokémon à échanger. Veuillez en déposer dans Pokémon HOME ou en retirer de la Boîte Miracle pour procéder à des échanges.
 sp_trade_invalid_00003	Vous n'avez aucun Pokémon à échanger. Veuillez en déposer dans Pokémon HOME ou en recevoir via le GTS pour procéder à des échanges.
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	Obtenu dans les jeux ci-dessus
 sp_ui_gift_02006	Récupérer
 sp_ui_gift_02007	Boîte Cadeau
 sp_ui_gift_empty_list	Aucun Cadeau Mystère.
+sp_ui_gift_sort_received_date	Date de réception
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Veuillez saisir un code.
 sp_ui_gift_select_title	Confirmer la sélection de Pokémon
 sp_ui_gift_select_confirm	Vous avez sélectionné [VAR 0101(0000)]. Cela vous convient-il ?  [VAR FF00(0001)]Attention : vous ne pourrez pas modifier cette sélection plus tard.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Choisir un autre
+sp_ui_gift_card_used	Utilisée
+sp_ui_gift_card_name	Carte Miracle
+sp_ui_gift_card_received_date	Date de réception : [VAR 0117(0000)]
+sp_ui_gift_card_empty	Aucune Carte Miracle à afficher.
 sp_ui_achieve_dialog_all_clear	Accompli
 sp_ui_achieve_dialog_header_title	Récompense(s)
 sp_ui_achieve_sort_grade	Grade

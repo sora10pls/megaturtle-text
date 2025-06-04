@@ -7231,6 +7231,8 @@ sp_ach_box_0040	かわいさが　最高の\nポケモンを　預ける
 sp_ach_box_0041	かしこさが　最高の\nポケモンを　預ける
 sp_ach_box_0042	たくましさが　最高の\nポケモンを　預ける
 sp_ach_box_0043	けづやが　最高の\nポケモンを　預ける
+sp_ach_gps_init	GPSを初期化中です
+sp_ach_gps_confirm	GPS機能を　オンにしてください\n※ご利用の端末の設定を\n見直してください
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_jpn_kanji.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	[VAR 0200(0000)]KB　ダウンロードしますが\nよ�
 sp_api_dlsize_b_text	[VAR 0200(0000)]Byte　ダウンロードしますが\nよろしいですか？
 sp_api_lack_storage	端末の　空き容量が　たりません\n不要なデータを　削除してください
 sp_api_break_file	ファイルが　破損しています\nタイトル画面の　メニューから\nキャッシュを　クリアしてください
-sp_api_maintenance_010	ただいま　メンテナンス中です\n終了予定時刻は　下記の通りです\n[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]　
+sp_api_maintenance_010	ただいま　メンテナンス中です\n終了予定時刻は　下記の通りです\n[VAR 0117(0000)]　[VAR 0201(0001)]:[VAR 0201(0002)]
 sp_api_maintenance_020	ただいま　メンテナンス中です\nメンテナンス終了まで　しばらくお待ちください
 sp_api_maintenance_030	ただいま　緊急メンテナンス中です\nご迷惑をおかけして申し訳ございませんが\nメンテナンス終了まで　しばらくお待ちください
 sp_api_400_8809	ニンテンドーアカウントで\nログインできませんでした\n\nニンテンドーアカウントのQ&Aを\nご確認ください
@@ -7599,8 +7601,8 @@ sp_medal_error_trade_sametime	同時に進められる交換は\n[VAR 0201(0000)
 sp_medal_error_gift_recv_limit	ギフトは１日に　[VAR 0201(0000)]件までしか\n受け取ることができません
 sp_medal_error_deliver_limit	これ以上交換／ギフトを\n表示できません\n交換／ギフト一覧を　確認して\n今進めている交換を　終わらせるか\n受け取っていないギフトを　受け取ってください
 sp_medal_error_trade_limit	交換は　１日に　[VAR 0201(0000)]件までしか\n実行することが　できません
-sp_medal_error_deliver_others_limit	このフレンドは　現在\n交換／ギフトの数が\n上限に達しているため\n交換／ギフトを　することができません
-sp_medal_error_trade_progress	このフレンドと進行中の\n交換／ギフトが　あります\n先にその交換／ギフトを\n完了してください
+sp_medal_error_deliver_others_limit	この相手は　現在\n交換／ギフトの数が\n上限に達しているため\n交換／ギフトを　することができません
+sp_medal_error_trade_progress	この相手と進行中の\n交換／ギフトが　あります\n先にその交換／ギフトを\n完了してください
 sp_medal_trade_title	メダル交換
 sp_medal_trade_method_friend	フレンドと　交換
 sp_medal_trade_method_qr	２次元コードで　交換
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	イベント詳細
 sp_medal_event_detail_url	URL
 sp_medal_event_detail_medal	このイベントでもらえるメダル
 sp_medal_event_filter_location	イベント開催地域
+sp_medal_event_list_empty	表示出来るイベントは\nありません
 sp_medal_read_title	メダル読み取り
 sp_medal_read_method_main	どの機能で読み取りますか？
 sp_medal_read_method_gps	エリアチェック
@@ -7667,7 +7670,8 @@ sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
 sp_medal_read_obtain_next	次へ
 sp_medal_read_error_already_obtain	既に　受け取ったメダルです\n発行できるまであと
 sp_medal_read_error_already_desc1	同じメダルの発行は　１日１回までです
-sp_medal_read_error_already_desc2	※毎日0時(UTC)に　リセットされます
+sp_medal_read_error_already_desc2	※毎日09:00(JST)/00:00(UTC)に\nリセットされます
+sp_medal_read_error_already_obtain_event	既に　受け取ったメダルです\nこのメダルは　１回しか受け取れません
 sp_medal_read_error_before_start	配布開始前のメダルです\n\n発行開始日は
 sp_medal_read_error_after_end	配布が　終了したメダルです
 sp_medal_read_error_create_limit	発行上限に　達したメダルです
@@ -7698,12 +7702,13 @@ sp_medal_report_received	ギフトされた　メダル
 sp_medal_quantity	[VAR 0203(0000)]枚
 sp_medal_report_obtain	発行した　メダル
 sp_medal_mainte_title	メンテナンス
-sp_medal_mainte_body	メダル機能は　現在メンテナンス中です\nメダル機能以外の『Pokémon HOME』の\n機能はご利用いただけます\n終了予定　[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_mainte_body	メダル機能は　現在メンテナンス中です\nメダル機能以外の『Pokémon HOME』の\n機能はご利用いただけます\n終了予定　[VAR 0117(0000)]　[VAR 0201(0001)]:[VAR 0201(0002)]
 sp_medal_error_system_limit	現在お客様のアカウントでは\nメダル機能の利用が制限されています
 sp_medal_error_common_go_home	エラーが発生しました。\nマイルーム画面に戻ります。\nエラーコード：[VAR 0200(0000)]
 sp_medal_error_common	エラーが発生しました。\n操作をやり直してください。\nエラーコード：[VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	コードが間違っています。\nエラーコード：[VAR 0200(0000)]
 sp_medal_error_deliver_status	交換／ギフトの相手が　ステータスを更新しました。\nもう一度　交換／ギフト一覧を確認してください。\nエラーコード：[VAR 0200(0000)]
+sp_medal_error_return_medal_top	交換／ギフトの相手が見つかりません。\n交換／ギフトの処理を中止しました。\nメダルトップ画面に戻ります。
 sp_medal_mainte_body_indefinite	メダル機能は　現在メンテナンス中です\nメダル機能以外の『Pokémon HOME』の\n機能はご利用いただけます
 sp_medal_tutorial_0001	ハーイ！　モンボー　だモン！\n『Pokémon HOME』に　「メダル」という\n新しい遊びを　追加したから\nレクチャー　していくモン！
 sp_medal_tutorial_0002	キミが 特定の場所に　行った思い出や\nイベントに　参加した思い出を\n「メダル」として　保管できるモン！
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	ソフト図鑑完成記念！①
 sp_mystery_0030_2	ソフト図鑑の　「パルデア図鑑」「キタカミ図鑑」\n「ブルーベリー図鑑」を　完成させた！\n記念に　特別な　メロエッタを　プレゼント！
 sp_mystery_0031_1	ポケモンセンターわくわくおたんじょうび
 sp_mystery_0031_2	お誕生日おめでとう！\nお祝いに　ワッカネズミを　プレゼント！
+sp_mystery_card_0001_1	「PJCS2025」来場記念！
+sp_mystery_card_0001_2	『ポケモン スカーレット・バイオレット』に\nシリアルコードを　入力して\n「WCS2024」シニアカテゴリチャンピオンの\n手持ちポケモンとして　活躍した\n「[VAR 0101(0000)]」を受け取ろう！
+sp_mystery_card_0002_1	「PJCS2025」サイドイベント参加記念！
+sp_mystery_card_0002_2	イベント参加　ありがとう！\n『ポケモン スカーレット・バイオレット』に\nシリアルコードを　入力して\n「テラピース100個x6種セット」を受け取ろう！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn_kanji.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	グループに　参加できませんでした
 sp_trade_group_00038	退室
 sp_trade_group_00039	他のユーザーを　待っています
 sp_trade_group_change_plan_confirm	グループを　作成するには　\nプレミアムプランの　加入が　必要です\n\nプラン変更を　しますか？
-sp_trade_firend_00001	GPSを初期化中です
 sp_trade_firend_00002	[VAR 0100(0000)]さんを\n待っています
 sp_trade_firend_00003	接続待機中
 sp_trade_firend_00004	交換する
 sp_trade_firend_00005	準備完了
 sp_trade_firend_00006	選択中
-sp_trade_firend_00007	GPS機能を　オンにしてください
 sp_trade_firend_00008	交換を　終了します\nよろしいですか？
 sp_trade_firend_00009_v1	GPSの初期化に　失敗しました\n交換トップに　戻ります
 sp_trade_firend_00010_v1	交換相手が　近くにいません\n近づいてから　もう一度　お試しください
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	61～70
 sp_trade_gts_02008	71～80
 sp_trade_gts_02009	81～90
 sp_trade_gts_02010	91～100
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)]\n（[VAR 01D4(0001)]・[VAR 01D4(0002)]）
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)]（[VAR 01D4(0001)]・[VAR 01D4(0002)]）
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)]・\n[VAR 01D4(0001)]
 sp_trade_invalid_00001	交換できる　ポケモンが　いません\nPokémon HOMEに　ポケモンを　預けてください
 sp_trade_invalid_00002	交換できる　ポケモンが　いません\nPokémon HOMEに　ポケモンを　預けるか\nミラクルボックスから\nポケモンを　引き取ってください
 sp_trade_invalid_00003	交換できる　ポケモンが　いません\nPokémon HOMEに　ポケモンを　預けるか\nGTSから　ポケモンを　引き取ってください
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	で受け取り済みです
 sp_ui_gift_02006	受け取る
 sp_ui_gift_02007	プレゼントボックス
 sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
+sp_ui_gift_sort_received_date	もらった日
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　入力してください
 sp_ui_gift_select_title	選んだポケモンの確認
 sp_ui_gift_select_confirm	本当に　[VAR 0101(0000)]　で\nいいですか？\n\n[VAR FF00(0001)]※この後　選んだポケモンを[VAR FF00(0000)]\n[VAR FF00(0001)]変更することは　できません[VAR FF00(0000)]
 sp_ui_gift_select_reselect	選びなおす
+sp_ui_gift_card_used	使用済み
+sp_ui_gift_card_name	ふしぎなカード
+sp_ui_gift_card_received_date	もらった日：[VAR 0117(0000)]
+sp_ui_gift_card_empty	表示できるふしぎなカードは\nありません
 sp_ui_achieve_dialog_all_clear	達成済み
 sp_ui_achieve_dialog_header_title	達成報酬
 sp_ui_achieve_sort_grade	グレード

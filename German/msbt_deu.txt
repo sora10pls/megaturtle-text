@@ -7231,6 +7231,8 @@ sp_ach_box_0040	Lagere Pokémon, die ultimative Putzigkeit verkörpern!
 sp_ach_box_0041	Lagere Pokémon, die ultimative Klugheit verkörpern!
 sp_ach_box_0042	Lagere Pokémon, die ultimative Stärke verkörpern!
 sp_ach_box_0043	Lagere Pokémon, die ultimativen Glanz ausstrahlen!
+sp_ach_gps_init	GPS wird initialisiert...
+sp_ach_gps_confirm	Bitte schalte die GPS-Funktionen ein. Hinweis: Überprüfe die Einstellungen deines Geräts.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_deu.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	[VAR 0200(0000)] KB an Daten werden heruntergeladen. Möch
 sp_api_dlsize_b_text	[VAR 0200(0000)] Byte an Daten werden heruntergeladen. Möchtest du fortfahren?
 sp_api_lack_storage	Es ist nicht genügend freier Speicherplatz auf dem Gerät vorhanden. Bitte lösche Daten, die du nicht mehr benötigst.
 sp_api_break_file	Es liegt eine beschädigte Datei vor. Bitte kehre zum Titelbildschirm zurück und leere den Cache.
-sp_api_maintenance_010	Es werden gerade Wartungsarbeiten durchgeführt, die planmäßig zum folgenden Zeitpunkt enden: [VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000)] um [VAR 0201(0003)]:[VAR 0201(0004)] Uhr
+sp_api_maintenance_010	Es werden gerade Wartungsarbeiten durchgeführt, die planmäßig zum folgenden Zeitpunkt enden: [VAR 0117(0000)] um [VAR 0201(0001)]:[VAR 0201(0002)] Uhr
 sp_api_maintenance_020	Es werden gerade Wartungsarbeiten durchgeführt. Bitte warte, bis die Wartungsarbeiten beendet wurden.
 sp_api_maintenance_030	Es werden gerade dringende Wartungsarbeiten durchgeführt. Bitte warte, bis die Wartungsarbeiten beendet wurden. Etwaige Unannehmlichkeiten bitten wir zu entschuldigen.
 sp_api_400_8809	Die Anmeldung mit deinem Nintendo-Account ist fehlgeschlagen.  Bitte ziehe die Internetseite des Kundenservices für den Nintendo-Account zurate.
@@ -7599,8 +7601,8 @@ sp_medal_error_trade_sametime	Es können nur [VAR 0201(0000)] Tauschanfragen gle
 sp_medal_error_gift_recv_limit	Du kannst nur [VAR 0201(0000)] Geschenke pro Tag erhalten.
 sp_medal_error_deliver_limit	Es können keine weiteren Tauschaktionen und/oder Geschenke angezeigt werden. Bitte überprüfe deine Liste an Tauschanfragen/Geschenken und schließe offene Tauschanfragen ab oder nimm ausstehende Geschenke an.
 sp_medal_error_trade_limit	Du kannst nur [VAR 0201(0000)] Tauschaktionen pro Tag durchführen.
-sp_medal_error_deliver_others_limit	Dieser Freund hat die maximale Anzahl an Tauschaktionen und/oder Geschenken erreicht und kann keine weiteren Tauschanfragen oder Geschenke erhalten.
-sp_medal_error_trade_progress	Du hast einen ausstehenden Tausch- oder Geschenkvorgang mit diesem Freund. Bitte schließe diesen zunächst ab und versuche es dann erneut.
+sp_medal_error_deliver_others_limit	Dieser Tauschpartner hat die maximale Anzahl an Tauschaktionen und/oder Geschenken erreicht und kann derzeit keine weiteren Tauschaktionen durchführen oder Geschenke erhalten.
+sp_medal_error_trade_progress	Du hast einen ausstehenden Tausch- oder Geschenkvorgang mit dieser Person. Bitte schließe diesen zunächst ab und versuche es dann erneut.
 sp_medal_trade_title	Medaillen tauschen
 sp_medal_trade_method_friend	Mit Freunden tauschen
 sp_medal_trade_method_qr	Per 2D-Code tauschen
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	Veranstaltungsdetails
 sp_medal_event_detail_url	Link
 sp_medal_event_detail_medal	Erhältliche Medaillen
 sp_medal_event_filter_location	Veranstaltungsort
+sp_medal_event_list_empty	Es sind keine Veranstaltungen vorhanden, die angezeigt werden können.
 sp_medal_read_title	Medaillen scannen
 sp_medal_read_method_main	Mit welcher Funktion möchtest du den Scan durchführen?
 sp_medal_read_method_gps	Standort-Scan
@@ -7667,7 +7670,8 @@ sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
 sp_medal_read_obtain_next	Weiter
 sp_medal_read_error_already_obtain	Du hast diese Medaille bereits erhalten. Sie kann erst nach Ablauf der Frist erneut ausgestellt werden:
 sp_medal_read_error_already_desc1	Jede Medaille kann nur einmal am Tag ausgestellt werden.
-sp_medal_read_error_already_desc2	Diese Grenze wird täglich um 00:00 Uhr UTC zurückgesetzt.
+sp_medal_read_error_already_desc2	Diese Grenze wird täglich um 00:00 Uhr (UTC) zurückgesetzt.
+sp_medal_read_error_already_obtain_event	Diese Medaille kann nur einmal erhalten werden und du hast sie bereits erhalten.
 sp_medal_read_error_before_start	Die Verteilung dieser Medaille hat noch nicht begonnen. Sie beginnt an folgendem Datum:
 sp_medal_read_error_after_end	Die Verteilung dieser Medaille ist beendet.
 sp_medal_read_error_create_limit	Diese Medaille kann nicht öfter ausgestellt werden.
@@ -7698,12 +7702,13 @@ sp_medal_report_received	Per Geschenk erhaltene Medaillen
 sp_medal_quantity	[VAR 0203(0000)]
 sp_medal_report_obtain	Ausgestellte Medaillen
 sp_medal_mainte_title	Wartungsarbeiten
-sp_medal_mainte_body	Die Medaillen-Funktion ist derzeit von Wartungsarbeiten betroffen. Andere Funktionen von Pokémon HOME stehen dir weiterhin zur Verfügung. Geplanter Abschluss: [VAR 0201(0002)].[VAR 0201(0001)].[VAR 0203(0000)] um [VAR 0201(0003)]:[VAR 0201(0004)] Uhr
+sp_medal_mainte_body	Die Medaillen-Funktion ist derzeit von Wartungsarbeiten betroffen. Andere Funktionen von Pokémon HOME stehen dir weiterhin zur Verfügung. Geplanter Abschluss: [VAR 0117(0000)] um [VAR 0201(0001)]:[VAR 0201(0002)] Uhr
 sp_medal_error_system_limit	Die Nutzung der Medaillen-Funktion ist für dieses Konto derzeit eingeschränkt.
 sp_medal_error_common_go_home	Ein Fehler ist aufgetreten. Du kehrst nun in deinen Bereich zurück. Fehler-Code: [VAR 0200(0000)]
 sp_medal_error_common	Ein Fehler ist aufgetreten. Bitte versuche es erneut. Fehler-Code: [VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	Ungültiger Code. Fehler-Code: [VAR 0200(0000)]
 sp_medal_error_deliver_status	Dein Tausch- oder Geschenkpartner hat seinen Status verändert. Bitte überprüfe deine Tauschen/Schenken-Liste erneut. Fehlercode: [VAR 0200(0000)]
+sp_medal_error_return_medal_top	Die Person, mit der du tauschen oder der du ein Geschenk senden möchtest, konnte nicht gefunden werden. Der Tausch- oder Geschenkvorgang wurde abgebrochen und du kehrst nun zum Medaillenbildschirm zurück.
 sp_medal_mainte_body_indefinite	Die Medaillen-Funktion ist derzeit von Wartungsarbeiten betroffen. Andere Funktionen von Pokémon HOME stehen dir weiterhin zur Verfügung.
 sp_medal_tutorial_0001	Hallöchen! Pokiba ist wieder da! Ist dir schon aufgefallen, dass Pokémon HOME eine neue Medaillen-Funktion hinzugefügt wurde? Ich bin hier, um dir etwas mehr darüber zu erzählen.
 sp_medal_tutorial_0002	Medaillen fungieren als kleine Andenken, die du durch den Besuch bestimmter Orte oder die Teilnahme an gewissen Veranstaltungen erhalten kannst.
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	Pokédex eines Spiels vollständig! ①
 sp_mystery_0030_2	Du hast den Paldea-Pokédex, Kitakami-Pokédex und Blaubeer-Pokédex vervollständigt. Als Belohnung bekommst du ein besonderes Meloetta geschenkt!
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	Herzlichen Glückwunsch zum Geburtstag! Hier ist ein Zwieps als besonderes Geschenk!
+sp_mystery_card_0001_1	Geschenk für den Besuch der PJCS 2025!
+sp_mystery_card_0001_2	Gib den Seriencode in Pokémon Karmesin oder Pokémon Purpur ein und erhalte ein [VAR 0101(0000)]! Dieses Pokémon ist ein unentbehrliches Mitglied im Team des Gewinners in der Senioren-Klasse der Pokémon-Weltmeisterschaften 2024.
+sp_mystery_card_0002_1	Teilnahme-Geschenk für ein Nebenevent der PJCS 2025!
+sp_mystery_card_0002_2	Danke für deine Teilnahme an diesem Event! Gib den Seriencode in Pokémon Karmesin oder Pokémon Purpur ein und erhalte 6 Sets von jeweils 100 Tera-Stücken!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	Du konntest der Gruppe nicht beitreten.
 sp_trade_group_00038	Entfernen
 sp_trade_group_00039	Es wird auf andere Nutzer gewartet...
 sp_trade_group_change_plan_confirm	Wenn du eine Gruppe erstellen willst, musst du zum kostenpflichtigen Premium-Service wechseln.  Möchtest du den Service wechseln?
-sp_trade_firend_00001	GPS wird initialisiert...
 sp_trade_firend_00002	Es wird auf [VAR 0100(0000)] gewartet...
 sp_trade_firend_00003	Verbindung wird hergestellt...
 sp_trade_firend_00004	Tauschen
 sp_trade_firend_00005	Bereit!
 sp_trade_firend_00006	Auswahl läuft...
-sp_trade_firend_00007	Bitte schalte die GPS-Funktionen ein.
 sp_trade_firend_00008	Der Tausch wird beendet. Möchtest du fortfahren?
 sp_trade_firend_00009_v1	GPS konnte nicht initialisiert werden. Du kehrst nun zum Tauschmenü zurück.
 sp_trade_firend_00010_v1	Es befindet sich niemand zum Tauschen in deiner Nähe. Versuche es erneut, wenn ein Tauschpartner in der Nähe ist.
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	61 bis 70
 sp_trade_gts_02008	71 bis 80
 sp_trade_gts_02009	81 bis 90
 sp_trade_gts_02010	91 bis 100
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)], [VAR 01D4(0001)]
 sp_trade_invalid_00001	Es stehen keine Pokémon zum Tausch zur Verfügung. Bitte lagere zuerst Pokémon in Pokémon HOME.
 sp_trade_invalid_00002	Es stehen keine Pokémon zum Tausch zur Verfügung. Bitte lagere zuerst Pokémon in Pokémon HOME oder entnimm Pokémon aus der Wunderbox.
 sp_trade_invalid_00003	Es stehen keine Pokémon zum Tausch zur Verfügung. Bitte lagere zuerst Pokémon in Pokémon HOME oder entnimm Pokémon aus dem GTS.
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	In diesem Spiel erhalten!
 sp_ui_gift_02006	Empfangen
 sp_ui_gift_02007	Geschenkbox
 sp_ui_gift_empty_list	Keine Geheimgeschenke vorhanden
+sp_ui_gift_sort_received_date	Datum des Erhalts
 sp_ui_gift_03001	Seriencode
 sp_ui_gift_03002	Bitte gib einen Seriencode ein.
 sp_ui_gift_select_title	Ausgewählte Pokémon überprüfen
 sp_ui_gift_select_confirm	Bist du sicher, dass du [VAR 0101(0000)] auswählen möchtest?  [VAR FF00(0001)]Hinweis: Du kannst deine Auswahl später nicht mehr rückgängig machen.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Neu auswählen
+sp_ui_gift_card_used	Verwendet
+sp_ui_gift_card_name	Wunderkarte
+sp_ui_gift_card_received_date	Datum des Erhalts: [VAR 0117(0000)]
+sp_ui_gift_card_empty	Es sind keine Wunderkarten vorhanden, die angezeigt werden können.
 sp_ui_achieve_dialog_all_clear	GESCHAFFT!
 sp_ui_achieve_dialog_header_title	Belohnung
 sp_ui_achieve_sort_grade	Stufe

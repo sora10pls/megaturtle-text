@@ -7231,6 +7231,8 @@ sp_ach_box_0040	¡Deposita Pokémon con la Dulzura al máximo!
 sp_ach_box_0041	¡Deposita Pokémon con el Ingenio al máximo!
 sp_ach_box_0042	¡Deposita Pokémon con la Dureza al máximo!
 sp_ach_box_0043	¡Deposita Pokémon con el Brillo al máximo!
+sp_ach_gps_init	Iniciando GPS...
+sp_ach_gps_confirm	Activa el GPS de tu dispositivo. Es posible que debas acceder a la configuración de tu dispositivo y modificar los ajustes.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_esp.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	Se realizará una descarga de [VAR 0200(0000)] kB. ¿Quier
 sp_api_dlsize_b_text	Se realizará una descarga de [VAR 0200(0000)] byte[VAR 1101(0000,0100)]s. ¿Quieres continuar?
 sp_api_lack_storage	No hay espacio suficiente en tu dispositivo. Borra los datos que no necesites.
 sp_api_break_file	Hay un archivo dañado. Regresa al menú de la pantalla del título y borra la caché.
-sp_api_maintenance_010	En estos momentos se están realizando labores de mantenimiento. Está previsto que concluyan el [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)] a las [VAR 0201(0003)]:[VAR 0201(0004)].
+sp_api_maintenance_010	En estos momentos se están realizando labores de mantenimiento. Está previsto que concluyan el [VAR 0117(0000)] a las [VAR 0201(0001)]:[VAR 0201(0002)].
 sp_api_maintenance_020	En estos momentos se están realizando labores de mantenimiento. Espera a que hayan concluido.
 sp_api_maintenance_030	En estos momentos se están realizando labores de mantenimiento urgentes. Espera a que hayan concluido. Disculpa las molestias.
 sp_api_400_8809	No se ha podido iniciar sesión con tu cuenta Nintendo. Consulta las preguntas frecuentes sobre la cuenta Nintendo.
@@ -7599,8 +7601,8 @@ sp_medal_error_trade_sametime	Puedes tener un máximo de [VAR 0201(0000)] interc
 sp_medal_error_gift_recv_limit	Puedes recibir un máximo de [VAR 0201(0000)] regalos al día.
 sp_medal_error_deliver_limit	Ya has alcanzado el número máximo de intercambios y regalos que pueden mostrarse en pantalla. Comprueba el listado y completa las operaciones que tengas pendientes.
 sp_medal_error_trade_limit	Puedes realizar un máximo de [VAR 0201(0000)] intercambios al día.
-sp_medal_error_deliver_others_limit	Este amigo ya ha alcanzado el límite de intercambios o regalos en curso y no puede aceptar más.
-sp_medal_error_trade_progress	Tienes una solicitud de intercambio o regalo en curso con este amigo. Finaliza primero la operación pendiente.
+sp_medal_error_deliver_others_limit	Este usuario ya ha alcanzado el límite de intercambios o regalos en curso y no puede aceptar más.
+sp_medal_error_trade_progress	Tienes una solicitud de intercambio o regalo en curso con este usuario. Finaliza primero la operación pendiente.
 sp_medal_trade_title	Intercambio de medallas
 sp_medal_trade_method_friend	Con amigos
 sp_medal_trade_method_qr	Mediante código 2D
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	Información del evento
 sp_medal_event_detail_url	URL
 sp_medal_event_detail_medal	Medallas que se pueden conseguir
 sp_medal_event_filter_location	Región donde se celebra
+sp_medal_event_list_empty	No hay eventos que mostrar.
 sp_medal_read_title	Lectura de medallas
 sp_medal_read_method_main	¿Cómo quieres efectuar la lectura?
 sp_medal_read_method_gps	Distribución local
@@ -7668,6 +7671,7 @@ sp_medal_read_obtain_next	Siguiente
 sp_medal_read_error_already_obtain	Ya has recibido esta medalla. Podrás volver a crearla dentro de:
 sp_medal_read_error_already_desc1	Cada medalla puede crearse una vez al día.
 sp_medal_read_error_already_desc2	Se considera que el día comienza a las 00:00 UTC.
+sp_medal_read_error_already_obtain_event	Esta medalla solo se puede recibir una vez y ya la has recibido.
 sp_medal_read_error_before_start	El período de distribución de esta medalla no ha comenzado aún.  Inicio del período de distribución:
 sp_medal_read_error_after_end	El período de distribución de esta medalla ha concluido.
 sp_medal_read_error_create_limit	No es posible crear más veces esta medalla.
@@ -7698,12 +7702,13 @@ sp_medal_report_received	Medallas recibidas como regalo
 sp_medal_quantity	[VAR 0203(0000)]
 sp_medal_report_obtain	Medallas creadas
 sp_medal_mainte_title	Mantenimiento
-sp_medal_mainte_body	Se están realizando labores de mantenimiento, por lo que la función de medallas no está disponible. El resto de funciones de Pokémon HOME no se ven afectadas. Las labores finalizarán el [VAR 0201(0002)]/[VAR 0201(0001)]/[VAR 0203(0000)] a las [VAR 0201(0003)]:[VAR 0201(0004)].
+sp_medal_mainte_body	Se están realizando labores de mantenimiento, por lo que la función de medallas no está disponible. El resto de funciones de Pokémon HOME no se ven afectadas. Las labores finalizarán el [VAR 0117(0000)] a las [VAR 0201(0001)]:[VAR 0201(0002)].
 sp_medal_error_system_limit	El uso de la función de medallas está restringido para tu cuenta actual.
 sp_medal_error_common_go_home	Se ha producido un error. Regresarás a tu rincón personal. Código del error: [VAR 0200(0000)]
 sp_medal_error_common	Se ha producido un error. Inténtalo de nuevo. Código del error: [VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	El código introducido no es correcto. Código del error: [VAR 0200(0000)]
 sp_medal_error_deliver_status	El usuario con el que intentas realizar un intercambio o regalo ha cambiado su estado. Vuelve a comprobar tu listado. Código del error: [VAR 0200(0000)]
+sp_medal_error_return_medal_top	No se encuentra al usuario con el que quieres realizar un intercambio o enviar un regalo. Se ha cancelado el intercambio o envío del regalo. Regresarás a la pantalla de medallas.
 sp_medal_mainte_body_indefinite	Se están realizando labores de mantenimiento, por lo que la función “medallas” no está disponible. El resto de funciones de Pokémon HOME no se ven afectadas.
 sp_medal_tutorial_0001	¡Hola! ¡Soy yo, Pobolín! Ya has visto que se ha añadido una nueva función a Pokémon HOME, ¿eh? ¡Pues aquí estoy yo para explicarte cómo funciona esto de las medallas!
 sp_medal_tutorial_0002	En resumen, esta nueva función te permite llevarte medallas de recuerdo por haber visitado ciertos lugares o participar en determinados eventos.
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	¡Has completado la Pokédex de un juego! ①
 sp_mystery_0030_2	¡Has completado la Pokédex de Paldea, la Pokédex de Noroteo y la Pokédex Arándano! ¡Te regalamos un Meloetta especial para celebrarlo!
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	¡Feliz cumpleaños! ¡Te regalamos un Tandemaus para celebrarlo!
+sp_mystery_card_0001_1	¡Asistencia al PJCS 2025!
+sp_mystery_card_0001_2	¡Introduce el código en Pokémon Escarlata o Pokémon Púrpura para recibir a [VAR 0101(0000)], un Pokémon clave del equipo ganador en la categoría sénior del Campeonato Mundial Pokémon de 2024!
+sp_mystery_card_0002_1	¡Participación en un evento del PJCS 2025!
+sp_mystery_card_0002_2	¡Gracias por participar en este evento secundario! ¡Introduce el código en Pokémon Escarlata o  Pokémon Púrpura para recibir seis lotes de 100 teralitos!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_esp.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	No has podido unirte al grupo.
 sp_trade_group_00038	Expulsar
 sp_trade_group_00039	Esperando a otros usuarios...
 sp_trade_group_change_plan_confirm	Es necesario cambiar al plan prémium para crear un grupo. ¿Quieres cambiar el plan actual?
-sp_trade_firend_00001	Iniciando GPS...
 sp_trade_firend_00002	Esperando a [VAR 0100(0000)]...
 sp_trade_firend_00003	Esperando conexión...
 sp_trade_firend_00004	Intercambiar
 sp_trade_firend_00005	Todo listo
 sp_trade_firend_00006	Eligiendo Pokémon...
-sp_trade_firend_00007	Activa el GPS de tu dispositivo.
 sp_trade_firend_00008	Se finalizará el intercambio. ¿Quieres continuar?
 sp_trade_firend_00009_v1	No se ha podido iniciar el GPS. Regresarás al menú de intercambios.
 sp_trade_firend_00010_v1	No se ha encontrado ningún usuario cercano con el que realizar un intercambio. Acercaos más e intentadlo de nuevo.
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	61 al 70
 sp_trade_gts_02008	71 al 80
 sp_trade_gts_02009	81 al 90
 sp_trade_gts_02010	91 al 100
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)], [VAR 01D4(0001)]
 sp_trade_invalid_00001	No tienes Pokémon para intercambiar. Deposita primero alguno en Pokémon HOME.
 sp_trade_invalid_00002	No tienes Pokémon para intercambiar. Deposita primero algún Pokémon en Pokémon HOME o retira alguno de la caja prodigiosa.
 sp_trade_invalid_00003	No tienes Pokémon para intercambiar. Deposita primero algún Pokémon en Pokémon HOME o retira alguno del GTS.
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	Recibido en este juego.
 sp_ui_gift_02006	Recibir
 sp_ui_gift_02007	Caja de regalos
 sp_ui_gift_empty_list	No hay regalos misteriosos.
+sp_ui_gift_sort_received_date	Fecha de recepción
 sp_ui_gift_03001	Código
 sp_ui_gift_03002	Introduce un código.
 sp_ui_gift_select_title	Confirmación de la selección de Pokémon
 sp_ui_gift_select_confirm	¿Seguro que quieres seleccionar a [VAR 0101(0000)]?  [VAR FF00(0001)]No podrás cambiar tu selección más adelante.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Volver a elegir
+sp_ui_gift_card_used	Utilizada
+sp_ui_gift_card_name	Tarjeta Misteriosa
+sp_ui_gift_card_received_date	Recibida el: [VAR 0117(0000)]
+sp_ui_gift_card_empty	No hay Tarjetas Misteriosas que mostrar.
 sp_ui_achieve_dialog_all_clear	COMPLETADO
 sp_ui_achieve_dialog_header_title	Recompensa
 sp_ui_achieve_sort_grade	Rango

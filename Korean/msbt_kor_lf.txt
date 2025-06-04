@@ -7231,6 +7231,8 @@ sp_ach_box_0040	귀여움이 최대인\n포켓몬을 맡기자!
 sp_ach_box_0041	슬기로움이 최대인\n포켓몬을 맡기자!
 sp_ach_box_0042	강인함이 최대인\n포켓몬을 맡기자!
 sp_ach_box_0043	윤기가 최대인\n포켓몬을 맡기자!
+sp_ach_gps_init	GPS를 초기화하는 중입니다
+sp_ach_gps_confirm	GPS 기능을 ON으로 해주십시오\n※이용 중인 단말기의 설정을 확인해 주십시오
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_kor.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	[VAR 0200(0000)]KB의 데이터를 다운로드합니다\n
 sp_api_dlsize_b_text	[VAR 0200(0000)]Byte의 데이터를 다운로드합니다\n괜찮겠습니까?
 sp_api_lack_storage	단말기의 여유 용량이 부족합니다\n불필요한 데이터를 삭제해 주십시오
 sp_api_break_file	파일이 손상되었습니다\n타이틀 화면의 메뉴에서\n캐시를 삭제해 주십시오
-sp_api_maintenance_010	현재 점검 중입니다\n종료 예정 시각은 다음과 같습니다\n[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)] [VAR 0201(0003)]:[VAR 0201(0004)]
+sp_api_maintenance_010	현재 점검 중입니다\n종료 예정 시각은 다음과 같습니다\n[VAR 0117(0000)] [VAR 0201(0001)]:[VAR 0201(0002)]
 sp_api_maintenance_020	현재 점검 중입니다\n점검이 종료될 때까지 기다려 주십시오
 sp_api_maintenance_030	현재 긴급 점검 중입니다\n이용에 불편을 드리게 되어 죄송합니다\n점검이 종료될 때까지 기다려 주십시오
 sp_api_400_8809	닌텐도 어카운트에\n로그인하지 못했습니다\n\n닌텐도 어카운트의 Q&A를\n확인해 주십시오
@@ -7599,8 +7601,8 @@ sp_medal_error_trade_sametime	교환은 동시에\n[VAR 0201(0000)]건까지 진
 sp_medal_error_gift_recv_limit	선물은 하루에 [VAR 0201(0000)]건까지만\n받을 수 있습니다
 sp_medal_error_deliver_limit	더 이상 교환/선물을\n표시할 수 없습니다\n교환/선물 일람을 확인하고\n진행 중인 교환을 종료하거나\n받지 않은 선물을 받아 주십시오
 sp_medal_error_trade_limit	교환은 하루에 [VAR 0201(0000)]건까지만\n진행할 수 있습니다
-sp_medal_error_deliver_others_limit	이 친구는 현재\n교환/선물 수가 상한에 도달하여\n교환/선물을 할 수 없습니다
-sp_medal_error_trade_progress	이 친구와는 이미 진행 중인\n교환/선물이 있습니다\n해당 교환/선물을\n먼저 완료해 주십시오
+sp_medal_error_deliver_others_limit	이 상대는 현재\n교환/선물 수가 상한에 도달하여\n교환/선물을 할 수 없습니다
+sp_medal_error_trade_progress	이 상대와는 이미 진행 중인\n교환/선물이 있습니다\n해당 교환/선물을\n먼저 완료해 주십시오
 sp_medal_trade_title	메달 교환
 sp_medal_trade_method_friend	친구와 교환
 sp_medal_trade_method_qr	패턴 코드로 교환
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	이벤트 상세 정보
 sp_medal_event_detail_url	URL
 sp_medal_event_detail_medal	이벤트에서 받을 수 있는 메달
 sp_medal_event_filter_location	이벤트 개최 지역
+sp_medal_event_list_empty	표시할 수 있는 이벤트가 없습니다
 sp_medal_read_title	메달 스캔
 sp_medal_read_method_main	어떤 기능으로 스캔하겠습니까?
 sp_medal_read_method_gps	에리어 체크
@@ -7667,7 +7670,8 @@ sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
 sp_medal_read_obtain_next	다음으로
 sp_medal_read_error_already_obtain	이미 받은 메달입니다\n발행 가능까지 앞으로
 sp_medal_read_error_already_desc1	같은 메달은 하루에 한 번만 발행할 수 있습니다
-sp_medal_read_error_already_desc2	※매일 0시(UTC)에 초기화됩니다
+sp_medal_read_error_already_desc2	※매일 09:00(KST)/00:00(UTC)에 초기화됩니다
+sp_medal_read_error_already_obtain_event	이미 받은 메달입니다\n이 메달은 한 번만 받을 수 있습니다
 sp_medal_read_error_before_start	배포 개시 전인 메달입니다\n\n발행 개시일은
 sp_medal_read_error_after_end	배포가 종료된 메달입니다
 sp_medal_read_error_create_limit	발행 상한에 도달한 메달입니다
@@ -7698,12 +7702,13 @@ sp_medal_report_received	선물받은 메달
 sp_medal_quantity	[VAR 0203(0000)]개
 sp_medal_report_obtain	발행한 메달
 sp_medal_mainte_title	점검
-sp_medal_mainte_body	메달 기능은 현재 점검 중입니다\n메달 기능 이외의 "Pokémon HOME" 기능은\n이용하실 수 있습니다\n종료 예정 시각: [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)] [VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_mainte_body	메달 기능은 현재 점검 중입니다\n메달 기능 이외의 "Pokémon HOME" 기능은\n이용하실 수 있습니다\n종료 예정 시각: [VAR 0117(0000)] [VAR 0201(0001)]:[VAR 0201(0002)]
 sp_medal_error_system_limit	현재 고객님의 어카운트에서는\n메달 기능 이용이 제한되어 있습니다
 sp_medal_error_common_go_home	에러가 발생했습니다.\n마이 룸 화면으로 돌아갑니다.\n에러 코드: [VAR 0200(0000)]
 sp_medal_error_common	에러가 발생했습니다.\n다시 조작해 주십시오.\n에러 코드: [VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	코드가 틀립니다.\n에러 코드: [VAR 0200(0000)]
 sp_medal_error_deliver_status	교환/선물 상대가 스테이터스를 갱신했습니다.\n다시 한번 교환/선물 일람을 확인해 주십시오.\n에러 코드: [VAR 0200(0000)]
+sp_medal_error_return_medal_top	교환/선물 상대를 찾지 못했습니다.\n교환/선물 처리를 중지했습니다.\n메달 메인 메뉴로 돌아갑니다.
 sp_medal_mainte_body_indefinite	메달 기능은 현재 점검 중입니다\n메달 기능 이외의 "Pokémon HOME" 기능은\n이용하실 수 있습니다
 sp_medal_tutorial_0001	하이~! 내 이름은 몬보!\n"Pokémon HOME"에 "메달"이라는\n새로운 기능이 추가되었으니\n내가 설명해 주겠다몬!
 sp_medal_tutorial_0002	네가 특정 장소를 방문하거나\n이벤트에 참가한 추억을\n"메달"로 보관할 수 있다몬!
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	게임도감 완성 기념! ①
 sp_mystery_0030_2	게임도감 "팔데아도감", "북신도감",\n"블루베리도감"을 완성했다!\n기념으로 특별한 메로엣타를 선물!
 sp_mystery_0031_1	포켓몬센터 두근두근 생일 축하
 sp_mystery_0031_2	생일 축하합니다!\n기념으로 두리쥐를 선물!
+sp_mystery_card_0001_1	PJCS2025 방문 기념!
+sp_mystery_card_0001_2	포켓몬스터스칼렛・바이올렛에서\n시리얼 코드를 입력하고\nWCS2024 시니어 카테고리 챔피언의\n포켓몬으로 활약한 [VAR 0101(0000)][VAR 1900(0002)]촂 받아 주세요!
+sp_mystery_card_0002_1	PJCS2025 사이드 이벤트 참가 기념!
+sp_mystery_card_0002_2	이벤트에 참가해 주셔서 감사합니다!\n포켓몬스터스칼렛・바이올렛에서\n시리얼 코드를 입력하고\n테라피스 100개x6종 세트를 받아 주세요!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	그룹에 참가하지 못했습니다
 sp_trade_group_00038	내보내기
 sp_trade_group_00039	다른 유저를 기다리고 있습니다
 sp_trade_group_change_plan_confirm	그룹을 작성하려면\n프리미엄 플랜에 가입해야 합니다\n\n플랜을 변경하겠습니까?
-sp_trade_firend_00001	GPS를 초기화하는 중입니다
 sp_trade_firend_00002	[VAR 0100(0000)]님을\n기다리고 있습니다
 sp_trade_firend_00003	접속 대기 중
 sp_trade_firend_00004	교환한다
 sp_trade_firend_00005	준비 완료
 sp_trade_firend_00006	선택 중
-sp_trade_firend_00007	GPS 기능을 ON으로 해주십시오
 sp_trade_firend_00008	교환을 종료합니다\n괜찮겠습니까?
 sp_trade_firend_00009_v1	GPS를 초기화하지 못했습니다\n교환 메인 메뉴로 돌아갑니다
 sp_trade_firend_00010_v1	교환 상대가 근처에 없습니다\n거리를 가까이 하고 다시 시도해 주십시오
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	61~70
 sp_trade_gts_02008	71~80
 sp_trade_gts_02009	81~90
 sp_trade_gts_02010	91~100
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)]\n([VAR 01D4(0001)]/[VAR 01D4(0002)])
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)]([VAR 01D4(0001)]/[VAR 01D4(0002)])
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)]/\n[VAR 01D4(0001)]
 sp_trade_invalid_00001	교환할 수 있는 포켓몬이 없습니다\nPokémon HOME에\n포켓몬을 맡겨 주십시오
 sp_trade_invalid_00002	교환할 수 있는 포켓몬이 없습니다\nPokémon HOME에 포켓몬을 맡기거나\n미라클 박스에서 포켓몬을 찾아와 주십시오
 sp_trade_invalid_00003	교환할 수 있는 포켓몬이 없습니다\nPokémon HOME에 포켓몬을 맡기거나\nGTS에서 포켓몬을 찾아와 주십시오
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	에서 받았습니다
 sp_ui_gift_02006	받는다
 sp_ui_gift_02007	선물 박스
 sp_ui_gift_empty_list	이상한 소포가 없습니다
+sp_ui_gift_sort_received_date	받은 날짜
 sp_ui_gift_03001	시리얼 코드
 sp_ui_gift_03002	시리얼 코드를 입력해 주십시오
 sp_ui_gift_select_title	선택한 포켓몬 확인
 sp_ui_gift_select_confirm	정말 [VAR 0101(0000)][VAR 1900(0002)]촅로\n괜찮겠습니까?\n\n[VAR FF00(0001)]※선택한 포켓몬은[VAR FF00(0000)]\n[VAR FF00(0001)]나중에 변경할 수 없습니다[VAR FF00(0000)]
 sp_ui_gift_select_reselect	다시 선택한다
+sp_ui_gift_card_used	이미 사용함
+sp_ui_gift_card_name	이상한 카드
+sp_ui_gift_card_received_date	받은 날짜: [VAR 0117(0000)]
+sp_ui_gift_card_empty	표시할 수 있는 이상한 카드가 없습니다
 sp_ui_achieve_dialog_all_clear	달성
 sp_ui_achieve_dialog_header_title	달성 보상
 sp_ui_achieve_sort_grade	등급

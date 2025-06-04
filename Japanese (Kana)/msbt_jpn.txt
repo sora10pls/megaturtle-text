@@ -7231,6 +7231,8 @@ sp_ach_box_0040	かわいさが　さいこうの ポケモンを　あずける
 sp_ach_box_0041	かしこさが　さいこうの ポケモンを　あずける
 sp_ach_box_0042	たくましさが　さいこうの ポケモンを　あずける
 sp_ach_box_0043	けづやが　さいこうの ポケモンを　あずける
+sp_ach_gps_init	GPSをしょきかちゅうです
+sp_ach_gps_confirm	GPSきのうを　オンにしてください ※ごりようの　たんまつの　せっていを みなおしてください
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_jpn.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	[VAR 0200(0000)]KB　ダウンロードしますが よろ
 sp_api_dlsize_b_text	[VAR 0200(0000)]Byte　ダウンロードしますが よろしいですか？
 sp_api_lack_storage	たんまつの　あきようりょうが　たりません ふようなデータを　さくじょしてください
 sp_api_break_file	ファイルが　はそんしています タイトルがめんの　メニューから キャッシュを　クリアしてください
-sp_api_maintenance_010	ただいま　メンテナンス中です 終了予定時刻は　下記の通りです [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]　
+sp_api_maintenance_010	ただいま　メンテナンス中です 終了予定時刻は　下記の通りです [VAR 0117(0000)]　[VAR 0201(0001)]:[VAR 0201(0002)]
 sp_api_maintenance_020	ただいま　メンテナンス中です メンテナンス終了まで　しばらくお待ちください
 sp_api_maintenance_030	ただいま　緊急メンテナンス中です ご迷惑をおかけして申し訳ございませんが メンテナンス終了まで　しばらくお待ちください
 sp_api_400_8809	ニンテンドーアカウントで ログインできませんでした  ニンテンドーアカウントのQ&Aを ごかくにんください
@@ -7599,8 +7601,8 @@ sp_medal_error_trade_sametime	どうじに　すすめられる　こうかん�
 sp_medal_error_gift_recv_limit	ギフトは１にちに　[VAR 0201(0000)]けんまでしか うけとることができません
 sp_medal_error_deliver_limit	これいじょうこうかん／ギフトを ひょうじできません こうかん／ギフトいちらんを　かくにんして いますすめているこうかんを　おわらせるか うけとっていないギフトを　うけとってください
 sp_medal_error_trade_limit	こうかんは　１にちに　[VAR 0201(0000)]けんまでしか じっこうすることが　できません
-sp_medal_error_deliver_others_limit	このフレンドは　げんざい こうかん／ギフトのかずが じょうげんにたっしているため こうかん／ギフトを　することができません
-sp_medal_error_trade_progress	このフレンドとしんこうちゅうの こうかん／ギフトが　あります さきにそのこうかん／ギフトを かんりょうしてください
+sp_medal_error_deliver_others_limit	このあいては　げんざい こうかん／ギフトのかずが じょうげんにたっしているため こうかん／ギフトを　することができません
+sp_medal_error_trade_progress	このあいてとしんこうちゅうの こうかん／ギフトが　あります さきにそのこうかん／ギフトを かんりょうしてください
 sp_medal_trade_title	メダルこうかん
 sp_medal_trade_method_friend	フレンドと　こうかん
 sp_medal_trade_method_qr	２じげんコードで　こうかん
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	イベントしょうさい
 sp_medal_event_detail_url	URL
 sp_medal_event_detail_medal	このイベントでもらえるメダル
 sp_medal_event_filter_location	イベントかいさいちいき
+sp_medal_event_list_empty	ひょうじできるイベントは ありません
 sp_medal_read_title	メダルよみとり
 sp_medal_read_method_main	どのきのうで　よみとりますか？
 sp_medal_read_method_gps	エリアチェック
@@ -7667,7 +7670,8 @@ sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
 sp_medal_read_obtain_next	つぎへ
 sp_medal_read_error_already_obtain	すでに　うけとったメダルです はっこうできるまであと
 sp_medal_read_error_already_desc1	おなじメダルのはっこうは　１にち１かいまでです
-sp_medal_read_error_already_desc2	※まいにち0じ(UTC)に　リセットされます
+sp_medal_read_error_already_desc2	※まいにち09:00(JST)/00:00(UTC)に リセットされます
+sp_medal_read_error_already_obtain_event	すでに　うけとったメダルです このメダルは　１かいしかうけとれません
 sp_medal_read_error_before_start	はいふかいしまえのメダルです  はっこうかいしびは
 sp_medal_read_error_after_end	はいふが　しゅうりょうしたメダルです
 sp_medal_read_error_create_limit	はっこうじょうげんに　たっしたメダルです
@@ -7698,12 +7702,13 @@ sp_medal_report_received	ギフトされた　メダル
 sp_medal_quantity	[VAR 0203(0000)]まい
 sp_medal_report_obtain	はっこうした　メダル
 sp_medal_mainte_title	メンテナンス
-sp_medal_mainte_body	メダル機能は　現在メンテナンス中です メダル機能以外の『Pokémon HOME』の 機能はご利用いただけます 終了予定　[VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_mainte_body	メダル機能は　現在メンテナンス中です メダル機能以外の『Pokémon HOME』の 機能はご利用いただけます 終了予定　[VAR 0117(0000)]　[VAR 0201(0001)]:[VAR 0201(0002)]
 sp_medal_error_system_limit	現在お客様のアカウントでは メダル機能の利用が制限されています
 sp_medal_error_common_go_home	エラーが発生しました。 マイルーム画面に戻ります。 エラーコード：[VAR 0200(0000)]
 sp_medal_error_common	エラーが発生しました。 操作をやり直してください。 エラーコード：[VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	コードが間違っています。 エラーコード：[VAR 0200(0000)]
 sp_medal_error_deliver_status	交換／ギフトの相手が　ステータスを更新しました。 もう一度　交換／ギフト一覧を確認してください。 エラーコード：[VAR 0200(0000)]
+sp_medal_error_return_medal_top	交換／ギフトの相手が見つかりません。 交換／ギフトの処理を中止しました。 メダルトップ画面に戻ります。
 sp_medal_mainte_body_indefinite	メダル機能は　現在メンテナンス中です メダル機能以外の『Pokémon HOME』の 機能はご利用いただけます
 sp_medal_tutorial_0001	ハーイ！　モンボー　だモン！ 『Pokémon HOME』に　「メダル」という あたらしい　あそびを　ついかしたから レクチャー　していくモン！
 sp_medal_tutorial_0002	キミが　とくていのばしょに　いった　おもいでや イベントに　さんかした　おもいでを 「メダル」として　ほかん　できるモン！
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	ソフトずかんかんせいきねん！①
 sp_mystery_0030_2	ソフトずかんの　「パルデアずかん」「キタカミずかん」 「ブルーベリーずかん」を　かんせいさせた！ きねんに　とくべつな　メロエッタを　プレゼント！
 sp_mystery_0031_1	ポケモンセンターわくわくおたんじょうび
 sp_mystery_0031_2	おたんじょうびおめでとう！ おいわいに　ワッカネズミを　プレゼント！
+sp_mystery_card_0001_1	「PJCS2025」らいじょうきねん！
+sp_mystery_card_0001_2	『ポケモン スカーレット・バイオレット』に シリアルコードを　にゅうりょくして 「WCS2024」シニアカテゴリチャンピオンの てもちポケモンとして　かつやくした 「[VAR 0101(0000)]」をうけとろう！
+sp_mystery_card_0002_1	「PJCS2025」サイドイベントさんかきねん！
+sp_mystery_card_0002_2	イベントさんか　ありがとう！ 『ポケモン スカーレット・バイオレット』に シリアルコードを　にゅうりょくして 「テラピース100こx6しゅセット」をうけとろう！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	グループに　さんか　できませんでした
 sp_trade_group_00038	たいしつ
 sp_trade_group_00039	ほかのユーザーを　まっています
 sp_trade_group_change_plan_confirm	グループを　さくせいするには　 プレミアムプランの　かにゅうが　ひつようです  プランへんこうを　しますか？
-sp_trade_firend_00001	GPSをしょきかちゅうです
 sp_trade_firend_00002	[VAR 0100(0000)]さんを まっています
 sp_trade_firend_00003	せつぞくたいきちゅう
 sp_trade_firend_00004	こうかんする
 sp_trade_firend_00005	じゅんびかんりょう
 sp_trade_firend_00006	せんたくちゅう
-sp_trade_firend_00007	GPSきのうを　オンにしてください
 sp_trade_firend_00008	こうかんを　しゅうりょうします よろしいですか？
 sp_trade_firend_00009_v1	GPSの　しょきかに　しっぱいしました こうかんトップに　もどります
 sp_trade_firend_00010_v1	こうかんあいてが　ちかくにいません ちかづいてから　もういちど　おためしください
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	61～70
 sp_trade_gts_02008	71～80
 sp_trade_gts_02009	81～90
 sp_trade_gts_02010	91～100
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)] （[VAR 01D4(0001)]・[VAR 01D4(0002)]）
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)]（[VAR 01D4(0001)]・[VAR 01D4(0002)]）
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)]・ [VAR 01D4(0001)]
 sp_trade_invalid_00001	こうかんできる　ポケモンが　いません Pokémon HOMEに ポケモンを　あずけてください
 sp_trade_invalid_00002	こうかんできる　ポケモンが　いません Pokémon HOMEに　ポケモンを　あずけるか ミラクルボックスから ポケモンを　ひきとってください
 sp_trade_invalid_00003	こうかんできる　ポケモンが　いません Pokémon HOMEに　ポケモンを　あずけるか GTSから　ポケモンを　ひきとってください
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	でうけとりずみです
 sp_ui_gift_02006	うけとる
 sp_ui_gift_02007	プレゼントボックス
 sp_ui_gift_empty_list	ふしぎなおくりものは　ありません
+sp_ui_gift_sort_received_date	もらったひ
 sp_ui_gift_03001	シリアルコード
 sp_ui_gift_03002	シリアルコードを　にゅうりょくしてください
 sp_ui_gift_select_title	えらんだポケモンの　かくにん
 sp_ui_gift_select_confirm	ほんとうに　[VAR 0101(0000)]　で いいですか？  [VAR FF00(0001)]※このあと　えらんだポケモンを[VAR FF00(0000)] [VAR FF00(0001)]へんこうすることは　できません[VAR FF00(0000)]
 sp_ui_gift_select_reselect	えらびなおす
+sp_ui_gift_card_used	しようずみ
+sp_ui_gift_card_name	ふしぎなカード
+sp_ui_gift_card_received_date	もらったひ：[VAR 0117(0000)]
+sp_ui_gift_card_empty	ひょうじできるふしぎなカードは ありません
 sp_ui_achieve_dialog_all_clear	たっせいずみ
 sp_ui_achieve_dialog_header_title	たっせいほうしゅう
 sp_ui_achieve_sort_grade	グレード

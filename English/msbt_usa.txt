@@ -7231,6 +7231,8 @@ sp_ach_box_0040	Deposit Pokémon that embody the ultimate in cuteness!
 sp_ach_box_0041	Deposit Pokémon that embody the ultimate in cleverness!
 sp_ach_box_0042	Deposit Pokémon that embody the ultimate in toughness!
 sp_ach_box_0043	Deposit Pokémon that show off the ultimate sheen!
+sp_ach_gps_init	Your GPS is being initialized.
+sp_ach_gps_confirm	Please turn on your GPS feature. Note: Please check in your device's settings.
 
 ~~~~~~~~~~~~~~~
 Text File : sp_api_usa.msbt
@@ -7247,7 +7249,7 @@ sp_api_dlsize_kb_text	[VAR 0200(0000)] KB of data will be downloaded. Is that OK
 sp_api_dlsize_b_text	[VAR 0200(0000)] byte(s) of data will be downloaded. Is that OK?
 sp_api_lack_storage	Not enough free space on your device. Please delete unnecessary data.
 sp_api_break_file	There is a corrupted file. Please go to the menu on the title screen and clear your cache.
-sp_api_maintenance_010	Currently undergoing maintenance. Maintenance is scheduled to end at: [VAR 0201(0001)]/[VAR 0201(0002)]/[VAR 0203(0000)]  [VAR 0201(0003)]:[VAR 0201(0004)]
+sp_api_maintenance_010	Currently undergoing maintenance. Maintenance is scheduled to end at: [VAR 0117(0000)] [VAR 0201(0001)]:[VAR 0201(0002)]
 sp_api_maintenance_020	Currently undergoing maintenance. Please wait until the maintenance is completed.
 sp_api_maintenance_030	Currently undergoing emergency maintenance. Please wait until maintenance is completed. We apologize for the inconvenience.
 sp_api_400_8809	Unable to log in using your Nintendo Account. Please check the Nintendo support site for help with Nintendo Accounts.
@@ -7599,8 +7601,8 @@ sp_medal_error_trade_sametime	You can only have [VAR 0201(0000)] ongoing trades 
 sp_medal_error_gift_recv_limit	You can only receive [VAR 0201(0000)] gifts a day.
 sp_medal_error_deliver_limit	You've reached the maximum number of trades and/or gifts that can be displayed. Please visit Trade Requests / Gift List to complete ongoing trades or receive pending gifts.
 sp_medal_error_trade_limit	You can only complete [VAR 0201(0000)] trades a day.
-sp_medal_error_deliver_others_limit	This Friend has reached the maximum number of ongoing trades and/or gifts, so they cannot engage in trades or receive gifts at this time.
-sp_medal_error_trade_progress	You have a pending gift or trade request with this Friend. Please complete that gifting or trade before trying again.
+sp_medal_error_deliver_others_limit	This trade partner has reached the maximum number of ongoing trades and/or gifts, so they cannot engage in trades or receive gifts at this time.
+sp_medal_error_trade_progress	You have a pending gift or trade request with this person. Please complete that gift or trade before trying again.
 sp_medal_trade_title	Trade Medals
 sp_medal_trade_method_friend	Trade with Friends
 sp_medal_trade_method_qr	Trade with a Code Pattern
@@ -7655,6 +7657,7 @@ sp_medal_event_detail_title	Event Details
 sp_medal_event_detail_url	Link
 sp_medal_event_detail_medal	Obtainable Medals
 sp_medal_event_filter_location	Event Location
+sp_medal_event_list_empty	There are no events to display.
 sp_medal_read_title	Scan Medals
 sp_medal_read_method_main	How do you want to scan?
 sp_medal_read_method_gps	Local Event Check
@@ -7667,7 +7670,8 @@ sp_medal_read_obtain_frac	([VAR 0201(0000)]/[VAR 0201(0001)])
 sp_medal_read_obtain_next	Next
 sp_medal_read_error_already_obtain	You've already received this medal. It can be reissued in:
 sp_medal_read_error_already_desc1	The same medal can only be issued once per day.
-sp_medal_read_error_already_desc2	Note: The clock resets every day at midnight (UTC).
+sp_medal_read_error_already_desc2	Note: Resets every day at 09:00 JST (00:00 UTC).
+sp_medal_read_error_already_obtain_event	This medal can only be received once, and you've already received it.
 sp_medal_read_error_before_start	Distribution for this medal hasn't started yet. Distribution starts on:
 sp_medal_read_error_after_end	Distribution for this medal has ended.
 sp_medal_read_error_create_limit	This medal has been issued the maximum number of times.
@@ -7698,12 +7702,13 @@ sp_medal_report_received	Medals Received as Gifts
 sp_medal_quantity	[VAR 0203(0000)]
 sp_medal_report_obtain	Medals Issued
 sp_medal_mainte_title	Maintenance
-sp_medal_mainte_body	The medal feature is currently undergoing maintenance. Other features of Pokémon HOME are still available. Estimated end time: [VAR 0203(0000)]/[VAR 0201(0001)]/[VAR 0201(0002)]　[VAR 0201(0003)]:[VAR 0201(0004)]
+sp_medal_mainte_body	The medal feature is currently undergoing maintenance. Other features of Pokémon HOME are still available. Estimated end time: [VAR 0117(0000)] [VAR 0201(0001)]:[VAR 0201(0002)]
 sp_medal_error_system_limit	Use of the medal feature is currently restricted on your account.
 sp_medal_error_common_go_home	An error has occurred. Returning to your room. Error code: [VAR 0200(0000)]
 sp_medal_error_common	An error has occurred. Please repeat the previous inputs. Error code: [VAR 0200(0000)]
 sp_medal_error_code_auth_invalid	Incorrect code. Error code: [VAR 0200(0000)]
 sp_medal_error_deliver_status	The person you're trying to trade with or send gifts to has changed their status. Please check the Trade/Gift List again. Error Code: [VAR 0200(0000)]
+sp_medal_error_return_medal_top	Unable to find the person you're trying to trade with or send gifts to. Cancelling trade/gift process and returning to Medal screen.
 sp_medal_mainte_body_indefinite	The medal feature is currently undergoing maintenance. Other features of Pokémon HOME are still available.
 sp_medal_tutorial_0001	Hello there! It's me, your old pal Poké Boy, here to tell you about the Medal feature—a fun, new addition to Pokémon HOME!
 sp_medal_tutorial_0002	Medals are like little keepsakes you get from going to certain locations or participating in events! They serve as mementos of your experiences!
@@ -7908,6 +7913,10 @@ sp_mystery_0030_1	Game Pokédex Completion Commemoration No. 1!
 sp_mystery_0030_2	You've completed the Paldea Pokédex, the Kitakami Pokédex, and the Blueberry Pokédex! Here's a special Meloetta as a gift!
 sp_mystery_0031_1	Happy birthday from the Pokémon Center!
 sp_mystery_0031_2	Happy birthday! To celebrate, here's Tandemaus as a gift!
+sp_mystery_card_0001_1	Gift for visiting PJCS2025!
+sp_mystery_card_0001_2	Enter the code in Pokémon Scarlet or Pokémon Violet and receive [VAR 0101(0000)], a key member on the WCS 2024 Senior Division Champion's team!
+sp_mystery_card_0002_1	PJCS2025 Side Event Participation Gift!
+sp_mystery_card_0002_2	Thank you for participating in this event! Enter the code in Pokémon Scarlet or Pokémon Violet to receive six sets of 100 Tera Shards!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt
@@ -8417,13 +8426,11 @@ sp_trade_group_00037	Couldn't join the trade room.
 sp_trade_group_00038	Remove Player
 sp_trade_group_00039	Waiting for other users...
 sp_trade_group_change_plan_confirm	You need to have the Premium Plan to create a trade room. Would you like to change your plan?
-sp_trade_firend_00001	Your GPS is being initialized.
 sp_trade_firend_00002	Waiting for [VAR 0100(0000)]...
 sp_trade_firend_00003	Waiting for connection...
 sp_trade_firend_00004	Trade
 sp_trade_firend_00005	Ready!
 sp_trade_firend_00006	Selecting...
-sp_trade_firend_00007	Please turn on the GPS function.
 sp_trade_firend_00008	You're about to end the trade. Is this OK?
 sp_trade_firend_00009_v1	Failed to initialize GPS. Returning to the main trading menu...
 sp_trade_firend_00010_v1	Your trade partner is not nearby. Please try again when your trade partner is closer.
@@ -8476,6 +8483,9 @@ sp_trade_gts_02007	61–70
 sp_trade_gts_02008	71–80
 sp_trade_gts_02009	81–90
 sp_trade_gts_02010	91–100
+sp_trade_gts_monsname_double_form_line_break	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_monsname_double_form	[VAR 0101(0000)] ([VAR 01D4(0001)], [VAR 01D4(0002)])
+sp_trade_gts_double_form_line_break	[VAR 01D4(0000)], [VAR 01D4(0001)]
 sp_trade_invalid_00001	You don't have any Pokémon you can trade. Please deposit Pokémon in Pokémon HOME.
 sp_trade_invalid_00002	You don't have any Pokémon you can trade. Please deposit Pokémon in Pokémon HOME or receive Pokémon from the Wonder Box.
 sp_trade_invalid_00003	You don't have any Pokémon you can trade. Please deposit Pokémon in Pokémon HOME or receive Pokémon from the GTS.
@@ -8896,11 +8906,16 @@ sp_ui_gift_02005	You got it in the above game!
 sp_ui_gift_02006	Claim
 sp_ui_gift_02007	Gift Box
 sp_ui_gift_empty_list	No Mystery Gifts found.
+sp_ui_gift_sort_received_date	Date received
 sp_ui_gift_03001	Code
 sp_ui_gift_03002	Please enter a code.
 sp_ui_gift_select_title	Confirm Pokémon selection
 sp_ui_gift_select_confirm	Are you sure you want to select [VAR 0101(0000)]?  [VAR FF00(0001)]Note: You won't be able to change this selection later.[VAR FF00(0000)]
 sp_ui_gift_select_reselect	Choose again
+sp_ui_gift_card_used	Used
+sp_ui_gift_card_name	Wonder Card
+sp_ui_gift_card_received_date	Received: [VAR 0117(0000)]
+sp_ui_gift_card_empty	There are no Wonder Cards to display.
 sp_ui_achieve_dialog_all_clear	Completed
 sp_ui_achieve_dialog_header_title	Challenge Rewards
 sp_ui_achieve_sort_grade	Grade
