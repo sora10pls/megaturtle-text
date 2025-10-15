@@ -7913,10 +7913,16 @@ sp_mystery_0030_1	软件图鉴完成纪念！①
 sp_mystery_0030_2	完成了软件图鉴的“帕底亚图鉴”、 “北上图鉴”和“蓝莓图鉴”！ 作为纪念你将获赠一只特别的美洛耶塔！
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	生日快乐！ 送你一对鼠作为庆祝！
+sp_mystery_0032_1	Pokémon Center HAPPY BIRTHDAY 2025～2026　“狗仔包”
+sp_mystery_0032_2	生日快乐！ 为了庆祝，送你“狗仔包”！
 sp_mystery_card_0001_1	“PJCS2025”来访纪念！
 sp_mystery_card_0001_2	在《宝可梦 朱／紫》输入序列号， 接收“WCS2024”少年组冠军大显身手的 同行宝可梦“[VAR 0101(0000)]”吧！
 sp_mystery_card_0002_1	“PJCS2025”周边活动参加纪念！
 sp_mystery_card_0002_2	感谢你参加活动！ 在《宝可梦 朱／紫》输入序列号， 接收“太晶碎块100个x6种组合”吧！
+sp_mystery_card_0003_1	Pokémon Center KAGAWA 开业纪念！
+sp_mystery_card_0003_2	【序列号输入期限：2026/01/31】  在《宝可梦传说 Z-A》输入序列号， 接收Pokémon Center KAGAWA的开业纪念 “[VAR 0101(0000)]”吧！
+sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY 2025～2026　“差不多娃娃”
+sp_mystery_card_0004_2	【序列号输入期限：2027/01/31】  生日快乐！ 为了庆祝，送你“[VAR 0101(0000)]”！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_sch.msbt

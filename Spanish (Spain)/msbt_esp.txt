@@ -7913,10 +7913,16 @@ sp_mystery_0030_1	¡Has completado la Pokédex de un juego! ①
 sp_mystery_0030_2	¡Has completado la Pokédex de Paldea, la Pokédex de Noroteo y la Pokédex Arándano! ¡Te regalamos un Meloetta especial para celebrarlo!
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	¡Feliz cumpleaños! ¡Te regalamos un Tandemaus para celebrarlo!
+sp_mystery_0032_1	Pokémon Center HAPPY BIRTHDAY 2025–2026 Fidough
+sp_mystery_0032_2	¡Feliz cumpleaños! ¡Te regalamos un Fidough para celebrarlo!
 sp_mystery_card_0001_1	¡Asistencia al PJCS 2025!
 sp_mystery_card_0001_2	¡Introduce el código en Pokémon Escarlata o Pokémon Púrpura para recibir a [VAR 0101(0000)], un Pokémon clave del equipo ganador en la categoría sénior del Campeonato Mundial Pokémon de 2024!
 sp_mystery_card_0002_1	¡Participación en un evento del PJCS 2025!
 sp_mystery_card_0002_2	¡Gracias por participar en este evento secundario! ¡Introduce el código en Pokémon Escarlata o  Pokémon Púrpura para recibir seis lotes de 100 teralitos!
+sp_mystery_card_0003_1	¡Celebración por la apertura de Pokémon Center KAGAWA!
+sp_mystery_card_0003_2	[Código válido hasta el 31 de enero de 2026]  ¡Introduce el código en Leyendas Pokémon: Z-A para recibir un [VAR 0101(0000)] como regalo de celebración por la apertura de Pokémon Center KAGAWA!
+sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY 2025–2026 Audino
+sp_mystery_card_0004_2	[Código válido hasta el 31 de enero de 2027]  ¡Feliz cumpleaños! ¡Te regalamos un [VAR 0101(0000)] para celebrarlo!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_esp.msbt
