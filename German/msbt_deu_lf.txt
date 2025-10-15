@@ -7913,10 +7913,16 @@ sp_mystery_0030_1	Pokédex eines Spiels vollständig! ①
 sp_mystery_0030_2	Du hast den Paldea-Pokédex, Kitakami-Pokédex und\nBlaubeer-Pokédex vervollständigt. Als Belohnung bekommst\ndu ein besonderes Meloetta geschenkt!
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	Herzlichen Glückwunsch zum Geburtstag!\nHier ist ein Zwieps als besonderes Geschenk!
+sp_mystery_0032_1	Pokémon Center HAPPY BIRTHDAY\n2025-2026 Hefel
+sp_mystery_0032_2	Herzlichen Glückwunsch zum Geburtstag!\nHier ist zur Feier ein Hefel als Geschenk!
 sp_mystery_card_0001_1	Geschenk für den Besuch der PJCS 2025!
 sp_mystery_card_0001_2	Gib den Seriencode in Pokémon Karmesin oder\nPokémon Purpur ein und erhalte ein [VAR 0101(0000)]!\nDieses Pokémon ist ein unentbehrliches Mitglied im Team\ndes Gewinners in der Senioren-Klasse der\nPokémon-Weltmeisterschaften 2024.
 sp_mystery_card_0002_1	Teilnahme-Geschenk für ein Nebenevent der PJCS 2025!
 sp_mystery_card_0002_2	Danke für deine Teilnahme an diesem Event!\nGib den Seriencode in Pokémon Karmesin oder\nPokémon Purpur ein und erhalte 6 Sets von jeweils\n100 Tera-Stücken!
+sp_mystery_card_0003_1	Wir feiern die Eröffnung\ndes Pokémon Centers KAGAWA!
+sp_mystery_card_0003_2	[Ablaufdatum des Seriencodes: 31. Januar 2026]\n\nGib den Seriencode in Pokémon-Legenden: Z-A ein,\num zur Feier der Eröffnung des Pokémon Centers KAGAWA\nein [VAR 0101(0000)] zu erhalten!
+sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025-2026 Ohrdoch
+sp_mystery_card_0004_2	[Ablaufdatum des Seriencodes: 31. Januar 2027]\n\nHerzlichen Glückwunsch zum Geburtstag!\nHier ist zur Feier ein [VAR 0101(0000)] als Geschenk!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt

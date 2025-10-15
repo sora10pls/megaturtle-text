@@ -7913,10 +7913,16 @@ sp_mystery_0030_1	게임도감 완성 기념! ①
 sp_mystery_0030_2	게임도감 "팔데아도감", "북신도감", "블루베리도감"을 완성했다! 기념으로 특별한 메로엣타를 선물!
 sp_mystery_0031_1	포켓몬센터 두근두근 생일 축하
 sp_mystery_0031_2	생일 축하합니다! 기념으로 두리쥐를 선물!
+sp_mystery_0032_1	포켓몬센터 두근두근 생일 축하 2025-2026 쫀도기
+sp_mystery_0032_2	생일 축하합니다! 기념으로 쫀도기를 선물!
 sp_mystery_card_0001_1	PJCS2025 방문 기념!
-sp_mystery_card_0001_2	포켓몬스터스칼렛・바이올렛에서 시리얼 코드를 입력하고 WCS2024 시니어 카테고리 챔피언의 포켓몬으로 활약한 [VAR 0101(0000)][VAR 1900(0002)]촂 받아 주세요!
+sp_mystery_card_0001_2	포켓몬스터스칼렛・바이올렛에서 시리얼 코드를 입력하고 WCS2024 시니어 카테고리 챔피언의 포켓몬으로 활약한 [VAR 0101(0000)][VAR 1900(0002)] 받아 주세요!
 sp_mystery_card_0002_1	PJCS2025 사이드 이벤트 참가 기념!
 sp_mystery_card_0002_2	이벤트에 참가해 주셔서 감사합니다! 포켓몬스터스칼렛・바이올렛에서 시리얼 코드를 입력하고 테라피스 100개x6종 세트를 받아 주세요!
+sp_mystery_card_0003_1	포켓몬센터 카가와 오픈 기념!
+sp_mystery_card_0003_2	【시리얼 코드 입력 기한: 2026. 01. 31.】  Pokémon LEGENDS Z-A에서 시리얼 코드를 입력하고 포켓몬센터 카가와 오픈 기념 선물인 [VAR 0101(0000)][VAR 1900(0002)] 받아 주세요!
+sp_mystery_card_0004_1	포켓몬센터 두근두근 생일 축하 2025-2026 다부니
+sp_mystery_card_0004_2	【시리얼 코드 입력 기한: 2027. 01. 31.】  생일 축하합니다! 기념으로 [VAR 0101(0000)][VAR 1900(0002)] 선물!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt
@@ -8222,7 +8228,7 @@ sp_plan_terms	이용 약관
 sp_plan_fund_settlement_method	일본 자금결제법에 의거하는 표기
 sp_plan_specifiedcommercial_transaction_law	일본 특정상거래법에 의거하는 표기
 sp_plan_change	플랜 확인
-sp_plan_buy_text	[VAR 0117(0000)][VAR 1900(0002)]촂 구입합니다
+sp_plan_buy_text	[VAR 0117(0000)][VAR 1900(0002)] 구입합니다
 sp_plan_change_disable_text	다른 스토어에서 구입했습니다 프리미엄 플랜의 유효 기간은 구입한 스토어에서 확인해 주십시오
 sp_plan_restored_title	플랜 복원
 sp_plan_restored_text	플랜을 복원했습니다
@@ -8347,20 +8353,20 @@ sp_trade_00010_vgo	많은 사람이 원하는 포켓몬 (특별한 포켓몬을 
 sp_trade_00011_vgo	많은 사람이 원하는 포켓몬
 sp_trade_00012_vgo	많이 교환되는 포켓몬
 sp_trade_00013_vgo	드물게 교환이 성사된 포켓몬
-sp_trade_01001	[VAR 0102(0000)][VAR 1900(0002)]촂 어떻게 하겠습니까?
+sp_trade_01001	[VAR 0102(0000)][VAR 1900(0002)] 어떻게 하겠습니까?
 sp_trade_01002	능력치를 본다
 sp_trade_01003	GTS에 맡긴 포켓몬입니다 선택할 수 없습니다
 sp_trade_01004	미라클 박스에 맡긴 포켓몬입니다 선택할 수 없습니다
 sp_trade_01005	조작할 수 없습니다
 sp_trade_01006	즐겨찾기한 포켓몬입니다 선택할 수 없습니다
-sp_trade_02001	[VAR 0102(0000)][VAR 1900(0002)]촂 [VAR 0100(0001)]에게 보냅니다! 바이바이 [VAR 0102(0000)]!
+sp_trade_02001	[VAR 0102(0000)][VAR 1900(0002)] [VAR 0100(0001)]에게 보냅니다! 바이바이 [VAR 0102(0000)]!
 sp_trade_02002	[VAR 0100(0000)][VAR 1900(0002)]촅로부터 [VAR 0102(0001)][VAR 1900(0002)]촃 전송됐다!
-sp_trade_02003	[VAR 0102(0000)][VAR 1900(0002)]촂 귀여워해 줘!
-sp_trade_02004	[VAR 0102(0000)][VAR 1900(0002)]촂 GTS에 맡깁니다! 바이바이 [VAR 0102(0000)]!
+sp_trade_02003	[VAR 0102(0000)][VAR 1900(0002)] 귀여워해 줘!
+sp_trade_02004	[VAR 0102(0000)][VAR 1900(0002)] GTS에 맡깁니다! 바이바이 [VAR 0102(0000)]!
 sp_trade_02005	[VAR 0102(0000)][VAR 1900(0002)]촃 GTS에서 왔다!
-sp_trade_02006	[VAR 0102(0000)][VAR 1900(0002)]촂 데리고 왔다!
+sp_trade_02006	[VAR 0102(0000)][VAR 1900(0002)] 데리고 왔다!
 sp_trade_02007	잘 왔어 [VAR 0102(0000)]!
-sp_trade_02008	[VAR 0102(0000)][VAR 1900(0002)]촂 미라클 박스에 맡깁니다! 바이바이 [VAR 0102(0000)]!
+sp_trade_02008	[VAR 0102(0000)][VAR 1900(0002)] 미라클 박스에 맡깁니다! 바이바이 [VAR 0102(0000)]!
 sp_trade_02009	[VAR 0102(0000)][VAR 1900(0002)]촃 미라클 박스에서 왔다!
 sp_trade_03001	에러가 발생했습니다 교환 메인 메뉴로 돌아갑니다
 sp_trade_03002	통신이 끊겼습니다 교환 메인 메뉴로 돌아갑니다
@@ -8368,13 +8374,13 @@ sp_trade_03003	총 교환수
 sp_trade_03004	트레이드 랭킹
 sp_trade_03005	특별한 포켓몬이므로 교환에 내보낼 수 없습니다
 sp_trade_03006	에러가 발생했습니다 잠시 시간을 두고 다시 시도해 주십시오
-sp_trade_miracle_00001	[VAR 0102(0000)][VAR 1900(0002)]촂 어떻게 하겠습니까?
+sp_trade_miracle_00001	[VAR 0102(0000)][VAR 1900(0002)] 어떻게 하겠습니까?
 sp_trade_miracle_00002	맡긴다
 sp_trade_miracle_00003	상태를 본다
 sp_trade_miracle_00004	찾는다
 sp_trade_miracle_00005	GTS에 맡긴 포켓몬입니다 선택할 수 없습니다
 sp_trade_miracle_00006	미라클 박스에 맡긴 포켓몬입니다 선택할 수 없습니다
-sp_trade_miracle_00007	[VAR 0102(0000)][VAR 1900(0002)]촂 미라클 박스에서 찾겠습니까?
+sp_trade_miracle_00007	[VAR 0102(0000)][VAR 1900(0002)] 미라클 박스에서 찾겠습니까?
 sp_trade_miracle_00008	[VAR 0102(0000)][VAR 1900(0002)]촁 이미 교환되었습니다
 sp_trade_miracle_00010	교환되었습니다!
 sp_trade_miracle_00011	등록하지 못했습니다  잠시 시간을 두고 다시 한번 시도해 주십시오
@@ -8406,7 +8412,7 @@ sp_trade_group_00016	코드 공유
 sp_trade_group_00017	그룹의 패턴 코드
 sp_trade_group_00018	그룹에서 나온다
 sp_trade_group_00019	포켓몬을 선택한다
-sp_trade_group_00020	[VAR 0100(0000)][VAR 1900(0002)]촂 어떻게 하겠습니까?
+sp_trade_group_00020	[VAR 0100(0000)][VAR 1900(0002)] 어떻게 하겠습니까?
 sp_trade_group_00021	교환할 포켓몬은
 sp_trade_group_00023	교환을 계속하겠습니까?
 sp_trade_group_00024	계속한다
@@ -8785,7 +8791,7 @@ sp_ui_all_pokemon	모든 포켓몬
 sp_ui_release	해제
 sp_ui_goodby	놓아준다
 sp_ui_goodby_confirm	정말 놓아주겠습니까?  [VAR FF00(0001)]※즐겨찾기한 포켓몬은 놓아줄 수 없습니다[VAR FF00(0000)]
-sp_ui_goodby_singular	[VAR 0102(0000)][VAR 1900(0002)]촂 놓아주었다 바이바이, [VAR 0102(0000)]!
+sp_ui_goodby_singular	[VAR 0102(0000)][VAR 1900(0002)] 놓아주었다 바이바이, [VAR 0102(0000)]!
 sp_ui_goodby_plural	포켓몬들을 놓아주었다 바이바이!
 sp_ui_set_label_max	라벨이 가득 찬 포켓몬이 있습니다
 sp_ui_lump_favorite	모두 즐겨찾기에 추가한다

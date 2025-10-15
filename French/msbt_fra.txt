@@ -7913,10 +7913,16 @@ sp_mystery_0030_1	Félicitations ! Vous avez complété les Pokédex d'un jeu !
 sp_mystery_0030_2	Vous avez complété le Pokédex de Paldea, le Pokédex de Septentria et le Pokédex Myrtille ! En récompense, nous vous offrons un Meloetta spécial !
 sp_mystery_0031_1	Pokémon Center HAPPY BIRTHDAY
 sp_mystery_0031_2	Nous vous souhaitons un très joyeux anniversaire ! Pour célébrer cette journée avec vous, nous vous offrons un Compagnol !
+sp_mystery_0032_1	Pokémon Center HAPPY BIRTHDAY 2025-2026 : Pâtachiot
+sp_mystery_0032_2	Joyeux anniversaire ! Voici un Pâtachiot pour fêter l'occasion !
 sp_mystery_card_0001_1	Cadeau pour votre visite aux PJCS 2025 !
 sp_mystery_card_0001_2	Saisissez le code dans Pokémon Écarlate ou Pokémon Violet pour recevoir [VAR 0101(0000)], un des Pokémon phares de l'équipe gagnante de la catégorie senior des CMP 2024 !
 sp_mystery_card_0002_1	Cadeau de participation à l'évèn. sec. des PJCS 2025 !
 sp_mystery_card_0002_2	Merci d'avoir participé à cet évènement ! Saisissez le code dans Pokémon Écarlate ou Pokémon Violet pour recevoir 6 lots de 100 Téra-Éclats !
+sp_mystery_card_0003_1	Célébration de l'ouverture de Pokémon Center KAGAWA !
+sp_mystery_card_0003_2	[Code valide jusqu'au 31 janvier 2026]  Saisissez le code dans Légendes Pokémon : Z-A pour obtenir un [VAR 0101(0000)] pour célébrer l'ouverture de Pokémon Center KAGAWA !
+sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY 2025-2026 : Nanméouïe
+sp_mystery_card_0004_2	[Code valide jusqu'au 31 janvier 2027]  Joyeux anniversaire ! Voici un [VAR 0101(0000)] pour fêter l'occasion !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt

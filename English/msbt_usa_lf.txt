@@ -7913,10 +7913,16 @@ sp_mystery_0030_1	Game Pokédex Completion Commemoration No. 1!
 sp_mystery_0030_2	You've completed the Paldea Pokédex, the Kitakami\nPokédex, and the Blueberry Pokédex!\nHere's a special Meloetta as a gift!
 sp_mystery_0031_1	Happy birthday from the Pokémon Center!
 sp_mystery_0031_2	Happy birthday!\nTo celebrate, here's Tandemaus as a gift!
+sp_mystery_0032_1	Pokémon Center HAPPY BIRTHDAY\n2025–2026 Fidough
+sp_mystery_0032_2	Happy birthday! To celebrate, here's Fidough as a gift!
 sp_mystery_card_0001_1	Gift for visiting PJCS2025!
 sp_mystery_card_0001_2	Enter the code in Pokémon Scarlet or Pokémon Violet and\nreceive [VAR 0101(0000)], a key member on the WCS 2024\nSenior Division Champion's team!
 sp_mystery_card_0002_1	PJCS2025 Side Event Participation Gift!
 sp_mystery_card_0002_2	Thank you for participating in this event! Enter the code in\nPokémon Scarlet or Pokémon Violet to receive six sets of\n100 Tera Shards!
+sp_mystery_card_0003_1	Celebrating the opening of Pokémon Center\nKAGAWA!
+sp_mystery_card_0003_2	[Code expiration date: Jan. 31, 2026]\n\nEnter the code in Pokémon Legends: Z-A to receive\n[VAR 0101(0000)] in celebration of the opening of Pokémon\nCenter KAGAWA!
+sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025–2026 Audino
+sp_mystery_card_0004_2	[Code expiration date: Jan. 31, 2027]\n\nHappy birthday! To celebrate, here's [VAR 0101(0000)] as\na gift!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt
