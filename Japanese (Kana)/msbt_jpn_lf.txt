@@ -9187,7 +9187,7 @@ sp_ui_app_desc_0052_v21	『Pokémon LEGENDS Z-A』で捕まえたポケモンは
 sp_ui_app_desc_0053_v21	他のソフトで捕まえたポケモンを『Pokémon HOME』を\n経由して『Pokémon LEGENDS Z-A』に連れて行った\nポケモンは、その後『Pokémon HOME』を経由して\n以下のソフトに連れていくことができません。\n\n・『ポケットモンスター スカーレット・バイオレット』\n・『Pokémon LEGENDS アルセウス』\n・『ポケットモンスター ブリリアントダイヤモンド・シャイニングパール』\n・『ポケットモンスター ソード・シールド』\n・『ポケットモンスター Let's Go! ピカチュウ・\nLet's Go! イーブイ』
 sp_ui_app_desc_0054_v21	『Pokémon Champions』との連携について
 sp_ui_app_desc_0055_v21	『Pokémon Champions』との連携について
-sp_ui_app_desc_0056_v21	『Pokémon HOME』に預けてあるポケモンたちを\n『Pokémon Champions』へ遠征させることができます。\n遠征は、Nintendo Switch版とスマートフォン版の\nどちらでも操作することができます。
+sp_ui_app_desc_0056_v21	『Pokémon HOME』に預けてあるポケモンたちを\n『Pokémon Champions』へ遠征させることができます。\n遠征は、Nintendo Switch版とスマートフォン版の\nどちらでも操作することができます。\n\n一度に30匹まで、累計で1,000匹まで\n遠征させることができます。
 sp_ui_app_desc_0057_v21	遠征しているポケモンは、\n『Pokémon HOME』で以下の操作が出来なくなります。\n\n・ほかの『ポケットモンスター』シリーズとの連携\n・交換機能の利用（GTS／ミラクルボックス／\nグループ交換／フレンド交換）\n・ポケモンボックスから逃がす\n・お気に入り登録／解除\n・ラベルの付け替え
 sp_ui_app_desc_0057_v21_b	遠征しているポケモンは、\n『Pokémon HOME』で以下の操作が出来なくなります。\n\n・ほかの『ポケットモンスター』シリーズとの連携\n・交換機能の利用（GTS／ミラクルボックス／\nグループ交換）\n・ポケモンボックスから逃がす\n・お気に入り登録／解除\n・ラベルの付け替え
 sp_ui_app_desc_0058_v21	遠征させたポケモンは『Pokémon Champions』の\nトレーニングでつよさを変更することができますが、\n『Pokémon HOME』に帰ってきた際に\n元のつよさに戻ります。

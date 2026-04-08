@@ -9187,7 +9187,7 @@ sp_ui_app_desc_0052_v21	在『寶可夢傳說 Z-A』捕捉到的寶可夢， 無
 sp_ui_app_desc_0053_v21	在其他軟體捕捉到的寶可夢 透過『Pokémon HOME』帶到 『寶可夢傳說 Z-A』之後， 無法再透過『Pokémon HOME』帶到以下軟體。  ・『寶可夢 朱／紫』 ・『寶可夢傳說 阿爾宙斯』 ・『寶可夢 晶燦鑽石／明亮珍珠』 ・『寶可夢 劍／盾』 ・『精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布』
 sp_ui_app_desc_0054_v21	與『Pokémon Champions』的連結
 sp_ui_app_desc_0055_v21	與『Pokémon Champions』的連結
-sp_ui_app_desc_0056_v21	寄放在『Pokémon HOME』的寶可夢們 可以派去『Pokémon Champions』遠征。 無論在Nintendo Switch版， 或者是智慧型手機版皆可進行遠征。
+sp_ui_app_desc_0056_v21	寄放在『Pokémon HOME』的寶可夢們 可以派去『Pokémon Champions』遠征。 無論在Nintendo Switch版， 或者是智慧型手機版皆可進行遠征。  一次最多可派出30隻， 累計最多可派出1000隻寶可夢去遠征。
 sp_ui_app_desc_0057_v21	正在遠征的寶可夢， 將無法在『Pokémon HOME』進行以下操作。  ・與其他『寶可夢』系列連結 ・使用交換功能 （GTS／奇蹟盒子／群組交換／朋友交換） ・從寶可夢盒放生 ・加入／解除「我的最愛」 ・更改標籤
 sp_ui_app_desc_0057_v21_b	正在遠征的寶可夢， 將無法在『Pokémon HOME』進行以下操作。  ・與其他『寶可夢』系列連結 ・使用交換功能 （GTS／奇蹟盒子／群組交換） ・從寶可夢盒放生 ・加入／解除「我的最愛」 ・更改標籤
 sp_ui_app_desc_0058_v21	派去遠征的寶可夢可以在 『Pokémon Champions』的訓練中變更能力， 但在回到『Pokémon HOME』時， 將恢復成原本的能力。

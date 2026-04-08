@@ -9187,7 +9187,7 @@ sp_ui_app_desc_0052_v21	"Pokémon LEGENDS Z-A"에서 잡은 포켓몬은\n아래
 sp_ui_app_desc_0053_v21	다른 소프트웨어에서 잡은 포켓몬을\n"Pokémon HOME"을 경유해서\n"Pokémon LEGENDS Z-A"로 데려간 경우,\n해당 포켓몬은 "Pokémon HOME"을 경유해서\n아래 소프트웨어로 데려갈 수 없습니다.\n\n・"포켓몬스터스칼렛・바이올렛"\n・"Pokémon LEGENDS 아르세우스"\n・"포켓몬스터 브릴리언트 다이아몬드・샤이닝 펄"\n・"포켓몬스터소드・실드"\n・"포켓몬스터 레츠고! 피카츄・레츠고! 이브이"
 sp_ui_app_desc_0054_v21	"Pokémon Champions"와의\n연동에 대하여
 sp_ui_app_desc_0055_v21	"Pokémon Champions"와의\n연동에 대하여
-sp_ui_app_desc_0056_v21	"Pokémon HOME"에 맡긴 포켓몬들을\n"Pokémon Champions"로 원정을 보낼 수 있습니다.\n원정은 Nintendo Switch 버전과 스마트폰 버전\n모두 보낼 수 있습니다.
+sp_ui_app_desc_0056_v21	"Pokémon HOME"에 맡긴 포켓몬들을\n"Pokémon Champions"로 원정을 보낼 수 있습니다.\n원정은 Nintendo Switch 버전과 스마트폰 버전\n모두 보낼 수 있습니다.\n\n한 번에 30마리씩, 총 1,000마리까지\n원정을 보낼 수 있습니다.
 sp_ui_app_desc_0057_v21	원정 중인 포켓몬은 "Pokémon HOME"에서\n아래 조작을 할 수 없게 됩니다.\n\n・다른 "포켓몬스터" 시리즈와의 연동\n・교환 기능 이용(GTS/미라클 박스/\n그룹 교환/친구 교환)\n・포켓몬 박스에서 놓아주기\n・즐겨찾기 추가/해제\n・라벨 추가/해제
 sp_ui_app_desc_0057_v21_b	원정 중인 포켓몬은 "Pokémon HOME"에서\n아래 조작을 할 수 없게 됩니다.\n\n・다른 "포켓몬스터" 시리즈와의 연동\n・교환 기능 이용(GTS/미라클 박스/그룹 교환)\n・포켓몬 박스에서 놓아주기\n・즐겨찾기 추가/해제\n・라벨 추가/해제
 sp_ui_app_desc_0058_v21	원정 중인 포켓몬은 "Pokémon Champions"의\n트레이닝에서 능력치를 변경할 수 있으나,\n"Pokémon HOME"으로 돌려보내면\n원래 능력치로 돌아갑니다.

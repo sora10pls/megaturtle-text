@@ -9187,7 +9187,7 @@ sp_ui_app_desc_0052_v21	在《宝可梦传说 Z-A》捉到的宝可梦 无法带
 sp_ui_app_desc_0053_v21	其他软件捉到的宝可梦 通过《Pokémon HOME》被带去《宝可梦传说 Z-A》后， 无法再通过《Pokémon HOME》被带去以下软件。  ・《宝可梦 朱／紫》 ・《宝可梦传说 阿尔宙斯》 ・《宝可梦 晶灿钻石／明亮珍珠》 ・《宝可梦 剑／盾》 ・《精灵宝可梦 Let's Go！皮卡丘／Let's Go！伊布》
 sp_ui_app_desc_0054_v21	关联《Pokémon Champions》
 sp_ui_app_desc_0055_v21	关联《Pokémon Champions》
-sp_ui_app_desc_0056_v21	可以派寄放在《Pokémon HOME》的宝可梦 去远征《Pokémon Champions》。 在Nintendo Switch版或 智能手机版都可以派去远征。
+sp_ui_app_desc_0056_v21	可以派寄放在《Pokémon HOME》的宝可梦 去远征《Pokémon Champions》。 在Nintendo Switch版或 智能手机版都可以派去远征。  一次最多可以派30只， 累计最多可以派1000只宝可梦去远征。
 sp_ui_app_desc_0057_v21	将无法在《Pokémon HOME》 对正在远征的宝可梦进行以下操作。  ・关联其他《宝可梦》系列 ・使用交换功能 （GTS／奇迹盒子／群组交换／好友交换） ・从宝可梦盒放生 ・添加／解除我的最爱 ・更改标签
 sp_ui_app_desc_0057_v21_b	将无法在《Pokémon HOME》 对正在远征的宝可梦进行以下操作。  ・关联其他《宝可梦》系列 ・使用交换功能 （GTS／奇迹盒子／群组交换） ・从宝可梦盒放生 ・添加／解除我的最爱 ・更改标签
 sp_ui_app_desc_0058_v21	派去远征的宝可梦可以在 《Pokémon Champions》的训练中改变能力， 但返回《Pokémon HOME》时， 将恢复原本的能力。
