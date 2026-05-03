@@ -8041,6 +8041,8 @@ sp_mystery_0034_1	Benvenuti a Luminopoli: regalo nº 2!
 sp_mystery_0034_2	Hai collegato Leggende Pokémon: Z-A a Pokémon HOME!\nPer festeggiare, vogliamo regalarti [VAR 0101(0000)]!
 sp_mystery_0035_1	Benvenuti a Luminopoli: regalo nº 3!
 sp_mystery_0035_2	Hai collegato Leggende Pokémon: Z-A a Pokémon HOME!\nPer festeggiare, vogliamo regalarti [VAR 0101(0000)]!
+sp_mystery_0036_1	Pokédex di un gioco completato! ⑥
+sp_mystery_0036_2	Hai completato il Pokédex di Luminopoli, il Megadex e\nil Pokédex dimensionale!\nPer festeggiare, vogliamo regalarti uno speciale\n[VAR 0101(0000)]!
 sp_mystery_card_0001_1	Benvenuti ai PJCS 2025!
 sp_mystery_card_0001_2	Inserisci il codice seriale in Pokémon Scarlatto\no Pokémon Violetto e ricevi [VAR 0101(0000)],\nuno dei membri chiave della squadra vincente\nper la categoria Senior ai WCS 2024!
 sp_mystery_card_0002_1	Benvenuti all'evento secondario dei PJCS 2025!
@@ -8094,6 +8096,10 @@ sp_oak_softdic_comp_005_001	Bene bene, sono sempre più vicino a realizzare il m
 sp_oak_softdic_comp_005_002	A quanto pare hai registrato tutti i Pokémon del Pokédex\ndi Kanto!
 sp_oak_softdic_comp_005_003	Ho fatto proprio bene a rivolgermi a te!
 sp_oak_softdic_comp_005_004	Bene bene, spero di poter contare sul tuo aiuto anche in futuro!
+sp_oak_softdic_comp_006_001	Bene bene, sono sempre più vicino a realizzare il mio sogno\ndi registrare nel Pokédex tutti i Pokémon esistenti!
+sp_oak_softdic_comp_006_002	A quanto pare hai registrato tutti i Pokémon del Pokédex di\nLuminopoli, del Megadex e del Pokédex dimensionale!
+sp_oak_softdic_comp_006_003	Ho fatto proprio bene a rivolgermi a te!
+sp_oak_softdic_comp_006_004	Bene bene, spero di poter contare sul tuo aiuto anche in futuro!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_ita.msbt

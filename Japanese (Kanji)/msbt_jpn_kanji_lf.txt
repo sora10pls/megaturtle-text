@@ -8041,6 +8041,8 @@ sp_mystery_0034_1	『Pokémon LEGENDS Z-A』\n連携記念！②
 sp_mystery_0034_2	『Pokémon LEGENDS Z-A』と\n『Pokémon HOME』を　連携させた！\n記念に　[VAR 0101(0000)]を　プレゼント！
 sp_mystery_0035_1	『Pokémon LEGENDS Z-A』\n連携記念！③
 sp_mystery_0035_2	『Pokémon LEGENDS Z-A』と\n『Pokémon HOME』を　連携させた！\n記念に　[VAR 0101(0000)]を　プレゼント！
+sp_mystery_0036_1	ソフト図鑑完成記念！⑥
+sp_mystery_0036_2	ソフト図鑑の　「ミアレ図鑑」「メガシンカ図鑑」\n「異次元図鑑」を　完成させた！\n記念に　特別な　[VAR 0101(0000)]を　プレゼント！
 sp_mystery_card_0001_1	「PJCS2025」来場記念！
 sp_mystery_card_0001_2	『ポケモン スカーレット・バイオレット』に\nシリアルコードを　入力して\n「WCS2024」シニアカテゴリチャンピオンの\n手持ちポケモンとして　活躍した\n「[VAR 0101(0000)]」を受け取ろう！
 sp_mystery_card_0002_1	「PJCS2025」サイドイベント参加記念！
@@ -8094,6 +8096,10 @@ sp_oak_softdic_comp_005_001	オーケイ！　私の夢\nすべての　ポケ�
 sp_oak_softdic_comp_005_002	「カントー図鑑」の\nすべての　ポケモンを　登録してくれたようだな！
 sp_oak_softdic_comp_005_003	キミに　お願いして　本当に　良かった！
 sp_oak_softdic_comp_005_004	オーケイ！　これからも\n図鑑登録を　よろしく　頼むぞ！
+sp_oak_softdic_comp_006_001	オーケイ！　私の夢\nすべての　ポケモンの　図鑑登録に\nまた一歩　近づいたぞ！
+sp_oak_softdic_comp_006_002	「ミアレ図鑑」「メガシンカ図鑑」\n「異次元図鑑」の\nすべての　ポケモンを　登録してくれたようだな！
+sp_oak_softdic_comp_006_003	キミに　お願いして　本当に　良かった！
+sp_oak_softdic_comp_006_004	オーケイ！　これからも\n図鑑登録を　よろしく　頼むぞ！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_jpn_kanji.msbt

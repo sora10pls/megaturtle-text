@@ -8041,6 +8041,8 @@ sp_mystery_0034_1	Pokémon LEGENDS Z-A 연동 기념! ②
 sp_mystery_0034_2	Pokémon LEGENDS Z-A와 Pokémon HOME을 연동했다! 기념으로 [VAR 0101(0000)][VAR 1900(0002)] 선물!
 sp_mystery_0035_1	Pokémon LEGENDS Z-A 연동 기념! ③
 sp_mystery_0035_2	Pokémon LEGENDS Z-A와 Pokémon HOME을 연동했다! 기념으로 [VAR 0101(0000)][VAR 1900(0002)] 선물!
+sp_mystery_0036_1	게임도감 완성 기념! ⑥
+sp_mystery_0036_2	게임도감 "미르도감", "메가진화도감", "이차원도감"을 완성했다! 기념으로 특별한 [VAR 0101(0000)][VAR 1900(0002)] 선물!
 sp_mystery_card_0001_1	PJCS2025 방문 기념!
 sp_mystery_card_0001_2	포켓몬스터스칼렛・바이올렛에서 시리얼 코드를 입력하고 WCS2024 시니어 카테고리 챔피언의 포켓몬으로 활약한 [VAR 0101(0000)][VAR 1900(0002)] 받아 주세요!
 sp_mystery_card_0002_1	PJCS2025 사이드 이벤트 참가 기념!
@@ -8094,6 +8096,10 @@ sp_oak_softdic_comp_005_001	오케이! 모든 포켓몬을 도감에 등록하�
 sp_oak_softdic_comp_005_002	"관동도감"의 모든 포켓몬을 등록해 줬구나!
 sp_oak_softdic_comp_005_003	너에게 부탁하길 정말 잘한 것 같단 말이지!
 sp_oak_softdic_comp_005_004	오케이! 앞으로도 열심히 도감을 등록해 주려무나!
+sp_oak_softdic_comp_006_001	오케이! 모든 포켓몬을 도감에 등록하겠다는 나의 꿈에 한 걸음 더 가까워졌군!
+sp_oak_softdic_comp_006_002	"미르도감", "메가진화도감", "이차원도감"의 모든 포켓몬을 등록해 줬구나!
+sp_oak_softdic_comp_006_003	너에게 부탁하길 정말 잘한 것 같단 말이지!
+sp_oak_softdic_comp_006_004	오케이! 앞으로도 열심히 도감을 등록해 주려무나!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_kor.msbt

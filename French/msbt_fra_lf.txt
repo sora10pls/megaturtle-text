@@ -8041,6 +8041,8 @@ sp_mystery_0034_1	Un cadeau venu d'Illumis ! ②
 sp_mystery_0034_2	Pour fêter la synchronisation de Légendes Pokémon : Z-A\navec Pokémon HOME, nous vous offrons un [VAR 0101(0000)] !
 sp_mystery_0035_1	Un cadeau venu d'Illumis ! ③
 sp_mystery_0035_2	Pour fêter la synchronisation de Légendes Pokémon : Z-A\navec Pokémon HOME, nous vous offrons un [VAR 0101(0000)] !
+sp_mystery_0036_1	Félicitations ! Vous avez complété les Pokédex d'un jeu ! ⑥
+sp_mystery_0036_2	Vous avez complété le Pokédex d'Illumis,\nle Méga-Dex et l'Extra Dex !\nEn récompense, nous vous offrons\nun [VAR 0101(0000)] spécial !
 sp_mystery_card_0001_1	Cadeau pour votre visite aux PJCS 2025 !
 sp_mystery_card_0001_2	Saisissez le code dans Pokémon Écarlate ou Pokémon Violet\npour recevoir [VAR 0101(0000)], un des Pokémon phares\nde l'équipe gagnante de la catégorie senior des CMP 2024 !
 sp_mystery_card_0002_1	Cadeau de participation à l'évèn. sec. des PJCS 2025 !
@@ -8094,6 +8096,10 @@ sp_oak_softdic_comp_005_001	C'est trop sensass ! Mon rêve d'avoir les entrées
 sp_oak_softdic_comp_005_002	Tu as enregistré tous les Pokémon du Pokédex de Kanto, pas vrai ?
 sp_oak_softdic_comp_005_003	Je savais que je pouvais compter sur toi !
 sp_oak_softdic_comp_005_004	Allez, continue comme ça ! Tu fais un boulot vraiment sensass !
+sp_oak_softdic_comp_006_001	C'est trop sensass ! Mon rêve d'avoir les entrées Pokédex de\ntous les Pokémon semble encore un peu plus à portée de main !
+sp_oak_softdic_comp_006_002	Tu as enregistré tous les Pokémon du Pokédex d'Illumis,\ndu Méga-Dex et de l'Extra Dex, pas vrai ?
+sp_oak_softdic_comp_006_003	Je savais que je pouvais compter sur toi !
+sp_oak_softdic_comp_006_004	Allez, continue comme ça ! Tu fais un boulot vraiment sensass !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_fra.msbt

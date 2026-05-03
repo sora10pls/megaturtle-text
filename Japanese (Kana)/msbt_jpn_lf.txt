@@ -8041,6 +8041,8 @@ sp_mystery_0034_1	『Pokémon LEGENDS Z-A』\nれんけいきねん！②
 sp_mystery_0034_2	『Pokémon LEGENDS Z-A』と\n『Pokémon HOME』を　れんけいさせた！\nきねんに　[VAR 0101(0000)]を　プレゼント！
 sp_mystery_0035_1	『Pokémon LEGENDS Z-A』\nれんけいきねん！③
 sp_mystery_0035_2	『Pokémon LEGENDS Z-A』と\n『Pokémon HOME』を　れんけいさせた！\nきねんに　[VAR 0101(0000)]を　プレゼント！
+sp_mystery_0036_1	ソフトずかんかんせいきねん！⑥
+sp_mystery_0036_2	ソフトずかんの　「ミアレずかん」「メガシンカずかん」\n「いじげんずかん」を　かんせいさせた！\nきねんに　とくべつな　[VAR 0101(0000)]を　プレゼント！
 sp_mystery_card_0001_1	「PJCS2025」らいじょうきねん！
 sp_mystery_card_0001_2	『ポケモン スカーレット・バイオレット』に\nシリアルコードを　にゅうりょくして\n「WCS2024」シニアカテゴリチャンピオンの\nてもちポケモンとして　かつやくした\n「[VAR 0101(0000)]」をうけとろう！
 sp_mystery_card_0002_1	「PJCS2025」サイドイベントさんかきねん！
@@ -8094,6 +8096,10 @@ sp_oak_softdic_comp_005_001	オーケイ！　わたしのゆめ\nすべての�
 sp_oak_softdic_comp_005_002	「カントーずかん」の　すべての　ポケモンを\nとうろく　してくれた　ようだな！
 sp_oak_softdic_comp_005_003	キミに　おねがいして　ほんとうに　よかった！
 sp_oak_softdic_comp_005_004	オーケイ！　これからも\nずかん　とうろくを　よろしく　たのむぞ！
+sp_oak_softdic_comp_006_001	オーケイ！　わたしのゆめ\nすべての　ポケモンの　ずかん　とうろくに\nまたいっぽ　ちかづいたぞ！
+sp_oak_softdic_comp_006_002	「ミアレずかん」「メガシンカずかん」\n「いじげんずかん」の　すべての　ポケモンを\nとうろく　してくれた　ようだな！
+sp_oak_softdic_comp_006_003	キミに　おねがいして　ほんとうに　よかった！
+sp_oak_softdic_comp_006_004	オーケイ！　これからも\nずかん　とうろくを　よろしく　たのむぞ！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_jpn.msbt

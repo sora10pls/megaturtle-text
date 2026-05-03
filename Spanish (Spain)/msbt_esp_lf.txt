@@ -8041,6 +8041,8 @@ sp_mystery_0034_1	¡Conexión con Ciudad Luminalia n.º 2!
 sp_mystery_0034_2	Para celebrar que has conectado Leyendas Pokémon: Z-A\ncon Pokémon HOME, ¡te regalamos este [VAR 0101(0000)]!
 sp_mystery_0035_1	¡Conexión con Ciudad Luminalia n.º 3!
 sp_mystery_0035_2	Para celebrar que has conectado Leyendas Pokémon: Z-A\ncon Pokémon HOME, ¡te regalamos este [VAR 0101(0000)]!
+sp_mystery_0036_1	¡Has completado la Pokédex de un juego! ⑥
+sp_mystery_0036_2	¡Has completado la Pokédex de Luminalia, la MegaDex\ny la Pokédex Dimensional!\n¡Te regalamos un [VAR 0101(0000)] especial para celebrarlo!
 sp_mystery_card_0001_1	¡Asistencia al PJCS 2025!
 sp_mystery_card_0001_2	¡Introduce el código en Pokémon Escarlata o\nPokémon Púrpura para recibir a [VAR 0101(0000)],\nun Pokémon clave del equipo ganador en la categoría\nsénior del Campeonato Mundial Pokémon de 2024!
 sp_mystery_card_0002_1	¡Participación en un evento del PJCS 2025!
@@ -8094,6 +8096,10 @@ sp_oak_softdic_comp_005_001	¡Fenomenal! ¡Cada vez estoy más cerca de registra
 sp_oak_softdic_comp_005_002	¡Veo que has registrado todos los Pokémon de la Pokédex de\nKanto!
 sp_oak_softdic_comp_005_003	¡Desde luego, pedirte que me ayudaras fue todo un acierto!
 sp_oak_softdic_comp_005_004	¡Perfecto! ¡Espero que sigas haciéndolo igual de bien!
+sp_oak_softdic_comp_006_001	¡Fenomenal! ¡Cada vez estoy más cerca de registrar todos los\nPokémon y ver cumplido mi sueño!
+sp_oak_softdic_comp_006_002	¡Veo que has registrado todos los Pokémon de la Pokédex de\nLuminalia, la Pokédex Dimensional y la MegaDex!
+sp_oak_softdic_comp_006_003	¡Desde luego, pedirte que me ayudaras fue todo un acierto!
+sp_oak_softdic_comp_006_004	¡Perfecto! ¡Espero que sigas haciéndolo igual de bien!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_option_esp.msbt
