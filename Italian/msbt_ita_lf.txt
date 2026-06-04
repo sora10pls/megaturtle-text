@@ -8043,6 +8043,8 @@ sp_mystery_0035_1	Benvenuti a Luminopoli: regalo nº 3!
 sp_mystery_0035_2	Hai collegato Leggende Pokémon: Z-A a Pokémon HOME!\nPer festeggiare, vogliamo regalarti [VAR 0101(0000)]!
 sp_mystery_0036_1	Pokédex di un gioco completato! ⑥
 sp_mystery_0036_2	Hai completato il Pokédex di Luminopoli, il Megadex e\nil Pokédex dimensionale!\nPer festeggiare, vogliamo regalarti uno speciale\n[VAR 0101(0000)]!
+sp_mystery_0037_1	Benvenuti ai PJCS 2026!
+sp_mystery_0037_2	Hai visitato i PJCS 2026! Per festeggiare, vogliamo regalarti\n[VAR 0101(0000)], un Pokémon che ha davvero dimostrato\nil suo potenziale durante le qualificazioni ai PJCS 2026!
 sp_mystery_card_0001_1	Benvenuti ai PJCS 2025!
 sp_mystery_card_0001_2	Inserisci il codice seriale in Pokémon Scarlatto\no Pokémon Violetto e ricevi [VAR 0101(0000)],\nuno dei membri chiave della squadra vincente\nper la categoria Senior ai WCS 2024!
 sp_mystery_card_0002_1	Benvenuti all'evento secondario dei PJCS 2025!
@@ -8051,6 +8053,8 @@ sp_mystery_card_0003_1	Festeggiamo l'apertura del Pokémon Center\nKAGAWA!
 sp_mystery_card_0003_2	Scadenza codice seriale: 31/01/2026\n\nInserisci il codice seriale in Leggende Pokémon: Z-A\ne ricevi [VAR 0101(0000)] per festeggiare l'apertura\ndel Pokémon Center KAGAWA!
 sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025-2026 Audino
 sp_mystery_card_0004_2	Scadenza codice seriale: 31/01/2027\n\nBuon compleanno! Per festeggiare, vogliamo regalarti\n[VAR 0101(0000)]!
+sp_mystery_card_0005_1	Benvenuti all'evento secondario dei PJCS 2026!
+sp_mystery_card_0005_2	Grazie per aver partecipato a questo evento!\nInserisci il codice seriale in Leggende Pokémon: Z-A\ne ricevi 100 Megaframmenti!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt

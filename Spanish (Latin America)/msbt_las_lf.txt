@@ -8043,6 +8043,8 @@ sp_mystery_0035_1	¡Conexión con Ciudad Luminalia n.º 3!
 sp_mystery_0035_2	Para celebrar que conectaste Leyendas Pokémon: Z-A\ncon Pokémon HOME, ¡te regalamos este [VAR 0101(0000)]!
 sp_mystery_0036_1	¡Completaste el Pokédex de un juego! ⑥
 sp_mystery_0036_2	¡Completaste el Pokédex de Luminalia, el MegaDex\ny el Pokédex Dimensional!\n¡Te regalamos un [VAR 0101(0000)] especial para celebrarlo!
+sp_mystery_0037_1	¡Asistencia al PJCS 2026!
+sp_mystery_0037_2	Para celebrar tu asistencia al PJCS 2026, ¡te regalamos\neste [VAR 0101(0000)], un Pokémon que hizo gala de un\ngran potencial en el torneo de clasificación para el\nPJCS 2026!
 sp_mystery_card_0001_1	¡Asistencia al PJCS 2025!
 sp_mystery_card_0001_2	¡Ingresa el código en Pokémon Scarlet o\nPokémon Violet para recibir a [VAR 0101(0000)],\nun Pokémon clave del equipo ganador en la categoría\nsénior del Campeonato Mundial Pokémon de 2024!
 sp_mystery_card_0002_1	¡Participación en un evento del PJCS 2025!
@@ -8051,6 +8053,8 @@ sp_mystery_card_0003_1	¡Celebración por la apertura de Pokémon Center\nKAGAWA
 sp_mystery_card_0003_2	[Código válido hasta el 31 de enero de 2026]\n\n¡Ingresa el código en Leyendas Pokémon: Z-A para recibir\nun [VAR 0101(0000)] como regalo de celebración por la\napertura de Pokémon Center KAGAWA!
 sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025–2026 Audino
 sp_mystery_card_0004_2	[Código válido hasta el 31 de enero de 2027]\n\n¡Feliz cumpleaños! ¡Te regalamos un [VAR 0101(0000)] para\ncelebrarlo!
+sp_mystery_card_0005_1	¡Participación en un evento del PJCS 2026!
+sp_mystery_card_0005_2	¡Gracias por participar en este evento secundario!\n¡Ingresa el código en Leyendas Pokémon: Z-A\npara recibir 100 Megafragmentos!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_las.msbt
