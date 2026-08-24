@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY 2025～2026「差不多娃
 sp_mystery_card_0004_2	【序號輸入期限：2027/01/31】  生日快樂！ 送你「[VAR 0101(0000)]」作為祝賀！
 sp_mystery_card_0005_1	「PJCS2026」周邊活動 參加紀念！
 sp_mystery_card_0005_2	感謝你參加活動！ 在『寶可夢傳說 Z-A』輸入序號， 接收「超級碎片100個」吧！
+sp_mystery_card_0006_1	「WCS2026」來場紀念！
+sp_mystery_card_0006_2	在『寶可夢傳說 Z-A』輸入序號， 接收「WCS2026」的來場紀念 「[VAR 0101(0000)]」吧！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_tch.msbt

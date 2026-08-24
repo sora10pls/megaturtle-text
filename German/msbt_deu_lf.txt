@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025-2026 Ohrdoch
 sp_mystery_card_0004_2	[Ablaufdatum des Seriencodes: 31. Januar 2027]\n\nHerzlichen Glückwunsch zum Geburtstag!\nHier ist zur Feier ein [VAR 0101(0000)] als Geschenk!
 sp_mystery_card_0005_1	Teilnahme-Geschenk für ein Nebenevent\nder PJCS 2026!
 sp_mystery_card_0005_2	Danke für deine Teilnahme an diesem Event!\nGib den Seriencode in Pokémon-Legenden: Z-A ein\nund erhalte 100 Mega-Splitter!
+sp_mystery_card_0006_1	Geschenk für den Besuch der Worlds 2026!
+sp_mystery_card_0006_2	Gib den Seriencode in Pokémon-Legenden: Z-A ein,\num ein [VAR 0101(0000)] als Andenken an deinen Besuch\nder Pokémon-Weltmeisterschaften 2026 zu erhalten!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_deu.msbt

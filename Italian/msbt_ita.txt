@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY 2025-2026 Audino
 sp_mystery_card_0004_2	Scadenza codice seriale: 31/01/2027  Buon compleanno! Per festeggiare, vogliamo regalarti [VAR 0101(0000)]!
 sp_mystery_card_0005_1	Benvenuti all'evento secondario dei PJCS 2026!
 sp_mystery_card_0005_2	Grazie per aver partecipato a questo evento! Inserisci il codice seriale in Leggende Pokémon: Z-A e ricevi 100 Megaframmenti!
+sp_mystery_card_0006_1	Benvenuti ai Mondiali 2026!
+sp_mystery_card_0006_2	Inserisci il codice seriale in Leggende Pokémon: Z-A e ricevi [VAR 0101(0000)] in regalo per aver visitato i Campionati Mondiali Pokémon 2026!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_ita.msbt

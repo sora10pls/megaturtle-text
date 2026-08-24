@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	ポケモンセンターわくわくおたんじょうび
 sp_mystery_card_0004_2	【シリアルにゅうりょくきげん：2027/01/31】\n\nおたんじょうびおめでとう！\nおいわいに　「[VAR 0101(0000)]」を　プレゼント！
 sp_mystery_card_0005_1	「PJCS2026」サイドイベント\nさんかきねん！
 sp_mystery_card_0005_2	イベントさんか　ありがとう！\n『Pokémon LEGENDS Z-A』に\nシリアルコードを　にゅうりょくして\n「メガカケラ100こ」をうけとろう！
+sp_mystery_card_0006_1	「WCS2026」らいじょうきねん！
+sp_mystery_card_0006_2	『Pokémon LEGENDS Z-A』に\nシリアルコードを　にゅうりょくして\n「WCS2026」らいじょうきねんの\n「[VAR 0101(0000)]」をうけとろう！
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_jpn.msbt

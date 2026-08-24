@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025–2026 Audino
 sp_mystery_card_0004_2	[Code expiration date: Jan. 31, 2027]\n\nHappy birthday! To celebrate, here's [VAR 0101(0000)] as\na gift!
 sp_mystery_card_0005_1	PJCS2026 Side Event Participation Gift!
 sp_mystery_card_0005_2	Thank you for participating in this event! Enter the code in\nPokémon Legends: Z-A to receive 100 Mega Shards!
+sp_mystery_card_0006_1	Gift for Visiting 2026 Worlds!
+sp_mystery_card_0006_2	Enter the code in Pokémon Legends: Z-A to receive\n[VAR 0101(0000)] and commemorate your visit to the\n2026 Pokémon World Championships!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_usa.msbt

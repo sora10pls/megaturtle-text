@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY\n2025–2026 Audino
 sp_mystery_card_0004_2	[Código válido hasta el 31 de enero de 2027]\n\n¡Feliz cumpleaños! ¡Te regalamos un [VAR 0101(0000)] para\ncelebrarlo!
 sp_mystery_card_0005_1	¡Participación en un evento del PJCS 2026!
 sp_mystery_card_0005_2	¡Gracias por participar en este evento secundario!\n¡Introduce el código en Leyendas Pokémon: Z-A\npara recibir 100 Megaesquirlas!
+sp_mystery_card_0006_1	¡Asistencia al Mundial 2026!
+sp_mystery_card_0006_2	¡Introduce el código en Leyendas Pokémon: Z-A para recibir\nun [VAR 0101(0000)] como regalo por haber asistido al\nCampeonato Mundial Pokémon 2026!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_esp.msbt

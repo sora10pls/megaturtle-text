@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	포켓몬센터 두근두근 생일 축하 2025-2026 다�
 sp_mystery_card_0004_2	【시리얼 코드 입력 기한: 2027. 01. 31.】  생일 축하합니다! 기념으로 [VAR 0101(0000)][VAR 1900(0002)] 선물!
 sp_mystery_card_0005_1	PJCS2026 사이드 이벤트 참가 기념!
 sp_mystery_card_0005_2	이벤트에 참가해 주셔서 감사합니다! Pokémon LEGENDS Z-A에서 시리얼 코드를 입력하고 메가조각 100개를 받아 주세요!
+sp_mystery_card_0006_1	WCS2026 방문 기념!
+sp_mystery_card_0006_2	Pokémon LEGENDS Z-A에서 시리얼 코드를 입력하고 WCS2026 방문 기념 선물인 [VAR 0101(0000)][VAR 1900(0002)] 받아 주세요!
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_kor.msbt

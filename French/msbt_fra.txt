@@ -8055,6 +8055,8 @@ sp_mystery_card_0004_1	Pokémon Center HAPPY BIRTHDAY 2025-2026 : Nanméouïe
 sp_mystery_card_0004_2	[Code valide jusqu'au 31 janvier 2027]  Joyeux anniversaire ! Voici un [VAR 0101(0000)] pour fêter l'occasion !
 sp_mystery_card_0005_1	Cadeau pour votre participation à l'évènement secondaire des PJCS 2026 !
 sp_mystery_card_0005_2	Merci d'avoir participé à cet évènement ! Saisissez ce code dans Légendes Pokémon : Z-A pour recevoir 100 Méga-Fragments !
+sp_mystery_card_0006_1	Cadeau pour votre venue aux Mondiaux 2026 !
+sp_mystery_card_0006_2	Saisissez le code dans Légendes Pokémon : Z-A pour recevoir un [VAR 0101(0000)] à l'occasion de votre venue aux Championnats du Monde Pokémon 2026 !
 
 ~~~~~~~~~~~~~~~
 Text File : sp_oak_fra.msbt
